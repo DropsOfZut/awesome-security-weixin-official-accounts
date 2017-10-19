@@ -2,7 +2,7 @@
 网络安全类公众号推荐
 
 - [目录分类]()
-	- [媒体社区类](/media.md)
+	- [媒体社区类](#媒体社区类)
 	- [安全公司类](/org.md)
 	- [CTF类](/ctf.md)
 	- [个人类](/person.md)
@@ -14,5 +14,16 @@
 
 ---
 
+## [媒体社区类](/media.md)
+
+*媒体、社区*
+
+* [Freebuf](/media.md#Freebuf)
+
+## [CTF类](/ctf.md)
+
+*CTF*
+
+* [CTFer的魔法棒](/ctf.md#CTFer的魔法棒)
 ## Contribution
 ## License
