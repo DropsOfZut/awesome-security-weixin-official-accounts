@@ -1,5 +1,6 @@
 
 ###Âí¸çLinuxÔËÎ¬
+
 ºÙ£¡µÈÄãºÃ¾ÃÁË¡£Âí¸çLinuxÔËÎ¬Ä¿Ç°ÓÐ½ü10ÍòÐ¡»ï°éÔÚÕâÀïÑ§Ï°ºÍ³É³¤£¬ÎÒÃÇÃ¿ÌìÎªÄã³ÊÉÏLinuxÔËÎ¬¹¤³ÌÊ¦³¬°®µÄLinuxÑ§Ï°½Ì³Ì¡¢LinuxÅàÑµÊÓÆµ£¬»¹¿ÉÒÔÃâ·ÑÄÃLinux¡¢Python¡¢´óÊý¾ÝµÄÇ°ÑØÊµÕ½¸É»õ£¬Ò»ÆðÀ´°É£¡
 
 Î¢ÐÅºÅ£ºmagedu-Linux
@@ -8,6 +9,7 @@
 ---
 
 ###LinuxÖÐ¹ú
+
 Ê®Íò¼¶¼¼Êõ¶©ÔÄºÅ£¬ÒÀÍÐÓÚ¡ºLinuxÖÐ¹ú¡»£¨https://linux.cn/£©ÉçÇø£¬×¨×¢ÓÚ Linux Ñ§Ï°¡¢¼¼ÊõÑÐ¾¿¡¢¿ªÔ´Ë¼Ïë´«²¥¡£
 
 Î¢ÐÅºÅ£ºlinux-cn
@@ -16,6 +18,7 @@
 ---
 
 ###ÔËÎ¬
+
 ¹Ø×¢»¥ÁªÍøÔËÎ¬¼¼Êõ£¬·ÖÏíÖªÊ¶
 
 Î¢ÐÅºÅ£ºOperation1024
@@ -24,6 +27,7 @@
 ---
 
 ###ÔËÎ¬»ï°é
+
 ÃæÏòÔËÎ¬ÈËÔ±µÄ´¹Ö±¹«ÖÚºÅ£¬ÄÚÈÝåàÑ¡×Ô¡°LinuxÖÐ¹ú¡±¼°ÆäËüÀ´Ô´£¬Ã¿ÖÜÍÆËÍÔËÎ¬·½ÃæµÄÖØÒª×ÊÑ¶ºÍ¼¼ÊõÑÐÏ°ÎÄÕÂ¸ø´ó¼Ò¡£
 
 Î¢ÐÅºÅ£ºOpsSays
@@ -32,6 +36,7 @@
 ---
 
 ###ÔËÎ¬°ï
+
 »¥ÁªÍø¼¼Êõ·ÖÏíÆ½Ì¨£¬·ÖÏíµÄÁ¦Á¿¡£°ïÖ÷Ò»Ö±¼áÐÅ¼¼Êõ¿ÉÒÔ¸Ä±äÊÀ½ç£¬´Ó±ÏÒµµ½ÏÖÔÚ¸ÉÁË15ÄêÔËÎ¬£¬ÓÐÐí¶à»°ÒªºÍÄãËµ¡£
 
 Î¢ÐÅºÅ£ºyunweibang
@@ -40,6 +45,7 @@
 ---
 
 ###LinuxÑ§Ï°
+
 LinuxÌ½ÌÖÑ§Ï°£¬¼¼Êõ×ÊÑ¶·ÖÏí
 
 Î¢ÐÅºÅ£ºLoveLinux1024
@@ -48,6 +54,7 @@ LinuxÌ½ÌÖÑ§Ï°£¬¼¼Êõ×ÊÑ¶·ÖÏí
 ---
 
 ###¸ßÐ§ÔËÎ¬
+
 ¸ßÐ§ÔËÎ¬¹«ÖÚºÅÓÉÏôÌï¹ú¼°ÅóÓÑÃÇÎ¬»¤£¬¾­³£·¢²¼¸÷ÖÖ¹ãÎª´«²¥µÄÓÅÐãÔ­´´¼¼ÊõÎÄÕÂ£¬¹Ø×¢ÔËÎ¬×ªÐÍ£¬Åã°éÄúµÄÔËÎ¬Ö°ÒµÉúÑÄ£¬Ò»ÆðÓä¿ìµÎ·¢Õ¹¡£
 
 Î¢ÐÅºÅ£ºgreatops
@@ -56,6 +63,7 @@ LinuxÌ½ÌÖÑ§Ï°£¬¼¼Êõ×ÊÑ¶·ÖÏí
 ---
 
 ###¸ßÐ§¿ª·¢ÔËÎ¬
+
 InfoQÔËÎ¬ÁìÓò´¹Ö±ºÅ¡£³£¹æÔËÎ¬¡¢Òà»òÊÇáÈÆðµÄDevOps£¬Ì½ÌÖÈçºÎIT½»¸¶ÊµÏÖ¼ÛÖµ¡£Å¬Á¦Îª¼¼ÊõÈË³ÊÏÖÓÐÊµ¼ùÒâÒåµÄÄÚÈÝ~
 
 Î¢ÐÅºÅ£ºDevOpsGeek
@@ -64,6 +72,7 @@ InfoQÔËÎ¬ÁìÓò´¹Ö±ºÅ¡£³£¹æÔËÎ¬¡¢Òà»òÊÇáÈÆðµÄDevOps£¬Ì½ÌÖÈçºÎIT½»¸¶ÊµÏÖ¼ÛÖµ¡£Å¬Á¦Î
 ---
 
 ###»¥ÁªÍøÔËÎ¬ÔÓÌ¸
+
 ·ÖÏíÒ»ÏÂ×Ô¼º7Äê¶àµÄ»¥ÁªÍøÔËÎ¬µÄ¾­Ñé£¬Å¼¶û·ÖÏíÒ»ÏÂ×Ô¼ºµÄÐÄÇé£¬¹Ø¼üÊÇÏëºÍ´ó¼Ò½¨Á¢Ò»¸ö½»Á÷µÄÆ½Ì¨¡£
 
 Î¢ÐÅºÅ£ºwaynewang_ops
