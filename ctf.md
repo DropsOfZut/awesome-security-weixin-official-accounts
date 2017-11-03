@@ -1,49 +1,25 @@
-### CTFer的魔法棒1
-CTFer的魔法棒，你的CTF参赛指南。 查看比赛日程、学习竞赛相关知识应有尽有
 
-微信号： ff
+###CTFer��ħ����
+CTFer��ħ���������CTF����ָ�ϡ� �鿴�����ճ̡�ѧϰ�������֪ʶӦ�о���
 
-![CTFer的魔法棒](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzIzMzY0NTIzOA==&mid=2247484403&idx=1&sn=b4ede3a85db64850b60d71d0ed302141&send_time=)
+΢�źţ�
+
+![΢�ź�](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzIzMzY0NTIzOA==&mid=100000483&idx=1&sn=0832a2e45350c3f367a17fc1cf416e26&send_time=)
 ---
-### CTFer的魔法棒2
-CTFer的魔法棒，你的CTF参赛指南。 查看比赛日程、学习竞赛相关知识应有尽有
 
-微信号： ff
+###XCTF����
+XCTF�������ڹ��ʷ�Χ��Ҫ��Դ�ѧ�������簲ȫ�����Կ����������ں���Ҫ��������XCTF�������򣬾��ʻ������ѵ��Ӫ�ȣ��Դ��������ۼ��������簲ȫ������Ȥ�ߣ�Ϊ����ռ䰲ȫ��������Ķ����˲š�
 
-![CTFer的魔法棒](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzIzMzY0NTIzOA==&mid=2247484403&idx=1&sn=b4ede3a85db64850b60d71d0ed302141&send_time=)
+΢�źţ�
+
+![΢�ź�](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MjM5NDU3MjExNw==&mid=2247485475&idx=1&sn=356112856b12a54f4c424a7da279f6d1&send_time=)
 ---
-### CTFer的魔法棒3
-CTFer的魔法棒，你的CTF参赛指南。 查看比赛日程、学习竞赛相关知识应有尽有
 
-微信号： ff
+###�ֹ���
+1990�꣬������Զ����Hubble Space Telescope���������գ����������������ռ��ո��̽���� ���ڣ�Pwnhub�ĳ��֣���������Щ�����簲ȫ����Ȥ������̽����0 1�������е����ް��ء�
 
-![CTFer的魔法棒](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzIzMzY0NTIzOA==&mid=2247484403&idx=1&sn=b4ede3a85db64850b60d71d0ed302141&send_time=)
+΢�źţ�pwnhub
+
+![΢�ź�](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzI2OTUzMzg3Ng==&mid=2247483708&idx=1&sn=ebb344ca9c83a5b42980e0fc483e7175&send_time=)
 ---
-### CTFer的魔法棒4
-CTFer的魔法棒，你的CTF参赛指南。 查看比赛日程、学习竞赛相关知识应有尽有
 
-微信号： ff
-
-![CTFer的魔法棒](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzIzMzY0NTIzOA==&mid=2247484403&idx=1&sn=b4ede3a85db64850b60d71d0ed302141&send_time=)
----
-### CTFer的魔法棒5
-CTFer的魔法棒，你的CTF参赛指南。 查看比赛日程、学习竞赛相关知识应有尽有
-
-微信号： ff
-
-![CTFer的魔法棒](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzIzMzY0NTIzOA==&mid=2247484403&idx=1&sn=b4ede3a85db64850b60d71d0ed302141&send_time=)
----
-### CTFer的魔法棒6
-CTFer的魔法棒，你的CTF参赛指南。 查看比赛日程、学习竞赛相关知识应有尽有
-
-微信号： ff
-
-![CTFer的魔法棒](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzIzMzY0NTIzOA==&mid=2247484403&idx=1&sn=b4ede3a85db64850b60d71d0ed302141&send_time=)
----
-### CTFer的魔法棒7
-CTFer的魔法棒，你的CTF参赛指南。 查看比赛日程、学习竞赛相关知识应有尽有
-
-微信号： ff
-
-![CTFer的魔法棒](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzIzMzY0NTIzOA==&mid=2247484403&idx=1&sn=b4ede3a85db64850b60d71d0ed302141&send_time=)
----

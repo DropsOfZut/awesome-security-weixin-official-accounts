@@ -1,14 +1,50 @@
-### å®‰åå°å¤©ä½¿
-æ­å·ç”µå­ç§‘æŠ€å¤§å­¦Vidar-Team (åŸä¿¡æ¯å®‰å…¨åä¼šHDUISA&ç½‘ç»œç©ºé—´å®‰å…¨åä¼š)æ¶ˆæ¯åŠ©æ‰‹
 
-å¾®ä¿¡å·ï¼š
+###DROPS¹¥·ÀÑµÁ·Óª
+ÖĞÔ­¹¤Ñ§Ôº£¨ZUT£©¹¥·À¼¼ÊõÍÅ¶Ó
 
-![å®‰åå°å¤©ä½¿](https://mp.weixin.qq.com/mp/qrcode?scene=10000005&size=102&__biz=MzIxNDU2ODg3Mw==&mid=100000026&idx=1&sn=9f791832a076ace38e23ab87fd16f9c3&send_time=)
+Î¢ĞÅºÅ£ºdropsec
+
+![Î¢ĞÅºÅ](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzA3NjE0Mzk2OA==&mid=2648922065&idx=1&sn=e92a8cd01deb869839284ec3aa53e2d7&send_time=)
 ---
 
-### DROPSæ”»é˜²è®­ç»ƒè¥
-ä¸­åŸå·¥å­¦é™¢ï¼ˆZUTï¼‰æ”»é˜²æŠ€æœ¯å›¢é˜Ÿ
+###°²Ğ­Ğ¡ÌìÊ¹
+º¼Öİµç×Ó¿Æ¼¼´óÑ§Vidar-Team (Ô­ĞÅÏ¢°²È«Ğ­»áHDUISA&amp;ÍøÂç¿Õ¼ä°²È«Ğ­»á)  ÏûÏ¢ÖúÊÖ
 
-å¾®ä¿¡å·ï¼šdropsec
+Î¢ĞÅºÅ£º
 
-![DROPSæ”»é˜²è®­ç»ƒè¥](https://mp.weixin.qq.com/mp/qrcode?scene=10000005&size=102&__biz=MzA3NjE0Mzk2OA==&mid=202496910&idx=1&sn=6be3b4a17afedb491f556c1f2e778632&send_time=)
+![Î¢ĞÅºÅ](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzIxNDU2ODg3Mw==&mid=100000026&idx=1&sn=9f791832a076ace38e23ab87fd16f9c3&send_time=)
+---
+
+###HenceTech
+ºÆ×Ó¸çµÄ¸öÈË¹«ÖÚºÅ
+
+Î¢ĞÅºÅ£º
+
+![Î¢ĞÅºÅ](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzI4NjYwMTQ1Ng==&mid=2247483751&idx=1&sn=2dd85eb899b5f0b6d533ddee9c08abcc&send_time=)
+---
+
+###Çå»ª´óÑ§Ñ§ÉúÍøÂç°²È«¼¼ÊõĞ­»á
+Çå»ª´óÑ§Ñ§ÉúÍøÂç°²È«¼¼ÊõĞ­»áĞÅÏ¢ÍÆËÍºÍ×ÊÔ´Æ½Ì¨
+
+Î¢ĞÅºÅ£ºTHUNST
+
+![Î¢ĞÅºÅ](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzA5MjUwOTY4Ng==&mid=2651804513&idx=1&sn=2ab5f7c0c2c85802be262ae6dceded16&send_time=)
+---
+
+###GWHackTeam
+¹ã¶«ÍâÓïÍâÃ³´óÑ§Ñ§ÉúÍøÂç°²È«ÊµÑéÊÒĞÅÏ¢ÍÆËÍºÍ×ÊÔ´Æ½Ì¨
+
+Î¢ĞÅºÅ£º
+
+![Î¢ĞÅºÅ](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzU2MTI2NDA5MA==&mid=2247483676&idx=1&sn=2a51e828abe1ef09c6cc9b5298b98ef0&send_time=)
+---
+
+###AD¹¥·À¹¤×÷ÊÒ
+¹ã¶«¹¤Òµ´óÑ§¼ÆËã»úÑ§ÔºA&amp;D£¨¹¥»÷Óë·ÀÓù£©¹¤×÷ÊÒ¡£
+
+Î¢ĞÅºÅ£ºgdutadlab
+
+![Î¢ĞÅºÅ](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzIzODEwMzAwMw==&mid=2647746421&idx=1&sn=699e9b6bb757aa9cc750cb23f64f2163&send_time=)
+---
+
+
