@@ -1,172 +1,172 @@
 
-### å®‰å…¨IT
+### °²È«IT
 
-ä¿¡æ¯å®‰å…¨æŠ€æœ¯ï¼Œè‡ªç”±åˆ†äº«å…±åŒè¿›æ­¥
+ĞÅÏ¢°²È«¼¼Êõ£¬×ÔÓÉ·ÖÏí¹²Í¬½ø²½
 
-å¾®ä¿¡å·ï¼šanquanit
+Î¢ĞÅºÅ£ºanquanit
 
-![å¾®ä¿¡å·](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzI0NDg1MTYzMQ==&mid=2247483701&idx=1&sn=f572e11ac8d2983992d640cfdf36fa53&send_time=)
+![Î¢ĞÅºÅ](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzI0NDg1MTYzMQ==&mid=2247483701&idx=1&sn=f572e11ac8d2983992d640cfdf36fa53&send_time=)
 ---
 
-### å®‰å…¨å°é£ä¾ 
+### °²È«Ğ¡·ÉÏÀ
 
-å®‰å…¨æ¼æ´ä¿¡æ¯æ’­æŠ¥å¹³å°ï¼Œä¸ºæ‚¨æä¾›æ–°é²œï¼Œä¸€æ‰‹çš„å®‰å…¨èµ„è®¯ä¸æ¼æ´è¯¦æƒ…ï¼Œ@å®‰å…¨å°é£ä¾  è£èª‰å‡ºå“ï¼Œæ¬¢è¿å…³æ³¨ï¼
+°²È«Â©¶´ĞÅÏ¢²¥±¨Æ½Ì¨£¬ÎªÄúÌá¹©ĞÂÏÊ£¬Ò»ÊÖµÄ°²È«×ÊÑ¶ÓëÂ©¶´ÏêÇé£¬@°²È«Ğ¡·ÉÏÀ ÈÙÓş³öÆ·£¬»¶Ó­¹Ø×¢£¡
 
-å¾®ä¿¡å·ï¼šAvFisher
+Î¢ĞÅºÅ£ºAvFisher
 
-![å¾®ä¿¡å·](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzAwMzAwOTQ5Nw==&mid=2650941259&idx=1&sn=7c4caf9aec41d0cdb7dadc59772d64d8&send_time=)
+![Î¢ĞÅºÅ](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzAwMzAwOTQ5Nw==&mid=2650941259&idx=1&sn=7c4caf9aec41d0cdb7dadc59772d64d8&send_time=)
 ---
 
-### å®‰å…¨å‘¨
+### °²È«ÖÜ
 
-å®‰å…¨å‘¨-å…³æ³¨å®‰å…¨èµ„è®¯ ä¸“æ³¨æ¼æ´æŠ¥é“
+°²È«ÖÜ-¹Ø×¢°²È«×ÊÑ¶ ×¨×¢Â©¶´±¨µÀ
 
-å¾®ä¿¡å·ï¼šsecz_org
+Î¢ĞÅºÅ£ºsecz_org
 
-![å¾®ä¿¡å·](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzI1NDI2NjY5OA==&mid=2247483865&idx=1&sn=5735ca8c4dac7584cdb0ec075f95e095&send_time=)
+![Î¢ĞÅºÅ](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzI1NDI2NjY5OA==&mid=2247483865&idx=1&sn=5735ca8c4dac7584cdb0ec075f95e095&send_time=)
 ---
 
-### å…œå“¥å¸¦ä½ å­¦å®‰å…¨
+### ¶µ¸ç´øÄãÑ§°²È«
 
-ä»‹ç»ä¼ä¸šå®‰å…¨å»ºè®¾ä»¥åŠAIå®‰å…¨åŸºç¡€çŸ¥è¯†
+½éÉÜÔÆ°²È«Ïà¹ØÖªÊ¶Óë×ÊÑ¶£¬ÁÄ°²È«Ò²ÁÄÉú»î£¬Éú»î²»½öÊÇ¹¤×÷£¬»¹ÓĞÊ«ºÍÔ¶·½
 
-å¾®ä¿¡å·ï¼šwaf_ads_ids
+Î¢ĞÅºÅ£ºwaf_ads_ids
 
-![å¾®ä¿¡å·](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzIwOTc0MDU3NA==&mid=2247483988&idx=1&sn=e2847e934c946a87ac87ae348baa5800&send_time=)
+![Î¢ĞÅºÅ](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzIwOTc0MDU3NA==&mid=2247483988&idx=1&sn=e2847e934c946a87ac87ae348baa5800&send_time=)
 ---
 
 ### Docker
 
-æœ€ä¸“ä¸šçš„Dockeræ–‡ç« ï¼Œæœ€æƒå¨çš„Dockeræ–°é—»ã€‚å…³æ³¨å®¹å™¨ç”Ÿæ€åœˆçš„å‘å±•ã€‚
+×î×¨ÒµµÄDockerÎÄÕÂ£¬×îÈ¨ÍşµÄDockerĞÂÎÅ¡£¹Ø×¢ÈİÆ÷ÉúÌ¬È¦µÄ·¢Õ¹¡£
 
-å¾®ä¿¡å·ï¼šdockerone
+Î¢ĞÅºÅ£ºdockerone
 
-![å¾®ä¿¡å·](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzA5OTAyNzQ2OA==&mid=2649695574&idx=1&sn=db80f6ad9d5d16ef0451250bf4c2131f&send_time=)
+![Î¢ĞÅºÅ](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzA5OTAyNzQ2OA==&mid=2649695574&idx=1&sn=db80f6ad9d5d16ef0451250bf4c2131f&send_time=)
 ---
 
-### HadoopæŠ€æœ¯åšæ–‡
+### Hadoop¼¼Êõ²©ÎÄ
 
-çŸ¥åçš„å¤§æ•°æ®æŠ€æœ¯åˆ†äº«å…¬ä¼—å·ã€‚æ¯ä¸¤å¤©æ¨é€ä¸€ç¯‡å…³äºä½†ä¸é™äºSparkã€Hadoopã€Flinkã€Kafkaç­‰å¤§æ•°æ®æŠ€æœ¯ç›¸å…³åšæ–‡ã€ä¼šè®®ã€PPTã€‚å¤§æ•°æ®æŠ€æœ¯åšå®¢ï¼šhttps://www.iteblog.comï¼ŒGoogle\ç™¾åº¦æœç´¢ è¿‡å¾€è®°å¿†ã€‚
+ÖªÃûµÄ´óÊı¾İ¼¼Êõ·ÖÏí¹«ÖÚºÅ¡£Ã¿Á½ÌìÍÆËÍÒ»Æª¹ØÓÚµ«²»ÏŞÓÚSpark¡¢Hadoop¡¢Flink¡¢KafkaµÈ´óÊı¾İ¼¼ÊõÏà¹Ø²©ÎÄ¡¢»áÒé¡¢PPT¡£´óÊı¾İ¼¼Êõ²©¿Í£ºhttps://www.iteblog.com£¬Google\°Ù¶ÈËÑË÷ ¹ıÍù¼ÇÒä¡£
 
-å¾®ä¿¡å·ï¼šiteblog_hadoop
+Î¢ĞÅºÅ£ºiteblog_hadoop
 
-![å¾®ä¿¡å·](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzA5MTc0NTMwNQ==&mid=2650714706&idx=1&sn=a86096b99eb9eb2b5e32996b816fb422&send_time=)
+![Î¢ĞÅºÅ](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzA5MTc0NTMwNQ==&mid=2650714706&idx=1&sn=a86096b99eb9eb2b5e32996b816fb422&send_time=)
 ---
 
-### é»‘å®¢ä¸ç²¾é…¿
+### ºÚ¿ÍÓë¾«Äğ
 
-ä¸€ä¸ªæˆ–è€…ä¸€ç¾¤é»‘å®¢ï¼Œçƒ­çˆ±ä¸€ç§æˆ–è€…å‡ ç§å•¤é…’
+Ò»¸ö»òÕßÒ»ÈººÚ¿Í£¬ÈÈ°®Ò»ÖÖ»òÕß¼¸ÖÖÆ¡¾Æ
 
-å¾®ä¿¡å·ï¼šyuyegogogo
+Î¢ĞÅºÅ£ºyuyegogogo
 
-![å¾®ä¿¡å·](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzIzMzU2ODY4MQ==&mid=2247485942&idx=1&sn=14cf969ce4ce1d3c411cd1e43c92a2be&send_time=)
+![Î¢ĞÅºÅ](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzIzMzU2ODY4MQ==&mid=2247485942&idx=1&sn=14cf969ce4ce1d3c411cd1e43c92a2be&send_time=)
 ---
 
-### é£“é£ç½‘ç»œå®‰å…¨
+### ì«·çÍøÂç°²È«
 
-ä¸“æ³¨ç½‘ç»œå®‰å…¨ï¼Œæˆç«‹äº2016å¹´;ä¸“æ³¨äºç ”ç©¶å®‰å…¨æœåŠ¡ï¼Œé»‘å®¢æŠ€æœ¯ã€0dayæ¼æ´ã€æä¾›æœåŠ¡å™¨ç½‘ç«™å®‰å…¨è§£å†³æ–¹æ¡ˆï¼Œæ•°æ®åº“å®‰å…¨ã€æœåŠ¡å™¨å®‰å…¨è¿ç»´ã€‚
+×¨×¢ÍøÂç°²È«£¬³ÉÁ¢ÓÚ2016Äê;×¨×¢ÓÚÑĞ¾¿°²È«·şÎñ£¬ºÚ¿Í¼¼Êõ¡¢0dayÂ©¶´¡¢Ìá¹©·şÎñÆ÷ÍøÕ¾°²È«½â¾ö·½°¸£¬Êı¾İ¿â°²È«¡¢·şÎñÆ÷°²È«ÔËÎ¬¡£
 
-å¾®ä¿¡å·ï¼š
+Î¢ĞÅºÅ£º
 
-![å¾®ä¿¡å·](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzI3NzMzNzE5Ng==&mid=2247484613&idx=1&sn=056de52f1986514a98587223d67d4681&send_time=)
+![Î¢ĞÅºÅ](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzI3NzMzNzE5Ng==&mid=2247484613&idx=1&sn=056de52f1986514a98587223d67d4681&send_time=)
 ---
 
-### æå®¢è·¯æ ‡
+### ¼«¿ÍÂ·±ê
 
-æå®¢/é»‘å®¢/é»‘ç§‘æŠ€ä¸å®‰å…¨æƒ…æŠ¥
+¼«¿Í/ºÚ¿Í/ºÚ¿Æ¼¼Óë°²È«Çé±¨
 
-å¾®ä¿¡å·ï¼šmapers_tech
+Î¢ĞÅºÅ£ºmapers_tech
 
-![å¾®ä¿¡å·](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzIxMTQwNDc2NA==&mid=2247483725&idx=1&sn=d4e729a4d05125c44c30cf353dc99cc3&send_time=)
+![Î¢ĞÅºÅ](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzIxMTQwNDc2NA==&mid=2247483725&idx=1&sn=d4e729a4d05125c44c30cf353dc99cc3&send_time=)
 ---
 
 ### lovesec
 
-ä¸“æ³¨ä¿¡æ¯å®‰å…¨/æ¸—é€æµ‹è¯•
+×¨×¢ĞÅÏ¢°²È«/ÉøÍ¸²âÊÔ
 
-å¾®ä¿¡å·ï¼šlove-security
+Î¢ĞÅºÅ£ºlove-security
 
-![å¾®ä¿¡å·](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzA3ODI1MjA1NA==&mid=2655064015&idx=1&sn=154be2b82893664a8cc2241da48e83c2&send_time=)
+![Î¢ĞÅºÅ](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzA3ODI1MjA1NA==&mid=2655064015&idx=1&sn=154be2b82893664a8cc2241da48e83c2&send_time=)
 ---
 
 ### LemonSec
 
 Security for life
 
-å¾®ä¿¡å·ï¼šlemon-sec
+Î¢ĞÅºÅ£ºlemon-sec
 
-![å¾®ä¿¡å·](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzUyMTA0MjQ4NA==&mid=2247485652&idx=1&sn=26e8ed52e055baa5232c80d3e3ae0f92&send_time=)
+![Î¢ĞÅºÅ](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzUyMTA0MjQ4NA==&mid=2247485652&idx=1&sn=26e8ed52e055baa5232c80d3e3ae0f92&send_time=)
 ---
 
 ### malwarebenchmark
 
-å¼€æºæ¶æ„ä»£ç åŸºå‡†æµ‹è¯•ï¼ˆOMBï¼Œmalwarebenchmark.orgï¼‰æŒç»­è·Ÿè¸ªå…¨çƒæœ€æ–°æ¶æ„ä»£ç ï¼Œå®æ—¶å‘å¸ƒç½‘ç»œç©ºé—´å®‰å…¨ä»¥åŠæ¶æ„ä»£ç æŠ€æœ¯ã€åˆ†å¸ƒã€æ¼”å˜ç­‰ä¿¡æ¯ï¼Œå®šæœŸå…¬å¼€ç›¸å…³åŸºå‡†æµ‹è¯•é›†åˆä»¥åŠæµ‹è¯„æŠ¥å‘Šã€‚
+¿ªÔ´¶ñÒâ´úÂë»ù×¼²âÊÔ£¨OMB£¬malwarebenchmark.org£©³ÖĞø¸ú×ÙÈ«Çò×îĞÂ¶ñÒâ´úÂë£¬ÊµÊ±·¢²¼ÍøÂç¿Õ¼ä°²È«ÒÔ¼°¶ñÒâ´úÂë¼¼Êõ¡¢·Ö²¼¡¢Ñİ±äµÈĞÅÏ¢£¬¶¨ÆÚ¹«¿ªÏà¹Ø»ù×¼²âÊÔ¼¯ºÏÒÔ¼°²âÆÀ±¨¸æ¡£
 
-å¾®ä¿¡å·ï¼š
+Î¢ĞÅºÅ£º
 
-![å¾®ä¿¡å·](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzI4ODA4MTcxMA==&mid=2649551043&idx=1&sn=368233c880cc29119630e14217738e33&send_time=)
+![Î¢ĞÅºÅ](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzI4ODA4MTcxMA==&mid=2649551043&idx=1&sn=368233c880cc29119630e14217738e33&send_time=)
 ---
 
 ### n1nty
 
-è®°å½•å¹³æ—¥æ‰€çœ‹æ‰€å­¦ã€‚
+¼ÇÂ¼Æ½ÈÕËù¿´ËùÑ§¡£
 
-å¾®ä¿¡å·ï¼šn1nty-talks
+Î¢ĞÅºÅ£ºn1nty-talks
 
-![å¾®ä¿¡å·](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzI5Nzc0OTkxOQ==&mid=2247483733&idx=1&sn=d56047c124a2ac860815c1860ef75fbe&send_time=)
+![Î¢ĞÅºÅ](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzI5Nzc0OTkxOQ==&mid=2247483733&idx=1&sn=d56047c124a2ac860815c1860ef75fbe&send_time=)
 ---
 
-### qzå®‰å…¨æƒ…æŠ¥åˆ†æ
+### qz°²È«Çé±¨·ÖÎö
 
-ç‹¬åˆ°è§‚ç‚¹çš„å®‰å…¨æƒ…æŠ¥åˆ†æ
+¶Àµ½¹ÛµãµÄ°²È«Çé±¨·ÖÎö
 
-å¾®ä¿¡å·ï¼šlookvul
+Î¢ĞÅºÅ£ºlookvul
 
-![å¾®ä¿¡å·](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzI1MDA1MjcxMw==&mid=2649905588&idx=1&sn=4162f71471a4e97d970c03c944c207b9&send_time=)
+![Î¢ĞÅºÅ](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzI1MDA1MjcxMw==&mid=2649905588&idx=1&sn=4162f71471a4e97d970c03c944c207b9&send_time=)
 ---
 
-### æ‡’äººåœ¨æ€è€ƒ
+### ÀÁÈËÔÚË¼¿¼
 
-æœ¬æ‡’å·ä¸»è¦å…³æ³¨ç‚¹ï¼šéšç§ã€æ”»å‡»ã€å®‰å…¨å¼€å‘ã€‚ä»æˆ‘ä»¬è¿™ï¼Œä½ è‡³å°‘å¯ä»¥çŸ¥é“å½“ä¸‹é»‘å®¢ä¸–ç•Œçš„å¦ç±»è§†è§’ã€‚By ä½™å¼¦@LanT34m
+±¾ÀÁºÅÖ÷Òª¹Ø×¢µã£ºÒşË½¡¢¹¥»÷¡¢°²È«¿ª·¢¡£´ÓÎÒÃÇÕâ£¬ÄãÖÁÉÙ¿ÉÒÔÖªµÀµ±ÏÂºÚ¿ÍÊÀ½çµÄÁíÀàÊÓ½Ç¡£By ÓàÏÒ@LanT34m
 
-å¾®ä¿¡å·ï¼šlazy-thought
+Î¢ĞÅºÅ£ºlazy-thought
 
-![å¾®ä¿¡å·](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzA3NTEzMTUwNA==&mid=2651081322&idx=1&sn=3b431134132c872333cc9d18eb0ea0b5&send_time=)
+![Î¢ĞÅºÅ](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzA3NTEzMTUwNA==&mid=2651081322&idx=1&sn=3b431134132c872333cc9d18eb0ea0b5&send_time=)
 ---
 
-### ç½‘ç»œå®‰å…¨æ¸—é€hack
+### ÍøÂç°²È«ÉøÍ¸hack
 
-ç½‘ç»œå®‰å…¨ï¼Œå®‰å…¨èµ„è®¯ï¼Œç½‘ç»œé’“é±¼é˜²éª—ï¼Œæ¸—é€ï¼Œkaliï¼Œxssï¼ŒCSRFï¼ŒPythonå·¥å…·å¼€å‘
+ÍøÂç°²È«£¬°²È«×ÊÑ¶£¬ÍøÂçµöÓã·ÀÆ­£¬ÉøÍ¸£¬kali£¬xss£¬CSRF£¬Python¹¤¾ß¿ª·¢
 
-å¾®ä¿¡å·ï¼šetcpasswd
+Î¢ĞÅºÅ£ºetcpasswd
 
-![å¾®ä¿¡å·](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzAxMDg3NjExNQ==&mid=2651631017&idx=1&sn=bc7ba1cbd2f8e2471b3d9a61f61a2391&send_time=)
+![Î¢ĞÅºÅ](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzAxMDg3NjExNQ==&mid=2651631017&idx=1&sn=bc7ba1cbd2f8e2471b3d9a61f61a2391&send_time=)
 ---
 
-### ä¿¡å®‰ä¹‹è·¯
+### ĞÅ°²Ö®Â·
 
-åªåˆ†äº«å¹²è´§ï¼Œä¸æ‰¯è›‹ä¸è¹­çƒ­ç‚¹ï¼Œå…±åŒå­¦ä¹ å…±åŒæˆé•¿ï¼Œä¸€èµ·è¸ä¸Šä¿¡æ¯å®‰å…¨ä¹‹è·¯ï¼
+Ö»·ÖÏí¸É»õ£¬²»³¶µ°²»²äÈÈµã£¬¹²Í¬Ñ§Ï°¹²Í¬³É³¤£¬Ò»ÆğÌ¤ÉÏĞÅÏ¢°²È«Ö®Â·£¡
 
-å¾®ä¿¡å·ï¼šxazlsec
+Î¢ĞÅºÅ£ºmyh0st_wxgzh
 
-![å¾®ä¿¡å·](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzI5MDQ2NjExOQ==&mid=2247485270&idx=1&sn=5f6a6030c93e544419ee49bbbf7dde0b&send_time=)
+![Î¢ĞÅºÅ](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzI5MDQ2NjExOQ==&mid=2247485270&idx=1&sn=5f6a6030c93e544419ee49bbbf7dde0b&send_time=)
 ---
 
-### é€¢äººæ–—æ™ºæ–—å‹‡
+### ·êÈË¶·ÖÇ¶·ÓÂ
 
-ä¸€ä¸ªæ•…äº‹è®²å®Œäº†ï¼Œä¸€ä¸ªæ—¶ä»£ä¹Ÿå°±ç»“æŸäº†ï¼
+Ò»¸ö¹ÊÊÂ½²ÍêÁË£¬Ò»¸öÊ±´úÒ²¾Í½áÊøÁË£¡
 
-å¾®ä¿¡å·ï¼šxiaopigfly
+Î¢ĞÅºÅ£ºxiaopigfly
 
-![å¾®ä¿¡å·](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzAxMjk1NTExNw==&mid=2247484139&idx=1&sn=0ad28ccd11c89726ca9c5b1da1770b3a&send_time=)
+![Î¢ĞÅºÅ](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzAxMjk1NTExNw==&mid=2247484139&idx=1&sn=0ad28ccd11c89726ca9c5b1da1770b3a&send_time=)
 ---
 
-### iå°å³°
+### iĞ¡·å
 
-çƒ­çˆ±äº’è”ç½‘ï¼Œçƒ­çˆ±å®‰å…¨è¡Œä¸šï¼Œå¸Œæœ›ä¸“æ³¨åšä¸€ä»¶æœ‰è¶£çš„äº‹æƒ…ã€‚ åˆ†äº«è‡ªå·±ä»äº‹å®‰å…¨èŒä½çš„ç»éªŒ
+ÈÈ°®»¥ÁªÍø£¬ÈÈ°®°²È«ĞĞÒµ£¬Ï£Íû×¨×¢×öÒ»¼şÓĞÈ¤µÄÊÂÇé¡£ ·ÖÏí×Ô¼º´ÓÊÂ°²È«Ö°Î»µÄ¾­Ñé
 
-å¾®ä¿¡å·ï¼ši_Memor
+Î¢ĞÅºÅ£ºi_Memor
 
-![å¾®ä¿¡å·](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzI5MjQ5NjcxMA==&mid=2247483856&idx=1&sn=4b5bf06ed5cde685cdc18c3a21cc0033&send_time=)
+![Î¢ĞÅºÅ](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzI5MjQ5NjcxMA==&mid=2247483856&idx=1&sn=4b5bf06ed5cde685cdc18c3a21cc0033&send_time=)
 ---
 

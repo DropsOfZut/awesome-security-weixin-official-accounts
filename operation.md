@@ -1,82 +1,82 @@
 
-### é©¬å“¥Linuxè¿ç»´
+### Âí¸çLinuxÔËÎ¬
 
-å˜¿ï¼ç­‰ä½ å¥½ä¹…äº†ã€‚é©¬å“¥Linuxè¿ç»´ç›®å‰æœ‰è¿‘10ä¸‡å°ä¼™ä¼´åœ¨è¿™é‡Œå­¦ä¹ å’Œæˆé•¿ï¼Œæˆ‘ä»¬æ¯å¤©ä¸ºä½ å‘ˆä¸ŠLinuxè¿ç»´å·¥ç¨‹å¸ˆè¶…çˆ±çš„Linuxå­¦ä¹ æ•™ç¨‹ã€LinuxåŸ¹è®­è§†é¢‘ï¼Œè¿˜å¯ä»¥å…è´¹æ‹¿Linuxã€Pythonã€å¤§æ•°æ®çš„å‰æ²¿å®æˆ˜å¹²è´§ï¼Œä¸€èµ·æ¥å§ï¼
+ºÙ£¡µÈÄãºÃ¾ÃÁË¡£Âí¸çLinuxÔËÎ¬Ä¿Ç°ÓĞ½ü10ÍòĞ¡»ï°éÔÚÕâÀïÑ§Ï°ºÍ³É³¤£¬ÎÒÃÇÃ¿ÌìÎªÄã³ÊÉÏLinuxÔËÎ¬¹¤³ÌÊ¦³¬°®µÄLinuxÑ§Ï°½Ì³Ì¡¢LinuxÅàÑµÊÓÆµ£¬»¹¿ÉÒÔÃâ·ÑÄÃLinux¡¢Python¡¢´óÊı¾İµÄÇ°ÑØÊµÕ½¸É»õ£¬Ò»ÆğÀ´°É£¡
 
-å¾®ä¿¡å·ï¼šmagedu-Linux
+Î¢ĞÅºÅ£ºmagedu-Linux
 
-![å¾®ä¿¡å·](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzA3OTgyMDcwNg==&mid=2650632733&idx=1&sn=4140ad7334a2d56c9c7d55c5d48b8dda&send_time=)
+![Î¢ĞÅºÅ](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzA3OTgyMDcwNg==&mid=2650632733&idx=1&sn=4140ad7334a2d56c9c7d55c5d48b8dda&send_time=)
 ---
 
-### Linuxä¸­å›½
+### LinuxÖĞ¹ú
 
-åä¸‡çº§æŠ€æœ¯è®¢é˜…å·ï¼Œä¾æ‰˜äºã€Linuxä¸­å›½ã€ï¼ˆhttps://linux.cn/ï¼‰ç¤¾åŒºï¼Œä¸“æ³¨äº Linux å­¦ä¹ ã€æŠ€æœ¯ç ”ç©¶ã€å¼€æºæ€æƒ³ä¼ æ’­ã€‚
+Ê®Íò¼¶¼¼Êõ¶©ÔÄºÅ£¬ÒÀÍĞÓÚ¡ºLinuxÖĞ¹ú¡»£¨https://linux.cn/£©ÉçÇø£¬×¨×¢ÓÚ Linux Ñ§Ï°¡¢¼¼ÊõÑĞ¾¿¡¢¿ªÔ´Ë¼Ïë´«²¥¡£
 
-å¾®ä¿¡å·ï¼šlinux-cn
+Î¢ĞÅºÅ£ºlinux-cn
 
-![å¾®ä¿¡å·](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MjM5NjQ4MjYwMQ==&mid=2664609735&idx=1&sn=261ef3f19ce17c3cb199cda16dd5c5f8&send_time=)
+![Î¢ĞÅºÅ](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MjM5NjQ4MjYwMQ==&mid=2664609735&idx=1&sn=261ef3f19ce17c3cb199cda16dd5c5f8&send_time=)
 ---
 
-### è¿ç»´
+### ÔËÎ¬
 
-å…³æ³¨äº’è”ç½‘è¿ç»´æŠ€æœ¯ï¼Œåˆ†äº«çŸ¥è¯†
+¹Ø×¢»¥ÁªÍøÔËÎ¬¼¼Êõ£¬·ÖÏíÖªÊ¶
 
-å¾®ä¿¡å·ï¼šOperation1024
+Î¢ĞÅºÅ£ºOperation1024
 
-![å¾®ä¿¡å·](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzAxNTcyNzAyOQ==&mid=2650960472&idx=1&sn=a3dad9f74148cd1d53e49f803f049ebf&send_time=)
+![Î¢ĞÅºÅ](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzAxNTcyNzAyOQ==&mid=2650960472&idx=1&sn=a3dad9f74148cd1d53e49f803f049ebf&send_time=)
 ---
 
-### Linuxè¿ç»´ä¼™ä¼´
+### ÔËÎ¬»ï°é
 
-é¢å‘è¿ç»´äººå‘˜çš„å‚ç›´å…¬ä¼—å·ï¼Œå†…å®¹é´é€‰è‡ªâ€œLinuxä¸­å›½â€åŠå…¶å®ƒæ¥æºï¼Œæ¯å‘¨æ¨é€è¿ç»´æ–¹é¢çš„é‡è¦èµ„è®¯å’ŒæŠ€æœ¯ç ”ä¹ æ–‡ç« ç»™å¤§å®¶ã€‚
+ÃæÏòÔËÎ¬ÈËÔ±µÄ´¹Ö±¹«ÖÚºÅ£¬ÄÚÈİåàÑ¡×Ô¡°LinuxÖĞ¹ú¡±¼°ÆäËüÀ´Ô´£¬Ã¿ÖÜÍÆËÍÔËÎ¬·½ÃæµÄÖØÒª×ÊÑ¶ºÍ¼¼ÊõÑĞÏ°ÎÄÕÂ¸ø´ó¼Ò¡£
 
-å¾®ä¿¡å·ï¼šOpsSays
+Î¢ĞÅºÅ£ºOpsSays
 
-![å¾®ä¿¡å·](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzIyODE1MTg5OQ==&mid=2650998894&idx=1&sn=0119b8a24367a0d0c152562e49f39b05&send_time=)
+![Î¢ĞÅºÅ](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzIyODE1MTg5OQ==&mid=2650998894&idx=1&sn=0119b8a24367a0d0c152562e49f39b05&send_time=)
 ---
 
-### è¿ç»´å¸®
+### ÔËÎ¬°ï
 
-äº’è”ç½‘æŠ€æœ¯åˆ†äº«å¹³å°ï¼Œåˆ†äº«çš„åŠ›é‡ã€‚å¸®ä¸»ä¸€ç›´åšä¿¡æŠ€æœ¯å¯ä»¥æ”¹å˜ä¸–ç•Œï¼Œä»æ¯•ä¸šåˆ°ç°åœ¨å¹²äº†15å¹´è¿ç»´ï¼Œæœ‰è®¸å¤šè¯è¦å’Œä½ è¯´ã€‚
+»¥ÁªÍø¼¼Êõ·ÖÏíÆ½Ì¨£¬·ÖÏíµÄÁ¦Á¿¡£°ïÖ÷Ò»Ö±¼áĞÅ¼¼Êõ¿ÉÒÔ¸Ä±äÊÀ½ç£¬´Ó±ÏÒµµ½ÏÖÔÚ¸ÉÁË15ÄêÔËÎ¬£¬ÓĞĞí¶à»°ÒªºÍÄãËµ¡£
 
-å¾®ä¿¡å·ï¼šyunweibang
+Î¢ĞÅºÅ£ºyunweibang
 
-![å¾®ä¿¡å·](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzA3MzYwNjQ3NA==&mid=2651298550&idx=1&sn=5d3639bb6d3f582bd51cce1428bfc748&send_time=)
+![Î¢ĞÅºÅ](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzA3MzYwNjQ3NA==&mid=2651298550&idx=1&sn=5d3639bb6d3f582bd51cce1428bfc748&send_time=)
 ---
 
-### Linuxå­¦ä¹ 
+### LinuxÑ§Ï°
 
-Linuxæ¢è®¨å­¦ä¹ ï¼ŒæŠ€æœ¯èµ„è®¯åˆ†äº«
+LinuxÌ½ÌÖÑ§Ï°£¬¼¼Êõ×ÊÑ¶·ÖÏí
 
-å¾®ä¿¡å·ï¼šLoveLinux1024
+Î¢ĞÅºÅ£ºLoveLinux1024
 
-![å¾®ä¿¡å·](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzI4MDEwNzAzNg==&mid=2649444459&idx=1&sn=b86d95bb03ff39d0897a5a2237f8fc8b&send_time=)
+![Î¢ĞÅºÅ](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzI4MDEwNzAzNg==&mid=2649444459&idx=1&sn=b86d95bb03ff39d0897a5a2237f8fc8b&send_time=)
 ---
 
-### é«˜æ•ˆè¿ç»´
+### ¸ßĞ§ÔËÎ¬
 
-é«˜æ•ˆè¿ç»´å…¬ä¼—å·ç”±è§ç”°å›½åŠæœ‹å‹ä»¬ç»´æŠ¤ï¼Œç»å¸¸å‘å¸ƒå„ç§å¹¿ä¸ºä¼ æ’­çš„ä¼˜ç§€åŸåˆ›æŠ€æœ¯æ–‡ç« ï¼Œå…³æ³¨è¿ç»´è½¬å‹ï¼Œé™ªä¼´æ‚¨çš„è¿ç»´èŒä¸šç”Ÿæ¶¯ï¼Œä¸€èµ·æ„‰å¿«æ»´å‘å±•ã€‚
+¸ßĞ§ÔËÎ¬¹«ÖÚºÅÓÉÏôÌï¹ú¼°ÅóÓÑÃÇÎ¬»¤£¬¾­³£·¢²¼¸÷ÖÖ¹ãÎª´«²¥µÄÓÅĞãÔ­´´¼¼ÊõÎÄÕÂ£¬¹Ø×¢ÔËÎ¬×ªĞÍ£¬Åã°éÄúµÄÔËÎ¬Ö°ÒµÉúÑÄ£¬Ò»ÆğÓä¿ìµÎ·¢Õ¹¡£
 
-å¾®ä¿¡å·ï¼šgreatops
+Î¢ĞÅºÅ£ºgreatops
 
-![å¾®ä¿¡å·](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzA4Nzg5Nzc5OA==&mid=2651668750&idx=1&sn=74cb74ef153696fc3e553e192e59d8b3&send_time=)
+![Î¢ĞÅºÅ](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzA4Nzg5Nzc5OA==&mid=2651668750&idx=1&sn=74cb74ef153696fc3e553e192e59d8b3&send_time=)
 ---
 
-### é«˜æ•ˆå¼€å‘è¿ç»´
+### ¸ßĞ§¿ª·¢ÔËÎ¬
 
-InfoQè¿ç»´é¢†åŸŸå‚ç›´å·ã€‚å¸¸è§„è¿ç»´ã€äº¦æˆ–æ˜¯å´›èµ·çš„DevOpsï¼Œæ¢è®¨å¦‚ä½•ITäº¤ä»˜å®ç°ä»·å€¼ã€‚åŠªåŠ›ä¸ºæŠ€æœ¯äººå‘ˆç°æœ‰å®è·µæ„ä¹‰çš„å†…å®¹~
+InfoQÔËÎ¬ÁìÓò´¹Ö±ºÅ¡£³£¹æÔËÎ¬¡¢Òà»òÊÇáÈÆğµÄDevOps£¬Ì½ÌÖÈçºÎIT½»¸¶ÊµÏÖ¼ÛÖµ¡£Å¬Á¦Îª¼¼ÊõÈË³ÊÏÖÓĞÊµ¼ùÒâÒåµÄÄÚÈİ~
 
-å¾®ä¿¡å·ï¼šDevOpsGeek
+Î¢ĞÅºÅ£ºDevOpsGeek
 
-![å¾®ä¿¡å·](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzIzNjUxMzk2NQ==&mid=2247485869&idx=1&sn=18b268912d1a9379c73815bec89798c7&send_time=)
+![Î¢ĞÅºÅ](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzIzNjUxMzk2NQ==&mid=2247485869&idx=1&sn=18b268912d1a9379c73815bec89798c7&send_time=)
 ---
 
-### äº’è”ç½‘è¿ç»´æ‚è°ˆ
+### »¥ÁªÍøÔËÎ¬ÔÓÌ¸
 
-åˆ†äº«ä¸€ä¸‹è‡ªå·±7å¹´å¤šçš„äº’è”ç½‘è¿ç»´çš„ç»éªŒï¼Œå¶å°”åˆ†äº«ä¸€ä¸‹è‡ªå·±çš„å¿ƒæƒ…ï¼Œå…³é”®æ˜¯æƒ³å’Œå¤§å®¶å»ºç«‹ä¸€ä¸ªäº¤æµçš„å¹³å°ã€‚
+·ÖÏíÒ»ÏÂ×Ô¼º7Äê¶àµÄ»¥ÁªÍøÔËÎ¬µÄ¾­Ñé£¬Å¼¶û·ÖÏíÒ»ÏÂ×Ô¼ºµÄĞÄÇé£¬¹Ø¼üÊÇÏëºÍ´ó¼Ò½¨Á¢Ò»¸ö½»Á÷µÄÆ½Ì¨¡£
 
-å¾®ä¿¡å·ï¼šwaynewang_ops
+Î¢ĞÅºÅ£ºwaynewang_ops
 
-![å¾®ä¿¡å·](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzA4NjAzMjEyOA==&mid=2654565506&idx=1&sn=b200aa73ccf82b63da150ef9f0757249&send_time=)
+![Î¢ĞÅºÅ](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzA4NjAzMjEyOA==&mid=2654565506&idx=1&sn=b200aa73ccf82b63da150ef9f0757249&send_time=)
 ---
 
