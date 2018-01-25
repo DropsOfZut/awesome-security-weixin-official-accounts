@@ -188,10 +188,10 @@
 
 Avatar | ID | Address
 --- | --- | ---
-![](http://upload-images.jianshu.io/upload_images/6967995-e9d7fa5bfa88c5a0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) | [Hatcat123](https://github.com/Hatcat123) | [https://www.jianshu.com/u/5d33fb55f91d](https://www.jianshu.com/u/5d33fb55f91d)
+![](https://avatars1.githubusercontent.com/u/28727970?s=30) | [Hatcat123](https://github.com/Hatcat123) | [https://www.jianshu.com/u/5d33fb55f91d](https://www.jianshu.com/u/5d33fb55f91d)
 
 ## Thanks
-感谢[neargle](https://github.com/neargle)对本项目提供无私的帮助与审核
+感谢 [@neargle](https://github.com/neargle) 对本项目提供无私的帮助
 ## License
 
 
