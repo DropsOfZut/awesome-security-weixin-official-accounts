@@ -144,15 +144,6 @@ Security for life
 ![微信号](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzI4MjQzMzE3NA==&mid=2247483741&idx=1&sn=863fb52765c7fc071b37d131c221e8a8&send_time=)
 ---
 
-### 懒人学安全
-
-一个喜欢安全的小子记录平时所学。
-
-微信号：lazyhacker
-
-![微信号](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzI4MjQzMzE3NA==&mid=2247483741&idx=1&sn=863fb52765c7fc071b37d131c221e8a8&send_time=)
----
-
 ### 我的安全视界观
 
 大大的世界，小小的人儿；喜欢夜的黑，更爱昼的白。因为热爱安全，所以想起该做些什么了？！公众号主要将不定期分享个人所见所闻所感，包括但不限于：安全测试、漏洞赏析、渗透技巧、企业安全
