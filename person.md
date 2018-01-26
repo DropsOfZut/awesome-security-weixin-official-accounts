@@ -17,14 +17,6 @@
 ![微信号](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzAwMzAwOTQ5Nw==&mid=2650941259&idx=1&sn=7c4caf9aec41d0cdb7dadc59772d64d8&send_time=)
 ---
 
-### 安全周
-
-安全周-关注安全资讯 专注漏洞报道
-
-微信号：secz_org
-
-![微信号](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzI1NDI2NjY5OA==&mid=2247483865&idx=1&sn=5735ca8c4dac7584cdb0ec075f95e095&send_time=)
----
 
 ### 兜哥带你学安全
 
@@ -33,33 +25,6 @@
 微信号：waf_ads_ids
 
 ![微信号](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzIwOTc0MDU3NA==&mid=2247483988&idx=1&sn=e2847e934c946a87ac87ae348baa5800&send_time=)
----
-
-### Docker
-
-最专业的Docker文章，最权威的Docker新闻。关注容器生态圈的发展。
-
-微信号：dockerone
-
-![微信号](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzA5OTAyNzQ2OA==&mid=2649695574&idx=1&sn=db80f6ad9d5d16ef0451250bf4c2131f&send_time=)
----
-
-### Hadoop技术博文
-
-知名的大数据技术分享公众号。每两天推送一篇关于但不限于Spark、Hadoop、Flink、Kafka等大数据技术相关博文、会议、PPT。大数据技术博客：https://www.iteblog.com，Google\百度搜索 过往记忆。
-
-微信号：iteblog_hadoop
-
-![微信号](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzA5MTc0NTMwNQ==&mid=2650714706&idx=1&sn=a86096b99eb9eb2b5e32996b816fb422&send_time=)
----
-
-### 黑客与精酿
-
-一个或者一群黑客，热爱一种或者几种啤酒
-
-微信号：yuyegogogo
-
-![微信号](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzIzMzU2ODY4MQ==&mid=2247485942&idx=1&sn=14cf969ce4ce1d3c411cd1e43c92a2be&send_time=)
 ---
 
 ### 飓风网络安全
@@ -96,15 +61,6 @@ Security for life
 微信号：lemon-sec
 
 ![微信号](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzUyMTA0MjQ4NA==&mid=2247485652&idx=1&sn=26e8ed52e055baa5232c80d3e3ae0f92&send_time=)
----
-
-### malwarebenchmark
-
-开源恶意代码基准测试（OMB，malwarebenchmark.org）持续跟踪全球最新恶意代码，实时发布网络空间安全以及恶意代码技术、分布、演变等信息，定期公开相关基准测试集合以及测评报告。
-
-微信号：
-
-![微信号](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzI4ODA4MTcxMA==&mid=2649551043&idx=1&sn=368233c880cc29119630e14217738e33&send_time=)
 ---
 
 ### n1nty
@@ -168,5 +124,50 @@ Security for life
 微信号：i_Memor
 
 ![微信号](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzI5MjQ5NjcxMA==&mid=2247483856&idx=1&sn=4b5bf06ed5cde685cdc18c3a21cc0033&send_time=)
+---
+
+### Thorns的安全分享
+
+安全技术交流和分享。~号主偶尔会神经质的发几篇跟安全无关的文章...
+
+微信号：
+
+![微信号](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzU3MzAyNzgyNg==&mid=100000015&idx=1&sn=829ef7a14a583d577fa4c01a43986347&send_time=)
+---
+
+### 懒人学安全
+
+一个喜欢安全的小子记录平时所学。
+
+微信号：lazyhacker
+
+![微信号](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzI4MjQzMzE3NA==&mid=2247483741&idx=1&sn=863fb52765c7fc071b37d131c221e8a8&send_time=)
+---
+
+### 懒人学安全
+
+一个喜欢安全的小子记录平时所学。
+
+微信号：lazyhacker
+
+![微信号](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzI4MjQzMzE3NA==&mid=2247483741&idx=1&sn=863fb52765c7fc071b37d131c221e8a8&send_time=)
+---
+
+### 我的安全视界观
+
+大大的世界，小小的人儿；喜欢夜的黑，更爱昼的白。因为热爱安全，所以想起该做些什么了？！公众号主要将不定期分享个人所见所闻所感，包括但不限于：安全测试、漏洞赏析、渗透技巧、企业安全
+
+微信号：CANI_Security
+
+![微信号](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzI3Njk2OTIzOQ==&mid=2247483858&idx=1&sn=acdbc83ea3f9bdc09fc25ab9625fcbb1&send_time=)
+---
+
+### King大王
+
+深度调查/揭露骗局/追踪骗子/干货分享 另一个世界或许你不知道
+
+微信号：
+
+![微信号](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzU1NTMwNDEyNw==&mid=2247484062&idx=1&sn=9bc566fdaf4f8c30b1b79e377c3816b3&send_time=)
 ---
 

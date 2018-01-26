@@ -89,3 +89,21 @@ OWASP中国，SecZone互联网安全研究中心官方平台
 ![微信号](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzA3Mjk4MDMzMQ==&mid=2648248726&idx=1&sn=9dcc7ae3a8188739073c471d27bb7742&send_time=)
 ---
 
+### 威胁猎人
+
+专注互联网黑产研究。
+
+微信号：ThreatHunter
+
+![微信号](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzI3NDY3NDUxNg==&mid=2247483846&idx=1&sn=29083cf7a19c5b1176b75770fc3c08a3&send_time=)
+---
+
+### 网络安全社区悦信安
+
+一个专心研究网络安全技术的小团体，专为热爱或从事网络安全、信息安全、移动端逆向安全、二进制安全、web渗透测试等安全技术人员提供。        我们的主旨是低调求发展，潜心习技术。专攻术业！
+
+微信号：yuexin_an
+
+![微信号](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzU0MjExNDkyMQ==&mid=2247485245&idx=1&sn=e44305b511357fc972c50cc1973c1077&send_time=)
+---
+

@@ -134,3 +134,12 @@ TH社区是国内首个专注于高级威胁发现与安全数据分析的社区
 ![微信号](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzI1MTc0NTcwOA==&mid=2247483672&idx=1&sn=f9fa29999370a1fd31e08ab0cc3fcbdb&send_time=)
 ---
 
+### 行长叠报
+
+漏洞银行-行长叠报，最新的安全资讯/最全的黑客干货/最有料的业内伙伴，每时每刻连接热爱安全的你我。
+
+微信号：BUG_BANK
+
+![微信号](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzAxODg1MDMwOQ==&mid=2247487972&idx=1&sn=2a570834967f4623c853bfb17d3f89e2&send_time=)
+---
+
