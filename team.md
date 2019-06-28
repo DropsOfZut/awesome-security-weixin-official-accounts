@@ -107,3 +107,10 @@ OWASP中国，SecZone互联网安全研究中心官方平台
 ![微信号](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzU0MjExNDkyMQ==&mid=2247485245&idx=1&sn=e44305b511357fc972c50cc1973c1077&send_time=)
 ---
 
+### TideSec安全团队 
+
+http://www.TideSec.net 知识、技能、工具、分享
+
+微信号：TideSec
+
+![微信号](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=Mzg2NTA4OTI5NA==&mid=2247484273&idx=1&sn=130a349d541b43e1e7c15fd7ae622e2a&send_time=)
