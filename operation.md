@@ -3,80 +3,79 @@
 
 嘿！等你好久了。马哥Linux运维目前有近10万小伙伴在这里学习和成长，我们每天为你呈上Linux运维工程师超爱的Linux学习教程、Linux培训视频，还可以免费拿Linux、Python、大数据的前沿实战干货，一起来吧！
 
-微信号：magedu-Linux
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_904f08561055" alt="" />
 
-![微信号](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzA3OTgyMDcwNg==&mid=2650632733&idx=1&sn=4140ad7334a2d56c9c7d55c5d48b8dda&send_time=)
 ---
+
+
+### Linux学习
+
+专注分享Linux/Unix相关内容，包括Linux命令、Linux内核、Linux系统开发、Linux运维、网络编程、开发工具等Linux相关知识和技术
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_cb990d3ccd5f" alt="" />
+
+---
+
+
+### Python运维圈
+
+Linux、Python、开发、运维、IT圈、技术栈，就说这些事儿。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e0e4bfb9baf5" alt="" />
+
+---
+
 
 ### Linux中国
 
-十万级技术订阅号，依托于『Linux中国』（https://linux.cn/）社区，专注于 Linux 学习、技术研究、开源思想传播。
+十万级技术订阅号，依托于『Linux中国』（https://linux.cn/）社区，专注于&nbsp;Linux&nbsp;学习、技术研究、开源思想传播。
 
-微信号：linux-cn
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_52ef55f8adfd" alt="" />
 
-![微信号](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MjM5NjQ4MjYwMQ==&mid=2664609735&idx=1&sn=261ef3f19ce17c3cb199cda16dd5c5f8&send_time=)
 ---
 
-### 运维
-
-关注互联网运维技术，分享知识
-
-微信号：Operation1024
-
-![微信号](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzAxNTcyNzAyOQ==&mid=2650960472&idx=1&sn=a3dad9f74148cd1d53e49f803f049ebf&send_time=)
----
-
-### Linux运维伙伴
-
-面向运维人员的垂直公众号，内容遴选自“Linux中国”及其它来源，每周推送运维方面的重要资讯和技术研习文章给大家。
-
-微信号：OpsSays
-
-![微信号](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzIyODE1MTg5OQ==&mid=2650998894&idx=1&sn=0119b8a24367a0d0c152562e49f39b05&send_time=)
----
 
 ### 运维帮
 
 互联网技术分享平台，分享的力量。帮主一直坚信技术可以改变世界，从毕业到现在干了15年运维，有许多话要和你说。
 
-微信号：yunweibang
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_445a39329cd8" alt="" />
 
-![微信号](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzA3MzYwNjQ3NA==&mid=2651298550&idx=1&sn=5d3639bb6d3f582bd51cce1428bfc748&send_time=)
 ---
 
-### Linux学习
 
-Linux探讨学习，技术资讯分享
+### Docker中文社区
 
-微信号：LoveLinux1024
+Docker中文社区旨在为大家提供Docker相关工具及前沿资讯信息，方便大家了解学习Docker相关技术。官网：www.dockerchina.cn
 
-![微信号](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzI4MDEwNzAzNg==&mid=2649444459&idx=1&sn=b86d95bb03ff39d0897a5a2237f8fc8b&send_time=)
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8620cb9f61a5" alt="" />
+
 ---
+
+
+### 云计算和网络安全技术实践
+
+史上最具参考性的云计算和网络安全技术实践博客。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_34d6b0cb5633" alt="" />
+
+---
+
 
 ### 高效运维
 
 高效运维公众号由萧田国及朋友们维护，经常发布各种广为传播的优秀原创技术文章，关注运维转型，陪伴您的运维职业生涯，一起愉快滴发展。
 
-微信号：greatops
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0fdeda7cb50a" alt="" />
 
-![微信号](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzA4Nzg5Nzc5OA==&mid=2651668750&idx=1&sn=74cb74ef153696fc3e553e192e59d8b3&send_time=)
 ---
 
-### 高效开发运维
 
-InfoQ运维领域垂直号。常规运维、亦或是崛起的DevOps，探讨如何IT交付实现价值。努力为技术人呈现有实践意义的内容~
+### Docker
 
-微信号：DevOpsGeek
+关注云原生相关的开源项目和基础架构，致力于分析并报道这些新技术是如何以及将会怎样影响企业的软件构建方式。
 
-![微信号](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzIzNjUxMzk2NQ==&mid=2247485869&idx=1&sn=18b268912d1a9379c73815bec89798c7&send_time=)
----
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e2b16c84652b" alt="" />
 
-### 互联网运维杂谈
-
-分享一下自己7年多的互联网运维的经验，偶尔分享一下自己的心情，关键是想和大家建立一个交流的平台。
-
-微信号：waynewang_ops
-
-![微信号](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzA4NjAzMjEyOA==&mid=2654565506&idx=1&sn=b200aa73ccf82b63da150ef9f0757249&send_time=)
 ---
 
