@@ -323,6 +323,15 @@ Security&nbsp;for&nbsp;life
 ---
 
 
+### 寒剑夜鸣
+
+容貌美丑，皆是皮下白骨，表象声色，又有什么分别？
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_31d86e8c3ca6" alt="" />
+
+---
+
+
 ### 码农翻身
 
 工作15年的前IBM架构师分享好玩有趣的编程知识和职场的经验教训，&nbsp;不容错过。

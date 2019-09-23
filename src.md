@@ -115,3 +115,12 @@ LYSRC是目前唯一公开漏洞的SRC&nbsp;，欢迎提交漏洞&nbsp;https://s
 
 ---
 
+
+### 绿盟科技安全预警
+
+绿盟科技安全预警针对高危的网络安全事件进行快速响应，提供可落地的解决方案，协助用户提升应对未知威胁的能力。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_28602f84e61e" alt="" />
+
+---
+
