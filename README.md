@@ -2,7 +2,7 @@
 # awesome-security-weixin-official-accounts
 网络安全类公众号推荐，点击分类详情可快速查看微信公众号二维码
 
-本项目共分为13大类，收集公众号185个。
+本项目共分为13大类，收集公众号186个。
 收集优质文章在[微信聚合平台](http://47.100.199.103:8000)展示。
 
 - [目录分类]()
@@ -307,6 +307,7 @@
 【[Hatcat123](https://github.com/Hatcat123)】
 【[404](https://github.com/404)】
 【[CyberDefense](https://github.com/CyberDefense)】
+【[Cooper](https://github.com/Cooper)】
 
 ##  Coder
 
