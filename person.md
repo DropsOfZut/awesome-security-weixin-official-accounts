@@ -89,15 +89,6 @@ tombkeeper&nbsp;的公众号
 ---
 
 
-### caoz的梦呓
-
-caoz的心得与分享，只此一家，别无分号。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_daa6a22fe907" alt="" />
-
----
-
-
 ### 即刻安全
 
 即刻安全，致力于网络信息安全的研究学习与传播！我们的目标是，将网络安全带进大家的生活，提高大家的网络安全意识和认知！
@@ -107,29 +98,11 @@ caoz的心得与分享，只此一家，别无分号。
 ---
 
 
-### 路人甲TM
-
-以前我也是个程序员
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_d516081071ec" alt="" />
-
----
-
-
 ### 纯洁的微笑
 
 一个有故事的程序员
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_d751b87d749e" alt="" />
-
----
-
-
-### stormzhang
-
-前码农&amp;产品人，现创业者，终身学习者。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8e217150b0ec" alt="" />
 
 ---
 

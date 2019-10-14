@@ -124,3 +124,12 @@ LYSRC是目前唯一公开漏洞的SRC&nbsp;，欢迎提交漏洞&nbsp;https://s
 
 ---
 
+
+### CNVD漏洞平台
+
+国家信息安全漏洞共享平台（CNVD）是由CNCERT发起，集漏洞统一收集验证、预警发布及应急处置平台，目标是切实提升我国在安全漏洞方面的整体研究水平和及时预防能力，进而提高我国信息系统及国产软件的安全性，带动国内相关安全产品的发展。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_d8b2da442111" alt="" />
+
+---
+
