@@ -28,7 +28,7 @@
 
 ### 极客公园
 
-用极客视角，追踪你最不可错过的科技圈。有快闻、也有洞见；有脑洞、也有思考。
+用极客视角，追踪你最不可错过的科技圈。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=wxid_7762007624712" alt="" />
 
@@ -172,7 +172,7 @@ E安全&nbsp;|&nbsp;全球网络安全资讯新传媒&nbsp;&nbsp;&nbsp;&nbsp;新
 
 ### 重生信息安全
 
-专注安全行业，分享最新安全咨询.
+专注安全行业，分享最新安全技术及咨询.
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_04cf6f9c3f3f" alt="" />
 
@@ -197,9 +197,9 @@ E安全&nbsp;|&nbsp;全球网络安全资讯新传媒&nbsp;&nbsp;&nbsp;&nbsp;新
 ---
 
 
-### 先知安全技术社区
+### 阿里云先知
 
-先知安全技术社区官方公众号
+阿里云先知
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_12f3517e40de" alt="" />
 
@@ -238,6 +238,15 @@ TH社区是国内首个专注于高级威胁发现与安全数据分析的社区
 运筹网络空间，汇聚大众力量
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0523bbd0d401" alt="" />
+
+---
+
+
+### 维他命安全
+
+信息安全那些事儿
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_cf325e4d8d77" alt="" />
 
 ---
 

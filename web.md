@@ -37,7 +37,7 @@ HACK学习，专注于互联网安全与黑客精神；渗透测试，社会工�
 
 ### APT攻击
 
-记录网络攻防的小技巧
+研究网络开源最新技术
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_07c953d58daa" alt="" />
 

@@ -19,7 +19,7 @@
 
 ### 大邓和他的Python
 
-文科生背景的哈工大在读博士，本公众号主要面向编程小白和人文社科类科研工作者，分享的内容涵盖python爬虫、文本数据编码、（文本）数据分析、金融量化、机器学习和深度学习。欢迎关注本号，写论文不再愁数据！
+管理学在读博士，本公众号主要面向经济管理和人文社科类科研工作者，分享内容涵盖python爬虫、文本数据清洗、文本数据分析。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0584db2f5fac" alt="" />
 
@@ -62,9 +62,9 @@
 ---
 
 
-### Web项目聚集地
+### Java后端
 
-关注本公众号后，可以回复「技术博文」来获取高质量技术博文、图文教程，回复「进群」加入官方交流群，回复「购书」即可进入&nbsp;6&nbsp;折正版书店
+关注公众号后，点击右上角三个小点，即可标星公众号。回复「进群」加入官方交流群，回复「技术博文」来获取高质量技术博文、图文教程，回复「购书」即可进入&nbsp;6&nbsp;折正版书店
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_629e9bfde493" alt="" />
 
@@ -80,9 +80,9 @@
 ---
 
 
-### 进击的Robot
+### 进击的Hunter
 
-专注爬虫
+专注Python、爬虫、后端、Poc、Exp及各种骚操作。各位如有什么想法，请私信我~
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_3093cf54140f" alt="" />
 

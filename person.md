@@ -10,7 +10,7 @@
 
 ### 信安之路
 
-专注分享信息安全技术学习与实践的点点滴滴，打造自由学习、交流、分享的安全平台，争做安全从业人员的好帮手！
+让信息安全从业人员到学习成长更简单，成为信息安全行业中帮助大家成长最大的分享平台，专注于信息安全从业人员的各个阶段所需的经验和技术的分享，不蹭热点，坚持原创。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ad6a23e7ba45" alt="" />
 
@@ -19,7 +19,7 @@
 
 ### 二道情报贩子
 
-一个二道贩子，专注任何情报领域。
+二道情报贩子，专注任何情报领域。上知天文,下知地理,中晓人和,明阴阳,懂八卦,晓奇门,知遁甲,运筹帷幄之中,决胜千里之外,自比管仲乐毅之贤,抱膝危坐,笑傲风月,未出茅庐,先定三分天下。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f0f88d5b70e3" alt="" />
 
@@ -100,7 +100,7 @@ tombkeeper&nbsp;的公众号
 
 ### 纯洁的微笑
 
-一个有故事的程序员
+一个有故事的程序员，专注互联网原创文字。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_d751b87d749e" alt="" />
 
@@ -172,7 +172,7 @@ tombkeeper&nbsp;的公众号
 
 ### 危险解除
 
-看看这个光怪陆离的世界。
+研究一切有趣且有价值的事物。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_b9817779d447" alt="" />
 
@@ -260,7 +260,7 @@ Security&nbsp;for&nbsp;life
 ---
 
 
-### c00l安全
+### 安全从0到1
 
 安全技术的交流分享。
 
@@ -280,7 +280,7 @@ Security&nbsp;for&nbsp;life
 
 ### 渗透攻防笔记
 
-分享个人渗透过程中的技巧与思路。
+Advanced&nbsp;attack&nbsp;perspective
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_81b1c78374d6" alt="" />
 
@@ -307,7 +307,7 @@ Security&nbsp;for&nbsp;life
 
 ### 码农翻身
 
-工作15年的前IBM架构师分享好玩有趣的编程知识和职场的经验教训，&nbsp;不容错过。
+可能是最会用故事讲解技术本质的公众号！
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_463af1d02f3b" alt="" />
 
@@ -337,6 +337,15 @@ http://0x11.com.cn
 普及安全攻防知识，记录安全学习心得。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4b4a3202b0eb" alt="" />
+
+---
+
+
+### 漏洞感知
+
+视野之外&nbsp;并非不存在
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_2550012bdb87" alt="" />
 
 ---
 

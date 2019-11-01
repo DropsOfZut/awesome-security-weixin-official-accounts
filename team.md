@@ -242,9 +242,9 @@ OWASP中国，SecZone互联网安全研究中心官方平台
 ---
 
 
-### 威胁猎人
+### 永安在线反欺诈
 
-威胁猎人是一家专注于黑灰产对抗的创新型安全企业，基于对黑灰产的布控能力，为互联网、金融等行业提供反欺诈解决方案。核心产品包括：反欺诈监测平台、手机号画像、IP画像、业务欺诈评估等。
+永安在线是一家专注于黑灰产对抗的创新型安全企业，基于对黑灰产的布控能力，提供一站式反欺诈解决方案。核心产品包括：设备指纹、手机号画像、IP画像、账号安全、内容安全等。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_eb6eb6a3c42f" alt="" />
 
@@ -271,7 +271,7 @@ OWASP中国，SecZone互联网安全研究中心官方平台
 
 ### Ms08067安全实验室
 
-Ms08067安全实验室官方公众号
+www.ms08067.com
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_d073857828cf" alt="" />
 
@@ -283,6 +283,15 @@ Ms08067安全实验室官方公众号
 致力于网络攻防技术的研究和分享！
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_23bdeb3e6091" alt="" />
+
+---
+
+
+### 银河安全实验室
+
+银河安全实验室
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8468db02dbba" alt="" />
 
 ---
 

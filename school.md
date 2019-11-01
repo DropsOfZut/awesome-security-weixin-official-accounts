@@ -1,13 +1,4 @@
 
-### DROPS攻防训练营
-
-中原工学院（ZUT）攻防技术团队
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_84fc2a89caa2" alt="" />
-
----
-
-
 ### 安协小天使
 
 杭州电子科技大学Vidar-Team&nbsp;(原信息安全协会HDUISA&amp;网络空间安全协会)&nbsp;&nbsp;消息助手
