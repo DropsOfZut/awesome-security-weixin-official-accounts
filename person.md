@@ -98,15 +98,6 @@ tombkeeper&nbsp;的公众号
 ---
 
 
-### 纯洁的微笑
-
-一个有故事的程序员，专注互联网原创文字。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_d751b87d749e" alt="" />
-
----
-
-
 ### 安全回忆录
 
 专注于网络攻防技术的研究与分享！

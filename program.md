@@ -1,13 +1,4 @@
 
-### Python开发
-
-分享Python相关技术文章、学习资料、视频教程、热点资讯、工具资源、课程书籍等。每天推送，欢迎投稿！
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e92f70a8bc37" alt="" />
-
----
-
-
 ### Python开发者
 
 人生苦短，我用&nbsp;Python。「Python开发者」分享&nbsp;Python&nbsp;相关的技术文章、工具资源、精选课程、热点资讯等。

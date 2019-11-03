@@ -26,6 +26,15 @@ caoz的心得与分享，只此一家，别无分号。
 ---
 
 
+### 纯洁的微笑
+
+一个有故事的程序员，专注互联网原创文字。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_d751b87d749e" alt="" />
+
+---
+
+
 ### stormzhang
 
 前码农&amp;产品人，现创业者，终身学习者。
