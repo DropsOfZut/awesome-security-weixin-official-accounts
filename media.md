@@ -53,24 +53,6 @@ GeekPwn，全球首个关注智能生活的安全极客大赛！我们在寻找�
 ---
 
 
-### 安在
-
-人物、热点、互动、传播，有内涵的信息安全新媒体。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_374f075560ae" alt="" />
-
----
-
-
-### 青藤云安全资讯
-
-青藤云安全是最理解中国互联网企业的安全伙伴，这里我们一起关注互联网企业安全那些事。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0b0a6d2572a4" alt="" />
-
----
-
-
 ### FreeBuf
 
 国内领先的互联网安全新媒体
@@ -238,15 +220,6 @@ TH社区是国内首个专注于高级威胁发现与安全数据分析的社区
 运筹网络空间，汇聚大众力量
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0523bbd0d401" alt="" />
-
----
-
-
-### 维他命安全
-
-信息安全那些事儿
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_cf325e4d8d77" alt="" />
 
 ---
 

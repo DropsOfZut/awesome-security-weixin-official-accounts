@@ -28,7 +28,7 @@ caoz的心得与分享，只此一家，别无分号。
 
 ### 纯洁的微笑
 
-一个有故事的程序员，专注互联网原创文字。
+一个有故事的程序员，公号内回复：1024，你懂的。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_d751b87d749e" alt="" />
 
@@ -37,7 +37,7 @@ caoz的心得与分享，只此一家，别无分号。
 
 ### stormzhang
 
-前码农&amp;产品人，现创业者，终身学习者。
+前码农&amp;amp;产品人，现创业者，终身学习者。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8e217150b0ec" alt="" />
 

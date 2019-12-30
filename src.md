@@ -8,15 +8,6 @@ OPPO安全应急响应中心(OSRC)官方公众号。
 ---
 
 
-### 小米安全中心
-
-小米安全中心（MiSRC）是致力于保障小米产品、业务线、用户信息等安全，促进与安全专家的合作与交流，而建立的漏洞收集及响应平台。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_2718d08f5227" alt="" />
-
----
-
-
 ### 京东安全应急响应中心
 
 京东安全应急响应中心（JSRC）官方
@@ -98,27 +89,9 @@ LYSRC是目前唯一公开漏洞的SRC&nbsp;，欢迎提交漏洞&nbsp;https://s
 ---
 
 
-### 陌陌安全
+### 绿盟科技安全情报
 
-陌陌安全致力于守护陌陌亿万用户信息安全，为陌陌产品安全保驾护航，为亿万用户提供安全的互联网生态环境。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0b9e1461c456" alt="" />
-
----
-
-
-### 本地生活安全响应中心
-
-阿里巴巴本地生活安全响应中心（ALSCSRC）
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_3e64f6182d77" alt="" />
-
----
-
-
-### 绿盟科技安全预警
-
-绿盟科技安全预警针对高危的网络安全事件进行快速响应，提供可落地的解决方案，协助用户提升应对未知威胁的能力。
+绿盟科技安全情报针对高危的网络安全事件进行快速响应，提供可落地的解决方案，协助用户提升应对未知威胁的能力。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_28602f84e61e" alt="" />
 
@@ -130,15 +103,6 @@ LYSRC是目前唯一公开漏洞的SRC&nbsp;，欢迎提交漏洞&nbsp;https://s
 国家信息安全漏洞共享平台（CNVD）是由CNCERT发起，集漏洞统一收集验证、预警发布及应急处置平台，目标是切实提升我国在安全漏洞方面的整体研究水平和及时预防能力，进而提高我国信息系统及国产软件的安全性，带动国内相关安全产品的发展。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_d8b2da442111" alt="" />
-
----
-
-
-### 斗象智能安全平台
-
-斗象科技以人工智能、大数据技术为核心，结合流量监听与主动探测技术，自主研发的新一代智能安全产品解决方案，为企业建立基于人工智能的威胁监测与数据分析体系。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f58af6ae958a" alt="" />
 
 ---
 

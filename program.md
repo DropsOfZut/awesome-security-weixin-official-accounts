@@ -8,15 +8,6 @@
 ---
 
 
-### 大邓和他的Python
-
-管理学在读博士，本公众号主要面向经济管理和人文社科类科研工作者，分享内容涵盖python爬虫、文本数据清洗、文本数据分析。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0584db2f5fac" alt="" />
-
----
-
-
 ### 进击的Coder
 
 分享技术文章和编程经验，内容多为网络爬虫、机器学习、Web&nbsp;开发等方向。
@@ -82,7 +73,7 @@
 
 ### Python小屋
 
-《Python程序设计（第2版）》《Python程序设计基础（第2版）》《Python可以这样学》《Python程序设计开发宝典》系列教材作者董付国老师的Python小屋，介绍Python语法基础、标准库、扩展库以及在各领域的应用。
+15本Python系列教材作者董付国老师的小屋，介绍Python语法基础、标准库、扩展库以及在各领域的应用。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_6f2df669dea9" alt="" />
 
@@ -94,24 +85,6 @@
 全方位覆盖AI经典算法与工业应用，紧跟业界新趋势，让你始终站在技术前沿。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0339db23ffb8" alt="" />
-
----
-
-
-### NightTeam
-
-夜幕团队公众号，涉猎的编程语言包括&nbsp;Python、Rust、C++、Go，领域涵盖爬虫、深度学习、服务研发和对象存储等，反正谁先关注，谁先涨工资。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_b46c4f4dc23b" alt="" />
-
----
-
-
-### GitChat
-
-在&nbsp;GitChat&nbsp;分享技术，用技术改变世界！GitBook.cn
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_70e5bd086d1e" alt="" />
 
 ---
 

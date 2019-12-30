@@ -17,24 +17,6 @@
 ---
 
 
-### 嘶吼专业版
-
-为您带来每日最新最专业的互联网安全专业信息。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_523f772a62a6" alt="" />
-
----
-
-
-### HACK学习呀
-
-HACK学习，专注于互联网安全与黑客精神；渗透测试，社会工程学，Python黑客编程，资源分享，Web渗透培训，电脑技巧，渗透技巧等，为广大网络安全爱好者一个交流分享学习的平台！
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_12c7579d6f37" alt="" />
-
----
-
-
 ### APT攻击
 
 研究网络开源最新技术
@@ -76,15 +58,6 @@ HACK学习，专注于互联网安全与黑客精神；渗透测试，社会工�
 Nexpose,Metasploit,AppSpider,InsightIDR
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_c27e19653a68" alt="" />
-
----
-
-
-### Timeline&nbsp;Sec
-
-安全圈必备公众号之一！专注于最新漏洞复现！内含漏洞时间线工具靶场等干货！记录每一个漏洞，捕捉安全的每一瞬间！
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_023acbc11c66" alt="" />
 
 ---
 
