@@ -88,3 +88,30 @@
 
 ---
 
+
+### NightTeam
+
+夜幕团队公众号，涉猎的编程语言包括&nbsp;Python、Rust、C++、Go，领域涵盖爬虫、深度学习、服务研发和对象存储等，反正谁先关注，谁先涨工资。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_b46c4f4dc23b" alt="" />
+
+---
+
+
+### GitChat
+
+在&nbsp;GitChat&nbsp;分享技术，用技术改变世界！GitBook.cn
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_70e5bd086d1e" alt="" />
+
+---
+
+
+### 七夜安全博客
+
+本公众号分享的内容不仅仅是python开发，还有更多的安全内容。&nbsp;主要内容：&nbsp;python&nbsp;爬虫；&nbsp;python&nbsp;web；&nbsp;web安全；&nbsp;无线安全；&nbsp;移动安全；&nbsp;硬件安全；&nbsp;逆向破解；&nbsp;操作系统。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_20344080d59d" alt="" />
+
+---
+

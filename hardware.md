@@ -7,3 +7,12 @@
 
 ---
 
+
+### 物联网IOT安全
+
+我们是一个专注于物联网IOT安全&nbsp;固件逆向&nbsp;近源攻击&nbsp;硬件破解的公众号，与我们一起学习进步。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a86356973ade" alt="" />
+
+---
+
