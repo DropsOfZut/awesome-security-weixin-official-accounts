@@ -2,7 +2,7 @@
 # awesome-security-weixin-official-accounts
 网络安全类公众号推荐，点击分类详情可快速查看微信公众号二维码
 
-本项目共分为13大类，收集公众号194个。
+本项目共分为13大类，收集公众号196个。
 收集优质文章在[微信聚合平台](http://wechat.doonsec.com)展示。
 
 - [目录分类]()
@@ -145,6 +145,8 @@
 * [贝塔安全实验室](/team.md#贝塔安全实验室) :- 致力于网络攻防技术的研究和分享！ 
 * [银河安全实验室](/team.md#银河安全实验室) :- 银河安全实验室 
 * [弥天安全实验室](/team.md#弥天安全实验室) :- 弥天安全实验室，需要您的支持！ 
+* [Nu1L&nbsp;Team](/team.md#Nu1L&nbsp;Team) :- 这里是Nu1L&nbsp;Team，欢迎关注我们。我们会不定期发放一些福利，技术文章等。 
+* [洞见网安](/team.md#洞见网安) :- 洞见网安，专注于网络空间测绘、漏洞研究、远程监测、漏洞预警 
 
 
 ---
@@ -321,6 +323,7 @@
 【[Paper-Pen](https://github.com/Paper-Pen)】
 【[你们的饭不好吃](https://github.com/你们的饭不好吃)】
 【[mmmshuoka](https://github.com/mmmshuoka)】
+【[Jdrops](https://github.com/Jdrops)】
 
 ##  Coder
 
