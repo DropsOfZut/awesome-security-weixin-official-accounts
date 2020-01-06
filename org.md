@@ -8,6 +8,15 @@
 ---
 
 
+### 绿盟科技
+
+绿盟科技&nbsp;官方微信
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a6e835eea3e1" alt="" />
+
+---
+
+
 ### 知道创宇
 
 知道创宇公众微信，知道创宇是微软在亚太地区唯一的安全提供商，致力于互联网安全研究，为用户打造更好更安全的互联网

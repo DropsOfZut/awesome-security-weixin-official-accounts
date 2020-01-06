@@ -8,6 +8,15 @@
 ---
 
 
+### 大邓和他的Python
+
+管理学在读博士，本公众号基本围绕着文科生科研需要，分享python网络爬虫、文本数据清洗、文本数据分析。内容相对简单易懂，力求每篇文章末尾附有实验代码和数据，方便大家看后动手练习。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0584db2f5fac" alt="" />
+
+---
+
+
 ### 进击的Coder
 
 分享技术文章和编程经验，内容多为网络爬虫、机器学习、Web&nbsp;开发等方向。

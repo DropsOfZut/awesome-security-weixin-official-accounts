@@ -188,15 +188,6 @@ E安全&nbsp;|&nbsp;全球网络安全资讯新传媒&nbsp;&nbsp;&nbsp;&nbsp;新
 ---
 
 
-### 安全盒子
-
-安全盒子是一个专注于Web安全的网络媒体,致力于做国内高质量的安全社交圈子。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_b02942bb1a62" alt="" />
-
----
-
-
 ### 阿里云先知
 
 阿里云先知
