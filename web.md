@@ -62,15 +62,6 @@ HACK学习，专注于互联网安全与黑客精神；渗透测试，社会工�
 ---
 
 
-### 91RI我的安全攻防指南
-
-91RI我的安全攻防指南
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_625903db7ac8" alt="" />
-
----
-
-
 ### Rapid7cn
 
 Nexpose,Metasploit,AppSpider,InsightIDR

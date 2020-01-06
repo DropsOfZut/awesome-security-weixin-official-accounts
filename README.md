@@ -2,7 +2,7 @@
 # awesome-security-weixin-official-accounts
 网络安全类公众号推荐，点击分类详情可快速查看微信公众号二维码
 
-本项目共分为13大类，收集公众号198个。
+本项目共分为13大类，收集公众号197个。
 收集优质文章在[微信聚合平台](http://wechat.doonsec.com)展示。
 
 - [目录分类]()
@@ -230,7 +230,6 @@
 * [APT攻击](/web.md#APT攻击) :- 研究网络开源最新技术 
 * [天億网络安全](/web.md#天億网络安全) :- 全面介绍网络安全相关知识、安全建设方案、分享网络安全行业法律法规及相关政策等内容，一个学习网络安全知识、技术、业务交流的全国性平台。 
 * [Web安全与前端](/web.md#Web安全与前端) :- 分享Web安全与前端相关技术 
-* [91RI我的安全攻防指南](/web.md#91RI我的安全攻防指南) :- 91RI我的安全攻防指南 
 * [Rapid7cn](/web.md#Rapid7cn) :- Nexpose,Metasploit,AppSpider,InsightIDR 
 * [Timeline&nbsp;Sec](/web.md#Timeline&nbsp;Sec) :- 安全圈必备公众号之一！专注于最新漏洞复现！内含漏洞时间线工具靶场等干货！记录每一个漏洞，捕捉安全的每一瞬间！ 
 
