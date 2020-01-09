@@ -170,24 +170,6 @@ tombkeeper&nbsp;的公众号
 ---
 
 
-### 安全IT
-
-信息安全技术，自由分享共同进步
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_3883c6f6bf20" alt="" />
-
----
-
-
-### 极客路标
-
-极客/黑客/黑科技与安全情报
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_984f83565bcf" alt="" />
-
----
-
-
 ### lovesec
 
 专注信息安全/渗透测试
@@ -346,6 +328,33 @@ www.0x11.com.cn
 一生等不到表哥一句我带你
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_cf500232f7e2" alt="" />
+
+---
+
+
+### 赵武的自留地
+
+关注&amp;quot;赵武的自留地&amp;quot;，在艰苦的生活中，每天获取一些苦中作乐的正能量，给生活添点彩！
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_86033a4f818d" alt="" />
+
+---
+
+
+### Hacking就是好玩
+
+写安全工具的同时，写写字解闷~
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_aed6cfc863ed" alt="" />
+
+---
+
+
+### 牵着蜗牛遛弯儿
+
+积跬步而至千里，分享学习记录和心得体会。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_48b9f5c68a8e" alt="" />
 
 ---
 

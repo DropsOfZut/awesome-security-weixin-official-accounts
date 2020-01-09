@@ -322,3 +322,66 @@ www.ms08067.com
 
 ---
 
+
+### J8sec
+
+我们的征途是星辰大海
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_154457a4af3f" alt="" />
+
+---
+
+
+### 奇门遁甲安全
+
+未知攻焉知防，未知防焉知攻。&nbsp;奇门遁甲以攻防双方视角解析网络空间安全技术。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8fd9c4cba267" alt="" />
+
+---
+
+
+### AD风险实验室
+
+攻防实验室，您身边的攻防专业知识学习平台。专注于分析互联网黑产群体的作恶手段，研究对抗策略。拥有新鲜黑产情报，前沿防护攻略，欢迎关注！
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_28f00bd12587" alt="" />
+
+---
+
+
+### 百度安全实验室
+
+百度安全实验室
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_1e658861efef" alt="" />
+
+---
+
+
+### 川云安全团队
+
+川云安全团队官方公众号，不定期推送技术文章，渗透技巧和热点新网等文章。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_138026bbf6e0" alt="" />
+
+---
+
+
+### 暗影安全实验室
+
+暗影安全实验室-移动互联网安全咨询订阅号，为您分享最新移动互联网安全咨询
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a17e59b582fe" alt="" />
+
+---
+
+
+### 盘古实验室
+
+专注于移动互联网安全
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_7a4954a8e153" alt="" />
+
+---
+
