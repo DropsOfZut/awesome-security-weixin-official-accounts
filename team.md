@@ -53,7 +53,7 @@ Seebug，原&nbsp;Sebug&nbsp;漏洞平台，洞悉漏洞，让你掌握第一手
 ---
 
 
-### TideSec安全团队
+### Tide安全团队
 
 http://www.TideSec.net&nbsp;知识、技能、工具、分享
 
