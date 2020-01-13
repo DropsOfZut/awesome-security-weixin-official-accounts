@@ -1,13 +1,4 @@
 
-### 四叶草安全
-
-发布四叶草安全最新动态，洞悉安全领域热点事件，剖析黑客前沿技术
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ec13b31de182" alt="" />
-
----
-
-
 ### 绿盟科技
 
 绿盟科技&nbsp;官方微信

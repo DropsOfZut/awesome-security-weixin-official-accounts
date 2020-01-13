@@ -1,13 +1,4 @@
 
-### 马哥Linux运维
-
-嘿！等你好久了。马哥Linux运维目前有近10万小伙伴在这里学习和成长，我们每天为你呈上Linux运维工程师超爱的Linux学习教程、Linux培训视频，还可以免费拿Linux、Python、大数据的前沿实战干货，一起来吧！
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_904f08561055" alt="" />
-
----
-
-
 ### Linux学习
 
 专注分享Linux/Unix相关内容，包括Linux命令、Linux内核、Linux系统开发、Linux运维、网络编程、开发工具等Linux相关知识和技术
@@ -46,7 +37,7 @@ Linux、Python、开发、运维、IT圈、技术栈，就说这些事儿。
 
 ### Docker中文社区
 
-Docker中文社区旨在为大家提供Docker相关工具及前沿资讯信息，方便大家了解学习Docker相关技术。官网：www.dockerchina.cn
+Docker中文社区旨在为大家提供Docker、K8s相关工具及前沿资讯信息，方便大家了解学习Docker相关技术。官网：www.dockerchina.cn
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8620cb9f61a5" alt="" />
 

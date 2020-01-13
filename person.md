@@ -46,7 +46,7 @@
 
 ### 安全泰式柑汁
 
-分享、记录自己的一些安全知识和心得
+记录、分享自己的一些安全知识和心得
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_70c66b1c835d" alt="" />
 
@@ -163,7 +163,7 @@ tombkeeper&nbsp;的公众号
 
 ### 危险解除
 
-研究一切有趣且有价值的事物。
+我想保护你（ง&nbsp;•̀_•́)ง
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_b9817779d447" alt="" />
 
@@ -224,15 +224,6 @@ Security&nbsp;for&nbsp;life
 ---
 
 
-### Thorns的安全分享
-
-安全技术交流和分享。~号主偶尔会神经质的发几篇跟安全无关的文章...
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_d98cd470fe17" alt="" />
-
----
-
-
 ### 安全从0到1
 
 安全技术的交流分享。
@@ -289,7 +280,7 @@ Advanced&nbsp;attack&nbsp;perspective
 
 ### 洛米唯熊
 
-www.0x11.com.cn
+洛米唯熊
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_c9782067c453" alt="" />
 

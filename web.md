@@ -53,15 +53,6 @@ HACK学习，专注于互联网安全与黑客精神；渗透测试，社会工�
 ---
 
 
-### Web安全与前端
-
-分享Web安全与前端相关技术
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_fd004ddbc6d4" alt="" />
-
----
-
-
 ### Rapid7cn
 
 Nexpose,Metasploit,AppSpider,InsightIDR
@@ -73,7 +64,7 @@ Nexpose,Metasploit,AppSpider,InsightIDR
 
 ### Timeline&nbsp;Sec
 
-安全圈必备公众号之一！专注于最新漏洞复现！内含漏洞时间线工具靶场等干货！记录每一个漏洞，捕捉安全的每一瞬间！
+Timeline&nbsp;Sec团队公众号，内含大量漏洞复现文章，漏洞时间线，工具靶场等干货！我们在为打造安全圈好的技术氛围而努力，这里绝对是你学习技术的好地方。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_023acbc11c66" alt="" />
 

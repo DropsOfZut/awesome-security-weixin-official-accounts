@@ -62,15 +62,6 @@ caoz的心得与分享，只此一家，别无分号。
 ---
 
 
-### CSDN
-
-专业的中文&nbsp;IT&nbsp;技术社区，与千万技术人共成长。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_5c0f5c561574" alt="" />
-
----
-
-
 ### 一本黑
 
 此号是枚互联网从业者所开，旨在将互联网中的黑色产业、行业里鲜有人知的故事，从幕后带到大众面前，让圈外人也无障碍的理解。
