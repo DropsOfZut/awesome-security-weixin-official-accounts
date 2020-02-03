@@ -19,7 +19,7 @@ caoz的心得与分享，只此一家，别无分号。
 
 ### 路人甲TM
 
-以前我也是个程序员
+一破写字的
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_d516081071ec" alt="" />
 
