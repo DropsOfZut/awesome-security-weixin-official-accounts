@@ -2,7 +2,7 @@
 # awesome-security-weixin-official-accounts
 网络安全类公众号推荐，点击分类详情可快速查看微信公众号二维码
 
-本项目共分为13大类，收集公众号207个。
+本项目共分为13大类，收集公众号208个。
 收集优质文章在[微信聚合平台](http://wechat.doonsec.com)展示。
 
 - [目录分类]()
@@ -225,6 +225,7 @@
 * [赵武的自留地](/person.md#赵武的自留地) :- 关注&amp;quot;赵武的自留地&amp;quot;，在艰苦的生活中，每天获取一些苦中作乐的正能量，给生活添点彩！ 
 * [Hacking就是好玩](/person.md#Hacking就是好玩) :- 写安全工具的同时，写写字解闷~ 
 * [牵着蜗牛遛弯儿](/person.md#牵着蜗牛遛弯儿) :- 积跬步而至千里，分享学习记录和心得体会。 
+* [陈冠男的游戏人生](/person.md#陈冠男的游戏人生) :- 终有一天会发现，现在追逐和拥有的，只不过就像当初幼儿园里的小红花 
 
 
 ---
@@ -331,6 +332,7 @@
 【[你们的饭不好吃](https://github.com/你们的饭不好吃)】
 【[mmmshuoka](https://github.com/mmmshuoka)】
 【[Jdrops](https://github.com/Jdrops)】
+【[yichen](https://github.com/yichen)】
 
 ##  Coder
 

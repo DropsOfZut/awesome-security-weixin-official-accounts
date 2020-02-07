@@ -349,3 +349,12 @@ Advanced&nbsp;attack&nbsp;perspective
 
 ---
 
+
+### 陈冠男的游戏人生
+
+终有一天会发现，现在追逐和拥有的，只不过就像当初幼儿园里的小红花
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_2799a6715dae" alt="" />
+
+---
+
