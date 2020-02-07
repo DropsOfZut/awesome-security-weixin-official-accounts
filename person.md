@@ -358,3 +358,21 @@ Advanced&nbsp;attack&nbsp;perspective
 
 ---
 
+
+### Gcow安全团队
+
+拯救糟糕的网安，Gcow是当前国内为数不多的民间网络信息安全研究团队之一。Gcow不存在任何盈利与商业性质，本着“低调求发展”的理念、在严格遵守国家法律的前提下低调和谐健康发展，其浓厚的讨论氛围，广泛的研究范围，令不少安全爱好者神往！
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f444cf1f314b" alt="" />
+
+---
+
+
+### Sec盾
+
+分享安全技术，跟进安全发展。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_7c127570b15f" alt="" />
+
+---
+

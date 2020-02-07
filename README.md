@@ -2,7 +2,7 @@
 # awesome-security-weixin-official-accounts
 网络安全类公众号推荐，点击分类详情可快速查看微信公众号二维码
 
-本项目共分为13大类，收集公众号208个。
+本项目共分为13大类，收集公众号211个。
 收集优质文章在[微信聚合平台](http://wechat.doonsec.com)展示。
 
 - [目录分类]()
@@ -156,6 +156,7 @@
 * [暗影安全实验室](/team.md#暗影安全实验室) :- 暗影安全实验室-移动互联网安全咨询订阅号，为您分享最新移动互联网安全咨询 
 * [盘古实验室](/team.md#盘古实验室) :- 专注于移动互联网安全 
 * [ThreatPage全球威胁情报](/team.md#ThreatPage全球威胁情报) :- 发布网络空间安全态势，提供最新网络空间威胁情报。 
+* [鸿鹄实验室](/team.md#鸿鹄实验室) :- 鸿鹄实验室，欢迎关注 
 
 
 ---
@@ -226,6 +227,8 @@
 * [Hacking就是好玩](/person.md#Hacking就是好玩) :- 写安全工具的同时，写写字解闷~ 
 * [牵着蜗牛遛弯儿](/person.md#牵着蜗牛遛弯儿) :- 积跬步而至千里，分享学习记录和心得体会。 
 * [陈冠男的游戏人生](/person.md#陈冠男的游戏人生) :- 终有一天会发现，现在追逐和拥有的，只不过就像当初幼儿园里的小红花 
+* [Gcow安全团队](/person.md#Gcow安全团队) :- 拯救糟糕的网安，Gcow是当前国内为数不多的民间网络信息安全研究团队之一。Gcow不存在任何盈利与商业性质，本着“低调求发展”的理念、在严格遵守国家法律的前提下低调和谐健康发展，其浓厚的讨论氛围，广泛的研究范围，令不少安全爱好者神往！ 
+* [Sec盾](/person.md#Sec盾) :- 分享安全技术，跟进安全发展。 
 
 
 ---
@@ -333,6 +336,8 @@
 【[mmmshuoka](https://github.com/mmmshuoka)】
 【[Jdrops](https://github.com/Jdrops)】
 【[yichen](https://github.com/yichen)】
+【[lengyi](https://github.com/lengyi)】
+【[crazyman](https://github.com/crazyman)】
 
 ##  Coder
 
