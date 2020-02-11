@@ -403,3 +403,12 @@ www.ms08067.com
 
 ---
 
+
+### 靶机狂魔
+
+欢迎各路靶机狂魔的各种sao思路
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_28c5809be921" alt="" />
+
+---
+

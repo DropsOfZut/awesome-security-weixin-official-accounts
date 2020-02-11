@@ -2,7 +2,7 @@
 # awesome-security-weixin-official-accounts
 网络安全类公众号推荐，点击分类详情可快速查看微信公众号二维码
 
-本项目共分为13大类，收集公众号211个。
+本项目共分为13大类，收集公众号213个。
 收集优质文章在[微信聚合平台](http://wechat.doonsec.com)展示。
 
 - [目录分类]()
@@ -157,6 +157,7 @@
 * [盘古实验室](/team.md#盘古实验室) :- 专注于移动互联网安全 
 * [ThreatPage全球威胁情报](/team.md#ThreatPage全球威胁情报) :- 发布网络空间安全态势，提供最新网络空间威胁情报。 
 * [鸿鹄实验室](/team.md#鸿鹄实验室) :- 鸿鹄实验室，欢迎关注 
+* [靶机狂魔](/team.md#靶机狂魔) :- 欢迎各路靶机狂魔的各种sao思路 
 
 
 ---
@@ -251,6 +252,7 @@
 ## [网络运维类](/operation.md)
 
 *运维、操作系统、加固*
+* [马哥Linux运维](/operation.md#马哥Linux运维) :- 马哥教育创办于2009年，国内高端IT培训品牌，毕业学员薪资12K+以上，累计培养数万人。有Linux云计算运维、Python全栈、自动化、数据分析、人工智能、Go高并发架构等高薪就业课程。凭借高品质课程和良好口碑，与多家互联网建立人才合作 
 * [Linux学习](/operation.md#Linux学习) :- 专注分享Linux/Unix相关内容，包括Linux命令、Linux内核、Linux系统开发、Linux运维、网络编程、开发工具等Linux相关知识和技术 
 * [Python运维圈](/operation.md#Python运维圈) :- Linux、Python、开发、运维、IT圈、技术栈，就说这些事儿。 
 * [Linux中国](/operation.md#Linux中国) :- 十万级技术订阅号，依托于『Linux中国』（https://linux.cn/）社区，专注于&nbsp;Linux&nbsp;学习、技术研究、开源思想传播。 
@@ -338,6 +340,8 @@
 【[yichen](https://github.com/yichen)】
 【[lengyi](https://github.com/lengyi)】
 【[crazyman](https://github.com/crazyman)】
+【[HELEL](https://github.com/HELEL)】
+【[lsh4ck](https://github.com/lsh4ck)】
 
 ##  Coder
 
