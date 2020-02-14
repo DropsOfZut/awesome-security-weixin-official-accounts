@@ -8,15 +8,6 @@
 ---
 
 
-### 信安之路
-
-记录和分享信息安全从业人员成长过程中的点点滴滴，通过『学习』『总结』『分享』『拓展』『交流』这个过程，不断迭代自己，不断成长，成就我们大家的信安之路
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ad6a23e7ba45" alt="" />
-
----
-
-
 ### 二道情报贩子
 
 二道情报贩子，专注任何情报领域。上知天文,下知地理,中晓人和,明阴阳,懂八卦,晓奇门,知遁甲,运筹帷幄之中,决胜千里之外,自比管仲乐毅之贤,抱膝危坐,笑傲风月,未出茅庐,先定三分天下。
@@ -166,6 +157,15 @@ tombkeeper&nbsp;的公众号
 自由记者/半虚构写手
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_b9817779d447" alt="" />
+
+---
+
+
+### HenceTech
+
+浩子哥的个人公众号
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_75a8b5dd04be" alt="" />
 
 ---
 
@@ -359,20 +359,20 @@ Advanced&nbsp;attack&nbsp;perspective
 ---
 
 
-### Gcow安全团队
-
-拯救糟糕的网安，Gcow是当前国内为数不多的民间网络信息安全研究团队之一。Gcow不存在任何盈利与商业性质，本着“低调求发展”的理念、在严格遵守国家法律的前提下低调和谐健康发展，其浓厚的讨论氛围，广泛的研究范围，令不少安全爱好者神往！
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f444cf1f314b" alt="" />
-
----
-
-
 ### Sec盾
 
 分享安全技术，跟进安全发展。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_7c127570b15f" alt="" />
+
+---
+
+
+### saulGoodman
+
+一个专注于红队攻防研究的公众号
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_bb6062937f1c" alt="" />
 
 ---
 
