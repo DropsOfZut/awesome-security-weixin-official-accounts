@@ -385,3 +385,21 @@ Advanced&nbsp;attack&nbsp;perspective
 
 ---
 
+
+### 黑鸟
+
+一介草民，深耕威胁情报领域多年，自封威胁分析师，APT狩猎者，战略忽悠分析师。&nbsp;专注推送一切前沿高科技战争分析，敌我战略分析，“数据”挖掘，情报拓展，网络武器分析，社会工程学等。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_68f37a80b8cb" alt="" />
+
+---
+
+
+### HacTF
+
+聚焦网络安全，传播黑客思维，广交天下豪杰
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_aa8772835270" alt="" />
+
+---
+
