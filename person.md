@@ -403,3 +403,21 @@ Advanced&nbsp;attack&nbsp;perspective
 
 ---
 
+
+### 白帽技术与网络安全
+
+致力于分享白帽黑客技术，维护网络安全！
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_be8095356e84" alt="" />
+
+---
+
+
+### 零度安全攻防实验室
+
+一个分享实战经验的平台;&nbsp;一个专注于web安全、渗透测试、漏洞挖掘、资源分享并为广大网络安全爱好者提供交流分享学习的平台。欢迎各位喜欢做安全的朋友加入。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_cca96597df2a" alt="" />
+
+---
+

@@ -440,11 +440,38 @@ www.ms08067.com
 ---
 
 
+### 鸟情局
+
+黑鸟威胁情报中心下属分局，专注严肃情报输出
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_764b9e741caa" alt="" />
+
+---
+
+
 ### 掘安攻防实验室
 
 专注于研究网络攻防对抗、信息安全、通信工程、软件工程、网络工程等计算机相关技术，发布原创技术文章
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4e7cd792e228" alt="" />
+
+---
+
+
+### 连接世界的暗影
+
+如果我们不曾看到影子，那就证明我们深处黑暗。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4f0dabd0df69" alt="" />
+
+---
+
+
+### 安全加
+
+安全+&nbsp;专注于信息安全⾏业，通过互联⽹平台、线下沙⻰、培训、峰会、⼈才招聘等多种形式，培养安全⼈才，提升⾏业的整体素质，助推安全⽣态圈的健康发展。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ef753c5e1ccb" alt="" />
 
 ---
 
