@@ -16,3 +16,12 @@
 
 ---
 
+
+### 冰崖的部落阁
+
+探讨分享信息安全，网络安全，硬件安全，业余无线电及编程自媒体等技术
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_3953fa56d850" alt="" />
+
+---
+
