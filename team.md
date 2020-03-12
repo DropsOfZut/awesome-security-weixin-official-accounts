@@ -10,7 +10,7 @@
 
 ### Seebug漏洞平台
 
-Seebug，原&nbsp;Sebug&nbsp;漏洞平台，洞悉漏洞，让你掌握第一手漏洞情报！
+Seebug，原 Sebug 漏洞平台，洞悉漏洞，让你掌握第一手漏洞情报！
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_7a00af2b3993" alt="" />
 
@@ -46,7 +46,7 @@ Seebug，原&nbsp;Sebug&nbsp;漏洞平台，洞悉漏洞，让你掌握第一手
 
 ### 信安之路
 
-记录和分享信息安全从业人员成长过程中的点点滴滴，通过『学习』『总结』『分享』『拓展』『交流』这个过程，不断迭代自己，不断成长，成就我们大家的信安之路
+记录和分享信息安全从业人员成长过程中的点点滴滴，通过『学习』『总结』『分享』『拓展』『交流』这个过程，不断迭代自己，不断成长。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ad6a23e7ba45" alt="" />
 
@@ -64,7 +64,7 @@ Seebug，原&nbsp;Sebug&nbsp;漏洞平台，洞悉漏洞，让你掌握第一手
 
 ### Tide安全团队
 
-http://www.TideSec.net&nbsp;知识、技能、工具、分享
+Tide安全团队以信安技术研究为目标，致力于分享高质量原创文章、开源安全工具、交流安全技术，研究方向覆盖网络攻防、Web安全、移动终端、安全开发、物联网/工控安全/AI安全等多个领域，对安全感兴趣的小伙伴可以关注我们。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_c4b3e568832e" alt="" />
 
@@ -127,7 +127,7 @@ http://www.TideSec.net&nbsp;知识、技能、工具、分享
 
 ### 猎户攻防实验室
 
-江南天安猎户攻防实验室，专注于信息安全攻防研究。分享有关渗透测试、代码审计、漏洞分析与挖掘、攻击溯源、逆向工程、数据挖掘、关联分析等领域的所见所得。&nbsp;其他奇淫技巧及神兵利器，请关注我们的技术博客&nbsp;liehu.tass.com.cn
+江南天安猎户攻防实验室，专注于信息安全攻防研究。分享有关渗透测试、代码审计、漏洞分析与挖掘、攻击溯源、逆向工程、数据挖掘、关联分析等领域的所见所得。 其他奇淫技巧及神兵利器，请关注我们的技术博客 liehu.tass.com.cn
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_58e3957f6def" alt="" />
 
@@ -145,7 +145,7 @@ http://www.TideSec.net&nbsp;知识、技能、工具、分享
 
 ### Secquan圈子社区
 
-secquan.org汇聚新锐&nbsp;共同进步
+secquan.org汇聚新锐 共同进步
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_3579b91bd213" alt="" />
 
@@ -190,7 +190,7 @@ secquan.org汇聚新锐&nbsp;共同进步
 
 ### 天御攻防实验室
 
-专注威胁感知、威胁猎杀、高级威胁检测，Adversary&nbsp;Simulation、Adversary&nbsp;Detection、Adversary&nbsp;Resilience
+专注威胁感知、威胁猎杀、高级威胁检测，Adversary Simulation、Adversary Detection、Adversary Resilience
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_5206deb3cebc" alt="" />
 
@@ -199,7 +199,7 @@ secquan.org汇聚新锐&nbsp;共同进步
 
 ### PolarisLab
 
-勾陈安全实验室&nbsp;Www.Polaris-Lab.Com
+勾陈安全实验室 Www.Polaris-Lab.Com
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4c7b624d40b3" alt="" />
 
@@ -262,7 +262,7 @@ OWASP中国，SecZone互联网安全研究中心官方平台
 
 ### 网络安全社区悦信安
 
-一个专心研究网络安全技术的小团体，专为热爱或从事网络安全、信息安全、移动端逆向安全、二进制安全、web渗透测试等安全技术人员提供。&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我们的主旨是低调求发展，潜心习技术。专攻术业！
+一个专心研究网络安全技术的小团体，专为热爱或从事网络安全、信息安全、移动端逆向安全、二进制安全、web渗透测试等安全技术人员提供。        我们的主旨是低调求发展，潜心习技术。专攻术业！
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a68dd0e61d37" alt="" />
 
@@ -316,7 +316,7 @@ www.ms08067.com
 
 ### Nu1L&nbsp;Team
 
-这里是Nu1L&nbsp;Team，欢迎关注我们。我们会不定期发放一些福利，技术文章等。
+这里是Nu1L Team，欢迎关注我们。我们会不定期发放一些福利，技术文章等。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e8aa3cdbc0d8" alt="" />
 
@@ -343,7 +343,7 @@ www.ms08067.com
 
 ### 奇门遁甲安全
 
-未知攻焉知防，未知防焉知攻。&nbsp;奇门遁甲以攻防双方视角解析网络空间安全技术。
+未知攻焉知防，未知防焉知攻。 奇门遁甲以攻防双方视角解析网络空间安全技术。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8fd9c4cba267" alt="" />
 
@@ -415,7 +415,7 @@ www.ms08067.com
 
 ### Gcow安全团队
 
-拯救糟糕的网安，Gcow是当前国内为数不多的民间网络信息安全研究团队之一。Gcow不存在任何盈利与商业性质，本着“低调求发展”的理念、在严格遵守国家法律的前提下低调和谐健康发展，其浓厚的讨论氛围，广泛的研究范围，令不少安全爱好者神往！
+Gcow是当前国内为数不多的民间网络信息安全研究团队之一。Gcow不存在任何盈利与商业性质，本着“低调求发展”的理念、在严格遵守国家法律的前提下低调和谐健康发展，其浓厚的讨论氛围，广泛的研究范围，令不少安全爱好者神往！
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f444cf1f314b" alt="" />
 
@@ -469,7 +469,7 @@ www.ms08067.com
 
 ### 安全加
 
-安全+&nbsp;专注于信息安全⾏业，通过互联⽹平台、线下沙⻰、培训、峰会、⼈才招聘等多种形式，培养安全⼈才，提升⾏业的整体素质，助推安全⽣态圈的健康发展。
+安全+ 专注于信息安全⾏业，通过互联⽹平台、线下沙⻰、培训、峰会、⼈才招聘等多种形式，培养安全⼈才，提升⾏业的整体素质，助推安全⽣态圈的健康发展。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ef753c5e1ccb" alt="" />
 

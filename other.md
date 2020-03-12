@@ -37,7 +37,7 @@ caoz的心得与分享，只此一家，别无分号。
 
 ### stormzhang
 
-前码农&amp;amp;产品人，现创业者，终身学习者。
+前码农&amp;产品人，现自由职业者，创业者。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8e217150b0ec" alt="" />
 
@@ -55,7 +55,7 @@ caoz的心得与分享，只此一家，别无分号。
 
 ### 安全帮Live
 
-安全帮&nbsp;帮你学安全
+安全帮 帮你学安全
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_499ac9d326f5" alt="" />
 

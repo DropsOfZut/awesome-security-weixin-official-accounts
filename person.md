@@ -28,7 +28,7 @@
 
 ### 红队攻防揭秘
 
-致力于高质量实用技术干货分享，来吧，和众多资深APT玩家一起深度无缝交流，密圈等您，在这里，你收获到的，将不再仅仅是技术，还有更多用钱买不来的高质量人脉，博客此后将不再进行任何更新，更多优质内容也将全线转入自己密圈中，感谢一路陪伴&nbsp;!
+将恪守初衷，致力于高质量实用技术干货分享，来吧，和众多资深红队玩家一起深度无缝交流，密圈等您，在这里，你收获到的，可能不再仅仅是技术，还有更多用钱买不来的高质量人脉，博客此后将不再进行任何更新，感谢一路陪伴 !
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e6a575faa01f" alt="" />
 
@@ -46,7 +46,7 @@
 
 ### 安全小飞侠
 
-安全漏洞信息播报平台，为您提供新鲜，一手的安全资讯与漏洞详情，@安全小飞侠&nbsp;荣誉出品，欢迎关注！
+安全漏洞信息播报平台，为您提供新鲜，一手的安全资讯与漏洞详情，@安全小飞侠 荣誉出品，欢迎关注！
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_45c59cdac0a0" alt="" />
 
@@ -73,7 +73,7 @@
 
 ### 皮相
 
-tombkeeper&nbsp;的公众号
+tombkeeper 的公众号
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_bfb4e3d83cd2" alt="" />
 
@@ -109,7 +109,7 @@ tombkeeper&nbsp;的公众号
 
 ### 道法术
 
-道，技术与哲学；法，根本与原理；术，技能与方法。网络安全从业
+凡学问者，皆有术法道三大层次。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_141164bf887e" alt="" />
 
@@ -154,7 +154,7 @@ tombkeeper&nbsp;的公众号
 
 ### 危险解除
 
-自由记者/半虚构写手
+自由记者，半虚构写手，喜欢研究一切有意义价值的领域。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_b9817779d447" alt="" />
 
@@ -181,7 +181,7 @@ tombkeeper&nbsp;的公众号
 
 ### LemonSec
 
-Security&nbsp;for&nbsp;life
+Security for life
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8afb1d49c6bb" alt="" />
 
@@ -199,7 +199,7 @@ Security&nbsp;for&nbsp;life
 
 ### 懒人在思考
 
-本懒号主要关注点：隐私（包括加密货币）、攻击、安全开发。从我们这，你至少可以知道当下黑客世界的另类视角。By&nbsp;余弦@LanT34m
+本懒号主要关注点：隐私（包括加密货币）、攻击、安全开发。从我们这，你至少可以知道当下黑客世界的另类视角。By 余弦@LanT34m
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_5d4286e791e1" alt="" />
 
@@ -217,7 +217,7 @@ Security&nbsp;for&nbsp;life
 
 ### i小峰
 
-热爱互联网，热爱安全行业，希望专注做一件有趣的事情。&nbsp;分享自己从事安全职位的经验
+热爱互联网，热爱安全行业，希望专注做一件有趣的事情。 分享自己从事安全职位的经验
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ee41b9b2246f" alt="" />
 
@@ -244,7 +244,7 @@ Security&nbsp;for&nbsp;life
 
 ### 渗透攻防笔记
 
-Advanced&nbsp;attack&nbsp;perspective
+Advanced attack perspective
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_81b1c78374d6" alt="" />
 
@@ -262,7 +262,7 @@ Advanced&nbsp;attack&nbsp;perspective
 
 ### 寒剑夜鸣
 
-容貌美丑，皆是皮下白骨，表象声色，又有什么分别？&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;合作邮箱：rki@live.com
+容貌美丑，皆是皮下白骨，表象声色，又有什么分别？                    合作邮箱：rki@live.com
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_31d86e8c3ca6" alt="" />
 
@@ -280,7 +280,7 @@ Advanced&nbsp;attack&nbsp;perspective
 
 ### 洛米唯熊
 
-洛米唯熊
+未知攻，焉知防。攻防兼容，方知安全。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_c9782067c453" alt="" />
 
@@ -289,7 +289,7 @@ Advanced&nbsp;attack&nbsp;perspective
 
 ### Bypass
 
-致力于分享原创高质量干货，包括但不限于：渗透测试、WAF绕过、代码审计、安全运维。&nbsp;闻道有先后，术业有专攻，如是而已。
+致力于分享原创高质量干货，包括但不限于：渗透测试、WAF绕过、代码审计、安全运维。 闻道有先后，术业有专攻，如是而已。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4d27f98a55b9" alt="" />
 
@@ -307,7 +307,7 @@ Advanced&nbsp;attack&nbsp;perspective
 
 ### 漏洞感知
 
-视野之外&nbsp;并非不存在
+漏洞感知不是过眼云烟的个人订阅号，提供实战能力，这里是值得您反复回看的档案室。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_2550012bdb87" alt="" />
 
@@ -325,7 +325,7 @@ Advanced&nbsp;attack&nbsp;perspective
 
 ### 赵武的自留地
 
-关注&amp;quot;赵武的自留地&amp;quot;，在艰苦的生活中，每天获取一些苦中作乐的正能量，给生活添点彩！
+关注&quot;赵武的自留地&quot;，在艰苦的生活中，每天获取一些苦中作乐的正能量，给生活添点彩！
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_86033a4f818d" alt="" />
 
@@ -388,7 +388,7 @@ Advanced&nbsp;attack&nbsp;perspective
 
 ### 黑鸟
 
-一介草民，深耕威胁情报领域多年，自封威胁分析师，APT狩猎者，战略忽悠分析师。&nbsp;专注推送一切前沿高科技战争分析，敌我战略分析，“数据”挖掘，情报拓展，网络武器分析，社会工程学等。
+一介草民，深耕威胁情报领域多年，自封威胁分析师，APT狩猎者，战略忽悠分析师。 专注推送一切前沿高科技战争分析，敌我战略分析，“数据”挖掘，情报拓展，网络武器分析，社会工程学等。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_68f37a80b8cb" alt="" />
 
@@ -415,14 +415,14 @@ Advanced&nbsp;attack&nbsp;perspective
 
 ### 零度安全攻防实验室
 
-一个分享实战经验的平台;&nbsp;一个专注于web安全、渗透测试、漏洞挖掘、资源分享并为广大网络安全爱好者提供交流分享学习的平台。欢迎各位喜欢做安全的朋友加入。
+一个分享实战经验的平台; 一个专注于web安全、渗透测试、漏洞挖掘、资源分享并为广大网络安全爱好者提供交流分享学习的平台。欢迎各位喜欢做安全的朋友加入。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_cca96597df2a" alt="" />
 
 ---
 
 
-### 阿Q小师父
+### 网安小师父
 
 网络空间安全学习记录
 

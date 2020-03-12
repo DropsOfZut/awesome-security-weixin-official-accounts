@@ -46,7 +46,7 @@
 
 ### GeekPwn
 
-GeekPwn，全球首个关注智能生活的安全极客大赛！我们在寻找可能默默无闻但出类拔萃---注定可以改变世界、可以和我们一起保护未来的正能量---顶级&nbsp;Geek&nbsp;的思路、敢于&nbsp;Pwn&nbsp;破禁锢的你，这里是你的舞台，一起来，做到“极棒”！
+GeekPwn，全球首个关注智能生活的安全极客大赛！我们在寻找可能默默无闻但出类拔萃---注定可以改变世界、可以和我们一起保护未来的正能量---顶级 Geek 的思路、敢于 Pwn 破禁锢的你，这里是你的舞台，一起来，做到“极棒”！
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_72d9239e6429" alt="" />
 
@@ -127,7 +127,7 @@ V安全资讯是隶属于丝路安全团队（SRsec）旗下的一个以分享�
 
 ### E安全
 
-E安全&nbsp;|&nbsp;全球网络安全资讯新传媒&nbsp;&nbsp;&nbsp;&nbsp;新版门户站点：http://www.easyaq.com/
+E安全 | 全球网络安全资讯新传媒    新版门户站点：http://www.easyaq.com/
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f2303a075517" alt="" />
 
@@ -136,7 +136,7 @@ E安全&nbsp;|&nbsp;全球网络安全资讯新传媒&nbsp;&nbsp;&nbsp;&nbsp;新
 
 ### 安全客
 
-打破黑箱&nbsp;&nbsp;客说安全
+打破黑箱  客说安全
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_c844687d05d6" alt="" />
 

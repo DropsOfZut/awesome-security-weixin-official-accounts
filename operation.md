@@ -1,13 +1,4 @@
 
-### 马哥Linux运维
-
-马哥教育创办于2009年，国内高端IT培训品牌，毕业学员薪资12K+以上，累计培养数万人。有Linux云计算运维、Python全栈、自动化、数据分析、人工智能、Go高并发架构等高薪就业课程。凭借高品质课程和良好口碑，与多家互联网建立人才合作
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_94044e4217ab" alt="" />
-
----
-
-
 ### Linux学习
 
 专注分享Linux/Unix相关内容，包括Linux命令、Linux内核、Linux系统开发、Linux运维、网络编程、开发工具等Linux相关知识和技术
@@ -28,7 +19,7 @@ Linux、Python、开发、运维、IT圈、技术栈，就说这些事儿。
 
 ### Linux中国
 
-十万级技术订阅号，依托于『Linux中国』（https://linux.cn/）社区，专注于&nbsp;Linux&nbsp;学习、技术研究、开源思想传播。
+十万级技术订阅号，依托于『Linux中国』（https://linux.cn/）社区，专注于 Linux 学习、技术研究、开源思想传播。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_52ef55f8adfd" alt="" />
 

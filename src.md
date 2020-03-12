@@ -28,7 +28,7 @@ OPPO安全应急响应中心(OSRC)官方公众号。
 
 ### 百度安全应急响应中心
 
-百度安全应急响应中心，简称BSRC，是百度致力于维护互联网健康生态环境，保障百度产品和业务线的信息安全，促进安全专家的合作与交流，而建立的漏洞收集以及应急响应平台。欢迎访问&nbsp;bsrc.baidu.com&nbsp;提交百度安全漏洞。
+百度安全应急响应中心，简称BSRC，是百度致力于维护互联网健康生态环境，保障百度产品和业务线的信息安全，促进安全专家的合作与交流，而建立的漏洞收集以及应急响应平台。欢迎访问 bsrc.baidu.com 提交百度安全漏洞。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_016ff078c3cd" alt="" />
 
@@ -44,18 +44,9 @@ OPPO安全应急响应中心(OSRC)官方公众号。
 ---
 
 
-### 唯品会安全应急响应中心
-
-唯品会安全应急响应中心(VSRC)官方微信
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_64ca2e1d4d83" alt="" />
-
----
-
-
 ### 滴滴安全应急响应中心
 
-滴滴安全应急响应中心官方微信公众号。欢迎访问&nbsp;sec.didichuxing.com&nbsp;提交滴滴出行安全漏洞
+滴滴安全应急响应中心官方微信公众号。欢迎访问 sec.didichuxing.com 提交滴滴出行安全漏洞
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_bce95b426cb7" alt="" />
 
@@ -91,7 +82,7 @@ OPPO安全应急响应中心(OSRC)官方公众号。
 
 ### 同程艺龙安全应急响应中心
 
-LYSRC是目前唯一公开漏洞的SRC&nbsp;，欢迎提交漏洞&nbsp;https://sec.ly.com
+LYSRC是目前唯一公开漏洞的SRC ，欢迎提交漏洞 https://sec.ly.com
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_2a87054fb185" alt="" />
 
