@@ -44,6 +44,15 @@ OPPO安全应急响应中心(OSRC)官方公众号。
 ---
 
 
+### 唯品会安全应急响应中心
+
+唯品会安全应急响应中心(VSRC)官方微信
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_64ca2e1d4d83" alt="" />
+
+---
+
+
 ### 滴滴安全应急响应中心
 
 滴滴安全应急响应中心官方微信公众号。欢迎访问 sec.didichuxing.com 提交滴滴出行安全漏洞
