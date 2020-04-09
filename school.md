@@ -52,3 +52,12 @@
 
 ---
 
+
+### 蝰蛇安全实验室
+
+湖南农业大学蝰蛇安全实验室
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_638eab2e92c7" alt="" />
+
+---
+

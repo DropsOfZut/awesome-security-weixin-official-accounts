@@ -2,7 +2,7 @@
 # awesome-security-weixin-official-accounts
 网络安全类公众号推荐，点击分类详情可快速查看微信公众号二维码
 
-本项目共分为13大类，收集公众号222个。
+本项目共分为13大类，收集公众号223个。
 收集优质文章在[微信聚合平台](http://wechat.doonsec.com)展示。
 
 - [目录分类]()
@@ -179,6 +179,7 @@
 * [GWHackTeam](/school.md#GWHackTeam) :- 广东外语外贸大学网络安全实验室信息推送和资源平台 
 * [AD攻防工作室](/school.md#AD攻防工作室) :- 广东工业大学计算机学院A&amp;D（攻击与防御）工作室。 
 * [复旦白泽战队](/school.md#复旦白泽战队) :- 以复旦大学系统安全实验室学生为主成立的安全攻防战队，分享最新研究成果，交流系统安全攻防领域技巧。 
+* [蝰蛇安全实验室](/school.md#蝰蛇安全实验室) :- 湖南农业大学蝰蛇安全实验室 
 
 
 ---
@@ -365,6 +366,7 @@
 【[zonei123](https://github.com/zonei123)】
 【[冰崖](https://github.com/冰崖)】
 【[thelostworld](https://github.com/thelostworld)】
+【[梁景普](https://github.com/梁景普)】
 
 ##  Coder
 
