@@ -53,16 +53,16 @@ HACK学习，专注于互联网安全与黑客精神；渗透测试，社会工�
 ---
 
 
-### Rapid7cn
+### Rapid7
 
-Nexpose,Metasploit,AppSpider,InsightIDR
+定期发送产品相关技术文章，关键更新推送，解决方案分享等
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_c27e19653a68" alt="" />
 
 ---
 
 
-### Timeline&nbsp;Sec
+### Timeline Sec
 
 Timeline Sec团队公众号，内含大量漏洞复现文章，漏洞时间线，工具靶场等干货！我们在为打造安全圈好的技术氛围而努力，这里绝对是你学习技术的好地方。
 

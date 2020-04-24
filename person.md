@@ -19,7 +19,7 @@
 
 ### 边界骇客
 
-物理安全/边界安全
+物理安全/边界安全但凡网络被骗，网上赌博请报警，不要相信任何一个黑客会帮你解决，有能力的不会帮你，没能力的只会骗你。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_32f8e3d8d264" alt="" />
 
@@ -224,15 +224,6 @@ Security for life
 ---
 
 
-### 安全从0到1
-
-安全技术的交流分享。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_852e9e854580" alt="" />
-
----
-
-
 ### 我的安全视界观
 
 大大的世界，小小的人儿；喜欢夜的黑，更爱昼的白。因为热爱安全，所以想起该做些什么了？！公众号主要将不定期分享个人所见所闻所感，包括但不限于：安全测试、漏洞赏析、渗透技巧、企业安全
@@ -341,7 +332,7 @@ Advanced attack perspective
 ---
 
 
-### 牵着蜗牛遛弯儿
+### 牵着蜗牛学安全
 
 积跬步而至千里，分享学习记录和心得体会。
 
@@ -422,9 +413,9 @@ Advanced attack perspective
 ---
 
 
-### 网安小师父
+### 网安小师傅
 
-网络空间安全学习记录
+网络空间安全学习记录，资源免费分享，cisa、cisp、cissp、oscp、HCIA、HCIP、HCIE等等，靶场练习，漏洞复现，安全建设，实战测试……
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_316d498550f9" alt="" />
 
