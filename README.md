@@ -2,7 +2,7 @@
 # awesome-security-weixin-official-accounts
 网络安全类公众号推荐，点击分类详情可快速查看微信公众号二维码
 
-本项目共分为13大类，收集公众号220个。
+本项目共分为13大类，收集公众号222个。
 收集优质文章在[微信聚合平台](http://wechat.doonsec.com)展示。
 
 - [目录分类]()
@@ -244,6 +244,8 @@
 * [零度安全攻防实验室](/person.md#零度安全攻防实验室) :- 一个分享实战经验的平台; 一个专注于web安全、渗透测试、漏洞挖掘、资源分享并为广大网络安全爱好者提供交流分享学习的平台。欢迎各位喜欢做安全的朋友加入。 
 * [网安小师傅](/person.md#网安小师傅) :- 网络空间安全学习记录，资源免费分享，cisa、cisp、cissp、oscp、HCIA、HCIP、HCIE等等，靶场练习，漏洞复现，安全建设，实战测试…… 
 * [thelostworld](/person.md#thelostworld) :- 开发、安全 学习-工作记录 
+* [渗透Xiao白帽](/person.md#渗透Xiao白帽) :- 早起的鸟儿有虫吃！相互学习分享涨知识。会不定期分享一些网络安全相关内容. 
+* [台下言书](/person.md#台下言书) :- stay hungry ,stay foolish. 
 
 
 ---
