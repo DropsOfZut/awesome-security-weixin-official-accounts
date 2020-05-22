@@ -484,3 +484,12 @@ WhITECat安全小组隶属于起源实验室分支安全小组，主要致力于
 
 ---
 
+
+### 酒仙桥六号部队
+
+知其黑，守其白。 分享知识盛宴，闲聊大院趣事，备好酒肉等你！
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_57b37fa4d611" alt="" />
+
+---
+
