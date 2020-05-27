@@ -2,7 +2,7 @@
 # awesome-security-weixin-official-accounts
 网络安全类公众号推荐，点击分类详情可快速查看微信公众号二维码
 
-本项目共分为13大类，收集公众号226个。
+本项目共分为13大类，收集公众号227个。
 收集优质文章在[微信聚合平台](http://wechat.doonsec.com)展示。
 
 - [目录分类]()
@@ -83,6 +83,7 @@
 * [安全威胁情报](/org.md#安全威胁情报) :- Threatbook微步在线，专业的安全威胁情报服务提供商。让您知己知彼掌控全局，面对安全威胁如同凌波微步般应对自如。 
 * [墨社安全](/org.md#墨社安全) :- 你说我午夜化作梦魇，缠绕你心头和田野之间。 
 * [字节脉搏](/org.md#字节脉搏) :- 活在字节海洋里面的一群渔民：我们的方向是那云计算、系统集成、网工、运维、大数据还有那黑暗无比的网络安全 
+* [SecIN技术平台](/org.md#SecIN技术平台) :- 在这里，探索技术与热爱 
 
 
 ---
@@ -373,6 +374,7 @@
 【[thelostworld](https://github.com/thelostworld)】
 【[梁景普](https://github.com/梁景普)】
 【[Dooonsec](https://github.com/Dooonsec)】
+【[启明星辰--云众可信](https://github.com/启明星辰--云众可信)】
 
 ##  Coder
 
