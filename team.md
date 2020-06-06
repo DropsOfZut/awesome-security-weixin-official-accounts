@@ -206,15 +206,6 @@ secquan.org汇聚新锐 共同进步
 ---
 
 
-### 百姓网技术团队
-
-这里汇集了百姓网技术团队的思考与沉淀，每周推送一篇技术文章，值得关注！
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0bd935cd0e1b" alt="" />
-
----
-
-
 ### T00ls
 
 T00ls，十年民间网络安全老牌社区，聚合安全领域最优秀的人群，低调研究潜心学习讨论各类网络安全知识，为推动中国网络安全进步与技术创新贡献力量！
@@ -229,15 +220,6 @@ T00ls，十年民间网络安全老牌社区，聚合安全领域最优秀的人
 OWASP中国，SecZone互联网安全研究中心官方平台
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_6977ebcf9804" alt="" />
-
----
-
-
-### 铸剑网络安全实验室
-
-关注国内外网络安全，提供高质量的网络安全服务，培养网络空间安全顶尖人才，同时欢迎怀揣各种奇思妙想和创意的有志青年加入我们。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0a3011978b79" alt="" />
 
 ---
 

@@ -142,3 +142,12 @@ LYSRC是目前唯一公开漏洞的SRC ，欢迎提交漏洞 https://sec.ly.com
 
 ---
 
+
+### 喜马拉雅安全响应平台
+
+喜马拉雅安全响应中心
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_420887f4dac3" alt="" />
+
+---
+

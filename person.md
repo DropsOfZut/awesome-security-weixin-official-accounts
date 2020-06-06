@@ -161,15 +161,6 @@ tombkeeper 的公众号
 ---
 
 
-### HenceTech
-
-浩子哥的个人公众号
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_75a8b5dd04be" alt="" />
-
----
-
-
 ### lovesec
 
 专注信息安全/渗透测试
@@ -211,15 +202,6 @@ Security for life
 仅限技术研究与讨论，严禁用于非法用途，否则产生的一切后果自行承担！
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_1f96ca960fe6" alt="" />
-
----
-
-
-### i小峰
-
-热爱互联网，热爱安全行业，希望专注做一件有趣的事情。 分享自己从事安全职位的经验
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ee41b9b2246f" alt="" />
 
 ---
 
@@ -463,6 +445,15 @@ stay hungry ,stay foolish.
 跨站师,渗透师,结界师聚集之地
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_9f4e2e228838" alt="" />
+
+---
+
+
+### 阿乐你好
+
+安全相关信息推送
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_cdf3717dded0" alt="" />
 
 ---
 

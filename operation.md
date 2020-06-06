@@ -8,15 +8,6 @@
 ---
 
 
-### Python运维圈
-
-Linux、Python、开发、运维、IT圈、技术栈，就说这些事儿。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e0e4bfb9baf5" alt="" />
-
----
-
-
 ### Linux中国
 
 十万级技术订阅号，依托于『Linux中国』（https://linux.cn/）社区，专注于 Linux 学习、技术研究、开源思想传播。
