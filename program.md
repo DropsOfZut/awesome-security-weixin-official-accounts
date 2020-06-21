@@ -55,7 +55,7 @@
 
 ### Java后端
 
-Java开发者的聚集地！
+公众号「Java后端」专注于 Java 技术，包括 Spring 全家桶，MySQL，JavaWeb，Git，Linux，Nginx，IDEA，数据结构，高并发，多线程，面试题，GitHub项目精选等相关内容，欢迎 Java 程序员关注。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_629e9bfde493" alt="" />
 
@@ -82,7 +82,7 @@ Java开发者的聚集地！
 
 ### Python小屋
 
-15本Python系列教材作者董付国老师的小屋，介绍Python语法基础、标准库、扩展库以及在各领域的应用。
+17本Python系列教材作者董付国老师的小屋，介绍Python语法基础、标准库、扩展库以及在各领域的应用。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_6f2df669dea9" alt="" />
 

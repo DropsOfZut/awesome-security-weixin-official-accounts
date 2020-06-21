@@ -109,7 +109,7 @@ tombkeeper 的公众号
 
 ### 道法术
 
-凡学问者，皆有术法道三大层次。
+你有苹果交换一下吗
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_141164bf887e" alt="" />
 
@@ -154,7 +154,7 @@ tombkeeper 的公众号
 
 ### 危险解除
 
-自由记者，半虚构写手，喜欢研究一切有意义价值的领域。
+我还在。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_b9817779d447" alt="" />
 
@@ -361,7 +361,7 @@ Advanced attack perspective
 
 ### 黑鸟
 
-一介草民，深耕威胁情报领域多年，自封威胁分析师，APT狩猎者，战略忽悠分析师。 专注推送一切前沿高科技战争分析，敌我战略分析，“数据”挖掘，情报拓展，网络武器分析，社会工程学等。
+一介草民，深耕威胁情报领域多年，自封威胁分析师，APT狩猎者，战略忽悠分析师。 专注推送一切前沿高科技战争分析，敌我战略分析，“数据”挖掘，情报拓展，网络武器分析，社会工程学，军事分析忽悠等。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_68f37a80b8cb" alt="" />
 
@@ -415,7 +415,7 @@ Advanced attack perspective
 
 ### 渗透Xiao白帽
 
-早起的鸟儿有虫吃！相互学习分享涨知识。会不定期分享一些网络安全相关内容.
+积硅步以致千里，积怠惰以致深渊！
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e27e751d6d9f" alt="" />
 
