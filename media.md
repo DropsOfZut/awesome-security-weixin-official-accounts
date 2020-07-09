@@ -223,3 +223,12 @@ E安全 | 全球网络安全资讯新传媒    新版门户站点：http://www.e
 
 ---
 
+
+### 安全圈
+
+专注网络安全：网罗圈内热点事件，细说安全风云变幻！
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_834eaaa98a10" alt="" />
+
+---
+

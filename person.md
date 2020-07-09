@@ -457,3 +457,12 @@ stay hungry ,stay foolish.
 
 ---
 
+
+### 漏洞推送
+
+专注于安全漏洞、威胁情报发掘。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_d45bcadf18d7" alt="" />
+
+---
+

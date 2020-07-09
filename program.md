@@ -80,15 +80,6 @@
 ---
 
 
-### Python小屋
-
-17本Python系列教材作者董付国老师的小屋，介绍Python语法基础、标准库、扩展库以及在各领域的应用。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_6f2df669dea9" alt="" />
-
----
-
-
 ### SIGAI
 
 全方位覆盖AI经典算法与工业应用，紧跟业界新趋势，让你始终站在技术前沿。

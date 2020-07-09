@@ -70,3 +70,12 @@ HACK学习，专注于互联网安全与黑客精神；渗透测试，社会工�
 
 ---
 
+
+### 宽字节安全
+
+二十年专注安全研究，漏洞分析
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_2de2b9f7d076" alt="" />
+
+---
+
