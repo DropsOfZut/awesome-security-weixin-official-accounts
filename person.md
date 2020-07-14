@@ -466,3 +466,12 @@ stay hungry ,stay foolish.
 
 ---
 
+
+### 安全鸭
+
+回头下望人寰处，不见长安见尘雾
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_d844e883773f" alt="" />
+
+---
+
