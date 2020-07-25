@@ -28,18 +28,9 @@
 
 ### 红队攻防揭秘
 
-将恪守初衷，致力于高质量实用技术干货分享，来吧，和众多资深红队玩家一起深度无缝交流，密圈等您，在这里，你收获到的，可能不再仅仅是技术，还有更多用钱买不来的高质量人脉，博客此后将不再进行任何更新，感谢一路陪伴 !
+没有章法，便是最好的章法
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e6a575faa01f" alt="" />
-
----
-
-
-### 安全泰式柑汁
-
-记录、分享自己的一些安全知识和心得
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_70c66b1c835d" alt="" />
 
 ---
 
@@ -107,9 +98,9 @@ tombkeeper 的公众号
 ---
 
 
-### 道法术
+### 电驭叛客
 
-你有苹果交换一下吗
+何为真实？
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_141164bf887e" alt="" />
 
@@ -512,11 +503,47 @@ emmmmm gakki是我的
 ---
 
 
-### T9Sec
+### RedTeamWing
 
-T9Sec Team 是一个乐于分享、交流至上的安全团队，团队将不定期更新漏洞挖掘中的奇技淫巧以及队员丰富的实战经验技术，绝对干货满满，期待您的关注！
+Know it,Then hacking it!
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_b6e1e3e062ba" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_bc3e14c19215" alt="" />
+
+---
+
+
+### wintrysec
+
+记录我的内网渗透和Linux二进制安全学习历程
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_2e1513cd3647" alt="" />
+
+---
+
+
+### 信安随笔
+
+信息安全学习笔记。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_482075d64637" alt="" />
+
+---
+
+
+### 404安全
+
+特色工具，安全文章分享
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_c93be07d36c7" alt="" />
+
+---
+
+
+### NearSec
+
+专注Web安全领域，分享渗透测试、漏洞挖掘实战经验，面向广大信息安全爱好者。 NearSec - 更接近安全
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_dfa978534680" alt="" />
 
 ---
 

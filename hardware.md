@@ -25,3 +25,12 @@
 
 ---
 
+
+### 取证杂谈
+
+分享电子取证及司法鉴定相关知识
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_3cc4dcce2d29" alt="" />
+
+---
+

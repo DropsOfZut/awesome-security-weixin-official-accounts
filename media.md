@@ -73,7 +73,7 @@ GeekPwn，全球首个关注智能生活的安全极客大赛！我们在寻找�
 
 ### FreeBuf
 
-国内领先的互联网安全新媒体
+国内网络安全行业门户
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_7524f20253aa" alt="" />
 

@@ -28,7 +28,7 @@
 
 ### 一本黑
 
-此号是枚互联网从业者所开，旨在将互联网中的黑色产业、行业里鲜有人知的故事，从幕后带到大众面前，让圈外人也无障碍的理解。
+一双互联网阴暗面的眼睛
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e981f33ba716" alt="" />
 
