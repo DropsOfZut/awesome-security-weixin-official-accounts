@@ -502,3 +502,39 @@ IRT(Industrial Red Team)作为国内以守护工控安全为目标的红队组�
 
 ---
 
+
+### 5号黯区
+
+5号黯区是一支致力于红队攻防与培训的团队，官网：www.dark5.net
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_b173573a25bb" alt="" />
+
+---
+
+
+### 黑伞攻防实验室
+
+安全加固 渗透测试 众测 ctf 安全新领域研究
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_c753e94bdc18" alt="" />
+
+---
+
+
+### Pai Sec Team
+
+Penetration Testing &amp; Red Team &amp; Security
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_3f55efc397c9" alt="" />
+
+---
+
+
+### 哈拉少安全小队
+
+专注安全研究，经常更新一些最新的漏洞复现，以及脱敏的实战文章。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_b273ce95df95" alt="" />
+
+---
+

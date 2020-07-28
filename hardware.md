@@ -34,3 +34,30 @@
 
 ---
 
+
+### 电子取证及可信应用协创中心
+
+电子取证及可信应用湖北省协同创新中心（培育）的订阅号。介绍和宣传法庭科学中的电子数据取证（Digital Forensics）涉及的科学知识、技术实践和创新应用，推动电子数据取证的普及和发展。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_16885e328471" alt="" />
+
+---
+
+
+### 湘雪尘奕
+
+最近公众号主要以视频为主，每周发布一个新的视频！内容主要围绕工业控制系统网络内容，主要涉及工控设备、协议解析及检测评估等方向。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_9a02359365f9" alt="" />
+
+---
+
+
+### 电子物证
+
+关注刑事证据科学前沿发展，传递电子物证技术最新趋势
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f624bd447b0f" alt="" />
+
+---
+
