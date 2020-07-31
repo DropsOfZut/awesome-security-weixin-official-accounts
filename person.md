@@ -35,6 +35,15 @@
 ---
 
 
+### 安全泰式柑汁
+
+记录、分享自己的一些安全知识和心得
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_70c66b1c835d" alt="" />
+
+---
+
+
 ### 安全小飞侠
 
 安全漏洞信息播报平台，为您提供新鲜，一手的安全资讯与漏洞详情，@安全小飞侠 荣誉出品，欢迎关注！
@@ -544,6 +553,15 @@ Know it,Then hacking it!
 专注Web安全领域，分享渗透测试、漏洞挖掘实战经验，面向广大信息安全爱好者。 NearSec - 更接近安全
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_dfa978534680" alt="" />
+
+---
+
+
+### 安全分析与研究
+
+专注于全球恶意软件的分析与研究，追踪全球黑客组织攻击活动
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_857c90e961dc" alt="" />
 
 ---
 

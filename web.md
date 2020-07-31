@@ -88,3 +88,12 @@ HACK学习，专注于互联网安全与黑客精神；渗透测试，社会工�
 
 ---
 
+
+### 关注安全技术
+
+要什么介绍？
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8fb652f29c63" alt="" />
+
+---
+
