@@ -97,3 +97,21 @@ HACK学习，专注于互联网安全与黑客精神；渗透测试，社会工�
 
 ---
 
+
+### GobySec
+
+新一代网络安全测试工具，由赵武Zwell（Pangolin、FOFA作者）打造，能够针对一个目标企业梳理最全的攻击面信息，同时能进行高效、实战化漏洞扫描，并快速的从一个验证入口点，切换到横向。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_7f7c15f37480" alt="" />
+
+---
+
+
+### 渗透测试教程
+
+公众号分享渗透测试、黑客教程、Python黑客、SRC漏洞挖掘、网络安全相关教程
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_7e60f7442e6a" alt="" />
+
+---
+

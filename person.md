@@ -556,3 +556,21 @@ Know it,Then hacking it!
 
 ---
 
+
+### 边界骇客
+
+物理安全/边界安全但凡网络被骗，网上赌博请报警，不要相信任何一个黑客会帮你解决，有能力的不会帮你，没能力的只会骗你。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_32f8e3d8d264" alt="" />
+
+---
+
+
+### 黑金笔谈
+
+在小空间里分享我们对网络安全与金融市场的一些有意思的感悟与记录：）
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_6b6d74f48856" alt="" />
+
+---
+

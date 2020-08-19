@@ -538,3 +538,48 @@ Penetration Testing &amp; Red Team &amp; Security
 
 ---
 
+
+### 美团技术团队
+
+9000+工程师，如何支撑中国领先的生活服务电子商务平台？3.2亿消费者、500万商户、2000多个行业、几千亿交易额背后是哪些技术？这里是美团、大众点评、美团外卖、美团大零售等技术团队的对外窗口，每周推送技术文章、活动及招聘信息等。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_96d37a04e9bf" alt="" />
+
+---
+
+
+### 字节跳动技术团队
+
+字节跳动的技术实践分享
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_24231986c9c8" alt="" />
+
+---
+
+
+### 奇安信安全服务
+
+奇安信安全服务团队官方账号！
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_c3bad9ca2f7d" alt="" />
+
+---
+
+
+### 513安全实验室
+
+专注于网络安全研究与分享，不限于渗透测试，红蓝对抗，python编程等。我们的口号是“爱研究、爱分享”。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ab543eca733b" alt="" />
+
+---
+
+
+### ipasslab
+
+软件安全智能并行分析实验室——专注于分享最新技术
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_406bdd615bc1" alt="" />
+
+---
+
