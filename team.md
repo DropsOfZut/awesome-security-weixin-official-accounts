@@ -296,6 +296,15 @@ www.ms08067.com
 ---
 
 
+### 西子实验室
+
+一生等不到表哥一句我带你
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_cf500232f7e2" alt="" />
+
+---
+
+
 ### Nu1L Team
 
 这里是Nu1L Team，欢迎关注我们。我们会不定期发放一些福利，技术文章等。
@@ -440,11 +449,20 @@ Gcow是当前国内为数不多的民间网络信息安全研究团队之一。�
 ---
 
 
-### 安全加
+### 安世加
 
-安全+ 专注于信息安全⾏业，通过互联⽹平台、线下沙⻰、培训、峰会、⼈才招聘等多种形式，培养安全⼈才，提升⾏业的整体素质，助推安全⽣态圈的健康发展。
+安世加 专注于信息安全⾏业，通过互联⽹平台、线下沙⻰、培训、峰会、⼈才招聘等多种形式，培养安全⼈才，提升⾏业的整体素质，助推安全⽣态圈的健康发展。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ef753c5e1ccb" alt="" />
+
+---
+
+
+### 零度安全攻防实验室
+
+一个分享实战经验的平台; 一个专注于web安全、渗透测试、漏洞挖掘、资源分享并为广大网络安全爱好者提供交流分享学习的平台。欢迎各位喜欢做安全的朋友加入。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_cca96597df2a" alt="" />
 
 ---
 
@@ -523,7 +541,7 @@ Penetration Testing &amp; Red Team &amp; Security
 
 ### 哈拉少安全小队
 
-专注安全研究，经常更新一些最新的漏洞复现，以及脱敏的实战文章。
+专注安全研究，漏洞复现，python脚本编写，经常更新一些最新的漏洞复现，以及脱敏的实战文章。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_b273ce95df95" alt="" />
 
@@ -548,6 +566,15 @@ Penetration Testing &amp; Red Team &amp; Security
 ---
 
 
+### 爱奇艺技术产品团队
+
+爱奇艺的技术产品团队
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_aa1476c2ce41" alt="" />
+
+---
+
+
 ### 字节跳动技术团队
 
 字节跳动的技术实践分享
@@ -566,11 +593,29 @@ Penetration Testing &amp; Red Team &amp; Security
 ---
 
 
+### 轩辕实验室
+
+车联网信息安全和预期功能安全技术
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e370bf0d2f3a" alt="" />
+
+---
+
+
 ### 513安全实验室
 
 专注于网络安全研究与分享，不限于渗透测试，红蓝对抗，python编程等。我们的口号是“爱研究、爱分享”。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ab543eca733b" alt="" />
+
+---
+
+
+### 云影实验室
+
+云影实验室，是一个专注于网络攻防研究的安全团队，尤其在基于网络流量的攻击检测、漏洞分析与挖掘、蜜网研究、全网资产发现研究、攻击者跟踪分析等方面有深度积累，为企业安全的客户提供攻击发现能力和防护建议。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f3b2081e0f3b" alt="" />
 
 ---
 

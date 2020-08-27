@@ -107,6 +107,15 @@ HACK学习，专注于互联网安全与黑客精神；渗透测试，社会工�
 ---
 
 
+### 利刃信安
+
+利刃信安资源技术服务
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_361672e49447" alt="" />
+
+---
+
+
 ### 渗透测试教程
 
 公众号分享渗透测试、黑客教程、Python黑客、SRC漏洞挖掘、网络安全相关教程

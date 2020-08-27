@@ -100,7 +100,7 @@ tombkeeper 的公众号
 
 ### 电驭叛客
 
-何为真实？
+何为真实？https://uxss.net
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_141164bf887e" alt="" />
 
@@ -148,15 +148,6 @@ tombkeeper 的公众号
 我还在。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_b9817779d447" alt="" />
-
----
-
-
-### lovesec
-
-专注信息安全/渗透测试
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_75a8d9f3baec" alt="" />
 
 ---
 
@@ -242,15 +233,6 @@ Advanced attack perspective
 ---
 
 
-### 洛米唯熊
-
-未知攻，焉知防。攻防兼容，方知安全。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_c9782067c453" alt="" />
-
----
-
-
 ### Bypass
 
 致力于分享原创高质量干货，包括但不限于：渗透测试、WAF绕过、代码审计、安全运维。 闻道有先后，术业有专攻，如是而已。
@@ -274,15 +256,6 @@ Advanced attack perspective
 漏洞感知不是过眼云烟的个人订阅号，提供实战能力，这里是值得您反复回看的档案室。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_2550012bdb87" alt="" />
-
----
-
-
-### 西子实验室
-
-一生等不到表哥一句我带你
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_cf500232f7e2" alt="" />
 
 ---
 
@@ -332,15 +305,6 @@ Advanced attack perspective
 ---
 
 
-### saulGoodman
-
-一个专注于红队攻防研究的公众号
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_bb6062937f1c" alt="" />
-
----
-
-
 ### 远洋的小船
 
 网络安全之路不孤单，愿你乘风破浪，披荆斩棘，归来仍少年。
@@ -373,15 +337,6 @@ Advanced attack perspective
 致力于分享白帽黑客技术，维护网络安全！
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_be8095356e84" alt="" />
-
----
-
-
-### 零度安全攻防实验室
-
-一个分享实战经验的平台; 一个专注于web安全、渗透测试、漏洞挖掘、资源分享并为广大网络安全爱好者提供交流分享学习的平台。欢迎各位喜欢做安全的朋友加入。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_cca96597df2a" alt="" />
 
 ---
 
@@ -557,11 +512,20 @@ Know it,Then hacking it!
 ---
 
 
-### 边界骇客
+### EnjoyHacking
 
-物理安全/边界安全但凡网络被骗，网上赌博请报警，不要相信任何一个黑客会帮你解决，有能力的不会帮你，没能力的只会骗你。
+分享一些网络安全攻防对抗的趣事
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_32f8e3d8d264" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_c0bba350995b" alt="" />
+
+---
+
+
+### 大兵说安全
+
+和大家聊聊网络安全的那些事。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_eb70b060e537" alt="" />
 
 ---
 
@@ -571,6 +535,33 @@ Know it,Then hacking it!
 在小空间里分享我们对网络安全与金融市场的一些有意思的感悟与记录：）
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_6b6d74f48856" alt="" />
+
+---
+
+
+### 一溪风月不如云子闲敲
+
+余生，这座城
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_209c67f83969" alt="" />
+
+---
+
+
+### don9sec
+
+一位安全爱好者从零开始的学习之旅。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ffc9f5385230" alt="" />
+
+---
+
+
+### 代码审计
+
+这里是phith0n的公众号，分享和代码相关的所有问题，不仅限于代码安全。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f713fe49f6cf" alt="" />
 
 ---
 

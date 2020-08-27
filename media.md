@@ -241,3 +241,21 @@ E安全 | 全球网络安全资讯新传媒    新版门户站点：http://www.e
 
 ---
 
+
+### 互联网安全内参
+
+《安全内参》是专注于网络安全产业发展和行业应用的高端智库平台，致力于成为网络安全首席知识官。投稿&amp;合作请邮件联系 anquanneican#163.com
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_737fbe06535a" alt="" />
+
+---
+
+
+### CNCERT风险评估
+
+CNCERT风险评估与软硬件安全相关动态信息分享
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4649b3addf2d" alt="" />
+
+---
+
