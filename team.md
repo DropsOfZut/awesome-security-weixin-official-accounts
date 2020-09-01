@@ -628,3 +628,12 @@ Penetration Testing &amp; Red Team &amp; Security
 
 ---
 
+
+### yudays实验室
+
+IC解密
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_abb11f5bf512" alt="" />
+
+---
+
