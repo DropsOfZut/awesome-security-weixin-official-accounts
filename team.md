@@ -422,20 +422,11 @@ Gcow是当前国内为数不多的民间网络信息安全研究团队之一。�
 ---
 
 
-### 鸟情局
+### 黑鸟情报局
 
 黑鸟威胁情报中心下属分局，专注严肃情报输出
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_764b9e741caa" alt="" />
-
----
-
-
-### 掘安攻防实验室
-
-专注于研究网络攻防对抗、信息安全、通信工程、软件工程、网络工程等计算机相关技术，发布原创技术文章
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4e7cd792e228" alt="" />
 
 ---
 
@@ -611,15 +602,6 @@ Penetration Testing &amp; Red Team &amp; Security
 ---
 
 
-### 云影实验室
-
-云影实验室，是一个专注于网络攻防研究的安全团队，尤其在基于网络流量的攻击检测、漏洞分析与挖掘、蜜网研究、全网资产发现研究、攻击者跟踪分析等方面有深度积累，为企业安全的客户提供攻击发现能力和防护建议。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f3b2081e0f3b" alt="" />
-
----
-
-
 ### ipasslab
 
 软件安全智能并行分析实验室——专注于分享最新技术
@@ -631,7 +613,7 @@ Penetration Testing &amp; Red Team &amp; Security
 
 ### yudays实验室
 
-IC解密
+记录一个菜鸡的蜕变
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_abb11f5bf512" alt="" />
 

@@ -115,3 +115,12 @@
 
 ---
 
+
+### 小生观察室
+
+本观察室仅个人做内容存档使用！
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_29a59093e5db" alt="" />
+
+---
+

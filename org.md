@@ -53,15 +53,6 @@
 ---
 
 
-### 四叶草漏洞插件社区
-
-发布漏洞插件社区最新动态
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ffddcb517e94" alt="" />
-
----
-
-
 ### bigsec岂安科技
 
 岂安科技( bigsec.com ) ，专注于互联网业务风险控制
@@ -118,7 +109,7 @@
 
 ### 长亭科技
 
-长亭科技，顶尖的网络信息安全公司，专注为企业级用户提供专业的应用安全解决方案。更多信息请访问：https://chaitin.cn.
+长亭科技，专注为企业级用户提供专业的应用安全解决方案。更多信息请访问：https://www.chaitin.cn
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_9011eb4249b6" alt="" />
 

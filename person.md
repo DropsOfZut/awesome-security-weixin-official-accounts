@@ -17,7 +17,7 @@
 ---
 
 
-### 红队攻防揭秘
+### 红队防线
 
 没有章法，便是最好的章法
 
@@ -100,7 +100,7 @@ tombkeeper 的公众号
 
 ### 电驭叛客
 
-何为真实？https://uxss.net
+追求技术的纯粹
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_141164bf887e" alt="" />
 
@@ -469,7 +469,7 @@ Know it,Then hacking it!
 
 ### wintrysec
 
-记录我的内网渗透和Linux二进制安全学习历程
+渗透测试
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_2e1513cd3647" alt="" />
 
@@ -550,7 +550,7 @@ Know it,Then hacking it!
 
 ### don9sec
 
-一位安全爱好者从零开始的学习之旅。
+不会编程的攻防都是耍流氓。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ffc9f5385230" alt="" />
 
