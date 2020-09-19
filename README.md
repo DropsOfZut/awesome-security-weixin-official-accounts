@@ -457,7 +457,7 @@
 【[suxuan](https://github.com/suxuan)】
 【[palink](https://github.com/palink)】
 【[Chyxs](https://github.com/Chyxs)】
-【[ Kobe Fans](https://github.com/ Kobe Fans)】
+【[Kobe Fans](https://github.com/Kobe Fans)】
 【[Kali](https://github.com/Kali)】
 
 ##  Coder
