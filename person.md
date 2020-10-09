@@ -343,7 +343,7 @@ Advanced attack perspective
 
 ### 网安小师傅
 
-网络空间安全学习记录，资源免费分享，cisa、cisp、cissp、oscp、HCIA、HCIP、HCIE等等，靶场练习，漏洞复现，安全建设，实战测试……
+网络空间安全学习记录，资源分享，cisa、cisp、cissp、oscp、HCIA、HCIP、HCIE等等，CTF，靶场练习，漏洞复现，安全建设，实战测试……
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_316d498550f9" alt="" />
 

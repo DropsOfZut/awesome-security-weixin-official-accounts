@@ -52,3 +52,12 @@
 
 ---
 
+
+### 网络安全攻防训练营
+
+平顶山学院攻防技术团队
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_21cd5b0aa014" alt="" />
+
+---
+
