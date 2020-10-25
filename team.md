@@ -415,7 +415,7 @@ Gcow是当前国内为数不多的民间网络信息安全研究团队之一。�
 
 ### Khan安全团队
 
-官方网站：http://www.khan.org.cn，研究方向Web内网渗透，红蓝攻防对抗，CTF。
+研究方向Web内网渗透，红蓝攻防对抗，CTF。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0360ef4a4e59" alt="" />
 
@@ -616,6 +616,33 @@ Penetration Testing &amp; Red Team &amp; Security
 记录一个菜鸡的蜕变
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_abb11f5bf512" alt="" />
+
+---
+
+
+### 渗透云笔记
+
+分享学习网络安全的路上，把自己所学的分享上来，帮助一些网络小白避免“踩坑”，既节省了学习时间，少走了弯道，我们也可以去回顾自己所学，分享自己所得与经验，为此我们感到光荣。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_c86569ea5aee" alt="" />
+
+---
+
+
+### 渗透攻击红队
+
+一个专注于渗透红队攻击的公众号
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_c7af3a6c01f1" alt="" />
+
+---
+
+
+### null安全团队
+
+信息安全
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e3af3e863724" alt="" />
 
 ---
 

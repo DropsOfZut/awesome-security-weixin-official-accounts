@@ -35,15 +35,6 @@
 ---
 
 
-### 99所
-
-春暖花开
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4b0bd9f08b03" alt="" />
-
----
-
-
 ### MS509
 
 MS509为中国网安开展互联网攻防技术研究的专业团队，当前主攻方向包括WEB安全、移动安全、二进制安全等。
@@ -161,7 +152,7 @@ lymmmx
 ---
 
 
-### 漏洞挖掘杂谈
+### 冷渗透
 
 黑产研究，渗透测试，漏洞挖掘，记录非常规思路的hackdom。
 

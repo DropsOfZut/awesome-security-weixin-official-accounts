@@ -226,7 +226,7 @@ Advanced attack perspective
 
 ### 码农翻身
 
-技术本来是很精彩的啊！
+有趣且硬核的技术文章！
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_463af1d02f3b" alt="" />
 
@@ -571,6 +571,15 @@ Know it,Then hacking it!
 工具人。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_2ceccb5e3fc8" alt="" />
+
+---
+
+
+### HACK之道
+
+HACK之道，专注于红队攻防、实战技巧、CTF比赛、安全开发、安全运维、安全架构等精华技术文章及渗透教程、安全工具的分享。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_641f71fe80e8" alt="" />
 
 ---
 

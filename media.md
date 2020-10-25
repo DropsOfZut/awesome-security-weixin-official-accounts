@@ -10,7 +10,7 @@
 
 ### i春秋
 
-专业的网络安全、信息安全、白帽子技术的培训平台及学习社区，60万安全用户的精准推荐。
+专业的网络安全、信息安全、白帽子技术的培训平台及学习社区，78万安全用户的精准推荐。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_d5c25339a9e5" alt="" />
 

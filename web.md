@@ -118,7 +118,7 @@ Timeline Sec 网络安全团队官方公众号。这里记录着每一个漏洞�
 
 ### 渗透测试教程
 
-公众号分享渗透测试、黑客教程、Python黑客、SRC漏洞挖掘、网络安全相关教程
+只会分享安全技术文章，不会分享安全娱乐新闻。专注渗透测试、渗透自动化武器研发。记录分享学习路上的知识，祝你早日登上SRC英雄榜！
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_7e60f7442e6a" alt="" />
 
