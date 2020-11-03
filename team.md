@@ -550,7 +550,7 @@ Penetration Testing &amp; Red Team &amp; Security
 
 ### 美团技术团队
 
-9000+工程师，如何支撑中国领先的生活服务电子商务平台？3.2亿消费者、500万商户、2000多个行业、几千亿交易额背后是哪些技术？这里是美团、大众点评、美团外卖、美团大零售等技术团队的对外窗口，每周推送技术文章、活动及招聘信息等。
+10000+工程师，如何支撑中国领先的生活服务电子商务平台？4.6亿消费者、630万商户、2000多个行业、几千亿交易额背后是哪些技术？这里是美团、大众点评、美团外卖、美团配送、美团优选等技术团队的对外窗口。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_96d37a04e9bf" alt="" />
 
@@ -643,6 +643,24 @@ Penetration Testing &amp; Red Team &amp; Security
 信息安全
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e3af3e863724" alt="" />
+
+---
+
+
+### Admin Team
+
+专注于网络安全、渗透测试、反诈骗。为提升国民的网络安全意识做贡献！
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_466b79315dc4" alt="" />
+
+---
+
+
+### 雷石安全实验室
+
+雷石安全实验室以团队公众号为平台向安全工作者不定期分享渗透、APT、企业安全建设等新鲜干货，团队公众号致力于成为一个实用干货分享型公众号。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ae996d91577e" alt="" />
 
 ---
 
