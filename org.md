@@ -73,7 +73,7 @@
 
 ### 雷神众测
 
-雷神SRC涵盖雷神众测、威胁库，专注于渗透测试技术及全球最新网络攻击技术的分析。
+雷神众测，专注于渗透测试技术及全球最新网络攻击技术的分析。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_7c749a8346d4" alt="" />
 

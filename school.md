@@ -61,3 +61,30 @@
 
 ---
 
+
+### 0w1Club
+
+西安交通大学 0w1Club 新公众号
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_93b04632331b" alt="" />
+
+---
+
+
+### 0w1网络安全俱乐部
+
+0w1网络安全俱乐部隶属于西安交通大学智能网络与网络安全教育部重点实验室，旨在进行网络安全方面的学习和研究交流。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_20dc9c32f27c" alt="" />
+
+---
+
+
+### 青科信安
+
+青岛科技大学信息安全团队
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_244b9c8677de" alt="" />
+
+---
+

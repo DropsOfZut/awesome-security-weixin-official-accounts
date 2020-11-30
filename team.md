@@ -233,7 +233,7 @@ OWASP中国，SecZone互联网安全研究中心官方平台
 ---
 
 
-### 永安在线反欺诈
+### 威胁猎人
 
 永安在线是一家专注于黑灰产对抗的创新型安全企业，基于对黑灰产的布控能力，提供一站式反欺诈解决方案。核心产品包括：设备指纹、手机号画像、IP画像、账号安全、内容安全等。
 
@@ -413,7 +413,7 @@ Gcow是当前国内为数不多的民间网络信息安全研究团队之一。�
 ---
 
 
-### Khan安全团队
+### KhanTeam
 
 研究方向Web内网渗透，红蓝攻防对抗，CTF。
 
@@ -661,6 +661,15 @@ Penetration Testing &amp; Red Team &amp; Security
 雷石安全实验室以团队公众号为平台向安全工作者不定期分享渗透、APT、企业安全建设等新鲜干货，团队公众号致力于成为一个实用干货分享型公众号。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ae996d91577e" alt="" />
+
+---
+
+
+### ChaBug
+
+一个分享知识、结识伙伴、资源共享的公众号。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4773c8d2dd2c" alt="" />
 
 ---
 
