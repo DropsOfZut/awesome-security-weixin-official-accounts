@@ -145,7 +145,7 @@ lymmmx
 
 ### GoCN
 
-国内最具规模和生命力的 Go 开发者社区
+最具规模和生命力的 Go 开发者社区
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8997cd77cfb2" alt="" />
 
