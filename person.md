@@ -1,7 +1,7 @@
 
-### nmask
+### WinTogether安全团队
 
-分享信息安全相关技术文章
+WinTogether安全团队，专注分享信息安全相关文章。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_3b4f344cc4ba" alt="" />
 
@@ -607,6 +607,15 @@ HACK之道，专注于红队攻防、实战技巧、CTF比赛、安全开发、�
 在技术为王的时代中遨游.
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8ed8e848a86c" alt="" />
+
+---
+
+
+### 橘子杀手
+
+一个嗜橘的信息安全工程师在这里分享一些技术、对事件的思考与见解，偶尔发发牢骚，吐吐槽
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8c63a14284df" alt="" />
 
 ---
 

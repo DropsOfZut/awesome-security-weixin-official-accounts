@@ -190,7 +190,7 @@ lymmmx
 
 ### PeckShield
 
-A blockchain security company with the goal to elevate the security, privacy, and usability of current ecosystem.
+PeckShield (派盾) -- 全球领先的区块链安全守护者。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_82bb3a5a82b1" alt="" />
 

@@ -62,15 +62,6 @@
 ---
 
 
-### Python之美
-
-《Python web开发实战》作者的公众号。发现Python之美，主要包含Web开发、Python进阶、架构设计、Python开发招聘信息等方面内容。 不接任何形式的广告，请绕行！
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a8ca8388d487" alt="" />
-
----
-
-
 ### 进击的Hunter
 
 专注Python、爬虫、后端、Poc、Exp及各种骚操作。各位如有什么想法，请私信我~

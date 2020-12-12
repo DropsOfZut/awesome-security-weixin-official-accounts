@@ -241,3 +241,12 @@ Threatbook微步在线，专业的安全威胁情报服务提供商。让您知�
 
 ---
 
+
+### 微步在线研究响应中心
+
+神秘，低调，手里全是情报。中国网络安全圈不可缺少的力量。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_c108d4d389bf" alt="" />
+
+---
+

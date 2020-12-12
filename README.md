@@ -2,7 +2,7 @@
 # awesome-security-weixin-official-accounts
 网络安全类公众号推荐，点击分类详情可快速查看微信公众号二维码
 
-本项目共分为13大类，收集公众号323个。
+本项目共分为13大类，收集公众号326个。
 收集优质文章在[微信聚合平台](http://wechat.doonsec.com)展示。
 
 - [目录分类]()
@@ -55,6 +55,7 @@
 * [安全帮](/media.md#安全帮) :- 安全帮，是中国电信基于专业安全能力自主研发的云安全服务平台，包含“1+4”产品体系。“1”：SaaS云安全服务电商；“4”：SDS分布式调度管理系统、安全能力开放平台、安全大数据平台、安全态势感知平台。 
 * [互联网安全内参](/media.md#互联网安全内参) :- 《安全内参》是专注于网络安全产业发展和行业应用的高端智库平台，致力于成为网络安全首席知识官。投稿&amp;合作请邮件联系 anquanneican#163.com 
 * [CNCERT风险评估](/media.md#CNCERT风险评估) :- CNCERT风险评估与软硬件安全相关动态信息分享 
+* [白帽子社区](/media.md#白帽子社区) :- 一个长期专注信息安全技术领域的公众号。 
 
 
 ---
@@ -89,6 +90,7 @@
 * [星阑科技](/org.md#星阑科技) :- 北京星阑科技有限公司 
 * [中睿天下](/org.md#中睿天下) :- 汇全球之智，明安全之道。 
 * [携程技术](/org.md#携程技术) :- 携程技术官方账号，分享交流成长。 
+* [微步在线研究响应中心](/org.md#微步在线研究响应中心) :- 神秘，低调，手里全是情报。中国网络安全圈不可缺少的力量。 
 
 
 ---
@@ -233,7 +235,7 @@
 ## [个人类](/person.md)
 
 *个人、技术分享*
-* [nmask](/person.md#nmask) :- 分享信息安全相关技术文章 
+* [WinTogether安全团队](/person.md#WinTogether安全团队) :- WinTogether安全团队，专注分享信息安全相关文章。 
 * [二道情报贩子](/person.md#二道情报贩子) :- 二道情报贩子，专注任何情报领域。上知天文,下知地理,中晓人和,明阴阳,懂八卦,晓奇门,知遁甲,运筹帷幄之中,决胜千里之外,自比管仲乐毅之贤,抱膝危坐,笑傲风月,未出茅庐,先定三分天下。 
 * [红队防线](/person.md#红队防线) :- 没有章法，便是最好的章法 
 * [安全泰式柑汁](/person.md#安全泰式柑汁) :- 记录、分享自己的一些安全知识和心得 
@@ -301,6 +303,7 @@
 * [凌晨安全](/person.md#凌晨安全) :- 人说：林深时见鹿，海蓝时见鲸，梦醒时见你。可实际：林深时雾起，海蓝时浪涌，梦醒时夜续。不见鹿，不见鲸，也不见你。但终究：鹿踏雾而来，鲸随浪而涌。表哥，你到底在哪里！ 
 * [渗了个透](/person.md#渗了个透) :- 分享日常学习记录和渗透测试中遇到的奇妙姿势。 
 * [信安小屋](/person.md#信安小屋) :- 在技术为王的时代中遨游. 
+* [橘子杀手](/person.md#橘子杀手) :- 一个嗜橘的信息安全工程师在这里分享一些技术、对事件的思考与见解，偶尔发发牢骚，吐吐槽 
 
 
 ---
@@ -352,7 +355,6 @@
 * [Web开发](/program.md#Web开发) :- 分享Web后端开发技术，分享PHP、Ruby、Python等用于后端网站、后台系统等后端开发技术；还包含ThinkPHP,WordPress等PHP网站开发框架、Django,Flask等Python网站开发框架。 
 * [数据库开发](/program.md#数据库开发) :- 分享数据库开发、原理和应用，涵盖MySQL、PostgreSQL、MS SQL Sever、Oracle等主流关系数据库的应用和原理，以及MongoDB、Redis、Memcached等NoSQL数据库和缓存技术。 
 * [Java后端](/program.md#Java后端) :- 公众号「Java后端」专注于 Java 技术，包括 Spring 全家桶，MySQL，JavaWeb，Git，Linux，Nginx，IDEA，数据结构，高并发，多线程，面试题，GitHub项目精选等相关内容，欢迎 Java 程序员关注。 
-* [Python之美](/program.md#Python之美) :- 《Python web开发实战》作者的公众号。发现Python之美，主要包含Web开发、Python进阶、架构设计、Python开发招聘信息等方面内容。 不接任何形式的广告，请绕行！ 
 * [进击的Hunter](/program.md#进击的Hunter) :- 专注Python、爬虫、后端、Poc、Exp及各种骚操作。各位如有什么想法，请私信我~ 
 * [SIGAI](/program.md#SIGAI) :- 全方位覆盖AI经典算法与工业应用，紧跟业界新趋势，让你始终站在技术前沿。 
 * [NightTeam](/program.md#NightTeam) :- 夜幕团队公众号，涉猎的编程语言包括 Python、Rust、C++、Go，领域涵盖爬虫、深度学习、服务研发和对象存储等，反正谁先关注，谁先涨工资。 
@@ -413,7 +415,7 @@
 * [小议安全](/other.md#小议安全) :- 有关网络安全、零信任、安全管理、安全分析和数据安全的一些沉淀和想法，以及个人成长，以原创为主。 
 * [腾讯安全智能](/other.md#腾讯安全智能) :- 该账号主要围绕智能化技术如何帮助企业提升网络安全水平展开，内容涉及机器学习、大数据处理等智能化技术在安全领域的实践经验分享，业界领先的产品和前沿趋势的解读分析等。通过分享、交流，推动安全智能的落地、应用。 
 * [落水轩](/other.md#落水轩) :- 不谈技术，只说故事。喝完这杯，还有三杯 
-* [PeckShield](/other.md#PeckShield) :- A blockchain security company with the goal to elevate the security, privacy, and usability of current ecosystem. 
+* [PeckShield](/other.md#PeckShield) :- PeckShield (派盾) -- 全球领先的区块链安全守护者。 
 * [青衣十三楼飞花堂](/other.md#青衣十三楼飞花堂) :- C/ASM程序员之闲言碎语 
 * [安全引擎](/other.md#安全引擎) :- What is Security? 
 * [浅黑科技](/other.md#浅黑科技) :- 在未来面前，我们都是孩子。 
@@ -480,6 +482,9 @@
 【[赵彬彬](https://github.com/赵彬彬)】
 【[sodme](https://github.com/sodme)】
 【[瓜子](https://github.com/瓜子)】
+【[Macr0phag3](https://github.com/Macr0phag3)】
+【[ccieyang](https://github.com/ccieyang)】
+【[danieluec](https://github.com/danieluec)】
 
 ##  Coder
 

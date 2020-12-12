@@ -259,3 +259,12 @@ CNCERT风险评估与软硬件安全相关动态信息分享
 
 ---
 
+
+### 白帽子社区
+
+一个长期专注信息安全技术领域的公众号。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_9e14730cd918" alt="" />
+
+---
+
