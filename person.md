@@ -619,3 +619,21 @@ HACK之道，专注于红队攻防、实战技巧、CTF比赛、安全开发、�
 
 ---
 
+
+### 小黑的安全笔记
+
+小黑是一只梦想成为黑客和吉他手的猫猫，这里分享他点点滴滴的技术积累
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_60c75ea5ab0f" alt="" />
+
+---
+
+
+### 学渣成长之路
+
+一群热爱网络安全的大学生，决心要为网络安全事业做贡献。记录学习遇到的种种难题，总结工作的学习过程。我们坚信只要肯学习，学渣也可以逆袭。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_6f8f51925b43" alt="" />
+
+---
+

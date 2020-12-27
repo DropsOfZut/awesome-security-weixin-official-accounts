@@ -233,7 +233,7 @@ OWASP中国，SecZone互联网安全研究中心官方平台
 ---
 
 
-### 威胁猎人
+### 永安在线情报平台
 
 威胁猎人，是业务安全情报践行者——永安在线旗下专注黑灰产研究实验室，为企业业务保驾护航。
 
@@ -670,6 +670,15 @@ Penetration Testing &amp; Red Team &amp; Security
 一个分享知识、结识伙伴、资源共享的公众号。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4773c8d2dd2c" alt="" />
+
+---
+
+
+### IDLab
+
+(IDLab)光瞬安全实验室，致力于攻防技术人员培养，网络安全，信息安全深层攻防技术研究，开拓安全领域前瞻性技术研究，发现计算机以及网络系统中存在的各种安全缺陷，帮助用户获得全面、持久的安全。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e10c5d7ba216" alt="" />
 
 ---
 

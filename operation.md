@@ -61,12 +61,3 @@ Docker中文社区旨在为大家提供Docker、K8s相关工具及前沿资讯�
 
 ---
 
-
-### 马哥Linux运维
-
-马哥教育创办于2009年，国内高端IT培训品牌，毕业学员薪资12K+以上，累计培养数万人。有Linux云计算运维、Python全栈、自动化、数据分析、人工智能、Go高并发架构等高薪就业课程。凭借高品质课程和良好口碑，与多家互联网建立人才合作
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_94044e4217ab" alt="" />
-
----
-
