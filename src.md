@@ -196,3 +196,12 @@ VIPKID安全响应中心官方账号
 
 ---
 
+
+### 字节跳动安全中心
+
+字节跳动安全中心
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_840004fd466e" alt="" />
+
+---
+
