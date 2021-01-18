@@ -79,3 +79,12 @@
 
 ---
 
+
+### 网安杂谈
+
+关注电子数据取证与网络犯罪调查
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_901b6c524273" alt="" />
+
+---
+

@@ -682,3 +682,21 @@ Penetration Testing &amp; Red Team &amp; Security
 
 ---
 
+
+### 赛博回忆录
+
+本公众号主要关注泛安全类的赛博技术，IOT、人工智能、web攻防、内网渗透、安全建设等等，奇奇怪怪的东西也很多，期待各位有技术热情的朋友们一起加入交流。官方知识星球名称为：赛博回忆录
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_42f207c433f9" alt="" />
+
+---
+
+
+### 网络侦查研究院
+
+服务全国情报侦查人员，培养网络情报思维，提高网络情报侦查能力。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_cc6f3d319fe3" alt="" />
+
+---
+
