@@ -127,7 +127,7 @@ tombkeeper 的公众号
 
 ### 汉客儿
 
-分享原创技术文章和工具，包括但不限于逆向破解、编程技术、漏洞分析、漏洞挖掘、系统原理等，欢迎交流。
+从事计算机安全行业，分享各种计算机实用技巧，安全科普知识，原创工具等等，欢迎关注。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_418dfd27e592" alt="" />
 
@@ -652,6 +652,24 @@ Gamma实验室是专注于网络安全攻防研究的实验室，不定时向外
 记录xsser个人成长
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8acffc8c80d6" alt="" />
+
+---
+
+
+### 瓜神学习网络安全
+
+本公众号记录god_mellon学习网络安全与Python的过程。出发了无数次，可每次都因为各种各样的事情中断掉。做一个严于律己的人。 陌生人，我也为你祝福。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_62a6087ff29e" alt="" />
+
+---
+
+
+### 白帽子的成长之路
+
+网络安全方面的信息
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_dd9a4b895d2a" alt="" />
 
 ---
 

@@ -107,9 +107,9 @@ Timeline Sec 网络安全团队官方公众号。这里记录着每一个漏洞�
 ---
 
 
-### 利刃信安
+### 利刃信安二狗子
 
-利刃信安资源技术服务
+利刃信安二狗子
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_361672e49447" alt="" />
 
