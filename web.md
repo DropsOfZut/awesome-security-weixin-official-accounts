@@ -44,15 +44,6 @@ HACK学习，专注于互联网安全与黑客精神；渗透测试，社会工�
 ---
 
 
-### 天億网络安全
-
-全面介绍网络安全相关知识、安全建设方案、分享网络安全行业法律法规及相关政策等内容，一个学习网络安全知识、技术、业务交流的全国性平台。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_22fb33f67c7e" alt="" />
-
----
-
-
 ### Rapid7
 
 定期发送产品相关技术文章，关键更新推送，解决方案分享等
@@ -107,9 +98,9 @@ Timeline Sec 网络安全团队官方公众号。这里记录着每一个漏洞�
 ---
 
 
-### 利刃信安二狗子
+### 利刃信安
 
-利刃信安二狗子
+利刃信安
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_361672e49447" alt="" />
 

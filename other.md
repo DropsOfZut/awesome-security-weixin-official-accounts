@@ -64,7 +64,7 @@ MS509为中国网安开展互联网攻防技术研究的专业团队，当前主
 
 ### 情报分析师
 
-情报研究中心，普及情报知识，培养情报思维，传播情报文化，服务情报人员。
+POLICE 教授 团队：培养情报思维，传播情报文化，服务情报人员，保护公众隐私。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e87ab103349e" alt="" />
 
@@ -262,7 +262,7 @@ What is Security?
 
 ### 404 Not F0und
 
-致力于分享原创高质量干货，包括但不限于：安全、数据、算法、思考
+柳星写字的地方，致力于分享原创高质量干货，包括但不限于：安全、数据、算法、思考
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8cea5d3d902b" alt="" />
 
@@ -310,6 +310,15 @@ What is Security?
 熊貓情報局PIB关注全球网络安全。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_bab37c752933" alt="" />
+
+---
+
+
+### NOVASEC
+
+NOVA SEC  新星安全 萌新启蒙之路 愿大家都能成为最闪耀的星。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_42598d7147f6" alt="" />
 
 ---
 

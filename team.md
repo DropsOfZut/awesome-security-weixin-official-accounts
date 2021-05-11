@@ -46,7 +46,7 @@ Seebug，原 Sebug 漏洞平台，洞悉漏洞，让你掌握第一手漏洞情�
 
 ### 信安之路
 
-专注信息安全技术和经验的分享，坚持原创，不蹭热点
+信息安全领域第一原创公号，专注信安领域人才培养和知识分享，致力于帮助五年以下信安从业者的学习和成长。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ad6a23e7ba45" alt="" />
 
@@ -262,7 +262,7 @@ OWASP中国，SecZone互联网安全研究中心官方平台
 
 ### Ms08067安全实验室
 
-www.ms08067.com
+“Ms08067安全实验室”致力于网络安全的普及和培训！
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_d073857828cf" alt="" />
 
@@ -413,7 +413,7 @@ Gcow是当前国内为数不多的民间网络信息安全研究团队之一。�
 ---
 
 
-### Khan安全团队
+### Khan安全攻防实验室
 
 安全不是一个人，我们来自五湖四海。研究方向Web内网渗透，免杀技术，红蓝攻防对抗，CTF。
 
@@ -433,7 +433,7 @@ Gcow是当前国内为数不多的民间网络信息安全研究团队之一。�
 
 ### 连接世界的暗影
 
-如果我们不曾看到影子，那就证明我们深处黑暗。
+公众号属于：暗影安全团队，团队是一支有情怀的安全团队，主要以工控安全、ATT@CK攻击链技术研究为主，信奉黑客增长。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4f0dabd0df69" alt="" />
 
@@ -550,7 +550,7 @@ Penetration Testing &amp; Red Team &amp; Security
 
 ### 美团技术团队
 
-10000+工程师，如何支撑中国领先的生活服务电子商务平台？4.6亿消费者、630万商户、2000多个行业、几千亿交易额背后是哪些技术？这里是美团、大众点评、美团外卖、美团配送、美团优选等技术团队的对外窗口。
+10000+工程师，如何支撑中国领先的生活服务电子商务平台？数亿消费者、数百万商户、2000多个行业、几千亿交易额背后是哪些技术在支撑？这里是美团、大众点评、美团外卖、美团配送、美团优选等技术团队的对外窗口。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_96d37a04e9bf" alt="" />
 
@@ -586,7 +586,7 @@ Penetration Testing &amp; Red Team &amp; Security
 
 ### 轩辕实验室
 
-车联网信息安全和预期功能安全技术
+智能网联汽车信息安全和预期功能安全技术
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e370bf0d2f3a" alt="" />
 
@@ -697,6 +697,33 @@ Penetration Testing &amp; Red Team &amp; Security
 服务全国情报侦查人员，培养网络情报思维，提高网络情报侦查能力。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_cc6f3d319fe3" alt="" />
+
+---
+
+
+### Forest Team
+
+认识一群潜伏在黑夜中的勇士是一种什么样的体验，关注我你就知道了~
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_986b1bdfc577" alt="" />
+
+---
+
+
+### 代码卫士
+
+奇安信代码卫士是国内第一家专注于软件开发安全的产品线，产品涵盖代码安全缺陷检测、软件编码合规检测、开源组件溯源检测三大方向，分别解决软件开发过程中的安全缺陷和漏洞问题、编码合规性问题、开源组件安全管控问题。本订阅号提供国内外热点安全资讯。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_bba053bd7494" alt="" />
+
+---
+
+
+### F12sec
+
+攻守之道，先立于不败之地而后求胜。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_195dee428fe9" alt="" />
 
 ---
 

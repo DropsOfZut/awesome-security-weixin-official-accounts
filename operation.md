@@ -10,7 +10,7 @@
 
 ### Linux中国
 
-十万级技术订阅号，依托于『Linux中国』（https://linux.cn/）社区，专注于 Linux 学习、技术研究、开源思想传播。
+[Linux中国](https://linux.cn/)开源社区官方公众号。专注于开源技术研究、开源思想传播。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_52ef55f8adfd" alt="" />
 
@@ -58,6 +58,15 @@ Docker中文社区旨在为大家提供Docker、K8s相关工具及前沿资讯�
 关注分布式相关的开源项目和基础架构，致力于分析并报道这些新技术是如何以及将会怎样影响企业的软件构建方式。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e2b16c84652b" alt="" />
+
+---
+
+
+### IT牧场
+
+IT牧场公众号，阿里技术专家分享开发、运维、架构相关干货！
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e6849e368b5f" alt="" />
 
 ---
 

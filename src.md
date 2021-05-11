@@ -91,7 +91,7 @@ OPPO安全应急响应中心(OSRC)官方公众号。
 
 ### 同程艺龙安全应急响应中心
 
-LYSRC是目前唯一公开漏洞的SRC ，欢迎提交漏洞 https://sec.ly.com
+欢迎提交漏洞 https://sec.ly.com
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_2a87054fb185" alt="" />
 
@@ -127,7 +127,7 @@ LYSRC是目前唯一公开漏洞的SRC ，欢迎提交漏洞 https://sec.ly.com
 
 ### CNVD漏洞平台
 
-国家信息安全漏洞共享平台（CNVD）是由CNCERT发起，集漏洞统一收集验证、预警发布及应急处置平台，目标是切实提升我国在安全漏洞方面的整体研究水平和及时预防能力，进而提高我国信息系统及国产软件的安全性，带动国内相关安全产品的发展。
+国家信息安全漏洞共享平台（China National Vulnerability Database）是由国家计算机网络应急技术处理协调中心联合重要信息系统单位、基础电信运营商、网络安全厂商、软件厂商和互联网企业建立的国家网络安全漏洞库。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_d8b2da442111" alt="" />
 
@@ -136,7 +136,7 @@ LYSRC是目前唯一公开漏洞的SRC ，欢迎提交漏洞 https://sec.ly.com
 
 ### 斗象智能安全
 
-斗象科技以人工智能、大数据技术为核心，结合流量监听与主动探测技术，自主研发的新一代智能安全产品解决方案，为企业建立基于人工智能的威胁监测与数据分析体系。
+斗象科技以人工智能、大数据技术为核心，实战攻防与漏洞情报为引领，自主研发的新一代智能安全产品解决方案。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f58af6ae958a" alt="" />
 

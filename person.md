@@ -251,9 +251,9 @@ Advanced attack perspective
 ---
 
 
-### 漏洞感知
+### 我的安全梦
 
-漏洞感知不是过眼云烟的个人订阅号，提供实战能力，这里是值得您反复回看的档案室。
+记录、分享、一路走过来的一些感悟。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_2550012bdb87" alt="" />
 
@@ -341,7 +341,7 @@ Advanced attack perspective
 ---
 
 
-### 网安小师傅
+### 白帽那些事
 
 网络空间安全学习记录，资源分享，cisa、cisp、cissp、oscp、HCIA、HCIP、HCIE等等，CTF，靶场练习，漏洞复现，安全建设，实战测试……
 
@@ -440,7 +440,7 @@ stay hungry ,stay foolish.
 ---
 
 
-### 三里河安全研究
+### 独角鲸安全
 
 分享网络安全技术、法律法规、威胁情报，红蓝对抗技术和网络安全事件资讯。
 
@@ -550,7 +550,7 @@ Know it,Then hacking it!
 
 ### don9sec
 
-不会编程的攻防都是耍流氓。
+埋头做事，抬头看路。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ffc9f5385230" alt="" />
 
@@ -586,7 +586,7 @@ HACK之道，专注于红队攻防、实战技巧、CTF比赛、安全开发、�
 
 ### 凌晨安全
 
-人说：林深时见鹿，海蓝时见鲸，梦醒时见你。可实际：林深时雾起，海蓝时浪涌，梦醒时夜续。不见鹿，不见鲸，也不见你。但终究：鹿踏雾而来，鲸随浪而涌。表哥，你到底在哪里！
+学习总结，转发优秀文章
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a7f55489bbd8" alt="" />
 
@@ -604,7 +604,7 @@ HACK之道，专注于红队攻防、实战技巧、CTF比赛、安全开发、�
 
 ### 信安小屋
 
-在技术为王的时代中遨游.
+在技术为王的时代中遨游.  |   寻麓信息旗下网络安全工作室成员
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8ed8e848a86c" alt="" />
 
@@ -629,9 +629,9 @@ HACK之道，专注于红队攻防、实战技巧、CTF比赛、安全开发、�
 ---
 
 
-### 学渣成长之路
+### Fighter安全团队
 
-一群热爱网络安全的大学生，决心要为网络安全事业做贡献。记录学习遇到的种种难题，总结工作的学习过程。我们坚信只要肯学习，学渣也可以逆袭。
+一群热爱网络安全的大学生，决心要为网络安全事业做贡献。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_6f8f51925b43" alt="" />
 
@@ -670,6 +670,78 @@ Gamma实验室是专注于网络安全攻防研究的实验室，不定时向外
 网络安全方面的信息
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_dd9a4b895d2a" alt="" />
+
+---
+
+
+### SECURITY CLUB
+
+花有重开日，人无再少年
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_66908bcd9104" alt="" />
+
+---
+
+
+### XG小刚
+
+XG安全，主要记录个人学习资料和博客笔记。涉及Web安全，代码审计，操作系统，内网渗透，Python编程，乱七杂八等等。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ab604dc52ab0" alt="" />
+
+---
+
+
+### 安全判官
+
+网络安全打假~
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a7918b0536ba" alt="" />
+
+---
+
+
+### 伟盾网络安全
+
+专注网络安全，用心做好安全这件事
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_75e869919a5f" alt="" />
+
+---
+
+
+### PeiQi文库
+
+乌拉乌拉！
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_67501569b7b5" alt="" />
+
+---
+
+
+### 释然IT杂谈
+
+本公众号专注于分享网络工程（思科、华为），系统运维（Linux）、以及安全等方面学习资源，以及相关技术文章、学习视频和学习书籍等。期待您的加入~~~关注回复“724”可领取免费学习资料（含有书籍）。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ad4551519762" alt="" />
+
+---
+
+
+### 进德修业行道
+
+一名普通的白帽子，维护着一个既讲技术又有温度的原创号，一如既往地学习和分享，希望大家在紧张而忙碌的生活中可以在这里安静的学习，前行的道路上感谢有您的关注与支持。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ad128618f5e9" alt="" />
+
+---
+
+
+### Hacking黑白红
+
+Hacking黑、白、红、蓝、紫技术交流
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_2cec234c3593" alt="" />
 
 ---
 
