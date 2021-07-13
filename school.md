@@ -1,7 +1,7 @@
 
 ### [蝰蛇安全实验室](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzA3NzgyNjUwNA==)
 
-【3/6/30】
+【3/9/30】
 
 湖南农业大学蝰蛇安全实验室
 
@@ -12,7 +12,7 @@
 
 ### [复旦白泽战队](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
 
-【0/5/30】
+【0/4/30】
 
 以复旦大学系统安全实验室学生为主成立的安全攻防战队，分享最新研究成果，交流系统安全攻防领域技巧。
 
@@ -23,22 +23,11 @@
 
 ### [山警网络空间安全与电子数据取证](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MjM5Njc1OTYyNA==)
 
-【1/2/30】
+【0/1/30】
 
 山东警察学院IT兴趣小组
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_544c8c38eeaf" alt="" />
-
----
-
-
-### [青科信安](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzkxMTE4MDMyOQ==)
-
-【0/1/30】
-
-青岛科技大学信息安全团队
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_244b9c8677de" alt="" />
 
 ---
 
@@ -116,6 +105,17 @@
 0w1网络安全俱乐部隶属于西安交通大学智能网络与网络安全教育部重点实验室，旨在进行网络安全方面的学习和研究交流。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_20dc9c32f27c" alt="" />
+
+---
+
+
+### [青科信安](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzkxMTE4MDMyOQ==)
+
+【0/0/30】
+
+青岛科技大学信息安全团队
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_244b9c8677de" alt="" />
 
 ---
 

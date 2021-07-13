@@ -1,7 +1,7 @@
 
 ### [情报分析师](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzA3Mjc1MTkwOA==)
 
-【22/65/30】
+【22/63/30】
 
 POLICE 教授 团队：培养情报思维，传播情报文化，服务情报人员，保护公众隐私。
 
@@ -12,7 +12,7 @@ POLICE 教授 团队：培养情报思维，传播情报文化，服务情报人
 
 ### [全球技术地图](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI1OTExNDY1NQ==)
 
-【27/52/30】
+【23/48/30】
 
 洞见前沿，引领未来。
 
@@ -23,7 +23,7 @@ POLICE 教授 团队：培养情报思维，传播情报文化，服务情报人
 
 ### [GoCN](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzA4ODg0NDkzOA==)
 
-【16/31/30】
+【18/28/30】
 
 最具规模和生命力的 Go 开发者社区
 
@@ -34,7 +34,7 @@ POLICE 教授 团队：培养情报思维，传播情报文化，服务情报人
 
 ### [黑客技术与网络安全](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzIyMDEzMTA2MQ==)
 
-【0/29/30】
+【0/27/30】
 
 分享黑客技术和网络安全知识，让程序员了解黑客世界，学习黑客技术；普及上网和网络安全知识；帮助黑客、安全从业者、安全爱好者学习与成长。分享的所有技术和工具仅供学习之用。
 
@@ -45,7 +45,7 @@ POLICE 教授 团队：培养情报思维，传播情报文化，服务情报人
 
 ### [网安寻路人](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzIxODM0NDU4MQ==)
 
-【22/22/30】
+【24/24/30】
 
 立足本土实践和需求，放眼全球做法和经验，探寻网络空间安全之法道。
 
@@ -56,7 +56,7 @@ POLICE 教授 团队：培养情报思维，传播情报文化，服务情报人
 
 ### [安全学术圈](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
 
-【10/12/30】
+【8/10/30】
 
 分享安全方面的论文写作、会议发表、基金申请方面的资料。
 
@@ -67,7 +67,7 @@ POLICE 教授 团队：培养情报思维，传播情报文化，服务情报人
 
 ### [NOVASEC](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzUzODU3ODA0MA==)
 
-【6/8/30】
+【6/7/30】
 
 NOVA SEC  新星安全 萌新启蒙之路 愿大家都能成为最闪耀的星。
 
@@ -78,7 +78,7 @@ NOVA SEC  新星安全 萌新启蒙之路 愿大家都能成为最闪耀的星�
 
 ### [虎符智库](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzIwNjYwMTMyNQ==)
 
-【4/6/30】
+【3/6/30】
 
 “虎符智库” 专注解读网络安全重大事件与技术趋势，提供高层决策参考。
 
@@ -109,20 +109,9 @@ PeckShield (派盾) -- 全球领先的区块链安全守护者。
 ---
 
 
-### [虚拟框架](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MjM5Njg5ODU2NA==)
-
-【2/4/30】
-
-解锁 Android 手机黑科技！
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_39c8fb2fc8b4" alt="" />
-
----
-
-
 ### [青衣十三楼飞花堂](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzUzMjQyMDE3Ng==)
 
-【3/3/30】
+【2/2/30】
 
 C/ASM程序员之闲言碎语
 
@@ -131,13 +120,13 @@ C/ASM程序员之闲言碎语
 ---
 
 
-### [专注安管平台](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzUyNzMxOTAwMw==)
+### [虚拟框架](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MjM5Njg5ODU2NA==)
 
-【1/1/30】
+【2/2/30】
 
-专注安管平台、SIEM、SOC、SOAR、大数据安全分析、态势感知等平台类安全领域。
+解锁 Android 手机黑科技！
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_48603b9bb05a" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_39c8fb2fc8b4" alt="" />
 
 ---
 
@@ -347,6 +336,17 @@ What is Security?
 这里是河马，SHELLPUB.COM 公众号
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_d110440c4890" alt="" />
+
+---
+
+
+### [专注安管平台](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzUyNzMxOTAwMw==)
+
+【0/0/30】
+
+专注安管平台、SIEM、SOC、SOAR、大数据安全分析、态势感知等平台类安全领域。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_48603b9bb05a" alt="" />
 
 ---
 
