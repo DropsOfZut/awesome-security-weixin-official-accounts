@@ -1,7 +1,7 @@
 
 ### [情报分析师](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzA3Mjc1MTkwOA==)
 
-【22/63/30】
+【22/61/30】
 
 POLICE 教授 团队：培养情报思维，传播情报文化，服务情报人员，保护公众隐私。
 
@@ -12,7 +12,7 @@ POLICE 教授 团队：培养情报思维，传播情报文化，服务情报人
 
 ### [全球技术地图](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI1OTExNDY1NQ==)
 
-【23/48/30】
+【22/50/30】
 
 洞见前沿，引领未来。
 
@@ -23,7 +23,7 @@ POLICE 教授 团队：培养情报思维，传播情报文化，服务情报人
 
 ### [GoCN](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzA4ODg0NDkzOA==)
 
-【20/30/30】
+【19/29/30】
 
 最具规模和生命力的 Go 开发者社区
 
@@ -32,20 +32,9 @@ POLICE 教授 团队：培养情报思维，传播情报文化，服务情报人
 ---
 
 
-### [黑客技术与网络安全](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzIyMDEzMTA2MQ==)
-
-【0/27/30】
-
-分享黑客技术和网络安全知识，让程序员了解黑客世界，学习黑客技术；普及上网和网络安全知识；帮助黑客、安全从业者、安全爱好者学习与成长。分享的所有技术和工具仅供学习之用。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4ad27a83ff73" alt="" />
-
----
-
-
 ### [网安寻路人](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzIxODM0NDU4MQ==)
 
-【24/24/30】
+【23/24/30】
 
 立足本土实践和需求，放眼全球做法和经验，探寻网络空间安全之法道。
 
@@ -54,9 +43,20 @@ POLICE 教授 团队：培养情报思维，传播情报文化，服务情报人
 ---
 
 
+### [黑客技术与网络安全](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzIyMDEzMTA2MQ==)
+
+【0/24/30】
+
+分享黑客技术和网络安全知识，让程序员了解黑客世界，学习黑客技术；普及上网和网络安全知识；帮助黑客、安全从业者、安全爱好者学习与成长。分享的所有技术和工具仅供学习之用。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4ad27a83ff73" alt="" />
+
+---
+
+
 ### [安全学术圈](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
 
-【8/10/30】
+【8/11/30】
 
 分享安全方面的论文写作、会议发表、基金申请方面的资料。
 
@@ -65,24 +65,13 @@ POLICE 教授 团队：培养情报思维，传播情报文化，服务情报人
 ---
 
 
-### [NOVASEC](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzUzODU3ODA0MA==)
+### [PeckShield](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzU3MTU2NTU1MA==)
 
-【6/7/30】
+【5/5/30】
 
-NOVA SEC  新星安全 萌新启蒙之路 愿大家都能成为最闪耀的星。
+PeckShield (派盾) -- 全球领先的区块链安全守护者。
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_42598d7147f6" alt="" />
-
----
-
-
-### [虎符智库](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzIwNjYwMTMyNQ==)
-
-【3/6/30】
-
-“虎符智库” 专注解读网络安全重大事件与技术趋势，提供高层决策参考。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4f44eb4295ae" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_82bb3a5a82b1" alt="" />
 
 ---
 
@@ -98,13 +87,24 @@ NOVA SEC  新星安全 萌新启蒙之路 愿大家都能成为最闪耀的星�
 ---
 
 
-### [PeckShield](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzU3MTU2NTU1MA==)
+### [NOVASEC](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzUzODU3ODA0MA==)
 
-【4/4/30】
+【4/5/30】
 
-PeckShield (派盾) -- 全球领先的区块链安全守护者。
+NOVA SEC  新星安全 萌新启蒙之路 愿大家都能成为最闪耀的星。
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_82bb3a5a82b1" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_42598d7147f6" alt="" />
+
+---
+
+
+### [虎符智库](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzIwNjYwMTMyNQ==)
+
+【2/4/30】
+
+“虎符智库” 专注解读网络安全重大事件与技术趋势，提供高层决策参考。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4f44eb4295ae" alt="" />
 
 ---
 
@@ -122,11 +122,22 @@ C/ASM程序员之闲言碎语
 
 ### [虚拟框架](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MjM5Njg5ODU2NA==)
 
-【2/2/30】
+【1/2/30】
 
 解锁 Android 手机黑科技！
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_39c8fb2fc8b4" alt="" />
+
+---
+
+
+### [正阳咨询](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI1MzA3Mjg4Mg==)
+
+【1/1/30】
+
+正阳咨询，关注企业风控和个人成长
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_884945b85a98" alt="" />
 
 ---
 
@@ -149,6 +160,17 @@ lymmmx
 星光不问赶路人
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_632ee78dd07b" alt="" />
+
+---
+
+
+### [数据安全与取证](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzIyNzU0NjIyMg==)
+
+【0/1/30】
+
+我们专注于电子取证技术的分享及司法鉴定实践的交流，涵盖了计算机取证、手机取证、电子物证、司法鉴定等众多领域，是电子取证公司与电子取证从业者交流学习的首选平台。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_336d761a246b" alt="" />
 
 ---
 
@@ -182,17 +204,6 @@ lymmmx
 MS509为中国网安开展互联网攻防技术研究的专业团队，当前主攻方向包括WEB安全、移动安全、二进制安全等。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_dc8d3f396c98" alt="" />
-
----
-
-
-### [正阳咨询](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI1MzA3Mjg4Mg==)
-
-【0/0/30】
-
-正阳咨询，关注企业风控和个人成长
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_884945b85a98" alt="" />
 
 ---
 
@@ -314,17 +325,6 @@ What is Security?
 杂七杂八的分享
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_6798e2e35f45" alt="" />
-
----
-
-
-### [数据安全与取证](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzIyNzU0NjIyMg==)
-
-【0/0/30】
-
-我们专注于电子取证技术的分享及司法鉴定实践的交流，涵盖了计算机取证、手机取证、电子物证、司法鉴定等众多领域，是电子取证公司与电子取证从业者交流学习的首选平台。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_336d761a246b" alt="" />
 
 ---
 

@@ -10,9 +10,20 @@
 ---
 
 
+### [网络安全攻防训练营](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzAxNTc4MzUwNg==)
+
+【3/3/30】
+
+平顶山学院攻防技术团队
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_21cd5b0aa014" alt="" />
+
+---
+
+
 ### [复旦白泽战队](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
 
-【0/4/30】
+【0/3/30】
 
 以复旦大学系统安全实验室学生为主成立的安全攻防战队，分享最新研究成果，交流系统安全攻防领域技巧。
 
@@ -23,7 +34,7 @@
 
 ### [山警网络空间安全与电子数据取证](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MjM5Njc1OTYyNA==)
 
-【0/1/30】
+【0/2/30】
 
 山东警察学院IT兴趣小组
 
@@ -72,17 +83,6 @@
 广东外语外贸大学网络安全实验室信息推送和资源平台
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8176da819e03" alt="" />
-
----
-
-
-### [网络安全攻防训练营](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzAxNTc4MzUwNg==)
-
-【0/0/30】
-
-平顶山学院攻防技术团队
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_21cd5b0aa014" alt="" />
 
 ---
 

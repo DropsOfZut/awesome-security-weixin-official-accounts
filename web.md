@@ -1,7 +1,7 @@
 
 ### [嘶吼专业版](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI0MDY1MDU4MQ==)
 
-【16/93/30】
+【15/92/30】
 
 为您带来每日最新最专业的互联网安全专业信息。
 
@@ -12,7 +12,7 @@
 
 ### [HACK学习呀](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI5MDU1NDk2MA==)
 
-【14/23/30】
+【10/18/30】
 
 HACK学习，专注于互联网安全与黑客精神；渗透测试，社会工程学，Python黑客编程，资源分享，Web渗透培训，电脑技巧，渗透技巧等，为广大网络安全爱好者一个交流分享学习的平台！
 
@@ -23,7 +23,7 @@ HACK学习，专注于互联网安全与黑客精神；渗透测试，社会工�
 
 ### [安全羊](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzkzOTI1NjI1MA==)
 
-【17/18/30】
+【14/16/30】
 
 一个致力于信息安全优质知识分享的公众号
 
@@ -34,7 +34,7 @@ HACK学习，专注于互联网安全与黑客精神；渗透测试，社会工�
 
 ### [宽字节安全](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzUzNTEyMTE0Mw==)
 
-【7/7/30】
+【7/8/30】
 
 二十年专注安全研究，漏洞分析
 
@@ -45,7 +45,7 @@ HACK学习，专注于互联网安全与黑客精神；渗透测试，社会工�
 
 ### [TimelineSec](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzA4NzUwMzc3NQ==)
 
-【4/7/30】
+【4/8/30】
 
 Timeline Sec 网络安全团队官方公众号。这里记录着每一个漏洞的发生，手把手教你学会漏洞复现。这里会不定期举办公益性安全学习活动，为你找到更多安全路上的交流伙伴。这里有一群斗志昂扬积极向上的年轻人，等待着你的关注与加入！
 
@@ -54,20 +54,9 @@ Timeline Sec 网络安全团队官方公众号。这里记录着每一个漏洞�
 ---
 
 
-### [渗透测试教程](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI3OTIwNDkzNQ==)
-
-【3/5/30】
-
-只会分享安全技术文章，不会分享安全娱乐新闻。专注渗透测试、渗透自动化武器研发。记录分享学习路上的知识，祝你早日登上SRC英雄榜！
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_7e60f7442e6a" alt="" />
-
----
-
-
 ### [利刃信安](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzU1Mjk3MDY1OA==)
 
-【2/5/30】
+【3/6/30】
 
 利刃信安
 
@@ -76,9 +65,20 @@ Timeline Sec 网络安全团队官方公众号。这里记录着每一个漏洞�
 ---
 
 
+### [渗透测试教程](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI3OTIwNDkzNQ==)
+
+【3/6/30】
+
+只会分享安全技术文章，不会分享安全娱乐新闻。专注渗透测试、渗透自动化武器研发。记录分享学习路上的知识，祝你早日登上SRC英雄榜！
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_7e60f7442e6a" alt="" />
+
+---
+
+
 ### [GobySec](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI4MzcwNTAzOQ==)
 
-【2/4/30】
+【3/4/30】
 
 新一代网络安全测试工具，由赵武Zwell（Pangolin、FOFA作者）打造，能够针对一个目标企业梳理最全的攻击面信息，同时能进行高效、实战化漏洞扫描，并快速的从一个验证入口点，切换到横向。
 
