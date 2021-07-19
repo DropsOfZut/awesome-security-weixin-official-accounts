@@ -12,7 +12,7 @@
 
 ### [分布式实验室](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzA5OTAyNzQ2OA==)
 
-【0/66/30】
+【0/69/30】
 
 关注分布式相关的开源项目和基础架构，致力于分析并报道这些新技术是如何以及将会怎样影响企业的软件构建方式。
 

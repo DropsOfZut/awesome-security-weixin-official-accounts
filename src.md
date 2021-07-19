@@ -34,7 +34,7 @@
 
 ### [CNVD漏洞平台](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzU3ODM2NTg2Mg==)
 
-【7/9/30】
+【9/11/30】
 
 国家信息安全漏洞共享平台（China National Vulnerability Database）是由国家计算机网络应急技术处理协调中心联合重要信息系统单位、基础电信运营商、网络安全厂商、软件厂商和互联网企业建立的国家网络安全漏洞库。
 
