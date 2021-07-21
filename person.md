@@ -12,7 +12,7 @@ Security for life
 
 ### [释然IT杂谈](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzIxMTEyOTM2Ng==)
 
-【2/48/30】
+【2/49/30】
 
 本公众号专注于分享网络工程（思科、华为），系统运维（Linux）、以及安全等方面学习资源，以及相关技术文章、学习视频和学习书籍等。期待您的加入~~~关注回复“724”可领取免费学习资料（含有书籍）。
 
