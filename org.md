@@ -45,7 +45,7 @@
 
 ### [火线Zone](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI2NDQ5NTQzOQ==)
 
-【2/26/30】
+【2/27/30】
 
 火线Zone是[火线安全平台]运营的封闭式实战安全攻防社区 https://zone.huoxian.cn
 

@@ -23,7 +23,7 @@ Security for life
 
 ### [渗透Xiao白帽](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI1NTM4ODIxMw==)
 
-【2/39/30】
+【2/41/30】
 
 积硅步以致千里，积怠惰以致深渊！
 
