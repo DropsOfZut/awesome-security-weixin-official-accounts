@@ -65,6 +65,17 @@
 ---
 
 
+### [电子取证及可信应用协创中心](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzAxODA3NDc3NA==)
+
+【0/1/30】
+
+电子取证及可信应用湖北省协同创新中心（培育）的订阅号。介绍和宣传法庭科学中的电子数据取证（Digital Forensics）涉及的科学知识、技术实践和创新应用，推动电子数据取证的普及和发展。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_16885e328471" alt="" />
+
+---
+
+
 ### [Gh0xE9](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzAwNTc5MTMyNg==)
 
 【0/0/30】
@@ -72,17 +83,6 @@
 个人势公众号，专攻网络安全，硬件等方面，狩猎范围极广，不积跬步，无以至千里，低调说话，高调做事。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_3953fa56d850" alt="" />
-
----
-
-
-### [电子取证及可信应用协创中心](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzAxODA3NDc3NA==)
-
-【0/0/30】
-
-电子取证及可信应用湖北省协同创新中心（培育）的订阅号。介绍和宣传法庭科学中的电子数据取证（Digital Forensics）涉及的科学知识、技术实践和创新应用，推动电子数据取证的普及和发展。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_16885e328471" alt="" />
 
 ---
 

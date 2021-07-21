@@ -1,7 +1,7 @@
 
 ### [嘶吼专业版](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI0MDY1MDU4MQ==)
 
-【15/92/30】
+【16/91/30】
 
 为您带来每日最新最专业的互联网安全专业信息。
 
@@ -12,7 +12,7 @@
 
 ### [HACK学习呀](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI5MDU1NDk2MA==)
 
-【10/18/30】
+【9/16/30】
 
 HACK学习，专注于互联网安全与黑客精神；渗透测试，社会工程学，Python黑客编程，资源分享，Web渗透培训，电脑技巧，渗透技巧等，为广大网络安全爱好者一个交流分享学习的平台！
 
@@ -23,7 +23,7 @@ HACK学习，专注于互联网安全与黑客精神；渗透测试，社会工�
 
 ### [安全羊](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzkzOTI1NjI1MA==)
 
-【14/16/30】
+【13/15/30】
 
 一个致力于信息安全优质知识分享的公众号
 
@@ -34,7 +34,7 @@ HACK学习，专注于互联网安全与黑客精神；渗透测试，社会工�
 
 ### [宽字节安全](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzUzNTEyMTE0Mw==)
 
-【7/8/30】
+【8/9/30】
 
 二十年专注安全研究，漏洞分析
 
