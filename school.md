@@ -23,7 +23,7 @@
 
 ### [复旦白泽战队](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
 
-【0/3/30】
+【0/2/30】
 
 以复旦大学系统安全实验室学生为主成立的安全攻防战队，分享最新研究成果，交流系统安全攻防领域技巧。
 

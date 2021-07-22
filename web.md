@@ -1,22 +1,11 @@
 
 ### [嘶吼专业版](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI0MDY1MDU4MQ==)
 
-【16/91/30】
+【15/90/30】
 
 为您带来每日最新最专业的互联网安全专业信息。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_523f772a62a6" alt="" />
-
----
-
-
-### [HACK学习呀](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI5MDU1NDk2MA==)
-
-【9/16/30】
-
-HACK学习，专注于互联网安全与黑客精神；渗透测试，社会工程学，Python黑客编程，资源分享，Web渗透培训，电脑技巧，渗透技巧等，为广大网络安全爱好者一个交流分享学习的平台！
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_12c7579d6f37" alt="" />
 
 ---
 
@@ -32,9 +21,20 @@ HACK学习，专注于互联网安全与黑客精神；渗透测试，社会工�
 ---
 
 
+### [HACK学习呀](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI5MDU1NDk2MA==)
+
+【8/15/30】
+
+HACK学习，专注于互联网安全与黑客精神；渗透测试，社会工程学，Python黑客编程，资源分享，Web渗透培训，电脑技巧，渗透技巧等，为广大网络安全爱好者一个交流分享学习的平台！
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_12c7579d6f37" alt="" />
+
+---
+
+
 ### [宽字节安全](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzUzNTEyMTE0Mw==)
 
-【8/9/30】
+【7/8/30】
 
 二十年专注安全研究，漏洞分析
 
@@ -45,7 +45,7 @@ HACK学习，专注于互联网安全与黑客精神；渗透测试，社会工�
 
 ### [TimelineSec](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzA4NzUwMzc3NQ==)
 
-【4/8/30】
+【3/7/30】
 
 Timeline Sec 网络安全团队官方公众号。这里记录着每一个漏洞的发生，手把手教你学会漏洞复现。这里会不定期举办公益性安全学习活动，为你找到更多安全路上的交流伙伴。这里有一群斗志昂扬积极向上的年轻人，等待着你的关注与加入！
 
