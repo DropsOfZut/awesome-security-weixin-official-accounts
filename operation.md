@@ -1,7 +1,7 @@
 
 ### [Linux中国](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MjM5NjQ4MjYwMQ==)
 
-【95/101/30】
+【95/100/30】
 
 [Linux中国](https://linux.cn/)开源社区官方公众号。专注于开源技术研究、开源思想传播。
 
@@ -34,7 +34,7 @@
 
 ### [IT牧场](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI4ODQ3NjE2OA==)
 
-【0/33/30】
+【0/32/30】
 
 IT牧场公众号，阿里技术专家分享开发、运维、架构相关干货！
 
@@ -67,7 +67,7 @@ Docker中文社区旨在为大家提供 Docker、Kubernetes 相关工具及前�
 
 ### [运维帮](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzA3MzYwNjQ3NA==)
 
-【0/3/30】
+【0/2/30】
 
 互联网技术分享平台，分享的力量。帮主一直坚信技术可以改变世界，从毕业到现在干了15年运维，有许多话要和你说。
 

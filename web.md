@@ -1,7 +1,7 @@
 
 ### [嘶吼专业版](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI0MDY1MDU4MQ==)
 
-【15/90/30】
+【16/89/30】
 
 为您带来每日最新最专业的互联网安全专业信息。
 
@@ -32,20 +32,9 @@ HACK学习，专注于互联网安全与黑客精神；渗透测试，社会工�
 ---
 
 
-### [宽字节安全](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzUzNTEyMTE0Mw==)
-
-【7/8/30】
-
-二十年专注安全研究，漏洞分析
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_2de2b9f7d076" alt="" />
-
----
-
-
 ### [TimelineSec](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzA4NzUwMzc3NQ==)
 
-【3/7/30】
+【4/8/30】
 
 Timeline Sec 网络安全团队官方公众号。这里记录着每一个漏洞的发生，手把手教你学会漏洞复现。这里会不定期举办公益性安全学习活动，为你找到更多安全路上的交流伙伴。这里有一群斗志昂扬积极向上的年轻人，等待着你的关注与加入！
 
@@ -54,9 +43,20 @@ Timeline Sec 网络安全团队官方公众号。这里记录着每一个漏洞�
 ---
 
 
+### [宽字节安全](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzUzNTEyMTE0Mw==)
+
+【6/7/30】
+
+二十年专注安全研究，漏洞分析
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_2de2b9f7d076" alt="" />
+
+---
+
+
 ### [利刃信安](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzU1Mjk3MDY1OA==)
 
-【3/6/30】
+【3/7/30】
 
 利刃信安
 
@@ -67,7 +67,7 @@ Timeline Sec 网络安全团队官方公众号。这里记录着每一个漏洞�
 
 ### [渗透测试教程](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI3OTIwNDkzNQ==)
 
-【3/6/30】
+【3/7/30】
 
 只会分享安全技术文章，不会分享安全娱乐新闻。专注渗透测试、渗透自动化武器研发。记录分享学习路上的知识，祝你早日登上SRC英雄榜！
 

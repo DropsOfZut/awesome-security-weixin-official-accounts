@@ -1,7 +1,7 @@
 
 ### [情报分析师](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzA3Mjc1MTkwOA==)
 
-【20/59/30】
+【20/56/30】
 
 POLICE 教授 团队：培养情报思维，传播情报文化，服务情报人员，保护公众隐私。
 
@@ -23,7 +23,7 @@ POLICE 教授 团队：培养情报思维，传播情报文化，服务情报人
 
 ### [GoCN](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzA4ODg0NDkzOA==)
 
-【21/30/30】
+【21/29/30】
 
 最具规模和生命力的 Go 开发者社区
 
@@ -34,7 +34,7 @@ POLICE 教授 团队：培养情报思维，传播情报文化，服务情报人
 
 ### [黑客技术与网络安全](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzIyMDEzMTA2MQ==)
 
-【0/26/30】
+【0/27/30】
 
 分享黑客技术和网络安全知识，让程序员了解黑客世界，学习黑客技术；普及上网和网络安全知识；帮助黑客、安全从业者、安全爱好者学习与成长。分享的所有技术和工具仅供学习之用。
 
@@ -45,7 +45,7 @@ POLICE 教授 团队：培养情报思维，传播情报文化，服务情报人
 
 ### [网安寻路人](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzIxODM0NDU4MQ==)
 
-【23/24/30】
+【22/23/30】
 
 立足本土实践和需求，放眼全球做法和经验，探寻网络空间安全之法道。
 
@@ -56,7 +56,7 @@ POLICE 教授 团队：培养情报思维，传播情报文化，服务情报人
 
 ### [安全学术圈](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
 
-【7/12/30】
+【7/13/30】
 
 分享安全方面的论文写作、会议发表、基金申请方面的资料。
 
@@ -67,7 +67,7 @@ POLICE 教授 团队：培养情报思维，传播情报文化，服务情报人
 
 ### [NOVASEC](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzUzODU3ODA0MA==)
 
-【6/8/30】
+【7/9/30】
 
 NOVA SEC  新星安全 萌新启蒙之路 愿大家都能成为最闪耀的星。
 
@@ -142,6 +142,17 @@ C/ASM程序员之闲言碎语
 ---
 
 
+### [lymmmx](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI3NTExMDc0OQ==)
+
+【0/2/30】
+
+lymmmx
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_73cc1ccd9221" alt="" />
+
+---
+
+
 ### [正阳咨询](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI1MzA3Mjg4Mg==)
 
 【1/1/30】
@@ -160,17 +171,6 @@ C/ASM程序员之闲言碎语
 东北大学“谛听”网络安全团队
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ce3e0df31e50" alt="" />
-
----
-
-
-### [lymmmx](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI3NTExMDc0OQ==)
-
-【0/1/30】
-
-lymmmx
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_73cc1ccd9221" alt="" />
 
 ---
 
