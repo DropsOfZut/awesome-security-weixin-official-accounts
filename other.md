@@ -1,7 +1,7 @@
 
 ### [情报分析师](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzA3Mjc1MTkwOA==)
 
-[:chart_with_upwards_trend:【21/58/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3Mjc1MTkwOA==)
+[:chart_with_upwards_trend:【24/60/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3Mjc1MTkwOA==)
 
 POLICE 教授 团队：培养情报思维，传播情报文化，服务情报人员，保护公众隐私。
 
@@ -23,7 +23,7 @@ POLICE 教授 团队：培养情报思维，传播情报文化，服务情报人
 
 ### [黑客技术与网络安全](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzIyMDEzMTA2MQ==)
 
-[:chart_with_upwards_trend:【0/29/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyMDEzMTA2MQ==)
+[:chart_with_upwards_trend:【0/30/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyMDEzMTA2MQ==)
 
 分享黑客技术和网络安全知识，让程序员了解黑客世界，学习黑客技术；普及上网和网络安全知识；帮助黑客、安全从业者、安全爱好者学习与成长。分享的所有技术和工具仅供学习之用。
 
@@ -34,7 +34,7 @@ POLICE 教授 团队：培养情报思维，传播情报文化，服务情报人
 
 ### [GoCN](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzA4ODg0NDkzOA==)
 
-[:chart_with_upwards_trend:【19/26/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4ODg0NDkzOA==)
+[:chart_with_upwards_trend:【19/27/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4ODg0NDkzOA==)
 
 最具规模和生命力的 Go 开发者社区
 
@@ -45,7 +45,7 @@ POLICE 教授 团队：培养情报思维，传播情报文化，服务情报人
 
 ### [网安寻路人](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzIxODM0NDU4MQ==)
 
-[:chart_with_upwards_trend:【20/22/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxODM0NDU4MQ==)
+[:chart_with_upwards_trend:【19/21/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxODM0NDU4MQ==)
 
 立足本土实践和需求，放眼全球做法和经验，探寻网络空间安全之法道。
 
@@ -56,7 +56,7 @@ POLICE 教授 团队：培养情报思维，传播情报文化，服务情报人
 
 ### [安全学术圈](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
 
-[:chart_with_upwards_trend:【7/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
+[:chart_with_upwards_trend:【8/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
 
 分享安全方面的论文写作、会议发表、基金申请方面的资料。
 
@@ -100,7 +100,7 @@ PeckShield (派盾) -- 全球领先的区块链安全守护者。
 
 ### [浅黑科技](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzU0NDEwMTc1MA==)
 
-[:chart_with_upwards_trend:【4/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0NDEwMTc1MA==)
+[:chart_with_upwards_trend:【3/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0NDEwMTc1MA==)
 
 在未来面前，我们都是孩子。
 
