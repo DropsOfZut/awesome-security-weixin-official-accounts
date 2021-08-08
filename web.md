@@ -1,7 +1,7 @@
 
 ### [嘶吼专业版](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI0MDY1MDU4MQ==)
 
-[:chart_with_upwards_trend:【11/85/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0MDY1MDU4MQ==)
+[:chart_with_upwards_trend:【10/84/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0MDY1MDU4MQ==)
 
 为您带来每日最新最专业的互联网安全专业信息。
 
@@ -12,7 +12,7 @@
 
 ### [HACK学习呀](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI5MDU1NDk2MA==)
 
-[:chart_with_upwards_trend:【13/19/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5MDU1NDk2MA==)
+[:chart_with_upwards_trend:【14/19/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5MDU1NDk2MA==)
 
 HACK学习，专注于互联网安全与黑客精神；渗透测试，社会工程学，Python黑客编程，资源分享，Web渗透培训，电脑技巧，渗透技巧等，为广大网络安全爱好者一个交流分享学习的平台！
 
@@ -21,9 +21,20 @@ HACK学习，专注于互联网安全与黑客精神；渗透测试，社会工�
 ---
 
 
+### [利刃信安](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzU1Mjk3MDY1OA==)
+
+[:chart_with_upwards_trend:【1/18/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU1Mjk3MDY1OA==)
+
+利刃信安
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_361672e49447" alt="" />
+
+---
+
+
 ### [安全羊](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzkzOTI1NjI1MA==)
 
-[:chart_with_upwards_trend:【11/13/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzOTI1NjI1MA==)
+[:chart_with_upwards_trend:【10/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzOTI1NjI1MA==)
 
 一个致力于信息安全优质知识分享的公众号
 
@@ -83,17 +94,6 @@ HACK学习，专注于互联网安全与黑客精神；渗透测试，社会工�
 要什么介绍？
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8fb652f29c63" alt="" />
-
----
-
-
-### [利刃信安](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzU1Mjk3MDY1OA==)
-
-[:chart_with_upwards_trend:【1/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU1Mjk3MDY1OA==)
-
-利刃信安
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_361672e49447" alt="" />
 
 ---
 
@@ -160,6 +160,17 @@ HACK学习，专注于互联网安全与黑客精神；渗透测试，社会工�
 守卫者安全，守卫安全！
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_24dd07b22045" alt="" />
+
+---
+
+
+### [安卓APP安全测试](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzAwMjg1NTI2Nw==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwMjg1NTI2Nw==)
+
+在这里，会记录一些安全知识、学习心得、经验总结之类的。一个是对过往的总结，另外也希望能够对有缘人有些帮助和启发。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_fcc51baa0670" alt="" />
 
 ---
 
