@@ -1,9 +1,9 @@
 
 ### [山警网络空间安全与电子数据取证](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MjM5Njc1OTYyNA==)
 
-[:chart_with_upwards_trend:【4/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Njc1OTYyNA==)
+[:chart_with_upwards_trend:【4/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Njc1OTYyNA==)
 
-山东警察学院IT兴趣小组
+山警网络空间安全实验室（简称：网安社）
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_544c8c38eeaf" alt="" />
 
