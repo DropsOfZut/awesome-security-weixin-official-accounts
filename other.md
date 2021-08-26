@@ -23,7 +23,7 @@ POLICE 教授 团队：培养情报思维，传播情报文化，服务情报人
 
 ### [黑客技术与网络安全](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzIyMDEzMTA2MQ==)
 
-[:chart_with_upwards_trend:【0/32/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyMDEzMTA2MQ==)
+[:chart_with_upwards_trend:【0/34/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyMDEzMTA2MQ==)
 
 分享黑客技术和网络安全知识，让程序员了解黑客世界，学习黑客技术；普及上网和网络安全知识；帮助黑客、安全从业者、安全爱好者学习与成长。分享的所有技术和工具仅供学习之用。
 
@@ -45,7 +45,7 @@ POLICE 教授 团队：培养情报思维，传播情报文化，服务情报人
 
 ### [网安寻路人](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzIxODM0NDU4MQ==)
 
-[:chart_with_upwards_trend:【16/17/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxODM0NDU4MQ==)
+[:chart_with_upwards_trend:【16/18/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxODM0NDU4MQ==)
 
 立足本土实践和需求，放眼全球做法和经验，探寻网络空间安全之法道。
 
@@ -160,6 +160,17 @@ C/ASM程序员之闲言碎语
 安全帮 帮你学安全
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_499ac9d326f5" alt="" />
+
+---
+
+
+### [404NotF0und](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzUzNDU2NTIxOA==)
+
+[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDU2NTIxOA==)
+
+柳星写字的地方，致力于分享原创高质量干货，包括但不限于：安全、数据、算法、思考
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8cea5d3d902b" alt="" />
 
 ---
 
@@ -347,17 +358,6 @@ What is Security?
 专注安管平台、SIEM、SOC、SOAR、大数据安全分析、态势感知等平台类安全领域。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_48603b9bb05a" alt="" />
-
----
-
-
-### [404NotF0und](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzUzNDU2NTIxOA==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDU2NTIxOA==)
-
-柳星写字的地方，致力于分享原创高质量干货，包括但不限于：安全、数据、算法、思考
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8cea5d3d902b" alt="" />
 
 ---
 
