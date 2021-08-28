@@ -1,7 +1,7 @@
 
 ### [情报分析师](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzA3Mjc1MTkwOA==)
 
-[:chart_with_upwards_trend:【29/62/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3Mjc1MTkwOA==)
+[:chart_with_upwards_trend:【32/64/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3Mjc1MTkwOA==)
 
 POLICE 教授 团队：培养情报思维，传播情报文化，服务情报人员，保护公众隐私。
 
@@ -34,7 +34,7 @@ POLICE 教授 团队：培养情报思维，传播情报文化，服务情报人
 
 ### [GoCN](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzA4ODg0NDkzOA==)
 
-[:chart_with_upwards_trend:【15/30/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4ODg0NDkzOA==)
+[:chart_with_upwards_trend:【14/30/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4ODg0NDkzOA==)
 
 最具规模和生命力的 Go 开发者社区
 
@@ -45,7 +45,7 @@ POLICE 教授 团队：培养情报思维，传播情报文化，服务情报人
 
 ### [网安寻路人](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzIxODM0NDU4MQ==)
 
-[:chart_with_upwards_trend:【16/18/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxODM0NDU4MQ==)
+[:chart_with_upwards_trend:【15/17/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxODM0NDU4MQ==)
 
 立足本土实践和需求，放眼全球做法和经验，探寻网络空间安全之法道。
 
@@ -67,7 +67,7 @@ NOVA SEC  新星安全 萌新启蒙之路 愿大家都能成为最闪耀的星�
 
 ### [安全学术圈](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
 
-[:chart_with_upwards_trend:【10/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
+[:chart_with_upwards_trend:【11/13/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
 
 分享安全方面的论文写作、会议发表、基金申请方面的资料。
 
@@ -78,7 +78,7 @@ NOVA SEC  新星安全 萌新启蒙之路 愿大家都能成为最闪耀的星�
 
 ### [虎符智库](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzIwNjYwMTMyNQ==)
 
-[:chart_with_upwards_trend:【2/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNjYwMTMyNQ==)
+[:chart_with_upwards_trend:【3/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNjYwMTMyNQ==)
 
 “虎符智库” 专注解读网络安全重大事件与技术趋势，提供高层决策参考。
 
@@ -87,13 +87,13 @@ NOVA SEC  新星安全 萌新启蒙之路 愿大家都能成为最闪耀的星�
 ---
 
 
-### [PeckShield](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzU3MTU2NTU1MA==)
+### [浅黑科技](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzU0NDEwMTc1MA==)
 
-[:chart_with_upwards_trend:【5/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MTU2NTU1MA==)
+[:chart_with_upwards_trend:【5/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0NDEwMTc1MA==)
 
-PeckShield (派盾) -- 全球领先的区块链安全守护者。
+在未来面前，我们都是孩子。
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_82bb3a5a82b1" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_7d609102b53c" alt="" />
 
 ---
 
@@ -109,13 +109,13 @@ PeckShield (派盾) -- 全球领先的区块链安全守护者。
 ---
 
 
-### [浅黑科技](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzU0NDEwMTc1MA==)
+### [PeckShield](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzU3MTU2NTU1MA==)
 
-[:chart_with_upwards_trend:【4/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0NDEwMTc1MA==)
+[:chart_with_upwards_trend:【4/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MTU2NTU1MA==)
 
-在未来面前，我们都是孩子。
+PeckShield (派盾) -- 全球领先的区块链安全守护者。
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_7d609102b53c" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_82bb3a5a82b1" alt="" />
 
 ---
 
@@ -131,6 +131,17 @@ C/ASM程序员之闲言碎语
 ---
 
 
+### [安全帮Live](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI3NTcwNTQ2Mg==)
+
+[:chart_with_upwards_trend:【1/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3NTcwNTQ2Mg==)
+
+安全帮 帮你学安全
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_499ac9d326f5" alt="" />
+
+---
+
+
 ### [腾讯安全智能](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI2NDUyMjAyOA==)
 
 [:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2NDUyMjAyOA==)
@@ -138,17 +149,6 @@ C/ASM程序员之闲言碎语
 该账号主要围绕智能化技术如何帮助企业提升网络安全水平展开，内容涉及机器学习、大数据处理等智能化技术在安全领域的实践经验分享，业界领先的产品和前沿趋势的解读分析等。通过分享、交流，推动安全智能的落地、应用。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_dc9b9a9fb2b2" alt="" />
-
----
-
-
-### [安全帮Live](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI3NTcwNTQ2Mg==)
-
-[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3NTcwNTQ2Mg==)
-
-安全帮 帮你学安全
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_499ac9d326f5" alt="" />
 
 ---
 
