@@ -1,7 +1,7 @@
 
 ### [数据库开发](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI3NDA4OTk1OQ==)
 
-[:chart_with_upwards_trend:【0/30/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3NDA4OTk1OQ==)
+[:chart_with_upwards_trend:【0/31/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3NDA4OTk1OQ==)
 
 分享数据库开发、原理和应用，涵盖MySQL、PostgreSQL、MS SQL Sever、Oracle等主流关系数据库的应用和原理，以及MongoDB、Redis、Memcached等NoSQL数据库和缓存技术。
 
@@ -17,17 +17,6 @@
 本观察室仅个人做内容存档使用！
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_29a59093e5db" alt="" />
-
----
-
-
-### [安全研发](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MjM5Nzk3NTIwOA==)
-
-[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Nzk3NTIwOA==)
-
-专注于分享Python-安全研发课程-漏洞扫描器-爬虫-自动化工具-网络安全等相关资料
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a1b9a964503c" alt="" />
 
 ---
 
@@ -94,6 +83,17 @@
 本公众号分享的内容不仅仅是python开发，还有更多的安全内容。 主要内容： python 爬虫； python web； web安全； 无线安全； 移动安全； 硬件安全； 逆向破解； 操作系统。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_20344080d59d" alt="" />
+
+---
+
+
+### [安全研发](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MjM5Nzk3NTIwOA==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Nzk3NTIwOA==)
+
+专注于分享Python-安全研发课程-漏洞扫描器-爬虫-自动化工具-网络安全等相关资料
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a1b9a964503c" alt="" />
 
 ---
 

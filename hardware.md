@@ -12,7 +12,7 @@
 
 ### [网安杂谈](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzAwMTMzMDUwNg==)
 
-[:chart_with_upwards_trend:【0/15/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwMTMzMDUwNg==)
+[:chart_with_upwards_trend:【0/16/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwMTMzMDUwNg==)
 
 关注电子数据取证与网络犯罪调查
 
@@ -23,7 +23,7 @@
 
 ### [全频带阻塞干扰](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzIzMzE2OTQyNA==)
 
-[:chart_with_upwards_trend:【3/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzMzE2OTQyNA==)
+[:chart_with_upwards_trend:【4/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzMzE2OTQyNA==)
 
 坚持以非正常体位探寻未知信号。 国内商业安全、TSCM技术反窃密、隐私保护及物理安全领域前行者。持久关注通信安全、海外威胁情报、犯罪防御与群氓效应。
 
@@ -83,6 +83,17 @@
 分享电子取证及司法鉴定相关知识
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_3cc4dcce2d29" alt="" />
+
+---
+
+
+### [电子数据取证与鉴定](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzA4NTAzOTI4OA==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4NTAzOTI4OA==)
+
+介绍电子数据取证与鉴定的基础知识、法律法规、技术标准及检验方法、检验流程、取证和鉴定的工具等。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a3bb8fead1f9" alt="" />
 
 ---
 
