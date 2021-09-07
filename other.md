@@ -1,7 +1,7 @@
 
 ### [情报分析师](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzA3Mjc1MTkwOA==)
 
-[:chart_with_upwards_trend:【28/62/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3Mjc1MTkwOA==)
+[:chart_with_upwards_trend:【26/62/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3Mjc1MTkwOA==)
 
 POLICE 教授 团队：培养情报思维，传播情报文化，服务情报人员，保护公众隐私。
 
@@ -12,7 +12,7 @@ POLICE 教授 团队：培养情报思维，传播情报文化，服务情报人
 
 ### [全球技术地图](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI1OTExNDY1NQ==)
 
-[:chart_with_upwards_trend:【20/50/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1OTExNDY1NQ==)
+[:chart_with_upwards_trend:【21/51/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1OTExNDY1NQ==)
 
 洞见前沿，引领未来。
 
@@ -23,7 +23,7 @@ POLICE 教授 团队：培养情报思维，传播情报文化，服务情报人
 
 ### [GoCN](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzA4ODg0NDkzOA==)
 
-[:chart_with_upwards_trend:【13/27/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4ODg0NDkzOA==)
+[:chart_with_upwards_trend:【14/29/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4ODg0NDkzOA==)
 
 最具规模和生命力的 Go 开发者社区
 
@@ -54,6 +54,17 @@ POLICE 教授 团队：培养情报思维，传播情报文化，服务情报人
 ---
 
 
+### [安全学术圈](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
+
+[:chart_with_upwards_trend:【10/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
+
+分享安全方面的论文写作、会议发表、基金申请方面的资料。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_cbda1fb027bf" alt="" />
+
+---
+
+
 ### [NOVASEC](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzUzODU3ODA0MA==)
 
 [:chart_with_upwards_trend:【9/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODU3ODA0MA==)
@@ -65,20 +76,9 @@ NOVA SEC  新星安全 萌新启蒙之路 愿大家都能成为最闪耀的星�
 ---
 
 
-### [安全学术圈](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
-
-[:chart_with_upwards_trend:【9/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
-
-分享安全方面的论文写作、会议发表、基金申请方面的资料。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_cbda1fb027bf" alt="" />
-
----
-
-
 ### [安恒威胁情报中心](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI1MDU5NjYwNg==)
 
-[:chart_with_upwards_trend:【4/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MDU5NjYwNg==)
+[:chart_with_upwards_trend:【4/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MDU5NjYwNg==)
 
 安恒威胁情报中心专注于威胁情报的收集、处理、分析、应用，定期提供高质量的威胁情报。
 
@@ -164,6 +164,17 @@ PeckShield (派盾) -- 全球领先的区块链安全守护者。
 ---
 
 
+### [专注安管平台](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzUyNzMxOTAwMw==)
+
+[:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyNzMxOTAwMw==)
+
+专注安管平台、SIEM、SOC、SOAR、大数据安全分析、态势感知等平台类安全领域。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_48603b9bb05a" alt="" />
+
+---
+
+
 ### [正阳咨询](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI1MzA3Mjg4Mg==)
 
 [:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzA3Mjg4Mg==)
@@ -171,17 +182,6 @@ PeckShield (派盾) -- 全球领先的区块链安全守护者。
 正阳咨询，关注企业风控和个人成长
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_884945b85a98" alt="" />
-
----
-
-
-### [专注安管平台](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzUyNzMxOTAwMw==)
-
-[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyNzMxOTAwMw==)
-
-专注安管平台、SIEM、SOC、SOAR、大数据安全分析、态势感知等平台类安全领域。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_48603b9bb05a" alt="" />
 
 ---
 
