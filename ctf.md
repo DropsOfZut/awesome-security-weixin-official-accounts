@@ -1,7 +1,7 @@
 
 ### [XCTF联赛](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MjM5NDU3MjExNw==)
 
-[:chart_with_upwards_trend:【0/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
+[:chart_with_upwards_trend:【0/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
 
 XCTF联赛是在国际范围主要针对大学生的网络安全技术对抗赛，本公众号主要用来宣传XCTF联赛规则，精彩活动，技能训练营等，以此吸引、聚集更多网络安全技术兴趣者，为网络空间安全培养更多的顶级人才。
 
