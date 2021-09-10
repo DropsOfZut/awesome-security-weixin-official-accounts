@@ -1,7 +1,7 @@
 
 ### [Linux中国](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MjM5NjQ4MjYwMQ==)
 
-[:chart_with_upwards_trend:【90/103/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ4MjYwMQ==)
+[:chart_with_upwards_trend:【97/114/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ4MjYwMQ==)
 
 [Linux中国](https://linux.cn/)开源社区官方公众号。专注于开源技术研究、开源思想传播。
 
@@ -12,7 +12,7 @@
 
 ### [系统安全运维](http://wechat.doonsec.com/admin/wechat_echarts/?biz=Mzk0NjE0NDc5OQ==)
 
-[:chart_with_upwards_trend:【6/98/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NjE0NDc5OQ==)
+[:chart_with_upwards_trend:【5/98/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NjE0NDc5OQ==)
 
 未知攻 焉知防 攻防兼备
 
@@ -23,7 +23,7 @@
 
 ### [分布式实验室](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzA5OTAyNzQ2OA==)
 
-[:chart_with_upwards_trend:【2/70/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5OTAyNzQ2OA==)
+[:chart_with_upwards_trend:【2/74/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5OTAyNzQ2OA==)
 
 关注分布式相关的开源项目和基础架构，致力于分析并报道这些新技术是如何以及将会怎样影响企业的软件构建方式。
 
@@ -45,7 +45,7 @@
 
 ### [IT牧场](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI4ODQ3NjE2OA==)
 
-[:chart_with_upwards_trend:【0/27/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI4ODQ3NjE2OA==)
+[:chart_with_upwards_trend:【0/29/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI4ODQ3NjE2OA==)
 
 IT牧场公众号，阿里技术专家分享开发、运维、架构相关干货！
 

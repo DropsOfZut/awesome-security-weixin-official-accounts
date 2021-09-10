@@ -1,7 +1,7 @@
 
 ### [情报分析师](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzA3Mjc1MTkwOA==)
 
-[:chart_with_upwards_trend:【25/60/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3Mjc1MTkwOA==)
+[:chart_with_upwards_trend:【27/62/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3Mjc1MTkwOA==)
 
 POLICE 教授 团队：培养情报思维，传播情报文化，服务情报人员，保护公众隐私。
 
@@ -23,7 +23,7 @@ POLICE 教授 团队：培养情报思维，传播情报文化，服务情报人
 
 ### [GoCN](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzA4ODg0NDkzOA==)
 
-[:chart_with_upwards_trend:【14/28/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4ODg0NDkzOA==)
+[:chart_with_upwards_trend:【15/29/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4ODg0NDkzOA==)
 
 最具规模和生命力的 Go 开发者社区
 
@@ -45,7 +45,7 @@ POLICE 教授 团队：培养情报思维，传播情报文化，服务情报人
 
 ### [网安寻路人](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzIxODM0NDU4MQ==)
 
-[:chart_with_upwards_trend:【15/16/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxODM0NDU4MQ==)
+[:chart_with_upwards_trend:【14/15/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxODM0NDU4MQ==)
 
 立足本土实践和需求，放眼全球做法和经验，探寻网络空间安全之法道。
 
@@ -56,7 +56,7 @@ POLICE 教授 团队：培养情报思维，传播情报文化，服务情报人
 
 ### [安全学术圈](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
 
-[:chart_with_upwards_trend:【10/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
+[:chart_with_upwards_trend:【9/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
 
 分享安全方面的论文写作、会议发表、基金申请方面的资料。
 
@@ -67,7 +67,7 @@ POLICE 教授 团队：培养情报思维，传播情报文化，服务情报人
 
 ### [NOVASEC](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzUzODU3ODA0MA==)
 
-[:chart_with_upwards_trend:【9/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODU3ODA0MA==)
+[:chart_with_upwards_trend:【8/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODU3ODA0MA==)
 
 NOVA SEC  新星安全 萌新启蒙之路 愿大家都能成为最闪耀的星。
 
@@ -78,7 +78,7 @@ NOVA SEC  新星安全 萌新启蒙之路 愿大家都能成为最闪耀的星�
 
 ### [安恒威胁情报中心](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI1MDU5NjYwNg==)
 
-[:chart_with_upwards_trend:【4/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MDU5NjYwNg==)
+[:chart_with_upwards_trend:【3/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MDU5NjYwNg==)
 
 安恒威胁情报中心专注于威胁情报的收集、处理、分析、应用，定期提供高质量的威胁情报。
 
@@ -87,9 +87,20 @@ NOVA SEC  新星安全 萌新启蒙之路 愿大家都能成为最闪耀的星�
 ---
 
 
+### [青衣十三楼飞花堂](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzUzMjQyMDE3Ng==)
+
+[:chart_with_upwards_trend:【7/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzMjQyMDE3Ng==)
+
+C/ASM程序员之闲言碎语
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_9feb5a276a2a" alt="" />
+
+---
+
+
 ### [虎符智库](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzIwNjYwMTMyNQ==)
 
-[:chart_with_upwards_trend:【3/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNjYwMTMyNQ==)
+[:chart_with_upwards_trend:【3/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNjYwMTMyNQ==)
 
 “虎符智库” 专注解读网络安全重大事件与技术趋势，提供高层决策参考。
 
@@ -109,20 +120,9 @@ PeckShield (派盾) -- 全球领先的区块链安全守护者。
 ---
 
 
-### [青衣十三楼飞花堂](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzUzMjQyMDE3Ng==)
-
-[:chart_with_upwards_trend:【6/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzMjQyMDE3Ng==)
-
-C/ASM程序员之闲言碎语
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_9feb5a276a2a" alt="" />
-
----
-
-
 ### [浅黑科技](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzU0NDEwMTc1MA==)
 
-[:chart_with_upwards_trend:【4/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0NDEwMTc1MA==)
+[:chart_with_upwards_trend:【5/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0NDEwMTc1MA==)
 
 在未来面前，我们都是孩子。
 
@@ -144,22 +144,11 @@ C/ASM程序员之闲言碎语
 
 ### [数据安全与取证](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzIyNzU0NjIyMg==)
 
-[:chart_with_upwards_trend:【1/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyNzU0NjIyMg==)
+[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyNzU0NjIyMg==)
 
 我们专注于电子取证技术的分享及司法鉴定实践的交流，涵盖了计算机取证、手机取证、电子物证、司法鉴定等众多领域，是电子取证公司与电子取证从业者交流学习的首选平台。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_336d761a246b" alt="" />
-
----
-
-
-### [腾讯安全智能](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI2NDUyMjAyOA==)
-
-[:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2NDUyMjAyOA==)
-
-该账号主要围绕智能化技术如何帮助企业提升网络安全水平展开，内容涉及机器学习、大数据处理等智能化技术在安全领域的实践经验分享，业界领先的产品和前沿趋势的解读分析等。通过分享、交流，推动安全智能的落地、应用。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_dc9b9a9fb2b2" alt="" />
 
 ---
 
@@ -175,13 +164,13 @@ C/ASM程序员之闲言碎语
 ---
 
 
-### [正阳咨询](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI1MzA3Mjg4Mg==)
+### [腾讯安全智能](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI2NDUyMjAyOA==)
 
-[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzA3Mjg4Mg==)
+[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2NDUyMjAyOA==)
 
-正阳咨询，关注企业风控和个人成长
+该账号主要围绕智能化技术如何帮助企业提升网络安全水平展开，内容涉及机器学习、大数据处理等智能化技术在安全领域的实践经验分享，业界领先的产品和前沿趋势的解读分析等。通过分享、交流，推动安全智能的落地、应用。
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_884945b85a98" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_dc9b9a9fb2b2" alt="" />
 
 ---
 
@@ -193,6 +182,17 @@ C/ASM程序员之闲言碎语
 柳星写字的地方，致力于分享原创高质量干货，包括但不限于：安全、数据、算法、思考
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8cea5d3d902b" alt="" />
+
+---
+
+
+### [谛听ditecting](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzU3MzQyOTU0Nw==)
+
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzQyOTU0Nw==)
+
+东北大学“谛听”网络安全团队
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ce3e0df31e50" alt="" />
 
 ---
 
@@ -226,6 +226,17 @@ C/ASM程序员之闲言碎语
 MS509为中国网安开展互联网攻防技术研究的专业团队，当前主攻方向包括WEB安全、移动安全、二进制安全等。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_dc8d3f396c98" alt="" />
+
+---
+
+
+### [正阳咨询](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI1MzA3Mjg4Mg==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzA3Mjg4Mg==)
+
+正阳咨询，关注企业风控和个人成长
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_884945b85a98" alt="" />
 
 ---
 
@@ -270,17 +281,6 @@ lymmmx
 不是从0开始，而是从1开始！
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_08e5ec1f5516" alt="" />
-
----
-
-
-### [谛听ditecting](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzU3MzQyOTU0Nw==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzQyOTU0Nw==)
-
-东北大学“谛听”网络安全团队
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ce3e0df31e50" alt="" />
 
 ---
 
