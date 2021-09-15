@@ -1,7 +1,7 @@
 
 ### [山警网络空间安全实验室](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MjM5Njc1OTYyNA==)
 
-[:chart_with_upwards_trend:【1/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Njc1OTYyNA==)
+[:chart_with_upwards_trend:【2/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Njc1OTYyNA==)
 
 山警网络空间安全实验室（简称：网安社）
 
@@ -45,7 +45,7 @@
 
 ### [青科信安](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzkxMTE4MDMyOQ==)
 
-[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMTE4MDMyOQ==)
+[:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMTE4MDMyOQ==)
 
 青岛科技大学信息安全团队
 
