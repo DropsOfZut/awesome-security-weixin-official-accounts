@@ -12,7 +12,7 @@ POLICE 教授 团队：培养情报思维，传播情报文化，服务情报人
 
 ### [全球技术地图](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI1OTExNDY1NQ==)
 
-[:chart_with_upwards_trend:【23/52/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1OTExNDY1NQ==)
+[:chart_with_upwards_trend:【22/50/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1OTExNDY1NQ==)
 
 洞见前沿，引领未来。
 
@@ -34,22 +34,11 @@ POLICE 教授 团队：培养情报思维，传播情报文化，服务情报人
 
 ### [GoCN](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzA4ODg0NDkzOA==)
 
-[:chart_with_upwards_trend:【15/24/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4ODg0NDkzOA==)
+[:chart_with_upwards_trend:【16/25/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4ODg0NDkzOA==)
 
 最具规模和生命力的 Go 开发者社区
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8997cd77cfb2" alt="" />
-
----
-
-
-### [青衣十三楼飞花堂](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzUzMjQyMDE3Ng==)
-
-[:chart_with_upwards_trend:【12/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzMjQyMDE3Ng==)
-
-C/ASM程序员之闲言碎语
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_9feb5a276a2a" alt="" />
 
 ---
 
@@ -65,13 +54,13 @@ C/ASM程序员之闲言碎语
 ---
 
 
-### [安全学术圈](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
+### [青衣十三楼飞花堂](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzUzMjQyMDE3Ng==)
 
-[:chart_with_upwards_trend:【7/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
+[:chart_with_upwards_trend:【11/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzMjQyMDE3Ng==)
 
-分享安全方面的论文写作、会议发表、基金申请方面的资料。
+C/ASM程序员之闲言碎语
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_cbda1fb027bf" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_9feb5a276a2a" alt="" />
 
 ---
 
@@ -94,6 +83,17 @@ C/ASM程序员之闲言碎语
 安恒威胁情报中心专注于威胁情报的收集、处理、分析、应用，定期提供高质量的威胁情报。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e0f7c5e21306" alt="" />
+
+---
+
+
+### [安全学术圈](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
+
+[:chart_with_upwards_trend:【5/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
+
+分享安全方面的论文写作、会议发表、基金申请方面的资料。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_cbda1fb027bf" alt="" />
 
 ---
 
