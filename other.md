@@ -1,7 +1,7 @@
 
 ### [情报分析师](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzA3Mjc1MTkwOA==)
 
-[:chart_with_upwards_trend:【29/62/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3Mjc1MTkwOA==)
+[:chart_with_upwards_trend:【30/62/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3Mjc1MTkwOA==)
 
 POLICE 教授 团队：培养情报思维，传播情报文化，服务情报人员，保护公众隐私。
 
@@ -12,7 +12,7 @@ POLICE 教授 团队：培养情报思维，传播情报文化，服务情报人
 
 ### [全球技术地图](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI1OTExNDY1NQ==)
 
-[:chart_with_upwards_trend:【22/51/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1OTExNDY1NQ==)
+[:chart_with_upwards_trend:【18/43/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1OTExNDY1NQ==)
 
 洞见前沿，引领未来。
 
@@ -23,7 +23,7 @@ POLICE 教授 团队：培养情报思维，传播情报文化，服务情报人
 
 ### [黑客技术与网络安全](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzIyMDEzMTA2MQ==)
 
-[:chart_with_upwards_trend:【0/28/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyMDEzMTA2MQ==)
+[:chart_with_upwards_trend:【0/30/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyMDEzMTA2MQ==)
 
 分享黑客技术和网络安全知识，让程序员了解黑客世界，学习黑客技术；普及上网和网络安全知识；帮助黑客、安全从业者、安全爱好者学习与成长。分享的所有技术和工具仅供学习之用。
 
@@ -34,11 +34,22 @@ POLICE 教授 团队：培养情报思维，传播情报文化，服务情报人
 
 ### [GoCN](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzA4ODg0NDkzOA==)
 
-[:chart_with_upwards_trend:【17/24/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4ODg0NDkzOA==)
+[:chart_with_upwards_trend:【18/25/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4ODg0NDkzOA==)
 
 最具规模和生命力的 Go 开发者社区
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8997cd77cfb2" alt="" />
+
+---
+
+
+### [网安寻路人](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzIxODM0NDU4MQ==)
+
+[:chart_with_upwards_trend:【12/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxODM0NDU4MQ==)
+
+立足本土实践和需求，放眼全球做法和经验，探寻网络空间安全之法道。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e01653781aad" alt="" />
 
 ---
 
@@ -54,35 +65,13 @@ C/ASM程序员之闲言碎语
 ---
 
 
-### [网安寻路人](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzIxODM0NDU4MQ==)
-
-[:chart_with_upwards_trend:【10/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxODM0NDU4MQ==)
-
-立足本土实践和需求，放眼全球做法和经验，探寻网络空间安全之法道。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e01653781aad" alt="" />
-
----
-
-
 ### [安全学术圈](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
 
-[:chart_with_upwards_trend:【8/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
+[:chart_with_upwards_trend:【9/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
 
 分享安全方面的论文写作、会议发表、基金申请方面的资料。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_cbda1fb027bf" alt="" />
-
----
-
-
-### [虎符智库](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzIwNjYwMTMyNQ==)
-
-[:chart_with_upwards_trend:【5/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNjYwMTMyNQ==)
-
-“虎符智库” 专注解读网络安全重大事件与技术趋势，提供高层决策参考。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4f44eb4295ae" alt="" />
 
 ---
 
@@ -94,6 +83,17 @@ C/ASM程序员之闲言碎语
 安恒威胁情报中心专注于威胁情报的收集、处理、分析、应用，定期提供高质量的威胁情报。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e0f7c5e21306" alt="" />
+
+---
+
+
+### [虎符智库](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzIwNjYwMTMyNQ==)
+
+[:chart_with_upwards_trend:【4/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNjYwMTMyNQ==)
+
+“虎符智库” 专注解读网络安全重大事件与技术趋势，提供高层决策参考。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4f44eb4295ae" alt="" />
 
 ---
 
@@ -111,7 +111,7 @@ PeckShield (派盾) -- 全球领先的区块链安全守护者。
 
 ### [虚拟框架](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MjM5Njg5ODU2NA==)
 
-[:chart_with_upwards_trend:【1/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Njg5ODU2NA==)
+[:chart_with_upwards_trend:【2/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Njg5ODU2NA==)
 
 解锁 Android 手机黑科技！
 
@@ -127,17 +127,6 @@ PeckShield (派盾) -- 全球领先的区块链安全守护者。
 在未来面前，我们都是孩子。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_7d609102b53c" alt="" />
-
----
-
-
-### [专注安管平台](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzUyNzMxOTAwMw==)
-
-[:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyNzMxOTAwMw==)
-
-专注安管平台、SIEM、SOC、SOAR、大数据安全分析、态势感知等平台类安全领域。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_48603b9bb05a" alt="" />
 
 ---
 
@@ -160,6 +149,17 @@ PeckShield (派盾) -- 全球领先的区块链安全守护者。
 安全帮 帮你学安全
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_499ac9d326f5" alt="" />
+
+---
+
+
+### [专注安管平台](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzUyNzMxOTAwMw==)
+
+[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyNzMxOTAwMw==)
+
+专注安管平台、SIEM、SOC、SOAR、大数据安全分析、态势感知等平台类安全领域。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_48603b9bb05a" alt="" />
 
 ---
 
