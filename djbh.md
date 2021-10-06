@@ -12,7 +12,7 @@
 
 ### [祺印说信安](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzA5MzU5MzQzMA==)
 
-[:chart_with_upwards_trend:【35/74/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5MzU5MzQzMA==)
+[:chart_with_upwards_trend:【35/75/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5MzU5MzQzMA==)
 
 学习网络安全、说网络安全；共同致力于网络安全、网络安全等级保护。
 
@@ -23,7 +23,7 @@
 
 ### [网络安全等保测评](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI3MDY0Nzg1Nw==)
 
-[:chart_with_upwards_trend:【0/50/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3MDY0Nzg1Nw==)
+[:chart_with_upwards_trend:【0/55/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3MDY0Nzg1Nw==)
 
 网络安全个人学习笔记和资讯分享
 
@@ -67,7 +67,7 @@
 
 ### [保密基](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzkzMzE5MzMwOQ==)
 
-[:chart_with_upwards_trend:【1/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzMzE5MzMwOQ==)
+[:chart_with_upwards_trend:【0/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzMzE5MzMwOQ==)
 
 (等)保(商)密(关)基ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤx7fx7f等级保护2.0测评交流，问题探究，最新标准分享，提供自建网盘分享资料
 
