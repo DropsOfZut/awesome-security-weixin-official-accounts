@@ -1,7 +1,7 @@
 
 ### [情报分析师](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzA3Mjc1MTkwOA==)
 
-[:chart_with_upwards_trend:【25/53/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3Mjc1MTkwOA==)
+[:chart_with_upwards_trend:【26/53/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3Mjc1MTkwOA==)
 
 POLICE 教授 团队：培养情报思维，传播情报文化，服务情报人员，保护公众隐私。
 
@@ -23,7 +23,7 @@ POLICE 教授 团队：培养情报思维，传播情报文化，服务情报人
 
 ### [丁爸情报分析师的工具箱](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI2MTE0NTE3Mw==)
 
-[:chart_with_upwards_trend:【31/35/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MTE0NTE3Mw==)
+[:chart_with_upwards_trend:【31/37/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MTE0NTE3Mw==)
 
 每天为大家精选各类情报分析相关的资源、工具、技巧和资讯，努力成为情报分析师必备的工具箱。外挂机器人“小丁丁”还能陪您聊天，给您查航班、查列车、查天气、查酒店、查美食、查股票、回答您的提问等等。
 
@@ -45,7 +45,7 @@ POLICE 教授 团队：培养情报思维，传播情报文化，服务情报人
 
 ### [GoCN](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzA4ODg0NDkzOA==)
 
-[:chart_with_upwards_trend:【19/24/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4ODg0NDkzOA==)
+[:chart_with_upwards_trend:【19/23/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4ODg0NDkzOA==)
 
 最具规模和生命力的 Go 开发者社区
 
@@ -56,7 +56,7 @@ POLICE 教授 团队：培养情报思维，传播情报文化，服务情报人
 
 ### [安全学术圈](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
 
-[:chart_with_upwards_trend:【15/17/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
+[:chart_with_upwards_trend:【16/18/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
 
 分享安全方面的论文写作、会议发表、基金申请方面的资料。
 
