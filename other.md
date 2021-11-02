@@ -1,7 +1,7 @@
 
 ### [全球技术地图](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI1OTExNDY1NQ==)
 
-[:chart_with_upwards_trend:【26/48/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1OTExNDY1NQ==)
+[:chart_with_upwards_trend:【26/49/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1OTExNDY1NQ==)
 
 洞见前沿，引领未来。
 
@@ -12,7 +12,7 @@
 
 ### [情报分析师](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzA3Mjc1MTkwOA==)
 
-[:chart_with_upwards_trend:【24/48/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3Mjc1MTkwOA==)
+[:chart_with_upwards_trend:【23/47/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3Mjc1MTkwOA==)
 
 POLICE 教授 团队：培养情报思维，传播情报文化，服务情报人员，保护公众隐私。
 
@@ -45,7 +45,7 @@ POLICE 教授 团队：培养情报思维，传播情报文化，服务情报人
 
 ### [GoCN](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzA4ODg0NDkzOA==)
 
-[:chart_with_upwards_trend:【14/19/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4ODg0NDkzOA==)
+[:chart_with_upwards_trend:【15/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4ODg0NDkzOA==)
 
 最具规模和生命力的 Go 开发者社区
 
@@ -56,7 +56,7 @@ POLICE 教授 团队：培养情报思维，传播情报文化，服务情报人
 
 ### [安全学术圈](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
 
-[:chart_with_upwards_trend:【12/14/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
+[:chart_with_upwards_trend:【13/15/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
 
 分享安全方面的论文写作、会议发表、基金申请方面的资料。
 
@@ -67,7 +67,7 @@ POLICE 教授 团队：培养情报思维，传播情报文化，服务情报人
 
 ### [青衣十三楼飞花堂](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzUzMjQyMDE3Ng==)
 
-[:chart_with_upwards_trend:【11/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzMjQyMDE3Ng==)
+[:chart_with_upwards_trend:【10/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzMjQyMDE3Ng==)
 
 C/ASM程序员之闲言碎语
 
@@ -78,7 +78,7 @@ C/ASM程序员之闲言碎语
 
 ### [网安寻路人](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzIxODM0NDU4MQ==)
 
-[:chart_with_upwards_trend:【8/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxODM0NDU4MQ==)
+[:chart_with_upwards_trend:【9/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxODM0NDU4MQ==)
 
 立足本土实践和需求，放眼全球做法和经验，探寻网络空间安全之法道。
 
@@ -98,20 +98,9 @@ C/ASM程序员之闲言碎语
 ---
 
 
-### [安全帮Live](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI3NTcwNTQ2Mg==)
-
-[:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3NTcwNTQ2Mg==)
-
-安全帮 帮你学安全
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_499ac9d326f5" alt="" />
-
----
-
-
 ### [虚拟框架](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MjM5Njg5ODU2NA==)
 
-[:chart_with_upwards_trend:【3/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Njg5ODU2NA==)
+[:chart_with_upwards_trend:【3/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Njg5ODU2NA==)
 
 解锁 Android 手机黑科技！
 
@@ -122,11 +111,22 @@ C/ASM程序员之闲言碎语
 
 ### [虎符智库](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzIwNjYwMTMyNQ==)
 
-[:chart_with_upwards_trend:【1/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNjYwMTMyNQ==)
+[:chart_with_upwards_trend:【2/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNjYwMTMyNQ==)
 
 “虎符智库” 专注解读网络安全重大事件与技术趋势，提供高层决策参考。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4f44eb4295ae" alt="" />
+
+---
+
+
+### [安全帮Live](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI3NTcwNTQ2Mg==)
+
+[:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3NTcwNTQ2Mg==)
+
+安全帮 帮你学安全
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_499ac9d326f5" alt="" />
 
 ---
 
@@ -153,6 +153,17 @@ C/ASM程序员之闲言碎语
 ---
 
 
+### [威胁棱镜](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzkyMzE5ODExNQ==)
+
+[:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyMzE5ODExNQ==)
+
+当威胁照进棱镜，谁来狩猎光谱中的攻击？
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f4c3fb66d66d" alt="" />
+
+---
+
+
 ### [腾讯安全智能](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI2NDUyMjAyOA==)
 
 [:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2NDUyMjAyOA==)
@@ -175,13 +186,13 @@ C/ASM程序员之闲言碎语
 ---
 
 
-### [威胁棱镜](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzkyMzE5ODExNQ==)
+### [404NotF0und](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzUzNDU2NTIxOA==)
 
-[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyMzE5ODExNQ==)
+[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDU2NTIxOA==)
 
-当威胁照进棱镜，谁来狩猎光谱中的攻击？
+柳星写字的地方，致力于分享原创高质量干货，包括但不限于：安全、数据、算法、思考
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f4c3fb66d66d" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8cea5d3d902b" alt="" />
 
 ---
 
@@ -369,17 +380,6 @@ What is Security?
 专注安管平台、SIEM、SOC、SOAR、大数据安全分析、态势感知等平台类安全领域。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_48603b9bb05a" alt="" />
-
----
-
-
-### [404NotF0und](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzUzNDU2NTIxOA==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDU2NTIxOA==)
-
-柳星写字的地方，致力于分享原创高质量干货，包括但不限于：安全、数据、算法、思考
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8cea5d3d902b" alt="" />
 
 ---
 
