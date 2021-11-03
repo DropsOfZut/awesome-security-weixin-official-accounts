@@ -1,7 +1,7 @@
 
 ### [数据库开发](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI3NDA4OTk1OQ==)
 
-[:chart_with_upwards_trend:【0/23/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3NDA4OTk1OQ==)
+[:chart_with_upwards_trend:【0/24/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3NDA4OTk1OQ==)
 
 分享数据库开发、原理和应用，涵盖MySQL、PostgreSQL、MS SQL Sever、Oracle等主流关系数据库的应用和原理，以及MongoDB、Redis、Memcached等NoSQL数据库和缓存技术。
 
@@ -98,11 +98,11 @@
 ---
 
 
-### [七夜安全博客](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzIwODIxMjc4MQ==)
+### [七夜星辰大海](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzIwODIxMjc4MQ==)
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwODIxMjc4MQ==)
 
-本公众号分享的内容不仅仅是python开发，还有更多的安全内容。 主要内容： python 爬虫； python web； web安全； 无线安全； 移动安全； 硬件安全； 逆向破解； 操作系统。
+和七夜一起去探索人生的星辰大海，技术人并不只有技术，你要的人生成长与自由在这里
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_20344080d59d" alt="" />
 
