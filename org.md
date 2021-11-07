@@ -1,7 +1,7 @@
 
 ### [绿盟科技](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MjM5ODYyMTM4MA==)
 
-[:chart_with_upwards_trend:【0/85/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYyMTM4MA==)
+[:chart_with_upwards_trend:【0/84/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYyMTM4MA==)
 
 绿盟科技 官方微信
 
@@ -21,6 +21,17 @@
 ---
 
 
+### [奇安信集团](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzU0NDk0NTAwMw==)
+
+[:chart_with_upwards_trend:【4/74/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0NDk0NTAwMw==)
+
+新一代网络安全领军者。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_acff8c5db96a" alt="" />
+
+---
+
+
 ### [安恒信息](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MjM5NTE0MjQyMg==)
 
 [:chart_with_upwards_trend:【40/59/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTE0MjQyMg==)
@@ -34,7 +45,7 @@
 
 ### [知道创宇](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MjM5NzA3Nzg2MA==)
 
-[:chart_with_upwards_trend:【25/42/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NzA3Nzg2MA==)
+[:chart_with_upwards_trend:【24/40/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NzA3Nzg2MA==)
 
 知道创宇公众微信，知道创宇是微软在亚太地区唯一的安全提供商，致力于互联网安全研究，为用户打造更好更安全的互联网
 
