@@ -1,7 +1,7 @@
 
 ### [看雪学院](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MjM5NTc2MDYxMw==)
 
-[:chart_with_upwards_trend:【24/91/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTc2MDYxMw==)
+[:chart_with_upwards_trend:【23/91/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTc2MDYxMw==)
 
 致力于移动与安全研究的开发者社区，看雪学院(kanxue.com)官方微信公众帐号。
 
@@ -12,7 +12,7 @@
 
 ### [吾爱破解论坛](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MjM5Mjc3MDM2Mw==)
 
-[:chart_with_upwards_trend:【2/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Mjc3MDM2Mw==)
+[:chart_with_upwards_trend:【2/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Mjc3MDM2Mw==)
 
 吾爱破解论坛致力于软件安全与病毒分析的前沿，丰富的技术版块交相辉映，由无数热衷于软件加密解密及反病毒爱好者共同维护，留给世界一抹值得百年回眸的惊艳，沉淀百年来计算机应用之精华与优雅，任岁月流转，低调而奢华的技术交流与探索却是亘古不变。
 
@@ -61,6 +61,50 @@
 PwnWiki Offical
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_9ef480bb1fc4" alt="" />
+
+---
+
+
+### [做一个好PWN手](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzA4MzcyNzYzMQ==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4MzcyNzYzMQ==)
+
+分享CTF PWN的学习过程
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_fcd40c1c4502" alt="" />
+
+---
+
+
+### [pwnable](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzA5MTYyNjc3MA==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5MTYyNjc3MA==)
+
+good good study, day day pwn
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a22b47d1a70a" alt="" />
+
+---
+
+
+### [rULe4Ker4pwn](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzkyMjI4Mjk0Mw==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyMjI4Mjk0Mw==)
+
+纯粹分享点看法和心得科普等，不涉及政治
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_eff1830e42f4" alt="" />
+
+---
+
+
+### [PWN2LUKA](http://wechat.doonsec.com/admin/wechat_echarts/?biz=Mzg3MTU1MDMxOQ==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MTU1MDMxOQ==)
+
+安全技术分享、学习路程分享
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_117d40a98b8c" alt="" />
 
 ---
 
