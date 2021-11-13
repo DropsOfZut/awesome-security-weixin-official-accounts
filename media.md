@@ -1,7 +1,7 @@
 
 ### [FreeBuf](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MjM5NjA0NjgyMA==)
 
-[:chart_with_upwards_trend:【53/120/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjA0NjgyMA==)
+[:chart_with_upwards_trend:【52/120/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjA0NjgyMA==)
 
 国内网络安全行业门户
 
@@ -12,7 +12,7 @@
 
 ### [中国信息安全](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzA5MzE5MDAzOA==)
 
-[:chart_with_upwards_trend:【18/117/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5MzE5MDAzOA==)
+[:chart_with_upwards_trend:【19/116/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5MzE5MDAzOA==)
 
 《中国信息安全》杂志，介绍国内外最新网络安全动态，深度解读网络安全事件。
 
@@ -23,7 +23,7 @@
 
 ### [黑白之道](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzAxMjE3ODU3MQ==)
 
-[:chart_with_upwards_trend:【3/87/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxMjE3ODU3MQ==)
+[:chart_with_upwards_trend:【3/90/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxMjE3ODU3MQ==)
 
 我们是网络世界的启明星，安全之路的垫脚石。
 
@@ -45,7 +45,7 @@
 
 ### [维他命安全](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzUxMDQzNTMyNg==)
 
-[:chart_with_upwards_trend:【45/70/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxMDQzNTMyNg==)
+[:chart_with_upwards_trend:【44/70/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxMDQzNTMyNg==)
 
 信息安全那些事儿
 
@@ -67,7 +67,7 @@
 
 ### [安全圈](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzIzMzE4NDU1OQ==)
 
-[:chart_with_upwards_trend:【0/64/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzMzE4NDU1OQ==)
+[:chart_with_upwards_trend:【0/61/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzMzE4NDU1OQ==)
 
 专注网络安全：网罗圈内热点事件，细说安全风云变幻！
 
@@ -78,7 +78,7 @@
 
 ### [安在](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzIzMTAzNzUxMQ==)
 
-[:chart_with_upwards_trend:【45/58/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzMTAzNzUxMQ==)
+[:chart_with_upwards_trend:【46/58/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzMTAzNzUxMQ==)
 
 人物、热点、互动、传播，有内涵的信息安全新媒体。
 
@@ -111,7 +111,7 @@
 
 ### [蓝桥云课精选](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MjM5OTMxMzA4NQ==)
 
-[:chart_with_upwards_trend:【7/25/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTMxMzA4NQ==)
+[:chart_with_upwards_trend:【8/27/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTMxMzA4NQ==)
 
 蓝桥云课（原实验楼）是 200 万 + 技术学习者关注的 IT 在线实训平台，提供海量免费教程、技术干货和在线实验环境。官网 https://www.lanqiao.cn/
 
@@ -122,7 +122,7 @@
 
 ### [E安全](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI4MjA1MzkyNA==)
 
-[:chart_with_upwards_trend:【0/25/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI4MjA1MzkyNA==)
+[:chart_with_upwards_trend:【0/26/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI4MjA1MzkyNA==)
 
 E安全 | 全球网络安全资讯新传媒    新版门户站点：http://www.easyaq.com/
 
@@ -144,7 +144,7 @@ V安全资讯是隶属于丝路安全团队（SRsec）旗下的一个以分享�
 
 ### [i春秋](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzUzNTkyODI0OA==)
 
-[:chart_with_upwards_trend:【2/16/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNTkyODI0OA==)
+[:chart_with_upwards_trend:【2/17/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNTkyODI0OA==)
 
 专业的网络安全、信息安全、白帽子技术的培训平台及学习社区，78万安全用户的精准推荐。
 
@@ -164,9 +164,20 @@ V安全资讯是隶属于丝路安全团队（SRsec）旗下的一个以分享�
 ---
 
 
+### [行长叠报](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzAxODg1MDMwOQ==)
+
+[:chart_with_upwards_trend:【6/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxODg1MDMwOQ==)
+
+漏洞银行-行长叠报，最新的安全资讯/最全的黑客干货/最有料的业内伙伴，每时每刻连接热爱安全的你我。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_7c4ae6394108" alt="" />
+
+---
+
+
 ### [青藤云安全](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzAwNDE4Mzc1NA==)
 
-[:chart_with_upwards_trend:【0/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNDE4Mzc1NA==)
+[:chart_with_upwards_trend:【0/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNDE4Mzc1NA==)
 
 青藤云安全是中国主机自适应安全开创者、云原生安全领军企业，连续7年市场占有率第一。青藤以“为新技术提供新安全”为使命，专注于自主研发，不断提高核心技术创新能力，致力于成为一家富有社会责任感、为用户持续创造价值的世界级安全公司。
 
@@ -177,7 +188,7 @@ V安全资讯是隶属于丝路安全团队（SRsec）旗下的一个以分享�
 
 ### [GeekPwn](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzA3Nzc2MjIxOA==)
 
-[:chart_with_upwards_trend:【6/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3Nzc2MjIxOA==)
+[:chart_with_upwards_trend:【5/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3Nzc2MjIxOA==)
 
 GeekPwn，全球首个关注智能生活的安全极客大赛！我们在寻找可能默默无闻但出类拔萃---注定可以改变世界、可以和我们一起保护未来的正能量---顶级 Geek 的思路、敢于 Pwn 破禁锢的你，这里是你的舞台，一起来，做到“极棒”！
 
@@ -186,24 +197,24 @@ GeekPwn，全球首个关注智能生活的安全极客大赛！我们在寻找�
 ---
 
 
-### [行长叠报](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzAxODg1MDMwOQ==)
-
-[:chart_with_upwards_trend:【5/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxODg1MDMwOQ==)
-
-漏洞银行-行长叠报，最新的安全资讯/最全的黑客干货/最有料的业内伙伴，每时每刻连接热爱安全的你我。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_7c4ae6394108" alt="" />
-
----
-
-
 ### [SecWiki](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MjM5NDM1OTM0Mg==)
 
-[:chart_with_upwards_trend:【5/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDM1OTM0Mg==)
+[:chart_with_upwards_trend:【4/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDM1OTM0Mg==)
 
 汇集国内外优秀安全资讯、工具和网站，只做高质量聚合与评论，每天一篇优秀资讯推荐。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_bc27f9153c9d" alt="" />
+
+---
+
+
+### [网络空间安全军民融合创新中心](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzU0ODg5Mjc2NA==)
+
+[:chart_with_upwards_trend:【5/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0ODg5Mjc2NA==)
+
+作为军地沟通、军地协同的网络空间安全发展产业平台，聚焦网络空间国防安全领域，探索建立网络国防安全建设创新发展模式，致力于打造网络空间安全领域的民间智库。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_987f797ad45e" alt="" />
 
 ---
 
@@ -215,17 +226,6 @@ GeekPwn，全球首个关注智能生活的安全极客大赛！我们在寻找�
 长亭科技专注于为企业提供网络安全解决方案。分享专业的网络安全知识，网络威胁情报。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_84e44870ae4f" alt="" />
-
----
-
-
-### [网络空间安全军民融合创新中心](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzU0ODg5Mjc2NA==)
-
-[:chart_with_upwards_trend:【4/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0ODg5Mjc2NA==)
-
-作为军地沟通、军地协同的网络空间安全发展产业平台，聚焦网络空间国防安全领域，探索建立网络国防安全建设创新发展模式，致力于打造网络空间安全领域的民间智库。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_987f797ad45e" alt="" />
 
 ---
 
