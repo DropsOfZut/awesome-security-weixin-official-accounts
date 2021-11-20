@@ -1,7 +1,7 @@
 
 ### [Linux中国](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MjM5NjQ4MjYwMQ==)
 
-[:chart_with_upwards_trend:【91/106/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ4MjYwMQ==)
+[:chart_with_upwards_trend:【87/102/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ4MjYwMQ==)
 
 [Linux中国](https://linux.cn/)开源社区官方公众号。专注于开源技术研究、开源思想传播。
 
@@ -12,7 +12,7 @@
 
 ### [系统安全运维](http://wechat.doonsec.com/admin/wechat_echarts/?biz=Mzk0NjE0NDc5OQ==)
 
-[:chart_with_upwards_trend:【0/75/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NjE0NDc5OQ==)
+[:chart_with_upwards_trend:【0/74/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NjE0NDc5OQ==)
 
 未知攻 焉知防 攻防兼备
 
@@ -34,7 +34,7 @@
 
 ### [Linux学习](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI4MDEwNzAzNg==)
 
-[:chart_with_upwards_trend:【0/33/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI4MDEwNzAzNg==)
+[:chart_with_upwards_trend:【0/31/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI4MDEwNzAzNg==)
 
 专注分享Linux/Unix相关内容，包括Linux命令、Linux内核、Linux系统开发、Linux运维、网络编程、开发工具等Linux相关知识和技术
 

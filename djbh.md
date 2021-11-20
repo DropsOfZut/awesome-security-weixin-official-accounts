@@ -23,7 +23,7 @@
 
 ### [河南等级保护测评](http://wechat.doonsec.com/admin/wechat_echarts/?biz=Mzg2NjY2MTI3Mg==)
 
-[:chart_with_upwards_trend:【29/62/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NjY2MTI3Mg==)
+[:chart_with_upwards_trend:【30/63/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NjY2MTI3Mg==)
 
 传播网络安全知识，分享网络安全政策。
 
@@ -45,7 +45,7 @@
 
 ### [网络安全等保测评](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI3MDY0Nzg1Nw==)
 
-[:chart_with_upwards_trend:【0/22/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3MDY0Nzg1Nw==)
+[:chart_with_upwards_trend:【0/23/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3MDY0Nzg1Nw==)
 
 网络安全个人学习笔记和资讯分享
 
@@ -56,7 +56,7 @@
 
 ### [威努特工控安全](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzAwNTgyODU3NQ==)
 
-[:chart_with_upwards_trend:【8/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNTgyODU3NQ==)
+[:chart_with_upwards_trend:【7/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNTgyODU3NQ==)
 
 我们将为您分享最前沿的国际工控网络安全技术，国家相关政策法规解读及经典成功案例解析。
 
