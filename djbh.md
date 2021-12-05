@@ -12,7 +12,7 @@
 
 ### [祺印说信安](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzA5MzU5MzQzMA==)
 
-[:chart_with_upwards_trend:【38/88/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5MzU5MzQzMA==)
+[:chart_with_upwards_trend:【37/85/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5MzU5MzQzMA==)
 
 学习网络安全、说网络安全；共同致力于网络安全、网络安全等级保护。
 
@@ -23,7 +23,7 @@
 
 ### [河南等级保护测评](http://wechat.doonsec.com/admin/wechat_echarts/?biz=Mzg2NjY2MTI3Mg==)
 
-[:chart_with_upwards_trend:【28/58/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NjY2MTI3Mg==)
+[:chart_with_upwards_trend:【27/56/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NjY2MTI3Mg==)
 
 传播网络安全知识，分享网络安全政策。
 
@@ -34,7 +34,7 @@
 
 ### [网络安全等保测评](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI3MDY0Nzg1Nw==)
 
-[:chart_with_upwards_trend:【0/30/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3MDY0Nzg1Nw==)
+[:chart_with_upwards_trend:【0/32/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3MDY0Nzg1Nw==)
 
 网络安全个人学习笔记和资讯分享
 
@@ -45,7 +45,7 @@
 
 ### [汇能云安全](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzIwNzAwOTQxMg==)
 
-[:chart_with_upwards_trend:【0/22/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNzAwOTQxMg==)
+[:chart_with_upwards_trend:【0/21/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNzAwOTQxMg==)
 
 信息安全等保测评、信息安全服务；云卫士CDS-容灾备份、智能安全网关、智能网络管理产品支持服务；智云iSC-云平台、云服务技术支持服务；朗云iOT-物联网产品支持服务。
 
@@ -78,7 +78,7 @@
 
 ### [老马玩工控安全](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzIzODU0MzIxNA==)
 
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzODU0MzIxNA==)
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzODU0MzIxNA==)
 
 聚焦工控安全，提供集政策标准、工具、论文等免费下载以及技术交流、互动、交友为一体的工控安全交流平台。
 
