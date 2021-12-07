@@ -23,7 +23,7 @@
 
 ### [IOTsecZone](http://wechat.doonsec.com/admin/wechat_echarts/?biz=Mzg4MTY5NjQzMA==)
 
-[:chart_with_upwards_trend:【0/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MTY5NjQzMA==)
+[:chart_with_upwards_trend:【0/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MTY5NjQzMA==)
 
 极客的专属潮酷聚集地，尽在iotsec-zone
 
@@ -65,6 +65,17 @@
 ---
 
 
+### [Gh0xE9](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzAwNTc5MTMyNg==)
+
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNTc5MTMyNg==)
+
+一个非常菜的公众号，专攻网络安全，硬件等方面，狩猎范围极广，不积跬步，无以至千里，低调说话，高调做事。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_3953fa56d850" alt="" />
+
+---
+
+
 ### [物联网IoT安全](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzUzMjcxMzg5Mg==)
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzMjcxMzg5Mg==)
@@ -72,17 +83,6 @@
 我们是一个专注于物联网IOT安全 固件逆向 近源攻击 硬件破解的公众号，与我们一起学习进步。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a86356973ade" alt="" />
-
----
-
-
-### [Gh0xE9](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzAwNTc5MTMyNg==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNTc5MTMyNg==)
-
-个人势公众号，专攻网络安全，硬件等方面，狩猎范围极广，不积跬步，无以至千里，低调说话，高调做事。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_3953fa56d850" alt="" />
 
 ---
 
