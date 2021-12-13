@@ -12,7 +12,7 @@
 
 ### [蝰蛇安全实验室](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzA3NzgyNjUwNA==)
 
-[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NzgyNjUwNA==)
+[:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NzgyNjUwNA==)
 
 湖南农业大学蝰蛇安全实验室
 
