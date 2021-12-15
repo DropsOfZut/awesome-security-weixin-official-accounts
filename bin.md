@@ -1,7 +1,7 @@
 
 ### [看雪学苑](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MjM5NTc2MDYxMw==)
 
-[:chart_with_upwards_trend:【39/107/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTc2MDYxMw==)
+[:chart_with_upwards_trend:【40/108/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTc2MDYxMw==)
 
 致力于移动与安全研究的开发者社区，看雪学院(kanxue.com)官方微信公众帐号。
 
@@ -23,7 +23,7 @@
 
 ### [小杨同学好好锻炼](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzUzMzAzNzk5NA==)
 
-[:chart_with_upwards_trend:【5/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzMzAzNzk5NA==)
+[:chart_with_upwards_trend:【4/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzMzAzNzk5NA==)
 
 专注于网络安全知识分享
 

@@ -1,7 +1,7 @@
 
 ### [电子物证](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzAwNDcwMDgzMA==)
 
-[:chart_with_upwards_trend:【0/23/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNDcwMDgzMA==)
+[:chart_with_upwards_trend:【0/29/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNDcwMDgzMA==)
 
 关注刑事证据科学前沿发展，传递电子物证技术最新趋势
 
@@ -12,7 +12,7 @@
 
 ### [网安杂谈](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzAwMTMzMDUwNg==)
 
-[:chart_with_upwards_trend:【0/23/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwMTMzMDUwNg==)
+[:chart_with_upwards_trend:【0/24/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwMTMzMDUwNg==)
 
 关注电子数据取证与网络犯罪调查
 
@@ -45,7 +45,7 @@
 
 ### [取证杂谈](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI3Mjc0MjkwMQ==)
 
-[:chart_with_upwards_trend:【1/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3Mjc0MjkwMQ==)
+[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3Mjc0MjkwMQ==)
 
 分享电子取证及司法鉴定相关知识
 
