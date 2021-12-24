@@ -1,7 +1,7 @@
 
 ### [CyberRaiderSec](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzkzMzIwMTE5OA==)
 
-[:chart_with_upwards_trend:【9/44/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzMzIwMTE5OA==)
+[:chart_with_upwards_trend:【10/46/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzMzIwMTE5OA==)
 
 起源于苏警院几个热爱网络安全的同学，专注于红蓝对抗，电子取证，溯源分析，CTF竞赛， 安全开发等技术分享
 
@@ -32,17 +32,6 @@
 ---
 
 
-### [清华大学学生网络安全技术协会](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzA5MjUwOTY4Ng==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5MjUwOTY4Ng==)
-
-清华大学学生网络安全技术协会信息推送和资源平台
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_26798762d3e1" alt="" />
-
----
-
-
 ### [DROPS攻防训练营](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzA3NjE0Mzk2OA==)
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NjE0Mzk2OA==)
@@ -61,6 +50,17 @@
 杭州电子科技大学Vidar-Team (原信息安全协会HDUISA&amp;网络空间安全协会)  消息助手
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e4ac6bc8fbfb" alt="" />
+
+---
+
+
+### [清华大学学生网络安全技术协会](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzA5MjUwOTY4Ng==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5MjUwOTY4Ng==)
+
+清华大学学生网络安全技术协会信息推送和资源平台
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_26798762d3e1" alt="" />
 
 ---
 
