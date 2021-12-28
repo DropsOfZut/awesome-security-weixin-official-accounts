@@ -1,9 +1,9 @@
 
 ### [CyberRaiderSec](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzkzMzIwMTE5OA==)
 
-[:chart_with_upwards_trend:【10/46/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzMzIwMTE5OA==)
+[:chart_with_upwards_trend:【10/48/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzMzIwMTE5OA==)
 
-起源于苏警院几个热爱网络安全的同学，专注于红蓝对抗，电子取证，溯源分析，CTF竞赛， 安全开发等技术分享
+起源于几个热爱网络安全的同学，专注于红蓝对抗，电子取证，溯源分析，CTF竞赛， 安全开发等技术分享
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_1b26e38d0253" alt="" />
 
