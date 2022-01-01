@@ -12,7 +12,7 @@
 
 ### [利刃信安](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzU1Mjk3MDY1OA==)
 
-[:chart_with_upwards_trend:【22/29/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU1Mjk3MDY1OA==)
+[:chart_with_upwards_trend:【22/28/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU1Mjk3MDY1OA==)
 
 利刃信安
 
@@ -23,7 +23,7 @@
 
 ### [HACK学习呀](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI5MDU1NDk2MA==)
 
-[:chart_with_upwards_trend:【14/25/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5MDU1NDk2MA==)
+[:chart_with_upwards_trend:【15/25/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5MDU1NDk2MA==)
 
 HACK学习，专注于互联网安全与黑客精神；渗透测试，社会工程学，Python黑客编程，资源分享，Web渗透培训，电脑技巧，渗透技巧等，为广大网络安全爱好者一个交流分享学习的平台！
 
