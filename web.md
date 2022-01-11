@@ -23,7 +23,7 @@ HACK学习，专注于互联网安全与黑客精神；渗透测试，社会工�
 
 ### [利刃信安](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzU1Mjk3MDY1OA==)
 
-[:chart_with_upwards_trend:【9/17/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU1Mjk3MDY1OA==)
+[:chart_with_upwards_trend:【9/16/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU1Mjk3MDY1OA==)
 
 利刃信安
 
@@ -34,7 +34,7 @@ HACK学习，专注于互联网安全与黑客精神；渗透测试，社会工�
 
 ### [TimelineSec](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzA4NzUwMzc3NQ==)
 
-[:chart_with_upwards_trend:【3/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4NzUwMzc3NQ==)
+[:chart_with_upwards_trend:【4/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4NzUwMzc3NQ==)
 
 学安全必备，专注于最新漏洞复现与分析。（Timeline Sec 网络安全团队官方公众号）
 
@@ -61,17 +61,6 @@ HACK学习，专注于互联网安全与黑客精神；渗透测试，社会工�
 只会分享安全技术文章，不会分享安全娱乐新闻。专注渗透测试、渗透自动化武器研发。记录分享学习路上的知识，祝你早日登上SRC英雄榜！
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_7e60f7442e6a" alt="" />
-
----
-
-
-### [宽字节安全](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzUzNTEyMTE0Mw==)
-
-[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNTEyMTE0Mw==)
-
-二十年专注安全研究，漏洞分析
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_2de2b9f7d076" alt="" />
 
 ---
 
@@ -138,6 +127,17 @@ HACK学习，专注于互联网安全与黑客精神；渗透测试，社会工�
 定期发送产品相关技术文章，关键更新推送，解决方案分享等
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_c27e19653a68" alt="" />
+
+---
+
+
+### [宽字节安全](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzUzNTEyMTE0Mw==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNTEyMTE0Mw==)
+
+二十年专注安全研究，漏洞分析
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_2de2b9f7d076" alt="" />
 
 ---
 
