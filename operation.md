@@ -23,7 +23,7 @@
 
 ### [分布式实验室](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzA5OTAyNzQ2OA==)
 
-[:chart_with_upwards_trend:【1/44/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5OTAyNzQ2OA==)
+[:chart_with_upwards_trend:【1/43/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5OTAyNzQ2OA==)
 
 关注分布式相关的开源项目和基础架构，致力于分析并报道这些新技术是如何以及将会怎样影响企业的软件构建方式。
 
@@ -34,7 +34,7 @@
 
 ### [Linux学习](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI4MDEwNzAzNg==)
 
-[:chart_with_upwards_trend:【0/22/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI4MDEwNzAzNg==)
+[:chart_with_upwards_trend:【0/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI4MDEwNzAzNg==)
 
 专注分享Linux/Unix相关内容，包括Linux命令、Linux内核、Linux系统开发、Linux运维、网络编程、开发工具等Linux相关知识和技术
 
@@ -45,7 +45,7 @@
 
 ### [IT牧场](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI4ODQ3NjE2OA==)
 
-[:chart_with_upwards_trend:【0/21/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI4ODQ3NjE2OA==)
+[:chart_with_upwards_trend:【0/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI4ODQ3NjE2OA==)
 
 IT牧场公众号，BAT 技术专家分享开发、架构、运维相关干货！
 
@@ -56,7 +56,7 @@ IT牧场公众号，BAT 技术专家分享开发、架构、运维相关干货�
 
 ### [Docker中文社区](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI1NzI5NDM4Mw==)
 
-[:chart_with_upwards_trend:【0/17/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1NzI5NDM4Mw==)
+[:chart_with_upwards_trend:【0/16/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1NzI5NDM4Mw==)
 
 Docker中文社区旨在为大家提供 Docker、Kubernetes 相关工具及前沿资讯信息，方便大家了解学习 Docker、Kubernetes 相关容器技术。官网：www.dockerchina.cn
 
