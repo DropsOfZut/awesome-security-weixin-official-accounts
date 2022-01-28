@@ -34,7 +34,7 @@
 * [黑白之道](/media.md#黑白之道) : 我们是网络世界的启明星，安全之路的垫脚石。  [:chart_with_upwards_trend:【0/90/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxMjE3ODU3MQ==)
 * [安全圈](/media.md#安全圈) : 专注网络安全：网罗圈内热点事件，细说安全风云变幻！  [:chart_with_upwards_trend:【0/67/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzMzE4NDU1OQ==)
 * [安全牛](/media.md#安全牛) : 发现、挖掘与推荐、传播优秀的安全技术、产品，提升安全领域在全行业的价值，了解机构与企业的安全需求，一家真正懂安全的专业咨询机构，我们是安全牛！  [:chart_with_upwards_trend:【7/65/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Njc3NjM4MA==)
-* [安全客](/media.md#安全客) : 打破黑箱  客说安全  [:chart_with_upwards_trend:【30/57/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5ODA0NDE2MA==)
+* [安全客](/media.md#安全客) : 打破黑箱  客说安全  [:chart_with_upwards_trend:【31/59/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5ODA0NDE2MA==)
 * [维他命安全](/media.md#维他命安全) : 信息安全那些事儿  [:chart_with_upwards_trend:【41/49/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxMDQzNTMyNg==)
 * [网络安全和信息化](/media.md#网络安全和信息化) : 《网络安全和信息化》（原《网络运维与管理》）杂志官方所属，IT运维管理人员的专业管理类经验、知识、资料。提高IT基础设施运营水平，提高IT管理人员工作能力。  [:chart_with_upwards_trend:【23/36/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5MzMwMDU5NQ==)
 * [红数位](/media.md#红数位) : 专注全球网络安全-以报道新、快著称，致力成为中国网安新锐头部平台。  [:chart_with_upwards_trend:【31/33/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MjI1MDU4OA==)
