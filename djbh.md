@@ -1,7 +1,7 @@
 
 ### [祺印说信安](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzA5MzU5MzQzMA==)
 
-[:chart_with_upwards_trend:【36/82/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5MzU5MzQzMA==)
+[:chart_with_upwards_trend:【36/81/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5MzU5MzQzMA==)
 
 学习网络安全、说网络安全；共同致力于网络安全、网络安全等级保护。
 
@@ -12,7 +12,7 @@
 
 ### [河南等级保护测评](http://wechat.doonsec.com/admin/wechat_echarts/?biz=Mzg2NjY2MTI3Mg==)
 
-[:chart_with_upwards_trend:【34/67/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NjY2MTI3Mg==)
+[:chart_with_upwards_trend:【33/65/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NjY2MTI3Mg==)
 
 传播网络安全知识，分享网络安全政策。
 
