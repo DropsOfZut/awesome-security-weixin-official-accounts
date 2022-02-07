@@ -29,7 +29,7 @@
 ## [媒体社区类](/media.md)
 
 *媒体、资讯、社区*
-* [FreeBuf](/media.md#FreeBuf) : 国内网络安全行业门户  [:chart_with_upwards_trend:【63/99/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjA0NjgyMA==)
+* [FreeBuf](/media.md#FreeBuf) : 国内网络安全行业门户  [:chart_with_upwards_trend:【67/103/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjA0NjgyMA==)
 * [黑白之道](/media.md#黑白之道) : 我们是网络世界的启明星，安全之路的垫脚石。  [:chart_with_upwards_trend:【0/88/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxMjE3ODU3MQ==)
 * [中国信息安全](/media.md#中国信息安全) : 《中国信息安全》杂志，介绍国内外最新网络安全动态，深度解读网络安全事件。  [:chart_with_upwards_trend:【6/76/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5MzE5MDAzOA==)
 * [安全客](/media.md#安全客) : 打破黑箱  客说安全  [:chart_with_upwards_trend:【22/51/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5ODA0NDE2MA==)
@@ -471,7 +471,7 @@
 ## [网络运维类](/operation.md)
 
 *运维、操作系统、加固*
-* [Linux中国](/operation.md#Linux中国) : [Linux中国](https://linux.cn/)开源社区官方公众号。专注于开源技术研究、开源思想传播。  [:chart_with_upwards_trend:【85/88/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ4MjYwMQ==)
+* [Linux中国](/operation.md#Linux中国) : [Linux中国](https://linux.cn/)开源社区官方公众号。专注于开源技术研究、开源思想传播。  [:chart_with_upwards_trend:【88/91/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ4MjYwMQ==)
 * [系统安全运维](/operation.md#系统安全运维) : 未知攻 焉知防 攻防兼备  [:chart_with_upwards_trend:【0/44/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NjE0NDc5OQ==)
 * [分布式实验室](/operation.md#分布式实验室) : 关注分布式相关的开源项目和基础架构，致力于分析并报道这些新技术是如何以及将会怎样影响企业的软件构建方式。  [:chart_with_upwards_trend:【1/30/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5OTAyNzQ2OA==)
 * [Linux学习](/operation.md#Linux学习) : 专注分享Linux/Unix相关内容，包括Linux命令、Linux内核、Linux系统开发、Linux运维、网络编程、开发工具等Linux相关知识和技术  [:chart_with_upwards_trend:【0/14/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI4MDEwNzAzNg==)
