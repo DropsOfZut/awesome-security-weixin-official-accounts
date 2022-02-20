@@ -1,7 +1,7 @@
 
 ### [Linux中国](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MjM5NjQ4MjYwMQ==)
 
-[:chart_with_upwards_trend:【77/81/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ4MjYwMQ==)
+[:chart_with_upwards_trend:【73/77/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ4MjYwMQ==)
 
 [Linux中国](https://linux.cn/)开源社区官方公众号。专注于开源技术研究、开源思想传播。
 
@@ -34,7 +34,7 @@
 
 ### [Linux学习](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI4MDEwNzAzNg==)
 
-[:chart_with_upwards_trend:【0/23/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI4MDEwNzAzNg==)
+[:chart_with_upwards_trend:【0/21/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI4MDEwNzAzNg==)
 
 专注分享Linux/Unix相关内容，包括Linux命令、Linux内核、Linux系统开发、Linux运维、网络编程、开发工具等Linux相关知识和技术
 
@@ -45,7 +45,7 @@
 
 ### [IT牧场](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI4ODQ3NjE2OA==)
 
-[:chart_with_upwards_trend:【0/15/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI4ODQ3NjE2OA==)
+[:chart_with_upwards_trend:【0/14/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI4ODQ3NjE2OA==)
 
 IT牧场公众号，BAT 技术专家分享开发、架构、运维相关干货！
 
