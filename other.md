@@ -1,7 +1,7 @@
 
 ### [情报分析师](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzA3Mjc1MTkwOA==)
 
-[:chart_with_upwards_trend:【14/59/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3Mjc1MTkwOA==)
+[:chart_with_upwards_trend:【16/59/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3Mjc1MTkwOA==)
 
 POLICE教授团队：建设情报社群，促进情报研究，开展情报培训，传播情报文化。
 
@@ -12,11 +12,22 @@ POLICE教授团队：建设情报社群，促进情报研究，开展情报培�
 
 ### [全球技术地图](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI1OTExNDY1NQ==)
 
-[:chart_with_upwards_trend:【26/46/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1OTExNDY1NQ==)
+[:chart_with_upwards_trend:【27/47/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1OTExNDY1NQ==)
 
 洞见前沿，引领未来。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_66ccbb1db194" alt="" />
+
+---
+
+
+### [GoCN](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzA4ODg0NDkzOA==)
+
+[:chart_with_upwards_trend:【26/33/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4ODg0NDkzOA==)
+
+最具规模和生命力的 Go 开发者社区
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8997cd77cfb2" alt="" />
 
 ---
 
@@ -34,7 +45,7 @@ POLICE教授团队：建设情报社群，促进情报研究，开展情报培�
 
 ### [青衣十三楼飞花堂](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzUzMjQyMDE3Ng==)
 
-[:chart_with_upwards_trend:【30/31/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzMjQyMDE3Ng==)
+[:chart_with_upwards_trend:【29/30/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzMjQyMDE3Ng==)
 
 C/ASM程序员之闲言碎语
 
@@ -43,13 +54,13 @@ C/ASM程序员之闲言碎语
 ---
 
 
-### [GoCN](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzA4ODg0NDkzOA==)
+### [网安寻路人](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzIxODM0NDU4MQ==)
 
-[:chart_with_upwards_trend:【24/30/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4ODg0NDkzOA==)
+[:chart_with_upwards_trend:【0/13/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxODM0NDU4MQ==)
 
-最具规模和生命力的 Go 开发者社区
+立足本土实践和需求，放眼全球做法和经验，探寻网络空间安全之法道。
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8997cd77cfb2" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e01653781aad" alt="" />
 
 ---
 
@@ -76,20 +87,9 @@ C/ASM程序员之闲言碎语
 ---
 
 
-### [网安寻路人](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzIxODM0NDU4MQ==)
-
-[:chart_with_upwards_trend:【0/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxODM0NDU4MQ==)
-
-立足本土实践和需求，放眼全球做法和经验，探寻网络空间安全之法道。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e01653781aad" alt="" />
-
----
-
-
 ### [安全孺子牛](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI2MDI0NTM2Nw==)
 
-[:chart_with_upwards_trend:【9/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MDI0NTM2Nw==)
+[:chart_with_upwards_trend:【8/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MDI0NTM2Nw==)
 
 网络安全学习研究分享
 
@@ -100,7 +100,7 @@ C/ASM程序员之闲言碎语
 
 ### [数据安全与取证](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzIyNzU0NjIyMg==)
 
-[:chart_with_upwards_trend:【2/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyNzU0NjIyMg==)
+[:chart_with_upwards_trend:【2/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyNzU0NjIyMg==)
 
 我们专注于电子取证技术的分享及司法鉴定实践的交流，涵盖了计算机取证、手机取证、电子物证、司法鉴定等众多领域，是电子取证公司与电子取证从业者交流学习的首选平台。
 
