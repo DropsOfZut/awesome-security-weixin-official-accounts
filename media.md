@@ -1,7 +1,7 @@
 
 ### [FreeBuf](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MjM5NjA0NjgyMA==)
 
-[:chart_with_upwards_trend:【44/68/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjA0NjgyMA==)
+[:chart_with_upwards_trend:【33/52/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjA0NjgyMA==)
 
 国内网络安全行业门户
 
@@ -12,7 +12,7 @@
 
 ### [中国信息安全](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzA5MzE5MDAzOA==)
 
-[:chart_with_upwards_trend:【13/59/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5MzE5MDAzOA==)
+[:chart_with_upwards_trend:【11/49/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5MzE5MDAzOA==)
 
 《中国信息安全》杂志，介绍国内外最新网络安全动态，深度解读网络安全事件。
 
@@ -23,7 +23,7 @@
 
 ### [黑白之道](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzAxMjE3ODU3MQ==)
 
-[:chart_with_upwards_trend:【0/54/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxMjE3ODU3MQ==)
+[:chart_with_upwards_trend:【0/42/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxMjE3ODU3MQ==)
 
 我们是网络世界的启明星，安全之路的垫脚石。
 
@@ -34,7 +34,7 @@
 
 ### [安全圈](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzIzMzE4NDU1OQ==)
 
-[:chart_with_upwards_trend:【0/54/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzMzE4NDU1OQ==)
+[:chart_with_upwards_trend:【0/41/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzMzE4NDU1OQ==)
 
 专注网络安全：网罗圈内热点事件，细说安全风云变幻！
 
@@ -43,9 +43,20 @@
 ---
 
 
+### [嘶吼专业版](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI0MDY1MDU4MQ==)
+
+[:chart_with_upwards_trend:【2/39/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0MDY1MDU4MQ==)
+
+为您带来每日最新最专业的互联网安全专业信息。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_523f772a62a6" alt="" />
+
+---
+
+
 ### [网络安全和信息化](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MjM5MzMwMDU5NQ==)
 
-[:chart_with_upwards_trend:【14/40/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5MzMwMDU5NQ==)
+[:chart_with_upwards_trend:【11/32/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5MzMwMDU5NQ==)
 
 《网络安全和信息化》（原《网络运维与管理》）杂志官方所属，网络安全人员与IT运维人员的专业管理类经验、知识、资料，帮助用户提高网络安全能力建设和IT基础设施运营水平，提升IT管理人员工作能力。
 
@@ -56,7 +67,7 @@
 
 ### [安全牛](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MjM5Njc3NjM4MA==)
 
-[:chart_with_upwards_trend:【6/39/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Njc3NjM4MA==)
+[:chart_with_upwards_trend:【4/31/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Njc3NjM4MA==)
 
 发现、挖掘与推荐、传播优秀的安全技术、产品，提升安全领域在全行业的价值，了解机构与企业的安全需求，一家真正懂安全的专业咨询机构，我们是安全牛！
 
@@ -65,9 +76,20 @@
 ---
 
 
+### [代码卫士](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI2NTg4OTc5Nw==)
+
+[:chart_with_upwards_trend:【0/24/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2NTg4OTc5Nw==)
+
+奇安信代码卫士是国内第一家专注于软件开发安全的产品线，产品涵盖代码安全缺陷检测、软件编码合规检测、开源组件溯源检测三大方向，分别解决软件开发过程中的安全缺陷和漏洞问题、编码合规性问题、开源组件安全管控问题。本订阅号提供国内外热点安全资讯。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_bba053bd7494" alt="" />
+
+---
+
+
 ### [维他命安全](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzUxMDQzNTMyNg==)
 
-[:chart_with_upwards_trend:【23/26/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxMDQzNTMyNg==)
+[:chart_with_upwards_trend:【18/21/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxMDQzNTMyNg==)
 
 信息安全那些事儿
 
@@ -78,7 +100,7 @@
 
 ### [安全客](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzA5ODA0NDE2MA==)
 
-[:chart_with_upwards_trend:【1/26/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5ODA0NDE2MA==)
+[:chart_with_upwards_trend:【0/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5ODA0NDE2MA==)
 
 打破黑箱  客说安全
 
@@ -87,9 +109,31 @@
 ---
 
 
+### [白帽子社区](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzUyMTAyODYwNg==)
+
+[:chart_with_upwards_trend:【10/15/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyMTAyODYwNg==)
+
+一个长期专注信息安全技术领域的公众号。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_9e14730cd918" alt="" />
+
+---
+
+
+### [蓝桥云课精选](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MjM5OTMxMzA4NQ==)
+
+[:chart_with_upwards_trend:【10/14/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTMxMzA4NQ==)
+
+蓝桥云课（原实验楼）是 200 万 + 技术学习者关注的 IT 在线实训平台，提供海量免费教程、技术干货和在线实验环境。官网 https://www.lanqiao.cn/
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e794419207a0" alt="" />
+
+---
+
+
 ### [合天网安实验室](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MjM5MTYxNjQxOA==)
 
-[:chart_with_upwards_trend:【7/19/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5MTYxNjQxOA==)
+[:chart_with_upwards_trend:【5/14/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5MTYxNjQxOA==)
 
 为广大信息安全爱好者提供有价值的文章推送服务！
 
@@ -100,7 +144,7 @@
 
 ### [E安全](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI4MjA1MzkyNA==)
 
-[:chart_with_upwards_trend:【2/19/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI4MjA1MzkyNA==)
+[:chart_with_upwards_trend:【2/14/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI4MjA1MzkyNA==)
 
 E安全 | 全球网络安全资讯新传媒    新版门户站点：http://www.easyaq.com/
 
@@ -109,31 +153,9 @@ E安全 | 全球网络安全资讯新传媒    新版门户站点：http://www.e
 ---
 
 
-### [蓝桥云课精选](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MjM5OTMxMzA4NQ==)
-
-[:chart_with_upwards_trend:【12/18/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTMxMzA4NQ==)
-
-蓝桥云课（原实验楼）是 200 万 + 技术学习者关注的 IT 在线实训平台，提供海量免费教程、技术干货和在线实验环境。官网 https://www.lanqiao.cn/
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e794419207a0" alt="" />
-
----
-
-
-### [白帽子社区](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzUyMTAyODYwNg==)
-
-[:chart_with_upwards_trend:【12/17/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyMTAyODYwNg==)
-
-一个长期专注信息安全技术领域的公众号。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_9e14730cd918" alt="" />
-
----
-
-
 ### [红数位](http://wechat.doonsec.com/admin/wechat_echarts/?biz=Mzg3MjI1MDU4OA==)
 
-[:chart_with_upwards_trend:【14/16/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MjI1MDU4OA==)
+[:chart_with_upwards_trend:【10/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MjI1MDU4OA==)
 
 专注全球网络安全-以报道新、快著称，致力成为中国网安新锐头部平台。
 
@@ -144,7 +166,7 @@ E安全 | 全球网络安全资讯新传媒    新版门户站点：http://www.e
 
 ### [i春秋](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzUzNTkyODI0OA==)
 
-[:chart_with_upwards_trend:【2/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNTkyODI0OA==)
+[:chart_with_upwards_trend:【2/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNTkyODI0OA==)
 
 专业的网络安全、信息安全、白帽子技术的培训平台及学习社区，89万安全用户的精准推荐。
 
@@ -153,13 +175,13 @@ E安全 | 全球网络安全资讯新传媒    新版门户站点：http://www.e
 ---
 
 
-### [SecWiki](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MjM5NDM1OTM0Mg==)
+### [SecPulse安全脉搏](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzAxNDM3NTM0NQ==)
 
-[:chart_with_upwards_trend:【3/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDM1OTM0Mg==)
+[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxNDM3NTM0NQ==)
 
-汇集国内外优秀安全资讯、工具和网站，只做高质量聚合与评论，每天一篇优秀资讯推荐。
+安全脉搏，有温度的安全自媒体；关注最新安全事件，分享独家技术文章；安全资讯、安全报告实时共享；官网www.secpulse.com。
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_bc27f9153c9d" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_448dbe1f6d82" alt="" />
 
 ---
 
@@ -197,6 +219,17 @@ V安全资讯是隶属于丝路安全团队（SRsec）旗下的一个以分享�
 ---
 
 
+### [SecWiki](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MjM5NDM1OTM0Mg==)
+
+[:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDM1OTM0Mg==)
+
+汇集国内外优秀安全资讯、工具和网站，只做高质量聚合与评论，每天一篇优秀资讯推荐。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_bc27f9153c9d" alt="" />
+
+---
+
+
 ### [青藤云安全](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzAwNDE4Mzc1NA==)
 
 [:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNDE4Mzc1NA==)
@@ -230,6 +263,17 @@ V安全资讯是隶属于丝路安全团队（SRsec）旗下的一个以分享�
 ---
 
 
+### [云众可信](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzU5MzIyNTcxNA==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MzIyNTcxNA==)
+
+云众展现全新魅力，可信凝聚无穷力量
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_59640f2cdc05" alt="" />
+
+---
+
+
 ### [极客公园](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MTMwNDMwODQ0MQ==)
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MTMwNDMwODQ0MQ==)
@@ -248,6 +292,39 @@ V安全资讯是隶属于丝路安全团队（SRsec）旗下的一个以分享�
 人物、热点、互动、传播，有内涵的信息安全新媒体。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_374f075560ae" alt="" />
+
+---
+
+
+### [四叶草漏洞插件社区](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI0MTE0MjYxOQ==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0MTE0MjYxOQ==)
+
+发布漏洞插件社区最新动态
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ffddcb517e94" alt="" />
+
+---
+
+
+### [Secquan圈子社区](http://wechat.doonsec.com/admin/wechat_echarts/?biz=Mzg5MTA3NTg2MA==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MTA3NTg2MA==)
+
+secquan.org汇聚新锐 共同进步
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_3579b91bd213" alt="" />
+
+---
+
+
+### [新兴产业研究中心](http://wechat.doonsec.com/admin/wechat_echarts/?biz=Mzg4NDA3NTQ5MA==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NDA3NTQ5MA==)
+
+致力于新兴产业研究与个股投资机会挖掘。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_71d471ba7007" alt="" />
 
 ---
 
@@ -274,24 +351,13 @@ V安全资讯是隶属于丝路安全团队（SRsec）旗下的一个以分享�
 ---
 
 
-### [MottoIN](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzIxMzQ3MzkwMQ==)
+### [T00ls](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MjM5MDkwNjA2Nw==)
 
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxMzQ3MzkwMQ==)
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5MDkwNjA2Nw==)
 
-互联网威胁情报社区
+T00ls，十年民间网络安全老牌社区，聚合安全领域最优秀的人群，低调研究潜心学习讨论各类网络安全知识，为推动中国网络安全进步与技术创新贡献力量！
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_af32a7c58306" alt="" />
-
----
-
-
-### [阿里云应急响应](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI5MzY2MzM0Mw==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5MzY2MzM0Mw==)
-
-阿里云安全应急响应中心为云上客户提供最精准风险预警通告，基于云安全中心的威胁情报收集能力、分析能力、漏洞挖掘能力、应急响应处置能力为客户上云提供高效、精准，真实的漏洞威胁预警、重大安全事件预警。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_12f3517e40de" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a19a1f605ba9" alt="" />
 
 ---
 
@@ -325,6 +391,17 @@ V安全资讯是隶属于丝路安全团队（SRsec）旗下的一个以分享�
 CNCERT风险评估与软硬件安全相关动态信息分享
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4649b3addf2d" alt="" />
+
+---
+
+
+### [安全Si语](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzU4NTkwMzgzNQ==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NTkwMzgzNQ==)
+
+一个新的公众号媒体！~
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e4207fa81f5a" alt="" />
 
 ---
 

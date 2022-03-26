@@ -1,18 +1,7 @@
 
-### [嘶吼专业版](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI0MDY1MDU4MQ==)
-
-[:chart_with_upwards_trend:【3/50/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0MDY1MDU4MQ==)
-
-为您带来每日最新最专业的互联网安全专业信息。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_523f772a62a6" alt="" />
-
----
-
-
 ### [HACK学习呀](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI5MDU1NDk2MA==)
 
-[:chart_with_upwards_trend:【3/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5MDU1NDk2MA==)
+[:chart_with_upwards_trend:【2/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5MDU1NDk2MA==)
 
 HACK学习，专注于互联网安全与黑客精神；渗透测试，社会工程学，Python黑客编程，资源分享，Web渗透培训，电脑技巧，渗透技巧等，为广大网络安全爱好者一个交流分享学习的平台！
 
@@ -21,31 +10,9 @@ HACK学习，专注于互联网安全与黑客精神；渗透测试，社会工�
 ---
 
 
-### [利刃信安](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzU1Mjk3MDY1OA==)
-
-[:chart_with_upwards_trend:【0/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU1Mjk3MDY1OA==)
-
-利刃信安
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_361672e49447" alt="" />
-
----
-
-
-### [bgbing安全](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzkwNzEzMTg3MQ==)
-
-[:chart_with_upwards_trend:【2/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwNzEzMTg3MQ==)
-
-渗透测试,内网渗透,SRC漏洞分享,安全开发,安全武器库
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ce7ca517fa4b" alt="" />
-
----
-
-
 ### [轩公子谈技术](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzU3MDg2NDI4OA==)
 
-[:chart_with_upwards_trend:【4/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MDg2NDI4OA==)
+[:chart_with_upwards_trend:【3/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MDg2NDI4OA==)
 
 安全笔记分享 擅长内网渗透
 
@@ -54,20 +21,20 @@ HACK学习，专注于互联网安全与黑客精神；渗透测试，社会工�
 ---
 
 
-### [TimelineSec](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzA4NzUwMzc3NQ==)
+### [bgbing安全](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzkwNzEzMTg3MQ==)
 
-[:chart_with_upwards_trend:【1/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4NzUwMzc3NQ==)
+[:chart_with_upwards_trend:【2/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwNzEzMTg3MQ==)
 
-学安全必备，专注于最新漏洞复现与分析。（Timeline Sec 网络安全团队官方公众号）
+渗透测试,内网渗透,SRC漏洞分享,安全开发,安全武器库
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_023acbc11c66" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ce7ca517fa4b" alt="" />
 
 ---
 
 
 ### [渗透测试教程](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI3OTIwNDkzNQ==)
 
-[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3OTIwNDkzNQ==)
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3OTIwNDkzNQ==)
 
 只会分享安全技术文章，不会分享安全娱乐新闻。专注渗透测试、渗透自动化武器研发。记录分享学习路上的知识，祝你早日登上SRC英雄榜！
 
@@ -78,7 +45,7 @@ HACK学习，专注于互联网安全与黑客精神；渗透测试，社会工�
 
 ### [泰阿安全实验室](http://wechat.doonsec.com/admin/wechat_echarts/?biz=Mzg5MDQyMzg3NQ==)
 
-[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MDQyMzg3NQ==)
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MDQyMzg3NQ==)
 
 泰阿安全实验室
 
@@ -105,17 +72,6 @@ HACK学习，专注于互联网安全与黑客精神；渗透测试，社会工�
 官网:www.secshi.com。国内领先的互联网安全媒体，WEB安全爱好者们交流与分享安全技术的最佳平台！这里聚集了XSS牛、SQL牛、提权牛、WEB牛、开发牛、运维牛，公众号定期分享安全教程及相关工具。与其在别处仰望 不如在这里并肩！
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_178345894682" alt="" />
-
----
-
-
-### [云众可信](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzU5MzIyNTcxNA==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MzIyNTcxNA==)
-
-云众展现全新魅力，可信凝聚无穷力量
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_59640f2cdc05" alt="" />
 
 ---
 
