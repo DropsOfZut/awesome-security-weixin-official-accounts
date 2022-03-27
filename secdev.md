@@ -1,7 +1,7 @@
 
 ### [甲方安全建设](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzU0MDcyMTMxOQ==)
 
-[:chart_with_upwards_trend:【12/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0MDcyMTMxOQ==)
+[:chart_with_upwards_trend:【9/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0MDcyMTMxOQ==)
 
 甲方安全建设的点滴，共同学习，一起进步。 笔耕不辍也是对自我的督促。
 
