@@ -1,7 +1,7 @@
 
 ### [HACK学习呀](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI5MDU1NDk2MA==)
 
-[:chart_with_upwards_trend:【2/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5MDU1NDk2MA==)
+[:chart_with_upwards_trend:【1/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5MDU1NDk2MA==)
 
 HACK学习，专注于互联网安全与黑客精神；渗透测试，社会工程学，Python黑客编程，资源分享，Web渗透培训，电脑技巧，渗透技巧等，为广大网络安全爱好者一个交流分享学习的平台！
 
@@ -23,7 +23,7 @@ HACK学习，专注于互联网安全与黑客精神；渗透测试，社会工�
 
 ### [bgbing安全](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzkwNzEzMTg3MQ==)
 
-[:chart_with_upwards_trend:【2/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwNzEzMTg3MQ==)
+[:chart_with_upwards_trend:【2/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwNzEzMTg3MQ==)
 
 渗透测试,内网渗透,SRC漏洞分享,安全开发,安全武器库
 
