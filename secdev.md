@@ -12,7 +12,7 @@
 
 ### [i安全梦](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzAxODY0NTYwMw==)
 
-[:chart_with_upwards_trend:【1/22/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxODY0NTYwMw==)
+[:chart_with_upwards_trend:【2/24/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxODY0NTYwMw==)
 
 共同探讨企业网信实践经验，解决企业网信建设最后一公里。
 
@@ -23,7 +23,7 @@
 
 ### [甲方安全建设](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzU0MDcyMTMxOQ==)
 
-[:chart_with_upwards_trend:【14/15/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0MDcyMTMxOQ==)
+[:chart_with_upwards_trend:【11/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0MDcyMTMxOQ==)
 
 甲方安全建设的点滴，共同学习，一起进步。 笔耕不辍也是对自我的督促。
 
@@ -39,6 +39,17 @@
 闲暇时间，逼迫自己，记录分享体验与经历，不求正确统一，但求真、善、美。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_aa4d8db71365" alt="" />
+
+---
+
+
+### [放之](http://wechat.doonsec.com/admin/wechat_echarts/?biz=Mzg3ODAzNjg5OA==)
+
+[:chart_with_upwards_trend:【2/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3ODAzNjg5OA==)
+
+持续关注企业与信息安全建设，分享精选干货。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4947400a6ef2" alt="" />
 
 ---
 
@@ -76,17 +87,6 @@ OWASP中国，SecZone互联网安全研究中心官方平台
 ---
 
 
-### [表图](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzUzOTI4NDQ3NA==)
-
-[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzOTI4NDQ3NA==)
-
-坚信少却更好，坚定元认知传播，坚持安全美学，拿个主题，讲300秒就够了。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_717c729949b7" alt="" />
-
----
-
-
 ### [数据安全架构与治理](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzAwOTc3NzMwMQ==)
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwOTc3NzMwMQ==)
@@ -105,6 +105,17 @@ OWASP中国，SecZone互联网安全研究中心官方平台
 甲方安全经验分享，你不再是一个人的安全部，我们一起组建组织，一起探讨学习 一起进步前行，个人博客: sq1map.com ，Github: https://github.com/jeansgit 欢迎留言评论提出宝贵意见建议，感谢！
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_daa52e4d85e5" alt="" />
+
+---
+
+
+### [表图](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzUzOTI4NDQ3NA==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzOTI4NDQ3NA==)
+
+坚信少却更好，坚定元认知传播，坚持安全美学，拿个主题，讲300秒就够了。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_717c729949b7" alt="" />
 
 ---
 
