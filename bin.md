@@ -1,7 +1,7 @@
 
 ### [看雪学苑](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MjM5NTc2MDYxMw==)
 
-[:chart_with_upwards_trend:【25/89/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTc2MDYxMw==)
+[:chart_with_upwards_trend:【25/87/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTc2MDYxMw==)
 
 致力于移动与安全研究的开发者社区，看雪学院(kanxue.com)官方微信公众帐号。
 
@@ -12,7 +12,7 @@
 
 ### [吾爱破解论坛](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MjM5Mjc3MDM2Mw==)
 
-[:chart_with_upwards_trend:【3/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Mjc3MDM2Mw==)
+[:chart_with_upwards_trend:【3/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Mjc3MDM2Mw==)
 
 吾爱破解论坛致力于软件安全与病毒分析的前沿，丰富的技术版块交相辉映，由无数热衷于软件加密解密及反病毒爱好者共同维护，留给世界一抹值得百年回眸的惊艳，沉淀百年来计算机应用之精华与优雅，任岁月流转，低调而奢华的技术交流与探索却是亘古不变。
 
@@ -39,17 +39,6 @@
 主打研究方向Ai人工智能、物联网安全、Web安全、APP安全、逆向工程、二进制、电子取证、信息安全
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_c6ea851cd149" alt="" />
-
----
-
-
-### [3072](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzU4OTk0NDMzOA==)
-
-[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4OTk0NDMzOA==)
-
-威胁狩猎，漏洞挖掘
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_02e64d74f88d" alt="" />
 
 ---
 
@@ -83,6 +72,17 @@
 在平行世界的另一头“广诚市”上演着一幕幕黑客围城。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_090dcc3712a3" alt="" />
+
+---
+
+
+### [3072](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzU4OTk0NDMzOA==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4OTk0NDMzOA==)
+
+威胁狩猎，漏洞挖掘
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_02e64d74f88d" alt="" />
 
 ---
 
@@ -149,6 +149,17 @@ pWn3d bY BiGSKidd3r&amp;FuzZer&amp;A2pter&amp;pWn3r rULe4Ker4pwn 65535 tim3s.
 专注于网络安全知识分享
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f390850507f7" alt="" />
+
+---
+
+
+### [天问记事簿](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzkzMTIwMDQwMA==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzMTIwMDQwMA==)
+
+二进制安全学习
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_92889635e9ef" alt="" />
 
 ---
 

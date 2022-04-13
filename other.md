@@ -1,7 +1,7 @@
 
 ### [云知云享](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzkyNzMzMTAxNw==)
 
-[:chart_with_upwards_trend:【4/53/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNzMzMTAxNw==)
+[:chart_with_upwards_trend:【4/52/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNzMzMTAxNw==)
 
 云知云享是郑州云智信安安全技术有限公司对外分享数据安全、网络安全相关知识的一个公益性平台，期待与网安人一起共同进步。
 
@@ -12,7 +12,7 @@
 
 ### [全球技术地图](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI1OTExNDY1NQ==)
 
-[:chart_with_upwards_trend:【20/50/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1OTExNDY1NQ==)
+[:chart_with_upwards_trend:【20/49/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1OTExNDY1NQ==)
 
 洞见前沿，引领未来。
 
@@ -23,7 +23,7 @@
 
 ### [白帽子](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzAwMDQwNTE5MA==)
 
-[:chart_with_upwards_trend:【0/48/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwMDQwNTE5MA==)
+[:chart_with_upwards_trend:【0/46/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwMDQwNTE5MA==)
 
 每天会发信息安全的事件文章，让大家了解更多信息安全知识和资讯。
 
@@ -34,7 +34,7 @@
 
 ### [嘉诚安全](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzU4NjY4MDAyNQ==)
 
-[:chart_with_upwards_trend:【0/29/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NjY4MDAyNQ==)
+[:chart_with_upwards_trend:【0/30/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NjY4MDAyNQ==)
 
 嘉诚安全，您身边的安全专家
 
@@ -45,7 +45,7 @@
 
 ### [青衣十三楼飞花堂](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzUzMjQyMDE3Ng==)
 
-[:chart_with_upwards_trend:【28/28/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzMjQyMDE3Ng==)
+[:chart_with_upwards_trend:【27/27/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzMjQyMDE3Ng==)
 
 C/ASM程序员之闲言碎语
 
@@ -160,6 +160,17 @@ HACK学习，专注于互联网安全与黑客精神；渗透测试，社会工�
 分享安全方面的论文写作、会议发表、基金申请方面的资料。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_cbda1fb027bf" alt="" />
+
+---
+
+
+### [RainSec](http://wechat.doonsec.com/admin/wechat_echarts/?biz=Mzg3NzczOTA3OQ==)
+
+[:chart_with_upwards_trend:【6/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NzczOTA3OQ==)
+
+致力于云原生安全和自动化渗透测试的研究与分享
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_33d1054dff82" alt="" />
 
 ---
 
@@ -622,6 +633,17 @@ What is Security?
 中国数字产业领域中立的第三方调研机构，提供网络安全行业的调查、研究与咨询服务。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_bacd64503774" alt="" />
+
+---
+
+
+### [记月](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzA4NDI0NTM0NA==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4NDI0NTM0NA==)
+
+简单写写
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_7d32fc7f7cdd" alt="" />
 
 ---
 

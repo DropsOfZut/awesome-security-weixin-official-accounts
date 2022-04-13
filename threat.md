@@ -12,7 +12,7 @@ POLICE教授学术团队：聚焦情报安全与警务。关注情报前沿动�
 
 ### [丁爸情报分析师的工具箱](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI2MTE0NTE3Mw==)
 
-[:chart_with_upwards_trend:【21/36/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MTE0NTE3Mw==)
+[:chart_with_upwards_trend:【20/35/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MTE0NTE3Mw==)
 
 每天为大家精选各类情报分析相关的资源、工具、技巧和资讯，努力成为情报分析师必备的工具箱。外挂机器人“小丁丁”还能陪您聊天，给您查航班、查列车、查天气、查酒店、查美食、查股票、回答您的提问等等。
 
@@ -32,17 +32,6 @@ ThreatBook微步在线，中国新一代网络安全代表企业，网络威胁�
 ---
 
 
-### [QZ的安全悟道](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI1MDA1MjcxMw==)
-
-[:chart_with_upwards_trend:【4/14/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MDA1MjcxMw==)
-
-记录和分享一些个人的安全心得
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e4eaed342c88" alt="" />
-
----
-
-
 ### [奇安信威胁情报中心](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI2MDc2MDA4OA==)
 
 [:chart_with_upwards_trend:【11/13/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MDc2MDA4OA==)
@@ -54,9 +43,20 @@ ThreatBook微步在线，中国新一代网络安全代表企业，网络威胁�
 ---
 
 
+### [QZ的安全悟道](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI1MDA1MjcxMw==)
+
+[:chart_with_upwards_trend:【3/13/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MDA1MjcxMw==)
+
+记录和分享一些个人的安全心得
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e4eaed342c88" alt="" />
+
+---
+
+
 ### [微步在线研究响应中心](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzA5MDc1NDc1MQ==)
 
-[:chart_with_upwards_trend:【7/13/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5MDc1NDc1MQ==)
+[:chart_with_upwards_trend:【6/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5MDc1NDc1MQ==)
 
 神秘，低调，手里全是情报。中国网络安全圈不可缺少的力量。
 
@@ -76,6 +76,17 @@ ThreatBook微步在线，中国新一代网络安全代表企业，网络威胁�
 ---
 
 
+### [奇安网情局](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI4ODQzMzk3MA==)
+
+[:chart_with_upwards_trend:【8/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI4ODQzMzk3MA==)
+
+网络国防知识库，产业发展前哨站，开源情报信息源。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_9a7caab4e3cf" alt="" />
+
+---
+
+
 ### [腾讯安全威胁情报中心](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI5ODk3OTM1Ng==)
 
 [:chart_with_upwards_trend:【0/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5ODk3OTM1Ng==)
@@ -83,17 +94,6 @@ ThreatBook微步在线，中国新一代网络安全代表企业，网络威胁�
 御见威胁情报中心，是一个涵盖全球多维数据的情报分析、威胁预警分析平台。依托顶尖安全专家团队支撑，帮助安全分析人员快速、准确对可疑事件进行预警、溯源分析。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_05a6c5ec3f78" alt="" />
-
----
-
-
-### [奇安网情局](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI4ODQzMzk3MA==)
-
-[:chart_with_upwards_trend:【7/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI4ODQzMzk3MA==)
-
-网络国防知识库，产业发展前哨站，开源情报信息源。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_9a7caab4e3cf" alt="" />
 
 ---
 
@@ -138,6 +138,17 @@ ThreatBook微步在线，中国新一代网络安全代表企业，网络威胁�
 Seebug，原 Sebug 漏洞平台，洞悉漏洞，让你掌握第一手漏洞情报！
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_7a00af2b3993" alt="" />
+
+---
+
+
+### [信息时代的犯罪侦查](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzAxNTA4NDAwOQ==)
+
+[:chart_with_upwards_trend:【2/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxNTA4NDAwOQ==)
+
+一切行为皆有犯罪的可能性，而在信息时代，这一过程变得更加复杂或者隐晦了。本号致力于传播打击和预防犯罪的手段、方法、理念，并希望能够推动侦查犯罪的机制变革，而这需要了解方方面面的信息。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_fc392f1d7dc1" alt="" />
 
 ---
 
@@ -248,6 +259,39 @@ Seebug，原 Sebug 漏洞平台，洞悉漏洞，让你掌握第一手漏洞情�
 熊貓情報局PIB关注全球网络安全。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_bab37c752933" alt="" />
+
+---
+
+
+### [情报小蜜蜂](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzU0NjY5ODQ3Mw==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0NjY5ODQ3Mw==)
+
+多多找资源，多多酿成蜜，努力成为一只勤奋的情报采集小蜜蜂。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_2e3412be0805" alt="" />
+
+---
+
+
+### [张三丰的疯言疯语](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzA3MTUwMzI5Nw==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3MTUwMzI5Nw==)
+
+关于网络安全威胁情报
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_acd2b3b206a6" alt="" />
+
+---
+
+
+### [ZLabs](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzA3MTEwNDE1NA==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3MTEwNDE1NA==)
+
+区块链安全/威胁情报/信息安全
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_339ee98cec1b" alt="" />
 
 ---
 
