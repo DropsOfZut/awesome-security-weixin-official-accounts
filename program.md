@@ -1,7 +1,7 @@
 
 ### [编码安全研究](http://wechat.doonsec.com/admin/wechat_echarts/?biz=Mzg2NDY1MDc2Mg==)
 
-[:chart_with_upwards_trend:【0/34/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NDY1MDc2Mg==)
+[:chart_with_upwards_trend:【0/36/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NDY1MDc2Mg==)
 
 专注于学习网络安全
 
@@ -12,7 +12,7 @@
 
 ### [GoCN](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzA4ODg0NDkzOA==)
 
-[:chart_with_upwards_trend:【21/28/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4ODg0NDkzOA==)
+[:chart_with_upwards_trend:【19/28/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4ODg0NDkzOA==)
 
 最具规模和生命力的 Go 开发者社区
 
@@ -23,7 +23,7 @@
 
 ### [数据库开发](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI3NDA4OTk1OQ==)
 
-[:chart_with_upwards_trend:【0/24/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3NDA4OTk1OQ==)
+[:chart_with_upwards_trend:【0/23/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3NDA4OTk1OQ==)
 
 分享数据库开发、原理和应用，涵盖MySQL、PostgreSQL、MS SQL Sever、Oracle等主流关系数据库的应用和原理，以及MongoDB、Redis、Memcached等NoSQL数据库和缓存技术。
 
@@ -32,9 +32,31 @@
 ---
 
 
+### [美团技术团队](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MjM5NjQ5MTI5OA==)
+
+[:chart_with_upwards_trend:【8/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ5MTI5OA==)
+
+10000+工程师，如何支撑中国领先的生活服务电子商务平台？数亿消费者、数百万商户、2000多个行业、几千亿交易额背后是哪些技术在支撑？这里是美团、大众点评、美团外卖、美团配送、美团优选等技术团队的对外窗口。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_96d37a04e9bf" alt="" />
+
+---
+
+
+### [安全学术圈](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
+
+[:chart_with_upwards_trend:【7/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
+
+分享安全方面的论文写作、会议发表、基金申请方面的资料。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_cbda1fb027bf" alt="" />
+
+---
+
+
 ### [腾讯技术工程](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
 
-[:chart_with_upwards_trend:【2/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
+[:chart_with_upwards_trend:【2/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
 
 腾讯技术官方号。腾讯技术创新、前沿领域发布解读平台。
 
@@ -76,13 +98,13 @@
 ---
 
 
-### [安全乐观主义](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzA5Mzg3NTUwNQ==)
+### [爱奇艺技术产品团队](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI0MjczMjM2NA==)
 
-[:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5Mzg3NTUwNQ==)
+[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0MjczMjM2NA==)
 
-实践分享企业在建设安全开发生命周期各阶段及流程中的优秀实践，内容涉及代码审计、业界对标、系统工程化心得、国外资料分享，搭建应用安全交流平台。
+爱奇艺的技术产品团队
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_d6239d0bb816" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_aa1476c2ce41" alt="" />
 
 ---
 
@@ -149,6 +171,17 @@
 和七夜一起去探索人生的星辰大海，技术人并不只有技术，你要的人生成长与自由在这里
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_20344080d59d" alt="" />
+
+---
+
+
+### [腾讯安全智能](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI2NDUyMjAyOA==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2NDUyMjAyOA==)
+
+该账号主要围绕智能化技术如何帮助企业提升网络安全水平展开，内容涉及机器学习、大数据处理等智能化技术在安全领域的实践经验分享，业界领先的产品和前沿趋势的解读分析等。通过分享、交流，推动安全智能的落地、应用。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_dc9b9a9fb2b2" alt="" />
 
 ---
 

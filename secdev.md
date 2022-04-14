@@ -34,7 +34,7 @@
 
 ### [君哥的体历](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI2MjQ1NTA4MA==)
 
-[:chart_with_upwards_trend:【4/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MjQ1NTA4MA==)
+[:chart_with_upwards_trend:【6/13/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MjQ1NTA4MA==)
 
 闲暇时间，逼迫自己，记录分享体验与经历，不求正确统一，但求真、善、美。
 
@@ -45,7 +45,7 @@
 
 ### [vivo千镜](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI0Njg4NzE3MQ==)
 
-[:chart_with_upwards_trend:【1/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0Njg4NzE3MQ==)
+[:chart_with_upwards_trend:【2/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0Njg4NzE3MQ==)
 
 vivo全新的安全品牌，有人文温度的科技新媒体，致力于让亿万用户享受安全便捷的数字生活。
 
@@ -56,7 +56,7 @@ vivo全新的安全品牌，有人文温度的科技新媒体，致力于让亿�
 
 ### [放之](http://wechat.doonsec.com/admin/wechat_echarts/?biz=Mzg3ODAzNjg5OA==)
 
-[:chart_with_upwards_trend:【2/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3ODAzNjg5OA==)
+[:chart_with_upwards_trend:【2/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3ODAzNjg5OA==)
 
 持续关注企业与信息安全建设，分享精选干货。
 
@@ -67,7 +67,7 @@ vivo全新的安全品牌，有人文温度的科技新媒体，致力于让亿�
 
 ### [薄说安全](http://wechat.doonsec.com/admin/wechat_echarts/?biz=Mzg2NzU3MzkyMg==)
 
-[:chart_with_upwards_trend:【3/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NzU3MzkyMg==)
+[:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NzU3MzkyMg==)
 
 关于功能安全、信息安全、系统工程方法的工作感悟，资讯分享。
 
@@ -83,6 +83,17 @@ vivo全新的安全品牌，有人文温度的科技新媒体，致力于让亿�
 OWASP中国，SecZone互联网安全研究中心官方平台
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_6977ebcf9804" alt="" />
+
+---
+
+
+### [安全乐观主义](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzA5Mzg3NTUwNQ==)
+
+[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5Mzg3NTUwNQ==)
+
+实践分享企业在建设安全开发生命周期各阶段及流程中的优秀实践，内容涉及代码审计、业界对标、系统工程化心得、国外资料分享，搭建应用安全交流平台。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_d6239d0bb816" alt="" />
 
 ---
 
@@ -127,6 +138,17 @@ OWASP中国，SecZone互联网安全研究中心官方平台
 坚信少却更好，坚定元认知传播，坚持安全美学，拿个主题，讲300秒就够了。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_717c729949b7" alt="" />
+
+---
+
+
+### [数世咨询](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
+
+中国数字产业领域中立的第三方调研机构，提供网络安全行业的调查、研究与咨询服务。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_bacd64503774" alt="" />
 
 ---
 
