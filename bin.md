@@ -1,7 +1,7 @@
 
 ### [看雪学苑](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MjM5NTc2MDYxMw==)
 
-[:chart_with_upwards_trend:【26/88/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTc2MDYxMw==)
+[:chart_with_upwards_trend:【29/93/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTc2MDYxMw==)
 
 致力于移动与安全研究的开发者社区，看雪学院(kanxue.com)官方微信公众帐号。
 
@@ -50,6 +50,17 @@
 逆向与漏洞挖掘实验室，致力于软件动静态分析与漏洞挖掘领域新技术、新工具、新思想的交流与分享。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_fcf21e658324" alt="" />
+
+---
+
+
+### [矛和盾的故事](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzU3MDc0MTY1MA==)
+
+[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MDc0MTY1MA==)
+
+移动安全、逆向、漏洞等技术。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_fdf8c8d2d9a8" alt="" />
 
 ---
 
@@ -149,6 +160,17 @@ pWn3d bY BiGSKidd3r&amp;FuzZer&amp;A2pter&amp;pWn3r rULe4Ker4pwn 65535 tim3s.
 专注于网络安全知识分享
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f390850507f7" alt="" />
+
+---
+
+
+### [软件安全与逆向分析](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzU3MTY5MzQxMA==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MTY5MzQxMA==)
+
+分享最前沿的软件安全与逆向分析技术与资讯。包括Windows、macOS、iOS、Android、Linux等平台。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_75f1f3757c88" alt="" />
 
 ---
 

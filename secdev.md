@@ -1,7 +1,7 @@
 
 ### [商密君](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
 
-[:chart_with_upwards_trend:【0/101/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
+[:chart_with_upwards_trend:【0/113/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
 
 商密君是全国密码行业头部公众号，旨在宣传推广《密码法》，普及商用密码知识，解读密码政策，分享商用密码行业的最新动态，为密码产业产学研用做好宣传服务，连接密码全行业精英，推动密码技术在数字经济各行业的应用和创新。
 
@@ -23,7 +23,7 @@
 
 ### [君哥的体历](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI2MjQ1NTA4MA==)
 
-[:chart_with_upwards_trend:【7/13/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MjQ1NTA4MA==)
+[:chart_with_upwards_trend:【8/14/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MjQ1NTA4MA==)
 
 闲暇时间，逼迫自己，记录分享体验与经历，不求正确统一，但求真、善、美。
 
@@ -67,7 +67,7 @@ vivo全新的安全品牌，有人文温度的科技新媒体，致力于让亿�
 
 ### [放之](http://wechat.doonsec.com/admin/wechat_echarts/?biz=Mzg3ODAzNjg5OA==)
 
-[:chart_with_upwards_trend:【1/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3ODAzNjg5OA==)
+[:chart_with_upwards_trend:【1/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3ODAzNjg5OA==)
 
 持续关注企业与信息安全建设，分享精选干货。
 
@@ -98,6 +98,17 @@ OWASP中国，SecZone互联网安全研究中心官方平台
 ---
 
 
+### [Sq1Map](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzU0NDg1MjQ0Nw==)
+
+[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0NDg1MjQ0Nw==)
+
+甲方安全经验分享，你不再是一个人的安全部，我们一起组建组织，一起探讨学习 一起进步前行，个人博客: sq1map.com ，Github: https://github.com/jeansgit 欢迎留言评论提出宝贵意见建议，感谢！
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_daa52e4d85e5" alt="" />
+
+---
+
+
 ### [安全乐观主义](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzA5Mzg3NTUwNQ==)
 
 [:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5Mzg3NTUwNQ==)
@@ -116,17 +127,6 @@ OWASP中国，SecZone互联网安全研究中心官方平台
 全面深入解读安全架构、前沿安全技术、安全报告解读、安全趋势详解。做业内最专业的安全公众号。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_642251d04229" alt="" />
-
----
-
-
-### [Sq1Map](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzU0NDg1MjQ0Nw==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0NDg1MjQ0Nw==)
-
-甲方安全经验分享，你不再是一个人的安全部，我们一起组建组织，一起探讨学习 一起进步前行，个人博客: sq1map.com ，Github: https://github.com/jeansgit 欢迎留言评论提出宝贵意见建议，感谢！
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_daa52e4d85e5" alt="" />
 
 ---
 
@@ -160,6 +160,28 @@ OWASP中国，SecZone互联网安全研究中心官方平台
 中国数字产业领域中立的第三方调研机构，提供网络安全行业的调查、研究与咨询服务。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_bacd64503774" alt="" />
+
+---
+
+
+### [Fintech安全之路](http://wechat.doonsec.com/admin/wechat_echarts/?biz=Mzg3NjI1MzU4Mg==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NjI1MzU4Mg==)
+
+银行业应用安全的建设思考
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_763c23cd3870" alt="" />
+
+---
+
+
+### [网安网事](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzU5ODk0NTIxNg==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5ODk0NTIxNg==)
+
+随心所欲的树洞，网络安全，数据安全的随笔和心得。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_90820932a5f8" alt="" />
 
 ---
 

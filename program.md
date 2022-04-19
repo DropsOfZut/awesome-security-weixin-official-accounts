@@ -1,7 +1,7 @@
 
 ### [编码安全研究](http://wechat.doonsec.com/admin/wechat_echarts/?biz=Mzg2NDY1MDc2Mg==)
 
-[:chart_with_upwards_trend:【0/31/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NDY1MDc2Mg==)
+[:chart_with_upwards_trend:【0/35/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NDY1MDc2Mg==)
 
 专注于学习网络安全
 
@@ -34,7 +34,7 @@
 
 ### [字节跳动技术团队](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
 
-[:chart_with_upwards_trend:【9/16/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
+[:chart_with_upwards_trend:【9/17/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
 
 字节跳动的技术实践分享
 
@@ -56,7 +56,7 @@
 
 ### [安全学术圈](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
 
-[:chart_with_upwards_trend:【6/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
+[:chart_with_upwards_trend:【7/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
 
 分享安全方面的论文写作、会议发表、基金申请方面的资料。
 
@@ -237,6 +237,28 @@
 网络上的黑客带着一副面具，似乎无所不能；网站中bug被黑客利用，由臭虫变身成甲虫。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f524e5a0a1fb" alt="" />
+
+---
+
+
+### [RapidDNS](http://wechat.doonsec.com/admin/wechat_echarts/?biz=Mzg4NDU0ODMxOQ==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NDU0ODMxOQ==)
+
+RapidDNS.io 是一个免费开放的DNS在线查询平台。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_6327c9075859" alt="" />
+
+---
+
+
+### [腾讯代码安全检查Xcheck](http://wechat.doonsec.com/admin/wechat_echarts/?biz=Mzg2ODQ3ODE1NA==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2ODQ3ODE1NA==)
+
+腾讯代码安全检查Xcheck，是一个腾讯公司自研的静态应用安全测试(SAST，Static application security testing)工具，致力于挖掘代码中隐藏的安全风险，提升代码安全质量。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_177b81103e8d" alt="" />
 
 ---
 
