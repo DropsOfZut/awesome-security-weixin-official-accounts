@@ -1,7 +1,7 @@
 
 ### [全球技术地图](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI1OTExNDY1NQ==)
 
-[:chart_with_upwards_trend:【19/49/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1OTExNDY1NQ==)
+[:chart_with_upwards_trend:【20/50/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1OTExNDY1NQ==)
 
 洞见前沿，引领未来。
 
@@ -12,7 +12,7 @@
 
 ### [白帽子](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzAwMDQwNTE5MA==)
 
-[:chart_with_upwards_trend:【0/34/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwMDQwNTE5MA==)
+[:chart_with_upwards_trend:【0/32/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwMDQwNTE5MA==)
 
 每天会发信息安全的事件文章，让大家了解更多信息安全知识和资讯。
 
@@ -23,7 +23,7 @@
 
 ### [嘉诚安全](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzU4NjY4MDAyNQ==)
 
-[:chart_with_upwards_trend:【0/27/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NjY4MDAyNQ==)
+[:chart_with_upwards_trend:【0/26/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NjY4MDAyNQ==)
 
 嘉诚安全，您身边的安全专家
 
@@ -45,7 +45,7 @@
 
 ### [安全孺子牛](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI2MDI0NTM2Nw==)
 
-[:chart_with_upwards_trend:【13/15/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MDI0NTM2Nw==)
+[:chart_with_upwards_trend:【12/14/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MDI0NTM2Nw==)
 
 网络安全学习研究分享
 
@@ -56,7 +56,7 @@
 
 ### [网安寻路人](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzIxODM0NDU4MQ==)
 
-[:chart_with_upwards_trend:【1/15/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxODM0NDU4MQ==)
+[:chart_with_upwards_trend:【1/14/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxODM0NDU4MQ==)
 
 立足本土实践和需求，放眼全球做法和经验，探寻网络空间安全之法道。
 
@@ -67,7 +67,7 @@
 
 ### [朴实无华lake2](http://wechat.doonsec.com/admin/wechat_echarts/?biz=Mzg4NTc0MjAwMg==)
 
-[:chart_with_upwards_trend:【12/14/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NTc0MjAwMg==)
+[:chart_with_upwards_trend:【11/13/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NTc0MjAwMg==)
 
 生活就是这么朴实无华，且枯燥
 
@@ -87,17 +87,6 @@
 ---
 
 
-### [Matrix1024](http://wechat.doonsec.com/admin/wechat_echarts/?biz=Mzg5NzYxMjI5OA==)
-
-[:chart_with_upwards_trend:【1/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5NzYxMjI5OA==)
-
-致力于打造网络安全知识矩阵
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f2ead9d547d0" alt="" />
-
----
-
-
 ### [安全帮Live](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI3NTcwNTQ2Mg==)
 
 [:chart_with_upwards_trend:【0/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3NTcwNTQ2Mg==)
@@ -109,9 +98,20 @@
 ---
 
 
+### [Matrix1024](http://wechat.doonsec.com/admin/wechat_echarts/?biz=Mzg5NzYxMjI5OA==)
+
+[:chart_with_upwards_trend:【1/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5NzYxMjI5OA==)
+
+致力于打造网络安全知识矩阵
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f2ead9d547d0" alt="" />
+
+---
+
+
 ### [边界无限](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzAwNzk0NTkxNw==)
 
-[:chart_with_upwards_trend:【4/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNzk0NTkxNw==)
+[:chart_with_upwards_trend:【5/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNzk0NTkxNw==)
 
 边界无限是国内顶级的攻防团队和云安全领军企业，致力于通过还原真实攻防来帮助用户构建更安全的网络，建设更有价值的防御体系。
 
@@ -122,7 +122,7 @@
 
 ### [关注安全技术](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzA4MDMwMjQ3Mg==)
 
-[:chart_with_upwards_trend:【2/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4MDMwMjQ3Mg==)
+[:chart_with_upwards_trend:【3/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4MDMwMjQ3Mg==)
 
 要什么介绍？
 
@@ -197,17 +197,6 @@
 ---
 
 
-### [NOVASEC](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzUzODU3ODA0MA==)
-
-[:chart_with_upwards_trend:【1/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODU3ODA0MA==)
-
-NOVA SEC  新星安全 萌新启蒙之路 愿大家都能成为最闪耀的星。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_42598d7147f6" alt="" />
-
----
-
-
 ### [轩公子谈技术](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzU3MDg2NDI4OA==)
 
 [:chart_with_upwards_trend:【1/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MDg2NDI4OA==)
@@ -215,6 +204,17 @@ NOVA SEC  新星安全 萌新启蒙之路 愿大家都能成为最闪耀的星�
 安全笔记分享 擅长内网渗透
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_3d9d595aac34" alt="" />
+
+---
+
+
+### [NOVASEC](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzUzODU3ODA0MA==)
+
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODU3ODA0MA==)
+
+NOVA SEC  新星安全 萌新启蒙之路 愿大家都能成为最闪耀的星。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_42598d7147f6" alt="" />
 
 ---
 
