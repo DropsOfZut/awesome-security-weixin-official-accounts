@@ -109,6 +109,17 @@ OPPO安全应急响应中心(OSRC)官方公众号。
 ---
 
 
+### [绿盟科技CERT](http://wechat.doonsec.com/admin/wechat_echarts/?biz=Mzk0MjE3ODkxNg==)
+
+[:chart_with_upwards_trend:【4/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0MjE3ODkxNg==)
+
+绿盟科技CERT针对高危漏洞与安全事件进行快速响应，提供可落地的解决方案，协助用户提升应对威胁的能力。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ab56f0f84265" alt="" />
+
+---
+
+
 ### [小米安全中心](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI2NzI2OTExNA==)
 
 [:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2NzI2OTExNA==)

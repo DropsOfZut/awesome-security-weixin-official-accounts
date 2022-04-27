@@ -1,7 +1,7 @@
 
 ### [FreeBuf](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MjM5NjA0NjgyMA==)
 
-[:chart_with_upwards_trend:【82/116/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjA0NjgyMA==)
+[:chart_with_upwards_trend:【80/112/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjA0NjgyMA==)
 
 国内网络安全行业门户
 
@@ -23,22 +23,11 @@
 
 ### [黑白之道](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzAxMjE3ODU3MQ==)
 
-[:chart_with_upwards_trend:【0/87/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxMjE3ODU3MQ==)
+[:chart_with_upwards_trend:【0/84/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxMjE3ODU3MQ==)
 
 我们是网络世界的启明星，安全之路的垫脚石。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_886b94872294" alt="" />
-
----
-
-
-### [嘶吼专业版](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI0MDY1MDU4MQ==)
-
-[:chart_with_upwards_trend:【4/81/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0MDY1MDU4MQ==)
-
-为您带来每日最新最专业的互联网安全专业信息。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_523f772a62a6" alt="" />
 
 ---
 
@@ -50,6 +39,17 @@
 专注网络安全：网罗圈内热点事件，细说安全风云变幻！
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_834eaaa98a10" alt="" />
+
+---
+
+
+### [嘶吼专业版](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI0MDY1MDU4MQ==)
+
+[:chart_with_upwards_trend:【4/79/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0MDY1MDU4MQ==)
+
+为您带来每日最新最专业的互联网安全专业信息。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_523f772a62a6" alt="" />
 
 ---
 
@@ -67,7 +67,7 @@
 
 ### [安全牛](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MjM5Njc3NjM4MA==)
 
-[:chart_with_upwards_trend:【10/59/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Njc3NjM4MA==)
+[:chart_with_upwards_trend:【9/58/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Njc3NjM4MA==)
 
 发现、挖掘与推荐、传播优秀的安全技术、产品，提升安全领域在全行业的价值，了解机构与企业的安全需求，一家真正懂安全的专业咨询机构，我们是安全牛！
 
@@ -131,9 +131,20 @@ E安全 | 全球网络安全资讯新传媒    新版门户站点：http://www.e
 ---
 
 
+### [郑州赛欧思科技有限公司](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzU0MjE2Mjk3Ng==)
+
+[:chart_with_upwards_trend:【0/26/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0MjE2Mjk3Ng==)
+
+网络安全态势感知与预警通报；互联网安全红、黑榜；互联网安全资产的分析与研究；互联网安全边界分析与风险扩散分析技术的倡导者。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_04596d590471" alt="" />
+
+---
+
+
 ### [白帽子社区](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzUyMTAyODYwNg==)
 
-[:chart_with_upwards_trend:【1/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyMTAyODYwNg==)
+[:chart_with_upwards_trend:【1/19/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyMTAyODYwNg==)
 
 一个长期专注信息安全技术领域的公众号。
 

@@ -1,7 +1,7 @@
 
 ### [情报分析师](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzA3Mjc1MTkwOA==)
 
-[:chart_with_upwards_trend:【81/87/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3Mjc1MTkwOA==)
+[:chart_with_upwards_trend:【77/83/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3Mjc1MTkwOA==)
 
 POLICE教授学术团队：聚焦情报与安全。关注情报行业动态，开展情报培训，促进情报协作，传播情报文化。
 
@@ -12,7 +12,7 @@ POLICE教授学术团队：聚焦情报与安全。关注情报行业动态，�
 
 ### [丁爸情报分析师的工具箱](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI2MTE0NTE3Mw==)
 
-[:chart_with_upwards_trend:【23/39/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MTE0NTE3Mw==)
+[:chart_with_upwards_trend:【22/38/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MTE0NTE3Mw==)
 
 每天为大家精选各类情报分析相关的资源、工具、技巧和资讯，努力成为情报分析师必备的工具箱。外挂机器人“小丁丁”还能陪您聊天，给您查航班、查列车、查天气、查酒店、查美食、查股票、回答您的提问等等。
 
@@ -45,7 +45,7 @@ POLICE教授学术团队：聚焦情报与安全。关注情报行业动态，�
 
 ### [QZ的安全悟道](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI1MDA1MjcxMw==)
 
-[:chart_with_upwards_trend:【4/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MDA1MjcxMw==)
+[:chart_with_upwards_trend:【4/19/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MDA1MjcxMw==)
 
 记录和分享一些个人的安全心得
 
@@ -56,7 +56,7 @@ POLICE教授学术团队：聚焦情报与安全。关注情报行业动态，�
 
 ### [且听安全](http://wechat.doonsec.com/admin/wechat_echarts/?biz=Mzg3MTU0MjkwNw==)
 
-[:chart_with_upwards_trend:【12/15/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MTU0MjkwNw==)
+[:chart_with_upwards_trend:【11/14/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MTU0MjkwNw==)
 
 聪者听于无形，明者见于未形；专注网络安全，关注漏洞态势；拒绝重复搬运，只做精品原创。
 
@@ -78,7 +78,7 @@ ThreatBook微步在线，中国新一代网络安全代表企业，网络威胁�
 
 ### [微步在线研究响应中心](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzA5MDc1NDc1MQ==)
 
-[:chart_with_upwards_trend:【7/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5MDc1NDc1MQ==)
+[:chart_with_upwards_trend:【6/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5MDc1NDc1MQ==)
 
 神秘，低调，手里全是情报。中国网络安全圈不可缺少的力量。
 
@@ -116,6 +116,17 @@ ThreatBook微步在线，中国新一代网络安全代表企业，网络威胁�
 当威胁照进棱镜，谁来狩猎光谱中的攻击？
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f4c3fb66d66d" alt="" />
+
+---
+
+
+### [邱贞玮](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzIxOTI4NjI2Mw==)
+
+[:chart_with_upwards_trend:【6/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxOTI4NjI2Mw==)
+
+复杂性与军事科普
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_fd0e93ac1b35" alt="" />
 
 ---
 

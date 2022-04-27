@@ -1,7 +1,7 @@
 
 ### [全球技术地图](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI1OTExNDY1NQ==)
 
-[:chart_with_upwards_trend:【19/45/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1OTExNDY1NQ==)
+[:chart_with_upwards_trend:【19/44/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1OTExNDY1NQ==)
 
 洞见前沿，引领未来。
 
@@ -21,17 +21,6 @@
 ---
 
 
-### [白帽子](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzAwMDQwNTE5MA==)
-
-[:chart_with_upwards_trend:【0/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwMDQwNTE5MA==)
-
-每天会发信息安全的事件文章，让大家了解更多信息安全知识和资讯。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_b902de9201a8" alt="" />
-
----
-
-
 ### [嘉诚安全](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzU4NjY4MDAyNQ==)
 
 [:chart_with_upwards_trend:【0/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NjY4MDAyNQ==)
@@ -43,9 +32,20 @@
 ---
 
 
+### [白帽子](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzAwMDQwNTE5MA==)
+
+[:chart_with_upwards_trend:【0/18/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwMDQwNTE5MA==)
+
+每天会发信息安全的事件文章，让大家了解更多信息安全知识和资讯。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_b902de9201a8" alt="" />
+
+---
+
+
 ### [网安寻路人](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzIxODM0NDU4MQ==)
 
-[:chart_with_upwards_trend:【1/17/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxODM0NDU4MQ==)
+[:chart_with_upwards_trend:【1/16/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxODM0NDU4MQ==)
 
 立足本土实践和需求，放眼全球做法和经验，探寻网络空间安全之法道。
 
@@ -67,7 +67,7 @@
 
 ### [安全孺子牛](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI2MDI0NTM2Nw==)
 
-[:chart_with_upwards_trend:【13/13/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MDI0NTM2Nw==)
+[:chart_with_upwards_trend:【12/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MDI0NTM2Nw==)
 
 网络安全学习研究分享
 
@@ -78,7 +78,7 @@
 
 ### [关注安全技术](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzA4MDMwMjQ3Mg==)
 
-[:chart_with_upwards_trend:【8/13/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4MDMwMjQ3Mg==)
+[:chart_with_upwards_trend:【8/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4MDMwMjQ3Mg==)
 
 大自然的搬运工；知识库：https://www.heresecurity.wiki
 
@@ -94,17 +94,6 @@
 提供网络安全人才培养体系，提供网络攻防交流，提供网络安全学习
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a824093cc3ce" alt="" />
-
----
-
-
-### [安全帮Live](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI3NTcwNTQ2Mg==)
-
-[:chart_with_upwards_trend:【0/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3NTcwNTQ2Mg==)
-
-安全帮 帮你学安全
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_499ac9d326f5" alt="" />
 
 ---
 
@@ -127,6 +116,17 @@
 边界无限是国内顶级的攻防团队和云安全领军企业，致力于通过还原真实攻防来帮助用户构建更安全的网络，建设更有价值的防御体系。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_346690001d2c" alt="" />
+
+---
+
+
+### [安全帮Live](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI3NTcwNTQ2Mg==)
+
+[:chart_with_upwards_trend:【0/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3NTcwNTQ2Mg==)
+
+安全帮 帮你学安全
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_499ac9d326f5" alt="" />
 
 ---
 
@@ -186,6 +186,17 @@
 ---
 
 
+### [网络安全交流圈](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI1MDk3NDc5Mg==)
+
+[:chart_with_upwards_trend:【2/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MDk3NDc5Mg==)
+
+审计，渗透，二进制，kali，分享圈子。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_6d11e0d3a78e" alt="" />
+
+---
+
+
 ### [我真不是红队啊](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzUzNjg5ODkxMA==)
 
 [:chart_with_upwards_trend:【1/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNjg5ODkxMA==)
@@ -204,6 +215,28 @@
 安全笔记分享 擅长内网渗透
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_3d9d595aac34" alt="" />
+
+---
+
+
+### [网安国际](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzA4ODYzMjU0NQ==)
+
+[:chart_with_upwards_trend:【1/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4ODYzMjU0NQ==)
+
+网络安全研究国际学术论坛（InForSec），由活跃在安全学术圈的段海新教授、杨珉教授、韦韬博士、万涛博士等共同发起，在网络和系统安全领域建立一座沟通中国和国际、学术和工业、老师和学生的桥梁。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f7029e75bd21" alt="" />
+
+---
+
+
+### [安圈评](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzkwNTI4MTA1MQ==)
+
+[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwNTI4MTA1MQ==)
+
+安全服务
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_c9e26ce99897" alt="" />
 
 ---
 
