@@ -1,7 +1,7 @@
 
 ### [山警网络空间安全实验室](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MjM5Njc1OTYyNA==)
 
-[:chart_with_upwards_trend:【7/16/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Njc1OTYyNA==)
+[:chart_with_upwards_trend:【7/17/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Njc1OTYyNA==)
 
 山警网络空间安全实验室（简称：网安社）
 
@@ -182,6 +182,17 @@
 南宁职业技术学院网络安全技术协会
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ce0885e25658" alt="" />
+
+---
+
+
+### [山警CyberSec交流小组](http://wechat.doonsec.com/admin/wechat_echarts/?biz=Mzg5MTY3ODA0OA==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MTY3ODA0OA==)
+
+山东警察学院在校生团队，不定期更新网络安全相关内容，与各位师傅相互学习，相互进步。更多丰富内容请关注公众号：山警网络空间安全实验室。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0ee4069dd7cc" alt="" />
 
 ---
 
