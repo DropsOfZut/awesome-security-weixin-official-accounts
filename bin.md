@@ -1,7 +1,7 @@
 
 ### [汇编语言](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzIxNDcwOTcwOQ==)
 
-[:chart_with_upwards_trend:【0/128/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxNDcwOTcwOQ==)
+[:chart_with_upwards_trend:【0/127/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxNDcwOTcwOQ==)
 
 致力于汇编教程和逆向破解之路
 
@@ -12,7 +12,7 @@
 
 ### [看雪学苑](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MjM5NTc2MDYxMw==)
 
-[:chart_with_upwards_trend:【25/95/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTc2MDYxMw==)
+[:chart_with_upwards_trend:【28/97/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTc2MDYxMw==)
 
 致力于移动与安全研究的开发者社区，看雪学院(kanxue.com)官方微信公众帐号。
 
@@ -36,20 +36,9 @@
 
 [:chart_with_upwards_trend:【1/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzNDE3NjI0MQ==)
 
-随便逆逆。
+随便逆逆，随便挖挖。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_c08b6fb82c4b" alt="" />
-
----
-
-
-### [米瑞尔信息安全](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI2Mjc5NjQ0OA==)
-
-[:chart_with_upwards_trend:【1/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2Mjc5NjQ0OA==)
-
-主打研究方向Ai人工智能、物联网安全、Web安全、APP安全、逆向工程、二进制、电子取证、信息安全
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_c6ea851cd149" alt="" />
 
 ---
 
@@ -61,6 +50,17 @@
 逆向与漏洞挖掘实验室，致力于软件动静态分析与漏洞挖掘领域新技术、新工具、新思想的交流与分享。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_fcf21e658324" alt="" />
+
+---
+
+
+### [米瑞尔信息安全](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI2Mjc5NjQ0OA==)
+
+[:chart_with_upwards_trend:【1/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2Mjc5NjQ0OA==)
+
+主打研究方向Ai人工智能、物联网安全、Web安全、APP安全、逆向工程、二进制、电子取证、信息安全
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_c6ea851cd149" alt="" />
 
 ---
 
