@@ -1,7 +1,7 @@
 
 ### [情报分析师](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzA3Mjc1MTkwOA==)
 
-[:chart_with_upwards_trend:【76/85/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3Mjc1MTkwOA==)
+[:chart_with_upwards_trend:【80/87/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3Mjc1MTkwOA==)
 
 POLICE教授学术团队：聚焦情报与安全。关注情报行业动态，开展情报培训，促进情报协作，传播情报文化。
 
@@ -12,7 +12,7 @@ POLICE教授学术团队：聚焦情报与安全。关注情报行业动态，�
 
 ### [丁爸情报分析师的工具箱](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI2MTE0NTE3Mw==)
 
-[:chart_with_upwards_trend:【22/38/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MTE0NTE3Mw==)
+[:chart_with_upwards_trend:【24/40/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MTE0NTE3Mw==)
 
 每天为大家精选各类情报分析相关的资源、工具、技巧和资讯，努力成为情报分析师必备的工具箱。外挂机器人“小丁丁”还能陪您聊天，给您查航班、查列车、查天气、查酒店、查美食、查股票、回答您的提问等等。
 
@@ -45,7 +45,7 @@ POLICE教授学术团队：聚焦情报与安全。关注情报行业动态，�
 
 ### [QZ的安全悟道](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI1MDA1MjcxMw==)
 
-[:chart_with_upwards_trend:【4/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MDA1MjcxMw==)
+[:chart_with_upwards_trend:【4/19/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MDA1MjcxMw==)
 
 记录和分享一些个人的安全心得
 
@@ -186,17 +186,6 @@ Seebug，原 Sebug 漏洞平台，洞悉漏洞，让你掌握第一手漏洞情�
 ---
 
 
-### [安恒威胁情报中心](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI1MDU5NjYwNg==)
-
-[:chart_with_upwards_trend:【1/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MDU5NjYwNg==)
-
-安恒威胁情报中心专注于威胁情报的收集、处理、分析、应用，定期提供高质量的威胁情报。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e0f7c5e21306" alt="" />
-
----
-
-
 ### [信息时代的犯罪侦查](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzAxNTA4NDAwOQ==)
 
 [:chart_with_upwards_trend:【1/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxNTA4NDAwOQ==)
@@ -215,6 +204,17 @@ Seebug，原 Sebug 漏洞平台，洞悉漏洞，让你掌握第一手漏洞情�
 一介草民，深耕威胁情报领域多年，自封威胁分析师，APT狩猎者，战略忽悠分析师。 专注推送一切前沿高科技战争分析，敌我战略分析，“数据”挖掘，情报拓展，网络武器分析，社会工程学，军事分析忽悠等。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_68f37a80b8cb" alt="" />
+
+---
+
+
+### [安恒威胁情报中心](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI1MDU5NjYwNg==)
+
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MDU5NjYwNg==)
+
+安恒威胁情报中心专注于威胁情报的收集、处理、分析、应用，定期提供高质量的威胁情报。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e0f7c5e21306" alt="" />
 
 ---
 
