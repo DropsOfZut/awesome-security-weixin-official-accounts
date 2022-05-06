@@ -1,7 +1,7 @@
 
 ### [商密君](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
 
-[:chart_with_upwards_trend:【0/107/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
+[:chart_with_upwards_trend:【0/112/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
 
 商密君是全国密码行业头部公众号，旨在宣传推广《密码法》，普及商用密码知识，解读密码政策，分享商用密码行业的最新动态，为密码产业产学研用做好宣传服务，连接密码全行业精英，推动密码技术在数字经济各行业的应用和创新。
 
@@ -12,7 +12,7 @@
 
 ### [数世咨询](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
 
-[:chart_with_upwards_trend:【30/61/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
+[:chart_with_upwards_trend:【28/59/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
 
 中国数字产业领域中立的第三方调研机构，提供网络安全行业的调查、研究与咨询服务。
 
@@ -45,7 +45,7 @@
 
 ### [i安全梦](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzAxODY0NTYwMw==)
 
-[:chart_with_upwards_trend:【2/18/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxODY0NTYwMw==)
+[:chart_with_upwards_trend:【2/17/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxODY0NTYwMw==)
 
 共同探讨企业网信实践经验，解决企业网信建设最后一公里。
 
@@ -67,7 +67,7 @@ vivo全新的安全品牌，有人文温度的科技新媒体，致力于让亿�
 
 ### [君哥的体历](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI2MjQ1NTA4MA==)
 
-[:chart_with_upwards_trend:【8/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MjQ1NTA4MA==)
+[:chart_with_upwards_trend:【9/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MjQ1NTA4MA==)
 
 闲暇时间，逼迫自己，记录分享体验与经历，不求正确统一，但求真、善、美。
 
