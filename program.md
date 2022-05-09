@@ -1,7 +1,7 @@
 
 ### [编码安全研究](http://wechat.doonsec.com/admin/wechat_echarts/?biz=Mzg2NDY1MDc2Mg==)
 
-[:chart_with_upwards_trend:【0/36/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NDY1MDc2Mg==)
+[:chart_with_upwards_trend:【0/34/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NDY1MDc2Mg==)
 
 专注于学习网络安全
 
@@ -12,7 +12,7 @@
 
 ### [字节跳动技术团队](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
 
-[:chart_with_upwards_trend:【14/22/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
+[:chart_with_upwards_trend:【14/21/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
 
 字节跳动的技术实践分享
 
@@ -23,7 +23,7 @@
 
 ### [GoCN](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzA4ODg0NDkzOA==)
 
-[:chart_with_upwards_trend:【12/19/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4ODg0NDkzOA==)
+[:chart_with_upwards_trend:【11/18/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4ODg0NDkzOA==)
 
 最具规模和生命力的 Go 开发者社区
 
@@ -87,17 +87,6 @@ Yak Language Project: &lt;del&gt;北半球&lt;/del&gt;最强安全研发语言 /
 ---
 
 
-### [小生观察室](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzIxODQ1OTg5NQ==)
-
-[:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxODQ1OTg5NQ==)
-
-本观察室仅个人做内容存档使用！
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_29a59093e5db" alt="" />
-
----
-
-
 ### [灾难控制局](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI1NTc1NTcwNg==)
 
 [:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1NTc1NTcwNg==)
@@ -109,6 +98,17 @@ Yak Language Project: &lt;del&gt;北半球&lt;/del&gt;最强安全研发语言 /
 ---
 
 
+### [小生观察室](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzIxODQ1OTg5NQ==)
+
+[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxODQ1OTg5NQ==)
+
+本观察室仅个人做内容存档使用！
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_29a59093e5db" alt="" />
+
+---
+
+
 ### [全闲话](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzUzMTkxMjMwNg==)
 
 [:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzMTkxMjMwNg==)
@@ -116,17 +116,6 @@ Yak Language Project: &lt;del&gt;北半球&lt;/del&gt;最强安全研发语言 /
 这里只有闲话和大闲话，据科学家团队开发的人工智障严重分析得出结论：此号会聚焦安全和运营领域并且一本正经那是不可能的！请谨慎关注~
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0b7d3b5806ab" alt="" />
-
----
-
-
-### [数据库开发](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI3NDA4OTk1OQ==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3NDA4OTk1OQ==)
-
-分享数据库开发、原理和应用，涵盖MySQL、PostgreSQL、MS SQL Sever、Oracle等主流关系数据库的应用和原理，以及MongoDB、Redis、Memcached等NoSQL数据库和缓存技术。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_7aa87fe670ff" alt="" />
 
 ---
 
@@ -149,6 +138,17 @@ Yak Language Project: &lt;del&gt;北半球&lt;/del&gt;最强安全研发语言 /
 分享技术文章和编程经验，内容多为网络爬虫、机器学习、Web 开发等方向。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_5b0546ddd2d0" alt="" />
+
+---
+
+
+### [数据库开发](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI3NDA4OTk1OQ==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3NDA4OTk1OQ==)
+
+分享数据库开发、原理和应用，涵盖MySQL、PostgreSQL、MS SQL Sever、Oracle等主流关系数据库的应用和原理，以及MongoDB、Redis、Memcached等NoSQL数据库和缓存技术。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_7aa87fe670ff" alt="" />
 
 ---
 
