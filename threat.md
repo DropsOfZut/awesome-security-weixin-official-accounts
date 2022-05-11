@@ -1,7 +1,7 @@
 
 ### [情报分析师](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzA3Mjc1MTkwOA==)
 
-[:chart_with_upwards_trend:【80/85/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3Mjc1MTkwOA==)
+[:chart_with_upwards_trend:【77/81/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3Mjc1MTkwOA==)
 
 POLICE教授团队：聚焦情报安全与警务。关注行业动态，开展业务培训，促进情报协作，传播情报文化。
 
@@ -10,20 +10,9 @@ POLICE教授团队：聚焦情报安全与警务。关注行业动态，开展�
 ---
 
 
-### [丁爸情报分析师的工具箱](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI2MTE0NTE3Mw==)
-
-[:chart_with_upwards_trend:【29/41/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MTE0NTE3Mw==)
-
-每天为大家精选各类情报分析相关的资源、工具、技巧和资讯，努力成为情报分析师必备的工具箱。外挂机器人“小丁丁”还能陪您聊天，给您查航班、查列车、查天气、查酒店、查美食、查股票、回答您的提问等等。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_5331cb469b82" alt="" />
-
----
-
-
 ### [360漏洞云](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI4NTUzNTc0MQ==)
 
-[:chart_with_upwards_trend:【34/38/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI4NTUzNTc0MQ==)
+[:chart_with_upwards_trend:【35/39/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI4NTUzNTc0MQ==)
 
 360安全大脑漏洞云是以技术为驱动，以安全专家为核心，围绕漏洞生态体系打造集漏洞情报、漏洞挖掘、专家响应、安全服务定制化于一体的漏洞生态安全服务平台，期待与您携手共建。
 
@@ -32,9 +21,20 @@ POLICE教授团队：聚焦情报安全与警务。关注行业动态，开展�
 ---
 
 
+### [丁爸情报分析师的工具箱](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI2MTE0NTE3Mw==)
+
+[:chart_with_upwards_trend:【28/39/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MTE0NTE3Mw==)
+
+每天为大家精选各类情报分析相关的资源、工具、技巧和资讯，努力成为情报分析师必备的工具箱。外挂机器人“小丁丁”还能陪您聊天，给您查航班、查列车、查天气、查酒店、查美食、查股票、回答您的提问等等。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_5331cb469b82" alt="" />
+
+---
+
+
 ### [夜组安全](http://wechat.doonsec.com/admin/wechat_echarts/?biz=Mzk0ODM0NDIxNQ==)
 
-[:chart_with_upwards_trend:【19/32/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0ODM0NDIxNQ==)
+[:chart_with_upwards_trend:【19/30/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0ODM0NDIxNQ==)
 
 &quot;恐惧就是貌似真实的伪证&quot; NightCrawler Team(简称:夜组)主攻WEB安全 | 内网渗透 | 红蓝对抗 | 代码审计 | APT攻击，致力于将每一位藏在暗处的白帽子聚集在一起，在夜空中划出一道绚丽的光线！
 
@@ -45,7 +45,7 @@ POLICE教授团队：聚焦情报安全与警务。关注行业动态，开展�
 
 ### [QZ的安全悟道](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI1MDA1MjcxMw==)
 
-[:chart_with_upwards_trend:【4/19/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MDA1MjcxMw==)
+[:chart_with_upwards_trend:【5/21/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MDA1MjcxMw==)
 
 记录和分享一些个人的安全心得
 
