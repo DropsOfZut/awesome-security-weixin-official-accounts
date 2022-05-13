@@ -12,7 +12,7 @@
 
 ### [XCTF联赛](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MjM5NDU3MjExNw==)
 
-[:chart_with_upwards_trend:【1/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
+[:chart_with_upwards_trend:【1/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
 
 国内最早、亚洲最大的网络攻防联赛。
 

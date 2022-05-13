@@ -1,7 +1,7 @@
 
 ### [编码安全研究](http://wechat.doonsec.com/admin/wechat_echarts/?biz=Mzg2NDY1MDc2Mg==)
 
-[:chart_with_upwards_trend:【0/32/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NDY1MDc2Mg==)
+[:chart_with_upwards_trend:【0/31/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NDY1MDc2Mg==)
 
 专注于学习网络安全
 
@@ -34,22 +34,11 @@
 
 ### [哔哩哔哩技术](http://wechat.doonsec.com/admin/wechat_echarts/?biz=Mzg3Njc0NTgwMg==)
 
-[:chart_with_upwards_trend:【10/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3Njc0NTgwMg==)
+[:chart_with_upwards_trend:【9/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3Njc0NTgwMg==)
 
 提供B站相关技术的介绍和讲解
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_6a92a838f9e0" alt="" />
-
----
-
-
-### [安全学术圈](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
-
-[:chart_with_upwards_trend:【9/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
-
-分享安全方面的论文写作、会议发表、基金申请方面的资料。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_cbda1fb027bf" alt="" />
 
 ---
 
@@ -67,7 +56,7 @@
 
 ### [腾讯技术工程](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
 
-[:chart_with_upwards_trend:【5/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
+[:chart_with_upwards_trend:【6/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
 
 腾讯技术官方号。腾讯技术创新、前沿领域发布解读平台。
 
@@ -76,9 +65,20 @@
 ---
 
 
+### [安全学术圈](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
+
+[:chart_with_upwards_trend:【8/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
+
+分享安全方面的论文写作、会议发表、基金申请方面的资料。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_cbda1fb027bf" alt="" />
+
+---
+
+
 ### [YakProject](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzAxOTAzOTU3Mw==)
 
-[:chart_with_upwards_trend:【4/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxOTAzOTU3Mw==)
+[:chart_with_upwards_trend:【5/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxOTAzOTU3Mw==)
 
 Yak Language Project: &lt;del&gt;北半球&lt;/del&gt;最强安全研发语言 / 黑客语言
 
@@ -94,17 +94,6 @@ Yak Language Project: &lt;del&gt;北半球&lt;/del&gt;最强安全研发语言 /
 这里是灾难控制局,紧急紧急联系电话:127.0.0.1
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_2c6f783d354d" alt="" />
-
----
-
-
-### [小生观察室](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzIxODQ1OTg5NQ==)
-
-[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxODQ1OTg5NQ==)
-
-本观察室仅个人做内容存档使用！
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_29a59093e5db" alt="" />
 
 ---
 
@@ -226,6 +215,17 @@ Yak Language Project: &lt;del&gt;北半球&lt;/del&gt;最强安全研发语言 /
 新一代网络安全测试工具，由赵武Zwell（Pangolin、FOFA作者）打造，能够针对一个目标企业梳理最全的攻击面信息，同时能进行高效、实战化漏洞扫描，并快速的从一个验证入口点，切换到横向。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_7f7c15f37480" alt="" />
+
+---
+
+
+### [小生观察室](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzIxODQ1OTg5NQ==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxODQ1OTg5NQ==)
+
+本观察室仅个人做内容存档使用！
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_29a59093e5db" alt="" />
 
 ---
 
