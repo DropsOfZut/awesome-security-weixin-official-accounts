@@ -3,9 +3,12 @@
 网络安全类公众号推荐，点击分类详情可快速查看微信公众号二维码
 
 本项目共分为16大类，收集公众号832个。
+
 收集优质文章在[微信聚合平台](http://wechat.doonsec.com)展示。
 
-【1/2/30】=【原创数量/发文数量/统计周期最近n天】
+:chart_with_upwards_trend:【1/2/30】=【原创数量/发文数量/统计周期最近n天】
+
+:camera_flash:【2015.01.01 00:00:00】(http://wechat.doonsec.com) = 最近一次发文时间
 
 - [目录分类]()
 	- [威胁情报类](#威胁情报类)
@@ -121,7 +124,7 @@
 ## [安全建设类](/secdev.md)
 
 *企业建设、法律法规、安全解读与见解、风险控制*
-* [商密君](/secdev.md#商密君) : 商密君是全国密码行业头部公众号，旨在宣传推广《密码法》，普及商用密码知识，解读密码政策，分享商用密码行业的最新动态，为密码产业产学研用做好宣传服务，连接密码全行业精英，推动密码技术在数字经济各行业的应用和创新。  [:chart_with_upwards_trend:【0/107/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
+* [商密君](/secdev.md#商密君) : 商密君是全国密码行业头部公众号，旨在宣传推广《密码法》，普及商用密码知识，解读密码政策，分享商用密码行业的最新动态，为密码产业产学研用做好宣传服务，连接密码全行业精英，推动密码技术在数字经济各行业的应用和创新。  [:chart_with_upwards_trend:【0/115/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
 * [全栈网络空间安全](/secdev.md#全栈网络空间安全) : 网络安全事件预警体系、事件检测、应急处置、追踪溯源、安全运营、红蓝对抗、HW行动、AWD竞赛，以及站在审计师的角度评估信息系统建设的有效性、完备性、安全性等。 欢迎有想法、乐于分享的具备互联网分享精神的安全人交流学习。  [:chart_with_upwards_trend:【0/71/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
 * [数世咨询](/secdev.md#数世咨询) : 中国数字产业领域中立的第三方调研机构，提供网络安全行业的调查、研究与咨询服务。  [:chart_with_upwards_trend:【21/60/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
 * [深圳市网络与信息安全行业协会](/secdev.md#深圳市网络与信息安全行业协会) : 深圳市网络与信息安全行业协会（SNISA），是深圳市网络与信息安全行业的权威组织，是中国网络安全审查技术与认证中心（CCRC）在深圳唯一授权工作站，是经深圳市人力资源和社会保障局核准，开展网络空间安全工程技术专业职称评审工作的社会组织。  [:chart_with_upwards_trend:【2/23/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
@@ -483,7 +486,7 @@
 * [Hollis](/person.md#Hollis) : Hollis，一个对Coding有着独特追求的人。《Java工程师成神之路》系列作者、《程序员的三门课》联合作者，本公众号专注分享Java相关技术干货！  [:chart_with_upwards_trend:【0/28/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3NzE0NjcwMg==)
 * [HACK之道](/person.md#HACK之道) : HACK之道，专注于红队攻防、实战技巧、CTF比赛、安全开发、安全运维、安全架构等精华技术文章及渗透教程、安全工具的分享。  [:chart_with_upwards_trend:【0/27/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzIyMjYzNA==)
 * [EchoSec](/person.md#EchoSec) : 萌新专注于网络安全行业学习  [:chart_with_upwards_trend:【1/25/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MTU3NTY2NA==)
-* [猪猪谈安全](/person.md#猪猪谈安全) : 致力于让小白也能学懂信息安全，分享一些自己信息安全方面的学习经验，让正在学习信息安全的人少走弯路！不定时推送一些学习路上会使用的工具和一些优质的学习资源。  [:chart_with_upwards_trend:【2/21/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyMDAwMjkzNg==)
+* [猪猪谈安全](/person.md#猪猪谈安全) : 致力于让小白也能学懂信息安全，分享一些自己信息安全方面的学习经验，让正在学习信息安全的人少走弯路！不定时推送一些学习路上会使用的工具和一些优质的学习资源。  [:chart_with_upwards_trend:【2/22/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyMDAwMjkzNg==)
 * [银河护卫队super](/person.md#银河护卫队super) : 银河护卫队super，是一个致力于红队攻防实战、内网渗透、代码审计、安卓逆向、安全运维等技术干货分享的队伍，定期分享常用渗透工具、复现教程等资源。 欢迎有想法、乐于分享的具备互联网分享精神的安全人士进行交流学习。  [:chart_with_upwards_trend:【4/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwNzI0MTQzOA==)
 * [潇湘信安](/person.md#潇湘信安) : 一个不会编程、挖SRC、代码审计的安全爱好者，主要分享一些安全经验、渗透思路、奇淫技巧与知识总结。  [:chart_with_upwards_trend:【4/19/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NTUwMzM1Ng==)
 * [青衣十三楼飞花堂](/person.md#青衣十三楼飞花堂) : C/ASM程序员之闲言碎语  [:chart_with_upwards_trend:【16/18/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzMjQyMDE3Ng==)
@@ -501,9 +504,9 @@
 * [网安之道](/person.md#网安之道) : 传播网络安全与技术，分享典型网络安全知识和案例。未知攻，焉知防。攻防兼顾，方知安全。  [:chart_with_upwards_trend:【0/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxMDI2ODM1OA==)
 * [格格巫和蓝精灵](/person.md#格格巫和蓝精灵) : 不定期更新一些安全资讯及安全相关文章，目前多来源于转载，欢迎关注、点赞、转发、私信投稿：D  [:chart_with_upwards_trend:【4/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NDg0ODkwMQ==)
 * [安全族](/person.md#安全族) : 长期分享安全技术文章，跟进最新安全研究，记录安全之路  [:chart_with_upwards_trend:【3/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NjU0MjA0Ng==)
+* [微言晓意](/person.md#微言晓意) : 力求微言，但愿晓意。  [:chart_with_upwards_trend:【8/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5MTEyMDUzMw==)
 * [红豆芷浠](/person.md#红豆芷浠) : 分享交流网络安全等方面的知识  [:chart_with_upwards_trend:【8/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4NDk0ODYzMw==)
 * [网络安全abc123](/person.md#网络安全abc123) : ABC_123，2008年入行网络安全，某攻防实验室创始人，Struts2工具及Weblogic T3/IIOP反序列化工具原创作者。擅长红队攻防、0day挖掘、代码审计、网络安全培训、应急响应、日志分析等。专注于前沿网络安全技术。  [:chart_with_upwards_trend:【8/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzMjI1NjI3Ng==)
-* [微言晓意](/person.md#微言晓意) : 力求微言，但愿晓意。  [:chart_with_upwards_trend:【7/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5MTEyMDUzMw==)
 * [漏洞挖掘之路](/person.md#漏洞挖掘之路) : 记录一些网络安全方面的知识  [:chart_with_upwards_trend:【7/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5ODgwMjk3Mw==)
 * [骨哥说事](/person.md#骨哥说事) : 关注信息安全趋势，发布国内外网络安全事件，不定期发布对热点事件的个人见解。  [:chart_with_upwards_trend:【5/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Mzc4MzUzMQ==)
 * [PeiQi文库](/person.md#PeiQi文库) : 乌拉乌拉！  [:chart_with_upwards_trend:【2/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NDU2MTg0Ng==)
@@ -755,7 +758,7 @@
 *运维、操作系统、加固*
 * [Linux中国](/operation.md#Linux中国) : [Linux中国](https://linux.cn/)开源社区官方公众号。专注于开源技术研究、开源思想传播。  [:chart_with_upwards_trend:【112/118/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ4MjYwMQ==)
 * [系统安全运维](/operation.md#系统安全运维) : 未知攻 焉知防 攻防兼备  [:chart_with_upwards_trend:【0/59/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NjE0NDc5OQ==)
-* [程序员大目](/operation.md#程序员大目) : IT牧场公众号，BAT 技术专家分享开发、架构、运维相关干货！  [:chart_with_upwards_trend:【0/26/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI4ODQ3NjE2OA==)
+* [程序员大目](/operation.md#程序员大目) : IT牧场公众号，BAT 技术专家分享开发、架构、运维相关干货！  [:chart_with_upwards_trend:【0/27/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI4ODQ3NjE2OA==)
 * [Docker中文社区](/operation.md#Docker中文社区) : Docker中文社区旨在为大家提供 Docker、Kubernetes 相关工具及前沿资讯信息，方便大家了解学习 Docker、Kubernetes 相关容器技术。官网：www.dockerchina.cn  [:chart_with_upwards_trend:【0/14/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1NzI5NDM4Mw==)
 * [Linux学习](/operation.md#Linux学习) : 专注分享Linux/Unix相关内容，包括Linux命令、Linux内核、Linux系统开发、Linux运维、网络编程、开发工具等Linux相关知识和技术  [:chart_with_upwards_trend:【0/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI4MDEwNzAzNg==)
 * [云计算和网络安全技术实践](/operation.md#云计算和网络安全技术实践) : 史上最具参考性的云计算和网络安全技术实践博客。  [:chart_with_upwards_trend:【4/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3MjM5MDc2Nw==)
