@@ -1,7 +1,7 @@
 
 ### [汇编语言](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzIxNDcwOTcwOQ==)
 
-[:chart_with_upwards_trend:【0/178/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxNDcwOTcwOQ==)
+[:chart_with_upwards_trend:【0/186/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxNDcwOTcwOQ==)
 
 致力于汇编教程和逆向破解之路
 
@@ -12,7 +12,7 @@
 
 ### [看雪学苑](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MjM5NTc2MDYxMw==)
 
-[:chart_with_upwards_trend:【35/105/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTc2MDYxMw==)
+[:chart_with_upwards_trend:【34/102/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTc2MDYxMw==)
 
 致力于移动与安全研究的开发者社区，看雪学院(kanxue.com)官方微信公众帐号。
 

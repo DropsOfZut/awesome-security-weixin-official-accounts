@@ -43,17 +43,6 @@
 ---
 
 
-### [三叶草小组Syclover](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzIzOTg0NjYzNg==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzOTg0NjYzNg==)
-
-一个专注于网络空间安全的高校技术团队，成立于2005年3月，主要研究方向有渗透测试、逆向工程、移动安全、安全编程、漏洞利用等；公众号定期推送小组成员原创文章
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_962842f4917b" alt="" />
-
----
-
-
 ### [DROPS攻防训练营](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzA3NjE0Mzk2OA==)
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NjE0Mzk2OA==)
@@ -171,6 +160,17 @@
 君子藏器于身，伺时而动，本公众号专注于红蓝对抗，电子取证，溯源分析，CTF竞赛， 安全开发等技术分享
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_1b26e38d0253" alt="" />
+
+---
+
+
+### [三叶草小组Syclover](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzIzOTg0NjYzNg==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzOTg0NjYzNg==)
+
+一个专注于网络空间安全的高校技术团队，成立于2005年3月，主要研究方向有渗透测试、逆向工程、移动安全、安全编程、漏洞利用等；公众号定期推送小组成员原创文章
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_962842f4917b" alt="" />
 
 ---
 
