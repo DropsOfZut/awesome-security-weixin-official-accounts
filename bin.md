@@ -1,9 +1,9 @@
 
 ### [汇编语言](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzIxNDcwOTcwOQ==)
 
-[:chart_with_upwards_trend:【0/186/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxNDcwOTcwOQ==)
+[:chart_with_upwards_trend:【0/178/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxNDcwOTcwOQ==)
 
-[:camera_flash:【2022-05-15 01:52:58】](https://mp.weixin.qq.com/s?__biz=MzIxNDcwOTcwOQ==&mid=2247492528&idx=1&sn=5d65a780f6651ac68814615fa1017985&chksm=97a1c712a0d64e04f9a9f456b93ff66a7df1c6df6949d409b14f5540f2db45633a3d3d7831ff&scene=126&sessionid=1652553224&key=0a9f15bc7a0b1109cd2f8647c05a571ef6b55252885ee73a927a028be2f2ccdc33bf8a6ce1c2e0836056985f4a104452c600b6bc7c58884fc1fd44bd423dfd3e7bc4e7f0f94a91391abf658b572399bb7da0d69d4b638a167b25584ac8666c0026c678e8bc368ea0de747a906850338e044e4c1433e366c69309da4d8bf07df4&ascene=1&uin=MTA3Mzc3OTIzNQ%3D%3D&devicetype=Windows+Server+2016+x64&version=6305002e&lang=zh_CN&session_us=gh_86e8b32f4148&exportkey=Aa0ixngkfQYVJ8KTr5KT%2F%2Fg%3D&acctmode=0&pass_ticket=90CGtWl%2Fm7FCWx900tsvYNk6QLWJLABxuXUJTOBH9I4jW923O0LEOMbxtkkQ9q%2BI&wx_header=0&fontgear=2)
+[:camera_flash:【2022-05-16 00:54:07】](https://mp.weixin.qq.com/s?__biz=MzIxNDcwOTcwOQ==&mid=2247492655&idx=1&sn=1bb362e960182cf8ffc7fff6dbb7fd2b&chksm=97a1c08da0d6499bdb8ae025ba0c9de53d8cfaad27cbe51abb9837009f0e9549187c5ac6bf8d&scene=126&sessionid=1652637078&key=7587a6a30786f155dd9c7dd6ed81d969d7736521d3161b6d03bf8b4b040b8e7e202fb9578788a01174cb72548000b01763c511d5155dffbcc485523a4535527771f621e1f4170763fd0cc68c8cc375d30bba9a6d7b51753b0cb18e836107ca587dc404c7dbd50014d8595a04b90a2388952279a16090181a07ec0f27efd4fc2a&ascene=1&uin=MTM1NzU2MDQ1OQ%3D%3D&devicetype=Windows+Server+2016+x64&version=6305002e&lang=zh_CN&session_us=gh_86e8b32f4148&exportkey=A%2B5KlNEADCbus0CPcz7G76U%3D&acctmode=0&pass_ticket=nngna6pKr425vMIInbWMvf0wBFYMV%2FbteB6xEoQpDRS8Z04EfbkorKdLvQZjO4eq&wx_header=0&fontgear=2)
 
 致力于汇编教程和逆向破解之路
 
@@ -14,7 +14,7 @@
 
 ### [看雪学苑](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MjM5NTc2MDYxMw==)
 
-[:chart_with_upwards_trend:【34/102/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTc2MDYxMw==)
+[:chart_with_upwards_trend:【35/102/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTc2MDYxMw==)
 
 [:camera_flash:【2022-05-15 17:59:00】](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458444697&idx=1&sn=447703cc0a731ea3434818768f3d2881&chksm=b18fd31386f85a05fe9498cce35cb6e6932f6862a758f14c1bfdb7856ee5830132855798f8fe&scene=126&sessionid=1652609365&key=3820ae6439ecdd6708afbb8bc4d8f4245ef3993a258fa3910bd3d3b21ec583be0e707d4816ec4a6b646720ab3f61e772e5c391d06fd7107cc026bd82366f58d070432e565042657b8262ee8f55f409dd8b12abd62cfd5d0bd98eebe05ea6fbe527122ec7e273526ab8899ecc9c45f7f9fa4fc008cbd498e5190c4c09395976a9&ascene=1&uin=NTY2NTA4NjQ%3D&devicetype=Windows+Server+2016+x64&version=6305002e&lang=zh_CN&session_us=gh_e7e71fe92c19&exportkey=A9VcccemSQFalyFXlSNRvnA%3D&acctmode=0&pass_ticket=q6q%2Bmc6ivpszLlqTfAZLXzOs7zft%2F67CwXhL8r4eAPGNjSqw0ZTdOCIQ72CMXJ2f&wx_header=0&fontgear=2)
 
@@ -47,19 +47,6 @@
 吾爱破解论坛致力于软件安全与病毒分析的前沿，丰富的技术版块交相辉映，由无数热衷于软件加密解密及反病毒爱好者共同维护，留给世界一抹值得百年回眸的惊艳，沉淀百年来计算机应用之精华与优雅，任岁月流转，低调而奢华的技术交流与探索却是亘古不变。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_fb242c15300f" alt="" />
-
----
-
-
-### [秃头的逆向痴想](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzIzNDE3NjI0MQ==)
-
-[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzNDE3NjI0MQ==)
-
-[:camera_flash:【2022-04-15 20:11:05】](https://mp.weixin.qq.com/s?__biz=MzIzNDE3NjI0MQ==&mid=2247483954&idx=1&sn=5b6597d8a191942084716ee95dc0b521&chksm=e8fb29acdf8ca0bae4ea9077e23ea88d7428d02546cf3e6bf16117de23f0e3648d7ded3f31a7&scene=126&sessionid=1650033336&key=fe9b1c1ca9091ebdd2a528ce9436f6e0e58390953d47d8bfead694b84a636ed8de98623c77e8521298908437210410744bd24b8583474c31b27fee4df7222242910f8a113334e665eb6fb7351c548e52ebac507f87e257a08a84d39acb59dcb74ebbc61ffb8501cdaa1e76bb42ef15b59291c043166950c427ef0aae12896001&ascene=1&uin=MTM1NzU2MDQ1OQ%3D%3D&devicetype=Windows+Server+2016+x64&version=6305002e&lang=zh_CN&exportkey=A5FKzK%2F%2BhR6OJdOOkqf7%2B1E%3D&acctmode=0&pass_ticket=TWI1fC4jHcmNJCZ%2BtG8JJ9%2Bb%2FUeuNHBN5rBCPFYXcde8OPgF3EKeK0y1KH1wTfKt&wx_header=0&fontgear=2)
-
-随便逆逆，随便挖挖。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_c08b6fb82c4b" alt="" />
 
 ---
 
@@ -177,6 +164,19 @@ pWn3d bY BiGSKidd3r&amp;FuzZer&amp;A2pter&amp;pWn3r rULe4Ker4pwn 65535 tim3s.
 专注于网络安全知识分享
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f390850507f7" alt="" />
+
+---
+
+
+### [秃头的逆向痴想](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzIzNDE3NjI0MQ==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzNDE3NjI0MQ==)
+
+[:camera_flash:【2022-04-15 20:11:05】](https://mp.weixin.qq.com/s?__biz=MzIzNDE3NjI0MQ==&mid=2247483954&idx=1&sn=5b6597d8a191942084716ee95dc0b521&chksm=e8fb29acdf8ca0bae4ea9077e23ea88d7428d02546cf3e6bf16117de23f0e3648d7ded3f31a7&scene=126&sessionid=1650033336&key=fe9b1c1ca9091ebdd2a528ce9436f6e0e58390953d47d8bfead694b84a636ed8de98623c77e8521298908437210410744bd24b8583474c31b27fee4df7222242910f8a113334e665eb6fb7351c548e52ebac507f87e257a08a84d39acb59dcb74ebbc61ffb8501cdaa1e76bb42ef15b59291c043166950c427ef0aae12896001&ascene=1&uin=MTM1NzU2MDQ1OQ%3D%3D&devicetype=Windows+Server+2016+x64&version=6305002e&lang=zh_CN&exportkey=A5FKzK%2F%2BhR6OJdOOkqf7%2B1E%3D&acctmode=0&pass_ticket=TWI1fC4jHcmNJCZ%2BtG8JJ9%2Bb%2FUeuNHBN5rBCPFYXcde8OPgF3EKeK0y1KH1wTfKt&wx_header=0&fontgear=2)
+
+随便逆逆，随便挖挖。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_c08b6fb82c4b" alt="" />
 
 ---
 

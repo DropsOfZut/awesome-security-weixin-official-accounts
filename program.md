@@ -1,7 +1,7 @@
 
 ### [编码安全研究](http://wechat.doonsec.com/admin/wechat_echarts/?biz=Mzg2NDY1MDc2Mg==)
 
-[:chart_with_upwards_trend:【0/32/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NDY1MDc2Mg==)
+[:chart_with_upwards_trend:【0/31/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NDY1MDc2Mg==)
 
 [:camera_flash:【2022-05-15 09:09:00】](https://mp.weixin.qq.com/s?__biz=Mzg2NDY1MDc2Mg==&mid=2247487836&idx=1&sn=f5a78b17f512bdb4d13300a331f97650&chksm=ce674239f910cb2f2c190df0367c2aa65056f2e97018c00f0c20c1473217619934fd3b8d9ed5&scene=126&sessionid=1652582778&key=e86646e798d06e74eeb12374170cb017260c671ab0f043157495c70b1462bf4b5644561d37c90efd30472e225b8f1780eb09015b96813e6e6889b1e748e22bbdeb79666d9418673e902d3e66248ff970ffbd259f7e3e71dabed1784dae473d026b08a0d0cc13a1ad4f1e2b65cf7740ce37b98d408a028a2ed06b623a58f761f4&ascene=1&uin=NTY2NTA4NjQ%3D&devicetype=Windows+Server+2016+x64&version=6305002e&lang=zh_CN&session_us=gh_8e01ffd3a47c&exportkey=AyE3d6KAWxQLILjqDUSHoXI%3D&acctmode=0&pass_ticket=q6q%2Bmc6ivpszLlqTfAZLXzOs7zft%2F67CwXhL8r4eAPGNjSqw0ZTdOCIQ72CMXJ2f&wx_header=0&fontgear=2)
 
@@ -14,7 +14,7 @@
 
 ### [字节跳动技术团队](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
 
-[:chart_with_upwards_trend:【18/24/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
+[:chart_with_upwards_trend:【17/22/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
 
 [:camera_flash:【2022-05-13 18:00:00】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247493444&idx=1&sn=d187f82a03c299e5b1c0a8f0ea939cfc&chksm=e9d32ca6dea4a5b0d0263ef2b8e0a7b3f643b49a74e4d071ba844a5f93b3bc9b6e0d26501cdc&scene=126&sessionid=1652437226&key=684d137834b53b4981ad271d4f4d77f1c959c616e60c0bd9dc851c211519c8413d66e16d7cbe33b4743dfbbf1456b6f2dd791e2e3b4acf26a75d0bba212576d9c72d1f1b75ce7d14b31bcfde5155bef5197a25dce117631e94f729816a760d4b5479a4166314856abc3bf12784cd6dca7511bf3d146d344e79f74473c182af46&ascene=1&uin=NTY2NTA4NjQ%3D&devicetype=Windows+Server+2016+x64&version=6305002e&lang=zh_CN&session_us=gh_24231986c9c8&exportkey=A5zDTlMREEZvKcQWwGIeoro%3D&acctmode=0&pass_ticket=skadGcLODHVOiNuQkNWa8NHpR1JkkTcOMMjOVA%2FD3%2FqVBDPCcryqVv4GpFQaRhtu&wx_header=0&fontgear=2)
 
@@ -27,7 +27,7 @@
 
 ### [GoCN](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzA4ODg0NDkzOA==)
 
-[:chart_with_upwards_trend:【11/23/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4ODg0NDkzOA==)
+[:chart_with_upwards_trend:【10/22/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4ODg0NDkzOA==)
 
 [:camera_flash:【2022-05-15 08:00:00】](https://mp.weixin.qq.com/s?__biz=MzA4ODg0NDkzOA==&mid=2247498221&idx=1&sn=c8d4caf708a8f741df0bf6bf2cdd200f&chksm=90214608a756cf1e903893fb5993442538b45c3a71d205439126c6a20546c63900165d1594fc&scene=27&key=c2c9190ae823cbb9394308a483e0257187c45e53f84ad7a6966b81216ef28e4c81fd4f24bf26209f609900b4d425c83d3b8b2891107007d8f5735a71bf65599baf3e611f343e3bd8ccaf15dd470d68fe85cd2bd61033d70665a6bee1ee330ed682cab10db6456d5df63efc27ab25114602643e3347e400f154f39604ae7afde9&ascene=0&uin=MTM1NzU2MDQ1OQ%3D%3D&devicetype=Windows+Server+2016+x64&version=6305002e&lang=zh_CN&exportkey=AypctbE0FgUaKwjjhlqBYAQ%3D&acctmode=0&pass_ticket=nngna6pKr425vMIInbWMvf0wBFYMV%2FbteB6xEoQpDRS8Z04EfbkorKdLvQZjO4eq&wx_header=0&fontgear=2)
 
@@ -53,7 +53,7 @@
 
 ### [哔哩哔哩技术](http://wechat.doonsec.com/admin/wechat_echarts/?biz=Mzg3Njc0NTgwMg==)
 
-[:chart_with_upwards_trend:【10/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3Njc0NTgwMg==)
+[:chart_with_upwards_trend:【10/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3Njc0NTgwMg==)
 
 [:camera_flash:【2022-05-13 12:00:00】](https://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&mid=2247485470&idx=1&sn=982c8bb5c82c766b30adcaaa08a87717&chksm=cf2ccd3bf85b442de62f3298fef7dec969ee26dbf1afbe35e13287b1a4b6b42fbeac91fd6d88&scene=126&sessionid=1652415357&key=9b512ca85604a3079789e5a7d59ed1c7db6f83608967cd174150682eb58a001dbc8854057c55dca076bb89e5b540149379d065d9074ab1bdfca6894e023849c8c12526dbbb1b7adbabd5030f25300d29c9840682ea7a9332001dbefaf82bfe4808ea49f13624322cb51c5e538677b7186650c23425fb6131cfc1e0e5c43256f5&ascene=1&uin=MTM1NzU2MDQ1OQ%3D%3D&devicetype=Windows+Server+2016+x64&version=6305002e&lang=zh_CN&session_us=gh_6a92a838f9e0&exportkey=A7iB7S61VphMS9yfwoHa7d8%3D&acctmode=0&pass_ticket=70rQZAmcIYISXwLIrQb6vMrYHILinrXwvwlaaM4RXvHoSWo1NHqIuD4zrzB8sB%2FN&wx_header=0&fontgear=2)
 
@@ -79,7 +79,7 @@
 
 ### [腾讯技术工程](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
 
-[:chart_with_upwards_trend:【5/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
+[:chart_with_upwards_trend:【5/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
 
 [:camera_flash:【2022-05-11 18:00:00】](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649770900&idx=1&sn=6fc23c5e74c7167ea23312ac45712b58&chksm=beccd8ef89bb51f928462cc4cd2f0d21e7f87641b35369b825968594a6de0dae470ead87598b&scene=126&sessionid=1652264630&key=9b512ca85604a3074c9a112e5989cd6ccc1319f0354db2e2d85e9890612528e1fa8c74fe1c56d6a18b59a1c77677477ffa3f8543187ecb36bbd657e59d33e5cb46d10e37f23ea616eea56ea1fa74a7a392ace26e0ce215c036c1b4126b03c70c3972214f7d2af98bdc5e56d299bc3ed50de6045ffeaedb059580e30dbe57ce80&ascene=1&uin=MTM1NzU2MDQ1OQ%3D%3D&devicetype=Windows+Server+2016+x64&version=6305002e&lang=zh_CN&session_us=gh_d14465b5ce6c&exportkey=A9bHQqGMY%2FeEiQtyLR%2B0sGM%3D&acctmode=0&pass_ticket=IkKxjHEDuUi21f8e4BUlwSYwbNDAUs5wwNZ%2F%2BMCpj9Emm6qhcZzgPLyKdzOmVLLM&wx_header=0&fontgear=2)
 
@@ -92,7 +92,7 @@
 
 ### [YakProject](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzAxOTAzOTU3Mw==)
 
-[:chart_with_upwards_trend:【5/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxOTAzOTU3Mw==)
+[:chart_with_upwards_trend:【4/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxOTAzOTU3Mw==)
 
 [:camera_flash:【2022-05-10 14:41:05】](https://mp.weixin.qq.com/s?__biz=MzAxOTAzOTU3Mw==&mid=2247487297&idx=1&sn=afc0075b875080453f0228ef847e29f2&chksm=9bcc5b7bacbbd26db1384748b563e31ddf34b42a4fd0c841ec8b985c2b3aa7b9d03344ddf8d7&scene=126&sessionid=1652165836&key=ab06ae04649bd3446170d873a404f06f015a1960130e2f16e284212ab889a5eede4074070e2d645cc457361a675f3f3b1c20e36a66be2b9bf79cba979f0186c5fb46f100aec9d7bc414ba6f44c354906e16ba3ca8a21ad219658fc8dc99ae76e779253ecafdafc9d5685d3c1c2ed70ff44b5adef45c3a5383a06d5708efc2e32&ascene=1&uin=NTY2NTA4NjQ%3D&devicetype=Windows+Server+2016+x64&version=6305002e&lang=zh_CN&session_us=gh_f52cadd4bf58&exportkey=A%2BmryBXmWA3v62DBnsxtSUg%3D&acctmode=0&pass_ticket=lkEXYWgM7%2FJ5IGSS8hrHbPWEI1njfnulWdiVjVSBylq0QM0THUmCkBAP%2FrbHZIT1&wx_header=0&fontgear=2)
 
@@ -112,19 +112,6 @@ Yak Language Project: &lt;del&gt;北半球&lt;/del&gt;最强安全研发语言 /
 这里是灾难控制局,紧急紧急联系电话:127.0.0.1
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_2c6f783d354d" alt="" />
-
----
-
-
-### [全闲话](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzUzMTkxMjMwNg==)
-
-[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzMTkxMjMwNg==)
-
-[:camera_flash:【2022-04-15 14:26:47】](https://mp.weixin.qq.com/s?__biz=MzUzMTkxMjMwNg==&mid=2247484072&idx=1&sn=c68d9a3aba5644f51293f24d1b076ddb&chksm=faba01b5cdcd88a39987d4fa5955a692979d2bf6f84d6a21b5dfeca6d5074a32c15d70c2c879&scene=126&sessionid=1650005736&key=fe9b1c1ca9091ebdb2488079f0fff33b1ae18f2b36ad48626e75ced8cc66bf73eff2b2a916296524428b616a708cedc027866421347b337500bf491392c2d5d9f9dee586ebb0d80d04e5a4848c189388de69d3e62c7c93c184561638209c1c5b2ca01aa6f17be05a42c1c7bcf2ebc3ac318950a186ec0340f5b0fc5fb1b14000&ascene=1&uin=MTM1NzU2MDQ1OQ%3D%3D&devicetype=Windows+Server+2016+x64&version=6305002e&lang=zh_CN&exportkey=A6HgcRAD9YR6UWDopMPSZ1s%3D&acctmode=0&pass_ticket=TWI1fC4jHcmNJCZ%2BtG8JJ9%2Bb%2FUeuNHBN5rBCPFYXcde8OPgF3EKeK0y1KH1wTfKt&wx_header=0&fontgear=2)
-
-这里只有闲话和大闲话，据科学家团队开发的人工智障严重分析得出结论：此号会聚焦安全和运营领域并且一本正经那是不可能的！请谨慎关注~
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0b7d3b5806ab" alt="" />
 
 ---
 
@@ -320,6 +307,19 @@ Yak Language Project: &lt;del&gt;北半球&lt;/del&gt;最强安全研发语言 /
 网络上的黑客带着一副面具，似乎无所不能；网站中bug被黑客利用，由臭虫变身成甲虫。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f524e5a0a1fb" alt="" />
+
+---
+
+
+### [全闲话](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzUzMTkxMjMwNg==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzMTkxMjMwNg==)
+
+[:camera_flash:【2022-04-15 14:26:47】](https://mp.weixin.qq.com/s?__biz=MzUzMTkxMjMwNg==&mid=2247484072&idx=1&sn=c68d9a3aba5644f51293f24d1b076ddb&chksm=faba01b5cdcd88a39987d4fa5955a692979d2bf6f84d6a21b5dfeca6d5074a32c15d70c2c879&scene=126&sessionid=1650005736&key=fe9b1c1ca9091ebdb2488079f0fff33b1ae18f2b36ad48626e75ced8cc66bf73eff2b2a916296524428b616a708cedc027866421347b337500bf491392c2d5d9f9dee586ebb0d80d04e5a4848c189388de69d3e62c7c93c184561638209c1c5b2ca01aa6f17be05a42c1c7bcf2ebc3ac318950a186ec0340f5b0fc5fb1b14000&ascene=1&uin=MTM1NzU2MDQ1OQ%3D%3D&devicetype=Windows+Server+2016+x64&version=6305002e&lang=zh_CN&exportkey=A6HgcRAD9YR6UWDopMPSZ1s%3D&acctmode=0&pass_ticket=TWI1fC4jHcmNJCZ%2BtG8JJ9%2Bb%2FUeuNHBN5rBCPFYXcde8OPgF3EKeK0y1KH1wTfKt&wx_header=0&fontgear=2)
+
+这里只有闲话和大闲话，据科学家团队开发的人工智障严重分析得出结论：此号会聚焦安全和运营领域并且一本正经那是不可能的！请谨慎关注~
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0b7d3b5806ab" alt="" />
 
 ---
 
