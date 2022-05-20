@@ -1,9 +1,9 @@
 
 ### [寰宇卫士](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
 
-[:chart_with_upwards_trend:【0/18/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
+[:chart_with_upwards_trend:【0/19/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
 
-[:camera_flash:【2022-05-18 17:09:30】](https://mp.weixin.qq.com/s?__biz=MzIwMzU0NDY5OA==&mid=2247491384&idx=1&sn=70419d02835fb3aea00faff33c6f0f5e&chksm=96cc9e2da1bb173b12395acccde96701b14da9a6a8472ecc5ee714c72ba1b4f6d007d29276b0&scene=126&sessionid=1652865079&key=0a9f15bc7a0b1109fc39bc3816a612461a4810ea41e913e113b45c1c242c2505a8e3cd58a7612d8e84cfb3e80dbdef66307f57c3a12ee01c301b9f6dc639fa748d3e2ff3446dd70348fb0a5d30ccc6a68acfb7d3bd2b59dfff0c5324afe16f92d9db2bbce6eb66c339b6f63565612f0dfc00bfc2d88e17ef2c50e98040d6f172&ascene=1&uin=MTA3Mzc3OTIzNQ%3D%3D&devicetype=Windows+Server+2016+x64&version=6305002e&lang=zh_CN&session_us=gh_7aa3785c2fbe&exportkey=ASaPPif5FMzJ0K9aVUJAx90%3D&acctmode=0&pass_ticket=CLipu1oc3Xo23kKaFPk9VMmJWr0KzXLDKmtoNd6o2PRzCklLCrUb3XxUITQ9X3B0&wx_header=0&fontgear=2)
+[:camera_flash:【2022-05-19 17:46:06】](https://mp.weixin.qq.com/s?__biz=MzIwMzU0NDY5OA==&mid=2247491459&idx=1&sn=268f7e66aecb3c6c05227efe6606f51d&chksm=96cc9e96a1bb178029e704cebb05a9a52879b8bd3a5d1a76c2d577327f466805a334a1a0d90f&scene=126&sessionid=1652953805&key=8820c3cc18af110bed40605f5f8055daba0961c05677885dc0089c6735efc9d7187e08f3cb7a4d37d640cab614dbbd2018decc7f5ebf32864b076ba37ae922f7c779510bdc051c5f061c7319ae5c74e87252f482632ba21aa8881aaa2539f6ddf1cc262ee7ee5c19dc649ea826afa433ca87b7f6b460c9de77963db81bb9b6ef&ascene=1&uin=MTA3Mzc3OTIzNQ%3D%3D&devicetype=Windows+Server+2016+x64&version=6305002e&lang=zh_CN&session_us=gh_7aa3785c2fbe&exportkey=Adp954L4%2BPG87jrEURQH1pE%3D&acctmode=0&pass_ticket=CLipu1oc3Xo23kKaFPk9VMmJWr0KzXLDKmtoNd6o2PRzCklLCrUb3XxUITQ9X3B0&wx_header=0&fontgear=2)
 
 寰宇卫士综合安全咨询、安全服务、解决方案、认证培训、产品研发等信息安全多元化产业链为一体。
 
@@ -25,9 +25,35 @@
 ---
 
 
+### [春秋伽玛](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
+
+[:chart_with_upwards_trend:【5/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
+
+[:camera_flash:【2022-05-19 20:21:44】](https://mp.weixin.qq.com/s?__biz=MzkyNDA5NjgyMg==&mid=2247493268&idx=1&sn=8690f6c95607ecbd60bae99c55e0bade&chksm=c1d9a6cdf6ae2fdbf85905787cd03c3663b071bdbc1fad176feb17f36fa83337504dfb7d48b9&scene=126&sessionid=1652965051&key=9b512ca85604a30704e50a71eb9a6cb8813be542bcf4c0245c5d57d9bc340e448204f2f890c8cc8636dae8a8413f2b4ca87822126923d9d687eba45ef8be6c140825ec853432de665b53a99c65e0672f071865338a35e5877c1512d786ff463d618aba8b813532428b40373e8250a0a60775619b6b663a5a42d8f73f80db2b16&ascene=1&uin=MTM1NzU2MDQ1OQ%3D%3D&devicetype=Windows+Server+2016+x64&version=6305002e&lang=zh_CN&session_us=gh_07fa2c2720be&exportkey=A6%2FayEJytFXD%2BN7b7JaTWiw%3D&acctmode=0&pass_ticket=44t7Ia1LHMm%2FJjJg4ik1XiC1iuT7il76oJ%2BARpjueWvy1uOxb96SbbZ21X3A2xVi&wx_header=0&fontgear=2)
+
+春秋伽玛，为广大网络安全爱好者传递网络安全大赛相关赛事信息，提供优质的赛事服务平台
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_07fa2c2720be" alt="" />
+
+---
+
+
+### [PTEHub](http://wechat.doonsec.com/admin/wechat_echarts/?biz=Mzg4NzY5NjgyNw==)
+
+[:chart_with_upwards_trend:【4/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NzY5NjgyNw==)
+
+[:camera_flash:【2022-05-18 18:10:24】](https://mp.weixin.qq.com/s?__biz=Mzg4NzY5NjgyNw==&mid=2247484319&idx=1&sn=a8b01d60d9fd88f7a8b8bfd1b2e66b58&chksm=cf873f4bf8f0b65dc6cdf9e64f0a88a3550f45a5a8a0cb634aa5442e1c2f0e75fe62e4df260c&scene=126&sessionid=1652870655&key=12703ed085009c6fff876a592d3b841caf00e38438a1f9c38eeaf78eaa5ac326fbf97cbf94f570c52166ceb6f00c9e78f96372be9430284644717100b849cc0190949169f75748f0de2e1d3f6191b7e10173e0f0a74b28096a2b8b24bac3986c365222b1ac6824a0d1f2d326e54fbbe00dc54a622670980eec2684d7233e10f8&ascene=1&uin=MTM1NzU2MDQ1OQ%3D%3D&devicetype=Windows+Server+2016+x64&version=6305002e&lang=zh_CN&session_us=gh_5aff651a75ac&exportkey=AzHqPeiCTRiyr1YtVXdXX%2Fg%3D&acctmode=0&pass_ticket=44t7Ia1LHMm%2FJjJg4ik1XiC1iuT7il76oJ%2BARpjueWvy1uOxb96SbbZ21X3A2xVi&wx_header=0&fontgear=2)
+
+PTE小技巧
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_5aff651a75ac" alt="" />
+
+---
+
+
 ### [XCTF联赛](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MjM5NDU3MjExNw==)
 
-[:chart_with_upwards_trend:【1/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
+[:chart_with_upwards_trend:【1/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
 
 [:camera_flash:【2022-05-13 18:29:16】](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247505837&idx=1&sn=3ba7ecc6eab46b1d03c2c0d7f0e0db9c&chksm=a687259791f0ac813222fdad5ce75bb79c1fb770a3ae5ffc342cb7a3dc498e11cf3640c5c15d&scene=126&sessionid=1652438292&key=e86646e798d06e74be69eb591f2e30172b22d5dd2725035c40c582165e0c10e561e041cfa607a2efe207a244d990216f32b6daa96dfdc316bfc65e402e40fa1d013f47121240641f403f0acf824e8228ce25c6a431e9b227208ae8c016020aebbb1006037ce189e3de0a00ba61f0468d1d35e728bad064dc30b5ec4d043d9614&ascene=1&uin=NTY2NTA4NjQ%3D&devicetype=Windows+Server+2016+x64&version=6305002e&lang=zh_CN&session_us=gh_3d7c7f90f79f&exportkey=AwHtBvOzeL%2B0HPlLbcch6JQ%3D&acctmode=0&pass_ticket=skadGcLODHVOiNuQkNWa8NHpR1JkkTcOMMjOVA%2FD3%2FqVBDPCcryqVv4GpFQaRhtu&wx_header=0&fontgear=2)
 
@@ -38,15 +64,15 @@
 ---
 
 
-### [PTEHub](http://wechat.doonsec.com/admin/wechat_echarts/?biz=Mzg4NzY5NjgyNw==)
+### [r3kapig](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI2MDE4MzkzMQ==)
 
-[:chart_with_upwards_trend:【3/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NzY5NjgyNw==)
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MDE4MzkzMQ==)
 
-[:camera_flash:【2022-05-18 18:10:24】](https://mp.weixin.qq.com/s?__biz=Mzg4NzY5NjgyNw==&mid=2247484319&idx=1&sn=a8b01d60d9fd88f7a8b8bfd1b2e66b58&chksm=cf873f4bf8f0b65dc6cdf9e64f0a88a3550f45a5a8a0cb634aa5442e1c2f0e75fe62e4df260c&scene=126&sessionid=1652870655&key=12703ed085009c6fff876a592d3b841caf00e38438a1f9c38eeaf78eaa5ac326fbf97cbf94f570c52166ceb6f00c9e78f96372be9430284644717100b849cc0190949169f75748f0de2e1d3f6191b7e10173e0f0a74b28096a2b8b24bac3986c365222b1ac6824a0d1f2d326e54fbbe00dc54a622670980eec2684d7233e10f8&ascene=1&uin=MTM1NzU2MDQ1OQ%3D%3D&devicetype=Windows+Server+2016+x64&version=6305002e&lang=zh_CN&session_us=gh_5aff651a75ac&exportkey=AzHqPeiCTRiyr1YtVXdXX%2Fg%3D&acctmode=0&pass_ticket=44t7Ia1LHMm%2FJjJg4ik1XiC1iuT7il76oJ%2BARpjueWvy1uOxb96SbbZ21X3A2xVi&wx_header=0&fontgear=2)
+[:camera_flash:【2022-05-19 22:17:37】](https://mp.weixin.qq.com/s?__biz=MzI2MDE4MzkzMQ==&mid=2247483733&idx=1&sn=d848f0bb926a125b37a7ab500bdf152e&chksm=ea6cc341dd1b4a572764e56775d48ceda7b504b3ebbd5adcc39d0dfd264b19f4e6622e7c03aa&scene=126&sessionid=1652972264&key=e3c6d366b452a3e6ef525416e44af7cb184610ae4d179d341abe8b642eabd2039602b6962cdf97d8aac1bf07eb135c97c9c675f318cb785ff190ab93adeaa95937efd91d48f209a4b823768e5e55dbf339d5a93f7eb3145906959f5993ba18813cb007e02dad3674c6339bc27c8fd8b8d15e2ecefaa41866358badf73e1d4f02&ascene=1&uin=MTA3Mzc3OTIzNQ%3D%3D&devicetype=Windows+Server+2016+x64&version=6305002e&lang=zh_CN&session_us=gh_4d1d402cbd9d&exportkey=AWWqtO3XhQGFgPspG0sxNA4%3D&acctmode=0&pass_ticket=CLipu1oc3Xo23kKaFPk9VMmJWr0KzXLDKmtoNd6o2PRzCklLCrUb3XxUITQ9X3B0&wx_header=0&fontgear=2)
 
-PTE小技巧
+power by r3kapig team
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_5aff651a75ac" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4d1d402cbd9d" alt="" />
 
 ---
 
