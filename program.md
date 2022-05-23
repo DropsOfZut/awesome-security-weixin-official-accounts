@@ -1,9 +1,9 @@
 
 ### [编码安全研究](http://wechat.doonsec.com/admin/wechat_echarts/?biz=Mzg2NDY1MDc2Mg==)
 
-[:chart_with_upwards_trend:【0/29/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NDY1MDc2Mg==)
+[:chart_with_upwards_trend:【0/28/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NDY1MDc2Mg==)
 
-[:camera_flash:【2022-05-20 08:08:12】](https://mp.weixin.qq.com/s?__biz=Mzg2NDY1MDc2Mg==&mid=2247487983&idx=1&sn=8901eb927ca3431bd0e8442870dfd1fc&chksm=ce67428af910cb9cc42ea9bd8baa123692e0af78ec58775753631def1f130fe6347e3e03f80f&scene=126&sessionid=1653007281&key=9b512ca85604a307eec9e1f45690acc1e2231255e6014b84c6e472e0d0c829acab7dcce122aedf10d8f21a9d7833250414a99298875c7d3c2336b4bc8f2f6acd8f1e07acd51e259e635d86fcbf92e93342817f4166890df9e598e56a816e6036751ecea3764eb252070b959a406684de33cbe46ceb021f6b58e93712c70818a3&ascene=1&uin=MTM1NzU2MDQ1OQ%3D%3D&devicetype=Windows+Server+2016+x64&version=6305002e&lang=zh_CN&session_us=gh_8e01ffd3a47c&exportkey=A5tl%2BRhxTAZ3cYbSX9HpEA8%3D&acctmode=0&pass_ticket=44t7Ia1LHMm%2FJjJg4ik1XiC1iuT7il76oJ%2BARpjueWvy1uOxb96SbbZ21X3A2xVi&wx_header=0&fontgear=2)
+[:camera_flash:【2022-05-22 09:09:26】](https://mp.weixin.qq.com/s?__biz=Mzg2NDY1MDc2Mg==&mid=2247488017&idx=1&sn=148ba0d59fc4e8c7d1e6ec71dece0ca5&chksm=ce674174f910c862c3b145f7a3d375e98e5af7e5f65d09c25bfc2bbadb5ea08c593961b216ec&scene=126&sessionid=1653185162&key=7587a6a30786f155e6300245cff99d9d4be78c117c8c2eeb9e19fde6f3833eaa85b22ede347df06b2404b59251c5e5a1622efafae346c315387c92b6f8617b0a2120a9b068260827180a9689709669a3a25d8fdffe752305797488ba776e885962b4a064e2ac689b7b8e43de9c51f6ac1f00fd79e052acbaf3780de42e69d135&ascene=1&uin=MTM1NzU2MDQ1OQ%3D%3D&devicetype=Windows+Server+2016+x64&version=6305002e&lang=zh_CN&session_us=gh_8e01ffd3a47c&exportkey=A6Ni1nA4qIF6zg7z3Y9iHq8%3D&acctmode=0&pass_ticket=nDZrCbVJzEN19v7O3jTjmzVPWmxH9zPoYj3eCBUDyjuNMRtD82lrGziIz1t3syiY&wx_header=0&fontgear=2)
 
 专注于学习网络安全
 
@@ -14,7 +14,7 @@
 
 ### [字节跳动技术团队](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
 
-[:chart_with_upwards_trend:【19/26/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
+[:chart_with_upwards_trend:【18/25/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
 
 [:camera_flash:【2022-05-20 17:57:10】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247493604&idx=1&sn=74b1068148269b2c961d1f9666e05510&chksm=e9d32c06dea4a51070960d70a2d2662e0af117e8009ecd27bc48a8b190a8032f3f65361bddb9&scene=27&key=da5527f6ccd6edd7fbe10762c5230189b5085f770afccc705ba998258395250110e131de0ca5f9520c76d4628755425751eec18351e272c60852e2ed38ab8cbc71998399a5bbd6c1bebf5b3f70bdd5602760f7a27730d126e205c5ddf42b9d893eabdaaf1dc8ea6ee3bda0ef33a61eb86e24b67f890c02694f33dd3b992e4d28&ascene=0&uin=MTA3Mzc3OTIzNQ%3D%3D&devicetype=Windows+Server+2016+x64&version=6305002e&lang=zh_CN&exportkey=AUg2jhDW7bNcwDYGMnyqyIM%3D&acctmode=0&pass_ticket=awv%2FTm4qzYM9xLStG0eM%2BBcjF0GXp70ShDbV%2FGXfNIM25tDNjQUOUAYBz3yF96wX&wx_header=0&fontgear=2)
 
@@ -27,7 +27,7 @@
 
 ### [GoCN](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzA4ODg0NDkzOA==)
 
-[:chart_with_upwards_trend:【10/24/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4ODg0NDkzOA==)
+[:chart_with_upwards_trend:【10/23/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4ODg0NDkzOA==)
 
 [:camera_flash:【2022-05-21 08:00:15】](https://mp.weixin.qq.com/s?__biz=MzA4ODg0NDkzOA==&mid=2247498355&idx=1&sn=57b6a75deb99abad7d40123de0e20797&chksm=90214596a756cc80afda229d445e81d6d4afbc6c9f5f628045ae533e082d6c9f7f3c5efcdde0&scene=27&key=5c074e52529293f45b62ce610a9c0d01a89a21bec77645f5c503d24e7b1ec929db3e1ef683c258611023394cff210c1dbd8b6945592940385dae516fab3c994a66f8f46aa6e9b6675575d9dbebe02ae1adbab195ae2f6a7b47d67f8350f16a8368f1775a74efd9893fdc64ff99a2abf0ad7a53f0a1bc2d427c31c811a8193230&ascene=0&uin=MTA3Mzc3OTIzNQ%3D%3D&devicetype=Windows+Server+2016+x64&version=6305002e&lang=zh_CN&exportkey=AR%2B3ZvPoArdz46JBAb6eS8Y%3D&acctmode=0&pass_ticket=CLipu1oc3Xo23kKaFPk9VMmJWr0KzXLDKmtoNd6o2PRzCklLCrUb3XxUITQ9X3B0&wx_header=0&fontgear=2)
 
@@ -40,7 +40,7 @@
 
 ### [哔哩哔哩技术](http://wechat.doonsec.com/admin/wechat_echarts/?biz=Mzg3Njc0NTgwMg==)
 
-[:chart_with_upwards_trend:【11/14/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3Njc0NTgwMg==)
+[:chart_with_upwards_trend:【10/13/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3Njc0NTgwMg==)
 
 [:camera_flash:【2022-05-20 12:00:12】](https://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&mid=2247485606&idx=1&sn=45b3da97ee92f2db1fc3b75153d95072&chksm=cf2ccd83f85b44953a2174aa6dcc0c8ab8877be5f2af1fca82f4a94514079b70bf26480376f8&scene=27&key=759d9f534a881e35e7bdaaf397c8c173779f6b38f6ea943617e38e541e17e2b8282062e4f34b4450f2b6a8ef1649c3d54322e51c7c79e92a032f8fad53036b19989c6cfa4de7bd0e4612ca78b22aa05891f8c52333dc709a80ba63637c574b13227548fdae9ee75ace390a59a40b17e56cb1f048c1b14a37fcf552deb0d4c90f&ascene=0&uin=MTM1NzU2MDQ1OQ%3D%3D&devicetype=Windows+Server+2016+x64&version=6305002e&lang=zh_CN&exportkey=AwjUs9lLnFxugMinwxy6Alc%3D&acctmode=0&pass_ticket=nDZrCbVJzEN19v7O3jTjmzVPWmxH9zPoYj3eCBUDyjuNMRtD82lrGziIz1t3syiY&wx_header=0&fontgear=2)
 
@@ -92,7 +92,7 @@
 
 ### [YakProject](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzAxOTAzOTU3Mw==)
 
-[:chart_with_upwards_trend:【7/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxOTAzOTU3Mw==)
+[:chart_with_upwards_trend:【6/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxOTAzOTU3Mw==)
 
 [:camera_flash:【2022-05-20 16:03:46】](https://mp.weixin.qq.com/s?__biz=MzAxOTAzOTU3Mw==&mid=2247487456&idx=1&sn=871688633cfbfaad65b2e71f33d50064&chksm=9bcc5bdaacbbd2cc11ce1e5fd702d9992ca0253a2e59f4ddf07d690fd6b0384da9548107d71e&scene=126&sessionid=1653033991&key=e3c6d366b452a3e69f8cce4c154652239c27a3edb0125db2ccfc83d03ea112e4048eebaf05ac0f55d5ed513e3a95e8c19a9fa225560f609e6cfe87214cf7441277ce6eb09be1b23d5700610710037b5ae19be312d837b529c051a204f94874db40573a1f27a113ad15254118b2289e00f8bdfb69f55ea9aaa72668a0cb47952c&ascene=1&uin=MTA3Mzc3OTIzNQ%3D%3D&devicetype=Windows+Server+2016+x64&version=6305002e&lang=zh_CN&session_us=gh_f52cadd4bf58&exportkey=AV%2BZdaSh4rhBNOkpHmfydaE%3D&acctmode=0&pass_ticket=CLipu1oc3Xo23kKaFPk9VMmJWr0KzXLDKmtoNd6o2PRzCklLCrUb3XxUITQ9X3B0&wx_header=0&fontgear=2)
 
@@ -112,6 +112,19 @@ Yak Language Project: &lt;del&gt;北半球&lt;/del&gt;最强安全研发语言 /
 这里是灾难控制局,紧急紧急联系电话:127.0.0.1
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_2c6f783d354d" alt="" />
+
+---
+
+
+### [逆向lin狗](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzUxMjU3ODc1MA==)
+
+[:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxMjU3ODc1MA==)
+
+[:camera_flash:【2022-05-21 10:50:44】](https://mp.weixin.qq.com/s?__biz=MzUxMjU3ODc1MA==&mid=2247484705&idx=1&sn=7940c612d094521f912a13e13bba4fdd&chksm=f96300f0ce1489e65963787d9f79744640c99e35dca429e26f41823a1222207aabfae71e4a37&scene=126&sessionid=1653112881&key=8820c3cc18af110bfe6e85a28df7d6d61464f8f74da801d125384b5c4118b7dda557349b4b97dbe4413a05de5f3c0464feaacc6d491f45512cc2666480f697603b8c199528dd08bc9d21267593455ee15c6f2d45ffb18587aa8ff65068331c2c2763b35857844e3134a66761a6a383c6d4f3b18b83297fa6e07a451d207c1d1c&ascene=1&uin=MTA3Mzc3OTIzNQ%3D%3D&devicetype=Windows+Server+2016+x64&version=6305002e&lang=zh_CN&session_us=gh_fc6c78a6258d&exportkey=AfPeXDxKP1U1jvn43qmgp74%3D&acctmode=0&pass_ticket=awv%2FTm4qzYM9xLStG0eM%2BBcjF0GXp70ShDbV%2FGXfNIM25tDNjQUOUAYBz3yF96wX&wx_header=0&fontgear=2)
+
+本公众号由善于Web反反爬的林弟弟善于App逆向的猛狗哥哥赞助
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_fc6c78a6258d" alt="" />
 
 ---
 
@@ -138,19 +151,6 @@ Yak Language Project: &lt;del&gt;北半球&lt;/del&gt;最强安全研发语言 /
 腾讯代码安全检查Xcheck，是一个腾讯公司自研的静态应用安全测试(SAST，Static application security testing)工具，致力于挖掘代码中隐藏的安全风险，提升代码安全质量。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_177b81103e8d" alt="" />
-
----
-
-
-### [逆向lin狗](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzUxMjU3ODc1MA==)
-
-[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxMjU3ODc1MA==)
-
-[:camera_flash:【2022-05-21 10:50:44】](https://mp.weixin.qq.com/s?__biz=MzUxMjU3ODc1MA==&mid=2247484705&idx=1&sn=7940c612d094521f912a13e13bba4fdd&chksm=f96300f0ce1489e65963787d9f79744640c99e35dca429e26f41823a1222207aabfae71e4a37&scene=126&sessionid=1653112881&key=8820c3cc18af110bfe6e85a28df7d6d61464f8f74da801d125384b5c4118b7dda557349b4b97dbe4413a05de5f3c0464feaacc6d491f45512cc2666480f697603b8c199528dd08bc9d21267593455ee15c6f2d45ffb18587aa8ff65068331c2c2763b35857844e3134a66761a6a383c6d4f3b18b83297fa6e07a451d207c1d1c&ascene=1&uin=MTA3Mzc3OTIzNQ%3D%3D&devicetype=Windows+Server+2016+x64&version=6305002e&lang=zh_CN&session_us=gh_fc6c78a6258d&exportkey=AfPeXDxKP1U1jvn43qmgp74%3D&acctmode=0&pass_ticket=awv%2FTm4qzYM9xLStG0eM%2BBcjF0GXp70ShDbV%2FGXfNIM25tDNjQUOUAYBz3yF96wX&wx_header=0&fontgear=2)
-
-本公众号由善于Web反反爬的林弟弟善于App逆向的猛狗哥哥赞助
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_fc6c78a6258d" alt="" />
 
 ---
 
@@ -185,7 +185,7 @@ Yak Language Project: &lt;del&gt;北半球&lt;/del&gt;最强安全研发语言 /
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3NDA4OTk1OQ==)
 
-[:camera_flash:【2022-05-18 12:23:52】](https://mp.weixin.qq.com/s?__biz=MzI3NDA4OTk1OQ==&mid=2649918445&idx=2&sn=1c622bba7ba0e4470b95fc67ca7f770a&chksm=f31f7965c468f07391f5195eedf04e428b36397e0ed3003418f56a682e117f6da7a1d330676c&scene=126&sessionid=1652859831&key=3820ae6439ecdd67209675e2bf77d974baf7dcde2e9a62816dfc09844658d3be52e3ba45f1cf2d880f74d73f8258a8326e259a0ed8f14d50d99578964630b4758de7964ea1afd7ffc14ba0d488381b5da19be46e7b8e70e201d66df7218669d78314f4dcdb80859c44adc6a2d507d873ea6c8557c6715c8bb2990d9702e82f3e&ascene=1&uin=NTY2NTA4NjQ%3D&devicetype=Windows+Server+2016+x64&version=6305002e&lang=zh_CN&session_us=gh_7aa87fe670ff&exportkey=A97FP06kh9J521iEp9CbyxU%3D&acctmode=0&pass_ticket=Z6nXwWQPjxuoanM9gHpN98A6RLcNdEgQSWb42xa%2B%2BYHAwUdbpgkFg812H%2FCPtl%2Fl&wx_header=0&fontgear=2)
+[:camera_flash:【2022-05-22 12:23:20】](https://mp.weixin.qq.com/s?__biz=MzI3NDA4OTk1OQ==&mid=2649918481&idx=1&sn=146e6e98aa8cc1056858e3d3dab12e79&chksm=f31f7e99c468f78fb56c14d578a924f3fc596b0f916bb6ec72c9494f2d72e4a78e6bc31fe2ef&scene=126&sessionid=1653225374&key=e86646e798d06e74422f331318a79e24696a24514db35aab13f401b19ea7862e93138527770fd3e2dff708cbfaa06a840a44daebcc390eb4063877423177fd53fa48f900c7ca2cb02bcbf492e67aa5b544e1e57699e1d0fff2fc1c8f06571336df5b365cd346685f9a2d7b615fb29cc3a3b1792bbad6eda1a00bca77b51e7ea7&ascene=1&uin=NTY2NTA4NjQ%3D&devicetype=Windows+Server+2016+x64&version=6305002e&lang=zh_CN&session_us=gh_7aa87fe670ff&exportkey=AwHa8s8gMmoz%2FR%2Bi%2BgkCyBQ%3D&acctmode=0&pass_ticket=lMd8ch8hI4cLWZ55%2BNmVe%2FVY3RfFydUJ3ipGrpixVuBuix6OlZcebzII%2BKnCe%2F8v&wx_header=0&fontgear=2)
 
 分享数据库开发、原理和应用，涵盖MySQL、PostgreSQL、MS SQL Sever、Oracle等主流关系数据库的应用和原理，以及MongoDB、Redis、Memcached等NoSQL数据库和缓存技术。
 
