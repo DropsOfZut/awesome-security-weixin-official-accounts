@@ -1,9 +1,9 @@
 
 ### [汇编语言](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzIxNDcwOTcwOQ==)
 
-[:chart_with_upwards_trend:【0/204/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxNDcwOTcwOQ==)
+[:chart_with_upwards_trend:【0/212/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxNDcwOTcwOQ==)
 
-[:camera_flash:【2022-05-25 00:00:36】](https://mp.weixin.qq.com/s?__biz=MzIxNDcwOTcwOQ==&mid=2247493094&idx=1&sn=ec3b5417be238f472538d0990a80d086&chksm=97a1c144a0d64852e79961375e677378178ed6fd655faa6271646dd6d3a86abfe64a05fcc787&scene=27#wechat_redirect)
+[:camera_flash:【2022-05-26 00:00:24】](https://mp.weixin.qq.com/s?__biz=MzIxNDcwOTcwOQ==&mid=2247493155&idx=1&sn=cc08edbfff22b42e3af9caeb18410399&chksm=97a1c281a0d64b97a8c6302e108bde8a929e9d5b6c2dfe7116dd5038a094f32ef4d74c514dff&scene=27#wechat_redirect)
 
 致力于汇编教程和逆向破解之路
 
@@ -14,9 +14,9 @@
 
 ### [看雪学苑](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MjM5NTc2MDYxMw==)
 
-[:chart_with_upwards_trend:【41/105/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTc2MDYxMw==)
+[:chart_with_upwards_trend:【41/101/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTc2MDYxMw==)
 
-[:camera_flash:【2022-05-23 17:59:55】](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458447178&idx=1&sn=938bf5dc4ac9c8554ecdea2fbc8e6a7c&chksm=b18fddc086f854d6adeeca97d302dd8f967bc21fc91e690b02103e9718e185ed94ba5aa60cca&scene=27#wechat_redirect)
+[:camera_flash:【2022-05-25 18:15:12】](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458448087&idx=1&sn=3595bf9bf964f546f0126d25482570e1&chksm=b18fc05d86f8494bbdb90f94263ecb483db007b87b31127ac396851d1ee68e84f7e28beffae6&scene=27#wechat_redirect)
 
 致力于移动与安全研究的开发者社区，看雪学院(kanxue.com)官方微信公众帐号。
 
@@ -213,7 +213,7 @@ pWn3d bY BiGSKidd3r&amp;FuzZer&amp;A2pter&amp;pWn3r rULe4Ker4pwn 65535 tim3s.
 
 [:camera_flash:【2022-04-09 12:30:00】](https://mp.weixin.qq.com/s?__biz=MzU3MDc0MTY1MA==&mid=2247484063&idx=1&sn=4ded5b0e9728d9f66c5a3e85814adbde&chksm=fceb8462cb9c0d742cfa6fd59a1a251c95aa286ce6ef91496489dfdea595aedc0dc8cbe22619&scene=58&subscene=0&key=ed4228788e86327b2e65d815a07e72e2f7266e2cf9e91be76b2e61e5758c2815a2df61597d9b5918de43cccde3d287500f074675d0925e03d21c579d6d441d4e53328123f9b3e74f38dd6c61eaf5db3f53312e82ff1f9429b7fad1683532e13483b29026ac912db1deb94dec3e527186c78717aa9389dd554393d98c330c3d7d&ascene=1&uin=MTM1NzU2MDQ1OQ%3D%3D&devicetype=Windows+Server+2016+x64&version=6305002e&lang=zh_CN&exportkey=AxbXFXRFeNKY6nt9keRZtE&scene=27#wechat_redirect)
 
-移动安全、逆向、漏洞等技术。
+“知其白守其黑，用手中的矛铸心中的盾&quot;,  逆向、安全、加固、风控、分享。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_fdf8c8d2d9a8" alt="" />
 
