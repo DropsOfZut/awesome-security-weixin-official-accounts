@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【0/19/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
 
-[:camera_flash:【2022-05-26 16:17:37】](https://mp.weixin.qq.com/s?__biz=MzIwMzU0NDY5OA==&mid=2247491497&idx=1&sn=b2238bba88088a68b0ba3461e2e6c669&chksm=96cc9ebca1bb17aa44ab885e82f7f701eea41065ffd531b2a3feeb189fdc5de04d5457b9e7de&scene=27#wechat_redirect)
+[:camera_flash:【2022-05-27 17:47:12】](https://mp.weixin.qq.com/s?__biz=MzIwMzU0NDY5OA==&mid=2247491580&idx=1&sn=ef9ac94c5dc627ee143001cae1b03e0c&chksm=96cc9ee9a1bb17ff1af64ae12c2a80a4c2c514da7936fce77457da72dca3c42bb7eb8d6a2062&scene=27#wechat_redirect)
 
 寰宇卫士综合安全咨询、安全服务、解决方案、认证培训、产品研发等信息安全多元化产业链为一体。
 
@@ -14,13 +14,26 @@
 
 ### [春秋伽玛](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
 
-[:chart_with_upwards_trend:【5/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
+[:chart_with_upwards_trend:【4/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
 
 [:camera_flash:【2022-05-23 18:34:49】](https://mp.weixin.qq.com/s?__biz=MzkyNDA5NjgyMg==&mid=2247493401&idx=1&sn=c816a29c4142fa5bfb49a586f858ab8e&chksm=c1d9a740f6ae2e561d0bdfbef6ec1aebc0262309779f9c6c0e2f2f91cbe70db3d045f3446e86&scene=27#wechat_redirect)
 
 春秋伽玛，为广大网络安全爱好者传递网络安全大赛相关赛事信息，提供优质的赛事服务平台
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_07fa2c2720be" alt="" />
+
+---
+
+
+### [PTEHub](http://wechat.doonsec.com/admin/wechat_echarts/?biz=Mzg4NzY5NjgyNw==)
+
+[:chart_with_upwards_trend:【6/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NzY5NjgyNw==)
+
+[:camera_flash:【2022-05-27 11:50:37】](https://mp.weixin.qq.com/s?__biz=Mzg4NzY5NjgyNw==&mid=2247484412&idx=1&sn=5af523c046c801fe7f9f86abcd7f0482&chksm=cf873f28f8f0b63e458558216e0cdfca30864dd874b2332e386155a15635726b3b854a00fb59&scene=27&key=acb1db43c4248adcc308a9455707c61144c7fcad5a12733fc62adb54c91309fd8e8924d4bb962a6094770be31f8d81c5ce551f8d5bba926fcf733ba99f33409bfc2f9eb03207bd3c061ddd3e3b78470a5f49b90881b9e7c53de79cbb8aaa7d193930eb705e3a0752046ef9287ab8363377ee2a7f268d5d890188f9059d78895c&ascene=0&uin=NTY2NTA4NjQ%3D&devicetype=Windows+Server+2016+x64&version=6305002e&lang=zh_CN&exportkey=A%2Fo7h4bbwEMWO3v1kLvwOaA%3D&acctmode=0&pass_ticket=GUvH3uPQjNpC1voTcsjTiDh92yQAjit5rtLviKyEhf6u2gSUhqYo%2FD2K1hp1NEOI&wx_header=0&fontgear=2&scene=27#wechat_redirect)
+
+PTE小技巧
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_5aff651a75ac" alt="" />
 
 ---
 
@@ -34,19 +47,6 @@
 1990年，哈勃望远镜（Hubble Space Telescope）发射升空，开启了人类对宇宙空间的崭新探索。 现在，Pwnhub的出现，将引领那些对网络安全感兴趣的人们探索“0 1”世界中的无限奥秘。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_2e9e965bad75" alt="" />
-
----
-
-
-### [PTEHub](http://wechat.doonsec.com/admin/wechat_echarts/?biz=Mzg4NzY5NjgyNw==)
-
-[:chart_with_upwards_trend:【5/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NzY5NjgyNw==)
-
-[:camera_flash:【2022-05-24 08:00:22】](https://mp.weixin.qq.com/s?__biz=Mzg4NzY5NjgyNw==&mid=2247484352&idx=1&sn=2b82b00cd52943b5a5f21afa82983ab2&chksm=cf873f14f8f0b60222d0d075a68e28176a0d273ac18e1b8eb7abbc9e64576a2c415eeb55cadb&scene=27&key=ab06ae04649bd3448b8a1b62f4a29a5b233be9e60ce718860c5de3e725254d2453e2080e4d46ef675beaca3e12189236a7c40428f1b112c94a7b17b13118d7133d99f57888ed64c03bea8555278e957d64a3f2b518cec2250084a729667f1d40b7e6741240bf009fa0c830bf588e609121d75f93d509886203de11b6bd2ea2c6&ascene=0&uin=NTY2NTA4NjQ%3D&devicetype=Windows+Server+2016+x64&version=6305002e&lang=zh_CN&exportkey=A7W17fTpiLzK1NzOkpnjlzg%3D&acctmode=0&pass_ticket=XNlG0KMeU6xSj07yg11ILrI4PhCyuIh7%2FOw81mRQvbOkMhoTnU1XVDVFP8m8iXVs&wx_header=0&fontgear=2&scene=27#wechat_redirect)
-
-PTE小技巧
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_5aff651a75ac" alt="" />
 
 ---
 
@@ -68,7 +68,7 @@ PTE小技巧
 
 [:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5Njg1NzMyNw==)
 
-[:camera_flash:【2022-05-25 12:47:20】](https://mp.weixin.qq.com/s?__biz=MzU5Njg1NzMyNw==&mid=2247484559&idx=1&sn=c28f0e1e9f4a877789688c0b82dbb9e1&chksm=fe5d1c0fc92a9519b278551573cddf9de0f069a1018f5234cdbe9b75522712ba29f3ec0a5d9e&scene=27#wechat_redirect)
+[:camera_flash:【2022-05-27 15:21:54】](https://mp.weixin.qq.com/s?__biz=MzU5Njg1NzMyNw==&mid=2247484597&idx=1&sn=1476c8ef51cf5b5ea321bd4c5ea9bd7f&chksm=fe5d1c35c92a952374e4226691527ea22374a32367e6f39447424015f0d8a4fe60e23763f2c3&scene=27#wechat_redirect)
 
 由奇安信集团、清华大学、蚂蚁集团主办，联合北京大学、中科院软件所、复旦大学、中山大学、山东大学、中国科技大学等30多个知名高校和研究机构共同举办的聚焦大数据安全分析的比赛。
 

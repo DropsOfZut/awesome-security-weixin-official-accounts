@@ -12,19 +12,6 @@
 ---
 
 
-### [复旦白泽战队](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
-
-[:chart_with_upwards_trend:【2/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
-
-[:camera_flash:【2022-05-19 16:29:49】](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247485469&idx=1&sn=efca3310cff1d0d0d82499e0700e958e&chksm=fdeb8c63ca9c057578427f682fe10b716372c2179cdfc914a045d2a7c435cfcea27e3bfbedd8&scene=27&key=e3c6d366b452a3e611833bca5ddf6f96f8e37337949911f224982c78d85f38b64aba058f305ff67545931551df7a651e439227d445cfb8e207268dae8de3162e272367177f04d7873ccdd8fc394c6537d3f06c81676b9936ec358f793d47254807e3e02f1946ccd7bbbcea62ecf336f0c3bfe048eb00499e039f048701f22238&ascene=0&uin=MTA3Mzc3OTIzNQ%3D%3D&devicetype=Windows+Server+2016+x64&version=6305002e&lang=zh_CN&exportkey=AUmRdZw8JGmuainzDiQm%2BmY%3D&acctmode=0&pass_ticket=CLipu1oc3Xo23kKaFPk9VMmJWr0KzXLDKmtoNd6o2PRzCklLCrUb3XxUITQ9X3B0&wx_header=0&fontgear=2&scene=27#wechat_redirect)
-
-以复旦大学系统安全实验室学生为主成立的安全攻防战队，分享最新研究成果，交流系统安全攻防领域技巧。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f1bf07da06d8" alt="" />
-
----
-
-
 ### [谛听ditecting](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzU3MzQyOTU0Nw==)
 
 [:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzQyOTU0Nw==)
@@ -34,6 +21,19 @@
 东北大学“谛听”网络安全团队
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ce3e0df31e50" alt="" />
+
+---
+
+
+### [复旦白泽战队](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
+
+[:chart_with_upwards_trend:【1/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
+
+[:camera_flash:【2022-05-19 16:29:49】](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247485469&idx=1&sn=efca3310cff1d0d0d82499e0700e958e&chksm=fdeb8c63ca9c057578427f682fe10b716372c2179cdfc914a045d2a7c435cfcea27e3bfbedd8&scene=27&key=e3c6d366b452a3e611833bca5ddf6f96f8e37337949911f224982c78d85f38b64aba058f305ff67545931551df7a651e439227d445cfb8e207268dae8de3162e272367177f04d7873ccdd8fc394c6537d3f06c81676b9936ec358f793d47254807e3e02f1946ccd7bbbcea62ecf336f0c3bfe048eb00499e039f048701f22238&ascene=0&uin=MTA3Mzc3OTIzNQ%3D%3D&devicetype=Windows+Server+2016+x64&version=6305002e&lang=zh_CN&exportkey=AUmRdZw8JGmuainzDiQm%2BmY%3D&acctmode=0&pass_ticket=CLipu1oc3Xo23kKaFPk9VMmJWr0KzXLDKmtoNd6o2PRzCklLCrUb3XxUITQ9X3B0&wx_header=0&fontgear=2&scene=27#wechat_redirect)
+
+以复旦大学系统安全实验室学生为主成立的安全攻防战队，分享最新研究成果，交流系统安全攻防领域技巧。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f1bf07da06d8" alt="" />
 
 ---
 
@@ -51,19 +51,6 @@
 ---
 
 
-### [信安塾](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzIwNTk2MDAwNA==)
-
-[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNTk2MDAwNA==)
-
-[:camera_flash:【2022-05-16 18:15:45】](https://mp.weixin.qq.com/s?__biz=MzIwNTk2MDAwNA==&mid=2247485671&idx=1&sn=d61f367153d12305d379a501ff25be7c&chksm=9729aecca05e27daa188a5ce4940cc16a29297e2a3c762204b39f83fb01d8ec8de8d60b6d284&scene=27&key=9b512ca85604a307cdc5d429ad0d7001101dbd1b24cf73ee6e980eb4ed9ddf1211afb7169f4129e5e83ab2f21d676a4f0fc4ea277d85800accf99ee8fc8d9679e7ad3b17d4da7335c815d92125dbe015c7cf59e268e5855912c94104eefb5aa9395953199b994fc06febd2568dddc339d952fcdd84fff08f397501d79c4838ce&ascene=0&uin=MTM1NzU2MDQ1OQ%3D%3D&devicetype=Windows+Server+2016+x64&version=6305002e&lang=zh_CN&exportkey=AzRiHM46Hu6CrfR4EU1Kz7w%3D&acctmode=0&pass_ticket=nDZrCbVJzEN19v7O3jTjmzVPWmxH9zPoYj3eCBUDyjuNMRtD82lrGziIz1t3syiY&wx_header=0&fontgear=2&scene=27#wechat_redirect)
-
-连天教育，是河南信安世纪科技有限公司旗下独立信息安全培训组织，主要面向国内外信息安全认证和职业技能培训，涉及CISP、CISM、CISSP、CISA、信息安全意识、风险评估、渗透测试、CTF竞赛、Web安全等。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_9fe1a6f307b0" alt="" />
-
----
-
-
 ### [浙商大信息安全小分队](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI5NTM0MjA5OA==)
 
 [:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM0MjA5OA==)
@@ -73,6 +60,19 @@
 发布信息安全技术及相关竞赛信息。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_711d4ce1da87" alt="" />
+
+---
+
+
+### [信安塾](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzIwNTk2MDAwNA==)
+
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNTk2MDAwNA==)
+
+[:camera_flash:【2022-05-16 18:15:45】](https://mp.weixin.qq.com/s?__biz=MzIwNTk2MDAwNA==&mid=2247485671&idx=1&sn=d61f367153d12305d379a501ff25be7c&chksm=9729aecca05e27daa188a5ce4940cc16a29297e2a3c762204b39f83fb01d8ec8de8d60b6d284&scene=27&key=9b512ca85604a307cdc5d429ad0d7001101dbd1b24cf73ee6e980eb4ed9ddf1211afb7169f4129e5e83ab2f21d676a4f0fc4ea277d85800accf99ee8fc8d9679e7ad3b17d4da7335c815d92125dbe015c7cf59e268e5855912c94104eefb5aa9395953199b994fc06febd2568dddc339d952fcdd84fff08f397501d79c4838ce&ascene=0&uin=MTM1NzU2MDQ1OQ%3D%3D&devicetype=Windows+Server+2016+x64&version=6305002e&lang=zh_CN&exportkey=AzRiHM46Hu6CrfR4EU1Kz7w%3D&acctmode=0&pass_ticket=nDZrCbVJzEN19v7O3jTjmzVPWmxH9zPoYj3eCBUDyjuNMRtD82lrGziIz1t3syiY&wx_header=0&fontgear=2&scene=27#wechat_redirect)
+
+连天教育，是河南信安世纪科技有限公司旗下独立信息安全培训组织，主要面向国内外信息安全认证和职业技能培训，涉及CISP、CISM、CISSP、CISA、信息安全意识、风险评估、渗透测试、CTF竞赛、Web安全等。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_9fe1a6f307b0" alt="" />
 
 ---
 
