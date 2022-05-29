@@ -1,9 +1,9 @@
 
 ### [汇编语言](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzIxNDcwOTcwOQ==)
 
-[:chart_with_upwards_trend:【0/211/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxNDcwOTcwOQ==)
+[:chart_with_upwards_trend:【0/208/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxNDcwOTcwOQ==)
 
-[:camera_flash:【2022-05-28 00:03:59】](https://mp.weixin.qq.com/s?__biz=MzIxNDcwOTcwOQ==&mid=2247493211&idx=2&sn=ec3604b1572374820b40af438599c4a5&chksm=97a1c2f9a0d64befb1a77719b1f614aaab013f49f37077fc2c8948f6cb688417d59fa729ac6f&scene=27#wechat_redirect)
+[:camera_flash:【2022-05-29 01:45:35】](https://mp.weixin.qq.com/s?__biz=MzIxNDcwOTcwOQ==&mid=2247493214&idx=2&sn=981b22f533f0ddf2485718da5d6e23ee&chksm=97a1c2fca0d64bea42a787c8be53907615ec0596de9b2681fab357dbee7adbf66467bd592611&scene=27#wechat_redirect)
 
 致力于汇编教程和逆向破解之路
 
@@ -14,26 +14,13 @@
 
 ### [看雪学苑](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MjM5NTc2MDYxMw==)
 
-[:chart_with_upwards_trend:【45/101/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTc2MDYxMw==)
+[:chart_with_upwards_trend:【45/106/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTc2MDYxMw==)
 
-[:camera_flash:【2022-05-27 18:08:49】](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458449573&idx=1&sn=cfab5d8030041ed7d6d4ed0eb84619fc&chksm=b18fc62f86f84f3901d3bfa087c6b0ceb1882ad1682d155e01107cc4b0d09c8359445c624a84&scene=27#wechat_redirect)
+[:camera_flash:【2022-05-28 17:59:18】](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458449719&idx=2&sn=eaa3f5b0bc63df3ff81f12b4d091b790&chksm=b18fc7bd86f84eab7e4ba3644485191f6e4e0e22e3007ab39e089c10e03e1fe6eee6daff54ba&scene=27#wechat_redirect)
 
 致力于移动与安全研究的开发者社区，看雪学院(kanxue.com)官方微信公众帐号。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e7e71fe92c19" alt="" />
-
----
-
-
-### [FuzzWiki](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzU1NTEzODc3MQ==)
-
-[:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU1NTEzODc3MQ==)
-
-[:camera_flash:【2022-05-09 17:49:53】](https://mp.weixin.qq.com/s?__biz=MzU1NTEzODc3MQ==&mid=2247484149&idx=1&sn=44dd260305897a239fe2ebdbb9a6ffcf&chksm=fbd9a949ccae205fee07f231d606d19b6fc4e9619cca1abeea2dbf15976354d964ea89672903&scene=27&key=5c074e52529293f47e40f67ea6790e8b5a9d777025e5cd321b0f5600a827f67b9e3f4fa3b327c12692081cd6c64ad5355bbd3af7f3479fc26de9d29f5bc04868ffbc03b84a56a1b05ff042fe529606299b271876b5bcadd544a485eedfe7cbdcd562d4e2705c0ae0630291b800155b9d254eb471b638bcc384bd97d7e9f5365d&ascene=0&uin=MTA3Mzc3OTIzNQ%3D%3D&devicetype=Windows+Server+2016+x64&version=6305002e&lang=zh_CN&exportkey=AU6wgw%2F%2Fa6HKx0vIIVYiPtQ%3D&acctmode=0&pass_ticket=x5L51KCJ6XqoNfwscKbUI3yjDD27H0nM5LeiCm5MJ2CSK%2BlhttYv1c8VIL95tfCE&wx_header=0&fontgear=2&scene=27#wechat_redirect)
-
-逆向与漏洞挖掘实验室，致力于软件动静态分析与漏洞挖掘领域新技术、新工具、新思想的交流与分享。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_fcf21e658324" alt="" />
 
 ---
 
@@ -47,6 +34,19 @@
 吾爱破解论坛致力于软件安全与病毒分析的前沿，丰富的技术版块交相辉映，由无数热衷于软件加密解密及反病毒爱好者共同维护，留给世界一抹值得百年回眸的惊艳，沉淀百年来计算机应用之精华与优雅，任岁月流转，低调而奢华的技术交流与探索却是亘古不变。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_fb242c15300f" alt="" />
+
+---
+
+
+### [FuzzWiki](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzU1NTEzODc3MQ==)
+
+[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU1NTEzODc3MQ==)
+
+[:camera_flash:【2022-05-09 17:49:53】](https://mp.weixin.qq.com/s?__biz=MzU1NTEzODc3MQ==&mid=2247484149&idx=1&sn=44dd260305897a239fe2ebdbb9a6ffcf&chksm=fbd9a949ccae205fee07f231d606d19b6fc4e9619cca1abeea2dbf15976354d964ea89672903&scene=27&key=5c074e52529293f47e40f67ea6790e8b5a9d777025e5cd321b0f5600a827f67b9e3f4fa3b327c12692081cd6c64ad5355bbd3af7f3479fc26de9d29f5bc04868ffbc03b84a56a1b05ff042fe529606299b271876b5bcadd544a485eedfe7cbdcd562d4e2705c0ae0630291b800155b9d254eb471b638bcc384bd97d7e9f5365d&ascene=0&uin=MTA3Mzc3OTIzNQ%3D%3D&devicetype=Windows+Server+2016+x64&version=6305002e&lang=zh_CN&exportkey=AU6wgw%2F%2Fa6HKx0vIIVYiPtQ%3D&acctmode=0&pass_ticket=x5L51KCJ6XqoNfwscKbUI3yjDD27H0nM5LeiCm5MJ2CSK%2BlhttYv1c8VIL95tfCE&wx_header=0&fontgear=2&scene=27#wechat_redirect)
+
+逆向与漏洞挖掘实验室，致力于软件动静态分析与漏洞挖掘领域新技术、新工具、新思想的交流与分享。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_fcf21e658324" alt="" />
 
 ---
 
