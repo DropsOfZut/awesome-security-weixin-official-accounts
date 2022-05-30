@@ -1,9 +1,9 @@
 
 ### [编码安全研究](http://wechat.doonsec.com/admin/wechat_echarts/?biz=Mzg2NDY1MDc2Mg==)
 
-[:chart_with_upwards_trend:【0/29/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NDY1MDc2Mg==)
+[:chart_with_upwards_trend:【0/30/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NDY1MDc2Mg==)
 
-[:camera_flash:【2022-05-28 21:48:20】](https://mp.weixin.qq.com/s?__biz=Mzg2NDY1MDc2Mg==&mid=2247488175&idx=1&sn=f195740832baa6763130636ab72a5232&chksm=ce6741caf910c8dcaf54a426c1b3bcca6fa1e9a91a9a4137a27ad945db0538d6974ad6b8a79a&scene=27#wechat_redirect)
+[:camera_flash:【2022-05-29 09:09:23】](https://mp.weixin.qq.com/s?__biz=Mzg2NDY1MDc2Mg==&mid=2247488189&idx=1&sn=1db31c82fe7340521648e46d60059848&chksm=ce6741d8f910c8ce54ecd2f11ce0bbee947f23a5d394a3e97b489027309dce8a4a8d374da4eb&scene=27&key=da5527f6ccd6edd789511b7c179e8ce59d6e5d413acf99eadb79539da8c8b5eaaea84452f6e8248fb03a3743c8247feee42325239572912bef475a0793c08f915bedfafc6e28a27259cba262a6a638a4719d6ea612f946c015c9fdcc8bd9cd4715dddd3567dfbdcef10b560fb5eb39d796ff6c769af91883412b731670f64e18&ascene=15&uin=MTA3Mzc3OTIzNQ%3D%3D&devicetype=Windows+Server+2016+x64&version=63060012&lang=zh_CN&session_us=gh_fdc868b0562f&exportkey=AZk%2FPfFMLgnkvUHWjjL2%2B3c%3D&acctmode=0&pass_ticket=cb8pUESL%2F82JWFVM7Msp3nlAiOiiGCkyleT4TcOdLRNy6ObHdZ%2F8%2FFkqtXxFdibv&wx_header=0&fontgear=2&scene=27#wechat_redirect)
 
 专注于学习网络安全
 
@@ -12,24 +12,11 @@
 ---
 
 
-### [字节跳动技术团队](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
-
-[:chart_with_upwards_trend:【18/25/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
-
-[:camera_flash:【2022-05-27 12:04:29】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247493790&idx=1&sn=c7b24b4cd01d9141747006608ce2fac9&chksm=e9d3237cdea4aa6a297df902588c7fdf7d0ab80953c15274bc3c818156025b8f303bfe984eff&scene=27&key=9b512ca85604a30718186ca20bc159e199d3c852594012a6d6df916da0f0a401e797c8812394bf1f5381d8bc5083e8b0962ad3b466614ad55aba820fe55119e8447fe53b32116955d645ab9b6b310ef1eb9e8fa49d123ead920820ccd43d39e3888ecacecec0196a55ab19d182a46a7585969e2df9275b8bdbfe81ea0ab2db6c&ascene=0&uin=MTM1NzU2MDQ1OQ%3D%3D&devicetype=Windows+Server+2016+x64&version=6305002e&lang=zh_CN&exportkey=AxLyziGyfI6qsMCt9QImOKM%3D&acctmode=0&pass_ticket=DvDLz8H%2FP915%2FuBmzDpldB5telCKseXLa%2FE5w%2BhGDDzOH0SAvwFJA8KUBET7oMQ5&wx_header=0&fontgear=2&scene=27#wechat_redirect)
-
-字节跳动的技术实践分享
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_24231986c9c8" alt="" />
-
----
-
-
 ### [GoCN](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzA4ODg0NDkzOA==)
 
-[:chart_with_upwards_trend:【10/25/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4ODg0NDkzOA==)
+[:chart_with_upwards_trend:【11/27/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4ODg0NDkzOA==)
 
-[:camera_flash:【2022-05-27 08:00:39】](https://mp.weixin.qq.com/s?__biz=MzA4ODg0NDkzOA==&mid=2247498484&idx=1&sn=205a5cd3ee61f3f119df826dba8ec47c&chksm=90214511a756cc07f6232f8f6e1957c5a38ce40cd4450b318b3cd6c3f9bdba182b4766a11cae&scene=27&key=12703ed085009c6f9e4cf4f34ea4deffe0798736aca5b74de9023a65dcd4651f1181806fe05b26da39e003a4399010ac2fbf232b99fe7c8c12fe14bd44c9b514edfee5f9dd9ddc72a11f450404be40221af0734d727e235e622c5d7c3498800e850b6e98fdf950b933a32a824e0de33ef99bca90e1e915826cafd2ac5ac737aa&ascene=0&uin=MTM1NzU2MDQ1OQ%3D%3D&devicetype=Windows+Server+2016+x64&version=6305002e&lang=zh_CN&exportkey=A4R3m4Kqj9xshK%2B%2BNjAVauA%3D&acctmode=0&pass_ticket=DvDLz8H%2FP915%2FuBmzDpldB5telCKseXLa%2FE5w%2BhGDDzOH0SAvwFJA8KUBET7oMQ5&wx_header=0&fontgear=2&scene=27#wechat_redirect)
+[:camera_flash:【2022-05-29 08:00:35】](https://mp.weixin.qq.com/s?__biz=MzA4ODg0NDkzOA==&mid=2247498502&idx=1&sn=2e0ee3cdbe3fc8c8e9bea4459307bc03&chksm=902144e3a756cdf54db05741dceb924d062239b1fff36086e2a42bb711663eac5ccaabe4e814&scene=27&key=e3c6d366b452a3e6bdaf5112712c80852a1cd86b28af33394d75dcf4b2e38a10782072062c7e5bc2458ae08d2d962a8e860091a6fc0bb136ef4a627d5e602e34936e2629c5e6eea5ba9b1f053e57f9478046bd136a1007ac60eaacd1c32826247c9e80db6685bf2c985bc631ca13c1e49ed1c39486e3751a6f8e32107ec21cb5&ascene=15&uin=MTA3Mzc3OTIzNQ%3D%3D&devicetype=Windows+Server+2016+x64&version=63060012&lang=zh_CN&session_us=gh_71f097621668&exportkey=AWvqzYK9VM9SHiIHAclHB%2Fo%3D&acctmode=0&pass_ticket=cb8pUESL%2F82JWFVM7Msp3nlAiOiiGCkyleT4TcOdLRNy6ObHdZ%2F8%2FFkqtXxFdibv&wx_header=0&fontgear=2&scene=27#wechat_redirect)
 
 最具规模和生命力的 Go 开发者社区
 
@@ -38,15 +25,15 @@
 ---
 
 
-### [哔哩哔哩技术](http://wechat.doonsec.com/admin/wechat_echarts/?biz=Mzg3Njc0NTgwMg==)
+### [字节跳动技术团队](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
 
-[:chart_with_upwards_trend:【9/15/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3Njc0NTgwMg==)
+[:chart_with_upwards_trend:【17/24/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
 
-[:camera_flash:【2022-05-27 12:00:12】](https://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&mid=2247485680&idx=1&sn=34c623a7ad0d23e94498658f1d1a9a60&chksm=cf2ccdd5f85b44c3bb84b35cb2cb519ed262e80704424f938e4099a9e7a9c7b154d8ee72c5ab&scene=27#wechat_redirect)
+[:camera_flash:【2022-05-27 12:04:29】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247493790&idx=1&sn=c7b24b4cd01d9141747006608ce2fac9&chksm=e9d3237cdea4aa6a297df902588c7fdf7d0ab80953c15274bc3c818156025b8f303bfe984eff&scene=27&key=9b512ca85604a30718186ca20bc159e199d3c852594012a6d6df916da0f0a401e797c8812394bf1f5381d8bc5083e8b0962ad3b466614ad55aba820fe55119e8447fe53b32116955d645ab9b6b310ef1eb9e8fa49d123ead920820ccd43d39e3888ecacecec0196a55ab19d182a46a7585969e2df9275b8bdbfe81ea0ab2db6c&ascene=0&uin=MTM1NzU2MDQ1OQ%3D%3D&devicetype=Windows+Server+2016+x64&version=6305002e&lang=zh_CN&exportkey=AxLyziGyfI6qsMCt9QImOKM%3D&acctmode=0&pass_ticket=DvDLz8H%2FP915%2FuBmzDpldB5telCKseXLa%2FE5w%2BhGDDzOH0SAvwFJA8KUBET7oMQ5&wx_header=0&fontgear=2&scene=27#wechat_redirect)
 
-提供B站相关技术的介绍和讲解
+字节跳动的技术实践分享
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_6a92a838f9e0" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_24231986c9c8" alt="" />
 
 ---
 
@@ -60,6 +47,19 @@
 分享安全方面的论文写作、会议发表、基金申请方面的资料。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_cbda1fb027bf" alt="" />
+
+---
+
+
+### [哔哩哔哩技术](http://wechat.doonsec.com/admin/wechat_echarts/?biz=Mzg3Njc0NTgwMg==)
+
+[:chart_with_upwards_trend:【8/14/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3Njc0NTgwMg==)
+
+[:camera_flash:【2022-05-27 12:00:12】](https://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&mid=2247485680&idx=1&sn=34c623a7ad0d23e94498658f1d1a9a60&chksm=cf2ccdd5f85b44c3bb84b35cb2cb519ed262e80704424f938e4099a9e7a9c7b154d8ee72c5ab&scene=27#wechat_redirect)
+
+提供B站相关技术的介绍和讲解
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_6a92a838f9e0" alt="" />
 
 ---
 

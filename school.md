@@ -12,6 +12,19 @@
 ---
 
 
+### [信安塾](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzIwNTk2MDAwNA==)
+
+[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNTk2MDAwNA==)
+
+[:camera_flash:【2022-05-27 18:00:07】](https://mp.weixin.qq.com/s?__biz=MzIwNTk2MDAwNA==&mid=2247485705&idx=1&sn=b858eb659474649ff3d8eba544436752&chksm=9729af22a05e2634b0fcef612f0702281e60a35d228b7305bba2e1a9495601f3bfc390cf95da&scene=27&key=8820c3cc18af110bdf7c8e6f94273567194242a29d1776b933ccdee3a60bbed4239fd08ed9c5556bfddc104c7ad23c5f547a287e901eb92aa97960d09048fdf5c8902fd3c5084764b8717703085efd31ff1f2ee6e280228a948e43f2f2f2ee4d450b1a8c3c522b22dbc478f4b29af6cf4342b34aefc7d2c807bfc6788b5e0ada&ascene=0&uin=MTA3Mzc3OTIzNQ%3D%3D&devicetype=Windows+Server+2016+x64&version=63060012&lang=zh_CN&exportkey=AQO73JJ9Z4Y7MpR89lsRW2Y%3D&acctmode=0&pass_ticket=cb8pUESL%2F82JWFVM7Msp3nlAiOiiGCkyleT4TcOdLRNy6ObHdZ%2F8%2FFkqtXxFdibv&wx_header=0&fontgear=2&scene=27#wechat_redirect)
+
+连天教育，是河南信安世纪科技有限公司旗下独立信息安全培训组织，主要面向国内外信息安全认证和职业技能培训，涉及CISP、CISM、CISSP、CISA、信息安全意识、风险评估、渗透测试、CTF竞赛、Web安全等。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_9fe1a6f307b0" alt="" />
+
+---
+
+
 ### [谛听ditecting](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzU3MzQyOTU0Nw==)
 
 [:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzQyOTU0Nw==)
@@ -60,19 +73,6 @@
 发布信息安全技术及相关竞赛信息。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_711d4ce1da87" alt="" />
-
----
-
-
-### [信安塾](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzIwNTk2MDAwNA==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNTk2MDAwNA==)
-
-[:camera_flash:【2022-05-16 18:15:45】](https://mp.weixin.qq.com/s?__biz=MzIwNTk2MDAwNA==&mid=2247485671&idx=1&sn=d61f367153d12305d379a501ff25be7c&chksm=9729aecca05e27daa188a5ce4940cc16a29297e2a3c762204b39f83fb01d8ec8de8d60b6d284&scene=27&key=9b512ca85604a307cdc5d429ad0d7001101dbd1b24cf73ee6e980eb4ed9ddf1211afb7169f4129e5e83ab2f21d676a4f0fc4ea277d85800accf99ee8fc8d9679e7ad3b17d4da7335c815d92125dbe015c7cf59e268e5855912c94104eefb5aa9395953199b994fc06febd2568dddc339d952fcdd84fff08f397501d79c4838ce&ascene=0&uin=MTM1NzU2MDQ1OQ%3D%3D&devicetype=Windows+Server+2016+x64&version=6305002e&lang=zh_CN&exportkey=AzRiHM46Hu6CrfR4EU1Kz7w%3D&acctmode=0&pass_ticket=nDZrCbVJzEN19v7O3jTjmzVPWmxH9zPoYj3eCBUDyjuNMRtD82lrGziIz1t3syiY&wx_header=0&fontgear=2&scene=27#wechat_redirect)
-
-连天教育，是河南信安世纪科技有限公司旗下独立信息安全培训组织，主要面向国内外信息安全认证和职业技能培训，涉及CISP、CISM、CISSP、CISA、信息安全意识、风险评估、渗透测试、CTF竞赛、Web安全等。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_9fe1a6f307b0" alt="" />
 
 ---
 
