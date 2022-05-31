@@ -1,9 +1,9 @@
 
 ### [编码安全研究](http://wechat.doonsec.com/admin/wechat_echarts/?biz=Mzg2NDY1MDc2Mg==)
 
-[:chart_with_upwards_trend:【0/30/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NDY1MDc2Mg==)
+[:chart_with_upwards_trend:【0/29/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NDY1MDc2Mg==)
 
-[:camera_flash:【2022-05-29 09:09:23】](https://mp.weixin.qq.com/s?__biz=Mzg2NDY1MDc2Mg==&mid=2247488189&idx=1&sn=1db31c82fe7340521648e46d60059848&chksm=ce6741d8f910c8ce54ecd2f11ce0bbee947f23a5d394a3e97b489027309dce8a4a8d374da4eb&scene=27&key=da5527f6ccd6edd789511b7c179e8ce59d6e5d413acf99eadb79539da8c8b5eaaea84452f6e8248fb03a3743c8247feee42325239572912bef475a0793c08f915bedfafc6e28a27259cba262a6a638a4719d6ea612f946c015c9fdcc8bd9cd4715dddd3567dfbdcef10b560fb5eb39d796ff6c769af91883412b731670f64e18&ascene=15&uin=MTA3Mzc3OTIzNQ%3D%3D&devicetype=Windows+Server+2016+x64&version=63060012&lang=zh_CN&session_us=gh_fdc868b0562f&exportkey=AZk%2FPfFMLgnkvUHWjjL2%2B3c%3D&acctmode=0&pass_ticket=cb8pUESL%2F82JWFVM7Msp3nlAiOiiGCkyleT4TcOdLRNy6ObHdZ%2F8%2FFkqtXxFdibv&wx_header=0&fontgear=2&scene=27#wechat_redirect)
+[:camera_flash:【2022-05-30 09:09:39】](https://mp.weixin.qq.com/s?__biz=Mzg2NDY1MDc2Mg==&mid=2247488208&idx=1&sn=e3b1f266e81f0ceae9c03c7f3a28c477&chksm=ce6741b5f910c8a3c4c271b7fd8a1c6fce348829d959e11299b763eb16d541b3b8c1572ab5f1&scene=27#wechat_redirect)
 
 专注于学习网络安全
 
@@ -16,7 +16,7 @@
 
 [:chart_with_upwards_trend:【11/27/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4ODg0NDkzOA==)
 
-[:camera_flash:【2022-05-29 08:00:35】](https://mp.weixin.qq.com/s?__biz=MzA4ODg0NDkzOA==&mid=2247498502&idx=1&sn=2e0ee3cdbe3fc8c8e9bea4459307bc03&chksm=902144e3a756cdf54db05741dceb924d062239b1fff36086e2a42bb711663eac5ccaabe4e814&scene=27&key=e3c6d366b452a3e6bdaf5112712c80852a1cd86b28af33394d75dcf4b2e38a10782072062c7e5bc2458ae08d2d962a8e860091a6fc0bb136ef4a627d5e602e34936e2629c5e6eea5ba9b1f053e57f9478046bd136a1007ac60eaacd1c32826247c9e80db6685bf2c985bc631ca13c1e49ed1c39486e3751a6f8e32107ec21cb5&ascene=15&uin=MTA3Mzc3OTIzNQ%3D%3D&devicetype=Windows+Server+2016+x64&version=63060012&lang=zh_CN&session_us=gh_71f097621668&exportkey=AWvqzYK9VM9SHiIHAclHB%2Fo%3D&acctmode=0&pass_ticket=cb8pUESL%2F82JWFVM7Msp3nlAiOiiGCkyleT4TcOdLRNy6ObHdZ%2F8%2FFkqtXxFdibv&wx_header=0&fontgear=2&scene=27#wechat_redirect)
+[:camera_flash:【2022-05-30 08:00:16】](https://mp.weixin.qq.com/s?__biz=MzA4ODg0NDkzOA==&mid=2247498508&idx=1&sn=ae8d95286b870eeb4721452bf5fc9f74&chksm=902144e9a756cdffc44970edb5d6584ad954f1783948d2149eaca11da1b1d51ec34baf9e3cc8&scene=27#wechat_redirect)
 
 最具规模和生命力的 Go 开发者社区
 
@@ -81,7 +81,7 @@
 
 [:chart_with_upwards_trend:【6/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
 
-[:camera_flash:【2022-05-25 18:00:50】](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649770979&idx=1&sn=040e8980fa1acdde8658d1d64477a531&chksm=beccd89889bb518e24d339637539fee251d9502c2117a6315cbc3efc64be670714439cdf8683&scene=27#wechat_redirect)
+[:camera_flash:【2022-05-30 18:00:30】](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649771018&idx=1&sn=c1c5852e00e42abb6ab746a4b65e3b60&chksm=beccdf7189bb56676ab7388c573dd70c12cc62d79ff10eca50fc394a8ac480cb28ab2ee2604d&scene=27#wechat_redirect)
 
 腾讯技术官方号。腾讯技术创新、前沿领域发布解读平台。
 
@@ -289,7 +289,7 @@ Yak Language Project: &lt;del&gt;北半球&lt;/del&gt;最强安全研发语言 /
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxODQ1OTg5NQ==)
 
-[:camera_flash:【2022-04-12 08:00:00】](https://mp.weixin.qq.com/s?__biz=MzIxODQ1OTg5NQ==&mid=2247485233&idx=1&sn=dd6928438ca990f5c68840553fbad794&chksm=97eb7ca9a09cf5bf51eb760ae9df96ca4199f32d1fc266aacd8654ce41e3245090963e423726&scene=27#wechat_redirect)
+[:camera_flash:【2022-05-30 20:00:02】](https://mp.weixin.qq.com/s?__biz=MzIxODQ1OTg5NQ==&mid=2247485256&idx=1&sn=fbe3c0efe3ec70a60c77acb50935ac05&chksm=97eb7cd0a09cf5c60e62bfe206b366b092934c290e9ea3ca948938c31ded7e56076962089db4&scene=27#wechat_redirect)
 
 本观察室仅个人做内容存档使用！
 
@@ -398,6 +398,19 @@ RapidDNS.io 是一个免费开放的DNS在线查询平台。
 Pinpoint，专业代码审计团队。感谢您的关注！
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f580fec03d4d" alt="" />
+
+---
+
+
+### [FOFA](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzkyNzIwMzY4OQ==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNzIwMzY4OQ==)
+
+[:camera_flash:【2022-01-22 13:09:24】](https://mp.weixin.qq.com/s?__biz=MzkyNzIwMzY4OQ==&mid=2247485975&idx=1&sn=5d4ad202ae9715d63b6a393ff08e5a97&chksm=c22ae211f55d6b07fa0356e051b268d31198711f66727556fdf3034c07fc320331eba5d6c6eb&scene=27#wechat_redirect)
+
+FOFA是由华顺信安科技有限公司开发的一款网络空间资产搜索引擎。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_d79c8913fde8" alt="" />
 
 ---
 
