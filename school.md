@@ -42,7 +42,7 @@
 
 [:chart_with_upwards_trend:【1/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
 
-[:camera_flash:【2022-05-19 16:29:49】](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247485469&idx=1&sn=efca3310cff1d0d0d82499e0700e958e&chksm=fdeb8c63ca9c057578427f682fe10b716372c2179cdfc914a045d2a7c435cfcea27e3bfbedd8&scene=27&key=e3c6d366b452a3e611833bca5ddf6f96f8e37337949911f224982c78d85f38b64aba058f305ff67545931551df7a651e439227d445cfb8e207268dae8de3162e272367177f04d7873ccdd8fc394c6537d3f06c81676b9936ec358f793d47254807e3e02f1946ccd7bbbcea62ecf336f0c3bfe048eb00499e039f048701f22238&ascene=0&uin=MTA3Mzc3OTIzNQ%3D%3D&devicetype=Windows+Server+2016+x64&version=6305002e&lang=zh_CN&exportkey=AUmRdZw8JGmuainzDiQm%2BmY%3D&acctmode=0&pass_ticket=CLipu1oc3Xo23kKaFPk9VMmJWr0KzXLDKmtoNd6o2PRzCklLCrUb3XxUITQ9X3B0&wx_header=0&fontgear=2&scene=27#wechat_redirect)
+[:camera_flash:【2022-06-02 00:00:15】](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247485496&idx=1&sn=d2ba6f4c1b96bb225e241a72d369663f&chksm=fdeb8c46ca9c055023f176aaf03b64fc7da9ede3e81f7f68b1756f1e70a603a6dd72d7d19790&scene=27#wechat_redirect)
 
 以复旦大学系统安全实验室学生为主成立的安全攻防战队，分享最新研究成果，交流系统安全攻防领域技巧。
 
@@ -73,6 +73,19 @@
 发布信息安全技术及相关竞赛信息。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_711d4ce1da87" alt="" />
+
+---
+
+
+### [赛博安全社团](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzkyNDIyNTE0OQ==)
+
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDIyNTE0OQ==)
+
+[:camera_flash:【2022-05-03 14:38:16】](https://mp.weixin.qq.com/s?__biz=MzkyNDIyNTE0OQ==&mid=2247484121&idx=1&sn=52a904600a0b7adb4302b897b16718d5&chksm=c1d859cbf6afd0dde34da2aeddcad4d8daad6264a765f3d4711bd126dc10d7116c379a98b398&scene=27&key=acb1db43c4248adc8e87dc3e3491db9be0ce8303b997310d18d46f85a4b92ee2c8e58f11b37be2f4fbb48548417026bb3305edbb31a628d0502dc1e5cb3cdc67dba54bce339ffc2d06987251c8a590f0c78ca8b9bfebb19b4a1cae9a2bae8f91023662890a08610329a855cfdb6547b154bef2f6d6656ed28cd160bd646f8d52&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+Server+2016+x64&version=63060012&lang=zh_CN&session_us=gh_92c404f38172&exportkey=A6noS%2Bl1%2FyBMRpFRB3%2FnvXk%3D&acctmode=0&pass_ticket=s0h8au%2FicJFMU7B6ZV7cHhtmwleDnyz1pTmnQWMeX3lmh4eAEbSIFFvg6CFLsono&wx_header=0&fontgear=2&scene=27#wechat_redirect)
+
+本社团致力于向大家分享交流网络安全实践技术，主要以CTF竞赛、红蓝对抗、渗透测试、知识讲座等形式分享网络安全知识，培养网安人才，积极响应国家建设网络强国的号召，共筑网络安全防线。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ac1289a6ef60" alt="" />
 
 ---
 
@@ -246,6 +259,19 @@
 ---
 
 
+### [广工AD攻防实验室](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzU3Njc3NDQ5OA==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3Njc3NDQ5OA==)
+
+[:camera_flash:【2021-11-23 17:35:59】](https://mp.weixin.qq.com/s?__biz=MzU3Njc3NDQ5OA==&mid=2247487053&idx=1&sn=5ac323e95dc11ce74cb4fa539d03aad8&chksm=fd0f8640ca780f56ca88f579b1f7b216e48d78e0c8d8b1ac0a8e1592aeeecbdec494701f4925&scene=27&key=759d9f534a881e354c11cfba9e786a263a271e9932960536d4391b01aa7ece782d6bccb623cf70b5bf4a3ed41c75dad1c7ed4f945fd72f14041bdeca255cb55aab823681269e8934af03505f57e7e08b72cd597459400250b91f392739953e161b1d345cf06274a76c077d30c18ed3a397ee1762dfa7afaa7bef910801535a4e&ascene=15&uin=MTM1NzU2MDQ1OQ%3D%3D&devicetype=Windows+Server+2016+x64&version=63060012&lang=zh_CN&session_us=gh_7b464fe0640b&exportkey=A8yS5viPCNS2eASFinQYSm0%3D&acctmode=0&pass_ticket=nFApJneg4KeU9L9Drz9gdKtjy5slRiWEDkhU42anStX%2B8PT2YtjpWC%2B5U%2F5udpBJ&wx_header=0&fontgear=2&scene=27#wechat_redirect)
+
+广东工业大学A&amp;D（攻击与防御）工作室
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_c375cb5a0589" alt="" />
+
+---
+
+
 ### [内工大网络空间安全研究所](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzUxMzM5NDUzNA==)
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxMzM5NDUzNA==)
@@ -268,6 +294,19 @@
 破壳学院作为国内少有高品质的白帽黑客技术在线教学平台，我们将采用更为有趣易懂的教学方式，通过“陪伴式”学习，结合精细化的学习追踪服务，帮助学员用最短的时间速度成长，在安全攻防实战中快速找准自己的发展路线。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_2665ffa3a8ae" alt="" />
+
+---
+
+
+### [xhCovteam](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzU5ODE1ODY1OA==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5ODE1ODY1OA==)
+
+[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
+
+Covteam工作室，成立于2005年。是以西华大学在校本科生研究生为主力，依托于西华大学网络安全实验室，实验室主要负责网络与安全相关内容的研究。培养在网络安全领域全面发展的高级人才的摇篮。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4fb4ead8c48a" alt="" />
 
 ---
 
