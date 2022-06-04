@@ -1,7 +1,7 @@
 
 ### [全球技术地图](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI1OTExNDY1NQ==)
 
-[:chart_with_upwards_trend:【24/52/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1OTExNDY1NQ==)
+[:chart_with_upwards_trend:【24/51/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1OTExNDY1NQ==)
 
 [:camera_flash:【2022-06-02 17:28:31】](https://mp.weixin.qq.com/s?__biz=MzI1OTExNDY1NQ==&mid=2651593220&idx=1&sn=b654f7a66343179b6ff6741725693805&chksm=f18569f4c6f2e0e294374ae66cf89a3221ae3159e1403533f1f3311e1539da6d89a90e355a18&scene=27&key=aedb5dc6521c3eee931e42dfc7422b98874eb38505f8e5f29ed4644cd8f1ecd94e7ddec58b8a1d077ab0e54258c73ad740d08b130b18c69ac727cc2951e7ab14b6b34090882a98644143a1b8394e29338e827e4b6a4f383fee6fc38f1334f97c48e02e021c864a2cd63238f69f8e7584b3845e4e74d1ed371651a4a98503e406&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+Server+2016+x64&version=63060012&lang=zh_CN&session_us=gh_fb242c15300f&exportkey=AwzaeiRkJsCBDKHu7tHOvcU%3D&acctmode=0&pass_ticket=s0h8au%2FicJFMU7B6ZV7cHhtmwleDnyz1pTmnQWMeX3lmh4eAEbSIFFvg6CFLsono&wx_header=0&fontgear=2&scene=27#wechat_redirect)
 
@@ -40,7 +40,7 @@
 
 ### [网安寻路人](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzIxODM0NDU4MQ==)
 
-[:chart_with_upwards_trend:【0/18/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxODM0NDU4MQ==)
+[:chart_with_upwards_trend:【0/17/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxODM0NDU4MQ==)
 
 [:camera_flash:【2022-05-27 15:45:17】](https://mp.weixin.qq.com/s?__biz=MzIxODM0NDU4MQ==&mid=2247495241&idx=1&sn=7765cd3f0124cc3258e69c426089f937&chksm=97e953a3a09edab58f7bdb657c9450871d00996fb1e34618f58f7cd21053e94a175806eb4ff7&scene=27&key=9b512ca85604a30700672ce598139db6c4da980b9345998a73b91d89947f25b95980714e0fb7e94fd6f3eff0f427eb6683ef0e85aabab15ae162d9ff7c18839491f941749e264a012358812679ff8f86fd333f786062d8f9ff85ec08545a3ca94911da483cca457a0f22ed7f67503fbec72e6865ccd6c7cf3fab56bdc275aacb&ascene=0&uin=MTM1NzU2MDQ1OQ%3D%3D&devicetype=Windows+Server+2016+x64&version=6305002e&lang=zh_CN&exportkey=A%2BHvMMU9U2RaQO8gbk9qFts%3D&acctmode=0&pass_ticket=DvDLz8H%2FP915%2FuBmzDpldB5telCKseXLa%2FE5w%2BhGDDzOH0SAvwFJA8KUBET7oMQ5&wx_header=0&fontgear=2&scene=27#wechat_redirect)
 
@@ -53,7 +53,7 @@
 
 ### [嘉诚安全](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzU4NjY4MDAyNQ==)
 
-[:chart_with_upwards_trend:【0/17/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NjY4MDAyNQ==)
+[:chart_with_upwards_trend:【0/16/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NjY4MDAyNQ==)
 
 [:camera_flash:【2022-06-01 08:00:16】](https://mp.weixin.qq.com/s?__biz=MzU4NjY4MDAyNQ==&mid=2247488900&idx=1&sn=b7e7b39e8956805138717c2bf56dcf6f&chksm=fdf6c632ca814f24451a1572b8c70fca884a0bd9549ee389fede509712d021708c8f0ed537f8&scene=27#wechat_redirect)
 
@@ -77,19 +77,6 @@
 ---
 
 
-### [安全孺子牛](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI2MDI0NTM2Nw==)
-
-[:chart_with_upwards_trend:【7/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MDI0NTM2Nw==)
-
-[:camera_flash:【2022-05-29 20:06:32】](https://mp.weixin.qq.com/s?__biz=MzI2MDI0NTM2Nw==&mid=2247487889&idx=1&sn=31f90a522bb571fbc97e779cbaebb28b&chksm=ea6dc389dd1a4a9f41ac2ede9af70e1ba155cfc624db98ab6c1637863eb15b435aa96784bf01&scene=27#wechat_redirect)
-
-网络安全学习研究分享
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_2da522fdae7a" alt="" />
-
----
-
-
 ### [渗透测试教程](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI3OTIwNDkzNQ==)
 
 [:chart_with_upwards_trend:【2/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3OTIwNDkzNQ==)
@@ -99,6 +86,19 @@
 只会分享安全技术文章，不会分享安全娱乐新闻。专注渗透测试、渗透自动化武器研发。记录分享学习路上的知识，祝你早日登上SRC英雄榜！
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_7e60f7442e6a" alt="" />
+
+---
+
+
+### [安全孺子牛](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI2MDI0NTM2Nw==)
+
+[:chart_with_upwards_trend:【6/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MDI0NTM2Nw==)
+
+[:camera_flash:【2022-06-03 19:31:54】](https://mp.weixin.qq.com/s?__biz=MzI2MDI0NTM2Nw==&mid=2247487951&idx=1&sn=3e418dc195932d358209b64a34ffaf58&chksm=ea6dc3d7dd1a4ac132d7a5ecfd6847ebaefb181fdeaf6d9a8f6c40fd91a29c525d3e346702ff&scene=27#wechat_redirect)
+
+网络安全学习研究分享
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_2da522fdae7a" alt="" />
 
 ---
 
@@ -627,7 +627,7 @@ NOVA SEC  新星安全 萌新启蒙之路 愿大家都能成为最闪耀的星�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwMDQwNTE5MA==)
 
-[:camera_flash:【2022-06-03 00:00:56】](https://mp.weixin.qq.com/s?__biz=MzAwMDQwNTE5MA==&mid=2650246096&idx=1&sn=b6e35c5d2bb8b4c5feee7a0618c1c586&chksm=82ea5079b59dd96fa0e5ab8f3a56a060f963611472170047aa8624d9b853c03ee6272c22fcff&scene=27#wechat_redirect)
+[:camera_flash:【2022-06-04 00:00:29】](https://mp.weixin.qq.com/s?__biz=MzAwMDQwNTE5MA==&mid=2650246098&idx=1&sn=a2565cfd4eafd58dd44ad539fb7a1a68&chksm=82ea507bb59dd96de563522150a6174d06ac846c9fc23aaff521566c14fe694c80268e6de343&scene=27#wechat_redirect)
 
 每天会发信息安全的事件文章，让大家了解更多信息安全知识和资讯。
 
