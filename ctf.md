@@ -14,13 +14,26 @@
 
 ### [春秋伽玛](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
 
-[:chart_with_upwards_trend:【5/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
+[:chart_with_upwards_trend:【4/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
 
 [:camera_flash:【2022-05-23 18:34:49】](https://mp.weixin.qq.com/s?__biz=MzkyNDA5NjgyMg==&mid=2247493401&idx=1&sn=c816a29c4142fa5bfb49a586f858ab8e&chksm=c1d9a740f6ae2e561d0bdfbef6ec1aebc0262309779f9c6c0e2f2f91cbe70db3d045f3446e86&scene=27#wechat_redirect)
 
 春秋伽玛，为广大网络安全爱好者传递网络安全大赛相关赛事信息，提供优质的赛事服务平台
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_07fa2c2720be" alt="" />
+
+---
+
+
+### [DataCon大数据安全分析竞赛](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzU5Njg1NzMyNw==)
+
+[:chart_with_upwards_trend:【0/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5Njg1NzMyNw==)
+
+[:camera_flash:【2022-06-03 12:00:55】](https://mp.weixin.qq.com/s?__biz=MzU5Njg1NzMyNw==&mid=2247484634&idx=1&sn=caa9fab7452a3d99dd931f884a0771e1&chksm=fe5d1c5ac92a954c85bc27e1d0ea307bcb25e1e409b9cb00fa928a1e40d5a5f83432b842bc05&scene=27#wechat_redirect)
+
+由奇安信集团、清华大学、蚂蚁集团主办，联合北京大学、中科院软件所、复旦大学、中山大学、山东大学、中国科技大学等30多个知名高校和研究机构共同举办的聚焦大数据安全分析的比赛。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a0316d342599" alt="" />
 
 ---
 
@@ -47,19 +60,6 @@ PTE小技巧
 1990年，哈勃望远镜（Hubble Space Telescope）发射升空，开启了人类对宇宙空间的崭新探索。 现在，Pwnhub的出现，将引领那些对网络安全感兴趣的人们探索“0 1”世界中的无限奥秘。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_2e9e965bad75" alt="" />
-
----
-
-
-### [DataCon大数据安全分析竞赛](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzU5Njg1NzMyNw==)
-
-[:chart_with_upwards_trend:【0/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5Njg1NzMyNw==)
-
-[:camera_flash:【2022-06-03 12:00:55】](https://mp.weixin.qq.com/s?__biz=MzU5Njg1NzMyNw==&mid=2247484634&idx=1&sn=caa9fab7452a3d99dd931f884a0771e1&chksm=fe5d1c5ac92a954c85bc27e1d0ea307bcb25e1e409b9cb00fa928a1e40d5a5f83432b842bc05&scene=27#wechat_redirect)
-
-由奇安信集团、清华大学、蚂蚁集团主办，联合北京大学、中科院软件所、复旦大学、中山大学、山东大学、中国科技大学等30多个知名高校和研究机构共同举办的聚焦大数据安全分析的比赛。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a0316d342599" alt="" />
 
 ---
 
