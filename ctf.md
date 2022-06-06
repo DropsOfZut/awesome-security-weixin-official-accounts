@@ -1,7 +1,7 @@
 
-### [寰宇卫士](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
+### [寰宇卫士](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
 
-[:chart_with_upwards_trend:【0/21/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
+[:chart_with_upwards_trend:【0/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
 
 [:camera_flash:【2022-06-02 17:19:08】](https://mp.weixin.qq.com/s?__biz=MzIwMzU0NDY5OA==&mid=2247491627&idx=1&sn=7113b553bf386c854e9dbcda75ac8e5f&chksm=96cf613ea1b8e828e025bfcfca6433a062cf3bf95aa0d62169d02b34a9df29e7a569bd3725f6&scene=27#wechat_redirect)
 
@@ -12,7 +12,7 @@
 ---
 
 
-### [春秋伽玛](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
+### [春秋伽玛](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
 
 [:chart_with_upwards_trend:【4/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
 
@@ -25,7 +25,7 @@
 ---
 
 
-### [DataCon大数据安全分析竞赛](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzU5Njg1NzMyNw==)
+### [DataCon大数据安全分析竞赛](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5Njg1NzMyNw==)
 
 [:chart_with_upwards_trend:【0/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5Njg1NzMyNw==)
 
@@ -38,7 +38,7 @@
 ---
 
 
-### [PTEHub](http://wechat.doonsec.com/admin/wechat_echarts/?biz=Mzg4NzY5NjgyNw==)
+### [PTEHub](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NzY5NjgyNw==)
 
 [:chart_with_upwards_trend:【7/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NzY5NjgyNw==)
 
@@ -51,7 +51,7 @@ PTE小技巧
 ---
 
 
-### [胖哈勃](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI2OTUzMzg3Ng==)
+### [胖哈勃](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2OTUzMzg3Ng==)
 
 [:chart_with_upwards_trend:【0/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2OTUzMzg3Ng==)
 
@@ -64,7 +64,7 @@ PTE小技巧
 ---
 
 
-### [XCTF联赛](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MjM5NDU3MjExNw==)
+### [XCTF联赛](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
 
 [:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
 
@@ -77,7 +77,7 @@ PTE小技巧
 ---
 
 
-### [r3kapig](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI2MDE4MzkzMQ==)
+### [r3kapig](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MDE4MzkzMQ==)
 
 [:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MDE4MzkzMQ==)
 
@@ -90,7 +90,7 @@ power by r3kapig team
 ---
 
 
-### [中学生CTF](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzU3MzEwMTQ3NQ==)
+### [中学生CTF](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzEwMTQ3NQ==)
 
 [:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzEwMTQ3NQ==)
 
@@ -103,7 +103,7 @@ power by r3kapig team
 ---
 
 
-### [CTF之家](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzU3OTI3ODY2Mw==)
+### [CTF之家](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3OTI3ODY2Mw==)
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3OTI3ODY2Mw==)
 
@@ -116,7 +116,7 @@ CTF，从入门到放弃
 ---
 
 
-### [TencentCTF](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzU3NzY2NzAyNg==)
+### [TencentCTF](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3NzY2NzAyNg==)
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3NzY2NzAyNg==)
 
@@ -129,7 +129,7 @@ CTF，从入门到放弃
 ---
 
 
-### [ctffish](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI4NTMyOTY0Mg==)
+### [ctffish](http://wechat.doonsec.com/wechat_echarts/?biz=MzI4NTMyOTY0Mg==)
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI4NTMyOTY0Mg==)
 
@@ -142,7 +142,7 @@ ctf技术交流。
 ---
 
 
-### [ctf大赛](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzUxNTAzNTQ2Nw==)
+### [ctf大赛](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxNTAzNTQ2Nw==)
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxNTAzNTQ2Nw==)
 
@@ -155,7 +155,7 @@ ctf技术交流。
 ---
 
 
-### [青少年CTF](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzUxNDUzODQzMQ==)
+### [青少年CTF](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxNDUzODQzMQ==)
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxNDUzODQzMQ==)
 
@@ -168,7 +168,7 @@ ctf技术交流。
 ---
 
 
-### [CTF黑客呓语](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzI3MTk3MTQ0NQ==)
+### [CTF黑客呓语](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3MTk3MTQ0NQ==)
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3MTk3MTQ0NQ==)
 
@@ -181,7 +181,7 @@ ctf技术交流。
 ---
 
 
-### [CTFCookbook](http://wechat.doonsec.com/admin/wechat_echarts/?biz=Mzg2MzAwMjEwNg==)
+### [CTFCookbook](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2MzAwMjEwNg==)
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2MzAwMjEwNg==)
 
@@ -194,7 +194,7 @@ ctf技术交流。
 ---
 
 
-### [妖灵今天做CTF了吗](http://wechat.doonsec.com/admin/wechat_echarts/?biz=MzU1NjUyNTMxNA==)
+### [妖灵今天做CTF了吗](http://wechat.doonsec.com/wechat_echarts/?biz=MzU1NjUyNTMxNA==)
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU1NjUyNTMxNA==)
 
@@ -203,6 +203,19 @@ ctf技术交流。
 就不告诉你
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4a5d80f6a1b4" alt="" />
+
+---
+
+
+### [2020集大网络安全竞赛](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MDg4NDUwNg==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MDg4NDUwNg==)
+
+[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
+
+2020集美大学计算机工程学院网络安全趣味竞赛
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_89a752e2800d" alt="" />
 
 ---
 
