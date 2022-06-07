@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【0/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
 
-[:camera_flash:【2022-06-02 17:19:08】](https://mp.weixin.qq.com/s?__biz=MzIwMzU0NDY5OA==&mid=2247491627&idx=1&sn=7113b553bf386c854e9dbcda75ac8e5f&chksm=96cf613ea1b8e828e025bfcfca6433a062cf3bf95aa0d62169d02b34a9df29e7a569bd3725f6&scene=27#wechat_redirect)
+[:camera_flash:【2022-06-06 14:08:11】](https://mp.weixin.qq.com/s?__biz=MzIwMzU0NDY5OA==&mid=2247491628&idx=1&sn=725adb8ddc451356dae11e5ece489abf&chksm=96cf6139a1b8e82f61d030adc686adf1db9e5ff9750faaca13620bd2f9c734d17f819cd4efd6&scene=27#wechat_redirect)
 
 寰宇卫士综合安全咨询、安全服务、解决方案、认证培训、产品研发等信息安全多元化产业链为一体。
 
@@ -16,11 +16,24 @@
 
 [:chart_with_upwards_trend:【4/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
 
-[:camera_flash:【2022-05-23 18:34:49】](https://mp.weixin.qq.com/s?__biz=MzkyNDA5NjgyMg==&mid=2247493401&idx=1&sn=c816a29c4142fa5bfb49a586f858ab8e&chksm=c1d9a740f6ae2e561d0bdfbef6ec1aebc0262309779f9c6c0e2f2f91cbe70db3d045f3446e86&scene=27#wechat_redirect)
+[:camera_flash:【2022-06-06 20:04:40】](https://mp.weixin.qq.com/s?__biz=MzkyNDA5NjgyMg==&mid=2247493426&idx=1&sn=5b046d4fb314b104da0ccc52e350ae25&chksm=c1d9a76bf6ae2e7d5321fedfc2916d358aff0adb260ab60095f6852fb325671be9ebe0ff8fff&scene=27#wechat_redirect)
 
 春秋伽玛，为广大网络安全爱好者传递网络安全大赛相关赛事信息，提供优质的赛事服务平台
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_07fa2c2720be" alt="" />
+
+---
+
+
+### [PTEHub](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NzY5NjgyNw==)
+
+[:chart_with_upwards_trend:【8/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NzY5NjgyNw==)
+
+[:camera_flash:【2022-06-06 08:30:09】](https://mp.weixin.qq.com/s?__biz=Mzg4NzY5NjgyNw==&mid=2247484448&idx=1&sn=81248e18b2516d270551fd94197e6b32&chksm=cf8738f4f8f0b1e278def5dcb68d30c629c890a7383f0f4fdea4a5e1e25d5de0d79811e2e73a&scene=27#wechat_redirect)
+
+PTE小技巧
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_5aff651a75ac" alt="" />
 
 ---
 
@@ -38,22 +51,9 @@
 ---
 
 
-### [PTEHub](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NzY5NjgyNw==)
-
-[:chart_with_upwards_trend:【7/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NzY5NjgyNw==)
-
-[:camera_flash:【2022-06-01 18:05:08】](https://mp.weixin.qq.com/s?__biz=Mzg4NzY5NjgyNw==&mid=2247484447&idx=1&sn=c873f052c4fcf54c3f38bd711a2113e3&chksm=cf8738cbf8f0b1ddcdb4ffcd703eee8aaca86eea63ba9204347f7d562a10802d81960268c19f&scene=27#wechat_redirect)
-
-PTE小技巧
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_5aff651a75ac" alt="" />
-
----
-
-
 ### [胖哈勃](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2OTUzMzg3Ng==)
 
-[:chart_with_upwards_trend:【0/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2OTUzMzg3Ng==)
+[:chart_with_upwards_trend:【0/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2OTUzMzg3Ng==)
 
 [:camera_flash:【2022-06-02 18:20:39】](https://mp.weixin.qq.com/s?__biz=MzI2OTUzMzg3Ng==&mid=2247497373&idx=1&sn=8cd0aa3d8dcc482d0442288ea302b195&chksm=eadc6146ddabe850fc9fd180fc6a87e86dc0411c2044fe8eed565b18a77f924da2c9abd40741&scene=27&key=ab06ae04649bd3447c430abd6cf753851fea2984ea71ac009a452a2783c7c42c2ce4e90580439a5ed9d5ab9d910db72770de8099fc9e8a322c6a7561861f3dc2bd077bb161b59780fc5a7f345e25f8ae702ca61d7bd28944eab39027033c426872602e6cb0c87863fb39020d1608420f8ba79f0eed533b282cf9926618fe4092&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+Server+2016+x64&version=63060012&lang=zh_CN&session_us=gh_834eaaa98a10&exportkey=A9zRL5cMCBUVfqMMqZjh5e0%3D&acctmode=0&pass_ticket=s0h8au%2FicJFMU7B6ZV7cHhtmwleDnyz1pTmnQWMeX3lmh4eAEbSIFFvg6CFLsono&wx_header=0&fontgear=2&scene=27#wechat_redirect)
 
@@ -66,9 +66,9 @@ PTE小技巧
 
 ### [XCTF联赛](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
 
-[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
+[:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
 
-[:camera_flash:【2022-05-23 19:01:32】](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247505942&idx=1&sn=fb64773c1a240745a532b53692eaa782&chksm=a6872a2c91f0a33a2aa19f14f3d1ca83945087d285b97b5c324e8c74d59b4ec770e9f1ac5e9e&scene=27&key=86c007d21293fa4cec6deb713112bdccfd236d0698c1c1bf5ab3ff263db6fc7a1ff40150ae6b73ce23daa82fb2613ec28c46add9145e03ec1662a0891e9443fbb078df39bbaa6342e69eb648b014bc5d744c49b273da6afee8e90652dd91fd3beb629f252014e1b7684187154a526bb403e42dcf1876cdf91ac94f26928c3ea9&ascene=0&uin=MTA3Mzc3OTIzNQ%3D%3D&devicetype=Windows+Server+2016+x64&version=6305002e&lang=zh_CN&exportkey=ASq06gRqgujAQNjqggDMde4%3D&acctmode=0&pass_ticket=DIWanrESHKXE0MnO%2FC%2F2N5PWNhezEhkNBl5%2FVvukvpLpZDmL1dKP9Gr3%2F8vvQE32&wx_header=0&fontgear=2&scene=27#wechat_redirect)
+[:camera_flash:【2022-06-06 18:00:06】](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247506018&idx=1&sn=74da42a5e13fa6a67c640f74f6852747&chksm=a6872a5891f0a34eb2913ea844e5b8a43ae244c0e29a1b1cfccb811c66f1a9d442284a13ca65&scene=27&key=759d9f534a881e3558bba70d423aa90ad5c2f4ce4af3c60ad72b6701cd774c54748f5cea53c7904d3aba1852aa7eff473bfcb0aacc4a9b2166d41b808fecdbec5a00663bdb46ce1fb6be246c6439b6da9e7c9129004a6ab934f80f63f5cfd336cd8b854a4aef63d5dbcd211f161d760e644897b0e8c87749dadcebe8a66eb412&ascene=15&uin=MTM1NzU2MDQ1OQ%3D%3D&devicetype=Windows+Server+2016+x64&version=63060012&lang=zh_CN&session_us=gh_cbda1fb027bf&exportkey=A6kn7%2FetsW3wCNyXGhT79tI%3D&acctmode=0&pass_ticket=cz1ywQ8mhnkBoSC5hY25VHLUUdZi1KvfOgqB8iXu4nfAVIVMH8yx7UyDZu7MmrO%2B&wx_header=0&fontgear=2&scene=27#wechat_redirect)
 
 国内最早、亚洲最大的网络攻防联赛。
 
@@ -94,7 +94,7 @@ power by r3kapig team
 
 [:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzEwMTQ3NQ==)
 
-[:camera_flash:【2022-05-15 19:00:00】](https://mp.weixin.qq.com/s?__biz=MzU3MzEwMTQ3NQ==&mid=2247499327&idx=1&sn=8441f48e95f4152567091fb11f961649&chksm=fcc47af3cbb3f3e5fc8608ee27ce6f4eb565c841c916325b583035d780a272e053e1c7b1d32a&scene=27#wechat_redirect)
+[:camera_flash:【2022-06-06 19:00:45】](https://mp.weixin.qq.com/s?__biz=MzU3MzEwMTQ3NQ==&mid=2247499527&idx=1&sn=c20ba79c28a4b4c97cc1ed9e3fdb67ea&chksm=fcc47bcbcbb3f2dd70b1bcda1813d56367ab12af09cac5b34bdd8fb69118c4f236d900001964&scene=27#wechat_redirect)
 
 为广大学生提供学习的平台
 
