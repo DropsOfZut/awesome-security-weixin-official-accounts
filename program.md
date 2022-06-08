@@ -14,9 +14,9 @@
 
 ### [编码安全研究](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NDY1MDc2Mg==)
 
-[:chart_with_upwards_trend:【0/31/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NDY1MDc2Mg==)
+[:chart_with_upwards_trend:【0/30/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NDY1MDc2Mg==)
 
-[:camera_flash:【2022-06-06 09:09:52】](https://mp.weixin.qq.com/s?__biz=Mzg2NDY1MDc2Mg==&mid=2247488529&idx=1&sn=45d546c829ebfd7d12aa1dba8796e161&chksm=ce674774f910ce62862971f2a073eca2073342ebc8158d206bec579f72fbc742f37bc074100b&scene=27#wechat_redirect)
+[:camera_flash:【2022-06-07 09:09:42】](https://mp.weixin.qq.com/s?__biz=Mzg2NDY1MDc2Mg==&mid=2247488543&idx=1&sn=52de3d86ab4f71a99c7b5e77b6cbe7e4&chksm=ce67477af910ce6c7c86f59d10de0a7cbcd425a210773af45f05c498b00f314ae41864ebba03&scene=27#wechat_redirect)
 
 专注于学习网络安全
 
@@ -29,7 +29,7 @@
 
 [:chart_with_upwards_trend:【18/24/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
 
-[:camera_flash:【2022-06-06 16:00:41】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247494181&idx=1&sn=cbaed563bc8e801965e068789175de11&chksm=e9d321c7dea4a8d1e75d3f633b8662c82cdb86a43a1265ebc5ab9825c8de4272f01e3e12b57c&scene=27#wechat_redirect)
+[:camera_flash:【2022-06-07 16:00:34】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247494350&idx=1&sn=31bffb44e1897a752b3ed2a7b5a22919&chksm=e9d3212cdea4a83a14a6f98a0e0ba002c333f24bea664bdbee4dcd311406a7955ee435ba3c9f&scene=27#wechat_redirect)
 
 字节跳动的技术实践分享
 
@@ -42,7 +42,7 @@
 
 [:chart_with_upwards_trend:【9/16/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
 
-[:camera_flash:【2022-06-06 20:30:55】](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247487862&idx=1&sn=8be25eec2340e7bb87f0c172ef304b77&chksm=fe2eeefdc95967ebb77d4be0249e5bfd4e71c7f68e6bf6dbabbbd42a152ec4530454ff8270dc&scene=27#wechat_redirect)
+[:camera_flash:【2022-06-07 08:30:26】](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247487863&idx=1&sn=3a8657cb23730943c6d3b6bd04344398&chksm=fe2eeefcc95967ea56b5cf115d2b2ea01a0b0616bc97f9ddba75de2857df2cad8cadcf6ea878&scene=27#wechat_redirect)
 
 分享安全方面的论文写作、会议发表、基金申请方面的资料。
 
@@ -68,7 +68,7 @@
 
 [:chart_with_upwards_trend:【8/14/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3Njc0NTgwMg==)
 
-[:camera_flash:【2022-06-03 12:00:26】](https://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&mid=2247485875&idx=1&sn=6fdbded2aed33a1a60fc78478f2f5bc2&chksm=cf2ccc96f85b4580a91773004a06594fa4c3f5a7a29e7cb54b1a0d3a6ac489afabe90d153851&scene=27#wechat_redirect)
+[:camera_flash:【2022-06-07 12:00:02】](https://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&mid=2247486021&idx=1&sn=a8223e85e46a7a43d88ce6fac02b0a2e&chksm=cf2ccf60f85b46769cbbca28760f5074a16d396c3d7bf80a43bfc9045cf8347076d5c04018e7&scene=27#wechat_redirect)
 
 提供B站相关技术的介绍和讲解
 
@@ -79,7 +79,7 @@
 
 ### [腾讯技术工程](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
 
-[:chart_with_upwards_trend:【7/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
+[:chart_with_upwards_trend:【8/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
 
 [:camera_flash:【2022-06-06 18:00:50】](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649771130&idx=1&sn=992050e119e08b4a8691505dd4f92143&chksm=beccdf0189bb561766f380f4940242e1f36c7987f114b85fab5d848bc9deeaa1557ab652237d&scene=27#wechat_redirect)
 
@@ -411,6 +411,19 @@ Pinpoint，专业代码审计团队。感谢您的关注！
 FOFA是由华顺信安科技有限公司开发的一款网络空间资产搜索引擎。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_d79c8913fde8" alt="" />
+
+---
+
+
+### [HaoDF技术团队](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxOTg4NDAxMg==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxOTg4NDAxMg==)
+
+[:camera_flash:【2022-03-29 12:31:15】](https://mp.weixin.qq.com/s?__biz=MzUxOTg4NDAxMg==&mid=2247484229&idx=1&sn=ea18732845e9dfc23d4695efcadb44c5&chksm=f9f39ec6ce8417d07f9fcd4a3654ece977f3be1b943a6fd3c4bb1d67ab6e64c4576254c71da2&scene=126&sessionid=1650262326&subscene=207&key=e14abed960a4224ffb3678142bc8df9397edf027971b12210019e5b64452d99270bc060d77ad640e5b34563bb522a4bf98d148c0121cb13c73834eed6a154212fbbed3967f87c99f25047aea4e977f065995aa346a8f5d6d446230989ed7a9b1a954c7d800abd8b6ab23de73f46399e850d142350722231a5548f2a05fa7c432&ascene=0&uin=MTM1NzU2MDQ1OQ%3D%3D&devicetype=Windows+Server+2016+x64&version=6305002e&lang=zh_CN&exportkey=A%2BIis3tsB1DECgrZLP%2FgwAc%3D&acctmode=0&pass_ticket=Y808VCg7Ah%2BeKGNvrCI57svxjpySfSMSrlIcKdCzb93v02O9NREgKyuF9yMWu5Ct&wx_header=0&fontgear=2&scene=27#wechat_redirect)
+
+好大夫在线技术实践与分享，欢迎大家一起交流！更欢迎加入我们，一起用“科技创造优质医疗”！
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a0f9bc95946e" alt="" />
 
 ---
 

@@ -1,7 +1,7 @@
 
 ### [东塔网络安全学院](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMzAyMDAwMQ==)
 
-[:chart_with_upwards_trend:【7/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMzAyMDAwMQ==)
+[:chart_with_upwards_trend:【8/21/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMzAyMDAwMQ==)
 
 [:camera_flash:【2022-06-06 17:00:15】](https://mp.weixin.qq.com/s?__biz=MzkwMzAyMDAwMQ==&mid=2247502370&idx=1&sn=8deb9c141c07a7476b0c43fd9c368d18&chksm=c09e26acf7e9afba428eab01afb6d2b47974468b17c9f0a5ecaa56fed0bba00551eec2d69a1c&scene=27#wechat_redirect)
 
@@ -129,19 +129,6 @@
 ---
 
 
-### [网安培训学院](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDYzMjAyNA==)
-
-[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDYzMjAyNA==)
-
-[:camera_flash:【2022-05-11 16:08:52】](https://mp.weixin.qq.com/s?__biz=Mzg3MDYzMjAyNA==&mid=2247483954&idx=1&sn=0ba3326e3f04b6eac557ba1a67dfec23&chksm=ce8b9d05f9fc1413d8b5fe8a3fe447c415f586fbb7a9debdf682311755de69e02d939cadf81b&scene=27#wechat_redirect)
-
-深圳市网安计算机网络安全培训中心是深圳市计算机网络公共安全协会设立的下属培训机构。培训内容包括：CISP-PTE/PTS系列课程、CISP-IRE/IRS系列课程；网络攻防技术系列课程；网络安全等级保护及风险评估系列课程等网络安全相关课程。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_94f04a96b1ca" alt="" />
-
----
-
-
 ### [齐鲁师院网络安全社团](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MDU5NTA1MQ==)
 
 [:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MDU5NTA1MQ==)
@@ -177,6 +164,19 @@
 渭南师范学院网络信息安全社团
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f4e0f7548c2f" alt="" />
+
+---
+
+
+### [网安培训学院](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDYzMjAyNA==)
+
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDYzMjAyNA==)
+
+[:camera_flash:【2022-06-07 16:56:54】](https://mp.weixin.qq.com/s?__biz=Mzg3MDYzMjAyNA==&mid=2247483965&idx=1&sn=356fae55006d53f9be0d676188abf654&chksm=ce8b9d0af9fc141c808db1884ccba6cd35b23e1c8691b6d9988846afa79794a4f40e82467d45&scene=27#wechat_redirect)
+
+深圳市网安计算机网络安全培训中心是深圳市计算机网络公共安全协会设立的下属培训机构。培训内容包括：CISP-PTE/PTS系列课程、CISP-IRE/IRS系列课程；网络攻防技术系列课程；网络安全等级保护及风险评估系列课程等网络安全相关课程。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_94f04a96b1ca" alt="" />
 
 ---
 

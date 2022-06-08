@@ -1,9 +1,9 @@
 
 ### [IoVSecurity](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
 
-[:chart_with_upwards_trend:【0/65/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
+[:chart_with_upwards_trend:【0/66/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
 
-[:camera_flash:【2022-06-06 23:46:30】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247541790&idx=1&sn=1eb2ec92aff6692ac98a6c51b4eb8d37&chksm=fc0274d4cb75fdc2b752bdf6972568f0414323ef5f37f6232fec678742cb264415badab7ef6a&scene=27#wechat_redirect)
+[:camera_flash:【2022-06-07 22:25:49】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247541911&idx=1&sn=3d73e1387cb4d81177e49979998a8ad5&chksm=fc02745dcb75fd4bf7a58e6c001b4022726b1946a8670bf67490463bc74de731bb5037ad8c86&scene=27#wechat_redirect)
 
 为智能网联汽车行业专业人士提供信息和网络安全技术、产品及服务等行业发展最新咨询
 
@@ -40,7 +40,7 @@
 
 ### [IOTsecZone](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MTY5NjQzMA==)
 
-[:chart_with_upwards_trend:【0/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MTY5NjQzMA==)
+[:chart_with_upwards_trend:【0/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MTY5NjQzMA==)
 
 [:camera_flash:【2022-06-03 08:00:30】](https://mp.weixin.qq.com/s?__biz=Mzg4MTY5NjQzMA==&mid=2247485757&idx=1&sn=09bcec4768d7c1ace0ce349b6b449c5c&chksm=cf6342fcf814cbea343d4144db1b20fcb62f31cef1035f8b5284d71178061fa3f38ce46fa042&scene=27#wechat_redirect)
 
@@ -51,28 +51,28 @@
 ---
 
 
+### [信睿网络](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MDA2NjExMA==)
+
+[:chart_with_upwards_trend:【0/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MDA2NjExMA==)
+
+[:camera_flash:【2022-06-07 11:00:33】](https://mp.weixin.qq.com/s?__biz=Mzg4MDA2NjExMA==&mid=2247488167&idx=1&sn=5cb3b626f62d94573daff8ac65cf75c5&chksm=cf7bb9f6f80c30e0a948f3238c69aca94cdf62f32d617cb3b468a7b34f01ce1a1255febc5be1&key=12703ed085009c6fb43b0dcde5df9a803b670d5efa25afa41b8b9ca44c9a5a74d57f754aebd4a7bc9f57f703d70f805d6836f57dcd12ae589ebc80e209d8ee6d3b7f5cee9fdd4bb0dc14116d1dfdb9dbb1c9e8184e6ee813db14dd1d19928a4ae4330f2f1e7cf4e8264e23b2e0eafc90537b201f953eec3f26915b28c055c347&ascene=51&uin=MTM1NzU2MDQ1OQ%3D%3D&devicetype=Windows+Server+2016+x64&version=63060012&lang=zh_CN&session_us=gh_18cae47da613&exportkey=AwDO2ffnFIj9EqbtoUMek6w%3D&acctmode=0&pass_ticket=cz1ywQ8mhnkBoSC5hY25VHLUUdZi1KvfOgqB8iXu4nfAVIVMH8yx7UyDZu7MmrO%2B&wx_header=0&fontgear=2&scene=27#wechat_redirect)
+
+吉林省信睿网络官方公众号
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_18cae47da613" alt="" />
+
+---
+
+
 ### [IoT物联网技术](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
 
-[:chart_with_upwards_trend:【0/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
+[:chart_with_upwards_trend:【0/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
 
 [:camera_flash:【2022-05-27 19:19:25】](https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&mid=2454928542&idx=1&sn=99a92d794e9d4d711b984ecf7c550616&chksm=b16771d18610f8c707af0784c040388f8ea91c57a0cdcd4c0bd93e345ce04f1b17d0e9950117&scene=27#wechat_redirect)
 
 国内最大IoT物联网开发者社区，1000+行业资料分享；集结 AWS，阿里云，华为云，微软Azure，百度云 物联网专家；通信模组，物联网卡厂商；智能家居，工业制造，智慧城市解决方案商。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_5617c1b503e7" alt="" />
-
----
-
-
-### [信睿网络](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MDA2NjExMA==)
-
-[:chart_with_upwards_trend:【0/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MDA2NjExMA==)
-
-[:camera_flash:【2022-05-31 11:00:12】](https://mp.weixin.qq.com/s?__biz=Mzg4MDA2NjExMA==&mid=2247488077&idx=1&sn=5b7cda93b45b1e648c0d5d7e2bd24323&chksm=cf7bb91cf80c300aea6c69b4428e90e823a0dbafc53499f99c14bd3a3752bb4bf4e31603ff84&key=da5527f6ccd6edd7accc499f79dbe8606dbf50b292e1f23c2713792be13683fa50312c605708ec465dcc23343a6866caa19a4749aaafd2c3aa0f8a37dc03ee3489eeef0b9dee779bbfc0674cd9d95c08f9610db90994ead24d86f8040009ea6541705d540c770dcd1d7043e41ac2e06c1d9eb5731795a19b02efffb7df8822d6&ascene=51&uin=MTA3Mzc3OTIzNQ%3D%3D&devicetype=Windows+Server+2016+x64&version=63060012&lang=zh_CN&session_us=gh_18cae47da613&exportkey=AXREWjEFkYao8Bb9g9wPlCQ%3D&acctmode=0&pass_ticket=cb8pUESL%2F82JWFVM7Msp3nlAiOiiGCkyleT4TcOdLRNy6ObHdZ%2F8%2FFkqtXxFdibv&wx_header=0&fontgear=2&scene=27#wechat_redirect)
-
-吉林省信睿网络官方公众号
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_18cae47da613" alt="" />
 
 ---
 
