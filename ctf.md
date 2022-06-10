@@ -1,26 +1,13 @@
 
 ### [寰宇卫士](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
 
-[:chart_with_upwards_trend:【0/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
+[:chart_with_upwards_trend:【0/19/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
 
-[:camera_flash:【2022-06-08 17:31:39】](https://mp.weixin.qq.com/s?__biz=MzIwMzU0NDY5OA==&mid=2247491754&idx=1&sn=c9895d8192133f38e5310545d343963f&chksm=96cf61bfa1b8e8a938497e6bef592172981cffc2b9975dbccca25c71ab0cda056c135bdbd99e&scene=27#wechat_redirect)
+[:camera_flash:【2022-06-09 16:27:32】](https://mp.weixin.qq.com/s?__biz=MzIwMzU0NDY5OA==&mid=2247491755&idx=1&sn=abcf34bca2f39afdb5bea70540cb798d&chksm=96cf61bea1b8e8a81f9b901e01f633a551698eca265d99528856c35ebb9aa27437a6e68ccdbc&scene=27#wechat_redirect)
 
 寰宇卫士综合安全咨询、安全服务、解决方案、认证培训、产品研发等信息安全多元化产业链为一体。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_7aa3785c2fbe" alt="" />
-
----
-
-
-### [春秋伽玛](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
-
-[:chart_with_upwards_trend:【5/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
-
-[:camera_flash:【2022-06-06 20:04:40】](https://mp.weixin.qq.com/s?__biz=MzkyNDA5NjgyMg==&mid=2247493426&idx=1&sn=5b046d4fb314b104da0ccc52e350ae25&chksm=c1d9a76bf6ae2e7d5321fedfc2916d358aff0adb260ab60095f6852fb325671be9ebe0ff8fff&scene=27#wechat_redirect)
-
-春秋伽玛，为广大网络安全爱好者传递网络安全大赛相关赛事信息，提供优质的赛事服务平台
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_07fa2c2720be" alt="" />
 
 ---
 
@@ -34,6 +21,19 @@
 PTE小技巧
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_5aff651a75ac" alt="" />
+
+---
+
+
+### [春秋伽玛](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
+
+[:chart_with_upwards_trend:【3/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
+
+[:camera_flash:【2022-06-06 20:04:40】](https://mp.weixin.qq.com/s?__biz=MzkyNDA5NjgyMg==&mid=2247493426&idx=1&sn=5b046d4fb314b104da0ccc52e350ae25&chksm=c1d9a76bf6ae2e7d5321fedfc2916d358aff0adb260ab60095f6852fb325671be9ebe0ff8fff&scene=27#wechat_redirect)
+
+春秋伽玛，为广大网络安全爱好者传递网络安全大赛相关赛事信息，提供优质的赛事服务平台
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_07fa2c2720be" alt="" />
 
 ---
 
