@@ -1,7 +1,7 @@
 
 ### [寰宇卫士](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
 
-[:chart_with_upwards_trend:【0/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
+[:chart_with_upwards_trend:【0/19/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
 
 [:camera_flash:【2022-06-10 08:43:06】](https://mp.weixin.qq.com/s?__biz=MzIwMzU0NDY5OA==&mid=2247491756&idx=1&sn=b12a30c756127f1d1fa9e19169850973&chksm=96cf61b9a1b8e8afb2f9ec2c27fbeb47ec35905cce81aef136ed3e0bbb33a9d83b755f6d4795&scene=27#wechat_redirect)
 
@@ -14,7 +14,7 @@
 
 ### [PTEHub](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NzY5NjgyNw==)
 
-[:chart_with_upwards_trend:【9/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NzY5NjgyNw==)
+[:chart_with_upwards_trend:【8/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NzY5NjgyNw==)
 
 [:camera_flash:【2022-06-10 09:00:57】](https://mp.weixin.qq.com/s?__biz=Mzg4NzY5NjgyNw==&mid=2247484468&idx=1&sn=ecc6da9a0177aaa2eb9ab2e31ca7383a&chksm=cf8738e0f8f0b1f6276fde9b22dc3455788e299e63ac95e271c4e8c5ea8dc779ccfebb887c6e&scene=27#wechat_redirect)
 
@@ -51,19 +51,6 @@ PTE小技巧
 ---
 
 
-### [XCTF联赛](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
-
-[:chart_with_upwards_trend:【0/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
-
-[:camera_flash:【2022-06-07 18:00:34】](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247506043&idx=1&sn=e6e3a3dbcf138944538761bd279ea066&chksm=a6872a4191f0a3572bd7d8cb65963fed91bc5cfa5a911fd5629e98d6d0c6ec67369328253274&scene=27#wechat_redirect)
-
-国内最早、亚洲最大的网络攻防联赛。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_3d7c7f90f79f" alt="" />
-
----
-
-
 ### [胖哈勃](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2OTUzMzg3Ng==)
 
 [:chart_with_upwards_trend:【0/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2OTUzMzg3Ng==)
@@ -73,6 +60,19 @@ PTE小技巧
 1990年，哈勃望远镜（Hubble Space Telescope）发射升空，开启了人类对宇宙空间的崭新探索。 现在，Pwnhub的出现，将引领那些对网络安全感兴趣的人们探索“0 1”世界中的无限奥秘。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_2e9e965bad75" alt="" />
+
+---
+
+
+### [XCTF联赛](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
+
+[:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
+
+[:camera_flash:【2022-06-07 18:00:34】](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247506043&idx=1&sn=e6e3a3dbcf138944538761bd279ea066&chksm=a6872a4191f0a3572bd7d8cb65963fed91bc5cfa5a911fd5629e98d6d0c6ec67369328253274&scene=27#wechat_redirect)
+
+国内最早、亚洲最大的网络攻防联赛。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_3d7c7f90f79f" alt="" />
 
 ---
 

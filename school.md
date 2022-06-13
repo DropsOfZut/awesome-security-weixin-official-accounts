@@ -1,7 +1,7 @@
 
 ### [东塔网络安全学院](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMzAyMDAwMQ==)
 
-[:chart_with_upwards_trend:【8/22/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMzAyMDAwMQ==)
+[:chart_with_upwards_trend:【7/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMzAyMDAwMQ==)
 
 [:camera_flash:【2022-06-08 17:00:14】](https://mp.weixin.qq.com/s?__biz=MzkwMzAyMDAwMQ==&mid=2247502442&idx=1&sn=f637718b7b87930c8e2503a65324b84b&chksm=c09e26e4f7e9aff2518ca3d931a0b833adc8c0668ccd4f85d5d08b291e3e2926c6d8e6281d47&scene=27#wechat_redirect)
 
@@ -90,32 +90,6 @@
 ---
 
 
-### [绿盟科技网络安全学院](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzMjA4ODM0NA==)
-
-[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzMjA4ODM0NA==)
-
-[:camera_flash:【2022-05-20 17:30:08】](https://mp.weixin.qq.com/s?__biz=MzkzMjA4ODM0NA==&mid=2247484901&idx=1&sn=346c0776b3a984826244e180942329cd&chksm=c2605a92f517d384eeae810811fd3e88aee13120c122b49b4b54ade2ded376f92e94e018cded&scene=27#wechat_redirect)
-
-绿盟科技网络安全学院（别名：猎鹰学院）秉承”卓尔不凡，极致专业”（The few The professional）的校训精神，依托集团安全研究院、五大安全实验室和四大战队的强大师资力量，提供网络安全人才培养、认证培训以及技术能力提升服务。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_c887198c61eb" alt="" />
-
----
-
-
-### [谛听ditecting](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzQyOTU0Nw==)
-
-[:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzQyOTU0Nw==)
-
-[:camera_flash:【2022-06-04 20:44:31】](https://mp.weixin.qq.com/s?__biz=MzU3MzQyOTU0Nw==&mid=2247486911&idx=1&sn=f8a944b6546d1c72f056ee35719db4b8&chksm=fcc08ffbcbb706ed500de8fc47e984018843a7c213e325ccfb579c852e86bac478843f84eb90&scene=27#wechat_redirect)
-
-东北大学“谛听”网络安全团队
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ce3e0df31e50" alt="" />
-
----
-
-
 ### [三叶草小组Syclover](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzOTg0NjYzNg==)
 
 [:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzOTg0NjYzNg==)
@@ -129,6 +103,19 @@
 ---
 
 
+### [绿盟科技网络安全学院](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzMjA4ODM0NA==)
+
+[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzMjA4ODM0NA==)
+
+[:camera_flash:【2022-05-20 17:30:08】](https://mp.weixin.qq.com/s?__biz=MzkzMjA4ODM0NA==&mid=2247484901&idx=1&sn=346c0776b3a984826244e180942329cd&chksm=c2605a92f517d384eeae810811fd3e88aee13120c122b49b4b54ade2ded376f92e94e018cded&scene=27#wechat_redirect)
+
+绿盟科技网络安全学院（别名：猎鹰学院）秉承”卓尔不凡，极致专业”（The few The professional）的校训精神，依托集团安全研究院、五大安全实验室和四大战队的强大师资力量，提供网络安全人才培养、认证培训以及技术能力提升服务。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_c887198c61eb" alt="" />
+
+---
+
+
 ### [齐鲁师院网络安全社团](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MDU5NTA1MQ==)
 
 [:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MDU5NTA1MQ==)
@@ -138,6 +125,19 @@
 欢迎加入齐鲁师范学院网络安全社团
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0c9ae293eb8e" alt="" />
+
+---
+
+
+### [谛听ditecting](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzQyOTU0Nw==)
+
+[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzQyOTU0Nw==)
+
+[:camera_flash:【2022-06-04 20:44:31】](https://mp.weixin.qq.com/s?__biz=MzU3MzQyOTU0Nw==&mid=2247486911&idx=1&sn=f8a944b6546d1c72f056ee35719db4b8&chksm=fcc08ffbcbb706ed500de8fc47e984018843a7c213e325ccfb579c852e86bac478843f84eb90&scene=27#wechat_redirect)
+
+东北大学“谛听”网络安全团队
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ce3e0df31e50" alt="" />
 
 ---
 
