@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【7/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMzAyMDAwMQ==)
 
-[:camera_flash:【2022-06-08 17:00:14】](https://mp.weixin.qq.com/s?__biz=MzkwMzAyMDAwMQ==&mid=2247502442&idx=1&sn=f637718b7b87930c8e2503a65324b84b&chksm=c09e26e4f7e9aff2518ca3d931a0b833adc8c0668ccd4f85d5d08b291e3e2926c6d8e6281d47&scene=27#wechat_redirect)
+[:camera_flash:【2022-06-13 17:00:31】](https://mp.weixin.qq.com/s?__biz=MzkwMzAyMDAwMQ==&mid=2247502544&idx=1&sn=366896387b5cdf7b2cea3ec1342ac234&chksm=c09e265ef7e9af48d5fa1d719f9fc1ca86d5d1a59e548d96864018c0f036794e15d602e96861&scene=27#wechat_redirect)
 
 网络安全服务、技术特训、技术咨询、渗透测试服务
 
@@ -16,7 +16,7 @@
 
 [:chart_with_upwards_trend:【2/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
 
-[:camera_flash:【2022-06-01 17:00:39】](https://mp.weixin.qq.com/s?__biz=MzUzNDg0NTc1NA==&mid=2247489419&idx=1&sn=4c914342376e75f3a4333235c3332497&chksm=fa8fd7decdf85ec803c864cd47148f6d23bb866afe89b52d7f59cdf70d811969b777c6f7b24d&scene=27&key=5c074e52529293f4b171903da3151ddde29cd24664d7724ac5e2e54b6c17c9b03d024482028ab09da4315a5db058e53eea83c2d4d6d37f774fc7d3dfa134092813671168da74c9652f27b2a2a581fbdc087b3bbc7af77c202248093f3e6887218aeab6da7838d888306aae99d9733bc2daa3c633bf7dd3a3ef5fbee790125b6c&ascene=15&uin=MTA3Mzc3OTIzNQ%3D%3D&devicetype=Windows+Server+2016+x64&version=63060012&lang=zh_CN&session_us=gh_12c7579d6f37&exportkey=AU67hiD4VEbpzc6C%2FDHnhpY%3D&acctmode=0&pass_ticket=b5ZlF%2BZTHLDweMIfyL7fcT8N9iGe6LvbauthX5TdLVq6tiqbTtdY1LTK3fnJIj6j&wx_header=0&fontgear=2&scene=27#wechat_redirect)
+[:camera_flash:【2022-06-13 18:19:58】](https://mp.weixin.qq.com/s?__biz=MzUzNDg0NTc1NA==&mid=2247489446&idx=1&sn=7a02ff90b9fd14bcb4035a2498705392&chksm=fa8fd7f3cdf85ee52c49aa8c8152b4adf651b2e9007bedcfc7ca82f80efb10efd0de782b4ec1&scene=27#wechat_redirect)
 
 启明星辰网络空间安全学院以国家网络安全事业发展为使命，依托启明星辰集团多年的技术沉淀及实践积累，提供网络安全人才体系构建与信息安全技术及能力提升教育培训，为建设网络强国提供有力的人才支撑。
 
