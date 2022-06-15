@@ -1,9 +1,9 @@
 
 ### [寰宇卫士](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
 
-[:chart_with_upwards_trend:【0/19/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
+[:chart_with_upwards_trend:【0/21/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
 
-[:camera_flash:【2022-06-13 17:55:23】](https://mp.weixin.qq.com/s?__biz=MzIwMzU0NDY5OA==&mid=2247491882&idx=1&sn=181736880df60c779d5ff4686fb7c7cd&chksm=96cf603fa1b8e9296d14f094e053f91a0efe6b8b9cd517dc95ab97233bfe10eeeaf48d2073a3&scene=27#wechat_redirect)
+[:camera_flash:【2022-06-14 09:12:48】](https://mp.weixin.qq.com/s?__biz=MzIwMzU0NDY5OA==&mid=2247491945&idx=1&sn=19b342a2c49ae16c3f8f55e25b61fae9&chksm=96cf607ca1b8e96a1a14d1915a8b920cff431427a363e330ac194e957a1988169f6103de58b0&scene=27#wechat_redirect)
 
 寰宇卫士综合安全咨询、安全服务、解决方案、认证培训、产品研发等信息安全多元化产业链为一体。
 
@@ -77,19 +77,6 @@ PTE小技巧
 ---
 
 
-### [中学生CTF](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzEwMTQ3NQ==)
-
-[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzEwMTQ3NQ==)
-
-[:camera_flash:【2022-06-06 19:00:45】](https://mp.weixin.qq.com/s?__biz=MzU3MzEwMTQ3NQ==&mid=2247499527&idx=1&sn=c20ba79c28a4b4c97cc1ed9e3fdb67ea&chksm=fcc47bcbcbb3f2dd70b1bcda1813d56367ab12af09cac5b34bdd8fb69118c4f236d900001964&scene=27#wechat_redirect)
-
-为广大学生提供学习的平台
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0d0714849484" alt="" />
-
----
-
-
 ### [r3kapig](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MDE4MzkzMQ==)
 
 [:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MDE4MzkzMQ==)
@@ -99,6 +86,19 @@ PTE小技巧
 power by r3kapig team
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4d1d402cbd9d" alt="" />
+
+---
+
+
+### [中学生CTF](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzEwMTQ3NQ==)
+
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzEwMTQ3NQ==)
+
+[:camera_flash:【2022-06-06 19:00:45】](https://mp.weixin.qq.com/s?__biz=MzU3MzEwMTQ3NQ==&mid=2247499527&idx=1&sn=c20ba79c28a4b4c97cc1ed9e3fdb67ea&chksm=fcc47bcbcbb3f2dd70b1bcda1813d56367ab12af09cac5b34bdd8fb69118c4f236d900001964&scene=27#wechat_redirect)
+
+为广大学生提供学习的平台
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0d0714849484" alt="" />
 
 ---
 
