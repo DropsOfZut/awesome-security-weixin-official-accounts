@@ -1,9 +1,9 @@
 
 ### [寰宇卫士](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
 
-[:chart_with_upwards_trend:【0/21/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
+[:chart_with_upwards_trend:【0/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
 
-[:camera_flash:【2022-06-16 14:02:52】](https://mp.weixin.qq.com/s?__biz=MzIwMzU0NDY5OA==&mid=2247491975&idx=1&sn=c015e0d5da223db7c6589a40f854281f&chksm=96cf6092a1b8e9840fbb0cfdc647e176b43ec4831aa81cbbc73a094b5389aad7c1683c84bca9&scene=27#wechat_redirect)
+[:camera_flash:【2022-06-17 10:27:55】](https://mp.weixin.qq.com/s?__biz=MzIwMzU0NDY5OA==&mid=2247492002&idx=1&sn=7e10e31275f3e15eda22ec82e1a66b5a&chksm=96cf60b7a1b8e9a12aa69b3f109379ebf401bc3c096757f2639e6472e956591c913cae279f41&scene=27#wechat_redirect)
 
 寰宇卫士综合安全咨询、安全服务、解决方案、认证培训、产品研发等信息安全多元化产业链为一体。
 
@@ -25,19 +25,6 @@
 ---
 
 
-### [PTEHub](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NzY5NjgyNw==)
-
-[:chart_with_upwards_trend:【6/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NzY5NjgyNw==)
-
-[:camera_flash:【2022-06-10 09:00:57】](https://mp.weixin.qq.com/s?__biz=Mzg4NzY5NjgyNw==&mid=2247484468&idx=1&sn=ecc6da9a0177aaa2eb9ab2e31ca7383a&chksm=cf8738e0f8f0b1f6276fde9b22dc3455788e299e63ac95e271c4e8c5ea8dc779ccfebb887c6e&scene=27#wechat_redirect)
-
-PTE小技巧
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_5aff651a75ac" alt="" />
-
----
-
-
 ### [春秋伽玛](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
 
 [:chart_with_upwards_trend:【2/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
@@ -47,6 +34,19 @@ PTE小技巧
 春秋伽玛，为广大网络安全爱好者传递网络安全大赛相关赛事信息，提供优质的赛事服务平台
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_07fa2c2720be" alt="" />
+
+---
+
+
+### [PTEHub](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NzY5NjgyNw==)
+
+[:chart_with_upwards_trend:【5/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NzY5NjgyNw==)
+
+[:camera_flash:【2022-06-17 09:36:13】](https://mp.weixin.qq.com/s?__biz=Mzg4NzY5NjgyNw==&mid=2247484484&idx=1&sn=79a7c6d1c8911d79cdfa12375bac36a8&chksm=cf873890f8f0b186599648168091e7470326e51501d19fdcc49233c60da1a62f6b3b8f6e020d&scene=27#wechat_redirect)
+
+PTE小技巧
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_5aff651a75ac" alt="" />
 
 ---
 

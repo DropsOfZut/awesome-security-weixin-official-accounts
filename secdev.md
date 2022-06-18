@@ -1,9 +1,9 @@
 
 ### [商密君](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
 
-[:chart_with_upwards_trend:【0/115/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
+[:chart_with_upwards_trend:【0/111/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
 
-[:camera_flash:【2022-06-16 15:40:44】](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247571774&idx=1&sn=67b91bf8dfe58986553a08e1619e606a&chksm=ec57c965db2040734b11123bab2e214fece55e7a54ee50d79cb1fdc414bb30d0b63b563cc65e&scene=27#wechat_redirect)
+[:camera_flash:【2022-06-17 14:25:02】](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247571821&idx=2&sn=7fc64bf2902b997d1b74841ad78fdb4f&chksm=ec57c936db204020f4377c69d65f171aec878e839e3e26eefd780a3b7b4b59f46959935009ac&scene=27#wechat_redirect)
 
 商密君是全国密码行业头部公众号，旨在宣传推广《密码法》，普及商用密码知识，解读密码政策，分享商用密码行业的最新动态，为密码产业产学研用做好宣传服务，连接密码全行业精英，推动密码技术在数字经济各行业的应用和创新。
 
@@ -14,9 +14,9 @@
 
 ### [数世咨询](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
 
-[:chart_with_upwards_trend:【19/61/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
+[:chart_with_upwards_trend:【19/64/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
 
-[:camera_flash:【2022-06-16 23:30:47】](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247493789&idx=1&sn=d8b910996f020c6b73e6399542351474&chksm=c1449a20f6331336b6c1970590dc44b6bccb6b2612902415fa7c71a673820f65b02cd119fa91&scene=27#wechat_redirect)
+[:camera_flash:【2022-06-17 15:35:49】](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247493812&idx=1&sn=8947fa384c580fed5ba75d7d922e4ded&chksm=c1449a09f633131f92b2e47445491d6a941d74c841d020121f039402bf0422b551e63c7c64a3&scene=27#wechat_redirect)
 
 中国数字产业领域中立的第三方调研机构，提供网络安全行业的调查、研究与咨询服务。
 
@@ -27,9 +27,9 @@
 
 ### [全栈网络空间安全](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
 
-[:chart_with_upwards_trend:【0/50/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
+[:chart_with_upwards_trend:【0/53/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
 
-[:camera_flash:【2022-06-15 08:30:56】](https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247502539&idx=1&sn=33f1e7b01642a1c59738ef96d9532c8c&chksm=cf3d7606f84aff105c74652e8a8c68ae6e2eda3be782d83ad75c04b716278aa8aa304ad60311&scene=27#wechat_redirect)
+[:camera_flash:【2022-06-17 20:39:29】](https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247502697&idx=1&sn=f84618ededd26d427e299d19ecb60a47&chksm=cf3d77a4f84afeb2ff500ca8b962ef0225fbab7e1c1cdf3ac66e46da556b5924879201b3f928&scene=27#wechat_redirect)
 
 网络安全事件预警体系、事件检测、应急处置、追踪溯源、安全运营、红蓝对抗、HW行动、AWD竞赛，以及站在审计师的角度评估信息系统建设的有效性、完备性、安全性等。 欢迎有想法、乐于分享的具备互联网分享精神的安全人交流学习。
 
@@ -40,26 +40,13 @@
 
 ### [深圳市网络与信息安全行业协会](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
 
-[:chart_with_upwards_trend:【0/22/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
+[:chart_with_upwards_trend:【0/21/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
 
-[:camera_flash:【2022-06-16 17:34:52】](https://mp.weixin.qq.com/s?__biz=MzU0Mzk0NDQyOA==&mid=2247500068&idx=1&sn=c4962b609404321a355ed6f8bf91830e&chksm=fb013aa7cc76b3b1df262070cc0a1c74911d65890397ec43a6437652ca0055501cebd4fee6ff&scene=27#wechat_redirect)
+[:camera_flash:【2022-06-17 12:14:35】](https://mp.weixin.qq.com/s?__biz=MzU0Mzk0NDQyOA==&mid=2247500123&idx=1&sn=5a078a8cfbc495f355ed47460ccba748&chksm=fb013ad8cc76b3ced98b70446b3344e38f6c910a5658b16aff575c0d3fdab6f217b821f5ebf4&scene=27#wechat_redirect)
 
 深圳市网络与信息安全行业协会（SNISA），是深圳市网络与信息安全行业的权威组织，是中国网络安全审查技术与认证中心（CCRC）在深圳唯一授权工作站，是经深圳市人力资源和社会保障局核准，开展网络空间安全工程技术专业职称评审工作的社会组织。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_650442d8cad4" alt="" />
-
----
-
-
-### [君哥的体历](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MjQ1NTA4MA==)
-
-[:chart_with_upwards_trend:【8/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MjQ1NTA4MA==)
-
-[:camera_flash:【2022-06-12 15:50:10】](https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247488453&idx=1&sn=df482d7ab5efd3789973331aea4ad951&chksm=ea4bb982dd3c309443e58161302e5a030fb2352d723a4ba700054b01b28f77750ee3d7d720e6&scene=27#wechat_redirect)
-
-闲暇时间，逼迫自己，记录分享体验与经历，不求正确统一，但求真、善、美。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_aa4d8db71365" alt="" />
 
 ---
 
@@ -73,6 +60,19 @@
 该账号由绿盟科技金融事业部维护，用于发布金融行业相关安全资讯等内容
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_de59bd871eb8" alt="" />
+
+---
+
+
+### [君哥的体历](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MjQ1NTA4MA==)
+
+[:chart_with_upwards_trend:【7/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MjQ1NTA4MA==)
+
+[:camera_flash:【2022-06-12 15:50:10】](https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247488453&idx=1&sn=df482d7ab5efd3789973331aea4ad951&chksm=ea4bb982dd3c309443e58161302e5a030fb2352d723a4ba700054b01b28f77750ee3d7d720e6&scene=27#wechat_redirect)
+
+闲暇时间，逼迫自己，记录分享体验与经历，不求正确统一，但求真、善、美。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_aa4d8db71365" alt="" />
 
 ---
 
@@ -92,7 +92,7 @@
 
 ### [掌控安全EDU](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
 
-[:chart_with_upwards_trend:【5/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
+[:chart_with_upwards_trend:【4/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
 
 [:camera_flash:【2022-06-06 16:44:09】](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247523280&idx=1&sn=48824ee884874f2e484b0fc419c423fb&chksm=fa6be2a1cd1c6bb7a98901dafd7beff7b7f29ffe25cd2ab2bdf1c0de7b7ea93050d6fc5bdc9e&scene=27#wechat_redirect)
 
@@ -105,7 +105,7 @@
 
 ### [vivo千镜](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0Njg4NzE3MQ==)
 
-[:chart_with_upwards_trend:【0/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0Njg4NzE3MQ==)
+[:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0Njg4NzE3MQ==)
 
 [:camera_flash:【2022-06-15 12:00:52】](https://mp.weixin.qq.com/s?__biz=MzI0Njg4NzE3MQ==&mid=2247488477&idx=1&sn=3d76a6d9651f1ab270734e7ca5aa7160&chksm=e9b935b1decebca7030c271924edbe829bea0b7d164531491fd02c6d09f30c3cae4537a460d9&scene=27#wechat_redirect)
 
