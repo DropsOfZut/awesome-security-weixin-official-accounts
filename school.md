@@ -1,7 +1,7 @@
 
 ### [东塔网络安全学院](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMzAyMDAwMQ==)
 
-[:chart_with_upwards_trend:【7/22/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMzAyMDAwMQ==)
+[:chart_with_upwards_trend:【7/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMzAyMDAwMQ==)
 
 [:camera_flash:【2022-06-16 17:00:06】](https://mp.weixin.qq.com/s?__biz=MzkwMzAyMDAwMQ==&mid=2247502591&idx=1&sn=cd2dccfc0d61b12a4ee39961fdfd1286&chksm=c09e2671f7e9af6799806fc9c0f216972871058f8f00556668c2be332cf3370dfc089a1826c4&scene=27#wechat_redirect)
 
@@ -25,19 +25,6 @@
 ---
 
 
-### [复旦白泽战队](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
-
-[:chart_with_upwards_trend:【2/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
-
-[:camera_flash:【2022-06-02 00:00:15】](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247485496&idx=1&sn=d2ba6f4c1b96bb225e241a72d369663f&chksm=fdeb8c46ca9c055023f176aaf03b64fc7da9ede3e81f7f68b1756f1e70a603a6dd72d7d19790&scene=27#wechat_redirect)
-
-以复旦大学系统安全实验室学生为主成立的安全攻防战队，分享最新研究成果，交流系统安全攻防领域技巧。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f1bf07da06d8" alt="" />
-
----
-
-
 ### [蝰蛇安全实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NzgyNjUwNA==)
 
 [:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NzgyNjUwNA==)
@@ -51,15 +38,28 @@
 ---
 
 
-### [三叶草小组Syclover](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzOTg0NjYzNg==)
+### [绿盟科技网络安全学院](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzMjA4ODM0NA==)
 
-[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzOTg0NjYzNg==)
+[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzMjA4ODM0NA==)
 
-[:camera_flash:【2022-05-20 12:25:12】](https://mp.weixin.qq.com/s?__biz=MzIzOTg0NjYzNg==&mid=2247486959&idx=1&sn=55b24b897fecaa4cd4827f86a55a7311&chksm=e922986cde55117a87e1f1adef287b41f14b35b1727bc2f32196cd08b74b55e9d35866bab58f&scene=27&key=ab06ae04649bd34400dc1a36cd0e6edacd07c0b498a90aa64c2785ea1c6223359677c0a654cd57bf529581c461db6081e145c724e86c0ff14a4775f0b09560ce9e0fe83d47170b62cf4fbef833384a84f9eae67fdbae82194b986e1d25a1d33b263516cbf531f34212ad5028878aa5582614bedb8b8a5ed90db0482c433a1879&ascene=1&uin=NTY2NTA4NjQ%3D&devicetype=Windows+Server+2016+x64&version=6305002e&lang=zh_CN&exportkey=A%2BtsyRBrkftWa0aNCWiFApQ%3D&acctmode=0&pass_ticket=Z6nXwWQPjxuoanM9gHpN98A6RLcNdEgQSWb42xa%2B%2BYHAwUdbpgkFg812H%2FCPtl%2Fl&wx_header=0&fontgear=2&scene=27#wechat_redirect)
+[:camera_flash:【2022-06-15 15:12:58】](https://mp.weixin.qq.com/s?__biz=MzkzMjA4ODM0NA==&mid=2247484909&idx=1&sn=296085601d74eedcdf48df855b18e208&chksm=c2605a9af517d38c8198f377a2bfc8b210bf3c810144576bac43bab606bb12986ee154b204ff&scene=27#wechat_redirect)
 
-一个专注于网络空间安全的高校技术团队，成立于2005年3月，主要研究方向有渗透测试、逆向工程、移动安全、安全编程、漏洞利用等；公众号定期推送小组成员原创文章
+绿盟科技网络安全学院（别名：猎鹰学院）秉承”卓尔不凡，极致专业”（The few The professional）的校训精神，依托集团安全研究院、五大安全实验室和四大战队的强大师资力量，提供网络安全人才培养、认证培训以及技术能力提升服务。
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_962842f4917b" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_c887198c61eb" alt="" />
+
+---
+
+
+### [复旦白泽战队](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
+
+[:chart_with_upwards_trend:【1/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
+
+[:camera_flash:【2022-06-02 00:00:15】](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247485496&idx=1&sn=d2ba6f4c1b96bb225e241a72d369663f&chksm=fdeb8c46ca9c055023f176aaf03b64fc7da9ede3e81f7f68b1756f1e70a603a6dd72d7d19790&scene=27#wechat_redirect)
+
+以复旦大学系统安全实验室学生为主成立的安全攻防战队，分享最新研究成果，交流系统安全攻防领域技巧。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f1bf07da06d8" alt="" />
 
 ---
 
@@ -90,19 +90,6 @@
 ---
 
 
-### [绿盟科技网络安全学院](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzMjA4ODM0NA==)
-
-[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzMjA4ODM0NA==)
-
-[:camera_flash:【2022-06-15 15:12:58】](https://mp.weixin.qq.com/s?__biz=MzkzMjA4ODM0NA==&mid=2247484909&idx=1&sn=296085601d74eedcdf48df855b18e208&chksm=c2605a9af517d38c8198f377a2bfc8b210bf3c810144576bac43bab606bb12986ee154b204ff&scene=27#wechat_redirect)
-
-绿盟科技网络安全学院（别名：猎鹰学院）秉承”卓尔不凡，极致专业”（The few The professional）的校训精神，依托集团安全研究院、五大安全实验室和四大战队的强大师资力量，提供网络安全人才培养、认证培训以及技术能力提升服务。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_c887198c61eb" alt="" />
-
----
-
-
 ### [齐鲁师院网络安全社团](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MDU5NTA1MQ==)
 
 [:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MDU5NTA1MQ==)
@@ -125,6 +112,45 @@
 东北大学“谛听”网络安全团队
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ce3e0df31e50" alt="" />
+
+---
+
+
+### [广外网络安全实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MTI2NDA5MA==)
+
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MTI2NDA5MA==)
+
+[:camera_flash:【2022-06-17 20:20:19】](https://mp.weixin.qq.com/s?__biz=MzU2MTI2NDA5MA==&mid=2247483854&idx=1&sn=ce8e455db1ba197347a038fb565655f0&chksm=fc7a257bcb0dac6db56ac44182c5eac375001b951c40f5449befa9a72ad011372ce0b56c0b1f&scene=27#wechat_redirect)
+
+广东外语外贸大学网络安全实验室信息推送和资源平台
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8176da819e03" alt="" />
+
+---
+
+
+### [三叶草小组Syclover](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzOTg0NjYzNg==)
+
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzOTg0NjYzNg==)
+
+[:camera_flash:【2022-05-20 12:25:12】](https://mp.weixin.qq.com/s?__biz=MzIzOTg0NjYzNg==&mid=2247486959&idx=1&sn=55b24b897fecaa4cd4827f86a55a7311&chksm=e922986cde55117a87e1f1adef287b41f14b35b1727bc2f32196cd08b74b55e9d35866bab58f&scene=27&key=ab06ae04649bd34400dc1a36cd0e6edacd07c0b498a90aa64c2785ea1c6223359677c0a654cd57bf529581c461db6081e145c724e86c0ff14a4775f0b09560ce9e0fe83d47170b62cf4fbef833384a84f9eae67fdbae82194b986e1d25a1d33b263516cbf531f34212ad5028878aa5582614bedb8b8a5ed90db0482c433a1879&ascene=1&uin=NTY2NTA4NjQ%3D&devicetype=Windows+Server+2016+x64&version=6305002e&lang=zh_CN&exportkey=A%2BtsyRBrkftWa0aNCWiFApQ%3D&acctmode=0&pass_ticket=Z6nXwWQPjxuoanM9gHpN98A6RLcNdEgQSWb42xa%2B%2BYHAwUdbpgkFg812H%2FCPtl%2Fl&wx_header=0&fontgear=2&scene=27#wechat_redirect)
+
+一个专注于网络空间安全的高校技术团队，成立于2005年3月，主要研究方向有渗透测试、逆向工程、移动安全、安全编程、漏洞利用等；公众号定期推送小组成员原创文章
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_962842f4917b" alt="" />
+
+---
+
+
+### [NCVTCSTA](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NjUzODYyNw==)
+
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NjUzODYyNw==)
+
+[:camera_flash:【2022-06-17 23:50:55】](https://mp.weixin.qq.com/s?__biz=Mzg4NjUzODYyNw==&mid=2247483984&idx=1&sn=b07f95011ad6899cfcb1e1f888e573cf&chksm=cf996abcf8eee3aa625761dcbb4446cb0957bfa1d1e01ab8f4f046c87015a8a95c1af9a5e9af&scene=27#wechat_redirect)
+
+南宁职业技术学院网络安全技术协会
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ce0885e25658" alt="" />
 
 ---
 
@@ -203,19 +229,6 @@
 清华大学学生网络安全技术协会信息推送和资源平台
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_26798762d3e1" alt="" />
-
----
-
-
-### [广外网络安全实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MTI2NDA5MA==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MTI2NDA5MA==)
-
-[:camera_flash:【2022-06-17 20:20:19】](https://mp.weixin.qq.com/s?__biz=MzU2MTI2NDA5MA==&mid=2247483854&idx=1&sn=ce8e455db1ba197347a038fb565655f0&chksm=fc7a257bcb0dac6db56ac44182c5eac375001b951c40f5449befa9a72ad011372ce0b56c0b1f&scene=27#wechat_redirect)
-
-广东外语外贸大学网络安全实验室信息推送和资源平台
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8176da819e03" alt="" />
 
 ---
 
@@ -320,19 +333,6 @@
 发布信息安全技术及相关竞赛信息。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_711d4ce1da87" alt="" />
-
----
-
-
-### [NCVTCSTA](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NjUzODYyNw==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NjUzODYyNw==)
-
-[:camera_flash:【2022-06-17 23:50:55】](https://mp.weixin.qq.com/s?__biz=Mzg4NjUzODYyNw==&mid=2247483984&idx=1&sn=b07f95011ad6899cfcb1e1f888e573cf&chksm=cf996abcf8eee3aa625761dcbb4446cb0957bfa1d1e01ab8f4f046c87015a8a95c1af9a5e9af&scene=27#wechat_redirect)
-
-南宁职业技术学院网络安全技术协会
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ce0885e25658" alt="" />
 
 ---
 

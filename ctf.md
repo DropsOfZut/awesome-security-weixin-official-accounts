@@ -25,6 +25,19 @@
 ---
 
 
+### [PTEHub](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NzY5NjgyNw==)
+
+[:chart_with_upwards_trend:【6/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NzY5NjgyNw==)
+
+[:camera_flash:【2022-06-17 09:36:13】](https://mp.weixin.qq.com/s?__biz=Mzg4NzY5NjgyNw==&mid=2247484484&idx=1&sn=79a7c6d1c8911d79cdfa12375bac36a8&chksm=cf873890f8f0b186599648168091e7470326e51501d19fdcc49233c60da1a62f6b3b8f6e020d&scene=27#wechat_redirect)
+
+PTE小技巧
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_5aff651a75ac" alt="" />
+
+---
+
+
 ### [春秋伽玛](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
 
 [:chart_with_upwards_trend:【2/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
@@ -38,22 +51,9 @@
 ---
 
 
-### [PTEHub](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NzY5NjgyNw==)
-
-[:chart_with_upwards_trend:【5/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NzY5NjgyNw==)
-
-[:camera_flash:【2022-06-17 09:36:13】](https://mp.weixin.qq.com/s?__biz=Mzg4NzY5NjgyNw==&mid=2247484484&idx=1&sn=79a7c6d1c8911d79cdfa12375bac36a8&chksm=cf873890f8f0b186599648168091e7470326e51501d19fdcc49233c60da1a62f6b3b8f6e020d&scene=27#wechat_redirect)
-
-PTE小技巧
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_5aff651a75ac" alt="" />
-
----
-
-
 ### [XCTF联赛](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
 
-[:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
+[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
 
 [:camera_flash:【2022-06-07 18:00:34】](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247506043&idx=1&sn=e6e3a3dbcf138944538761bd279ea066&chksm=a6872a4191f0a3572bd7d8cb65963fed91bc5cfa5a911fd5629e98d6d0c6ec67369328253274&scene=27#wechat_redirect)
 
@@ -77,19 +77,6 @@ PTE小技巧
 ---
 
 
-### [r3kapig](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MDE4MzkzMQ==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MDE4MzkzMQ==)
-
-[:camera_flash:【2022-05-19 22:17:37】](https://mp.weixin.qq.com/s?__biz=MzI2MDE4MzkzMQ==&mid=2247483733&idx=1&sn=d848f0bb926a125b37a7ab500bdf152e&chksm=ea6cc341dd1b4a572764e56775d48ceda7b504b3ebbd5adcc39d0dfd264b19f4e6622e7c03aa&scene=27#wechat_redirect)
-
-power by r3kapig team
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4d1d402cbd9d" alt="" />
-
----
-
-
 ### [中学生CTF](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzEwMTQ3NQ==)
 
 [:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzEwMTQ3NQ==)
@@ -99,6 +86,19 @@ power by r3kapig team
 为广大学生提供学习的平台
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0d0714849484" alt="" />
+
+---
+
+
+### [r3kapig](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MDE4MzkzMQ==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MDE4MzkzMQ==)
+
+[:camera_flash:【2022-05-19 22:17:37】](https://mp.weixin.qq.com/s?__biz=MzI2MDE4MzkzMQ==&mid=2247483733&idx=1&sn=d848f0bb926a125b37a7ab500bdf152e&chksm=ea6cc341dd1b4a572764e56775d48ceda7b504b3ebbd5adcc39d0dfd264b19f4e6622e7c03aa&scene=27#wechat_redirect)
+
+power by r3kapig team
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4d1d402cbd9d" alt="" />
 
 ---
 
