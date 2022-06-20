@@ -1,7 +1,7 @@
 
 ### [寰宇卫士](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
 
-[:chart_with_upwards_trend:【0/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
+[:chart_with_upwards_trend:【0/19/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
 
 [:camera_flash:【2022-06-17 10:27:55】](https://mp.weixin.qq.com/s?__biz=MzIwMzU0NDY5OA==&mid=2247492002&idx=1&sn=7e10e31275f3e15eda22ec82e1a66b5a&chksm=96cf60b7a1b8e9a12aa69b3f109379ebf401bc3c096757f2639e6472e956591c913cae279f41&scene=27#wechat_redirect)
 
@@ -40,7 +40,7 @@ PTE小技巧
 
 ### [春秋伽玛](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
 
-[:chart_with_upwards_trend:【2/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
+[:chart_with_upwards_trend:【2/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
 
 [:camera_flash:【2022-06-06 20:04:40】](https://mp.weixin.qq.com/s?__biz=MzkyNDA5NjgyMg==&mid=2247493426&idx=1&sn=5b046d4fb314b104da0ccc52e350ae25&chksm=c1d9a76bf6ae2e7d5321fedfc2916d358aff0adb260ab60095f6852fb325671be9ebe0ff8fff&scene=27#wechat_redirect)
 
