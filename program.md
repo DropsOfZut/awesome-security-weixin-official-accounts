@@ -1,9 +1,9 @@
 
 ### [编码安全研究](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NDY1MDc2Mg==)
 
-[:chart_with_upwards_trend:【0/37/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NDY1MDc2Mg==)
+[:chart_with_upwards_trend:【0/39/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NDY1MDc2Mg==)
 
-[:camera_flash:【2022-06-19 09:09:14】](https://mp.weixin.qq.com/s?__biz=Mzg2NDY1MDc2Mg==&mid=2247489344&idx=1&sn=256ba1cd90184f2fa7c762110563a8c2&chksm=ce674425f910cd33a98bf215686028257e76e87695931cb1ad5fdf9bcac8fadac85a9d31c636&scene=27#wechat_redirect)
+[:camera_flash:【2022-06-20 09:09:15】](https://mp.weixin.qq.com/s?__biz=Mzg2NDY1MDc2Mg==&mid=2247489408&idx=1&sn=7d061ac76888a3d851a3e1b15693f7d0&chksm=ce6744e5f910cdf3cb7d2cc4e48defe7f7f02550fe30d578bc06f247f21b7a76a78b3a743a78&scene=27#wechat_redirect)
 
 专注于学习网络安全
 
@@ -14,7 +14,7 @@
 
 ### [GoCN](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4ODg0NDkzOA==)
 
-[:chart_with_upwards_trend:【13/32/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4ODg0NDkzOA==)
+[:chart_with_upwards_trend:【13/33/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4ODg0NDkzOA==)
 
 [:camera_flash:【2022-06-20 08:00:35】](https://mp.weixin.qq.com/s?__biz=MzA4ODg0NDkzOA==&mid=2247500262&idx=1&sn=39a1369d9853069976c2b5695817215b&chksm=90217e03a756f7152eb23b23cca93c78ad5ba4d2a37b4dddcd0d5d32fbde390734f282a862ab&scene=27#wechat_redirect)
 
@@ -38,6 +38,19 @@
 ---
 
 
+### [安全学术圈](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
+
+[:chart_with_upwards_trend:【10/14/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
+
+[:camera_flash:【2022-06-20 21:00:24】](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247487933&idx=1&sn=c388a7d1a3465a57a9bd32363e524752&chksm=fe2eee36c95967208ad6a45c8bd86ee545894ba2f7e4a8d1a2e23ac263e6c531a437c8a67f5e&scene=27#wechat_redirect)
+
+分享安全方面的论文写作、会议发表、基金申请方面的资料。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_cbda1fb027bf" alt="" />
+
+---
+
+
 ### [哔哩哔哩技术](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3Njc0NTgwMg==)
 
 [:chart_with_upwards_trend:【8/14/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3Njc0NTgwMg==)
@@ -47,19 +60,6 @@
 提供B站相关技术的介绍和讲解
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_6a92a838f9e0" alt="" />
-
----
-
-
-### [安全学术圈](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
-
-[:chart_with_upwards_trend:【9/13/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
-
-[:camera_flash:【2022-06-16 15:35:44】](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247487927&idx=1&sn=6dfc6f28cc82a47afafccc260aedc699&chksm=fe2eee3cc959672a0559fc11dce09c52664851186b61cd534988b0f9c349c7d4e49b718b1709&scene=27#wechat_redirect)
-
-分享安全方面的论文写作、会议发表、基金申请方面的资料。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_cbda1fb027bf" alt="" />
 
 ---
 
@@ -107,7 +107,7 @@ Yak Language Project: &lt;del&gt;北半球&lt;/del&gt;最强安全研发语言 /
 
 [:chart_with_upwards_trend:【2/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzE1MTQzNw==)
 
-[:camera_flash:【2022-06-18 12:44:14】](https://mp.weixin.qq.com/s?__biz=Mzg4MzE1MTQzNw==&mid=2247486595&idx=1&sn=e050046ae0821ede2ce045d2eb608402&chksm=cf4a8ba1f83d02b7e8a9248d66495e622ecb3c83a6dcf082f2be6e9a910c250b66f823fbb0a2&scene=27#wechat_redirect)
+[:camera_flash:【2022-06-20 12:11:26】](https://mp.weixin.qq.com/s?__biz=Mzg4MzE1MTQzNw==&mid=2247486612&idx=1&sn=60fc130d18059246f6ab52b4e5d0cae8&chksm=cf4a8bb6f83d02a0a0482fe797e1d3b8eeeacdca0e172316c43ccd14da2861e7855122e0b1ad&scene=27#wechat_redirect)
 
 北邮图数据挖掘与机器学习实验室
 
@@ -138,19 +138,6 @@ Yak Language Project: &lt;del&gt;北半球&lt;/del&gt;最强安全研发语言 /
 本观察室仅个人做内容存档使用！
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_29a59093e5db" alt="" />
-
----
-
-
-### [逆向lin狗](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxMjU3ODc1MA==)
-
-[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxMjU3ODc1MA==)
-
-[:camera_flash:【2022-05-21 10:50:44】](https://mp.weixin.qq.com/s?__biz=MzUxMjU3ODc1MA==&mid=2247484705&idx=1&sn=7940c612d094521f912a13e13bba4fdd&chksm=f96300f0ce1489e65963787d9f79744640c99e35dca429e26f41823a1222207aabfae71e4a37&scene=27#wechat_redirect)
-
-本公众号由善于Web反反爬的林弟弟善于App逆向的猛狗哥哥赞助
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_fc6c78a6258d" alt="" />
 
 ---
 
@@ -398,6 +385,19 @@ RapidDNS.io 是一个免费开放的DNS在线查询平台。
 Pinpoint，专业代码审计团队。感谢您的关注！
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f580fec03d4d" alt="" />
+
+---
+
+
+### [逆向lin狗](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxMjU3ODc1MA==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxMjU3ODc1MA==)
+
+[:camera_flash:【2022-05-21 10:50:44】](https://mp.weixin.qq.com/s?__biz=MzUxMjU3ODc1MA==&mid=2247484705&idx=1&sn=7940c612d094521f912a13e13bba4fdd&chksm=f96300f0ce1489e65963787d9f79744640c99e35dca429e26f41823a1222207aabfae71e4a37&scene=27#wechat_redirect)
+
+本公众号由善于Web反反爬的林弟弟善于App逆向的猛狗哥哥赞助
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_fc6c78a6258d" alt="" />
 
 ---
 

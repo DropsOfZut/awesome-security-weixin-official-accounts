@@ -1,9 +1,9 @@
 
 ### [IoVSecurity](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
 
-[:chart_with_upwards_trend:【0/58/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
+[:chart_with_upwards_trend:【0/61/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
 
-[:camera_flash:【2022-06-19 18:15:14】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247544000&idx=1&sn=8a66dd3abc79d63633fbfebfe2be8003&chksm=fc027c0acb75f51cecfe76a9a45c839cd75116ad2af58ca926284e123436c16b6ec5e4a063ba&scene=27#wechat_redirect)
+[:camera_flash:【2022-06-20 20:36:37】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247544437&idx=1&sn=5a8462e4b65e8423d956b2239a2ce0d3&chksm=fc027ebfcb75f7a9ed3c924e2df8cee33b2e106dd112677bf01b3a8c7cd5c2833b84af01a1be&scene=27#wechat_redirect)
 
 为智能网联汽车行业专业人士提供信息和网络安全技术、产品及服务等行业发展最新咨询
 
@@ -14,7 +14,7 @@
 
 ### [电子物证](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNDcwMDgzMA==)
 
-[:chart_with_upwards_trend:【0/35/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNDcwMDgzMA==)
+[:chart_with_upwards_trend:【0/27/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNDcwMDgzMA==)
 
 [:camera_flash:【2022-06-16 00:00:25】](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651042462&idx=1&sn=edb25d8cf4b9596fe3a9d7d625eb3a64&chksm=80d0fd6fb7a774795d8a3d2a1a8982861413371e2df9a67d83bd2df2b0d56e78e4803953efb1&scene=126&sessionid=1655340580&subscene=207&key=aedb5dc6521c3eee434c5bbf46ef27230db6886ec841293bdb97eeb0f36b888fa0e80e3502f078d1e23fea8cdfb950c496d661bcbf347737396aa1434e4c5ca7f26788e63e002887d53732f3a5053d28b08d83a09a4ec4ba46c1d6e695a846eb4000dbd5137b4297abbb4453513487c11070504770fbbfd6a7a1bde22bc326a3&ascene=0&uin=NTY2NTA4NjQ%3D&devicetype=Windows+Server+2016+x64&version=63060012&lang=zh_CN&exportkey=A%2FDiGDMeKN9IBES6ioA9wGg%3D&acctmode=0&pass_ticket=BzXJSX3JYC1MgoEAMU8RF77b9jUGsv8TNnpI67HLQuWt%2BjreW%2FSkUXHvNkRndLVX&wx_header=0&fontgear=2&scene=27#wechat_redirect)
 
@@ -40,9 +40,9 @@
 
 ### [IoT物联网技术](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
 
-[:chart_with_upwards_trend:【0/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
+[:chart_with_upwards_trend:【0/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
 
-[:camera_flash:【2022-06-19 20:30:22】](https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&mid=2454928674&idx=1&sn=ce9052e8ba6cabee1dd2c9e753ced486&chksm=b167706d8610f97b06de84283967dbb7ec324bd6c96dc541091b82b31eedc5ca738fd94d06ab&scene=27#wechat_redirect)
+[:camera_flash:【2022-06-20 20:39:44】](https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&mid=2454928682&idx=1&sn=faa7a13e62c1ba6f8adec959933b236e&chksm=b16770658610f973f71238013d1573adf3a8400aa005aca213212dca0e9e77ecbe003239da26&scene=27#wechat_redirect)
 
 国内最大IoT物联网开发者社区，1000+行业资料分享；集结 AWS，阿里云，华为云，微软Azure，百度云 物联网专家；通信模组，物联网卡厂商；智能家居，工业制造，智慧城市解决方案商。
 
