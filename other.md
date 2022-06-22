@@ -1,7 +1,7 @@
 
 ### [全球技术地图](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1OTExNDY1NQ==)
 
-[:chart_with_upwards_trend:【24/50/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1OTExNDY1NQ==)
+[:chart_with_upwards_trend:【24/49/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1OTExNDY1NQ==)
 
 [:camera_flash:【2022-06-20 17:08:10】](https://mp.weixin.qq.com/s?__biz=MzI1OTExNDY1NQ==&mid=2651593956&idx=2&sn=1a7995b4bd259685105f891cfde1e6c7&chksm=f1856f14c6f2e6024d4aa52ffc264f4a25654438df56da3ca13105175770a137ad482d2e167e&scene=27#wechat_redirect)
 
@@ -14,9 +14,9 @@
 
 ### [安圈评](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwNTI4MTA1MQ==)
 
-[:chart_with_upwards_trend:【0/14/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwNTI4MTA1MQ==)
+[:chart_with_upwards_trend:【0/16/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwNTI4MTA1MQ==)
 
-[:camera_flash:【2022-06-20 14:37:24】](https://mp.weixin.qq.com/s?__biz=MzkwNTI4MTA1MQ==&mid=2247498950&idx=1&sn=33c684482a9e9c2aad799a1ea8ca961e&chksm=c0f897b2f78f1ea4cba5d933dee36d3a5a40e0cf238a0488e67c8cbaef2dd627036add8cd30e&scene=27#wechat_redirect)
+[:camera_flash:【2022-06-21 13:24:23】](https://mp.weixin.qq.com/s?__biz=MzkwNTI4MTA1MQ==&mid=2247498951&idx=1&sn=afec709c03f76177b65870f4877b4c31&chksm=c0f897b3f78f1ea50c2251d01887ba27046b6ecd4d040d6055d5f8f65eb424f844e14020abb4&scene=27#wechat_redirect)
 
 安全服务
 
@@ -77,19 +77,6 @@
 ---
 
 
-### [网安寻路人](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxODM0NDU4MQ==)
-
-[:chart_with_upwards_trend:【0/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxODM0NDU4MQ==)
-
-[:camera_flash:【2022-06-20 09:20:21】](https://mp.weixin.qq.com/s?__biz=MzIxODM0NDU4MQ==&mid=2247495428&idx=1&sn=0957998109bd412f9508eef6436bbd46&chksm=97e952eea09edbf8ff12046ff0551a87032dddbebc6648b9d7803aa3defc12eae980b8ae3d56&scene=27#wechat_redirect)
-
-立足本土实践和需求，放眼全球做法和经验，探寻网络空间安全之法道。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e01653781aad" alt="" />
-
----
-
-
 ### [安全孺子牛](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MDI0NTM2Nw==)
 
 [:chart_with_upwards_trend:【8/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MDI0NTM2Nw==)
@@ -99,6 +86,19 @@
 网络安全学习研究分享
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_2da522fdae7a" alt="" />
+
+---
+
+
+### [网安寻路人](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxODM0NDU4MQ==)
+
+[:chart_with_upwards_trend:【0/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxODM0NDU4MQ==)
+
+[:camera_flash:【2022-06-20 09:20:21】](https://mp.weixin.qq.com/s?__biz=MzIxODM0NDU4MQ==&mid=2247495428&idx=1&sn=0957998109bd412f9508eef6436bbd46&chksm=97e952eea09edbf8ff12046ff0551a87032dddbebc6648b9d7803aa3defc12eae980b8ae3d56&scene=27#wechat_redirect)
+
+立足本土实践和需求，放眼全球做法和经验，探寻网络空间安全之法道。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e01653781aad" alt="" />
 
 ---
 
@@ -183,7 +183,7 @@
 
 ### [渗透测试教程](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3OTIwNDkzNQ==)
 
-[:chart_with_upwards_trend:【1/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3OTIwNDkzNQ==)
+[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3OTIwNDkzNQ==)
 
 [:camera_flash:【2022-06-02 09:02:18】](https://mp.weixin.qq.com/s?__biz=MzI3OTIwNDkzNQ==&mid=2651837641&idx=1&sn=cf94e4e9c3c55c178cca3a8156e6d1ec&chksm=f0b031e1c7c7b8f7ee103f2c0de45604933d4ea4bafe89ed90aaab20707608b356bc8f4d207b&scene=27#wechat_redirect)
 
@@ -242,6 +242,19 @@
 安全帮 帮你学安全
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_499ac9d326f5" alt="" />
+
+---
+
+
+### [愿做一名渗透小学徒](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzA4NTM0OA==)
+
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzA4NTM0OA==)
+
+[:camera_flash:【2022-06-21 11:46:46】](https://mp.weixin.qq.com/s?__biz=Mzg4MzA4NTM0OA==&mid=2247488288&idx=1&sn=eb86301cb832f3163bc50ee51fef80da&chksm=cf4d8a6bf83a037db2fc842b9d728037502dd16ebcb80aa04cb10c09abf655103fcb93d55d1b&scene=27#wechat_redirect)
+
+分享渗透，安服方面的知识，从浅到深，循序渐进。在渗透的路上，让我们从学徒出发。   此公众号提供的任何工具仅供实验使用，如用于其它用途使用，本公众号概不承担任何责任。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_20d07d60856a" alt="" />
 
 ---
 
@@ -571,24 +584,11 @@ NOVA SEC  新星安全 萌新启蒙之路 愿大家都能成为最闪耀的星�
 ---
 
 
-### [愿做一名渗透小学徒](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzA4NTM0OA==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzA4NTM0OA==)
-
-[:camera_flash:【2022-01-07 12:26:09】](https://mp.weixin.qq.com/s?__biz=Mzg4MzA4NTM0OA==&mid=2247488275&idx=1&sn=7a5214c02d87219aec25add6607f4c76&chksm=cf4d8a58f83a034e4665c071d56aa2197b99e61b1ecbee07b6e1d5a8e670517dbc09d773a819&scene=27&key=9b34d6d73d581bff0cf8c55518ba224202b8bde46735469f4a6ca3fb5358c91f423157ebf294420494370da3e88637eee44cb50473bdf732c7b2a4062d4adeabe78d714b4137269f9b461b81c8031e08fde1a02bef8849ebf9022c4438c65099c0ce1938482c8ca63ed09d1751b7b195fb76548bcee8fce53cc268ba120120ee&ascene=0&uin=MzgxODQ4MjMz&devicetype=Windows+Server+2016+x64&version=6304051b&lang=zh_CN&exportkey=A%2BaWghMM1VLr%2Bugbl6iuth8%3D&acctmode=0&scene=27#wechat_redirect)
-
-分享渗透，安服方面的知识，从浅到深，循序渐进。在渗透的路上，让我们从学徒出发。   此公众号提供的任何工具仅供实验使用，如用于其它用途使用，本公众号概不承担任何责任。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_20d07d60856a" alt="" />
-
----
-
-
 ### [白帽子](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwMDQwNTE5MA==)
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwMDQwNTE5MA==)
 
-[:camera_flash:【2022-06-21 00:00:06】](https://mp.weixin.qq.com/s?__biz=MzAwMDQwNTE5MA==&mid=2650246132&idx=1&sn=35ed0e49a87d80ebc8c92e28b102dc9e&chksm=82ea505db59dd94b5b0a6d44ede04ebd3924851ecbe2286f06f984e6a3b4b38dc02b85ad7391&scene=27#wechat_redirect)
+[:camera_flash:【2022-06-22 00:00:11】](https://mp.weixin.qq.com/s?__biz=MzAwMDQwNTE5MA==&mid=2650246134&idx=1&sn=0b602d4937496011bf27a67fc3d71461&chksm=82ea505fb59dd9497dd50ede306eba8333f26379aec8209e1be7777c396278a4fc7c1f8b47e8&scene=27#wechat_redirect)
 
 每天会发信息安全的事件文章，让大家了解更多信息安全知识和资讯。
 

@@ -1,7 +1,7 @@
 
 ### [东塔网络安全学院](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMzAyMDAwMQ==)
 
-[:chart_with_upwards_trend:【7/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMzAyMDAwMQ==)
+[:chart_with_upwards_trend:【8/22/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMzAyMDAwMQ==)
 
 [:camera_flash:【2022-06-20 17:00:42】](https://mp.weixin.qq.com/s?__biz=MzkwMzAyMDAwMQ==&mid=2247502656&idx=1&sn=5342cf8fd02eb588edd9525f84a60450&chksm=c09e27cef7e9aed85f0beeb74429c0d3b8c3ad359296869f8b927101da3007fe447bc4a2ea4f&scene=27#wechat_redirect)
 
@@ -16,7 +16,7 @@
 
 [:chart_with_upwards_trend:【2/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
 
-[:camera_flash:【2022-06-20 17:43:09】](https://mp.weixin.qq.com/s?__biz=MzUzNDg0NTc1NA==&mid=2247489503&idx=1&sn=6678adb7c25598650fc99ff266ae4cc5&chksm=fa8fd78acdf85e9cfb5a5f50f8d6bb6b544c3313af2379ede468dcda16177ea846637a78570e&scene=27#wechat_redirect)
+[:camera_flash:【2022-06-21 18:33:23】](https://mp.weixin.qq.com/s?__biz=MzUzNDg0NTc1NA==&mid=2247489661&idx=1&sn=c87f27356ad69a1393b8ec5e09d5907d&chksm=fa8fd828cdf8513e2ef31dc08c86333011b490f9afdf19f011ce33306a3ef586c3087aa09347&scene=27#wechat_redirect)
 
 启明星辰网络空间安全学院以国家网络安全事业发展为使命，依托启明星辰集团多年的技术沉淀及实践积累，提供网络安全人才体系构建与信息安全技术及能力提升教育培训，为建设网络强国提供有力的人才支撑。
 
@@ -34,6 +34,19 @@
 湖南农业大学蝰蛇安全实验室
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_638eab2e92c7" alt="" />
+
+---
+
+
+### [合天网络安全](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyNzU3Mzg2NQ==)
+
+[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyNzU3Mzg2NQ==)
+
+[:camera_flash:【2022-06-20 15:53:49】](https://mp.weixin.qq.com/s?__biz=MzIyNzU3Mzg2NQ==&mid=2247485722&idx=1&sn=4da17178e33acea750210511391c50c3&chksm=e85e601cdf29e90a0b43dbfcc1c6102a52125618b9e8ae68bc006e95dccd11070c2102ef5ce0&key=8ed48120e4ff66fbf9755b20c401d1d215c4508fa5651db685851540979c593b126f12897b7d58d9558cf2e793b096801ddad64000d5e0770936576c061c0f96c520f18fc937211c1b186b83a739629807f08ea8cac4176d72ed23543e0720215d2e5c56c200133bbddfd4d7cb78a78f02b9c5243ca1c671faf494017c47b484&ascene=51&uin=MTA3Mzc3OTIzNQ%3D%3D&devicetype=Windows+Server+2016+x64&version=63060012&lang=zh_CN&session_us=gh_a6ba8f92d07d&exportkey=AReDTY1cfza6I8iZ13a7cH0%3D&acctmode=0&pass_ticket=TosIbybhGKyIuD2ImCvpxT6roF%2Bi8A1mZneCzQwlL62M%2FxwCjtEUKT3dCMDxzCwH&wx_header=0&fontgear=2&scene=27#wechat_redirect)
+
+网安学院拥有专业教学服务、就业指导，课程配套靶场实战平台（www.hetianlab.com），学员学完就练，切实提升实践动手能力；课程涵盖Web安全、软件安全、网络安全等网安各个相关方面。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a6ba8f92d07d" alt="" />
 
 ---
 
@@ -142,19 +155,6 @@
 ---
 
 
-### [渭南师院网络信息安全社](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0MjI1NzY1NQ==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0MjI1NzY1NQ==)
-
-[:camera_flash:【2022-05-22 10:49:25】](https://mp.weixin.qq.com/s?__biz=Mzk0MjI1NzY1NQ==&mid=2247485342&idx=1&sn=bd92e954aad72428f849407d450e1770&chksm=c2c4a306f5b32a109ba4928a1cbde4bdfd7bdfce7763876e3c4a71553d2d00000ee85615da5f&scene=27#wechat_redirect)
-
-渭南师范学院网络信息安全社团
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f4e0f7548c2f" alt="" />
-
----
-
-
 ### [网安培训学院](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDYzMjAyNA==)
 
 [:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDYzMjAyNA==)
@@ -164,19 +164,6 @@
 深圳市网安计算机网络安全培训中心是深圳市计算机网络公共安全协会设立的下属培训机构。培训内容包括：CISP-PTE/PTS系列课程、CISP-IRE/IRS系列课程；网络攻防技术系列课程；网络安全等级保护及风险评估系列课程等网络安全相关课程。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_94f04a96b1ca" alt="" />
-
----
-
-
-### [合天网络安全](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyNzU3Mzg2NQ==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyNzU3Mzg2NQ==)
-
-[:camera_flash:【2022-06-20 15:53:49】](https://mp.weixin.qq.com/s?__biz=MzIyNzU3Mzg2NQ==&mid=2247485722&idx=1&sn=4da17178e33acea750210511391c50c3&chksm=e85e601cdf29e90a0b43dbfcc1c6102a52125618b9e8ae68bc006e95dccd11070c2102ef5ce0&key=8ed48120e4ff66fbf9755b20c401d1d215c4508fa5651db685851540979c593b126f12897b7d58d9558cf2e793b096801ddad64000d5e0770936576c061c0f96c520f18fc937211c1b186b83a739629807f08ea8cac4176d72ed23543e0720215d2e5c56c200133bbddfd4d7cb78a78f02b9c5243ca1c671faf494017c47b484&ascene=51&uin=MTA3Mzc3OTIzNQ%3D%3D&devicetype=Windows+Server+2016+x64&version=63060012&lang=zh_CN&session_us=gh_a6ba8f92d07d&exportkey=AReDTY1cfza6I8iZ13a7cH0%3D&acctmode=0&pass_ticket=TosIbybhGKyIuD2ImCvpxT6roF%2Bi8A1mZneCzQwlL62M%2FxwCjtEUKT3dCMDxzCwH&wx_header=0&fontgear=2&scene=27#wechat_redirect)
-
-网安学院拥有专业教学服务、就业指导，课程配套靶场实战平台（www.hetianlab.com），学员学完就练，切实提升实践动手能力；课程涵盖Web安全、软件安全、网络安全等网安各个相关方面。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a6ba8f92d07d" alt="" />
 
 ---
 
@@ -359,6 +346,19 @@
 广东工业大学A&amp;D（攻击与防御）工作室
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_c375cb5a0589" alt="" />
+
+---
+
+
+### [渭南师院网络信息安全社](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0MjI1NzY1NQ==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0MjI1NzY1NQ==)
+
+[:camera_flash:【2022-05-22 10:49:25】](https://mp.weixin.qq.com/s?__biz=Mzk0MjI1NzY1NQ==&mid=2247485342&idx=1&sn=bd92e954aad72428f849407d450e1770&chksm=c2c4a306f5b32a109ba4928a1cbde4bdfd7bdfce7763876e3c4a71553d2d00000ee85615da5f&scene=27#wechat_redirect)
+
+渭南师范学院网络信息安全社团
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f4e0f7548c2f" alt="" />
 
 ---
 

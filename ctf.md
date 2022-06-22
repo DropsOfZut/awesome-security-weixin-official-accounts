@@ -3,24 +3,11 @@
 
 [:chart_with_upwards_trend:【0/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
 
-[:camera_flash:【2022-06-20 11:13:57】](https://mp.weixin.qq.com/s?__biz=MzIwMzU0NDY5OA==&mid=2247492044&idx=1&sn=12715c8cc2c4bc5acb48bb4cf1f93bda&chksm=96cf60d9a1b8e9cfa332a13c4b21dd4888ce485e24beaca372f6e267fd49bc93cffbce0c1fb9&scene=27#wechat_redirect)
+[:camera_flash:【2022-06-21 11:18:34】](https://mp.weixin.qq.com/s?__biz=MzIwMzU0NDY5OA==&mid=2247492045&idx=1&sn=bcedd15f5fc720f3f6a0f9962fc2c66f&chksm=96cf60d8a1b8e9ce4f072a04f9f528ea9eb5a861c7b4d9fce68f2c2a721ef2d6e24310d6e31c&scene=27#wechat_redirect)
 
 寰宇卫士综合安全咨询、安全服务、解决方案、认证培训、产品研发等信息安全多元化产业链为一体。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_7aa3785c2fbe" alt="" />
-
----
-
-
-### [DataCon大数据安全分析竞赛](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5Njg1NzMyNw==)
-
-[:chart_with_upwards_trend:【0/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5Njg1NzMyNw==)
-
-[:camera_flash:【2022-06-03 12:00:55】](https://mp.weixin.qq.com/s?__biz=MzU5Njg1NzMyNw==&mid=2247484634&idx=1&sn=caa9fab7452a3d99dd931f884a0771e1&chksm=fe5d1c5ac92a954c85bc27e1d0ea307bcb25e1e409b9cb00fa928a1e40d5a5f83432b842bc05&scene=27#wechat_redirect)
-
-由奇安信集团、清华大学、蚂蚁集团主办，联合北京大学、中科院软件所、复旦大学、中山大学、山东大学、中国科技大学等30多个知名高校和研究机构共同举办的聚焦大数据安全分析的比赛。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a0316d342599" alt="" />
 
 ---
 
@@ -38,9 +25,22 @@ PTE小技巧
 ---
 
 
+### [春秋伽玛](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
+
+[:chart_with_upwards_trend:【2/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
+
+[:camera_flash:【2022-06-06 20:04:40】](https://mp.weixin.qq.com/s?__biz=MzkyNDA5NjgyMg==&mid=2247493426&idx=1&sn=5b046d4fb314b104da0ccc52e350ae25&chksm=c1d9a76bf6ae2e7d5321fedfc2916d358aff0adb260ab60095f6852fb325671be9ebe0ff8fff&scene=27#wechat_redirect)
+
+春秋伽玛，为广大网络安全爱好者传递网络安全大赛相关赛事信息，提供优质的赛事服务平台
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_07fa2c2720be" alt="" />
+
+---
+
+
 ### [XCTF联赛](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
 
-[:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
+[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
 
 [:camera_flash:【2022-06-20 18:10:19】](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247506075&idx=1&sn=ca002b6d28e1e64856b5545267958cdf&chksm=a6872aa191f0a3b7adf59bc40a49d6d4c54db70501aed9f0149836d72969a7262f2f484d30aa&scene=27#wechat_redirect)
 
@@ -51,15 +51,15 @@ PTE小技巧
 ---
 
 
-### [春秋伽玛](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
+### [DataCon大数据安全分析竞赛](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5Njg1NzMyNw==)
 
-[:chart_with_upwards_trend:【2/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
+[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5Njg1NzMyNw==)
 
-[:camera_flash:【2022-06-06 20:04:40】](https://mp.weixin.qq.com/s?__biz=MzkyNDA5NjgyMg==&mid=2247493426&idx=1&sn=5b046d4fb314b104da0ccc52e350ae25&chksm=c1d9a76bf6ae2e7d5321fedfc2916d358aff0adb260ab60095f6852fb325671be9ebe0ff8fff&scene=27#wechat_redirect)
+[:camera_flash:【2022-06-03 12:00:55】](https://mp.weixin.qq.com/s?__biz=MzU5Njg1NzMyNw==&mid=2247484634&idx=1&sn=caa9fab7452a3d99dd931f884a0771e1&chksm=fe5d1c5ac92a954c85bc27e1d0ea307bcb25e1e409b9cb00fa928a1e40d5a5f83432b842bc05&scene=27#wechat_redirect)
 
-春秋伽玛，为广大网络安全爱好者传递网络安全大赛相关赛事信息，提供优质的赛事服务平台
+由奇安信集团、清华大学、蚂蚁集团主办，联合北京大学、中科院软件所、复旦大学、中山大学、山东大学、中国科技大学等30多个知名高校和研究机构共同举办的聚焦大数据安全分析的比赛。
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_07fa2c2720be" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a0316d342599" alt="" />
 
 ---
 
