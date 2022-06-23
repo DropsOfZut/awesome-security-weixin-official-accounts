@@ -1,9 +1,9 @@
 
 ### [寰宇卫士](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
 
-[:chart_with_upwards_trend:【0/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
+[:chart_with_upwards_trend:【0/21/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
 
-[:camera_flash:【2022-06-21 11:18:34】](https://mp.weixin.qq.com/s?__biz=MzIwMzU0NDY5OA==&mid=2247492045&idx=1&sn=bcedd15f5fc720f3f6a0f9962fc2c66f&chksm=96cf60d8a1b8e9ce4f072a04f9f528ea9eb5a861c7b4d9fce68f2c2a721ef2d6e24310d6e31c&scene=27#wechat_redirect)
+[:camera_flash:【2022-06-22 15:37:51】](https://mp.weixin.qq.com/s?__biz=MzIwMzU0NDY5OA==&mid=2247492067&idx=1&sn=0b1c0703ed8bdc60a8e22630df2f129e&chksm=96cf60f6a1b8e9e067ecedc3e55b12bcf8da935228e52afc9346e47119a2dc412895807e0a63&scene=126&sessionid=1655884411&subscene=207&key=2ef3f3b1a43fbd0584409811a80b290fd7a8d47ca84095bd54bb6446d406364110362a33c5c936b0d741cc828d67cbb38a11e2f3eec55c6766ca129c27010dd9efce12b2edbd957695c21525130ea0715aa3b71a992da5215cbcf34a8f6986e30db12bbc4a784f863cf94bad5c99867207a8dd31af9acce10e5ba83163cd985b&ascene=0&uin=NTY2NTA4NjQ%3D&devicetype=Windows+Server+2016+x64&version=63060012&lang=zh_CN&exportkey=A04%2BkMV7uPq5tbZTWJ78k90%3D&acctmode=0&pass_ticket=8CrGC7pHudpJ7w4VVDjd1MNjOD%2FNTWVdonbLEvkWXGbvZt%2B6IAmzGfan3eOV%2FOFd&wx_header=0&fontgear=2&scene=27#wechat_redirect)
 
 寰宇卫士综合安全咨询、安全服务、解决方案、认证培训、产品研发等信息安全多元化产业链为一体。
 
@@ -25,24 +25,11 @@ PTE小技巧
 ---
 
 
-### [春秋伽玛](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
-
-[:chart_with_upwards_trend:【2/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
-
-[:camera_flash:【2022-06-06 20:04:40】](https://mp.weixin.qq.com/s?__biz=MzkyNDA5NjgyMg==&mid=2247493426&idx=1&sn=5b046d4fb314b104da0ccc52e350ae25&chksm=c1d9a76bf6ae2e7d5321fedfc2916d358aff0adb260ab60095f6852fb325671be9ebe0ff8fff&scene=27#wechat_redirect)
-
-春秋伽玛，为广大网络安全爱好者传递网络安全大赛相关赛事信息，提供优质的赛事服务平台
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_07fa2c2720be" alt="" />
-
----
-
-
 ### [XCTF联赛](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
 
 [:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
 
-[:camera_flash:【2022-06-20 18:10:19】](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247506075&idx=1&sn=ca002b6d28e1e64856b5545267958cdf&chksm=a6872aa191f0a3b7adf59bc40a49d6d4c54db70501aed9f0149836d72969a7262f2f484d30aa&scene=27#wechat_redirect)
+[:camera_flash:【2022-06-22 09:00:00】](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247506135&idx=1&sn=a6c514228cc089ae77edb5279d629bb1&chksm=a6872aed91f0a3fb48d5efe0c76723dee0c88923a562a471027a5a8dd4e6e52f915f88db1891&scene=27#wechat_redirect)
 
 国内最早、亚洲最大的网络攻防联赛。
 
@@ -73,6 +60,19 @@ PTE小技巧
 1990年，哈勃望远镜（Hubble Space Telescope）发射升空，开启了人类对宇宙空间的崭新探索。 现在，Pwnhub的出现，将引领那些对网络安全感兴趣的人们探索“0 1”世界中的无限奥秘。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_2e9e965bad75" alt="" />
+
+---
+
+
+### [春秋伽玛](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
+
+[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
+
+[:camera_flash:【2022-06-06 20:04:40】](https://mp.weixin.qq.com/s?__biz=MzkyNDA5NjgyMg==&mid=2247493426&idx=1&sn=5b046d4fb314b104da0ccc52e350ae25&chksm=c1d9a76bf6ae2e7d5321fedfc2916d358aff0adb260ab60095f6852fb325671be9ebe0ff8fff&scene=27#wechat_redirect)
+
+春秋伽玛，为广大网络安全爱好者传递网络安全大赛相关赛事信息，提供优质的赛事服务平台
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_07fa2c2720be" alt="" />
 
 ---
 

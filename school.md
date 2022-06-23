@@ -1,7 +1,7 @@
 
 ### [东塔网络安全学院](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMzAyMDAwMQ==)
 
-[:chart_with_upwards_trend:【8/22/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMzAyMDAwMQ==)
+[:chart_with_upwards_trend:【7/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMzAyMDAwMQ==)
 
 [:camera_flash:【2022-06-20 17:00:42】](https://mp.weixin.qq.com/s?__biz=MzkwMzAyMDAwMQ==&mid=2247502656&idx=1&sn=5342cf8fd02eb588edd9525f84a60450&chksm=c09e27cef7e9aed85f0beeb74429c0d3b8c3ad359296869f8b927101da3007fe447bc4a2ea4f&scene=27#wechat_redirect)
 
@@ -14,9 +14,9 @@
 
 ### [启明星辰网络空间安全学院](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
 
-[:chart_with_upwards_trend:【2/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
+[:chart_with_upwards_trend:【2/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
 
-[:camera_flash:【2022-06-21 18:33:23】](https://mp.weixin.qq.com/s?__biz=MzUzNDg0NTc1NA==&mid=2247489661&idx=1&sn=c87f27356ad69a1393b8ec5e09d5907d&chksm=fa8fd828cdf8513e2ef31dc08c86333011b490f9afdf19f011ce33306a3ef586c3087aa09347&scene=27#wechat_redirect)
+[:camera_flash:【2022-06-22 18:39:47】](https://mp.weixin.qq.com/s?__biz=MzUzNDg0NTc1NA==&mid=2247489768&idx=1&sn=b0af3cb472e41b0190834f1afcf83303&chksm=fa8fd8bdcdf851aba6064d8a546cce3780e0a5bed4ac31fcee6c3195414b41c9f909f77ee20c&scene=27#wechat_redirect)
 
 启明星辰网络空间安全学院以国家网络安全事业发展为使命，依托启明星辰集团多年的技术沉淀及实践积累，提供网络安全人才体系构建与信息安全技术及能力提升教育培训，为建设网络强国提供有力的人才支撑。
 
