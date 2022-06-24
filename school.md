@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【7/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMzAyMDAwMQ==)
 
-[:camera_flash:【2022-06-20 17:00:42】](https://mp.weixin.qq.com/s?__biz=MzkwMzAyMDAwMQ==&mid=2247502656&idx=1&sn=5342cf8fd02eb588edd9525f84a60450&chksm=c09e27cef7e9aed85f0beeb74429c0d3b8c3ad359296869f8b927101da3007fe447bc4a2ea4f&scene=27#wechat_redirect)
+[:camera_flash:【2022-06-23 17:00:06】](https://mp.weixin.qq.com/s?__biz=MzkwMzAyMDAwMQ==&mid=2247502698&idx=1&sn=66a25eee09bbca992e86ade98655eda3&chksm=c09e27e4f7e9aef20f1f7b0adcee0a19620a880f9c91affa2dcadd5c5ce9e8c8d3474a6b4673&scene=27#wechat_redirect)
 
 网络安全服务、技术特训、技术咨询、渗透测试服务
 
@@ -14,7 +14,7 @@
 
 ### [启明星辰网络空间安全学院](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
 
-[:chart_with_upwards_trend:【2/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
+[:chart_with_upwards_trend:【1/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
 
 [:camera_flash:【2022-06-22 18:39:47】](https://mp.weixin.qq.com/s?__biz=MzUzNDg0NTc1NA==&mid=2247489768&idx=1&sn=b0af3cb472e41b0190834f1afcf83303&chksm=fa8fd8bdcdf851aba6064d8a546cce3780e0a5bed4ac31fcee6c3195414b41c9f909f77ee20c&scene=27#wechat_redirect)
 
@@ -51,11 +51,24 @@
 ---
 
 
+### [河北网络安全高校联盟](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4ODUyMjYyNg==)
+
+[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4ODUyMjYyNg==)
+
+[:camera_flash:【2022-06-21 17:29:06】](https://mp.weixin.qq.com/s?__biz=Mzg4ODUyMjYyNg==&mid=2247485522&idx=1&sn=d48facfe7a1d253b5f1253289e74c065&chksm=cff89abff88f13a9fcb32ecaa299df1a9d49c6a95ab79fe75664aaf0df02b5954cb900ccec6b&scene=27&key=0a3ea572de4638da65706611f2c4c6778bf720a08a4b301f06d0282c9486e085a6d4de15a62b54a6d481dca06f03a19d488bfb1a737c8f5b67abd420fe411cb4e2ca46c84f6bebc15bf78e171c07e42cc45ffd1dfbb75d4e53f7a8e9e5c41f1bdfc8ff2c2633296205ac3dd337355b3f048bf505cc36f5f2d52d3445f728f0b1&ascene=15&uin=MTA3Mzc3OTIzNQ%3D%3D&devicetype=Windows+Server+2016+x64&version=63060012&lang=zh_CN&session_us=gh_a02c9d0e1990&exportkey=ARyhZD9TP6SzGvMuXnmolHA%3D&acctmode=0&pass_ticket=5t9Gbm12IgjNEquf7V1s8pBFtYnk6E5fmgWHvEmvyrPv3o2iQ2JKjFJ1dvIb5Nvi&wx_header=0&fontgear=2&scene=27#wechat_redirect)
+
+河北网络安全高校联盟
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8937984657cd" alt="" />
+
+---
+
+
 ### [复旦白泽战队](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
 
 [:chart_with_upwards_trend:【1/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
 
-[:camera_flash:【2022-06-02 00:00:15】](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247485496&idx=1&sn=d2ba6f4c1b96bb225e241a72d369663f&chksm=fdeb8c46ca9c055023f176aaf03b64fc7da9ede3e81f7f68b1756f1e70a603a6dd72d7d19790&scene=27#wechat_redirect)
+[:camera_flash:【2022-06-23 22:55:10】](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247485554&idx=1&sn=98d101df0da3171d7fa4093f133541c2&chksm=fdeb8c0cca9c051aad9fce7b06a84006a91a273b6ace56a040694a1672ac9ed18250489d97fb&scene=27#wechat_redirect)
 
 以复旦大学系统安全实验室学生为主成立的安全攻防战队，分享最新研究成果，交流系统安全攻防领域技巧。
 
