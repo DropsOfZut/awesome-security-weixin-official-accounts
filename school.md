@@ -16,11 +16,24 @@
 
 [:chart_with_upwards_trend:【1/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
 
-[:camera_flash:【2022-06-22 18:39:47】](https://mp.weixin.qq.com/s?__biz=MzUzNDg0NTc1NA==&mid=2247489768&idx=1&sn=b0af3cb472e41b0190834f1afcf83303&chksm=fa8fd8bdcdf851aba6064d8a546cce3780e0a5bed4ac31fcee6c3195414b41c9f909f77ee20c&scene=27#wechat_redirect)
+[:camera_flash:【2022-06-24 17:09:08】](https://mp.weixin.qq.com/s?__biz=MzUzNDg0NTc1NA==&mid=2247489870&idx=1&sn=5ec8ace9003920e0ea7fc94b7264eef2&chksm=fa8fd91bcdf8500d23b3f4dfc86a1a2ac5f4ed0f5ce7799a4c4111ce8168a65645c5b1a3eaf1&scene=27#wechat_redirect)
 
 启明星辰网络空间安全学院以国家网络安全事业发展为使命，依托启明星辰集团多年的技术沉淀及实践积累，提供网络安全人才体系构建与信息安全技术及能力提升教育培训，为建设网络强国提供有力的人才支撑。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_310250868fd4" alt="" />
+
+---
+
+
+### [复旦白泽战队](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
+
+[:chart_with_upwards_trend:【2/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
+
+[:camera_flash:【2022-06-25 01:03:49】](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247485640&idx=1&sn=e1b4ae99215e8ce5f263a6240c0fedea&chksm=fdeb8cb6ca9c05a019a6053ed0c2c67a50c08ff7449339aca9a3c909c46593973c390a90f42b&scene=27#wechat_redirect)
+
+以复旦大学系统安全实验室学生为主成立的安全攻防战队，分享最新研究成果，交流系统安全攻防领域技巧。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f1bf07da06d8" alt="" />
 
 ---
 
@@ -64,15 +77,15 @@
 ---
 
 
-### [复旦白泽战队](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
+### [谛听ditecting](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzQyOTU0Nw==)
 
-[:chart_with_upwards_trend:【1/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
+[:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzQyOTU0Nw==)
 
-[:camera_flash:【2022-06-23 22:55:10】](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247485554&idx=1&sn=98d101df0da3171d7fa4093f133541c2&chksm=fdeb8c0cca9c051aad9fce7b06a84006a91a273b6ace56a040694a1672ac9ed18250489d97fb&scene=27#wechat_redirect)
+[:camera_flash:【2022-06-24 15:39:51】](https://mp.weixin.qq.com/s?__biz=MzU3MzQyOTU0Nw==&mid=2247487007&idx=1&sn=d70c72253e4080ad55040efe3df98589&chksm=fcc08c5bcbb7054df5ed7ede8d0396a88b3bd358984746bb6108158426a9a70a72077e910b18&scene=27#wechat_redirect)
 
-以复旦大学系统安全实验室学生为主成立的安全攻防战队，分享最新研究成果，交流系统安全攻防领域技巧。
+东北大学“谛听”网络安全团队
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f1bf07da06d8" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ce3e0df31e50" alt="" />
 
 ---
 
@@ -112,19 +125,6 @@
 绿盟科技网络安全学院（别名：猎鹰学院）秉承”卓尔不凡，极致专业”（The few The professional）的校训精神，依托集团安全研究院、五大安全实验室和四大战队的强大师资力量，提供网络安全人才培养、认证培训以及技术能力提升服务。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_c887198c61eb" alt="" />
-
----
-
-
-### [谛听ditecting](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzQyOTU0Nw==)
-
-[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzQyOTU0Nw==)
-
-[:camera_flash:【2022-06-04 20:44:31】](https://mp.weixin.qq.com/s?__biz=MzU3MzQyOTU0Nw==&mid=2247486911&idx=1&sn=f8a944b6546d1c72f056ee35719db4b8&chksm=fcc08ffbcbb706ed500de8fc47e984018843a7c213e325ccfb579c852e86bac478843f84eb90&scene=27#wechat_redirect)
-
-东北大学“谛听”网络安全团队
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ce3e0df31e50" alt="" />
 
 ---
 
