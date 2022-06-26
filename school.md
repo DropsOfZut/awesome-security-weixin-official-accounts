@@ -1,7 +1,7 @@
 
 ### [东塔网络安全学院](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMzAyMDAwMQ==)
 
-[:chart_with_upwards_trend:【7/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMzAyMDAwMQ==)
+[:chart_with_upwards_trend:【6/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMzAyMDAwMQ==)
 
 [:camera_flash:【2022-06-23 17:00:06】](https://mp.weixin.qq.com/s?__biz=MzkwMzAyMDAwMQ==&mid=2247502698&idx=1&sn=66a25eee09bbca992e86ade98655eda3&chksm=c09e27e4f7e9aef20f1f7b0adcee0a19620a880f9c91affa2dcadd5c5ce9e8c8d3474a6b4673&scene=27#wechat_redirect)
 
