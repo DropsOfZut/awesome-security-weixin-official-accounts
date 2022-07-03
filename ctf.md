@@ -1,9 +1,9 @@
 
 ### [寰宇卫士](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
 
-[:chart_with_upwards_trend:【0/19/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
+[:chart_with_upwards_trend:【0/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
 
-[:camera_flash:【2022-06-24 14:23:06】](https://mp.weixin.qq.com/s?__biz=MzIwMzU0NDY5OA==&mid=2247492128&idx=1&sn=0b7664bfbc3cda1ce007a290c4f70840&chksm=96cf6335a1b8ea23476cbd111b41d9a7cd08a30dec1d7ddd8c1b59b96e76b7d4eedd24c37808&scene=27#wechat_redirect)
+[:camera_flash:【2022-07-01 14:48:27】](https://mp.weixin.qq.com/s?__biz=MzIwMzU0NDY5OA==&mid=2247492276&idx=1&sn=ee52e7532f480ca8bb5948ed528b3a1b&chksm=96cf63a1a1b8eab7ad3099364ad2357afa74bff8aab9ecc3bd1a47eb8795509ce127efe07215&scene=27#wechat_redirect)
 
 寰宇卫士综合安全咨询、安全服务、解决方案、认证培训、产品研发等信息安全多元化产业链为一体。
 
@@ -12,24 +12,11 @@
 ---
 
 
-### [PTEHub](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NzY5NjgyNw==)
-
-[:chart_with_upwards_trend:【5/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NzY5NjgyNw==)
-
-[:camera_flash:【2022-06-23 18:01:02】](https://mp.weixin.qq.com/s?__biz=Mzg4NzY5NjgyNw==&mid=2247484512&idx=1&sn=17505a2b097ce389e0f686323f6a586b&chksm=cf8738b4f8f0b1a2683e5843320808c907d8723107bb552b378866d31331d92d698714e140c7&scene=27#wechat_redirect)
-
-PTE小技巧
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_5aff651a75ac" alt="" />
-
----
-
-
 ### [XCTF联赛](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
 
-[:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
+[:chart_with_upwards_trend:【0/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
 
-[:camera_flash:【2022-06-24 09:00:13】](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247506237&idx=1&sn=75e4be1f08ee566b489f50fadd82c9ae&chksm=a6872b0791f0a2111b086a4101dfae9edca402d44ed34094e9a443f789d6ca7141c6da25ed10&scene=27#wechat_redirect)
+[:camera_flash:【2022-07-01 18:30:37】](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247506442&idx=1&sn=0ebd8f408a79bbe78fd470b7e2def812&chksm=a687283091f0a126f5dff6e02bb4e6dfdef388491cdcd92160bd8abe421c48c1164edda2f4ae&scene=27#wechat_redirect)
 
 国内最早、亚洲最大的网络攻防联赛。
 
@@ -38,28 +25,15 @@ PTE小技巧
 ---
 
 
-### [胖哈勃](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2OTUzMzg3Ng==)
+### [PTEHub](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NzY5NjgyNw==)
 
-[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2OTUzMzg3Ng==)
+[:chart_with_upwards_trend:【4/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NzY5NjgyNw==)
 
-[:camera_flash:【2022-06-08 10:00:26】](https://mp.weixin.qq.com/s?__biz=MzI2OTUzMzg3Ng==&mid=2247497384&idx=1&sn=96740ea48ec77b156344f0811e9f2a49&chksm=eadc6173ddabe86541d66fac98d9732a33e8605ee9c07d83de35b6b6f47d4486d4e212618113&key=714934fb29b2f5f1993b55b8a13be5cc448d527bf6cac6d925825724f7f65d378ac1456a8834a9948b1b701d001beaf9782726d55a0e6454acdd976889e1a2394acad7f40e8098ff214b86cb520416f9a53dac8463b9709e3741d161b51a7c9eeed51372a5910f77e613deb740fa4082ad0d4973a02951411491a2c509daf49a&ascene=51&uin=MTM1NzU2MDQ1OQ%3D%3D&devicetype=Windows+Server+2016+x64&version=63060012&lang=zh_CN&session_us=gh_2e9e965bad75&exportkey=A7CBwALg2ieboyQFL3ddc9k%3D&acctmode=0&pass_ticket=cz1ywQ8mhnkBoSC5hY25VHLUUdZi1KvfOgqB8iXu4nfAVIVMH8yx7UyDZu7MmrO%2B&wx_header=0&fontgear=2&scene=27#wechat_redirect)
+[:camera_flash:【2022-06-23 18:01:02】](https://mp.weixin.qq.com/s?__biz=Mzg4NzY5NjgyNw==&mid=2247484512&idx=1&sn=17505a2b097ce389e0f686323f6a586b&chksm=cf8738b4f8f0b1a2683e5843320808c907d8723107bb552b378866d31331d92d698714e140c7&scene=27#wechat_redirect)
 
-1990年，哈勃望远镜（Hubble Space Telescope）发射升空，开启了人类对宇宙空间的崭新探索。 现在，Pwnhub的出现，将引领那些对网络安全感兴趣的人们探索“0 1”世界中的无限奥秘。
+PTE小技巧
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_2e9e965bad75" alt="" />
-
----
-
-
-### [DataCon大数据安全分析竞赛](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5Njg1NzMyNw==)
-
-[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5Njg1NzMyNw==)
-
-[:camera_flash:【2022-06-03 12:00:55】](https://mp.weixin.qq.com/s?__biz=MzU5Njg1NzMyNw==&mid=2247484634&idx=1&sn=caa9fab7452a3d99dd931f884a0771e1&chksm=fe5d1c5ac92a954c85bc27e1d0ea307bcb25e1e409b9cb00fa928a1e40d5a5f83432b842bc05&scene=27#wechat_redirect)
-
-由奇安信集团、清华大学、蚂蚁集团主办，联合北京大学、中科院软件所、复旦大学、中山大学、山东大学、中国科技大学等30多个知名高校和研究机构共同举办的聚焦大数据安全分析的比赛。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a0316d342599" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_5aff651a75ac" alt="" />
 
 ---
 
@@ -77,6 +51,45 @@ PTE小技巧
 ---
 
 
+### [胖哈勃](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2OTUzMzg3Ng==)
+
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2OTUzMzg3Ng==)
+
+[:camera_flash:【2022-06-30 17:40:03】](https://mp.weixin.qq.com/s?__biz=MzI2OTUzMzg3Ng==&mid=2247498507&idx=1&sn=4b21bf3c8c7be7c10cef5da6c5a5ee76&chksm=eadc6cd0ddabe5c652786e21bea6d94ec95f5927316ae4971bd7aeed3c1859ebd65580ec4412&key=0a3ea572de4638da8856d73f9e2524a099d01eb58af5f8da87f4aaaa024dff27f929b69c87bd62778199f91a5c3f1d097ac3cb90d03c62e2e3c51fb4e067075f82948f7dddab8e0d965cf8b1e4247fd1aeca8d72a41bdacf0d080e46418dbf8d913b98dae42ed41b440693d8da1cc2b6808bb5d12ec1cdb059d071092d875413&ascene=51&uin=MTA3Mzc3OTIzNQ%3D%3D&devicetype=Windows+Server+2016+x64&version=6307001e&lang=zh_CN&session_us=gh_2e9e965bad75&exportkey=AS%2BsvCm51daJ6gwAxLK7xlQ%3D&acctmode=0&pass_ticket=kgmmNkWe3Xfn0PnQ7eskJUnu278WdGTEHzGoi6isiSC4p%2BghP2oTS6w21LhblLeT&wx_header=0&fontgear=2&scene=27#wechat_redirect)
+
+1990年，哈勃望远镜（Hubble Space Telescope）发射升空，开启了人类对宇宙空间的崭新探索。 现在，Pwnhub的出现，将引领那些对网络安全感兴趣的人们探索“0 1”世界中的无限奥秘。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_2e9e965bad75" alt="" />
+
+---
+
+
+### [DataCon大数据安全分析竞赛](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5Njg1NzMyNw==)
+
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5Njg1NzMyNw==)
+
+[:camera_flash:【2022-06-03 12:00:55】](https://mp.weixin.qq.com/s?__biz=MzU5Njg1NzMyNw==&mid=2247484634&idx=1&sn=caa9fab7452a3d99dd931f884a0771e1&chksm=fe5d1c5ac92a954c85bc27e1d0ea307bcb25e1e409b9cb00fa928a1e40d5a5f83432b842bc05&scene=27#wechat_redirect)
+
+由奇安信集团、清华大学、蚂蚁集团主办，联合北京大学、中科院软件所、复旦大学、中山大学、山东大学、中国科技大学等30多个知名高校和研究机构共同举办的聚焦大数据安全分析的比赛。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a0316d342599" alt="" />
+
+---
+
+
+### [r3kapig](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MDE4MzkzMQ==)
+
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MDE4MzkzMQ==)
+
+[:camera_flash:【2022-06-28 09:22:03】](https://mp.weixin.qq.com/s?__biz=MzI2MDE4MzkzMQ==&mid=2247483744&idx=1&sn=ffa8e2fb673358fc7925b7864615828f&chksm=ea6cc374dd1b4a62bdf0f76b89b905646f98c6490f9b30bcad11c52eb65c260b618c809a2e58&scene=27#wechat_redirect)
+
+power by r3kapig team
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4d1d402cbd9d" alt="" />
+
+---
+
+
 ### [中学生CTF](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzEwMTQ3NQ==)
 
 [:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzEwMTQ3NQ==)
@@ -86,19 +99,6 @@ PTE小技巧
 为广大学生提供学习的平台
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0d0714849484" alt="" />
-
----
-
-
-### [r3kapig](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MDE4MzkzMQ==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MDE4MzkzMQ==)
-
-[:camera_flash:【2022-05-19 22:17:37】](https://mp.weixin.qq.com/s?__biz=MzI2MDE4MzkzMQ==&mid=2247483733&idx=1&sn=d848f0bb926a125b37a7ab500bdf152e&chksm=ea6cc341dd1b4a572764e56775d48ceda7b504b3ebbd5adcc39d0dfd264b19f4e6622e7c03aa&scene=27#wechat_redirect)
-
-power by r3kapig team
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4d1d402cbd9d" alt="" />
 
 ---
 
