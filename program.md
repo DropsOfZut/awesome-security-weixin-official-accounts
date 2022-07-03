@@ -1,9 +1,9 @@
 
 ### [编码安全研究](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NDY1MDc2Mg==)
 
-[:chart_with_upwards_trend:【0/43/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NDY1MDc2Mg==)
+[:chart_with_upwards_trend:【0/45/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NDY1MDc2Mg==)
 
-[:camera_flash:【2022-06-26 09:09:02】](https://mp.weixin.qq.com/s?__biz=Mzg2NDY1MDc2Mg==&mid=2247489800&idx=1&sn=939a9393c6c04f86cc9de7d459dcda26&chksm=ce674a6df910c37bce49a4c61a9df6b0b85011f45ada311b9c79efb0906ce1a2a4952d3c154d&scene=27&key=f5c151d04e93206ac4d4e7345ecb791fb20dfc2f423d15ff0c55daab30f4bf68a4f3076f74f5e047c03c47f09d6e15aecf0b12ccaee6a64fabd88471733dfe8b15a2e98172e2919a936f452b35c20a6435b25d4498dd7c87738def3361efbad4eee3035bb01fcd87ca181246486ee9fb8ee41761008f49bc0e417905ca72c23f&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+Server+2016+x64&version=6307001e&lang=zh_CN&session_us=gh_c6ea851cd149&exportkey=A2pz1cTAXiFfyWgyY8bcSUA%3D&acctmode=0&pass_ticket=E6D9rxobWdo83z5JbZwTXiq3vE%2FfRPAifWM1fGfUzbs2CiZCYP%2B6KdGUfkS4DcFz&wx_header=0&fontgear=2&scene=27#wechat_redirect)
+[:camera_flash:【2022-07-02 09:09:27】](https://mp.weixin.qq.com/s?__biz=Mzg2NDY1MDc2Mg==&mid=2247490326&idx=1&sn=6820a5ab64d9a63912aac31779ede824&chksm=ce674873f910c16585660ecfd1351be23e24340742ac101adc795898a7170a020fa099276940&scene=27#wechat_redirect)
 
 专注于学习网络安全
 
@@ -12,24 +12,11 @@
 ---
 
 
-### [GoCN](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4ODg0NDkzOA==)
-
-[:chart_with_upwards_trend:【15/33/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4ODg0NDkzOA==)
-
-[:camera_flash:【2022-06-26 10:00:45】](https://mp.weixin.qq.com/s?__biz=MzA4ODg0NDkzOA==&mid=2247501549&idx=1&sn=7222cfab3d84ab800d158bb9ac6fdc98&chksm=90217908a756f01efb124a1691d427b09e01138f20622898a31d4f18ac165835c67f61b4f5a1&scene=27&key=4a4903f8ef6b840ac035a5dbd9608864b5064c8f14d9a2d676b932f322c09f6b6c863ad3e6abb0a78bb4dbe0e54c9cbd9019f0f95c073c7679256320629c0a4d4759071998099e4bb0b6a47be4d4b3608051187b26e32745914a8df3fc5f913eea93b39971b4c74fa3fe7c99f12606be60ac50b2dc18d4224d692afe54e8bb54&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+Server+2016+x64&version=6307001e&lang=zh_CN&session_us=gh_756e20206f23&exportkey=A%2B4vY%2Bh19wQZPbMUcT1qwAU%3D&acctmode=0&pass_ticket=E6D9rxobWdo83z5JbZwTXiq3vE%2FfRPAifWM1fGfUzbs2CiZCYP%2B6KdGUfkS4DcFz&wx_header=0&fontgear=2&scene=27#wechat_redirect)
-
-最具规模和生命力的 Go 开发者社区
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8997cd77cfb2" alt="" />
-
----
-
-
 ### [字节跳动技术团队](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
 
-[:chart_with_upwards_trend:【19/31/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
+[:chart_with_upwards_trend:【19/33/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
 
-[:camera_flash:【2022-06-24 12:00:59】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247495585&idx=1&sn=8fd15def32a6f4b268767bde20b61291&chksm=e9d32443dea4ad559dfafbfcd23625406b8fe7fb5269ee24c3d67f6d61af341c5db83f22db8d&scene=27#wechat_redirect)
+[:camera_flash:【2022-07-01 16:00:40】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247496008&idx=1&sn=e0d73b2427a716e6b92e30205b42b9b1&chksm=e9d33aaadea4b3bc3051a0942ff275960e7705cb80f5b9cfdf8ad249a7115cc10854367d4c7c&scene=27#wechat_redirect)
 
 字节跳动的技术实践分享
 
@@ -38,24 +25,24 @@
 ---
 
 
-### [腾讯技术工程](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
+### [GoCN](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4ODg0NDkzOA==)
 
-[:chart_with_upwards_trend:【8/13/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
+[:chart_with_upwards_trend:【15/32/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4ODg0NDkzOA==)
 
-[:camera_flash:【2022-06-23 11:35:42】](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649771304&idx=1&sn=02a61a289e867729bb91f2595e7786bd&chksm=beccde5389bb574590c1db9c052e515677c57301e932a49cc74ca32d11546e0189d8fd64040d&scene=27#wechat_redirect)
+[:camera_flash:【2022-07-01 08:00:59】](https://mp.weixin.qq.com/s?__biz=MzA4ODg0NDkzOA==&mid=2247502452&idx=1&sn=ecfb2ef906f42f00d272da2b31be8840&chksm=90217591a756fc8777492c13cc560dd7453c643e567529f4dc6d8b59709dd7b54c680f4ae4a0&scene=27#wechat_redirect)
 
-腾讯技术官方号。腾讯技术创新、前沿领域发布解读平台。
+最具规模和生命力的 Go 开发者社区
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_d14465b5ce6c" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8997cd77cfb2" alt="" />
 
 ---
 
 
 ### [哔哩哔哩技术](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3Njc0NTgwMg==)
 
-[:chart_with_upwards_trend:【7/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3Njc0NTgwMg==)
+[:chart_with_upwards_trend:【9/15/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3Njc0NTgwMg==)
 
-[:camera_flash:【2022-06-24 12:00:01】](https://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&mid=2247486677&idx=1&sn=46325046c76586d566ad1291ae12c2cb&chksm=cf2cc9f0f85b40e6e8e8a6f0cedb396382afcf5a4ccbb729c13962109de0bfd182008d0e63fe&scene=27#wechat_redirect)
+[:camera_flash:【2022-07-01 12:00:45】](https://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&mid=2247486956&idx=1&sn=cd8f971697eafa4dc1394c220195b7e6&chksm=cf2cc8c9f85b41dfa4744b143cb91c774c442b514efcf67f1ba5765852f77e8c4e0094d80473&scene=27#wechat_redirect)
 
 提供B站相关技术的介绍和讲解
 
@@ -64,11 +51,24 @@
 ---
 
 
+### [腾讯技术工程](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
+
+[:chart_with_upwards_trend:【9/13/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
+
+[:camera_flash:【2022-06-30 18:00:14】](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649771522&idx=1&sn=1c49cc9ebb6d1c8c75fd3fdb2623bd48&chksm=beccdd7989bb546f72594b45da167e3e9bc63973bb6a0ef486ec941e46a7a6c030ed2efcfc3f&scene=27#wechat_redirect)
+
+腾讯技术官方号。腾讯技术创新、前沿领域发布解读平台。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_d14465b5ce6c" alt="" />
+
+---
+
+
 ### [安全学术圈](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
 
 [:chart_with_upwards_trend:【7/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
 
-[:camera_flash:【2022-06-21 15:07:35】](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247487939&idx=1&sn=59ddb20180ec7e790fd943d826564dd0&chksm=fe2eee48c959675e2b5115338371bbc266755e1ed95042585a310627aaa185b3fa0f26469c5f&scene=27#wechat_redirect)
+[:camera_flash:【2022-06-29 08:30:46】](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247487983&idx=1&sn=40780c44707bd0c8e3cd99dce3861f3c&chksm=fe2eee64c959677280c991551a86f8eac31dee29101ddd4ba6d3dcd21fbe662358c3677385df&scene=27#wechat_redirect)
 
 分享安全方面的论文写作、会议发表、基金申请方面的资料。
 
@@ -79,7 +79,7 @@
 
 ### [美团技术团队](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ5MTI5OA==)
 
-[:chart_with_upwards_trend:【7/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ5MTI5OA==)
+[:chart_with_upwards_trend:【6/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ5MTI5OA==)
 
 [:camera_flash:【2022-06-23 19:58:40】](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651769281&idx=1&sn=9c8db825b785b7c43e1b31035e15c295&chksm=bd12108c8a65999a87f7f0758061c53fbb249a7ce0f900971cb6b7989753b918a86189b3b335&key=ffca75888bc216b1985070df3bd35f26cf1021e301779a2be2bdb5f3e3b1acd3988e879926a326ead448caa74baec42f5ebc6221939607e7fcf3e5cbdfda43b4a927bd2010aa48ae953f4b0af7c3eeea69f8eb3eff75ce22e802db59b2fa1aea71cd544bd83652674e8dd603f16533db935dcbe1c941514e5f0a8408d236a9ef&ascene=51&uin=MTA3Mzc3OTIzNQ%3D%3D&devicetype=Windows+Server+2016+x64&version=63060012&lang=zh_CN&session_us=gh_96d37a04e9bf&exportkey=AYfq1LCzY007GVJZcpQ54Uk%3D&acctmode=0&pass_ticket=5t9Gbm12IgjNEquf7V1s8pBFtYnk6E5fmgWHvEmvyrPv3o2iQ2JKjFJ1dvIb5Nvi&wx_header=0&fontgear=2&scene=27#wechat_redirect)
 
@@ -92,9 +92,9 @@
 
 ### [Yaklang](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxOTAzOTU3Mw==)
 
-[:chart_with_upwards_trend:【3/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxOTAzOTU3Mw==)
+[:chart_with_upwards_trend:【3/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxOTAzOTU3Mw==)
 
-[:camera_flash:【2022-06-23 18:05:35】](https://mp.weixin.qq.com/s?__biz=MzAxOTAzOTU3Mw==&mid=2247488446&idx=1&sn=1f0a30142d2bb3e530326213929aa2e5&chksm=9bcc4784acbbce9245ffa0e4e17bec80961302417661390987fe945b0c496596c1321c1bef71&scene=27#wechat_redirect)
+[:camera_flash:【2022-07-01 17:09:01】](https://mp.weixin.qq.com/s?__biz=MzAxOTAzOTU3Mw==&mid=2247488757&idx=1&sn=eaeb8485a63ae1626ca071db52ab5eda&chksm=9bcc40cfacbbc9d964761c7bbb41942eea0d636b92e7c7afef501d781e3334980f8746f8da95&scene=27#wechat_redirect)
 
 Yak Language Project: &lt;del&gt;北半球&lt;/del&gt;最强安全研发语言 / 黑客语言
 
@@ -105,9 +105,9 @@ Yak Language Project: &lt;del&gt;北半球&lt;/del&gt;最强安全研发语言 /
 
 ### [360Quake空间测绘](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NzE4MDE2NA==)
 
-[:chart_with_upwards_trend:【2/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NzE4MDE2NA==)
+[:chart_with_upwards_trend:【3/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NzE4MDE2NA==)
 
-[:camera_flash:【2022-06-23 20:43:05】](https://mp.weixin.qq.com/s?__biz=Mzk0NzE4MDE2NA==&mid=2247485806&idx=1&sn=ec4a8facc8e6555c061c4c9791141714&chksm=c37b8e85f40c0793ddd23c1b329c8dedab619622208424cba318ed6e6a2f95b0433bf5aa38a0&scene=27#wechat_redirect)
+[:camera_flash:【2022-06-28 17:39:56】](https://mp.weixin.qq.com/s?__biz=Mzk0NzE4MDE2NA==&mid=2247485811&idx=1&sn=cecbe8e4f465f83af4c2462fe3023d74&chksm=c37b8e98f40c078eee2fc8795ee7d6fd1a53b2ac493ccafd365991c8657b75481929d4ed1ef7&scene=27#wechat_redirect)
 
 360 网络空间测绘系统（QUAKE) 是 360 网络安全响应中心（360-CERT）自主设计研发的全球网络空间测绘系统，能够对全球 IPv4、IPv6 地址进行持续性探测，实时感知全球网络空间中各类资产并发现其安全风险。
 
@@ -118,9 +118,9 @@ Yak Language Project: &lt;del&gt;北半球&lt;/del&gt;最强安全研发语言 /
 
 ### [北邮GAMMALab](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzE1MTQzNw==)
 
-[:chart_with_upwards_trend:【1/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzE1MTQzNw==)
+[:chart_with_upwards_trend:【2/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzE1MTQzNw==)
 
-[:camera_flash:【2022-06-21 11:31:24】](https://mp.weixin.qq.com/s?__biz=Mzg4MzE1MTQzNw==&mid=2247486615&idx=1&sn=bd1c5b914fe4f5cf8ee31100fcc2d007&chksm=cf4a8bb5f83d02a3fabc55ae09fa85dc8e6bc4207f9e7ef958c35e054f6fe62e9ca8c72cf989&scene=27#wechat_redirect)
+[:camera_flash:【2022-06-29 22:23:47】](https://mp.weixin.qq.com/s?__biz=Mzg4MzE1MTQzNw==&mid=2247486652&idx=1&sn=f9fb8c5bd5442616fb7fad6c72fe9bc3&chksm=cf4a8b9ef83d0288cada4ab146e7a93145872f66260a4f6d983b091c9c1779a2cfea182dbb47&scene=27#wechat_redirect)
 
 北邮图数据挖掘与机器学习实验室
 
@@ -129,28 +129,41 @@ Yak Language Project: &lt;del&gt;北半球&lt;/del&gt;最强安全研发语言 /
 ---
 
 
-### [小生观察室](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxODQ1OTg5NQ==)
+### [OPPO数智技术](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzE2MzY1OA==)
 
-[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxODQ1OTg5NQ==)
+[:chart_with_upwards_trend:【1/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzE2MzY1OA==)
 
-[:camera_flash:【2022-05-30 20:00:02】](https://mp.weixin.qq.com/s?__biz=MzIxODQ1OTg5NQ==&mid=2247485256&idx=1&sn=fbe3c0efe3ec70a60c77acb50935ac05&chksm=97eb7cd0a09cf5c60e62bfe206b366b092934c290e9ea3ca948938c31ded7e56076962089db4&scene=27#wechat_redirect)
+[:camera_flash:【2022-07-01 21:00:35】](https://mp.weixin.qq.com/s?__biz=Mzg4MzE2MzY1OA==&mid=2247489264&idx=1&sn=3140d1b38470a677c9d654afad7044aa&chksm=cf4ac195f83d4883bc21b7d2bc9c158e74ca30c147fdc738a99b6bf61a1ee247b9f9bce03618&scene=27#wechat_redirect)
 
-本观察室仅个人做内容存档使用！
+OPPO在大数据、人工智能、云技术等领域的技术干货及技术活动分享平台
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_29a59093e5db" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_7bc48466f080" alt="" />
 
 ---
 
 
 ### [FOFA](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNzIwMzY4OQ==)
 
-[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNzIwMzY4OQ==)
+[:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNzIwMzY4OQ==)
 
-[:camera_flash:【2022-06-21 15:00:25】](https://mp.weixin.qq.com/s?__biz=MzkyNzIwMzY4OQ==&mid=2247486001&idx=1&sn=a4489044bd7757b6b3758782244009c2&chksm=c22ae237f55d6b21a2b9f27f6a722e5b3988eea903109059a59e46bb7fa9ae97949fcccb9021&scene=27#wechat_redirect)
+[:camera_flash:【2022-06-28 15:50:53】](https://mp.weixin.qq.com/s?__biz=MzkyNzIwMzY4OQ==&mid=2247486011&idx=1&sn=c4f1ab8ac5f7952c5e7685f6e7171a04&chksm=c22ae23df55d6b2be485f492a423c97edb71c6c3d86f62d1049773d5432cd6f21849e2eea576&scene=27#wechat_redirect)
 
 FOFA是由华顺信安科技有限公司开发的一款网络空间资产搜索引擎。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_d79c8913fde8" alt="" />
+
+---
+
+
+### [GobySec](http://wechat.doonsec.com/wechat_echarts/?biz=MzI4MzcwNTAzOQ==)
+
+[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI4MzcwNTAzOQ==)
+
+[:camera_flash:【2022-06-30 18:48:13】](https://mp.weixin.qq.com/s?__biz=MzI4MzcwNTAzOQ==&mid=2247516819&idx=1&sn=80e5549fe67956ce8e21549b20abdebd&chksm=eb846933dcf3e02502157a22b69c2d374951f585a04d66dafc379bbdc3da1a062b981c7636a6&scene=27#wechat_redirect)
+
+新一代网络安全测试工具，由赵武Zwell（Pangolin、FOFA作者）打造，能够针对一个目标企业梳理最全的攻击面信息，同时能进行高效、实战化漏洞扫描，并快速的从一个验证入口点，切换到横向。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_7f7c15f37480" alt="" />
 
 ---
 
@@ -285,15 +298,15 @@ FOFA是由华顺信安科技有限公司开发的一款网络空间资产搜索�
 ---
 
 
-### [GobySec](http://wechat.doonsec.com/wechat_echarts/?biz=MzI4MzcwNTAzOQ==)
+### [小生观察室](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxODQ1OTg5NQ==)
 
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI4MzcwNTAzOQ==)
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxODQ1OTg5NQ==)
 
-[:camera_flash:【2022-03-15 17:05:18】](https://mp.weixin.qq.com/s?__biz=MzI4MzcwNTAzOQ==&mid=2247515222&idx=1&sn=c349aebd09dfa461d38760fa192a687e&chksm=eb8457f6dcf3dee057ac1abb743ee9c008b3012ab8884cce19d156f9485865ee59ffcc9450a0&scene=27&key=129f32db6ad111a3adc1df015f8360140c7f2721f3762b976eac9da6464bff4c33f380f2069271edad40c478179007cc2cc786aee061d96b31a2ad1ace60fd83d590df92aab6d05c0a4d924f3b9765ace44a356353c3e846412cd4af7d2749d99b338700955464d294abe4475bbdf59cd54531112e8dd616d8de8a62c189d5e3&ascene=0&uin=NTY2NTA4NjQ%3D&devicetype=Windows+Server+2016+x64&version=6305002e&lang=zh_CN&exportkey=Axaymk2xovFKCKBK0X9smME%3D&acctmode=0&p&scene=27#wechat_redirect)
+[:camera_flash:【2022-05-30 20:00:02】](https://mp.weixin.qq.com/s?__biz=MzIxODQ1OTg5NQ==&mid=2247485256&idx=1&sn=fbe3c0efe3ec70a60c77acb50935ac05&chksm=97eb7cd0a09cf5c60e62bfe206b366b092934c290e9ea3ca948938c31ded7e56076962089db4&scene=27#wechat_redirect)
 
-新一代网络安全测试工具，由赵武Zwell（Pangolin、FOFA作者）打造，能够针对一个目标企业梳理最全的攻击面信息，同时能进行高效、实战化漏洞扫描，并快速的从一个验证入口点，切换到横向。
+本观察室仅个人做内容存档使用！
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_7f7c15f37480" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_29a59093e5db" alt="" />
 
 ---
 
@@ -437,19 +450,6 @@ Pinpoint，专业代码审计团队。感谢您的关注！
 逆向案例小笔记
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_84c656527267" alt="" />
-
----
-
-
-### [OPPO数智技术](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzE2MzY1OA==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzE2MzY1OA==)
-
-[:camera_flash:【2022-05-20 21:00:23】](https://mp.weixin.qq.com/s?__biz=Mzg4MzE2MzY1OA==&mid=2247489175&idx=1&sn=2051bfee734630a770f06753a9efff63&chksm=cf4ac1f2f83d48e4e1180b45c6ba7e1aba590e347440103eddb59f51d181bc7ba8307ec315bc&scene=27&key=e3c6d366b452a3e61cb7b14598427c72bf74a30363361b41cf93a1f50112b4debff1c8d06852031bfb20151b2a6229a3c5a16f76386cce280008a4af6e83f5ac2620ff201c02f1ee0919387da4c18e4b1167ab05a5a67ba54129d18eba07c30e8ac6ab8410a8690ed30a4ca2dc1e406769ac5de0eb495ad979881bc1c468b22c&ascene=15&uin=MTA3Mzc3OTIzNQ%3D%3D&devicetype=Windows+Server+2016+x64&version=63060012&lang=zh_CN&session_us=gh_2da522fdae7a&exportkey=AT%2BmrGppyS05FMjT89RIGG0%3D&acctmode=0&pass_ticket=Sh2I9WXkcyqyP5hcsOLQ4yb7kZHhXIrmSHOyi8LKewKmbNk0bzbpyBPAqlhMGiQb&wx_header=0&fontgear=2&scene=27#wechat_redirect)
-
-OPPO在大数据、人工智能、云技术等领域的技术干货及技术活动分享平台
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_7bc48466f080" alt="" />
 
 ---
 
