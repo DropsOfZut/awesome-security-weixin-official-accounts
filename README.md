@@ -1331,11 +1331,7 @@
 【[0x584a](https://github.com/0x584a)】
 【[简爱](https://github.com/简爱)】
 【[goddemon](https://github.com/goddemon)】
-【[york](https://github.com/york)】
 【[Google](https://github.com/Google)】
-【[h1er](https://github.com/h1er)】
-【[ExplorerTheUnknow](https://github.com/ExplorerTheUnknow)】
-【[上弦](https://github.com/上弦)】
 
 ##  Coder
 
