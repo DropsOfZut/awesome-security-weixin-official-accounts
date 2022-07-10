@@ -1,9 +1,9 @@
 
 ### [寰宇卫士](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
 
-[:chart_with_upwards_trend:【0/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
+[:chart_with_upwards_trend:【0/21/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
 
-[:camera_flash:【2022-07-01 14:48:27】](https://mp.weixin.qq.com/s?__biz=MzIwMzU0NDY5OA==&mid=2247492276&idx=1&sn=ee52e7532f480ca8bb5948ed528b3a1b&chksm=96cf63a1a1b8eab7ad3099364ad2357afa74bff8aab9ecc3bd1a47eb8795509ce127efe07215&scene=27#wechat_redirect)
+[:camera_flash:【2022-07-08 15:17:44】](https://mp.weixin.qq.com/s?__biz=MzIwMzU0NDY5OA==&mid=2247492401&idx=1&sn=20e75c2e3667a5a19222928c3b4f5262&chksm=96cf6224a1b8eb328cf616e79e526d79b55be16cd50da432698267a4f5c102a476dd32137f0e&scene=27#wechat_redirect)
 
 寰宇卫士综合安全咨询、安全服务、解决方案、认证培训、产品研发等信息安全多元化产业链为一体。
 
@@ -16,7 +16,7 @@
 
 [:chart_with_upwards_trend:【0/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
 
-[:camera_flash:【2022-07-01 18:30:37】](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247506442&idx=1&sn=0ebd8f408a79bbe78fd470b7e2def812&chksm=a687283091f0a126f5dff6e02bb4e6dfdef388491cdcd92160bd8abe421c48c1164edda2f4ae&scene=27#wechat_redirect)
+[:camera_flash:【2022-07-05 17:31:00】](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247506473&idx=1&sn=0ed8c8c213b47fba2bb0e10f1d540fd1&chksm=a687281391f0a1055be27624834625e8eda5b87eddc49535af40eca7757b81117786d820debf&scene=27&key=f5c151d04e93206a5a9f2232833ecacdbfda0ca528b2f21bec143fc0844724dc0a66038a60ab276c2d92270dc31204bc3a09193264ec0657e664f63748877e6251f3ba2d0f72e0258a5e0a52d055efe2f9277c62e2e16ac232d8ac89c1dc5d3f55654df70bb7f242782c57ffad443c5b5af32780dcf43a2e7907b92988ebdfd2&ascene=1&uin=NTY2NTA4NjQ%3D&devicetype=Windows+Server+2016+x64&version=6307001e&lang=zh_CN&exportkey=A%2B3B3ppTupTF4pLKs2sMTGE%3D&acctmode=0&pass_ticket=AV78se%2BNZ2OnDYeIQE9Uq6BpZMovSnqZaQlSKOdWXZyio%2FuBtX3OzbSPuZVQhTAN&wx_header=0&fontgear=2&scene=27#wechat_redirect)
 
 国内最早、亚洲最大的网络攻防联赛。
 
@@ -27,7 +27,7 @@
 
 ### [PTEHub](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NzY5NjgyNw==)
 
-[:chart_with_upwards_trend:【4/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NzY5NjgyNw==)
+[:chart_with_upwards_trend:【3/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NzY5NjgyNw==)
 
 [:camera_flash:【2022-06-23 18:01:02】](https://mp.weixin.qq.com/s?__biz=Mzg4NzY5NjgyNw==&mid=2247484512&idx=1&sn=17505a2b097ce389e0f686323f6a586b&chksm=cf8738b4f8f0b1a2683e5843320808c907d8723107bb552b378866d31331d92d698714e140c7&scene=27#wechat_redirect)
 
@@ -42,7 +42,7 @@ PTE小技巧
 
 [:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
 
-[:camera_flash:【2022-06-06 20:04:40】](https://mp.weixin.qq.com/s?__biz=MzkyNDA5NjgyMg==&mid=2247493426&idx=1&sn=5b046d4fb314b104da0ccc52e350ae25&chksm=c1d9a76bf6ae2e7d5321fedfc2916d358aff0adb260ab60095f6852fb325671be9ebe0ff8fff&scene=27#wechat_redirect)
+[:camera_flash:【2022-07-05 21:06:04】](https://mp.weixin.qq.com/s?__biz=MzkyNDA5NjgyMg==&mid=2247493450&idx=1&sn=a821f051e67b965f7f4dadf9e8321171&chksm=c1d9a713f6ae2e05aa60cc1a3d44b411ebbee4f3453186a21fdbc33a11b4b355ec74edef7103&scene=27#wechat_redirect)
 
 春秋伽玛，为广大网络安全爱好者传递网络安全大赛相关赛事信息，提供优质的赛事服务平台
 
@@ -64,19 +64,6 @@ PTE小技巧
 ---
 
 
-### [DataCon大数据安全分析竞赛](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5Njg1NzMyNw==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5Njg1NzMyNw==)
-
-[:camera_flash:【2022-06-03 12:00:55】](https://mp.weixin.qq.com/s?__biz=MzU5Njg1NzMyNw==&mid=2247484634&idx=1&sn=caa9fab7452a3d99dd931f884a0771e1&chksm=fe5d1c5ac92a954c85bc27e1d0ea307bcb25e1e409b9cb00fa928a1e40d5a5f83432b842bc05&scene=27#wechat_redirect)
-
-由奇安信集团、清华大学、蚂蚁集团主办，联合北京大学、中科院软件所、复旦大学、中山大学、山东大学、中国科技大学等30多个知名高校和研究机构共同举办的聚焦大数据安全分析的比赛。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a0316d342599" alt="" />
-
----
-
-
 ### [r3kapig](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MDE4MzkzMQ==)
 
 [:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MDE4MzkzMQ==)
@@ -90,15 +77,15 @@ power by r3kapig team
 ---
 
 
-### [中学生CTF](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzEwMTQ3NQ==)
+### [DataCon大数据安全分析竞赛](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5Njg1NzMyNw==)
 
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzEwMTQ3NQ==)
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5Njg1NzMyNw==)
 
-[:camera_flash:【2022-06-06 19:00:45】](https://mp.weixin.qq.com/s?__biz=MzU3MzEwMTQ3NQ==&mid=2247499527&idx=1&sn=c20ba79c28a4b4c97cc1ed9e3fdb67ea&chksm=fcc47bcbcbb3f2dd70b1bcda1813d56367ab12af09cac5b34bdd8fb69118c4f236d900001964&scene=27#wechat_redirect)
+[:camera_flash:【2022-07-04 17:01:26】](https://mp.weixin.qq.com/s?__biz=MzU5Njg1NzMyNw==&mid=2247484652&idx=1&sn=77ebae0599480970c176156cbf4df59f&chksm=fe5d1c6cc92a957a618f0b7e6a49b1cbf5f1f5c69e80af0c589c66cfd1e1b6318256237629da&scene=27#wechat_redirect)
 
-为广大学生提供学习的平台
+由奇安信集团、清华大学、蚂蚁集团主办，联合北京大学、中科院软件所、复旦大学、中山大学、山东大学、中国科技大学等30多个知名高校和研究机构共同举办的聚焦大数据安全分析的比赛。
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0d0714849484" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a0316d342599" alt="" />
 
 ---
 
@@ -120,11 +107,24 @@ CTF，从入门到放弃
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3NzY2NzAyNg==)
 
-[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
+[:camera_flash:【2018-10-26 22:52:19】](https://mp.weixin.qq.com/s?__biz=MzU3NzY2NzAyNg==&mid=2247483671&idx=1&sn=371dabc2238ce5c0acbfc345eeff1894&chksm=fd006baaca77e2bc06db42a638b0637b4c1472382236d71b90cbe48042c06a2a0db1b3498173&scene=27#wechat_redirect)
 
 腾讯信息安全争霸赛(Tencent Capture The Flag，简称TCTF)由腾讯安全发起，腾讯安全联合实验室主办，腾讯安全科恩实验室承办，0ops安全团队和腾讯安全玄武实验室协办，致力于联合行业伙伴建立国内首个专业安全人才培养平台。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_d70902412103" alt="" />
+
+---
+
+
+### [中学生CTF](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzEwMTQ3NQ==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzEwMTQ3NQ==)
+
+[:camera_flash:【2022-06-06 19:00:45】](https://mp.weixin.qq.com/s?__biz=MzU3MzEwMTQ3NQ==&mid=2247499527&idx=1&sn=c20ba79c28a4b4c97cc1ed9e3fdb67ea&chksm=fcc47bcbcbb3f2dd70b1bcda1813d56367ab12af09cac5b34bdd8fb69118c4f236d900001964&scene=27#wechat_redirect)
+
+为广大学生提供学习的平台
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0d0714849484" alt="" />
 
 ---
 
