@@ -1,7 +1,7 @@
 
 ### [大学生网络安全尖锋训练营](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
 
-[:chart_with_upwards_trend:【0/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
+[:chart_with_upwards_trend:【0/19/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
 
 [:camera_flash:【2022-07-08 09:38:20】](https://mp.weixin.qq.com/s?__biz=MzUzODkwMDMxNA==&mid=2247502426&idx=1&sn=016204008dd4473cc445d109cad6f766&chksm=fad2286fcda5a1793b1989f56cd821572f36349ad04b03341edc624bf5508194724018df5bdd&scene=27#wechat_redirect)
 
@@ -40,7 +40,7 @@
 
 ### [浙大网安](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5NDczNDc4NA==)
 
-[:chart_with_upwards_trend:【0/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5NDczNDc4NA==)
+[:chart_with_upwards_trend:【0/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5NDczNDc4NA==)
 
 [:camera_flash:【2022-07-08 15:34:18】](https://mp.weixin.qq.com/s?__biz=Mzg5NDczNDc4NA==&mid=2247490777&idx=1&sn=b1be06f51036482d1e70398734541c68&chksm=c01a4476f76dcd6020a8a41ef907e8f13e2f929e236a82f5c7dcdd56afb0b87af26ba84d8a3c&scene=27#wechat_redirect)
 
@@ -73,19 +73,6 @@
 以复旦大学系统安全实验室学生为主成立的安全攻防战队，分享最新研究成果，交流系统安全攻防领域技巧。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f1bf07da06d8" alt="" />
-
----
-
-
-### [蝰蛇安全实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NzgyNjUwNA==)
-
-[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NzgyNjUwNA==)
-
-[:camera_flash:【2022-06-10 18:29:30】](https://mp.weixin.qq.com/s?__biz=MzA3NzgyNjUwNA==&mid=2247488346&idx=1&sn=86f28563a7cece1164742a59a65d5f3c&chksm=9f4d43fda83acaeb46e4e69a85161e88b77035f55739c2abb85816dc6e5ba0972b16474c88c6&scene=27#wechat_redirect)
-
-湖南农业大学蝰蛇安全实验室
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_638eab2e92c7" alt="" />
 
 ---
 
@@ -177,6 +164,19 @@
 广东外语外贸大学网络安全实验室信息推送和资源平台
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8176da819e03" alt="" />
+
+---
+
+
+### [蝰蛇安全实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NzgyNjUwNA==)
+
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NzgyNjUwNA==)
+
+[:camera_flash:【2022-06-10 18:29:30】](https://mp.weixin.qq.com/s?__biz=MzA3NzgyNjUwNA==&mid=2247488346&idx=1&sn=86f28563a7cece1164742a59a65d5f3c&chksm=9f4d43fda83acaeb46e4e69a85161e88b77035f55739c2abb85816dc6e5ba0972b16474c88c6&scene=27#wechat_redirect)
+
+湖南农业大学蝰蛇安全实验室
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_638eab2e92c7" alt="" />
 
 ---
 
