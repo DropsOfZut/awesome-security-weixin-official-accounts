@@ -1,13 +1,26 @@
 
 ### [全球技术地图](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1OTExNDY1NQ==)
 
-[:chart_with_upwards_trend:【22/50/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1OTExNDY1NQ==)
+[:chart_with_upwards_trend:【22/49/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1OTExNDY1NQ==)
 
 [:camera_flash:【2022-07-10 18:51:19】](https://mp.weixin.qq.com/s?__biz=MzI1OTExNDY1NQ==&mid=2651594756&idx=1&sn=ceabb4d667bee969304b765da8e1ef73&chksm=f18553f4c6f2dae2c1db7deac0d41f1d747f7fb3afe558dd1b54f96edc4f8dc8ec09db5b9465&scene=27&key=4a4903f8ef6b840ab62d5b2090ae9f7a6bdc02dedb0b8fe3ec84e3b49ff99c73e5968667e4a4897b896afbbac1b8a354e71c193e2eb79b4e2b0109c95927b7e36c41ebb9db9cc7275a01e279ee5b948b724ca4f929bb6bfba6e7492051a0ec3fed0ad68058e54eabf4590cd4ff2a19bfa468642df264712ac370f6146c57b5f3&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+Server+2016+x64&version=6307001e&lang=zh_CN&session_us=gh_b902de9201a8&exportkey=A214bmI9jIXDr3hUXYpZVdY%3D&acctmode=0&pass_ticket=VjFoQfQa1yk278zb3XkvC9gChxMcodvDieM36hrS2GwP2ixExy6x7R%2BrmG3W9JLG&wx_header=0&fontgear=2&scene=27#wechat_redirect)
 
 洞见前沿，引领未来。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_66ccbb1db194" alt="" />
+
+---
+
+
+### [网络安全与黑客技术](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2MDQzMjY4NQ==)
+
+[:chart_with_upwards_trend:【0/27/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2MDQzMjY4NQ==)
+
+[:camera_flash:【2022-07-11 14:00:19】](https://mp.weixin.qq.com/s?__biz=Mzg2MDQzMjY4NQ==&mid=2247486863&idx=1&sn=6f2b013d0365e7d88dd5f294bd93fe3f&chksm=ce273dcdf950b4dbdee92e9f13637d676b5f241b85e84ef0fbe23acb14bc31c65aa8a6ea0d95&scene=27&key=a42ed7a44607670d07b92fdb0b012e3c266a967217c2c88976e8106d0b3595349b56b19fe70806dba18a58ef74ef5d44beab39735be33c67bc40c975e88c065aba63282e5a6dba1bf6686d69b5276e7f0353c8edbac2b94aef05ad7f4bfceefc5999e072eec747d1b4de8c67e7000335ac74b4acb36ede40d4b870ca800ca68d&ascene=0&uin=MTA3Mzc3OTIzNQ%3D%3D&devicetype=Windows+Server+2016+x64&version=6307001e&lang=zh_CN&exportkey=AR4c%2FSf8CRx4F44NEJrIzo8%3D&acctmode=0&pass_ticket=xsbZMb%2FRIhE0gX%2FYkupL4V9s4b2qeLo9UCoS89tRz9rveisO0GZn84roWXW8L2rQ&wx_header=0&fontgear=2&scene=27#wechat_redirect)
+
+这里拥有神秘的黑客技术，等你来关注 ！
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4bf5e38200d2" alt="" />
 
 ---
 
@@ -55,7 +68,7 @@
 
 [:chart_with_upwards_trend:【0/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxODM0NDU4MQ==)
 
-[:camera_flash:【2022-07-07 18:16:52】](https://mp.weixin.qq.com/s?__biz=MzIxODM0NDU4MQ==&mid=2247495494&idx=1&sn=f548e4506c1837c1c511aa054ed3e850&chksm=97e952aca09edbba4b00d6a870ae4c03d983843bf6359bf5152704a1f4bae26590a388ac73de&scene=27#wechat_redirect)
+[:camera_flash:【2022-07-11 08:31:00】](https://mp.weixin.qq.com/s?__biz=MzIxODM0NDU4MQ==&mid=2247495515&idx=1&sn=e105412932077b973b0e9cc0b02167c0&chksm=97e952b1a09edba73855fab9240086f703bb5bb8d4b015f6119951e928afbb18a5f25d0c5ff1&scene=27#wechat_redirect)
 
 立足本土实践和需求，放眼全球做法和经验，探寻网络空间安全之法道。
 
@@ -333,6 +346,19 @@ lymmmx
 定期分享渗透知识，渗透思路，漏洞研究及复现等文章
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_33e72d8a2c87" alt="" />
+
+---
+
+
+### [诚殷网络Team](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzE2ODAyNA==)
+
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzE2ODAyNA==)
+
+[:camera_flash:【2022-06-28 12:23:40】](https://mp.weixin.qq.com/s?__biz=MzU3MzE2ODAyNA==&mid=2247484682&idx=1&sn=97caf08ed09c6f250ab25f9a9c72cb3a&chksm=fcc485fdcbb30ceb2b5a4ab047a4b1406bb5913e3f5de3545f78ac7e5f0439864e7ac54e9e67&mpshare=1&scene=1&srcid=0628XMAo2i50ncgaT9y7Lu3p&sharer_sharetime=1656396049066&sharer_shareid=3e03111671af4cfd3d37a92be8338434&key=a42ed7a44607670de427c2b8980dbf2cf8f3baeb136ff3e3a7231054d81b2119720daec33cac6504411b70c55682d13811d95336b3139f2d5785ab08425fc2f0da6930ec0aaa3c3850670be0281287d649d9860630301ba7b52152491f10dcad694ddbf9fdf7a5e57d55cc784aa01245b4dbc4b25c8d2e5c66cea8a6c47133fe&ascene=1&uin=MTA3Mzc3OTIzNQ%3D%3D&devicetype=Windows+Server+2016+x64&version=6307001e&lang=zh_CN&exportkey=AVm4lC6BEmAW63D1DyBbS3Q%3D&acctmode=0&pass_ticket=sKNK3ur%2Bb1y%2F5r54bUQpdAiUD6mFZMhVBFbNRVyVltYCv4RpXfE08XwnQ7CIHFlc&wx_header=0&fontgear=2&scene=27#wechat_redirect)
+
+专注信息安全红队培训 AND 反电信诈骗！
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8ee4dc745ac2" alt="" />
 
 ---
 
@@ -749,6 +775,19 @@ NOVA SEC  新星安全 萌新启蒙之路 愿大家都能成为最闪耀的星�
 专注于入侵检测、红蓝对抗的安全内容分享
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_838daa0b2ceb" alt="" />
+
+---
+
+
+### [必火安全](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzMjg0MTk5Mw==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzMjg0MTk5Mw==)
+
+[:camera_flash:【2021-11-29 12:11:32】](https://mp.weixin.qq.com/s?__biz=MzUzMjg0MTk5Mw==&mid=2247487305&idx=1&sn=aa1daf0f985e6381ce6687f3e81c132e&chksm=faac5c2fcddbd539f52fdcb5c074ecab6e8086a8fcc18546c0e2d14917e3820986d09ad98f53&scene=27#wechat_redirect)
+
+主营网络安全技术培训、渗透测试、SEO网站优化、百度排名业务，国内领先网络安全培训机构，培养安全人才千余名，学员分布于各大安全公司。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_23a1cd5b070b" alt="" />
 
 ---
 
