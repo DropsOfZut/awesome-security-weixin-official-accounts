@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【0/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
 
-[:camera_flash:【2022-07-08 15:17:44】](https://mp.weixin.qq.com/s?__biz=MzIwMzU0NDY5OA==&mid=2247492401&idx=1&sn=20e75c2e3667a5a19222928c3b4f5262&chksm=96cf6224a1b8eb328cf616e79e526d79b55be16cd50da432698267a4f5c102a476dd32137f0e&scene=27#wechat_redirect)
+[:camera_flash:【2022-07-12 15:07:42】](https://mp.weixin.qq.com/s?__biz=MzIwMzU0NDY5OA==&mid=2247492459&idx=1&sn=a94a91fd7d0d3efcc4e57003f11ba1d6&chksm=96cf627ea1b8eb689a5f685f88dc1370f12221a967a9ed6281c726889e7c69ad8fad39f4abd1&scene=27#wechat_redirect)
 
 寰宇卫士综合安全咨询、安全服务、解决方案、认证培训、产品研发等信息安全多元化产业链为一体。
 
@@ -64,6 +64,19 @@ PTE小技巧
 ---
 
 
+### [DataCon大数据安全分析竞赛](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5Njg1NzMyNw==)
+
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5Njg1NzMyNw==)
+
+[:camera_flash:【2022-07-04 17:01:26】](https://mp.weixin.qq.com/s?__biz=MzU5Njg1NzMyNw==&mid=2247484652&idx=1&sn=77ebae0599480970c176156cbf4df59f&chksm=fe5d1c6cc92a957a618f0b7e6a49b1cbf5f1f5c69e80af0c589c66cfd1e1b6318256237629da&scene=27#wechat_redirect)
+
+由奇安信集团、清华大学、蚂蚁集团主办，联合北京大学、中科院软件所、复旦大学、中山大学、山东大学、中国科技大学等30多个知名高校和研究机构共同举办的聚焦大数据安全分析的比赛。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a0316d342599" alt="" />
+
+---
+
+
 ### [r3kapig](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MDE4MzkzMQ==)
 
 [:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MDE4MzkzMQ==)
@@ -73,19 +86,6 @@ PTE小技巧
 power by r3kapig team
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4d1d402cbd9d" alt="" />
-
----
-
-
-### [DataCon大数据安全分析竞赛](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5Njg1NzMyNw==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5Njg1NzMyNw==)
-
-[:camera_flash:【2022-07-04 17:01:26】](https://mp.weixin.qq.com/s?__biz=MzU5Njg1NzMyNw==&mid=2247484652&idx=1&sn=77ebae0599480970c176156cbf4df59f&chksm=fe5d1c6cc92a957a618f0b7e6a49b1cbf5f1f5c69e80af0c589c66cfd1e1b6318256237629da&scene=27#wechat_redirect)
-
-由奇安信集团、清华大学、蚂蚁集团主办，联合北京大学、中科院软件所、复旦大学、中山大学、山东大学、中国科技大学等30多个知名高校和研究机构共同举办的聚焦大数据安全分析的比赛。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a0316d342599" alt="" />
 
 ---
 

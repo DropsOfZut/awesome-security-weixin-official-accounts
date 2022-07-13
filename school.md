@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【0/19/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
 
-[:camera_flash:【2022-07-11 08:36:13】](https://mp.weixin.qq.com/s?__biz=MzUzODkwMDMxNA==&mid=2247502431&idx=1&sn=ef252ccc08f2741d45f49a972f182467&chksm=fad2286acda5a17c1bcf6f6a6fd6530c67f659a36dd71978a11de77e9631d59619bbf6979dbd&scene=27#wechat_redirect)
+[:camera_flash:【2022-07-12 08:21:20】](https://mp.weixin.qq.com/s?__biz=MzUzODkwMDMxNA==&mid=2247502443&idx=1&sn=5035199943438cd3bec03fe36526e58e&chksm=fad2285ecda5a1487b1a1b081a838dec424b66915768bc3c4e5a8d991240984cc1b6709ac9ac&scene=27#wechat_redirect)
 
 百所高校、百家用人单位、百名尖锋导师，携手打造定制化人才培养模式，通过导师制职业规划和封闭式岗位实训，补足知识短板、提高实战能力，培养创新型、实用型网络安全尖锋人才。
 
@@ -16,7 +16,7 @@
 
 [:chart_with_upwards_trend:【0/13/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
 
-[:camera_flash:【2022-07-07 20:16:24】](https://mp.weixin.qq.com/s?__biz=MzUzNDg0NTc1NA==&mid=2247490857&idx=1&sn=94f39c33ab2545e35c5be115481fe942&chksm=fa8fdd7ccdf8546aecbcef6eb24632ccc9e80aa5f39e7c50ef23f44c37b97ab88103e60bbda9&scene=27#wechat_redirect)
+[:camera_flash:【2022-07-12 19:24:16】](https://mp.weixin.qq.com/s?__biz=MzUzNDg0NTc1NA==&mid=2247491150&idx=1&sn=513b7c37885a8fb14872b8cbae774171&chksm=fa8fde1bcdf8570db7a280f5489bbbd9775bbb181175fe2df68bad1327bb83d171dd6415c573&scene=27#wechat_redirect)
 
 启明星辰网络空间安全学院以国家网络安全事业发展为使命，依托启明星辰集团多年的技术沉淀及实践积累，提供网络安全人才体系构建与信息安全技术及能力提升教育培训，为建设网络强国提供有力的人才支撑。
 
@@ -29,7 +29,7 @@
 
 [:chart_with_upwards_trend:【2/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMzAyMDAwMQ==)
 
-[:camera_flash:【2022-07-04 15:21:22】](https://mp.weixin.qq.com/s?__biz=MzkwMzAyMDAwMQ==&mid=2247502855&idx=2&sn=c9b06f2bb9de7b5248ea201ef46228db&chksm=c09e2089f7e9a99f18eb77ec38dc3b8944ed5b33c171d31ed35c12f6264492ad43ce34d6c7f1&scene=27#wechat_redirect)
+[:camera_flash:【2022-07-11 17:00:09】](https://mp.weixin.qq.com/s?__biz=MzkwMzAyMDAwMQ==&mid=2247502914&idx=1&sn=67abb0c160f843635de17c1ff66a008e&chksm=c09e20ccf7e9a9da6e672bc5c487af90a64b7f91d1de507f0dc741c73d9375903ebf88f2e4ca&scene=27#wechat_redirect)
 
 网络安全服务、技术特训、技术咨询、渗透测试服务
 
@@ -112,6 +112,19 @@
 河北网络安全高校联盟
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8937984657cd" alt="" />
+
+---
+
+
+### [网络安全学生社团](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzNDcyMDM1MQ==)
+
+[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzNDcyMDM1MQ==)
+
+[:camera_flash:【2022-07-12 13:26:51】](https://mp.weixin.qq.com/s?__biz=MzIzNDcyMDM1MQ==&mid=2247483802&idx=1&sn=1ece1a984f1cfc2fafc60afa30dd5e7f&chksm=e8f35caadf84d5bcb370df290e5910f655f6025022430b4592561dfa1a30266f5e8174607639&scene=27#wechat_redirect)
+
+校企合作网络安全学生社团
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f587b147a938" alt="" />
 
 ---
 
@@ -203,19 +216,6 @@
 绿盟科技网络安全学院（别名：猎鹰学院）秉承”卓尔不凡，极致专业”（The few The professional）的校训精神，依托集团安全研究院、五大安全实验室和四大战队的强大师资力量，提供网络安全人才培养、认证培训以及技术能力提升服务。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_c887198c61eb" alt="" />
-
----
-
-
-### [网络安全学生社团](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzNDcyMDM1MQ==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzNDcyMDM1MQ==)
-
-[:camera_flash:【2022-07-11 11:03:50】](https://mp.weixin.qq.com/s?__biz=MzIzNDcyMDM1MQ==&mid=2247483795&idx=1&sn=18868eeb98941dcfef48d6c49febea09&chksm=e8f35ca3df84d5b587d26e9e788e31cb037a29e1fef68e1370779c7852cd1e2ed67f474d6124&scene=27#wechat_redirect)
-
-校企合作网络安全学生社团
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f587b147a938" alt="" />
 
 ---
 
