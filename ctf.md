@@ -1,7 +1,7 @@
 
 ### [寰宇卫士](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
 
-[:chart_with_upwards_trend:【0/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
+[:chart_with_upwards_trend:【0/21/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
 
 [:camera_flash:【2022-07-14 16:02:26】](https://mp.weixin.qq.com/s?__biz=MzIwMzU0NDY5OA==&mid=2247492564&idx=1&sn=3456f2f32ce36c04071c16cb733c060a&chksm=96cf62c1a1b8ebd7070a1cf727ecb62db34713bd57241bb9d945f52e5f2aa904284a022e9690&scene=27#wechat_redirect)
 
@@ -25,15 +25,41 @@
 ---
 
 
+### [中学生CTF](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzEwMTQ3NQ==)
+
+[:chart_with_upwards_trend:【2/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzEwMTQ3NQ==)
+
+[:camera_flash:【2022-07-15 12:15:06】](https://mp.weixin.qq.com/s?__biz=MzU3MzEwMTQ3NQ==&mid=2247499575&idx=4&sn=f9a4a4a66432f8e0aa9a86cdc5d64858&chksm=fcc47bfbcbb3f2edb7aaa46343c6183856574d375f3d3d328a7da1224ba6e1b019caf9b3dfcd&scene=27#wechat_redirect)
+
+为广大学生提供学习的平台
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0d0714849484" alt="" />
+
+---
+
+
 ### [强网竞赛](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjY3NDQ2Ng==)
 
-[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjY3NDQ2Ng==)
+[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjY3NDQ2Ng==)
 
-[:camera_flash:【2022-07-12 09:02:21】](https://mp.weixin.qq.com/s?__biz=Mzg4MjY3NDQ2Ng==&mid=2247484974&idx=1&sn=3121cc9b1045ebade3f522c6d752e51d&chksm=cf525863f825d175e39a8c0dc80da2779f929fef8d8dca238234e92d18ba01d28deb5001bb6a&scene=27&key=10cf53547534d2b5ab33156956bd8662912241996d77b4b5340453cbfe4d07c49b1b9b59c63f245166be9f84aa7d011375fd9a40413a39f77f20e447e460bc5994f9c79fce456fd0d9f157513ddd223f884f1aff088dbc2d7b294bc95f16779a9424a6b5a127319fdfed8cb90896640ca6dfe579add960b4cb3600275c58eaf8&ascene=15&uin=MTA3Mzc3OTIzNQ%3D%3D&devicetype=Windows+Server+2016+x64&version=6307001e&lang=zh_CN&session_us=gh_a0316d342599&exportkey=AePT6%2F1vXoiNQhzh6OZHmO0%3D&acctmode=0&pass_ticket=%2Fod5UXkaG2IzKplnNsHjBesRerlk3BkbbVvCoqjJvk1FM%2FCx3xxASN2SOQ%2FP7uY5&wx_header=0&fontgear=2&scene=27#wechat_redirect)
+[:camera_flash:【2022-07-15 18:29:39】](https://mp.weixin.qq.com/s?__biz=Mzg4MjY3NDQ2Ng==&mid=2247484987&idx=1&sn=e03d170dcaca3dfc85f388d2aa982654&chksm=cf525876f825d1606c8666836e34965d77a59b4375a5f40570502296ab6fd32e693613bc27c9&scene=27#wechat_redirect)
 
 强网竞赛是面向高等院校和国内信息安全企业的国家级赛事，旨在通过高对抗的竞技比赛，发现锻造网络安全领域优秀人才，提高国家网络安全保障能力，提升全民网络安全意识。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_cf8bfd7de794" alt="" />
+
+---
+
+
+### [春秋伽玛](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
+
+[:chart_with_upwards_trend:【2/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
+
+[:camera_flash:【2022-07-14 10:34:45】](https://mp.weixin.qq.com/s?__biz=MzkyNDA5NjgyMg==&mid=2247493664&idx=1&sn=e95a996da43181821b9e372a43bec9a0&chksm=c1d9a879f6ae216f2a2e85fc2c02e7246cc2a4df4873521b3be1041df40e2a5df05bb1088bef&scene=27#wechat_redirect)
+
+春秋伽玛，为广大网络安全爱好者传递网络安全大赛相关赛事信息，提供优质的赛事服务平台
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_07fa2c2720be" alt="" />
 
 ---
 
@@ -47,19 +73,6 @@
 PTE小技巧
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_5aff651a75ac" alt="" />
-
----
-
-
-### [春秋伽玛](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
-
-[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
-
-[:camera_flash:【2022-07-14 10:34:45】](https://mp.weixin.qq.com/s?__biz=MzkyNDA5NjgyMg==&mid=2247493664&idx=1&sn=e95a996da43181821b9e372a43bec9a0&chksm=c1d9a879f6ae216f2a2e85fc2c02e7246cc2a4df4873521b3be1041df40e2a5df05bb1088bef&scene=27#wechat_redirect)
-
-春秋伽玛，为广大网络安全爱好者传递网络安全大赛相关赛事信息，提供优质的赛事服务平台
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_07fa2c2720be" alt="" />
 
 ---
 
@@ -125,19 +138,6 @@ CTF，从入门到放弃
 腾讯信息安全争霸赛(Tencent Capture The Flag，简称TCTF)由腾讯安全发起，腾讯安全联合实验室主办，腾讯安全科恩实验室承办，0ops安全团队和腾讯安全玄武实验室协办，致力于联合行业伙伴建立国内首个专业安全人才培养平台。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_d70902412103" alt="" />
-
----
-
-
-### [中学生CTF](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzEwMTQ3NQ==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzEwMTQ3NQ==)
-
-[:camera_flash:【2022-06-06 19:00:45】](https://mp.weixin.qq.com/s?__biz=MzU3MzEwMTQ3NQ==&mid=2247499527&idx=1&sn=c20ba79c28a4b4c97cc1ed9e3fdb67ea&chksm=fcc47bcbcbb3f2dd70b1bcda1813d56367ab12af09cac5b34bdd8fb69118c4f236d900001964&scene=27#wechat_redirect)
-
-为广大学生提供学习的平台
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0d0714849484" alt="" />
 
 ---
 
