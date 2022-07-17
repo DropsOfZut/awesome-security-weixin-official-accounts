@@ -1,9 +1,9 @@
 
 ### [大学生网络安全尖锋训练营](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
 
-[:chart_with_upwards_trend:【0/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
+[:chart_with_upwards_trend:【0/19/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
 
-[:camera_flash:【2022-07-14 12:58:46】](https://mp.weixin.qq.com/s?__biz=MzUzODkwMDMxNA==&mid=2247502455&idx=1&sn=42bd40e2cd674868758ca45707903ea7&chksm=fad22842cda5a154adf7546268d26e843faaf6d3ed918c120eaf29a5ec12b489dd51a79a29d0&scene=27#wechat_redirect)
+[:camera_flash:【2022-07-16 12:50:48】](https://mp.weixin.qq.com/s?__biz=MzUzODkwMDMxNA==&mid=2247502474&idx=1&sn=d61b0ca4abaadd7752f3dbce8c73820e&chksm=fad228bfcda5a1a93a88f876770c8e6621d8919d13914b5b0d646a0f92f858ec1787a0914ceb&scene=27#wechat_redirect)
 
 百所高校、百家用人单位、百名尖锋导师，携手打造定制化人才培养模式，通过导师制职业规划和封闭式岗位实训，补足知识短板、提高实战能力，培养创新型、实用型网络安全尖锋人才。
 
@@ -14,7 +14,7 @@
 
 ### [东塔网络安全学院](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMzAyMDAwMQ==)
 
-[:chart_with_upwards_trend:【1/17/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMzAyMDAwMQ==)
+[:chart_with_upwards_trend:【1/15/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMzAyMDAwMQ==)
 
 [:camera_flash:【2022-07-14 17:01:39】](https://mp.weixin.qq.com/s?__biz=MzkwMzAyMDAwMQ==&mid=2247502956&idx=1&sn=d05b731125066819ad96e40c254ba086&chksm=c09e20e2f7e9a9f4a9db7b74e12ee544935f55763f0a5a8c863a5cd3581a554bf6623ba7ba04&scene=27#wechat_redirect)
 
@@ -77,6 +77,19 @@
 ---
 
 
+### [蚁景网安](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MTU2ODYwNw==)
+
+[:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MTU2ODYwNw==)
+
+[:camera_flash:【2022-07-15 17:27:37】](https://mp.weixin.qq.com/s?__biz=Mzg5MTU2ODYwNw==&mid=2247485617&idx=1&sn=0903839047fd75f3060483584be2af52&chksm=cfca2001f8bda917a76861a73b0e32a8d76d1501231612c772b5ece93cf1468e09c99e627fa6&scene=27&key=a42ed7a44607670d6bbca7c0fe2deaa054bea152d00005e73dd0e00f77c85612b0017b74edbde706afbfb9b59a5ea8205ffe9bafc0c0852697af2ff3ad12dcc6f06562f254f261bb27025f6ed20cd8a03a5abe38f280dd658451e775a1f8ade670615904444d1e0bd443f61051674d6fa1411ccad3121a313ec4c08c9e85e151&ascene=15&uin=MTA3Mzc3OTIzNQ%3D%3D&devicetype=Windows+Server+2016+x64&version=6307001e&lang=zh_CN&session_us=gh_7b464fe0640b&exportkey=ASgHsbmukqOLNJ9h2MZC%2FPo%3D&acctmode=0&pass_ticket=H5DatfK1H7UD%2FQIL%2B8Md2%2BlWZOBY12u%2F%2FD4TQgyDk5zYF8C5%2BgX4U3zhXOnsq%2BtU&wx_header=0&fontgear=2&scene=27#wechat_redirect)
+
+分享网安干货技能，致力于实战网安技能人才培养
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_861ca8c2271b" alt="" />
+
+---
+
+
 ### [复旦白泽战队](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
 
 [:chart_with_upwards_trend:【1/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
@@ -107,7 +120,7 @@
 
 [:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyNzU3Mzg2NQ==)
 
-[:camera_flash:【2022-06-20 15:53:49】](https://mp.weixin.qq.com/s?__biz=MzIyNzU3Mzg2NQ==&mid=2247485722&idx=1&sn=4da17178e33acea750210511391c50c3&chksm=e85e601cdf29e90a0b43dbfcc1c6102a52125618b9e8ae68bc006e95dccd11070c2102ef5ce0&key=8ed48120e4ff66fbf9755b20c401d1d215c4508fa5651db685851540979c593b126f12897b7d58d9558cf2e793b096801ddad64000d5e0770936576c061c0f96c520f18fc937211c1b186b83a739629807f08ea8cac4176d72ed23543e0720215d2e5c56c200133bbddfd4d7cb78a78f02b9c5243ca1c671faf494017c47b484&ascene=51&uin=MTA3Mzc3OTIzNQ%3D%3D&devicetype=Windows+Server+2016+x64&version=63060012&lang=zh_CN&session_us=gh_a6ba8f92d07d&exportkey=AReDTY1cfza6I8iZ13a7cH0%3D&acctmode=0&pass_ticket=TosIbybhGKyIuD2ImCvpxT6roF%2Bi8A1mZneCzQwlL62M%2FxwCjtEUKT3dCMDxzCwH&wx_header=0&fontgear=2&scene=27#wechat_redirect)
+[:camera_flash:【2022-07-15 17:29:09】](https://mp.weixin.qq.com/s?__biz=MzIyNzU3Mzg2NQ==&mid=2247485751&idx=1&sn=2b3e5ad405b54d55affef907094eddf5&chksm=e85e6031df29e9273117379088bee38b3c02ef503149f66bf753981b1f034f0f681e0668509e&key=ffca75888bc216b18137abec3bf9549e17638f811be1dd114823024e5b24c233955ab32e6db09b5daf5013550ac11c4d200531a36ee8cc86092a5810ec6e2399d7b14e9eeafeead39edf2c1f0090d580af960a6cccc5b1a0c600e071f15e04e8abd8e1a64fed962b34a3cbc90cce0272ec50ea8a1515795ae12cd13e660145b4&ascene=51&uin=MTA3Mzc3OTIzNQ%3D%3D&devicetype=Windows+Server+2016+x64&version=6307001e&lang=zh_CN&session_us=gh_a6ba8f92d07d&exportkey=AbVr07PuWFqjI9J3NKWFamw%3D&acctmode=0&pass_ticket=H5DatfK1H7UD%2FQIL%2B8Md2%2BlWZOBY12u%2F%2FD4TQgyDk5zYF8C5%2BgX4U3zhXOnsq%2BtU&wx_header=0&fontgear=2&scene=27#wechat_redirect)
 
 网安学院拥有专业教学服务、就业指导，课程配套靶场实战平台（www.hetianlab.com），学员学完就练，切实提升实践动手能力；课程涵盖Web安全、软件安全、网络安全等网安各个相关方面。
 
@@ -138,19 +151,6 @@
 校企合作网络安全学生社团
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f587b147a938" alt="" />
-
----
-
-
-### [蚁景网安](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MTU2ODYwNw==)
-
-[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MTU2ODYwNw==)
-
-[:camera_flash:【2022-06-20 15:30:57】](https://mp.weixin.qq.com/s?__biz=Mzg5MTU2ODYwNw==&mid=2247485575&idx=1&sn=d5ad22f742a791c6cdfdb9791b5e2ac9&chksm=cfca2037f8bda921ac70f3c059167061483ee9d14d62b776afe5c3d32f2b03ea21a2cdf6fe5f&scene=27&key=f5c151d04e93206a6ce2e315552a1bed36671635bc61d8b38a768d9b012f1b7c736de3b8afce305a33c7d20971be2cb76e7ab34b3c0ab59e506d22df59bf7a83ac3d10553d183f7d55a260f74e10e2f68e020be7051a03db00675820e5c097e749e5bfa5249eda688d7c0e769bf450a8dc3fdf48ca1382a1579a351bf7dbca85&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+Server+2016+x64&version=6307001e&lang=zh_CN&session_us=gh_92c404f38172&exportkey=A4XaL%2B4rYvNHKBUR5zlK9ec%3D&acctmode=0&pass_ticket=E6D9rxobWdo83z5JbZwTXiq3vE%2FfRPAifWM1fGfUzbs2CiZCYP%2B6KdGUfkS4DcFz&wx_header=0&fontgear=2&scene=27#wechat_redirect)
-
-分享网安干货技能，致力于实战网安技能人才培养
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_861ca8c2271b" alt="" />
 
 ---
 
@@ -510,7 +510,7 @@ Birkenwald安全团队 --来自哈尔滨理工大学
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDYzMjAyNA==)
 
-[:camera_flash:【2022-06-07 16:56:54】](https://mp.weixin.qq.com/s?__biz=Mzg3MDYzMjAyNA==&mid=2247483965&idx=1&sn=356fae55006d53f9be0d676188abf654&chksm=ce8b9d0af9fc141c808db1884ccba6cd35b23e1c8691b6d9988846afa79794a4f40e82467d45&scene=27#wechat_redirect)
+[:camera_flash:【2022-07-16 09:00:08】](https://mp.weixin.qq.com/s?__biz=Mzg3MDYzMjAyNA==&mid=2247483987&idx=1&sn=1b8a76ab4ee38a51827f291e8bf2091b&chksm=ce8b9d64f9fc147268c9beaf5ed8eb1fb4702ee5617d6f49a1fee4dedb9ffddbb46ada5e8313&scene=27#wechat_redirect)
 
 深圳市网安计算机网络安全培训中心是深圳市计算机网络公共安全协会设立的下属培训机构。培训内容包括：CISP-PTE/PTS系列课程、CISP-IRE/IRS系列课程；网络攻防技术系列课程；网络安全等级保护及风险评估系列课程等网络安全相关课程。
 
