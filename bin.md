@@ -1,7 +1,7 @@
 
 ### [汇编语言](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxNDcwOTcwOQ==)
 
-[:chart_with_upwards_trend:【0/168/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxNDcwOTcwOQ==)
+[:chart_with_upwards_trend:【0/160/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxNDcwOTcwOQ==)
 
 [:camera_flash:【2022-07-16 18:10:53】](https://mp.weixin.qq.com/s?__biz=MzIxNDcwOTcwOQ==&mid=2247493739&idx=7&sn=aab8e8477afcda74d54d00a6df19eac1&chksm=97a1ccc9a0d645dff81ee0ef03b908de1ccb1579a1d37ceff73056213e8cff8b7d33b61badf6&scene=27&key=27ae555f898702047f6ecc3decc98be2bd6a3c8b12e607070d5d49e519900aac0127507c9c0fea2521fc8be528fba7ca55c0940ee15bde921e04a2e0f7cfb2cb1474dd24fc9e6f95a70db7d641bbfc45672fd76c2e3d4d80392b3cf3e04e55e12c3d413dd8916cdb59b8223a6a937ef583dfcc5bb8dca2127645634ce2402712&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+Server+2016+x64&version=6307001e&lang=zh_CN&session_us=gh_cbab6d7b8e9b&exportkey=A1tY088ERryHoP6turmHhFo%3D&acctmode=0&pass_ticket=uuJmAxx9JLrVEFlp8Y6HBfRFrOp8l0u%2FFt2D5xz0I4kWrppNnKajm4yh7539wx2v&wx_header=0&fontgear=2&scene=27#wechat_redirect)
 
@@ -14,9 +14,9 @@
 
 ### [看雪学苑](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTc2MDYxMw==)
 
-[:chart_with_upwards_trend:【19/90/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTc2MDYxMw==)
+[:chart_with_upwards_trend:【19/87/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTc2MDYxMw==)
 
-[:camera_flash:【2022-07-17 12:00:48】](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458458466&idx=1&sn=8c742be24415dc2fa50fb6296118882f&chksm=b18e29e886f9a0fe716047ad32b8eb915f206165ff87036b424364216f532142860e7db2dd0d&scene=27#wechat_redirect)
+[:camera_flash:【2022-07-18 18:09:53】](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458458548&idx=1&sn=8a88bf980d83bb01eae67ab7b2267ba8&chksm=b18e293e86f9a0287e3364f3d101647da3da2a4d7235a70866a78f8719fb21041a93a3ae0520&scene=27#wechat_redirect)
 
 致力于移动与安全研究的开发者社区，看雪学院(kanxue.com)官方微信公众帐号。
 
@@ -40,7 +40,7 @@
 
 ### [吾爱破解论坛](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Mjc3MDM2Mw==)
 
-[:chart_with_upwards_trend:【1/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Mjc3MDM2Mw==)
+[:chart_with_upwards_trend:【1/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Mjc3MDM2Mw==)
 
 [:camera_flash:【2022-07-17 14:37:31】](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651137854&idx=1&sn=1774f0b2c7f8f586807595aa70788200&chksm=bd50b76a8a273e7c90fa48da3eaaaeb0ac6245d019174f1caafc5089d830882e70dc34ddece8&scene=27#wechat_redirect)
 
@@ -60,19 +60,6 @@
 逆向与漏洞挖掘实验室，致力于软件动静态分析与漏洞挖掘领域新技术、新工具、新思想的交流与分享。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_fcf21e658324" alt="" />
-
----
-
-
-### [矛和盾的故事](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MDc0MTY1MA==)
-
-[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MDc0MTY1MA==)
-
-[:camera_flash:【2022-06-18 12:00:38】](https://mp.weixin.qq.com/s?__biz=MzU3MDc0MTY1MA==&mid=2247484080&idx=1&sn=c475cb405478abbec270a67d87d66187&chksm=fceb844dcb9c0d5b1aee9265c05fd99b7ea7da0ed6ea225da7a951e0436dfbe6a2fa52a8846e&scene=27#wechat_redirect)
-
-“知其白守其黑，用手中的矛铸心中的盾&quot;,  逆向、安全、加固、风控、分享。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_fdf8c8d2d9a8" alt="" />
 
 ---
 
@@ -229,6 +216,19 @@ pWn3d bY BiGSKidd3r&amp;FuzZer&amp;A2pter&amp;pWn3r rULe4Ker4pwn 65535 tim3s.
 分享最前沿的软件安全与逆向分析技术与资讯。包括Windows、macOS、iOS、Android、Linux等平台。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_75f1f3757c88" alt="" />
+
+---
+
+
+### [矛和盾的故事](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MDc0MTY1MA==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MDc0MTY1MA==)
+
+[:camera_flash:【2022-06-18 12:00:38】](https://mp.weixin.qq.com/s?__biz=MzU3MDc0MTY1MA==&mid=2247484080&idx=1&sn=c475cb405478abbec270a67d87d66187&chksm=fceb844dcb9c0d5b1aee9265c05fd99b7ea7da0ed6ea225da7a951e0436dfbe6a2fa52a8846e&scene=27#wechat_redirect)
+
+“知其白守其黑，用手中的矛铸心中的盾&quot;,  逆向、安全、加固、风控、分享。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_fdf8c8d2d9a8" alt="" />
 
 ---
 

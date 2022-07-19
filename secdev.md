@@ -1,9 +1,9 @@
 
 ### [商密君](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
 
-[:chart_with_upwards_trend:【0/119/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
+[:chart_with_upwards_trend:【0/115/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
 
-[:camera_flash:【2022-07-17 17:32:26】](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247575167&idx=1&sn=62eb00c773d21ef42512aac350edb353&chksm=ec57b624db203f32c75444069ef086f96502cbbdbc2ec3e12551106350b729e4dfe6cfb350cb&scene=27#wechat_redirect)
+[:camera_flash:【2022-07-18 15:56:31】](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247575224&idx=1&sn=d3c3f10e2b9811a48e58e3dbd1c0c982&chksm=ec57b6e3db203ff535e20db47cad2765b4465eb7d10f948097af1228c502ca913ab1b2f6c36f&scene=27#wechat_redirect)
 
 商密君是全国密码行业头部公众号，旨在宣传推广《密码法》，普及商用密码知识，解读密码政策，分享商用密码行业的最新动态，为密码产业产学研用做好宣传服务，连接密码全行业精英，推动密码技术在数字经济各行业的应用和创新。
 
@@ -14,9 +14,9 @@
 
 ### [全栈网络空间安全](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
 
-[:chart_with_upwards_trend:【0/59/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
+[:chart_with_upwards_trend:【0/57/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
 
-[:camera_flash:【2022-07-17 00:00:13】](https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247503129&idx=1&sn=9166bba6b850521d6ce649fbefddd4f7&chksm=cf3d71d4f84af8c2cc7340ec77a141a015610b8914053103889b0b8a4de95d6a095e5cccaf80&scene=27#wechat_redirect)
+[:camera_flash:【2022-07-18 20:58:29】](https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247503131&idx=1&sn=169f82ee3b1dbd777f3058ffab47d896&chksm=cf3d71d6f84af8c0e9c95d898dbae14cbc4ebd93fab68160cf2880a2fb6f05cc5c32910f1e9f&scene=27#wechat_redirect)
 
 网络安全事件预警体系、事件检测、应急处置、追踪溯源、安全运营、红蓝对抗、HW行动、AWD竞赛，以及站在审计师的角度评估信息系统建设的有效性、完备性、安全性等。 欢迎有想法、乐于分享的具备互联网分享精神的安全人交流学习。
 
@@ -27,9 +27,9 @@
 
 ### [数世咨询](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
 
-[:chart_with_upwards_trend:【14/52/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
+[:chart_with_upwards_trend:【13/50/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
 
-[:camera_flash:【2022-07-16 23:30:45】](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247494229&idx=1&sn=f568a6042c526d43165dd5070351c795&chksm=c14498e8f63311fe1afd09f0aacd4bb2e861ce6d868e9586dc9d09903c0f5f67ae5fba0fa594&scene=27&key=8ed48120e4ff66fbe19f8e4353f1d71306f9a84a423000e1104d3c05cb11319660eaa90198456d59c2f416a62db717f096d7706c0ca9f3790318a1f9decacdbec296e9995d3856e71906d0f2a3c002b500d448cbddbe54f7fca02d239473eb35cdc7109cca742de8623de2364445c13e4393db25f53ba88db0e5ccc852a8f2dd&ascene=15&uin=MTA3Mzc3OTIzNQ%3D%3D&devicetype=Windows+Server+2016+x64&version=6307001e&lang=zh_CN&session_us=gh_3e12dbf78ff8&exportkey=AYM7Ka5%2BUvS7TvrfTzh8%2FP4%3D&acctmode=0&pass_ticket=H5DatfK1H7UD%2FQIL%2B8Md2%2BlWZOBY12u%2F%2FD4TQgyDk5zYF8C5%2BgX4U3zhXOnsq%2BtU&wx_header=0&fontgear=2&scene=27#wechat_redirect)
+[:camera_flash:【2022-07-18 23:30:38】](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247494243&idx=1&sn=ca48670034efdd62a2800ff822b6a109&chksm=c14498def63311c8a4bcee0fda114f2c0fd7d26f4e6474f96e0d7d8d8c22f536f14dbd962fb4&scene=27#wechat_redirect)
 
 中国数字产业领域中立的第三方调研机构，提供网络安全行业的调查、研究与咨询服务。
 
@@ -40,9 +40,9 @@
 
 ### [深圳市网络与信息安全行业协会](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
 
-[:chart_with_upwards_trend:【0/22/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
+[:chart_with_upwards_trend:【0/21/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
 
-[:camera_flash:【2022-07-15 15:46:54】](https://mp.weixin.qq.com/s?__biz=MzU0Mzk0NDQyOA==&mid=2247501645&idx=1&sn=fbd6478e935bad8d63830172faea2f68&chksm=fb013ccecc76b5d896b6f699676970473c954f7e42a3c0ca7257931b3dfc05e97c7d872ea9cf&scene=27#wechat_redirect)
+[:camera_flash:【2022-07-18 16:34:07】](https://mp.weixin.qq.com/s?__biz=MzU0Mzk0NDQyOA==&mid=2247501722&idx=1&sn=8e45db1be6454e832dfad73c4cb72953&chksm=fb013c19cc76b50f5d1439d8d947c5e07c6b9d244058f30e2e3af5fa8592ec4374ef4453f34a&scene=27#wechat_redirect)
 
 深圳市网络与信息安全行业协会（SNISA），是深圳市网络与信息安全行业的权威组织，是中国网络安全审查技术与认证中心（CCRC）在深圳唯一授权工作站，是经深圳市人力资源和社会保障局核准，开展网络空间安全工程技术专业职称评审工作的社会组织。
 
@@ -66,9 +66,9 @@
 
 ### [君哥的体历](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MjQ1NTA4MA==)
 
-[:chart_with_upwards_trend:【6/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MjQ1NTA4MA==)
+[:chart_with_upwards_trend:【7/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MjQ1NTA4MA==)
 
-[:camera_flash:【2022-07-17 23:05:05】](https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247488657&idx=1&sn=902b9f3c3339750c68c7e5b4995c340f&chksm=ea4bbed6dd3c37c02e45fc36adcf9e766634815e3418212c66da87a5daae6426f13cbfdf5831&scene=27#wechat_redirect)
+[:camera_flash:【2022-07-19 07:00:09】](https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247488658&idx=1&sn=fe0bb6039bea476e6cd6aff31ea37893&chksm=ea4bbed5dd3c37c39ae4bd5b460522c192a0c6b0b66c75ea86c16275fcbd7d42b81abcf87871&scene=27#wechat_redirect)
 
 闲暇时间，逼迫自己，记录分享体验与经历，不求正确统一，但求真、善、美。
 
