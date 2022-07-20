@@ -1,9 +1,9 @@
 
 ### [大学生网络安全尖锋训练营](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
 
-[:chart_with_upwards_trend:【0/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
+[:chart_with_upwards_trend:【0/23/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
 
-[:camera_flash:【2022-07-18 08:55:57】](https://mp.weixin.qq.com/s?__biz=MzUzODkwMDMxNA==&mid=2247502674&idx=1&sn=0b39dcdbfd01d49c70e3d81675c20826&chksm=fad22967cda5a07163955e991a305499773986ad5e1c18f9eeca85ba21fc3c4276a4e962771c&scene=27#wechat_redirect)
+[:camera_flash:【2022-07-19 11:20:26】](https://mp.weixin.qq.com/s?__biz=MzUzODkwMDMxNA==&mid=2247503033&idx=1&sn=faa3dfcd9b8cf6a748b90e5e300954bb&chksm=fad22e8ccda5a79aef56f4683980a2958cf8665095d55c48623e152139a2f7b298910079a983&scene=27#wechat_redirect)
 
 百所高校、百家用人单位、百名尖锋导师，携手打造定制化人才培养模式，通过导师制职业规划和封闭式岗位实训，补足知识短板、提高实战能力，培养创新型、实用型网络安全尖锋人才。
 
@@ -14,7 +14,7 @@
 
 ### [东塔网络安全学院](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMzAyMDAwMQ==)
 
-[:chart_with_upwards_trend:【1/15/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMzAyMDAwMQ==)
+[:chart_with_upwards_trend:【1/16/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMzAyMDAwMQ==)
 
 [:camera_flash:【2022-07-18 17:00:21】](https://mp.weixin.qq.com/s?__biz=MzkwMzAyMDAwMQ==&mid=2247503013&idx=1&sn=cd63b6eaef26b23ffe31cb3976c54810&chksm=c09e202bf7e9a93d701db962acb46aeac8be5c2797b125741e5dee3003b91f7811bc39a69cb7&scene=27#wechat_redirect)
 
@@ -29,7 +29,7 @@
 
 [:chart_with_upwards_trend:【0/13/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
 
-[:camera_flash:【2022-07-15 17:33:36】](https://mp.weixin.qq.com/s?__biz=MzUzNDg0NTc1NA==&mid=2247491299&idx=1&sn=874955f27dd5e6f640e714decdafede6&chksm=fa8fdeb6cdf857a0e401c93dbfbed9dc85f7021a43c5cc9e3de17a352601a857dcb9dca69ba7&scene=27&key=8ed48120e4ff66fb2c78865fe53f738388a4ad30a1e2ec379689f805e6078496a560fd0187d502cf6ece9bb04e0f8e921305d142cc06669635fd72708913b468d9d51131c332ab2154b1e8f49d357dc39d6860d5977dc770dfc9baa5f8ebe286a13e71579855f9968dd764b3a126fe3445a966d54e2921aacc5eb4a5d8788706&ascene=15&uin=MTA3Mzc3OTIzNQ%3D%3D&devicetype=Windows+Server+2016+x64&version=6307001e&lang=zh_CN&session_us=gh_8a14a6d3654d&exportkey=AbDsMg%2B9YGrS%2BQIyf9DXStI%3D&acctmode=0&pass_ticket=H5DatfK1H7UD%2FQIL%2B8Md2%2BlWZOBY12u%2F%2FD4TQgyDk5zYF8C5%2BgX4U3zhXOnsq%2BtU&wx_header=0&fontgear=2&scene=27#wechat_redirect)
+[:camera_flash:【2022-07-19 17:39:33】](https://mp.weixin.qq.com/s?__biz=MzUzNDg0NTc1NA==&mid=2247491325&idx=1&sn=5df5a375d512123bd1256b59f770e99e&chksm=fa8fdea8cdf857be0835914272504f73dd51e0d104ef3a2bc88948a74fa46d6492090954ea06&scene=27#wechat_redirect)
 
 启明星辰网络空间安全学院以国家网络安全事业发展为使命，依托启明星辰集团多年的技术沉淀及实践积累，提供网络安全人才体系构建与信息安全技术及能力提升教育培训，为建设网络强国提供有力的人才支撑。
 
@@ -181,19 +181,6 @@
 ---
 
 
-### [蝰蛇安全实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NzgyNjUwNA==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NzgyNjUwNA==)
-
-[:camera_flash:【2022-06-10 18:29:30】](https://mp.weixin.qq.com/s?__biz=MzA3NzgyNjUwNA==&mid=2247488346&idx=1&sn=86f28563a7cece1164742a59a65d5f3c&chksm=9f4d43fda83acaeb46e4e69a85161e88b77035f55739c2abb85816dc6e5ba0972b16474c88c6&scene=27#wechat_redirect)
-
-湖南农业大学蝰蛇安全实验室
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_638eab2e92c7" alt="" />
-
----
-
-
 ### [三叶草小组Syclover](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzOTg0NjYzNg==)
 
 [:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzOTg0NjYzNg==)
@@ -237,7 +224,7 @@
 
 [:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MDU5NTA1MQ==)
 
-[:camera_flash:【2022-07-14 19:36:20】](https://mp.weixin.qq.com/s?__biz=MzU3MDU5NTA1MQ==&mid=2247491477&idx=1&sn=25d5afe5a2148d489985fe52e95da8f7&chksm=fcec5c11cb9bd507a435d44824e9cd357c6420a0a868857a90c78b9f2f51e3141607df9b2417&scene=27#wechat_redirect)
+[:camera_flash:【2022-07-19 10:30:54】](https://mp.weixin.qq.com/s?__biz=MzU3MDU5NTA1MQ==&mid=2247491555&idx=1&sn=6ec500b3838e26adfc45186026fa0e66&chksm=fcec5c67cb9bd5718912101c4305b9b2c1c6adff3d1a1ef1feb3a44d0c9f935605d1590c968c&scene=27#wechat_redirect)
 
 欢迎加入齐鲁师范学院网络安全社团
 
@@ -307,6 +294,19 @@ Birkenwald安全团队 --来自哈尔滨理工大学
 广东外语外贸大学网络安全实验室信息推送和资源平台
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8176da819e03" alt="" />
+
+---
+
+
+### [蝰蛇安全实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NzgyNjUwNA==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NzgyNjUwNA==)
+
+[:camera_flash:【2022-06-10 18:29:30】](https://mp.weixin.qq.com/s?__biz=MzA3NzgyNjUwNA==&mid=2247488346&idx=1&sn=86f28563a7cece1164742a59a65d5f3c&chksm=9f4d43fda83acaeb46e4e69a85161e88b77035f55739c2abb85816dc6e5ba0972b16474c88c6&scene=27#wechat_redirect)
+
+湖南农业大学蝰蛇安全实验室
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_638eab2e92c7" alt="" />
 
 ---
 
