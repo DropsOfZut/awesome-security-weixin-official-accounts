@@ -1,9 +1,9 @@
 
 ### [大学生网络安全尖锋训练营](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
 
-[:chart_with_upwards_trend:【0/22/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
+[:chart_with_upwards_trend:【0/23/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
 
-[:camera_flash:【2022-07-20 09:00:15】](https://mp.weixin.qq.com/s?__biz=MzUzODkwMDMxNA==&mid=2247503046&idx=1&sn=ad81b61d7a2e048d359bb5b603c76d19&chksm=fad22ef3cda5a7e55a476fd99a6ab27eeb66519735da08b3ff306ff531855527b530bcddaa5f&scene=27#wechat_redirect)
+[:camera_flash:【2022-07-21 13:16:43】](https://mp.weixin.qq.com/s?__biz=MzUzODkwMDMxNA==&mid=2247503138&idx=1&sn=bc7af209fdaf8a56c01c66d7a8fb610d&chksm=fad22f17cda5a601d320d1dba0a91c237caffed0c121a386415367a95d78613511f37f4d029e&scene=27#wechat_redirect)
 
 百所高校、百家用人单位、百名尖锋导师，携手打造定制化人才培养模式，通过导师制职业规划和封闭式岗位实训，补足知识短板、提高实战能力，培养创新型、实用型网络安全尖锋人才。
 
@@ -14,9 +14,9 @@
 
 ### [东塔网络安全学院](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMzAyMDAwMQ==)
 
-[:chart_with_upwards_trend:【0/14/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMzAyMDAwMQ==)
+[:chart_with_upwards_trend:【0/16/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMzAyMDAwMQ==)
 
-[:camera_flash:【2022-07-18 17:00:21】](https://mp.weixin.qq.com/s?__biz=MzkwMzAyMDAwMQ==&mid=2247503013&idx=1&sn=cd63b6eaef26b23ffe31cb3976c54810&chksm=c09e202bf7e9a93d701db962acb46aeac8be5c2797b125741e5dee3003b91f7811bc39a69cb7&scene=27#wechat_redirect)
+[:camera_flash:【2022-07-21 17:00:38】](https://mp.weixin.qq.com/s?__biz=MzkwMzAyMDAwMQ==&mid=2247503055&idx=1&sn=7cab787e44e7f390b7f830044af07dfa&chksm=c09e2041f7e9a957a3af0d7cc52ce3ac71b0d76d19c1c8300cf1923f5c1a79c4ca5b5428b147&scene=27&key=00d65dfbf652ec008f08885eb626569e80ae5fc5108dc124aae1ba4e2949b28f740a079cefe733916113a0e87876f870e7b0521c1ef1b8b33297f8df1a42ce0df6972c8cd4b9ce562a4d3ad465ec2ee33245b1d7d9083e965eb183213eb89408dc58dd8e11fb170d47f6437cae62d2a8f35bf376f3591477bc2125589972fcc9&ascene=15&uin=MzgxODQ4MjMz&devicetype=Windows+Server+2016+x64&version=6307001e&lang=zh_CN&session_us=gh_c0e66757f805&exportkey=A3LinKOe8%2B9dPi2LH4zkxq4%3D&acctmode=0&pass_ticket=KqtHLxqqVwnOifwfWaRCYU%2B47YHqvAeV70eravx7T%2FFIu1a7mQOiL%2F4w2OKC0HRh&wx_header=0&fontgear=2&scene=27#wechat_redirect)
 
 网络安全服务、技术特训、技术咨询、渗透测试服务
 
@@ -29,7 +29,7 @@
 
 [:chart_with_upwards_trend:【0/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
 
-[:camera_flash:【2022-07-19 17:39:33】](https://mp.weixin.qq.com/s?__biz=MzUzNDg0NTc1NA==&mid=2247491325&idx=1&sn=5df5a375d512123bd1256b59f770e99e&chksm=fa8fdea8cdf857be0835914272504f73dd51e0d104ef3a2bc88948a74fa46d6492090954ea06&scene=27#wechat_redirect)
+[:camera_flash:【2022-07-21 19:39:37】](https://mp.weixin.qq.com/s?__biz=MzUzNDg0NTc1NA==&mid=2247491350&idx=1&sn=90ff711d792752001a65de7a57b79f64&chksm=fa8fdf43cdf856556f3b4c9fd6636b128ddebd6b339ef64f0df61e961bce7449ddfcec8779a7&scene=27#wechat_redirect)
 
 启明星辰网络空间安全学院以国家网络安全事业发展为使命，依托启明星辰集团多年的技术沉淀及实践积累，提供网络安全人才体系构建与信息安全技术及能力提升教育培训，为建设网络强国提供有力的人才支撑。
 
@@ -66,9 +66,9 @@
 
 ### [浙大网安](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5NDczNDc4NA==)
 
-[:chart_with_upwards_trend:【0/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5NDczNDc4NA==)
+[:chart_with_upwards_trend:【0/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5NDczNDc4NA==)
 
-[:camera_flash:【2022-07-20 18:55:46】](https://mp.weixin.qq.com/s?__biz=Mzg5NDczNDc4NA==&mid=2247490804&idx=1&sn=5808fa6605c7c17cb8103ee5e6c913d4&chksm=c01a445bf76dcd4d67125a7bf127af4fed4360c80d49d65d6ee1f83327d4f37c0bff4292878b&scene=27#wechat_redirect)
+[:camera_flash:【2022-07-21 18:13:45】](https://mp.weixin.qq.com/s?__biz=Mzg5NDczNDc4NA==&mid=2247490837&idx=1&sn=9a75ab56b335371a87384bdf7447cd11&chksm=c01a45baf76dccac978f42673115ff2b92cf36a02c445741990b2296385444c1a133b3521562&scene=27#wechat_redirect)
 
 浙江大学网络空间安全学院/浙江大学网络空间安全研究中心
 
@@ -103,19 +103,6 @@
 ---
 
 
-### [河北网络安全高校联盟](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4ODUyMjYyNg==)
-
-[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4ODUyMjYyNg==)
-
-[:camera_flash:【2022-07-17 15:02:35】](https://mp.weixin.qq.com/s?__biz=Mzg4ODUyMjYyNg==&mid=2247485575&idx=1&sn=4a95997ddc1bdb6da6dff00b83385fda&chksm=cff89a6af88f137c1e5bd11eeee844eace3a95c9017739840ee17e458f1eff6b659ce99d661d&scene=27#wechat_redirect)
-
-河北网络安全高校联盟
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8937984657cd" alt="" />
-
----
-
-
 ### [网络安全学生社团](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzNDcyMDM1MQ==)
 
 [:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzNDcyMDM1MQ==)
@@ -138,6 +125,19 @@
 连天教育，是河南信安世纪科技有限公司旗下独立信息安全培训组织，主要面向国内外信息安全认证和职业技能培训，涉及CISP、CISM、CISSP、CISA、信息安全意识、风险评估、渗透测试、CTF竞赛、Web安全等。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_9fe1a6f307b0" alt="" />
+
+---
+
+
+### [河北网络安全高校联盟](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4ODUyMjYyNg==)
+
+[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4ODUyMjYyNg==)
+
+[:camera_flash:【2022-07-17 15:02:35】](https://mp.weixin.qq.com/s?__biz=Mzg4ODUyMjYyNg==&mid=2247485575&idx=1&sn=4a95997ddc1bdb6da6dff00b83385fda&chksm=cff89a6af88f137c1e5bd11eeee844eace3a95c9017739840ee17e458f1eff6b659ce99d661d&scene=27#wechat_redirect)
+
+河北网络安全高校联盟
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8937984657cd" alt="" />
 
 ---
 
