@@ -1,9 +1,9 @@
 
 ### [寰宇卫士](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
 
-[:chart_with_upwards_trend:【0/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
+[:chart_with_upwards_trend:【0/19/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
 
-[:camera_flash:【2022-07-21 14:31:44】](https://mp.weixin.qq.com/s?__biz=MzIwMzU0NDY5OA==&mid=2247492720&idx=1&sn=44beaff82b894bc12ae768a6c311a12b&chksm=96cf6565a1b8ec7377f0a21eed3718e7eccca823190e6bd6ce7aee85e084770100d1cd9d66c7&scene=27#wechat_redirect)
+[:camera_flash:【2022-07-22 15:20:32】](https://mp.weixin.qq.com/s?__biz=MzIwMzU0NDY5OA==&mid=2247492760&idx=1&sn=19965edf8fb85aac8bda2e1b54df69fc&chksm=96cf658da1b8ec9bd944fa70660f8c8bb0f9116a418281d09bf2f1b65caab3b0fe0c29d6a038&scene=27#wechat_redirect)
 
 寰宇卫士综合安全咨询、安全服务、解决方案、认证培训、产品研发等信息安全多元化产业链为一体。
 
@@ -14,7 +14,7 @@
 
 ### [DataCon大数据安全分析竞赛](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5Njg1NzMyNw==)
 
-[:chart_with_upwards_trend:【0/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5Njg1NzMyNw==)
+[:chart_with_upwards_trend:【0/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5Njg1NzMyNw==)
 
 [:camera_flash:【2022-07-21 19:14:34】](https://mp.weixin.qq.com/s?__biz=MzU5Njg1NzMyNw==&mid=2247485169&idx=1&sn=c2bb29009abd8de215b0cd753ce0497d&chksm=fe5d1e71c92a976797b0d1c6232f9148446f68bfbc5c3f71f560852090bcc6725564a866b2e6&scene=27#wechat_redirect)
 
@@ -40,7 +40,7 @@
 
 ### [XCTF联赛](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
 
-[:chart_with_upwards_trend:【0/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
+[:chart_with_upwards_trend:【0/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
 
 [:camera_flash:【2022-07-19 18:00:46】](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247507287&idx=1&sn=960f524d4064e1a0ebf5d501f0d77c97&chksm=a6872f6d91f0a67bf19000602fe889ee2e7b325d2fa4608ae3e6351a8f013a8d13537eaca3ef&scene=27&key=00d65dfbf652ec00286f03975ab77252e5431242e743ea3035824fba2f3f38b59a6b09014a5577565842e5da1119fc7e2b01a01af4514283c5dd174481a99c6b2216ef4e0014a52a5078f3571481bd80ab2ce4b6b5ba089abe34dc885ebec71313c07074e5263f89180dd2e5082f5769c919856823863a2103f5033a324dc570&ascene=15&uin=MzgxODQ4MjMz&devicetype=Windows+Server+2016+x64&version=6307001e&lang=zh_CN&session_us=gh_d70902412103&exportkey=A9mruk9xYwrSFnuHJCAf%2Bow%3D&acctmode=0&pass_ticket=zQDqNW7g2PBAKOwYFLlPKXBnJwjImAfAGKGk32OweaKH9OajfamC7II8t6DSS9Xd&wx_header=0&fontgear=2&scene=27#wechat_redirect)
 
@@ -55,7 +55,7 @@
 
 [:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjY3NDQ2Ng==)
 
-[:camera_flash:【2022-07-20 00:15:16】](https://mp.weixin.qq.com/s?__biz=Mzg4MjY3NDQ2Ng==&mid=2247485007&idx=1&sn=5f078491172281fc5f8f16cf58d8e9e7&chksm=cf525802f825d114074727bb8b79ab935b7a39e6b64e55ea9aa69033f410224148a6ee6f076d&scene=27#wechat_redirect)
+[:camera_flash:【2022-07-22 08:53:02】](https://mp.weixin.qq.com/s?__biz=Mzg4MjY3NDQ2Ng==&mid=2247485009&idx=1&sn=4b5efacad37e0d3f87d70fc5cc1965ec&chksm=cf52581cf825d10ada662ff10bb9e66fa8ec824edff5d6f7a224b0b9c99559eb02195ad07551&scene=27#wechat_redirect)
 
 强网竞赛是面向高等院校和国内信息安全企业的国家级赛事，旨在通过高对抗的竞技比赛，发现锻造网络安全领域优秀人才，提高国家网络安全保障能力，提升全民网络安全意识。
 
