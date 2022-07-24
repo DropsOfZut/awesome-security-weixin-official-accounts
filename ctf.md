@@ -1,7 +1,7 @@
 
 ### [寰宇卫士](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
 
-[:chart_with_upwards_trend:【0/19/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
+[:chart_with_upwards_trend:【0/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
 
 [:camera_flash:【2022-07-22 15:20:32】](https://mp.weixin.qq.com/s?__biz=MzIwMzU0NDY5OA==&mid=2247492760&idx=1&sn=19965edf8fb85aac8bda2e1b54df69fc&chksm=96cf658da1b8ec9bd944fa70660f8c8bb0f9116a418281d09bf2f1b65caab3b0fe0c29d6a038&scene=27#wechat_redirect)
 
@@ -90,19 +90,6 @@ X是未知，更是无限，邀您一道创造、见证和实现X-Plan，北斗�
 ---
 
 
-### [PTEHub](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NzY5NjgyNw==)
-
-[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NzY5NjgyNw==)
-
-[:camera_flash:【2022-06-23 18:01:02】](https://mp.weixin.qq.com/s?__biz=Mzg4NzY5NjgyNw==&mid=2247484512&idx=1&sn=17505a2b097ce389e0f686323f6a586b&chksm=cf8738b4f8f0b1a2683e5843320808c907d8723107bb552b378866d31331d92d698714e140c7&scene=27#wechat_redirect)
-
-PTE小技巧
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_5aff651a75ac" alt="" />
-
----
-
-
 ### [胖哈勃](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2OTUzMzg3Ng==)
 
 [:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2OTUzMzg3Ng==)
@@ -125,6 +112,19 @@ PTE小技巧
 power by r3kapig team
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4d1d402cbd9d" alt="" />
+
+---
+
+
+### [PTEHub](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NzY5NjgyNw==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NzY5NjgyNw==)
+
+[:camera_flash:【2022-06-23 18:01:02】](https://mp.weixin.qq.com/s?__biz=Mzg4NzY5NjgyNw==&mid=2247484512&idx=1&sn=17505a2b097ce389e0f686323f6a586b&chksm=cf8738b4f8f0b1a2683e5843320808c907d8723107bb552b378866d31331d92d698714e140c7&scene=27#wechat_redirect)
+
+PTE小技巧
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_5aff651a75ac" alt="" />
 
 ---
 
