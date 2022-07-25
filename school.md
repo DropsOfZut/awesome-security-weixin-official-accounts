@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【0/29/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
 
-[:camera_flash:【2022-07-23 09:15:59】](https://mp.weixin.qq.com/s?__biz=MzUzODkwMDMxNA==&mid=2247503215&idx=1&sn=c8477c7977d1b8ef30256892ca2e1c57&chksm=fad22f5acda5a64ce6cf90a277b6cb72d54f830d3b1dd26566980a9a4e8cfd2f242820b4c1b0&scene=27#wechat_redirect)
+[:camera_flash:【2022-07-24 10:16:45】](https://mp.weixin.qq.com/s?__biz=MzUzODkwMDMxNA==&mid=2247503221&idx=2&sn=64825061e8f55f244c4db5197ccedf36&chksm=fad22f40cda5a656710b6e7424d0d4aface101fbdb450411aeea2cd9ca8ecd349ec8996e0e22&scene=27#wechat_redirect)
 
 百所高校、百家用人单位、百名尖锋导师，携手打造定制化人才培养模式，通过导师制职业规划和封闭式岗位实训，补足知识短板、提高实战能力，培养创新型、实用型网络安全尖锋人才。
 
@@ -27,7 +27,7 @@
 
 ### [启明星辰网络空间安全学院](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
 
-[:chart_with_upwards_trend:【0/13/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
+[:chart_with_upwards_trend:【0/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
 
 [:camera_flash:【2022-07-22 18:14:22】](https://mp.weixin.qq.com/s?__biz=MzUzNDg0NTc1NA==&mid=2247491377&idx=1&sn=3c89d89d7933e17c3babe7678960b5cc&chksm=fa8fdf64cdf8567250054a0d81b86873de719b23412a312b8891f59e0f055da3a7e682d89039&scene=27#wechat_redirect)
 
@@ -155,19 +155,6 @@
 ---
 
 
-### [谛听ditecting](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzQyOTU0Nw==)
-
-[:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzQyOTU0Nw==)
-
-[:camera_flash:【2022-07-05 12:09:27】](https://mp.weixin.qq.com/s?__biz=MzU3MzQyOTU0Nw==&mid=2247487402&idx=1&sn=4e5ed2920d81ca3f5db7d36cb92ec531&chksm=fcc08deecbb704f878d7c26c0500d7bcd1b0e6517e3d34274fa44656f697141d3fd577fefd46&scene=27#wechat_redirect)
-
-东北大学“谛听”网络安全团队
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ce3e0df31e50" alt="" />
-
----
-
-
 ### [安协小天使](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxNDU2ODg3Mw==)
 
 [:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxNDU2ODg3Mw==)
@@ -190,6 +177,19 @@
 欢迎加入齐鲁师范学院网络安全社团
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0c9ae293eb8e" alt="" />
+
+---
+
+
+### [谛听ditecting](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzQyOTU0Nw==)
+
+[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzQyOTU0Nw==)
+
+[:camera_flash:【2022-07-05 12:09:27】](https://mp.weixin.qq.com/s?__biz=MzU3MzQyOTU0Nw==&mid=2247487402&idx=1&sn=4e5ed2920d81ca3f5db7d36cb92ec531&chksm=fcc08deecbb704f878d7c26c0500d7bcd1b0e6517e3d34274fa44656f697141d3fd577fefd46&scene=27#wechat_redirect)
+
+东北大学“谛听”网络安全团队
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ce3e0df31e50" alt="" />
 
 ---
 
