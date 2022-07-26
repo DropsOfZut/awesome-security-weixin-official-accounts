@@ -1,9 +1,9 @@
 
 ### [大学生网络安全尖锋训练营](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
 
-[:chart_with_upwards_trend:【0/29/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
+[:chart_with_upwards_trend:【0/33/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
 
-[:camera_flash:【2022-07-24 10:16:45】](https://mp.weixin.qq.com/s?__biz=MzUzODkwMDMxNA==&mid=2247503221&idx=2&sn=64825061e8f55f244c4db5197ccedf36&chksm=fad22f40cda5a656710b6e7424d0d4aface101fbdb450411aeea2cd9ca8ecd349ec8996e0e22&scene=27#wechat_redirect)
+[:camera_flash:【2022-07-25 11:35:50】](https://mp.weixin.qq.com/s?__biz=MzUzODkwMDMxNA==&mid=2247503297&idx=1&sn=715d77def2b6465a19f14a7e5c32f6fe&chksm=fad22ff4cda5a6e2cc3608fa7becfd62ef36d16ebbfa0f7dd907357a8a565bf3443ca9c04eb1&scene=27#wechat_redirect)
 
 百所高校、百家用人单位、百名尖锋导师，携手打造定制化人才培养模式，通过导师制职业规划和封闭式岗位实训，补足知识短板、提高实战能力，培养创新型、实用型网络安全尖锋人才。
 
@@ -14,9 +14,9 @@
 
 ### [东塔网络安全学院](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMzAyMDAwMQ==)
 
-[:chart_with_upwards_trend:【0/14/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMzAyMDAwMQ==)
+[:chart_with_upwards_trend:【0/16/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMzAyMDAwMQ==)
 
-[:camera_flash:【2022-07-21 17:00:38】](https://mp.weixin.qq.com/s?__biz=MzkwMzAyMDAwMQ==&mid=2247503055&idx=1&sn=7cab787e44e7f390b7f830044af07dfa&chksm=c09e2041f7e9a957a3af0d7cc52ce3ac71b0d76d19c1c8300cf1923f5c1a79c4ca5b5428b147&scene=27&key=00d65dfbf652ec008f08885eb626569e80ae5fc5108dc124aae1ba4e2949b28f740a079cefe733916113a0e87876f870e7b0521c1ef1b8b33297f8df1a42ce0df6972c8cd4b9ce562a4d3ad465ec2ee33245b1d7d9083e965eb183213eb89408dc58dd8e11fb170d47f6437cae62d2a8f35bf376f3591477bc2125589972fcc9&ascene=15&uin=MzgxODQ4MjMz&devicetype=Windows+Server+2016+x64&version=6307001e&lang=zh_CN&session_us=gh_c0e66757f805&exportkey=A3LinKOe8%2B9dPi2LH4zkxq4%3D&acctmode=0&pass_ticket=KqtHLxqqVwnOifwfWaRCYU%2B47YHqvAeV70eravx7T%2FFIu1a7mQOiL%2F4w2OKC0HRh&wx_header=0&fontgear=2&scene=27#wechat_redirect)
+[:camera_flash:【2022-07-25 17:00:41】](https://mp.weixin.qq.com/s?__biz=MzkwMzAyMDAwMQ==&mid=2247503121&idx=1&sn=b12f85c531c3859705c8e4bf3ce25d7a&chksm=c09e219ff7e9a8896a17262ee7633347ef1f79cf7c5f31938ba1e988f284b1fdb6636c73234f&scene=27#wechat_redirect)
 
 网络安全服务、技术特训、技术咨询、渗透测试服务
 
@@ -42,7 +42,7 @@
 
 [:chart_with_upwards_trend:【0/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Njc1OTYyNA==)
 
-[:camera_flash:【2022-07-14 10:28:11】](https://mp.weixin.qq.com/s?__biz=MjM5Njc1OTYyNA==&mid=2450783451&idx=1&sn=b716a177fc7bd7c83a517fae3e1697d0&chksm=b1030dfc867484eaa784eb0a3e9dc0a0efe8479e04ffa7ace61cd5a66a9c25d62adffcbc7ae4&scene=27#wechat_redirect)
+[:camera_flash:【2022-07-25 17:04:31】](https://mp.weixin.qq.com/s?__biz=MjM5Njc1OTYyNA==&mid=2450783620&idx=1&sn=ac52fae619c61c7da7ee79f08054247a&chksm=b1030ca3867485b57c074404f042a58a72a7bb7b4b10ef795c39c49129a3d141be348785a115&scene=27#wechat_redirect)
 
 山警网络空间安全实验室（简称：网安社）
 
@@ -51,9 +51,22 @@
 ---
 
 
+### [浙大网安](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5NDczNDc4NA==)
+
+[:chart_with_upwards_trend:【0/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5NDczNDc4NA==)
+
+[:camera_flash:【2022-07-21 18:13:45】](https://mp.weixin.qq.com/s?__biz=Mzg5NDczNDc4NA==&mid=2247490837&idx=1&sn=9a75ab56b335371a87384bdf7447cd11&chksm=c01a45baf76dccac978f42673115ff2b92cf36a02c445741990b2296385444c1a133b3521562&scene=27#wechat_redirect)
+
+浙江大学网络空间安全学院/浙江大学网络空间安全研究中心
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e603b55057e7" alt="" />
+
+---
+
+
 ### [复旦白泽战队](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
 
-[:chart_with_upwards_trend:【1/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
+[:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
 
 [:camera_flash:【2022-07-19 17:00:47】](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247485732&idx=1&sn=9225a6d15f1d57284d6c2a1586350306&chksm=fdeb8d5aca9c044cd88602d37768bf47cd0a25a74980c7bb4ecf751978f835422781e5392437&scene=27&key=27ae555f898702048ee1eeebd7dfb02b290454f0daf4f73af3d9f0965e1a55bf8e8728a8e0b43ac124f4abbc9b280ca75b93750fa93e7bae0a96f01bb6b4475c567ca4981c244c027c502343fec51a8f7e76638a30a15d7df49f1cd00f3f494d4dc804595e3ffc383abf11b3ed783d121e852b636f1999acc39b0093307c5cf7&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+Server+2016+x64&version=6307001e&lang=zh_CN&session_us=gh_bba053bd7494&exportkey=Awp45kej4yMyGYsYrV4cFjQ%3D&acctmode=0&pass_ticket=Lf09nCLuCAdgF%2Bf9KfvZMvusmNzQK9iHfoO4mdDMXBwdD5s7eMIQhgTn%2FvAJ4AGv&wx_header=0&fontgear=2&scene=27#wechat_redirect)
 
@@ -73,19 +86,6 @@
 连天教育，是河南信安世纪科技有限公司旗下独立信息安全培训组织，主要面向国内外信息安全认证和职业技能培训，涉及CISP、CISM、CISSP、CISA、信息安全意识、风险评估、渗透测试、CTF竞赛、Web安全等。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_9fe1a6f307b0" alt="" />
-
----
-
-
-### [浙大网安](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5NDczNDc4NA==)
-
-[:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5NDczNDc4NA==)
-
-[:camera_flash:【2022-07-21 18:13:45】](https://mp.weixin.qq.com/s?__biz=Mzg5NDczNDc4NA==&mid=2247490837&idx=1&sn=9a75ab56b335371a87384bdf7447cd11&chksm=c01a45baf76dccac978f42673115ff2b92cf36a02c445741990b2296385444c1a133b3521562&scene=27#wechat_redirect)
-
-浙江大学网络空间安全学院/浙江大学网络空间安全研究中心
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e603b55057e7" alt="" />
 
 ---
 
@@ -168,6 +168,19 @@
 ---
 
 
+### [网安培训学院](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDYzMjAyNA==)
+
+[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDYzMjAyNA==)
+
+[:camera_flash:【2022-07-25 10:36:55】](https://mp.weixin.qq.com/s?__biz=Mzg3MDYzMjAyNA==&mid=2247483998&idx=1&sn=e6e140dd583465ac94fb4a1626d2ef20&chksm=ce8b9d69f9fc147fcc18c64bfcdacfd0b79d0be5178462cd042c51356ff5abe9ef3c08533024&scene=27#wechat_redirect)
+
+深圳市网安计算机网络安全培训中心是深圳市计算机网络公共安全协会设立的下属培训机构。培训内容包括：CISP-PTE/PTS系列课程、CISP-IRE/IRS系列课程；网络攻防技术系列课程；网络安全等级保护及风险评估系列课程等网络安全相关课程。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_94f04a96b1ca" alt="" />
+
+---
+
+
 ### [齐鲁师院网络安全社团](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MDU5NTA1MQ==)
 
 [:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MDU5NTA1MQ==)
@@ -216,19 +229,6 @@
 广东工业大学A&amp;D（攻击与防御）工作室
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_c375cb5a0589" alt="" />
-
----
-
-
-### [网安培训学院](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDYzMjAyNA==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDYzMjAyNA==)
-
-[:camera_flash:【2022-07-16 09:00:08】](https://mp.weixin.qq.com/s?__biz=Mzg3MDYzMjAyNA==&mid=2247483987&idx=1&sn=1b8a76ab4ee38a51827f291e8bf2091b&chksm=ce8b9d64f9fc147268c9beaf5ed8eb1fb4702ee5617d6f49a1fee4dedb9ffddbb46ada5e8313&scene=27#wechat_redirect)
-
-深圳市网安计算机网络安全培训中心是深圳市计算机网络公共安全协会设立的下属培训机构。培训内容包括：CISP-PTE/PTS系列课程、CISP-IRE/IRS系列课程；网络攻防技术系列课程；网络安全等级保护及风险评估系列课程等网络安全相关课程。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_94f04a96b1ca" alt="" />
 
 ---
 
