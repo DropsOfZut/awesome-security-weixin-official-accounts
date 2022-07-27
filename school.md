@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【0/33/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
 
-[:camera_flash:【2022-07-25 11:35:50】](https://mp.weixin.qq.com/s?__biz=MzUzODkwMDMxNA==&mid=2247503297&idx=1&sn=715d77def2b6465a19f14a7e5c32f6fe&chksm=fad22ff4cda5a6e2cc3608fa7becfd62ef36d16ebbfa0f7dd907357a8a565bf3443ca9c04eb1&scene=27#wechat_redirect)
+[:camera_flash:【2022-07-26 11:15:04】](https://mp.weixin.qq.com/s?__biz=MzUzODkwMDMxNA==&mid=2247503305&idx=1&sn=0297bbeac8d3bc1465e5a1e8f899cb3a&chksm=fad22ffccda5a6ea141c30606d7b1f758a382c340e45535f3e702b15057a7193cc3046eeef16&scene=27#wechat_redirect)
 
 百所高校、百家用人单位、百名尖锋导师，携手打造定制化人才培养模式，通过导师制职业规划和封闭式岗位实训，补足知识短板、提高实战能力，培养创新型、实用型网络安全尖锋人才。
 
@@ -562,7 +562,7 @@ Birkenwald安全团队 --来自哈尔滨理工大学
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5ODE1ODY1OA==)
 
-[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
+[:camera_flash:【2019-11-02 23:59:32】](https://mp.weixin.qq.com/s?__biz=MzU5ODE1ODY1OA==&mid=2247483719&idx=1&sn=83d71f7d83c855863cd882a248d88c84&chksm=fe493d6ac93eb47c262cc9863ff37670e97fd623cab281f7bd16636cd7c18982b4c2820c7953&scene=27#wechat_redirect)
 
 Covteam工作室，成立于2005年。是以西华大学在校本科生研究生为主力，依托于西华大学网络安全实验室，实验室主要负责网络与安全相关内容的研究。培养在网络安全领域全面发展的高级人才的摇篮。
 
