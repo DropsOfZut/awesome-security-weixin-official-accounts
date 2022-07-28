@@ -1,9 +1,9 @@
 
 ### [汇编语言](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxNDcwOTcwOQ==)
 
-[:chart_with_upwards_trend:【0/166/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxNDcwOTcwOQ==)
+[:chart_with_upwards_trend:【0/174/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxNDcwOTcwOQ==)
 
-[:camera_flash:【2022-07-25 00:01:13】](https://mp.weixin.qq.com/s?__biz=MzIxNDcwOTcwOQ==&mid=2247493767&idx=1&sn=2eb427d801e62b01fcc9d925d461b7dc&chksm=97a1cc25a0d64533f869e8a58c5832dddf0a0d1f292619d3120833e41165ad27f2c0bb224447&scene=27&key=a6088c6ea55d01fa237d80b5a7b059232a5b17f622cf404a7fac57b4ef7148e7429e991ba5d4f93001184b6c445a9a40ab33d3d680e5433eecbac6c68edfade6b117f48b20cdf30580c48b96da6a21d353a06a2c503864e81211b781015ea725a1f8036af6905cbef400fe85ba8aa68f6540133aabbe74cdce78f924ea0bd024&ascene=15&uin=MTA3Mzc3OTIzNQ%3D%3D&devicetype=Windows+Server+2016+x64&version=6307001e&lang=zh_CN&session_us=gh_a3c8b3c214f0&exportkey=AWPLm3%2FdU1KtOlUmYstqmAc%3D&acctmode=0&pass_ticket=gebQ7UiU4xxYZK1Id9J%2FFbfEDbXy3eHT%2FcCObztwND0PMxsF7cniRFY8SmNFB%2BU3&wx_header=0&fontgear=2&scene=27#wechat_redirect)
+[:camera_flash:【2022-07-27 11:55:13】](https://mp.weixin.qq.com/s?__biz=MzIxNDcwOTcwOQ==&mid=2247493775&idx=1&sn=ccaa9362053b2dd6ee1f6e16d3032af5&chksm=97a1cc2da0d6453bd49a564de31e46b5e44c248ace7c0ab8dc964b67a143318ad6f58c62d661&scene=27&key=78fb1eae9cadd3bdf22ada63bb900d56bcde26e0dd243b2629cabd5923bb75e0cb478c1ae7e3df5a41206ed117da9356982dfbd98279c20ae1e7420b06375c8983f6b76d7a5a496d82563009b3639832cc3aa5dc0d3dcd56607f85c2a54bf8a98ba6e98c9f0217a160cdd880e0577d110eebb5c68b35ec04b6e7cdf0fefd04ab&ascene=15&uin=MzgxODQ4MjMz&devicetype=Windows+Server+2016+x64&version=6307001e&lang=zh_CN&session_us=gh_dded5eaf976a&exportkey=Az0RDxStFAvstZMdAfNTgR0%3D&acctmode=0&pass_ticket=ZmBbqEZmQzOCU3VdKtX7mD1W77k7D%2F9SHUckCMcSfLRhbyIIO7TZaSPkDEj5ojV0&wx_header=0&fontgear=2&scene=27#wechat_redirect)
 
 致力于汇编教程和逆向破解之路
 
@@ -14,9 +14,9 @@
 
 ### [看雪学苑](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTc2MDYxMw==)
 
-[:chart_with_upwards_trend:【19/95/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTc2MDYxMw==)
+[:chart_with_upwards_trend:【18/92/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTc2MDYxMw==)
 
-[:camera_flash:【2022-07-26 18:00:48】](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458459226&idx=1&sn=9efd4775e08ed6ec218912b240bfab67&chksm=b18e2cd086f9a5c650a06d58c8df4b8f54124a147a116719812401407d71552388307e4a2b50&scene=27#wechat_redirect)
+[:camera_flash:【2022-07-27 17:59:28】](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458459247&idx=1&sn=710f3ce985fc785c615dc4b095f32ac5&chksm=b18e2ce586f9a5f34509df575e11f51b391ce54fabc7dd93c2eabef9dfb260ad25813e5da95b&scene=27#wechat_redirect)
 
 致力于移动与安全研究的开发者社区，看雪学院(kanxue.com)官方微信公众帐号。
 
@@ -40,9 +40,9 @@
 
 ### [米瑞尔信息安全](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2Mjc5NjQ0OA==)
 
-[:chart_with_upwards_trend:【1/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2Mjc5NjQ0OA==)
+[:chart_with_upwards_trend:【1/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2Mjc5NjQ0OA==)
 
-[:camera_flash:【2022-07-21 12:00:50】](https://mp.weixin.qq.com/s?__biz=MzI2Mjc5NjQ0OA==&mid=2247485390&idx=1&sn=5eaa1097dd5b3f7f572355477d50a541&chksm=ea44e201dd336b17bd5dd202f616586c962cf54b4f56858f7beff205c8772dcef04a0a48b82a&scene=27#wechat_redirect)
+[:camera_flash:【2022-07-27 23:11:53】](https://mp.weixin.qq.com/s?__biz=MzI2Mjc5NjQ0OA==&mid=2247485406&idx=1&sn=5824bba2eb266bc193607b8d5d3f139a&chksm=ea44e211dd336b079fa42b2924273cfdb042f4ab453d0ea843f2523ad02baeb2939e46037e83&scene=27#wechat_redirect)
 
 主打研究方向Ai人工智能、物联网安全、Web安全、APP安全、逆向工程、二进制、电子取证、信息安全
 
@@ -60,19 +60,6 @@
 主要分享自己在二进制方面的一些技术，比如程序分析，逆向，漏洞等，也会分享一些开发相关的东东
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_29fa961361a8" alt="" />
-
----
-
-
-### [FuzzWiki](http://wechat.doonsec.com/wechat_echarts/?biz=MzU1NTEzODc3MQ==)
-
-[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU1NTEzODc3MQ==)
-
-[:camera_flash:【2022-06-27 22:51:11】](https://mp.weixin.qq.com/s?__biz=MzU1NTEzODc3MQ==&mid=2247484210&idx=1&sn=f22752d9646459049e348947e3470de3&chksm=fbd9a88eccae21985300ef370fd7fb0e55f04b594e9798259f854e377ba81a4e6456db587d3c&scene=27#wechat_redirect)
-
-逆向与漏洞挖掘实验室，致力于软件动静态分析与漏洞挖掘领域新技术、新工具、新思想的交流与分享。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_fcf21e658324" alt="" />
 
 ---
 
@@ -112,6 +99,19 @@
 威胁狩猎，漏洞挖掘
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_02e64d74f88d" alt="" />
+
+---
+
+
+### [FuzzWiki](http://wechat.doonsec.com/wechat_echarts/?biz=MzU1NTEzODc3MQ==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU1NTEzODc3MQ==)
+
+[:camera_flash:【2022-06-27 22:51:11】](https://mp.weixin.qq.com/s?__biz=MzU1NTEzODc3MQ==&mid=2247484210&idx=1&sn=f22752d9646459049e348947e3470de3&chksm=fbd9a88eccae21985300ef370fd7fb0e55f04b594e9798259f854e377ba81a4e6456db587d3c&scene=27#wechat_redirect)
+
+逆向与漏洞挖掘实验室，致力于软件动静态分析与漏洞挖掘领域新技术、新工具、新思想的交流与分享。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_fcf21e658324" alt="" />
 
 ---
 

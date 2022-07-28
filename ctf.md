@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【0/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
 
-[:camera_flash:【2022-07-26 10:27:09】](https://mp.weixin.qq.com/s?__biz=MzIwMzU0NDY5OA==&mid=2247492914&idx=1&sn=80ad100cfdaf1db3f748877142a399ca&chksm=96cf6427a1b8ed31e28cf6b892c158d0d2cb73c1ad0a8e8cd54bb3b9d0fe525dda2b279b117a&scene=27#wechat_redirect)
+[:camera_flash:【2022-07-27 14:10:01】](https://mp.weixin.qq.com/s?__biz=MzIwMzU0NDY5OA==&mid=2247492960&idx=1&sn=a34ed9913bd05c314a6774b5e334cff2&chksm=96cf6475a1b8ed6385e4704fa70cac993ec4fcc47eec4381356be2c4796e5c0c5a7c5ab23831&scene=27#wechat_redirect)
 
 寰宇卫士综合安全咨询、安全服务、解决方案、认证培训、产品研发等信息安全多元化产业链为一体。
 
@@ -40,7 +40,7 @@
 
 ### [强网竞赛](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjY3NDQ2Ng==)
 
-[:chart_with_upwards_trend:【0/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjY3NDQ2Ng==)
+[:chart_with_upwards_trend:【0/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjY3NDQ2Ng==)
 
 [:camera_flash:【2022-07-26 11:06:58】](https://mp.weixin.qq.com/s?__biz=Mzg4MjY3NDQ2Ng==&mid=2247485074&idx=1&sn=0644ae22eb7f602cb61759471f9b6fa7&chksm=cf5258dff825d1c919870197de22d9b19265fc46934502eed3dfb7a46ed848845002edcb255d&scene=27#wechat_redirect)
 
@@ -53,7 +53,7 @@
 
 ### [XCTF联赛](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
 
-[:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
+[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
 
 [:camera_flash:【2022-07-19 18:00:46】](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247507287&idx=1&sn=960f524d4064e1a0ebf5d501f0d77c97&chksm=a6872f6d91f0a67bf19000602fe889ee2e7b325d2fa4608ae3e6351a8f013a8d13537eaca3ef&scene=27&key=00d65dfbf652ec00286f03975ab77252e5431242e743ea3035824fba2f3f38b59a6b09014a5577565842e5da1119fc7e2b01a01af4514283c5dd174481a99c6b2216ef4e0014a52a5078f3571481bd80ab2ce4b6b5ba089abe34dc885ebec71313c07074e5263f89180dd2e5082f5769c919856823863a2103f5033a324dc570&ascene=15&uin=MzgxODQ4MjMz&devicetype=Windows+Server+2016+x64&version=6307001e&lang=zh_CN&session_us=gh_d70902412103&exportkey=A9mruk9xYwrSFnuHJCAf%2Bow%3D&acctmode=0&pass_ticket=zQDqNW7g2PBAKOwYFLlPKXBnJwjImAfAGKGk32OweaKH9OajfamC7II8t6DSS9Xd&wx_header=0&fontgear=2&scene=27#wechat_redirect)
 
@@ -73,19 +73,6 @@
 春秋伽玛，为广大网络安全爱好者传递网络安全大赛相关赛事信息，提供优质的赛事服务平台
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_07fa2c2720be" alt="" />
-
----
-
-
-### [XPLAN](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MDY1ODU2Mw==)
-
-[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MDY1ODU2Mw==)
-
-[:camera_flash:【2022-07-12 19:30:57】](https://mp.weixin.qq.com/s?__biz=Mzg5MDY1ODU2Mw==&mid=2247486380&idx=1&sn=3b31a1d9c8538e2ae5a1eb01e064f012&chksm=cfd801c0f8af88d6b2d0fc45d557ced74f0436dcf31ad315828abae04907d204ddd9fb3e65e5&scene=27&key=e1ce1dd8aaf91119ee52e7f500551df71f26cdb1ad31194aaa9e2b48fb2eb6150882a51ac607482e05f2acc83354c1c2fb49b69df79fbea09aab191c726f4b881c4362545fec493b17ee2e7967ee8ef75e2f723cbec8742f85d8b521ae01ca4f091eb739a29ad04968e81fff4e599c5ae0b10f41d7bd7cb08beb7a33209b5acf&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+Server+2016+x64&version=6307001e&lang=zh_CN&session_us=gh_be4f21d557c0&exportkey=Aw3JXIkmJZNlFrOF9qTkVLM%3D&acctmode=0&pass_ticket=Lf09nCLuCAdgF%2Bf9KfvZMvusmNzQK9iHfoO4mdDMXBwdD5s7eMIQhgTn%2FvAJ4AGv&wx_header=0&fontgear=2&scene=27#wechat_redirect)
-
-X是未知，更是无限，邀您一道创造、见证和实现X-Plan，北斗逐光，安全有恒，未来无界，共创数字安全未来！
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_b0a5876d02ea" alt="" />
 
 ---
 
@@ -112,6 +99,19 @@ X是未知，更是无限，邀您一道创造、见证和实现X-Plan，北斗�
 power by r3kapig team
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4d1d402cbd9d" alt="" />
+
+---
+
+
+### [XPLAN](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MDY1ODU2Mw==)
+
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MDY1ODU2Mw==)
+
+[:camera_flash:【2022-07-12 19:30:57】](https://mp.weixin.qq.com/s?__biz=Mzg5MDY1ODU2Mw==&mid=2247486380&idx=1&sn=3b31a1d9c8538e2ae5a1eb01e064f012&chksm=cfd801c0f8af88d6b2d0fc45d557ced74f0436dcf31ad315828abae04907d204ddd9fb3e65e5&scene=27&key=e1ce1dd8aaf91119ee52e7f500551df71f26cdb1ad31194aaa9e2b48fb2eb6150882a51ac607482e05f2acc83354c1c2fb49b69df79fbea09aab191c726f4b881c4362545fec493b17ee2e7967ee8ef75e2f723cbec8742f85d8b521ae01ca4f091eb739a29ad04968e81fff4e599c5ae0b10f41d7bd7cb08beb7a33209b5acf&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+Server+2016+x64&version=6307001e&lang=zh_CN&session_us=gh_be4f21d557c0&exportkey=Aw3JXIkmJZNlFrOF9qTkVLM%3D&acctmode=0&pass_ticket=Lf09nCLuCAdgF%2Bf9KfvZMvusmNzQK9iHfoO4mdDMXBwdD5s7eMIQhgTn%2FvAJ4AGv&wx_header=0&fontgear=2&scene=27#wechat_redirect)
+
+X是未知，更是无限，邀您一道创造、见证和实现X-Plan，北斗逐光，安全有恒，未来无界，共创数字安全未来！
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_b0a5876d02ea" alt="" />
 
 ---
 
