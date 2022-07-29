@@ -1,9 +1,9 @@
 
 ### [寰宇卫士](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
 
-[:chart_with_upwards_trend:【0/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
+[:chart_with_upwards_trend:【0/19/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
 
-[:camera_flash:【2022-07-27 14:10:01】](https://mp.weixin.qq.com/s?__biz=MzIwMzU0NDY5OA==&mid=2247492960&idx=1&sn=a34ed9913bd05c314a6774b5e334cff2&chksm=96cf6475a1b8ed6385e4704fa70cac993ec4fcc47eec4381356be2c4796e5c0c5a7c5ab23831&scene=27#wechat_redirect)
+[:camera_flash:【2022-07-28 14:29:02】](https://mp.weixin.qq.com/s?__biz=MzIwMzU0NDY5OA==&mid=2247493002&idx=1&sn=b3d7322223533a996ba663140af1118a&chksm=96cf649fa1b8ed899f6cac4c3d27f8dcbaaf8dc3579c9378f8f72b291bc7f7ef4d2ecbce63c4&scene=27#wechat_redirect)
 
 寰宇卫士综合安全咨询、安全服务、解决方案、认证培训、产品研发等信息安全多元化产业链为一体。
 
@@ -51,19 +51,6 @@
 ---
 
 
-### [XCTF联赛](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
-
-[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
-
-[:camera_flash:【2022-07-19 18:00:46】](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247507287&idx=1&sn=960f524d4064e1a0ebf5d501f0d77c97&chksm=a6872f6d91f0a67bf19000602fe889ee2e7b325d2fa4608ae3e6351a8f013a8d13537eaca3ef&scene=27&key=00d65dfbf652ec00286f03975ab77252e5431242e743ea3035824fba2f3f38b59a6b09014a5577565842e5da1119fc7e2b01a01af4514283c5dd174481a99c6b2216ef4e0014a52a5078f3571481bd80ab2ce4b6b5ba089abe34dc885ebec71313c07074e5263f89180dd2e5082f5769c919856823863a2103f5033a324dc570&ascene=15&uin=MzgxODQ4MjMz&devicetype=Windows+Server+2016+x64&version=6307001e&lang=zh_CN&session_us=gh_d70902412103&exportkey=A9mruk9xYwrSFnuHJCAf%2Bow%3D&acctmode=0&pass_ticket=zQDqNW7g2PBAKOwYFLlPKXBnJwjImAfAGKGk32OweaKH9OajfamC7II8t6DSS9Xd&wx_header=0&fontgear=2&scene=27#wechat_redirect)
-
-国内最早、亚洲最大的网络攻防联赛。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_3d7c7f90f79f" alt="" />
-
----
-
-
 ### [春秋伽玛](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
 
 [:chart_with_upwards_trend:【2/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
@@ -77,6 +64,19 @@
 ---
 
 
+### [XCTF联赛](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
+
+[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
+
+[:camera_flash:【2022-07-19 18:00:46】](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247507287&idx=1&sn=960f524d4064e1a0ebf5d501f0d77c97&chksm=a6872f6d91f0a67bf19000602fe889ee2e7b325d2fa4608ae3e6351a8f013a8d13537eaca3ef&scene=27&key=00d65dfbf652ec00286f03975ab77252e5431242e743ea3035824fba2f3f38b59a6b09014a5577565842e5da1119fc7e2b01a01af4514283c5dd174481a99c6b2216ef4e0014a52a5078f3571481bd80ab2ce4b6b5ba089abe34dc885ebec71313c07074e5263f89180dd2e5082f5769c919856823863a2103f5033a324dc570&ascene=15&uin=MzgxODQ4MjMz&devicetype=Windows+Server+2016+x64&version=6307001e&lang=zh_CN&session_us=gh_d70902412103&exportkey=A9mruk9xYwrSFnuHJCAf%2Bow%3D&acctmode=0&pass_ticket=zQDqNW7g2PBAKOwYFLlPKXBnJwjImAfAGKGk32OweaKH9OajfamC7II8t6DSS9Xd&wx_header=0&fontgear=2&scene=27#wechat_redirect)
+
+国内最早、亚洲最大的网络攻防联赛。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_3d7c7f90f79f" alt="" />
+
+---
+
+
 ### [胖哈勃](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2OTUzMzg3Ng==)
 
 [:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2OTUzMzg3Ng==)
@@ -86,19 +86,6 @@
 1990年，哈勃望远镜（Hubble Space Telescope）发射升空，开启了人类对宇宙空间的崭新探索。 现在，Pwnhub的出现，将引领那些对网络安全感兴趣的人们探索“0 1”世界中的无限奥秘。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_2e9e965bad75" alt="" />
-
----
-
-
-### [r3kapig](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MDE4MzkzMQ==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MDE4MzkzMQ==)
-
-[:camera_flash:【2022-06-28 09:22:03】](https://mp.weixin.qq.com/s?__biz=MzI2MDE4MzkzMQ==&mid=2247483744&idx=1&sn=ffa8e2fb673358fc7925b7864615828f&chksm=ea6cc374dd1b4a62bdf0f76b89b905646f98c6490f9b30bcad11c52eb65c260b618c809a2e58&scene=27#wechat_redirect)
-
-power by r3kapig team
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4d1d402cbd9d" alt="" />
 
 ---
 
@@ -125,6 +112,19 @@ X是未知，更是无限，邀您一道创造、见证和实现X-Plan，北斗�
 PTE小技巧
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_5aff651a75ac" alt="" />
+
+---
+
+
+### [r3kapig](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MDE4MzkzMQ==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MDE4MzkzMQ==)
+
+[:camera_flash:【2022-06-28 09:22:03】](https://mp.weixin.qq.com/s?__biz=MzI2MDE4MzkzMQ==&mid=2247483744&idx=1&sn=ffa8e2fb673358fc7925b7864615828f&chksm=ea6cc374dd1b4a62bdf0f76b89b905646f98c6490f9b30bcad11c52eb65c260b618c809a2e58&scene=27#wechat_redirect)
+
+power by r3kapig team
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4d1d402cbd9d" alt="" />
 
 ---
 
