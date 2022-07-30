@@ -1,9 +1,9 @@
 
 ### [Linux中国](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ4MjYwMQ==)
 
-[:chart_with_upwards_trend:【97/109/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ4MjYwMQ==)
+[:chart_with_upwards_trend:【99/112/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ4MjYwMQ==)
 
-[:camera_flash:【2022-07-27 18:22:54】](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664660938&idx=1&sn=806340ebd1ebba66026a1a1d98f4bf25&chksm=bdcf448c8ab8cd9a8df81fc82a346aa0d96c8e481392ed7b4efd6e8124659d12c42f2ccc5759&scene=27#wechat_redirect)
+[:camera_flash:【2022-07-29 17:34:24】](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664661070&idx=1&sn=4eed35068fa1c6bdebe026520f86d33f&chksm=bdcfbb088ab8321eeb01e5b8119f6014aa1bf91cf9b3b69fac18e3c462ed79f0f30ea44440ec&scene=27#wechat_redirect)
 
 [Linux中国](https://linux.cn/)开源社区官方公众号。专注于开源技术研究、开源思想传播。
 
@@ -14,9 +14,9 @@
 
 ### [系统安全运维](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NjE0NDc5OQ==)
 
-[:chart_with_upwards_trend:【0/76/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NjE0NDc5OQ==)
+[:chart_with_upwards_trend:【0/79/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NjE0NDc5OQ==)
 
-[:camera_flash:【2022-07-29 08:08:05】](https://mp.weixin.qq.com/s?__biz=Mzk0NjE0NDc5OQ==&mid=2247506088&idx=3&sn=79694d3b0f8a8f574dd65b7da114a2bb&chksm=c3080bd8f47f82ce018bf5ac2bc0058ca1212bdd7a1008886a79e4dd565708301e8185b9781c&scene=27#wechat_redirect)
+[:camera_flash:【2022-07-30 08:08:30】](https://mp.weixin.qq.com/s?__biz=Mzk0NjE0NDc5OQ==&mid=2247506228&idx=1&sn=5a57e8fd0dd8ff7d04e2297fbfea242b&chksm=c3080a44f47f83523492a2db598b97f0f06a09d54a98fb061a68993a27737a0a3fcb7b0396eb&scene=27#wechat_redirect)
 
 未知攻 焉知防 攻防兼备
 
@@ -27,9 +27,9 @@
 
 ### [kali黑客笔记](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzIwNTY1OA==)
 
-[:chart_with_upwards_trend:【20/22/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzIwNTY1OA==)
+[:chart_with_upwards_trend:【22/24/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzIwNTY1OA==)
 
-[:camera_flash:【2022-07-28 08:00:06】](https://mp.weixin.qq.com/s?__biz=MzkxMzIwNTY1OA==&mid=2247489639&idx=1&sn=7f65ee9da2267b18ace57282bcfbe99c&chksm=c1006892f677e1849a92ec768713861e79e40a8024bf15d325b1f67c99ddc242cda0c5c0b69d&scene=27#wechat_redirect)
+[:camera_flash:【2022-07-29 13:35:16】](https://mp.weixin.qq.com/s?__biz=MzkxMzIwNTY1OA==&mid=2247489649&idx=1&sn=5c1e4eba77e15c8632dd8b81547c557c&chksm=c1006884f677e192e92963172e49b8a0ccffb3363af0045228502e7256300cdc796c1cc7e3ba&scene=27#wechat_redirect)
 
 kali论坛官方唯一公众号，主要发布过于小白学习Kali Linux相关安全学习知识。Debian Ubuntu Centos等操作系统的安全和运维。以及树莓派 ESP8266 DIY单片机等相关领域的文章，欢迎大家关注我！
 
@@ -94,7 +94,7 @@ IT牧场公众号，BAT 技术专家分享开发、架构、运维相关干货�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI4MDEwNzAzNg==)
 
-[:camera_flash:【2022-07-28 12:18:21】](https://mp.weixin.qq.com/s?__biz=MzI4MDEwNzAzNg==&mid=2649457748&idx=1&sn=0041a88d1698a4886f1e113d89636ce1&chksm=f3a2a527c4d52c3101e72281f25fe7ec4681d51218fcbbad9e3c04a163e27d8f135d6e3d25c0&scene=27#wechat_redirect)
+[:camera_flash:【2022-07-29 12:18:39】](https://mp.weixin.qq.com/s?__biz=MzI4MDEwNzAzNg==&mid=2649457804&idx=1&sn=812d15ec7934b9507ef88925a6461b0d&chksm=f3a2a5ffc4d52ce9439e309fd17886cdbe05f1bfe6b90b02d6f5055fa2e8b8c9f06b2e718182&scene=27#wechat_redirect)
 
 专注分享Linux/Unix相关内容，包括Linux命令、Linux内核、Linux系统开发、Linux运维、网络编程、开发工具等Linux相关知识和技术
 
@@ -120,7 +120,7 @@ IT牧场公众号，BAT 技术专家分享开发、架构、运维相关干货�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4Nzg5Nzc5OA==)
 
-[:camera_flash:【2022-07-28 19:25:05】](https://mp.weixin.qq.com/s?__biz=MzA4Nzg5Nzc5OA==&mid=2651720484&idx=1&sn=0a04b2e1cb85b8b7f4e90918e25fd8d4&chksm=8bc8c88dbcbf419b1326f0cf5efc5b2bae8ffad762200fcfaabcc75b5739df74381cffdc9d6b&scene=27#wechat_redirect)
+[:camera_flash:【2022-07-29 21:58:04】](https://mp.weixin.qq.com/s?__biz=MzA4Nzg5Nzc5OA==&mid=2651720639&idx=1&sn=76035fa8fd620a6fc30ad0bae24bbb56&chksm=8bc8c816bcbf4100e9b7e604524695acf3e2d861195623121282b72edfc3a01d5e97eb97a43b&scene=27#wechat_redirect)
 
 高效运维公众号由萧田国及朋友们维护，经常发布各种广为传播的优秀原创技术文章，关注运维转型，陪伴您的运维职业生涯，一起愉快滴发展。
 
