@@ -1,7 +1,7 @@
 
 ### [商密君](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
 
-[:chart_with_upwards_trend:【0/118/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
+[:chart_with_upwards_trend:【0/115/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
 
 [:camera_flash:【2022-07-29 15:51:35】](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247576385&idx=1&sn=be413ab4313c244a3f2edc976f89ea17&chksm=ec57bb1adb20320c9756ec533ee0fe0a788702e23ff2981f6ccafb49f542d415f0791471a39d&scene=27#wechat_redirect)
 
@@ -14,7 +14,7 @@
 
 ### [全栈网络空间安全](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
 
-[:chart_with_upwards_trend:【0/54/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
+[:chart_with_upwards_trend:【0/52/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
 
 [:camera_flash:【2022-07-30 00:00:54】](https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247503323&idx=1&sn=1bb8c6a1cba9f93d8bcefac954de05da&chksm=cf3d7116f84af8004c7d85f75774e38570341e102b16dd550bee75c1df68de8d793d6143d7be&scene=27#wechat_redirect)
 
@@ -27,9 +27,9 @@
 
 ### [数世咨询](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
 
-[:chart_with_upwards_trend:【13/44/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
+[:chart_with_upwards_trend:【13/42/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
 
-[:camera_flash:【2022-07-29 23:30:03】](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247494438&idx=1&sn=768f38abbd5db6bd2f006f51b88ceed2&chksm=c144999bf633108dcf991cd0d5eb5185ebc700f130f767f372e016e457053975216ce86fc2c6&scene=27#wechat_redirect)
+[:camera_flash:【2022-07-30 23:30:22】](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247494455&idx=1&sn=3dcfe7595f327953da01b250fa3e12ff&chksm=c144998af633109c880390ee01315fcd2dad72ff5a9ffedcec28b51065eb946b6236a06fb821&scene=27#wechat_redirect)
 
 中国数字产业领域中立的第三方调研机构，提供网络安全行业的调查、研究与咨询服务。
 
@@ -40,7 +40,7 @@
 
 ### [深圳市网络与信息安全行业协会](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
 
-[:chart_with_upwards_trend:【0/23/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
+[:chart_with_upwards_trend:【0/22/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
 
 [:camera_flash:【2022-07-28 16:27:27】](https://mp.weixin.qq.com/s?__biz=MzU0Mzk0NDQyOA==&mid=2247502084&idx=1&sn=94e1c3f9741b142533af6de6c29d3c2a&chksm=fb013287cc76bb91c707ebc9bc6e8619de8f9a3bdd562f3dd019717c127186258b5bb85c87ae&scene=27#wechat_redirect)
 
@@ -194,19 +194,6 @@ OWASP中国，SecZone互联网安全研究中心官方平台
 ---
 
 
-### [鸟哥谈安全](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxNzg2Njg1MA==)
-
-[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxNzg2Njg1MA==)
-
-[:camera_flash:【2022-06-30 11:21:24】](https://mp.weixin.qq.com/s?__biz=MzAxNzg2Njg1MA==&mid=2652071213&idx=1&sn=efa5ef5158f92a777bc96099dac8a16a&chksm=8038cc20b74f45363827aba47dd66bf9adc263fabfd60af0020122b4d5ed071f1d05fe702e9a&scene=27#wechat_redirect)
-
-全面深入解读安全架构、前沿安全技术、安全报告解读、安全趋势详解。做业内最专业、看透“安全本质”的纯安全分享公众号。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_642251d04229" alt="" />
-
----
-
-
 ### [薄说安全](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NzU3MzkyMg==)
 
 [:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NzU3MzkyMg==)
@@ -307,6 +294,19 @@ OWASP中国，SecZone互联网安全研究中心官方平台
 甲方安全建设的点滴，共同学习，一起进步。 笔耕不辍也是对自我的督促。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_97cc04db2203" alt="" />
+
+---
+
+
+### [鸟哥谈安全](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxNzg2Njg1MA==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxNzg2Njg1MA==)
+
+[:camera_flash:【2022-06-30 11:21:24】](https://mp.weixin.qq.com/s?__biz=MzAxNzg2Njg1MA==&mid=2652071213&idx=1&sn=efa5ef5158f92a777bc96099dac8a16a&chksm=8038cc20b74f45363827aba47dd66bf9adc263fabfd60af0020122b4d5ed071f1d05fe702e9a&scene=27#wechat_redirect)
+
+全面深入解读安全架构、前沿安全技术、安全报告解读、安全趋势详解。做业内最专业、看透“安全本质”的纯安全分享公众号。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_642251d04229" alt="" />
 
 ---
 
@@ -419,7 +419,7 @@ OWASP中国，SecZone互联网安全研究中心官方平台
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Mjc5MDQ3NA==)
 
-[:camera_flash:【2022-03-20 19:46:07】](https://mp.weixin.qq.com/s?__biz=MjM5Mjc5MDQ3NA==&mid=2652055690&idx=1&sn=b11f4c07d5b019395630d64fa86a2019&chksm=bd476a2f8a30e339a660b25d1e3d4d8d374884d752f27ce11bfb9282d88733811c293434aa83&scene=27#wechat_redirect)
+[:camera_flash:【2022-07-31 07:31:30】](https://mp.weixin.qq.com/s?__biz=MjM5Mjc5MDQ3NA==&mid=2652056212&idx=1&sn=a4c8e792a76638fc6b7d8424594ace20&chksm=bd4768318a30e12720bad2478e6b3181aee386b4edf06cfac8ca08dc714bd861bbf250abce67&scene=27#wechat_redirect)
 
 安全和运维不分家，要两手抓，两手硬。Security：安全建设哪有什么圣杯，无非是日拱一卒的心态和对解决问题的执拗。Operation：只要不断地解决根源问题，服务质量就一定会得到提升。
 

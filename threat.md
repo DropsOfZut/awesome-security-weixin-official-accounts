@@ -1,9 +1,9 @@
 
 ### [情报分析师](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3Mjc1MTkwOA==)
 
-[:chart_with_upwards_trend:【72/74/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3Mjc1MTkwOA==)
+[:chart_with_upwards_trend:【69/71/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3Mjc1MTkwOA==)
 
-[:camera_flash:【2022-07-29 11:53:46】](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650512764&idx=1&sn=4756069aa1de129d005abf4b5003809a&chksm=8716b337b0613a21fa53f0b2d01b1ee6b859fb5932d0cf996e3432553d8b034c339df5a66c5b&scene=27#wechat_redirect)
+[:camera_flash:【2022-07-30 10:01:38】](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650512854&idx=1&sn=9c1cd807cfb0b5a069b6a7e436f11d72&chksm=8716b39db0613a8b9a59df230215d43b6ec3624c49e0625a4c9c1f2f2736ba13bc5ff09a53d1&scene=27#wechat_redirect)
 
 POLICE教授团队：聚焦情报安全与警务！关注行业动态，制定行业标准，开展培训交流。共建情报分析师职业共同体，促进情报协作，传播情报文化，优化情报生态。
 
@@ -14,9 +14,9 @@ POLICE教授团队：聚焦情报安全与警务！关注行业动态，制定�
 
 ### [丁爸情报分析师的工具箱](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MTE0NTE3Mw==)
 
-[:chart_with_upwards_trend:【20/29/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MTE0NTE3Mw==)
+[:chart_with_upwards_trend:【21/30/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MTE0NTE3Mw==)
 
-[:camera_flash:【2022-07-29 10:13:29】](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651130914&idx=1&sn=c35bcf3e7dcce67d03cd93ea4481673c&chksm=f1af7b18c6d8f20eb10b9125205449b112da5747b6c93a3f1d1990f367b96c2951f9551ab5a2&scene=27#wechat_redirect)
+[:camera_flash:【2022-07-30 17:00:30】](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651130927&idx=1&sn=f520ecf3984a3663dd7ba187fb099517&chksm=f1af7b15c6d8f2035d3e5a54a10ae86ecca0bd112c56a3fe8c17f49637b23d4d7a9dbcef86be&scene=27#wechat_redirect)
 
 每天为大家精选各类情报分析相关的资源、工具、技巧和资讯，努力成为情报分析师必备的工具箱。外挂机器人“小丁丁”还能陪您聊天，给您查航班、查列车、查天气、查酒店、查美食、查股票、回答您的提问等等。
 
@@ -27,7 +27,7 @@ POLICE教授团队：聚焦情报安全与警务！关注行业动态，制定�
 
 ### [无糖反网络犯罪研究中心](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxMzkzNDA1Mg==)
 
-[:chart_with_upwards_trend:【21/25/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxMzkzNDA1Mg==)
+[:chart_with_upwards_trend:【20/24/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxMzkzNDA1Mg==)
 
 [:camera_flash:【2022-07-29 19:00:36】](https://mp.weixin.qq.com/s?__biz=MzAxMzkzNDA1Mg==&mid=2247498597&idx=1&sn=ef257029ba037e47fcbb6da55329acd3&chksm=9b99b7eeacee3ef816ba3e10aeba4e4075677f4f2f9d2b8d7ae51c29ed6fc459b1c23bb8d1d6&scene=27#wechat_redirect)
 
@@ -40,9 +40,9 @@ POLICE教授团队：聚焦情报安全与警务！关注行业动态，制定�
 
 ### [奇安信威胁情报中心](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MDc2MDA4OA==)
 
-[:chart_with_upwards_trend:【8/19/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MDc2MDA4OA==)
+[:chart_with_upwards_trend:【10/21/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MDc2MDA4OA==)
 
-[:camera_flash:【2022-07-28 20:14:51】](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247502784&idx=1&sn=f23ee1c543d0a351eb5c90a2c63c4051&chksm=ea663cb7dd11b5a1d50fc04079e6bed52b499281f264c8e36171f3b2476176c1709eb32fb963&scene=27&key=4a14537718758be2c0c5524084bac5491e67c1de558668e6c77d789e5ad191d3769054f1d10099a54245e2dc044b5fedfd0728b44edad1ce2e9192843963f11b56b87fa7dd77a5d003c9b23b8d0577aab5d7e7fed5ecaa875ae9372ef5aaff818c70842dd855dc9673a558b83e374eae135d4a19e737b67783fee8423606f203&ascene=15&uin=MTA3Mzc3OTIzNQ%3D%3D&devicetype=Windows+Server+2016+x64&version=6307001e&lang=zh_CN&session_us=gh_7a5313573251&exportkey=AZo6oRheK%2BbGRwbEGLbHqkI%3D&acctmode=0&pass_ticket=c%2FHnjE8PxbwXqkHtS6oEwHrmtevFdE7Lclu%2FQtCnBJPj8%2FudqOSSJ%2FT%2FEsGAyEhg&wx_header=0&fontgear=2&scene=27#wechat_redirect)
+[:camera_flash:【2022-07-29 17:52:32】](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247502876&idx=1&sn=4d96f74f6aebc8c51f0fec76c077355b&chksm=ea663b6bdd11b27d9ea4ccf9e56983cae0e562ea89aaad8f9a01c25c73c6435185853d4a645a&scene=27&key=ae611bcf2a7b30a80dceda1b17fa3ecb5d0ad0fe365c09d5c35571f754ca5f789e4e2e6335b4f12875b3b1afa87d8825990bb50a7c244487f4fb8ec841346b54d8b17ccd43dfadc18580111df81b3251679d2ba4f7fe0fd8992fe192425b6605b9c24bbdefc8132ea209a54d407a48ce659646e2835d78430bf5b09ac7e6507a&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+Server+2016+x64&version=6307001e&lang=zh_CN&session_us=gh_834eaaa98a10&exportkey=A9nwMhCjkNJvE58YjimkMEw%3D&acctmode=0&pass_ticket=iYRgDlbnBcijnCJgWNhKRcNvUkVTmaTzzL6mOd7my8fRYa7%2B0jLezl7ZGnHIiSEW&wx_header=0&fontgear=2&scene=27#wechat_redirect)
 
 威胁情报信息共享，事件预警通报，攻击事件分析报告，恶意软件分析报告
 
@@ -66,7 +66,7 @@ POLICE教授团队：聚焦情报安全与警务！关注行业动态，制定�
 
 ### [且听安全](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MTU0MjkwNw==)
 
-[:chart_with_upwards_trend:【14/15/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MTU0MjkwNw==)
+[:chart_with_upwards_trend:【13/14/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MTU0MjkwNw==)
 
 [:camera_flash:【2022-07-26 14:51:10】](https://mp.weixin.qq.com/s?__biz=Mzg3MTU0MjkwNw==&mid=2247491456&idx=1&sn=8dd858209f48ef39fd0ed345cd63aab6&chksm=cefda694f98a2f82c948768904389bf4adb2139a7e0b1dc0be4d493af8a472b0e542785fa474&scene=27#wechat_redirect)
 

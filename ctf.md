@@ -1,7 +1,7 @@
 
 ### [寰宇卫士](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
 
-[:chart_with_upwards_trend:【0/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
+[:chart_with_upwards_trend:【0/19/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
 
 [:camera_flash:【2022-07-29 15:21:42】](https://mp.weixin.qq.com/s?__biz=MzIwMzU0NDY5OA==&mid=2247493026&idx=1&sn=ac0d0009ba798c3367da85fc394f77d2&chksm=96cf64b7a1b8eda1b47205094da1d9354dc516cf3632f1a62911cfd0228b03de4390a1688a53&scene=27#wechat_redirect)
 
@@ -29,7 +29,7 @@
 
 [:chart_with_upwards_trend:【0/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjY3NDQ2Ng==)
 
-[:camera_flash:【2022-07-29 20:53:28】](https://mp.weixin.qq.com/s?__biz=Mzg4MjY3NDQ2Ng==&mid=2247485391&idx=1&sn=91c4f8b253bffcecd29973419a2982da&chksm=cf525982f825d094970fe9efa9363c7aed07c8cc65a98665a0960c71fa73cbcb9b1c0bf6fcc4&scene=27#wechat_redirect)
+[:camera_flash:【2022-07-30 21:22:18】](https://mp.weixin.qq.com/s?__biz=Mzg4MjY3NDQ2Ng==&mid=2247485416&idx=1&sn=4ff1b486c1ee07774b73d45d94761024&chksm=cf5259a5f825d0b34645711bedcf51377cd2e636d46ec785603b5ad7fbba18b4142817767dbf&scene=27#wechat_redirect)
 
 强网竞赛是面向高等院校和国内信息安全企业的国家级赛事，旨在通过高对抗的竞技比赛，发现锻造网络安全领域优秀人才，提高国家网络安全保障能力，提升全民网络安全意识。
 
@@ -77,19 +77,6 @@
 ---
 
 
-### [胖哈勃](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2OTUzMzg3Ng==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2OTUzMzg3Ng==)
-
-[:camera_flash:【2022-06-30 17:40:03】](https://mp.weixin.qq.com/s?__biz=MzI2OTUzMzg3Ng==&mid=2247498507&idx=1&sn=4b21bf3c8c7be7c10cef5da6c5a5ee76&chksm=eadc6cd0ddabe5c652786e21bea6d94ec95f5927316ae4971bd7aeed3c1859ebd65580ec4412&key=0a3ea572de4638da8856d73f9e2524a099d01eb58af5f8da87f4aaaa024dff27f929b69c87bd62778199f91a5c3f1d097ac3cb90d03c62e2e3c51fb4e067075f82948f7dddab8e0d965cf8b1e4247fd1aeca8d72a41bdacf0d080e46418dbf8d913b98dae42ed41b440693d8da1cc2b6808bb5d12ec1cdb059d071092d875413&ascene=51&uin=MTA3Mzc3OTIzNQ%3D%3D&devicetype=Windows+Server+2016+x64&version=6307001e&lang=zh_CN&session_us=gh_2e9e965bad75&exportkey=AS%2BsvCm51daJ6gwAxLK7xlQ%3D&acctmode=0&pass_ticket=kgmmNkWe3Xfn0PnQ7eskJUnu278WdGTEHzGoi6isiSC4p%2BghP2oTS6w21LhblLeT&wx_header=0&fontgear=2&scene=27#wechat_redirect)
-
-1990年，哈勃望远镜（Hubble Space Telescope）发射升空，开启了人类对宇宙空间的崭新探索。 现在，Pwnhub的出现，将引领那些对网络安全感兴趣的人们探索“0 1”世界中的无限奥秘。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_2e9e965bad75" alt="" />
-
----
-
-
 ### [XPLAN](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MDY1ODU2Mw==)
 
 [:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MDY1ODU2Mw==)
@@ -99,6 +86,19 @@
 X是未知，更是无限，邀您一道创造、见证和实现X-Plan，北斗逐光，安全有恒，未来无界，共创数字安全未来！
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_b0a5876d02ea" alt="" />
+
+---
+
+
+### [胖哈勃](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2OTUzMzg3Ng==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2OTUzMzg3Ng==)
+
+[:camera_flash:【2022-06-30 17:40:03】](https://mp.weixin.qq.com/s?__biz=MzI2OTUzMzg3Ng==&mid=2247498507&idx=1&sn=4b21bf3c8c7be7c10cef5da6c5a5ee76&chksm=eadc6cd0ddabe5c652786e21bea6d94ec95f5927316ae4971bd7aeed3c1859ebd65580ec4412&key=0a3ea572de4638da8856d73f9e2524a099d01eb58af5f8da87f4aaaa024dff27f929b69c87bd62778199f91a5c3f1d097ac3cb90d03c62e2e3c51fb4e067075f82948f7dddab8e0d965cf8b1e4247fd1aeca8d72a41bdacf0d080e46418dbf8d913b98dae42ed41b440693d8da1cc2b6808bb5d12ec1cdb059d071092d875413&ascene=51&uin=MTA3Mzc3OTIzNQ%3D%3D&devicetype=Windows+Server+2016+x64&version=6307001e&lang=zh_CN&session_us=gh_2e9e965bad75&exportkey=AS%2BsvCm51daJ6gwAxLK7xlQ%3D&acctmode=0&pass_ticket=kgmmNkWe3Xfn0PnQ7eskJUnu278WdGTEHzGoi6isiSC4p%2BghP2oTS6w21LhblLeT&wx_header=0&fontgear=2&scene=27#wechat_redirect)
+
+1990年，哈勃望远镜（Hubble Space Telescope）发射升空，开启了人类对宇宙空间的崭新探索。 现在，Pwnhub的出现，将引领那些对网络安全感兴趣的人们探索“0 1”世界中的无限奥秘。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_2e9e965bad75" alt="" />
 
 ---
 
