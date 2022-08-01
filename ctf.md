@@ -27,9 +27,9 @@
 
 ### [强网竞赛](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjY3NDQ2Ng==)
 
-[:chart_with_upwards_trend:【0/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjY3NDQ2Ng==)
+[:chart_with_upwards_trend:【0/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjY3NDQ2Ng==)
 
-[:camera_flash:【2022-07-30 21:22:18】](https://mp.weixin.qq.com/s?__biz=Mzg4MjY3NDQ2Ng==&mid=2247485416&idx=1&sn=4ff1b486c1ee07774b73d45d94761024&chksm=cf5259a5f825d0b34645711bedcf51377cd2e636d46ec785603b5ad7fbba18b4142817767dbf&scene=27#wechat_redirect)
+[:camera_flash:【2022-07-31 22:39:50】](https://mp.weixin.qq.com/s?__biz=Mzg4MjY3NDQ2Ng==&mid=2247485435&idx=1&sn=3c0de2400a862621e08ae69a2b881d00&chksm=cf5259b6f825d0a0b5eae271f3a65fb498aaf96c3c408559bf0bbfb54c0a6075046732ba5b81&scene=27#wechat_redirect)
 
 强网竞赛是面向高等院校和国内信息安全企业的国家级赛事，旨在通过高对抗的竞技比赛，发现锻造网络安全领域优秀人才，提高国家网络安全保障能力，提升全民网络安全意识。
 
@@ -66,7 +66,7 @@
 
 ### [XCTF联赛](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
 
-[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
+[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
 
 [:camera_flash:【2022-07-19 18:00:46】](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247507287&idx=1&sn=960f524d4064e1a0ebf5d501f0d77c97&chksm=a6872f6d91f0a67bf19000602fe889ee2e7b325d2fa4608ae3e6351a8f013a8d13537eaca3ef&scene=27&key=00d65dfbf652ec00286f03975ab77252e5431242e743ea3035824fba2f3f38b59a6b09014a5577565842e5da1119fc7e2b01a01af4514283c5dd174481a99c6b2216ef4e0014a52a5078f3571481bd80ab2ce4b6b5ba089abe34dc885ebec71313c07074e5263f89180dd2e5082f5769c919856823863a2103f5033a324dc570&ascene=15&uin=MzgxODQ4MjMz&devicetype=Windows+Server+2016+x64&version=6307001e&lang=zh_CN&session_us=gh_d70902412103&exportkey=A9mruk9xYwrSFnuHJCAf%2Bow%3D&acctmode=0&pass_ticket=zQDqNW7g2PBAKOwYFLlPKXBnJwjImAfAGKGk32OweaKH9OajfamC7II8t6DSS9Xd&wx_header=0&fontgear=2&scene=27#wechat_redirect)
 

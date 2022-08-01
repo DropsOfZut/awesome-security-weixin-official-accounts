@@ -1,7 +1,7 @@
 
 ### [大学生网络安全尖锋训练营](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
 
-[:chart_with_upwards_trend:【0/35/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
+[:chart_with_upwards_trend:【0/34/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
 
 [:camera_flash:【2022-07-28 23:21:29】](https://mp.weixin.qq.com/s?__biz=MzUzODkwMDMxNA==&mid=2247503388&idx=1&sn=c9c4ec0d23138405f45a96e5272f5170&chksm=fad22c29cda5a53fd0e2ddb9ea7518a85442bc3d7f64b3c0021034b619273be483f94cf07eab&scene=27#wechat_redirect)
 
@@ -14,7 +14,7 @@
 
 ### [东塔网络安全学院](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMzAyMDAwMQ==)
 
-[:chart_with_upwards_trend:【0/16/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMzAyMDAwMQ==)
+[:chart_with_upwards_trend:【0/15/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMzAyMDAwMQ==)
 
 [:camera_flash:【2022-07-28 17:00:09】](https://mp.weixin.qq.com/s?__biz=MzkwMzAyMDAwMQ==&mid=2247503183&idx=1&sn=ba315ce885b0a75ea4701c742db33b84&chksm=c09e21c1f7e9a8d75303bfa416d05a1ec7ef856313cfadbc9f433cb8bb8ce27fed3fdce8b7e7&scene=27#wechat_redirect)
 
