@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【0/45/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NDY1MDc2Mg==)
 
-[:camera_flash:【2022-07-31 09:09:35】](https://mp.weixin.qq.com/s?__biz=Mzg2NDY1MDc2Mg==&mid=2247491979&idx=1&sn=35f86e9198bfa199b312c80d3fa7e8b7&chksm=ce64b2eef9133bf859918569356d75b30b9b027d2da5f1d00fac8c60a207798091d5d8c6c404&scene=27#wechat_redirect)
+[:camera_flash:【2022-08-01 09:09:56】](https://mp.weixin.qq.com/s?__biz=Mzg2NDY1MDc2Mg==&mid=2247492181&idx=1&sn=09d5151f2027b52ab9ce494e2b130f73&chksm=ce64b130f9133826ccdb87cfaeb519d9eb08eff2d84dc871ba021131737a974638e34cc8590e&scene=27#wechat_redirect)
 
 专注于学习网络安全
 
@@ -16,7 +16,7 @@
 
 [:chart_with_upwards_trend:【15/19/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
 
-[:camera_flash:【2022-07-29 12:00:49】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247496942&idx=1&sn=26f97457069a43d17d2dbba449863048&chksm=e9d33f0cdea4b61ae6a74fd41ebbdb556cca81b0afed2e8b7a28718eee5299c7db00e58d7c0a&scene=27#wechat_redirect)
+[:camera_flash:【2022-08-01 12:00:25】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247496953&idx=1&sn=1f19b59e7e3333c84a4d20f4a7ad931e&chksm=e9d33f1bdea4b60da469657c250fe991ea1a7d6bb470422e9ec82e7f509fc77efc3cc39ca22f&scene=27#wechat_redirect)
 
 字节跳动的技术实践分享
 
@@ -27,7 +27,7 @@
 
 ### [GoCN](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4ODg0NDkzOA==)
 
-[:chart_with_upwards_trend:【13/19/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4ODg0NDkzOA==)
+[:chart_with_upwards_trend:【13/18/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4ODg0NDkzOA==)
 
 [:camera_flash:【2022-07-27 08:00:37】](https://mp.weixin.qq.com/s?__biz=MzA4ODg0NDkzOA==&mid=2247503721&idx=1&sn=297eae9a620a2664fc4c524c00af26f6&chksm=9021708ca756f99a3ffb93f93ad06b4d4f079061d04c0a8154f9f7c9890b16478c09b0e4e9db&scene=27#wechat_redirect)
 
@@ -68,7 +68,7 @@
 
 [:chart_with_upwards_trend:【6/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NzE4MDE2NA==)
 
-[:camera_flash:【2022-07-27 18:33:03】](https://mp.weixin.qq.com/s?__biz=Mzk0NzE4MDE2NA==&mid=2247486264&idx=1&sn=683db11f412ea21cb81371504b82015d&chksm=c37b8cd3f40c05c597def9047249396cc528c5ed6462442fe373bf5f97631d255ca014032d99&scene=27#wechat_redirect)
+[:camera_flash:【2022-08-01 16:51:01】](https://mp.weixin.qq.com/s?__biz=Mzk0NzE4MDE2NA==&mid=2247486269&idx=1&sn=de94725d8b4df964ea69663be25eecc2&chksm=c37b8cd6f40c05c098ee2bd56cba4b7350cd122106ce4d674dbb5d47de85407bf66ba802cd62&scene=27#wechat_redirect)
 
 360 网络空间测绘系统（QUAKE) 是 360 网络安全响应中心（360-CERT）自主设计研发的全球网络空间测绘系统，能够对全球 IPv4、IPv6 地址进行持续性探测，实时感知全球网络空间中各类资产并发现其安全风险。
 
@@ -103,6 +103,19 @@ OPPO在大数据、人工智能、云技术等领域的技术干货及技术活�
 ---
 
 
+### [安全学术圈](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
+
+[:chart_with_upwards_trend:【5/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
+
+[:camera_flash:【2022-08-01 08:30:40】](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247488095&idx=1&sn=0fd5d1cf2e5b3da42d9a8953c516ae46&chksm=fe2eedd4c95964c24ad6722fdfe492e1bf9431160bca839a9133999a07844bd6b06bedf292d4&scene=27#wechat_redirect)
+
+分享安全方面的论文写作、会议发表、基金申请方面的资料。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_cbda1fb027bf" alt="" />
+
+---
+
+
 ### [爱奇艺技术产品团队](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0MjczMjM2NA==)
 
 [:chart_with_upwards_trend:【1/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0MjczMjM2NA==)
@@ -116,24 +129,11 @@ OPPO在大数据、人工智能、云技术等领域的技术干货及技术活�
 ---
 
 
-### [安全学术圈](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
-
-[:chart_with_upwards_trend:【4/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
-
-[:camera_flash:【2022-07-27 08:30:10】](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247488081&idx=1&sn=b4af64dd92a3a2f2dc3d5439b935dc1c&chksm=fe2eeddac95964ccfde27e6260bdd3e01fec74174fe5e8bff85101fc380527be4bef10285721&scene=27#wechat_redirect)
-
-分享安全方面的论文写作、会议发表、基金申请方面的资料。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_cbda1fb027bf" alt="" />
-
----
-
-
 ### [安技汇](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMTM4MTM2MQ==)
 
 [:chart_with_upwards_trend:【1/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMTM4MTM2MQ==)
 
-[:camera_flash:【2022-07-30 18:57:02】](https://mp.weixin.qq.com/s?__biz=MzkxMTM4MTM2MQ==&mid=2247483809&idx=1&sn=bf369e7030a435e849c37f49a38beaf8&chksm=c11c47bff66bcea99de34c2731ba3d97d10a8a757161a993eb79d3f94e544934a863ee5858d9&scene=27#wechat_redirect)
+[:camera_flash:【2022-08-01 09:30:42】](https://mp.weixin.qq.com/s?__biz=MzkxMTM4MTM2MQ==&mid=2247483819&idx=1&sn=dfc9876a9ab838f1f77fe3e62e5a339d&chksm=c11c47b5f66bcea3e4bbb23a13b700e78fac14a7defcbb54b4a4a0b8369c8782050aefebb5b1&scene=27#wechat_redirect)
 
 智能安全运营、ATT&amp;CK知识图谱开源落地、安全防护能力评估
 

@@ -1,9 +1,9 @@
 
 ### [商密君](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
 
-[:chart_with_upwards_trend:【0/119/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
+[:chart_with_upwards_trend:【0/115/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
 
-[:camera_flash:【2022-07-31 16:51:22】](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247576875&idx=1&sn=3bff66c2f9034f15db02353b4a205ba4&chksm=ec57bd70db20346646d1e8611b812159fe1e2ace38f39b8e7d7ff6384a4535142e4d98697f4d&scene=27#wechat_redirect)
+[:camera_flash:【2022-08-01 14:00:25】](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247576997&idx=1&sn=67d41fa4c91fc14df3b0aa690b25061d&chksm=ec57bdfedb2034e8c5b3e4b349fbaa6ba7e25a7285f0db914a825af63beae2ce3b63f1cd80c0&scene=27#wechat_redirect)
 
 商密君是全国密码行业头部公众号，旨在宣传推广《密码法》，普及商用密码知识，解读密码政策，分享商用密码行业的最新动态，为密码产业产学研用做好宣传服务，连接密码全行业精英，推动密码技术在数字经济各行业的应用和创新。
 
@@ -14,7 +14,7 @@
 
 ### [全栈网络空间安全](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
 
-[:chart_with_upwards_trend:【0/55/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
+[:chart_with_upwards_trend:【0/53/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
 
 [:camera_flash:【2022-07-31 10:35:56】](https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247503325&idx=1&sn=9479b92f966be0598a9f116ade6e1b30&chksm=cf3d7110f84af8065398ee225f0e2eeb1c1919c5a69f2a54f29c93d54c96aa0f71af86121645&scene=27#wechat_redirect)
 
@@ -27,7 +27,7 @@
 
 ### [数世咨询](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
 
-[:chart_with_upwards_trend:【13/43/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
+[:chart_with_upwards_trend:【12/41/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
 
 [:camera_flash:【2022-07-31 23:30:28】](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247494460&idx=1&sn=97e924f743c1839211ec49abeb65d2ec&chksm=c1449981f63310970775186cf89fca3570d49f7387778cf73cdf9b32bd51de8a72a3931a78f5&scene=27#wechat_redirect)
 
@@ -42,7 +42,7 @@
 
 [:chart_with_upwards_trend:【0/22/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
 
-[:camera_flash:【2022-07-29 17:31:39】](https://mp.weixin.qq.com/s?__biz=MzU0Mzk0NDQyOA==&mid=2247502099&idx=1&sn=a1c5c2ba57b62c56850d45a294c03ea0&chksm=fb013290cc76bb8648f372ddbacb32a11a7b9510a57acea4f0c6e349a3ce6464aac8f2f67f6c&scene=27&key=642d5d9839c603c64a7f164f8dadd4215a63c59afa171aa144beaed76eb485537d56b46c76ed155941f424918b430903b926f201556cf1db52feef88cf3d0782527c982249aac3fdc177b55559417b1b789be05273a69db96459e683c93cdb9755a9da50ffbe0f593a8520c1c135c128f0b8643b6fbdde1d70ff113f383c2635&ascene=15&uin=MTA3Mzc3OTIzNQ%3D%3D&devicetype=Windows+Server+2016+x64&version=6307001e&lang=zh_CN&session_us=gh_fa60c1bec540&exportkey=ATGVabM%2FD%2FAo7dIxTfFuqBI%3D&acctmode=0&pass_ticket=sThVqHOe%2BwliL6ZP3pzEwJPw4UuJHHWjyNc%2BCDWKVE%2BrnJPr39Ib7Df1bqeV5bRL&wx_header=0&fontgear=2&scene=27#wechat_redirect)
+[:camera_flash:【2022-08-01 10:37:37】](https://mp.weixin.qq.com/s?__biz=MzU0Mzk0NDQyOA==&mid=2247502121&idx=1&sn=3b0319a3acf38697b3a0276f274342fa&chksm=fb0132aacc76bbbc78133fffe2bea2c0f93d98ace15985725fa3fa217dff019a6d1bdb2593af&scene=27#wechat_redirect)
 
 深圳市网络与信息安全行业协会（SNISA），是深圳市网络与信息安全行业的权威组织，是中国网络安全审查技术与认证中心（CCRC）在深圳唯一授权工作站，是经深圳市人力资源和社会保障局核准，开展网络空间安全工程技术专业职称评审工作的社会组织。
 
@@ -107,7 +107,7 @@ vivo全新的安全品牌，有人文温度的科技新媒体，致力于让亿�
 
 [:chart_with_upwards_trend:【1/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
 
-[:camera_flash:【2022-07-26 09:24:15】](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247523847&idx=1&sn=ef4d657c26595f668ea434d6e18ea6e1&chksm=fa6be776cd1c6e605a6bafb60272dfe228367d33c2c8a40635d02cdb4a3619a0f4e3d63f5b64&scene=27#wechat_redirect)
+[:camera_flash:【2022-08-01 09:57:18】](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247523849&idx=1&sn=11eb9c73941bb711140b67de6f9ad283&chksm=fa6be778cd1c6e6eb17ebea0aeec71c50163ad82890751a6d703c4285a42c31ecd1238742a4f&scene=27#wechat_redirect)
 
 安全教程\\高质量文章\\面试经验分享，尽在#掌控安全EDU#
 
@@ -161,7 +161,7 @@ OWASP中国，SecZone互联网安全研究中心官方平台
 
 [:camera_flash:【2022-07-23 14:03:36】](https://mp.weixin.qq.com/s?__biz=MzIxNzUxNzA2NQ==&mid=2247494739&idx=1&sn=75d45eb6ab1965ad361405b611fbaa27&chksm=97fa3135a08db823bfed90e3adb086bd640eccfce8e132103db877bbdeeceec59bfdcaecb738&scene=27#wechat_redirect)
 
-零信任和安全架构传道者。专注于解析国外先进网络安全体系，为国内军政企首席安全官提供参考。帐号主体为柯善学博士，现任职360政企安全集团产品创新部。自2020年7月起，本订阅号只做原创，其中文章观点，不代表所在公司立场。谢谢关注！
+零信任和安全架构传道者。专注于解析国外先进网络安全体系，含零信任、数据安全、美军安全体系等。帐号主体为柯善学博士，现任职360。当前，本订阅号只做原创。谢绝商务合作与宣传推广。谢谢关注！
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_3290c66b9669" alt="" />
 
@@ -216,6 +216,19 @@ OWASP中国，SecZone互联网安全研究中心官方平台
 持续关注企业与信息安全建设，分享精选干货。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4947400a6ef2" alt="" />
+
+---
+
+
+### [SecOps急行军](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Mjc5MDQ3NA==)
+
+[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Mjc5MDQ3NA==)
+
+[:camera_flash:【2022-07-31 07:31:30】](https://mp.weixin.qq.com/s?__biz=MjM5Mjc5MDQ3NA==&mid=2652056212&idx=1&sn=a4c8e792a76638fc6b7d8424594ace20&chksm=bd4768318a30e12720bad2478e6b3181aee386b4edf06cfac8ca08dc714bd861bbf250abce67&scene=27#wechat_redirect)
+
+安全和运维不分家，要两手抓，两手硬。Security：安全建设哪有什么圣杯，无非是日拱一卒的心态和对解决问题的执拗。Operation：只要不断地解决根源问题，服务质量就一定会得到提升。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_390493bef72f" alt="" />
 
 ---
 
@@ -411,19 +424,6 @@ OWASP中国，SecZone互联网安全研究中心官方平台
 生活工作上努力成为最好自己的各类感想；企业信息安全建设的趋势和方向随笔。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ff60192713b6" alt="" />
-
----
-
-
-### [SecOps急行军](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Mjc5MDQ3NA==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Mjc5MDQ3NA==)
-
-[:camera_flash:【2022-07-31 07:31:30】](https://mp.weixin.qq.com/s?__biz=MjM5Mjc5MDQ3NA==&mid=2652056212&idx=1&sn=a4c8e792a76638fc6b7d8424594ace20&chksm=bd4768318a30e12720bad2478e6b3181aee386b4edf06cfac8ca08dc714bd861bbf250abce67&scene=27#wechat_redirect)
-
-安全和运维不分家，要两手抓，两手硬。Security：安全建设哪有什么圣杯，无非是日拱一卒的心态和对解决问题的执拗。Operation：只要不断地解决根源问题，服务质量就一定会得到提升。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_390493bef72f" alt="" />
 
 ---
 

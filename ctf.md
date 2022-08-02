@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【0/19/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
 
-[:camera_flash:【2022-07-29 15:21:42】](https://mp.weixin.qq.com/s?__biz=MzIwMzU0NDY5OA==&mid=2247493026&idx=1&sn=ac0d0009ba798c3367da85fc394f77d2&chksm=96cf64b7a1b8eda1b47205094da1d9354dc516cf3632f1a62911cfd0228b03de4390a1688a53&scene=27#wechat_redirect)
+[:camera_flash:【2022-08-01 15:24:59】](https://mp.weixin.qq.com/s?__biz=MzIwMzU0NDY5OA==&mid=2247493088&idx=1&sn=abeab45e3bd2ffb70142211167067c0f&chksm=96cf64f5a1b8ede3ec8a47f5b1a42fbb3e2b84c49e6251ce2be855082582c52d6613c5fb85e5&scene=27#wechat_redirect)
 
 寰宇卫士综合安全咨询、安全服务、解决方案、认证培训、产品研发等信息安全多元化产业链为一体。
 
@@ -66,9 +66,9 @@
 
 ### [XCTF联赛](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
 
-[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
+[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
 
-[:camera_flash:【2022-07-19 18:00:46】](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247507287&idx=1&sn=960f524d4064e1a0ebf5d501f0d77c97&chksm=a6872f6d91f0a67bf19000602fe889ee2e7b325d2fa4608ae3e6351a8f013a8d13537eaca3ef&scene=27&key=00d65dfbf652ec00286f03975ab77252e5431242e743ea3035824fba2f3f38b59a6b09014a5577565842e5da1119fc7e2b01a01af4514283c5dd174481a99c6b2216ef4e0014a52a5078f3571481bd80ab2ce4b6b5ba089abe34dc885ebec71313c07074e5263f89180dd2e5082f5769c919856823863a2103f5033a324dc570&ascene=15&uin=MzgxODQ4MjMz&devicetype=Windows+Server+2016+x64&version=6307001e&lang=zh_CN&session_us=gh_d70902412103&exportkey=A9mruk9xYwrSFnuHJCAf%2Bow%3D&acctmode=0&pass_ticket=zQDqNW7g2PBAKOwYFLlPKXBnJwjImAfAGKGk32OweaKH9OajfamC7II8t6DSS9Xd&wx_header=0&fontgear=2&scene=27#wechat_redirect)
+[:camera_flash:【2022-08-01 12:00:46】](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247507412&idx=1&sn=a8eb1bfbec4dea0bbd2461f0ebdca6aa&chksm=a6872fee91f0a6f8e22246e174cd414eb1430963d2b2ef73cbfed958e11e174fff4c22e33eda&scene=27#wechat_redirect)
 
 国内最早、亚洲最大的网络攻防联赛。
 
