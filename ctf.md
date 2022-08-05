@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【0/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
 
-[:camera_flash:【2022-08-03 16:15:44】](https://mp.weixin.qq.com/s?__biz=MzIwMzU0NDY5OA==&mid=2247493146&idx=1&sn=9943d5c7f481e7fe1bf28327653e9de2&chksm=96cf670fa1b8ee192f01403e0b0ed378ab9c184a1130358d20657d52d87b35ee6458f0748722&scene=27#wechat_redirect)
+[:camera_flash:【2022-08-04 16:10:59】](https://mp.weixin.qq.com/s?__biz=MzIwMzU0NDY5OA==&mid=2247493208&idx=1&sn=db3264ed3a781d25441a268e26577469&chksm=96cf674da1b8ee5bc4094bbcb1d1b72d892ea9c007183aa7c94e29a3c7887f62729f65671898&scene=27#wechat_redirect)
 
 寰宇卫士综合安全咨询、安全服务、解决方案、认证培训、产品研发等信息安全多元化产业链为一体。
 
@@ -53,7 +53,7 @@
 
 ### [春秋伽玛](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
 
-[:chart_with_upwards_trend:【4/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
+[:chart_with_upwards_trend:【5/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
 
 [:camera_flash:【2022-08-03 11:55:10】](https://mp.weixin.qq.com/s?__biz=MzkyNDA5NjgyMg==&mid=2247494050&idx=1&sn=e74ede3531ff1c6530bb41c7703a9ea7&chksm=c1d9a9fbf6ae20edaa0b298f83af169e492e3323c843bb04c194e589995a267bdebb759bf068&scene=27#wechat_redirect)
 
@@ -66,7 +66,7 @@
 
 ### [XCTF联赛](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
 
-[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
+[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
 
 [:camera_flash:【2022-08-01 12:00:46】](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247507412&idx=1&sn=a8eb1bfbec4dea0bbd2461f0ebdca6aa&chksm=a6872fee91f0a6f8e22246e174cd414eb1430963d2b2ef73cbfed958e11e174fff4c22e33eda&scene=27#wechat_redirect)
 
@@ -81,7 +81,7 @@
 
 [:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MDY1ODU2Mw==)
 
-[:camera_flash:【2022-07-12 19:30:57】](https://mp.weixin.qq.com/s?__biz=Mzg5MDY1ODU2Mw==&mid=2247486380&idx=1&sn=3b31a1d9c8538e2ae5a1eb01e064f012&chksm=cfd801c0f8af88d6b2d0fc45d557ced74f0436dcf31ad315828abae04907d204ddd9fb3e65e5&scene=27&key=e1ce1dd8aaf91119ee52e7f500551df71f26cdb1ad31194aaa9e2b48fb2eb6150882a51ac607482e05f2acc83354c1c2fb49b69df79fbea09aab191c726f4b881c4362545fec493b17ee2e7967ee8ef75e2f723cbec8742f85d8b521ae01ca4f091eb739a29ad04968e81fff4e599c5ae0b10f41d7bd7cb08beb7a33209b5acf&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+Server+2016+x64&version=6307001e&lang=zh_CN&session_us=gh_be4f21d557c0&exportkey=Aw3JXIkmJZNlFrOF9qTkVLM%3D&acctmode=0&pass_ticket=Lf09nCLuCAdgF%2Bf9KfvZMvusmNzQK9iHfoO4mdDMXBwdD5s7eMIQhgTn%2FvAJ4AGv&wx_header=0&fontgear=2&scene=27#wechat_redirect)
+[:camera_flash:【2022-08-04 18:00:15】](https://mp.weixin.qq.com/s?__biz=Mzg5MDY1ODU2Mw==&mid=2247486437&idx=1&sn=05bef20ff9f440590818e52b0ffd635c&chksm=cfd80189f8af889f203a46847e345143244459a048a661115ef89644cfa5a9b40453f11c76d3&scene=27#wechat_redirect)
 
 X是未知，更是无限，邀您一道创造、见证和实现X-Plan，北斗逐光，安全有恒，未来无界，共创数字安全未来！
 
