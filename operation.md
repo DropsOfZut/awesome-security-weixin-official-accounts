@@ -1,7 +1,7 @@
 
 ### [Linux中国](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ4MjYwMQ==)
 
-[:chart_with_upwards_trend:【96/107/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ4MjYwMQ==)
+[:chart_with_upwards_trend:【93/102/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ4MjYwMQ==)
 
 [:camera_flash:【2022-08-04 20:47:00】](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664661688&idx=4&sn=948644fcfbbe89179cbabcd0c6bec242&chksm=bdcfb9fe8ab830e8b2240e236801e516dc4505dc5a9b65966053489ee29ec80ed1a906dcacc1&scene=27&key=34dffaff59c91f39158096d94b52ba23faa2bec1d7bab62c9b3a270a852cfb0b962ec1150f4fe0e202da019a05a39f9e7203a0ad448b27dec3170896827b270c6177c3fa67761aa1d0991cb0ca303e5c6ed4d77dfca8a0444d2c7f59d646959079ac10d21e659c9d01cc8be6ce358ebf3f575ff51741debd376cf7a44f4a14f2&ascene=15&uin=MTA3Mzc3OTIzNQ%3D%3D&devicetype=Windows+Server+2016+x64&version=63070517&lang=zh_CN&session_us=gh_b9dc2f1a0f41&exportkey=AZnWPQu%2FM%2FPkxK9lD7Oy5Gk%3D&acctmode=0&pass_ticket=KOh1GwPxUz2UuONksGyrKqnZrNy3wgAvx3HUjLJRhiKJaQuFe%2B7LHXE36ZqNv550&wx_header=0&fontgear=2&scene=27#wechat_redirect)
 
@@ -14,7 +14,7 @@
 
 ### [系统安全运维](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NjE0NDc5OQ==)
 
-[:chart_with_upwards_trend:【0/77/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NjE0NDc5OQ==)
+[:chart_with_upwards_trend:【0/74/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NjE0NDc5OQ==)
 
 [:camera_flash:【2022-08-05 08:08:43】](https://mp.weixin.qq.com/s?__biz=Mzk0NjE0NDc5OQ==&mid=2247506855&idx=1&sn=563506565571f1784ad1cb24008bcc06&chksm=c30808d7f47f81c11b8c5f13ce3a0cc14053a77333a251cd6b2d6ba40dc9296074ae3ffd055e&scene=27#wechat_redirect)
 
