@@ -1,9 +1,9 @@
 
 ### [大学生网络安全尖锋训练营](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
 
-[:chart_with_upwards_trend:【0/34/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
+[:chart_with_upwards_trend:【0/36/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
 
-[:camera_flash:【2022-08-05 14:17:12】](https://mp.weixin.qq.com/s?__biz=MzUzODkwMDMxNA==&mid=2247503465&idx=1&sn=a1ce9bc0540b9108764b65fbb78c7dcb&chksm=fad22c5ccda5a54aa2dedcc056dd7eef264595f31437d82ecd7fc1192a004d307c15b3023551&scene=27#wechat_redirect)
+[:camera_flash:【2022-08-07 13:27:59】](https://mp.weixin.qq.com/s?__biz=MzUzODkwMDMxNA==&mid=2247503509&idx=1&sn=fe89bf9d4755b7bc5f5d59139119105b&chksm=fad22ca0cda5a5b6659b6dcf5f3c7128673c442dcba5ee2d57a8d7c8b5fbb6469864f0fbda35&scene=27&key=e8677526fb452b6dd7307732004240d16eff3d3207ade0174b228caee1c8250f345714c1ce91c5245847492abb126201f768e4b2c0a308fb81e240ea2729f00b5ddcf14acd62515eb133ff4820fb80c6897e03f421dee90b15e972d4b87a3826f16b4dcedd966ead565ba207cebb2426ae574a04180dfccefc53f292d7d57d88&ascene=0&uin=NTY2NTA4NjQ%3D&devicetype=Windows+10+x64&version=6307051f&lang=zh_CN&exportkey=AyyM7rlXlrfIoI2%2FL1dBwj0%3D&acctmode=0&pass_ticket=3vGf%2BWWx7rzz7xwK0ouzVmdbzmxqwfDGivj1uU6vo3L00nfXwAduLJd%2Ff72OVfz2&wx_header=0&fontgear=2&scene=27#wechat_redirect)
 
 百所高校、百家用人单位、百名尖锋导师，携手打造定制化人才培养模式，通过导师制职业规划和封闭式岗位实训，补足知识短板、提高实战能力，培养创新型、实用型网络安全尖锋人才。
 
@@ -27,7 +27,7 @@
 
 ### [启明星辰网络空间安全学院](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
 
-[:chart_with_upwards_trend:【0/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
+[:chart_with_upwards_trend:【0/13/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
 
 [:camera_flash:【2022-08-05 16:16:55】](https://mp.weixin.qq.com/s?__biz=MzUzNDg0NTc1NA==&mid=2247492134&idx=1&sn=6022ce3ffaa36578c62ce7823f843315&chksm=fa8c2273cdfbab6538f0e07a61d81e8cb8a985067d6b3e786eb9cd71dd5a360c7bb6fb9521eb&scene=27#wechat_redirect)
 
