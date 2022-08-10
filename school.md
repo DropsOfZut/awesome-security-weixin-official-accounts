@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【0/36/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
 
-[:camera_flash:【2022-08-07 13:27:59】](https://mp.weixin.qq.com/s?__biz=MzUzODkwMDMxNA==&mid=2247503509&idx=1&sn=fe89bf9d4755b7bc5f5d59139119105b&chksm=fad22ca0cda5a5b6659b6dcf5f3c7128673c442dcba5ee2d57a8d7c8b5fbb6469864f0fbda35&scene=27&key=e8677526fb452b6dd7307732004240d16eff3d3207ade0174b228caee1c8250f345714c1ce91c5245847492abb126201f768e4b2c0a308fb81e240ea2729f00b5ddcf14acd62515eb133ff4820fb80c6897e03f421dee90b15e972d4b87a3826f16b4dcedd966ead565ba207cebb2426ae574a04180dfccefc53f292d7d57d88&ascene=0&uin=NTY2NTA4NjQ%3D&devicetype=Windows+10+x64&version=6307051f&lang=zh_CN&exportkey=AyyM7rlXlrfIoI2%2FL1dBwj0%3D&acctmode=0&pass_ticket=3vGf%2BWWx7rzz7xwK0ouzVmdbzmxqwfDGivj1uU6vo3L00nfXwAduLJd%2Ff72OVfz2&wx_header=0&fontgear=2&scene=27#wechat_redirect)
+[:camera_flash:【2022-08-10 06:33:31】](https://mp.weixin.qq.com/s?__biz=MzUzODkwMDMxNA==&mid=2247503540&idx=1&sn=7bc2040928f9f6c24b1ea1ebbe27489f&chksm=fad22c81cda5a59731b5d450a06d3b8113d011dc4b8e90645566403f8c6433382a7cfdbac5d1&scene=27#wechat_redirect)
 
 百所高校、百家用人单位、百名尖锋导师，携手打造定制化人才培养模式，通过导师制职业规划和封闭式岗位实训，补足知识短板、提高实战能力，培养创新型、实用型网络安全尖锋人才。
 
@@ -81,24 +81,11 @@
 
 [:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4ODUyMjYyNg==)
 
-[:camera_flash:【2022-08-04 19:15:20】](https://mp.weixin.qq.com/s?__biz=Mzg4ODUyMjYyNg==&mid=2247485826&idx=1&sn=f5607b66b5ebc87b24041aefdee0474c&chksm=cff89b6ff88f12792a922f530880eae7478d0f55db48ce840ede512de4223b0e62df5322c2c0&scene=27#wechat_redirect)
+[:camera_flash:【2022-08-09 12:54:06】](https://mp.weixin.qq.com/s?__biz=Mzg4ODUyMjYyNg==&mid=2247485858&idx=1&sn=0bcf085ee0fc67e3b4e6dcb880dcde3c&chksm=cff89b4ff88f1259f145777db2c01310cff47e809cffdb385212c1e4f447f72c98236a898eeb&scene=27#wechat_redirect)
 
 河北网络安全高校联盟
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8937984657cd" alt="" />
-
----
-
-
-### [网络安全学生社团](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzNDcyMDM1MQ==)
-
-[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzNDcyMDM1MQ==)
-
-[:camera_flash:【2022-07-19 20:35:32】](https://mp.weixin.qq.com/s?__biz=MzIzNDcyMDM1MQ==&mid=2247483808&idx=1&sn=1bd1db1386338fa7bace4adfee42dd82&chksm=e8f35c90df84d586f016206fa58112326fbf4a78aabd06ffe70d71cc103763284085cc90acf6&scene=27&key=28aa97990e93c20c37e87da84b7af8562af57acb675d6e6f9e1547be64f9983dae87ab32e280c4811ceb77c7363e9b0fb2c181ba5e6a871e98b1dd2746de6a25347d873482fa493d2f28a8260289c3a170149f4f3e99e479a6fa03f4c925f5df6442058c9a083ae48ed72a8de0d93d87cdc915aa5175577aeb194682753b9ed4&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+Server+2016+x64&version=6307001e&lang=zh_CN&session_us=gh_e99b34134b06&exportkey=A16AQcLG1XXhZ%2Fb%2FYpf7r%2BE%3D&acctmode=0&pass_ticket=Lf09nCLuCAdgF%2Bf9KfvZMvusmNzQK9iHfoO4mdDMXBwdD5s7eMIQhgTn%2FvAJ4AGv&wx_header=0&fontgear=2&scene=27#wechat_redirect)
-
-校企合作网络安全学生社团
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f587b147a938" alt="" />
 
 ---
 
@@ -138,6 +125,19 @@
 山警网络空间安全实验室（简称：网安社）
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_544c8c38eeaf" alt="" />
+
+---
+
+
+### [网络安全学生社团](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzNDcyMDM1MQ==)
+
+[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzNDcyMDM1MQ==)
+
+[:camera_flash:【2022-07-19 20:35:32】](https://mp.weixin.qq.com/s?__biz=MzIzNDcyMDM1MQ==&mid=2247483808&idx=1&sn=1bd1db1386338fa7bace4adfee42dd82&chksm=e8f35c90df84d586f016206fa58112326fbf4a78aabd06ffe70d71cc103763284085cc90acf6&scene=27&key=28aa97990e93c20c37e87da84b7af8562af57acb675d6e6f9e1547be64f9983dae87ab32e280c4811ceb77c7363e9b0fb2c181ba5e6a871e98b1dd2746de6a25347d873482fa493d2f28a8260289c3a170149f4f3e99e479a6fa03f4c925f5df6442058c9a083ae48ed72a8de0d93d87cdc915aa5175577aeb194682753b9ed4&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+Server+2016+x64&version=6307001e&lang=zh_CN&session_us=gh_e99b34134b06&exportkey=A16AQcLG1XXhZ%2Fb%2FYpf7r%2BE%3D&acctmode=0&pass_ticket=Lf09nCLuCAdgF%2Bf9KfvZMvusmNzQK9iHfoO4mdDMXBwdD5s7eMIQhgTn%2FvAJ4AGv&wx_header=0&fontgear=2&scene=27#wechat_redirect)
+
+校企合作网络安全学生社团
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f587b147a938" alt="" />
 
 ---
 

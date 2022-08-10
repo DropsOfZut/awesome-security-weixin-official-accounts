@@ -1,7 +1,7 @@
 
 ### [商密君](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
 
-[:chart_with_upwards_trend:【0/95/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
+[:chart_with_upwards_trend:【0/91/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
 
 [:camera_flash:【2022-08-05 14:54:42】](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247577578&idx=1&sn=b570f9b35bd3ee6525ddea6a4ba90683&chksm=ec57bfb1db2036a746501b6df65e40e52e5dcd9056fd104faadfc2d60d6ad61caa7128b7ef59&scene=27#wechat_redirect)
 
@@ -14,9 +14,9 @@
 
 ### [全栈网络空间安全](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
 
-[:chart_with_upwards_trend:【0/53/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
+[:chart_with_upwards_trend:【0/51/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
 
-[:camera_flash:【2022-08-08 18:02:11】](https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247503485&idx=1&sn=82c923a3282f9b5d36f018e9200effe3&chksm=cf3d72b0f84afba6e3bf3096d9b240de39b22403ae973ce58b40a4e4eb8698d3d46844ecccf3&scene=27&key=e8677526fb452b6df143e96c880909da2ccd9ae8125cb700dd371cf82c0f112ea23edf826aa609ce232a89e9319fd34225e4ddfc41822e93995222c9b5c0ec3a5e176cf8533fef220f384a1428054aba3f4fda879fd03ca5ab859c0eacd382b7033757a715a13e2a07d84fa6e5f42165115b41d8f097899e8381a19733b71456&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+10+x64&version=6307051f&lang=zh_CN&session_us=gh_840004fd466e&exportkey=AzYMZ8cvWgllH6eL5rAhMMc%3D&acctmode=0&pass_ticket=3vGf%2BWWx7rzz7xwK0ouzVmdbzmxqwfDGivj1uU6vo3L00nfXwAduLJd%2Ff72OVfz2&wx_header=0&fontgear=2&scene=27#wechat_redirect)
+[:camera_flash:【2022-08-09 18:52:37】](https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247503487&idx=1&sn=9f2f1745aa05b82f40a840612d7b49db&chksm=cf3d72b2f84afba4907699d52dfd0816327bfff8f3aad2c7ade88579e67bbe439612dd7cff2a&scene=27#wechat_redirect)
 
 网络安全事件预警体系、事件检测、应急处置、追踪溯源、安全运营、红蓝对抗、HW行动、AWD竞赛，以及站在审计师的角度评估信息系统建设的有效性、完备性、安全性等。 欢迎有想法、乐于分享的具备互联网分享精神的安全人交流学习。
 
@@ -42,24 +42,11 @@
 
 [:chart_with_upwards_trend:【0/21/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
 
-[:camera_flash:【2022-08-08 17:08:53】](https://mp.weixin.qq.com/s?__biz=MzU0Mzk0NDQyOA==&mid=2247502629&idx=1&sn=5421e44dbd99ee9b9fa5ad49300be2bd&chksm=fb0130a6cc76b9b0dda127412c85883d8a743b8eb22df26e356de4dedb0f7a7c96ca004f6abb&scene=27#wechat_redirect)
+[:camera_flash:【2022-08-09 18:22:25】](https://mp.weixin.qq.com/s?__biz=MzU0Mzk0NDQyOA==&mid=2247502673&idx=1&sn=771da62513ed303923b823e677c5ce96&chksm=fb0130d2cc76b9c41d01d575a3d2461eca5a5ed8d1806a33d68f401f220cb3c514ecb4a52a1b&scene=27#wechat_redirect)
 
 深圳市网络与信息安全行业协会（SNISA），是深圳市网络与信息安全行业的权威组织，是中国网络安全审查技术与认证中心（CCRC）在深圳唯一授权工作站，是经深圳市人力资源和社会保障局核准，开展网络空间安全工程技术专业职称评审工作的社会组织。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_650442d8cad4" alt="" />
-
----
-
-
-### [君哥的体历](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MjQ1NTA4MA==)
-
-[:chart_with_upwards_trend:【3/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MjQ1NTA4MA==)
-
-[:camera_flash:【2022-08-09 00:01:04】](https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247488713&idx=1&sn=e79968b2aecde6b58c781603aa59d2a3&chksm=ea4bbe8edd3c3798da43f1b3fcf8e4314a77eb9c2a44cecd2c369ce7294f74b039be1aa2cdac&scene=27#wechat_redirect)
-
-闲暇时间，逼迫自己，记录分享体验与经历，不求正确统一，但求真、善、美。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_aa4d8db71365" alt="" />
 
 ---
 
@@ -73,6 +60,19 @@
 该账号由绿盟科技金融事业部维护，用于发布金融行业相关安全资讯等内容
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_de59bd871eb8" alt="" />
+
+---
+
+
+### [君哥的体历](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MjQ1NTA4MA==)
+
+[:chart_with_upwards_trend:【2/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MjQ1NTA4MA==)
+
+[:camera_flash:【2022-08-09 00:01:04】](https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247488713&idx=1&sn=e79968b2aecde6b58c781603aa59d2a3&chksm=ea4bbe8edd3c3798da43f1b3fcf8e4314a77eb9c2a44cecd2c369ce7294f74b039be1aa2cdac&scene=27#wechat_redirect)
+
+闲暇时间，逼迫自己，记录分享体验与经历，不求正确统一，但求真、善、美。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_aa4d8db71365" alt="" />
 
 ---
 
