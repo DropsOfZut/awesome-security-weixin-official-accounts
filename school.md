@@ -1,7 +1,7 @@
 
 ### [大学生网络安全尖锋训练营](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
 
-[:chart_with_upwards_trend:【0/36/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
+[:chart_with_upwards_trend:【0/37/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
 
 [:camera_flash:【2022-08-10 06:33:31】](https://mp.weixin.qq.com/s?__biz=MzUzODkwMDMxNA==&mid=2247503540&idx=1&sn=7bc2040928f9f6c24b1ea1ebbe27489f&chksm=fad22c81cda5a59731b5d450a06d3b8113d011dc4b8e90645566403f8c6433382a7cfdbac5d1&scene=27#wechat_redirect)
 
@@ -14,9 +14,9 @@
 
 ### [东塔网络安全学院](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMzAyMDAwMQ==)
 
-[:chart_with_upwards_trend:【0/15/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMzAyMDAwMQ==)
+[:chart_with_upwards_trend:【0/13/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMzAyMDAwMQ==)
 
-[:camera_flash:【2022-08-01 17:00:22】](https://mp.weixin.qq.com/s?__biz=MzkwMzAyMDAwMQ==&mid=2247503237&idx=1&sn=4232cf6647ce7a23e9545c9d77e6bd0d&chksm=c09e210bf7e9a81d7c903cd2e031e0285209209d16486c2a8fbc5b4ca982907c2f5d84f0ba64&scene=27&key=78fb1eae9cadd3bd83498ec8a3191716f308cc4ca2d813eecbf24bf384f924fac8af41a48990049bb26f2bd0278881bbeea772d004c4af425b590ac8fed2a19abab3c10a418645c3888944c8fb0df70087ad43356cc80c79552780285fc2a3e1e32aa0e8ad18448fbb90752f650372500a3983121912193b9b977a8b11a795b3&ascene=15&uin=MzgxODQ4MjMz&devicetype=Windows+Server+2016+x64&version=63070517&lang=zh_CN&session_us=gh_4762c773543c&exportkey=Ayme4eGuLt4srOOmi%2BqYD1g%3D&acctmode=0&pass_ticket=mLbhDIuysm0iWXUqMe%2BbGQA648CngVdBNniQjShG5ujxIFfZiKlKDNAYp0h%2FsHjo&wx_header=0&fontgear=2&scene=27#wechat_redirect)
+[:camera_flash:【2022-08-08 17:00:07】](https://mp.weixin.qq.com/s?__biz=MzkwMzAyMDAwMQ==&mid=2247503305&idx=1&sn=e42fda804d9dc247648fc50c2a8aa316&chksm=c09e2147f7e9a8517131b6c91abde6417b6b8f96742023f63ecc1cd72e4596f359b8c253aa96&scene=27#wechat_redirect)
 
 网络安全服务、技术特训、技术咨询、渗透测试服务
 
@@ -64,22 +64,9 @@
 ---
 
 
-### [浙大网安](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5NDczNDc4NA==)
-
-[:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5NDczNDc4NA==)
-
-[:camera_flash:【2022-08-02 16:22:44】](https://mp.weixin.qq.com/s?__biz=Mzg5NDczNDc4NA==&mid=2247490861&idx=1&sn=8309fd8c32ff0dfa3331af073c8d0d14&chksm=c01a4582f76dcc943ce3a5da3b3bbe4fe3dbfa79d8d7b06007c961eceb37c038e6b3c610710d&scene=27&key=e8677526fb452b6df315bda3499c4fa44212d2645c9121e1546b08d3dfe781ed42f9616b5118dd7246609425d39f90262bf9620b5504e095fd8bfffc4c571ce5ddd7130399f30fe782543e74ddccefdf8a633db9c46dfd71e8d6d37d8f891305e5aad518cf886532f8cd3ae7c9595dfd0cb7ab2cbb3d23b098cc840e70358a1e&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+Server+2016+x64&version=63070517&lang=zh_CN&session_us=gh_b37253e8f656&exportkey=A57BELiQIv0sVHf%2BXw1MmJo%3D&acctmode=0&pass_ticket=OKvoVdO37NxWmSa%2ByxGFH37QrDn01XDAxV%2Fe6PqFsxr%2FM2aNAZnNMTRCCMzpEEvU&wx_header=0&fontgear=2&scene=27#wechat_redirect)
-
-浙江大学网络空间安全学院/浙江大学网络空间安全研究中心
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e603b55057e7" alt="" />
-
----
-
-
 ### [河北网络安全高校联盟](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4ODUyMjYyNg==)
 
-[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4ODUyMjYyNg==)
+[:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4ODUyMjYyNg==)
 
 [:camera_flash:【2022-08-09 12:54:06】](https://mp.weixin.qq.com/s?__biz=Mzg4ODUyMjYyNg==&mid=2247485858&idx=1&sn=0bcf085ee0fc67e3b4e6dcb880dcde3c&chksm=cff89b4ff88f1259f145777db2c01310cff47e809cffdb385212c1e4f447f72c98236a898eeb&scene=27#wechat_redirect)
 
@@ -99,6 +86,19 @@
 分享网安干货技能，致力于实战网安技能人才培养
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_861ca8c2271b" alt="" />
+
+---
+
+
+### [浙大网安](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5NDczNDc4NA==)
+
+[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5NDczNDc4NA==)
+
+[:camera_flash:【2022-08-02 16:22:44】](https://mp.weixin.qq.com/s?__biz=Mzg5NDczNDc4NA==&mid=2247490861&idx=1&sn=8309fd8c32ff0dfa3331af073c8d0d14&chksm=c01a4582f76dcc943ce3a5da3b3bbe4fe3dbfa79d8d7b06007c961eceb37c038e6b3c610710d&scene=27&key=e8677526fb452b6df315bda3499c4fa44212d2645c9121e1546b08d3dfe781ed42f9616b5118dd7246609425d39f90262bf9620b5504e095fd8bfffc4c571ce5ddd7130399f30fe782543e74ddccefdf8a633db9c46dfd71e8d6d37d8f891305e5aad518cf886532f8cd3ae7c9595dfd0cb7ab2cbb3d23b098cc840e70358a1e&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+Server+2016+x64&version=63070517&lang=zh_CN&session_us=gh_b37253e8f656&exportkey=A57BELiQIv0sVHf%2BXw1MmJo%3D&acctmode=0&pass_ticket=OKvoVdO37NxWmSa%2ByxGFH37QrDn01XDAxV%2Fe6PqFsxr%2FM2aNAZnNMTRCCMzpEEvU&wx_header=0&fontgear=2&scene=27#wechat_redirect)
+
+浙江大学网络空间安全学院/浙江大学网络空间安全研究中心
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e603b55057e7" alt="" />
 
 ---
 
@@ -125,19 +125,6 @@
 山警网络空间安全实验室（简称：网安社）
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_544c8c38eeaf" alt="" />
-
----
-
-
-### [网络安全学生社团](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzNDcyMDM1MQ==)
-
-[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzNDcyMDM1MQ==)
-
-[:camera_flash:【2022-07-19 20:35:32】](https://mp.weixin.qq.com/s?__biz=MzIzNDcyMDM1MQ==&mid=2247483808&idx=1&sn=1bd1db1386338fa7bace4adfee42dd82&chksm=e8f35c90df84d586f016206fa58112326fbf4a78aabd06ffe70d71cc103763284085cc90acf6&scene=27&key=28aa97990e93c20c37e87da84b7af8562af57acb675d6e6f9e1547be64f9983dae87ab32e280c4811ceb77c7363e9b0fb2c181ba5e6a871e98b1dd2746de6a25347d873482fa493d2f28a8260289c3a170149f4f3e99e479a6fa03f4c925f5df6442058c9a083ae48ed72a8de0d93d87cdc915aa5175577aeb194682753b9ed4&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+Server+2016+x64&version=6307001e&lang=zh_CN&session_us=gh_e99b34134b06&exportkey=A16AQcLG1XXhZ%2Fb%2FYpf7r%2BE%3D&acctmode=0&pass_ticket=Lf09nCLuCAdgF%2Bf9KfvZMvusmNzQK9iHfoO4mdDMXBwdD5s7eMIQhgTn%2FvAJ4AGv&wx_header=0&fontgear=2&scene=27#wechat_redirect)
-
-校企合作网络安全学生社团
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f587b147a938" alt="" />
 
 ---
 
@@ -177,6 +164,19 @@
 欢迎加入齐鲁师范学院网络安全社团
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0c9ae293eb8e" alt="" />
+
+---
+
+
+### [网络安全学生社团](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzNDcyMDM1MQ==)
+
+[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzNDcyMDM1MQ==)
+
+[:camera_flash:【2022-07-19 20:35:32】](https://mp.weixin.qq.com/s?__biz=MzIzNDcyMDM1MQ==&mid=2247483808&idx=1&sn=1bd1db1386338fa7bace4adfee42dd82&chksm=e8f35c90df84d586f016206fa58112326fbf4a78aabd06ffe70d71cc103763284085cc90acf6&scene=27&key=28aa97990e93c20c37e87da84b7af8562af57acb675d6e6f9e1547be64f9983dae87ab32e280c4811ceb77c7363e9b0fb2c181ba5e6a871e98b1dd2746de6a25347d873482fa493d2f28a8260289c3a170149f4f3e99e479a6fa03f4c925f5df6442058c9a083ae48ed72a8de0d93d87cdc915aa5175577aeb194682753b9ed4&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+Server+2016+x64&version=6307001e&lang=zh_CN&session_us=gh_e99b34134b06&exportkey=A16AQcLG1XXhZ%2Fb%2FYpf7r%2BE%3D&acctmode=0&pass_ticket=Lf09nCLuCAdgF%2Bf9KfvZMvusmNzQK9iHfoO4mdDMXBwdD5s7eMIQhgTn%2FvAJ4AGv&wx_header=0&fontgear=2&scene=27#wechat_redirect)
+
+校企合作网络安全学生社团
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f587b147a938" alt="" />
 
 ---
 
