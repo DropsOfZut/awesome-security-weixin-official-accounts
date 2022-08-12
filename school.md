@@ -1,9 +1,9 @@
 
 ### [大学生网络安全尖锋训练营](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
 
-[:chart_with_upwards_trend:【0/37/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
+[:chart_with_upwards_trend:【0/36/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
 
-[:camera_flash:【2022-08-10 06:33:31】](https://mp.weixin.qq.com/s?__biz=MzUzODkwMDMxNA==&mid=2247503540&idx=1&sn=7bc2040928f9f6c24b1ea1ebbe27489f&chksm=fad22c81cda5a59731b5d450a06d3b8113d011dc4b8e90645566403f8c6433382a7cfdbac5d1&scene=27#wechat_redirect)
+[:camera_flash:【2022-08-12 04:02:18】](https://mp.weixin.qq.com/s?__biz=MzUzODkwMDMxNA==&mid=2247503549&idx=1&sn=10aaf7ed68eb4b7b2b6323263342094c&chksm=fad22c88cda5a59e615d9bda876ec971249501458092ca3be1a6f0880ff1b30b90306a885856&scene=27#wechat_redirect)
 
 百所高校、百家用人单位、百名尖锋导师，携手打造定制化人才培养模式，通过导师制职业规划和封闭式岗位实训，补足知识短板、提高实战能力，培养创新型、实用型网络安全尖锋人才。
 
@@ -16,7 +16,7 @@
 
 [:chart_with_upwards_trend:【0/13/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMzAyMDAwMQ==)
 
-[:camera_flash:【2022-08-08 17:00:07】](https://mp.weixin.qq.com/s?__biz=MzkwMzAyMDAwMQ==&mid=2247503305&idx=1&sn=e42fda804d9dc247648fc50c2a8aa316&chksm=c09e2147f7e9a8517131b6c91abde6417b6b8f96742023f63ecc1cd72e4596f359b8c253aa96&scene=27#wechat_redirect)
+[:camera_flash:【2022-08-11 17:00:08】](https://mp.weixin.qq.com/s?__biz=MzkwMzAyMDAwMQ==&mid=2247503359&idx=1&sn=57e2c6c7e18d92a7e28d131dca388e06&chksm=c09e2171f7e9a8674c6506d293b12f2e2bbc336f3da6c98ec591aa8228becfe503b0dba27143&scene=27#wechat_redirect)
 
 网络安全服务、技术特训、技术咨询、渗透测试服务
 
@@ -27,9 +27,9 @@
 
 ### [启明星辰网络空间安全学院](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
 
-[:chart_with_upwards_trend:【0/13/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
+[:chart_with_upwards_trend:【0/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
 
-[:camera_flash:【2022-08-05 16:16:55】](https://mp.weixin.qq.com/s?__biz=MzUzNDg0NTc1NA==&mid=2247492134&idx=1&sn=6022ce3ffaa36578c62ce7823f843315&chksm=fa8c2273cdfbab6538f0e07a61d81e8cb8a985067d6b3e786eb9cd71dd5a360c7bb6fb9521eb&scene=27#wechat_redirect)
+[:camera_flash:【2022-08-11 16:52:17】](https://mp.weixin.qq.com/s?__biz=MzUzNDg0NTc1NA==&mid=2247492162&idx=1&sn=925e7078fe5f41b1db4bd3a6ceab303e&chksm=fa8c2217cdfbab019322c6ce0a1b1a218b28ac2faa41eb28919ecdcba94af9dadb1fe23385bd&scene=27#wechat_redirect)
 
 启明星辰网络空间安全学院以国家网络安全事业发展为使命，依托启明星辰集团多年的技术沉淀及实践积累，提供网络安全人才体系构建与信息安全技术及能力提升教育培训，为建设网络强国提供有力的人才支撑。
 
@@ -168,19 +168,6 @@
 ---
 
 
-### [网络安全学生社团](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzNDcyMDM1MQ==)
-
-[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzNDcyMDM1MQ==)
-
-[:camera_flash:【2022-07-19 20:35:32】](https://mp.weixin.qq.com/s?__biz=MzIzNDcyMDM1MQ==&mid=2247483808&idx=1&sn=1bd1db1386338fa7bace4adfee42dd82&chksm=e8f35c90df84d586f016206fa58112326fbf4a78aabd06ffe70d71cc103763284085cc90acf6&scene=27&key=28aa97990e93c20c37e87da84b7af8562af57acb675d6e6f9e1547be64f9983dae87ab32e280c4811ceb77c7363e9b0fb2c181ba5e6a871e98b1dd2746de6a25347d873482fa493d2f28a8260289c3a170149f4f3e99e479a6fa03f4c925f5df6442058c9a083ae48ed72a8de0d93d87cdc915aa5175577aeb194682753b9ed4&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+Server+2016+x64&version=6307001e&lang=zh_CN&session_us=gh_e99b34134b06&exportkey=A16AQcLG1XXhZ%2Fb%2FYpf7r%2BE%3D&acctmode=0&pass_ticket=Lf09nCLuCAdgF%2Bf9KfvZMvusmNzQK9iHfoO4mdDMXBwdD5s7eMIQhgTn%2FvAJ4AGv&wx_header=0&fontgear=2&scene=27#wechat_redirect)
-
-校企合作网络安全学生社团
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f587b147a938" alt="" />
-
----
-
-
 ### [安协小天使](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxNDU2ODg3Mw==)
 
 [:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxNDU2ODg3Mw==)
@@ -216,6 +203,19 @@
 广东工业大学A&amp;D（攻击与防御）工作室
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_c375cb5a0589" alt="" />
+
+---
+
+
+### [网络安全学生社团](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzNDcyMDM1MQ==)
+
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzNDcyMDM1MQ==)
+
+[:camera_flash:【2022-07-19 20:35:32】](https://mp.weixin.qq.com/s?__biz=MzIzNDcyMDM1MQ==&mid=2247483808&idx=1&sn=1bd1db1386338fa7bace4adfee42dd82&chksm=e8f35c90df84d586f016206fa58112326fbf4a78aabd06ffe70d71cc103763284085cc90acf6&scene=27&key=28aa97990e93c20c37e87da84b7af8562af57acb675d6e6f9e1547be64f9983dae87ab32e280c4811ceb77c7363e9b0fb2c181ba5e6a871e98b1dd2746de6a25347d873482fa493d2f28a8260289c3a170149f4f3e99e479a6fa03f4c925f5df6442058c9a083ae48ed72a8de0d93d87cdc915aa5175577aeb194682753b9ed4&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+Server+2016+x64&version=6307001e&lang=zh_CN&session_us=gh_e99b34134b06&exportkey=A16AQcLG1XXhZ%2Fb%2FYpf7r%2BE%3D&acctmode=0&pass_ticket=Lf09nCLuCAdgF%2Bf9KfvZMvusmNzQK9iHfoO4mdDMXBwdD5s7eMIQhgTn%2FvAJ4AGv&wx_header=0&fontgear=2&scene=27#wechat_redirect)
+
+校企合作网络安全学生社团
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f587b147a938" alt="" />
 
 ---
 
@@ -601,7 +601,7 @@ Covteam工作室，成立于2005年。是以西华大学在校本科生研究生
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxMTEwOTA3OA==)
 
-[:camera_flash:【2022-07-05 21:17:13】](https://mp.weixin.qq.com/s?__biz=MzUxMTEwOTA3OA==&mid=2247483908&idx=1&sn=9f7289017cc60c375be4d504e2c01ff1&chksm=f979f0bdce0e79abb8cb4c7ba0defb6bf8da607fe4a0768f311dfc98a7b741e3ac023c06ef1a&scene=27#wechat_redirect)
+[:camera_flash:【2022-08-11 18:34:49】](https://mp.weixin.qq.com/s?__biz=MzUxMTEwOTA3OA==&mid=2247483924&idx=1&sn=f766f4409e5e31d71e20d9270e6cef15&chksm=f979f0adce0e79bb23c7db99ffdeff9a365c9494b543e13cfdf9d70333d54c45590a380812d5&scene=27#wechat_redirect)
 
 清华大学网络与信息安全实验室(NISL@THU)，专注于网络、系统、应用、人工智能安全教学与研究，在国际四大安全会议发表三十余篇论文，成果在业界产生了广泛影响力。孕育了蓝莲花、紫荆花等知名战队，发起了网安国际学术论坛InForSec。
 

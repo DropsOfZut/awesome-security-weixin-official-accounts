@@ -1,9 +1,9 @@
 
 ### [IoVSecurity](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
 
-[:chart_with_upwards_trend:【0/87/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
+[:chart_with_upwards_trend:【0/83/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
 
-[:camera_flash:【2022-08-10 22:18:52】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247551940&idx=1&sn=9c049d6085e8c276f0e340e48c154d0b&chksm=fc025b0ecb75d218df10ec1e9fe34ab8b1f2f28db95ba1da2c467ce95e1bd518ce43e24435ec&scene=27#wechat_redirect)
+[:camera_flash:【2022-08-11 23:02:35】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247551947&idx=1&sn=9ee60340b1ed04f539b5ac41c054fa56&chksm=fc025b01cb75d217e86ec53dfe5e80f8605e621397ea489ad029c7f835d46a41a8dbb2064767&scene=27#wechat_redirect)
 
 为智能网联汽车行业专业人士提供信息和网络安全技术、产品及服务等行业发展最新咨询
 
@@ -25,24 +25,11 @@
 ---
 
 
-### [无线通信安全](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwNjM4NTg4OQ==)
-
-[:chart_with_upwards_trend:【3/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwNjM4NTg4OQ==)
-
-[:camera_flash:【2022-07-25 07:35:49】](https://mp.weixin.qq.com/s?__biz=MzkwNjM4NTg4OQ==&mid=2247485304&idx=1&sn=3e63111146fb99f7b32ad31febc35a6f&chksm=c0e807f6f79f8ee08a6fe5e04421eea7c4cbf0385ec019dca2884df2bba468ac02bcef549267&scene=27#wechat_redirect)
-
-无线通信安全
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_37ba12d49c79" alt="" />
-
----
-
-
 ### [IoT物联网技术](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
 
 [:chart_with_upwards_trend:【2/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
 
-[:camera_flash:【2022-07-29 20:16:45】](https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&mid=2454929289&idx=1&sn=f86db997c093d705c9eecd5aec7a068d&chksm=b16772c68610fbd018ac376543533e24b4bd92703dcb3fb2c81dec474b234fb9214786d004ec&scene=27#wechat_redirect)
+[:camera_flash:【2022-08-11 20:28:14】](https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&mid=2454929309&idx=1&sn=35e9c4e5c89657f6679d51f2bd1ccc66&chksm=b16772d28610fbc4e6eb265675fb80cc46869268398dd953df5c79fcb02817af99344e27033c&scene=27#wechat_redirect)
 
 国内最大IoT物联网开发者社区，1000+行业资料分享；集结 AWS，阿里云，华为云，微软Azure，百度云 物联网专家；通信模组，物联网卡厂商；智能家居，工业制造，智慧城市解决方案商。
 
@@ -68,7 +55,7 @@
 
 [:chart_with_upwards_trend:【2/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MTY5NjQzMA==)
 
-[:camera_flash:【2022-08-08 13:00:06】](https://101.91.34.106/s?__biz=Mzg4MTY5NjQzMA==&mid=2247486153&idx=1&sn=0ad4f0362db5a68e1953f05513757976&chksm=cf634108f814c81e3cdac2b8f88e508afccf2556ad62fc358f9b9f2f92689592d002583cb582&scene=27#wechat_redirect)
+[:camera_flash:【2022-08-11 11:00:54】](https://mp.weixin.qq.com/s?__biz=Mzg4MTY5NjQzMA==&mid=2247486184&idx=1&sn=2bf45711ffbfb374cb981ffe66ec8d83&chksm=cf634129f814c83fc50dbd0d81d5b4f78b5a638fd561d750891820e7350c829d886492c70ce9&scene=27#wechat_redirect)
 
 极客的专属潮酷聚集地，尽在iotsec-zone
 
@@ -77,28 +64,41 @@
 ---
 
 
-### [网安杂谈](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwMTMzMDUwNg==)
+### [无线通信安全](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwNjM4NTg4OQ==)
 
-[:chart_with_upwards_trend:【0/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwMTMzMDUwNg==)
+[:chart_with_upwards_trend:【2/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwNjM4NTg4OQ==)
 
-[:camera_flash:【2022-08-10 08:00:38】](https://mp.weixin.qq.com/s?__biz=MzAwMTMzMDUwNg==&mid=2650886941&idx=1&sn=cb87a69b271dadef8f53ad8291ca16b2&chksm=812eaf38b659262ed85400588949dd0256ac6ddb2d88a1ef958862e0ef742bc7e40680e0f470&scene=27#wechat_redirect)
+[:camera_flash:【2022-07-25 07:35:49】](https://mp.weixin.qq.com/s?__biz=MzkwNjM4NTg4OQ==&mid=2247485304&idx=1&sn=3e63111146fb99f7b32ad31febc35a6f&chksm=c0e807f6f79f8ee08a6fe5e04421eea7c4cbf0385ec019dca2884df2bba468ac02bcef549267&scene=27#wechat_redirect)
 
-关注电子数据取证与网络犯罪调查
+无线通信安全
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_901b6c524273" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_37ba12d49c79" alt="" />
 
 ---
 
 
-### [信睿网络](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MDA2NjExMA==)
+### [湘雪尘奕](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MzE3NzczNQ==)
 
-[:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MDA2NjExMA==)
+[:chart_with_upwards_trend:【0/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MzE3NzczNQ==)
 
-[:camera_flash:【2022-08-09 11:00:39】](https://101.91.43.159/s?__biz=Mzg4MDA2NjExMA==&mid=2247488699&idx=1&sn=dd733ea1f37698d78eb3f8ce847d9189&chksm=cf7bbfeaf80c36fcc4e782b03517c3a529943a6c71e2c14e55503e98c3ca21cdaddc36377e07&key=1c7e7ef1211717e91c6f50e8ab8b85e65b7744eaaa5a29f29115d33341686c55d6b727319c52e2d92e485092a03952c2ddf1a7c8371271b7e72f753c9f3241722d28835e0bf27abbcf584ef31f7e9da9a54896abbedfe9f7b0cc51f0cf0bea217f530abce5784f63376f6d969a4f6873c8e0cef2a860d1dc42ec2d878d3ae1a5&ascene=51&uin=MjM2NjMzNTUwNA%3D%3D&devicetype=Windows+10+x64&version=63070517&lang=zh_CN&session_us=gh_18cae47da613&exportkey=AVwVvgr29s3EArgqk%2FM3UKA%3D&acctmode=0&pass_ticket=TvUkK36qvYlJvWf%2Be%2FJpE6Em5UfqWKUYmuDzVClQro0l4sBKK4CX9Bl41Zdu5iA%2F&wx_header=0&fontgear=2&scene=27#wechat_redirect)
+[:camera_flash:【2022-08-08 18:30:27】](https://mp.weixin.qq.com/s?__biz=MzI2MzE3NzczNQ==&mid=2650622653&idx=1&sn=6116f8f2b2a934e482a524821f0cd9e0&chksm=f2b639d5c5c1b0c317c3fc8e4253689815d3e610529ac3a1ccf41ce2a30f58affbf53d16676f&scene=27#wechat_redirect)
 
-吉林省信睿网络官方公众号
+最近公众号主要以视频为主，每周发布一个新的视频！内容主要围绕工业控制系统网络内容，主要涉及工控设备、协议解析及检测评估等方向。
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_18cae47da613" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_9a02359365f9" alt="" />
+
+---
+
+
+### [网安杂谈](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwMTMzMDUwNg==)
+
+[:chart_with_upwards_trend:【0/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwMTMzMDUwNg==)
+
+[:camera_flash:【2022-08-11 12:35:42】](https://mp.weixin.qq.com/s?__biz=MzAwMTMzMDUwNg==&mid=2650886946&idx=1&sn=aa5b4ea08d5db8a954beb43379a2ce1b&chksm=812eaf07b6592611df35554ba68558384e047def2116b2d975a9018604207a86f5bb01e92673&scene=27#wechat_redirect)
+
+关注电子数据取证与网络犯罪调查
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_901b6c524273" alt="" />
 
 ---
 
@@ -116,15 +116,15 @@
 ---
 
 
-### [湘雪尘奕](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MzE3NzczNQ==)
+### [信睿网络](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MDA2NjExMA==)
 
-[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MzE3NzczNQ==)
+[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MDA2NjExMA==)
 
-[:camera_flash:【2022-08-08 18:30:27】](https://mp.weixin.qq.com/s?__biz=MzI2MzE3NzczNQ==&mid=2650622653&idx=1&sn=6116f8f2b2a934e482a524821f0cd9e0&chksm=f2b639d5c5c1b0c317c3fc8e4253689815d3e610529ac3a1ccf41ce2a30f58affbf53d16676f&scene=27#wechat_redirect)
+[:camera_flash:【2022-08-09 11:00:39】](https://101.91.43.159/s?__biz=Mzg4MDA2NjExMA==&mid=2247488699&idx=1&sn=dd733ea1f37698d78eb3f8ce847d9189&chksm=cf7bbfeaf80c36fcc4e782b03517c3a529943a6c71e2c14e55503e98c3ca21cdaddc36377e07&key=1c7e7ef1211717e91c6f50e8ab8b85e65b7744eaaa5a29f29115d33341686c55d6b727319c52e2d92e485092a03952c2ddf1a7c8371271b7e72f753c9f3241722d28835e0bf27abbcf584ef31f7e9da9a54896abbedfe9f7b0cc51f0cf0bea217f530abce5784f63376f6d969a4f6873c8e0cef2a860d1dc42ec2d878d3ae1a5&ascene=51&uin=MjM2NjMzNTUwNA%3D%3D&devicetype=Windows+10+x64&version=63070517&lang=zh_CN&session_us=gh_18cae47da613&exportkey=AVwVvgr29s3EArgqk%2FM3UKA%3D&acctmode=0&pass_ticket=TvUkK36qvYlJvWf%2Be%2FJpE6Em5UfqWKUYmuDzVClQro0l4sBKK4CX9Bl41Zdu5iA%2F&wx_header=0&fontgear=2&scene=27#wechat_redirect)
 
-最近公众号主要以视频为主，每周发布一个新的视频！内容主要围绕工业控制系统网络内容，主要涉及工控设备、协议解析及检测评估等方向。
+吉林省信睿网络官方公众号
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_9a02359365f9" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_18cae47da613" alt="" />
 
 ---
 
