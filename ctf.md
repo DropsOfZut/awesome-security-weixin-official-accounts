@@ -14,7 +14,7 @@
 
 ### [强网竞赛](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjY3NDQ2Ng==)
 
-[:chart_with_upwards_trend:【0/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjY3NDQ2Ng==)
+[:chart_with_upwards_trend:【0/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjY3NDQ2Ng==)
 
 [:camera_flash:【2022-08-07 23:36:14】](https://101.91.43.159/s?__biz=Mzg4MjY3NDQ2Ng==&mid=2247485462&idx=1&sn=a68411b5f1b53c844255a7ebfe291b5a&chksm=cf52565bf825df4df788f68d9c73a16aed20954dfc2a81d875d067f8c8beb4a73f373b003702&scene=27#wechat_redirect)
 
@@ -40,7 +40,7 @@
 
 ### [中学生CTF](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzEwMTQ3NQ==)
 
-[:chart_with_upwards_trend:【6/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzEwMTQ3NQ==)
+[:chart_with_upwards_trend:【4/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzEwMTQ3NQ==)
 
 [:camera_flash:【2022-07-16 16:52:05】](https://mp.weixin.qq.com/s?__biz=MzU3MzEwMTQ3NQ==&mid=2247499626&idx=1&sn=9fa8a928b954ba771fa4ffc741e92b44&chksm=fcc47ba6cbb3f2b0d81f2794b06da6fd2539055ae10fd3ed0ca6bf3d48d93d7bffb9de339fb7&scene=27#wechat_redirect)
 
