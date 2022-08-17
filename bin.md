@@ -1,7 +1,7 @@
 
 ### [汇编语言](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxNDcwOTcwOQ==)
 
-[:chart_with_upwards_trend:【0/200/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxNDcwOTcwOQ==)
+[:chart_with_upwards_trend:【0/192/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxNDcwOTcwOQ==)
 
 [:camera_flash:【2022-08-13 09:13:38】](https://mp.weixin.qq.com/s?__biz=MzIxNDcwOTcwOQ==&mid=2247493827&idx=1&sn=b4d78dc296f5e39d2056a0ee22728bb0&chksm=97a1cc61a0d6457766da247da1cbecfdb4f5ee4f279d90aeac8f3a6bc8c86fc539143e850442&scene=27&key=78fb1eae9cadd3bd353e413f46a8c1c63ffce17edcfda5ef11d93581bc181b54ba3fc19415a313a30f032883c23fdba5c907968e4afa84a7fdf51df78be57f5afc97688c6421a3b4a85f6fa1db9babdeb5280fa38ac2a5f2bb35b799d75e970327e4accaed9db3d0f9923ab78e953a0e071badf30a384d5c38064abab959ea50&ascene=15&uin=MzgxODQ4MjMz&devicetype=Windows+10+x64&version=6307051f&lang=zh_CN&session_us=gh_834eaaa98a10&exportkey=Aw3ZvHdZixbUqsGm6nSUPi4%3D&acctmode=0&pass_ticket=o3Y94IgnCUk2Zp%2FfJBlnRbWP57OIZNIXOb3rewxMrHGqIYEhJMO9nmrMXWKyuGNC&wx_header=0&fontgear=2&scene=27#wechat_redirect)
 
@@ -14,9 +14,9 @@
 
 ### [看雪学苑](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTc2MDYxMw==)
 
-[:chart_with_upwards_trend:【16/84/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTc2MDYxMw==)
+[:chart_with_upwards_trend:【16/82/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTc2MDYxMw==)
 
-[:camera_flash:【2022-08-14 17:59:59】](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458463454&idx=1&sn=6832f219233dc5e0cf8b010b6e7779fe&chksm=b18e1c5486f9954229d3277c2300f6c225dd3d090ff3d8f3b86a3b27f5de2251bffed63c6afb&scene=27#wechat_redirect)
+[:camera_flash:【2022-08-16 17:59:27】](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458464200&idx=1&sn=7c8ec0116459ab51017a7bd6ed796a28&chksm=b18e1f4286f99654fe7d34eeba171aeb169d393c2e120877dbf1de42198443961656759139a7&scene=27#wechat_redirect)
 
 致力于移动与安全研究的开发者社区，看雪学院(kanxue.com)官方微信公众帐号。
 
@@ -27,7 +27,7 @@
 
 ### [吾爱破解论坛](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Mjc3MDM2Mw==)
 
-[:chart_with_upwards_trend:【7/13/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Mjc3MDM2Mw==)
+[:chart_with_upwards_trend:【7/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Mjc3MDM2Mw==)
 
 [:camera_flash:【2022-08-12 10:17:33】](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651138135&idx=1&sn=15383dc5cefc45f50ee44f46231e5f3a&chksm=bd50b8038a2731152cd72ba31f49c84c360ce5144078d1de00df4764ef46c1a253542a1a094c&scene=27#wechat_redirect)
 
@@ -47,19 +47,6 @@
 主打研究方向Ai人工智能、物联网安全、Web安全、APP安全、逆向工程、二进制、电子取证、信息安全
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_c6ea851cd149" alt="" />
-
----
-
-
-### [RayTracing](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwMjk4MTU2NQ==)
-
-[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwMjk4MTU2NQ==)
-
-[:camera_flash:【2022-07-17 15:26:33】](https://mp.weixin.qq.com/s?__biz=MzAwMjk4MTU2NQ==&mid=2247483718&idx=1&sn=9bb5cacc38c70395ba935d62f5048e87&chksm=9ac36a94adb4e3823a5f6a53e17c9b32b2afafdfe76d0075e61af88a3483e736f5de862a920a&scene=27#wechat_redirect)
-
-主要分享自己在二进制方面的一些技术，比如程序分析，逆向，漏洞等，也会分享一些开发相关的东东
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_29fa961361a8" alt="" />
 
 ---
 
@@ -242,6 +229,19 @@ pWn3d bY BiGSKidd3r&amp;FuzZer&amp;A2pter&amp;pWn3r rULe4Ker4pwn 65535 tim3s.
 二进制安全学习
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_92889635e9ef" alt="" />
+
+---
+
+
+### [RayTracing](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwMjk4MTU2NQ==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwMjk4MTU2NQ==)
+
+[:camera_flash:【2022-07-17 15:26:33】](https://mp.weixin.qq.com/s?__biz=MzAwMjk4MTU2NQ==&mid=2247483718&idx=1&sn=9bb5cacc38c70395ba935d62f5048e87&chksm=9ac36a94adb4e3823a5f6a53e17c9b32b2afafdfe76d0075e61af88a3483e736f5de862a920a&scene=27#wechat_redirect)
+
+主要分享自己在二进制方面的一些技术，比如程序分析，逆向，漏洞等，也会分享一些开发相关的东东
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_29fa961361a8" alt="" />
 
 ---
 

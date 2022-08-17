@@ -1,7 +1,7 @@
 
 ### [Linux中国](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ4MjYwMQ==)
 
-[:chart_with_upwards_trend:【89/96/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ4MjYwMQ==)
+[:chart_with_upwards_trend:【86/93/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ4MjYwMQ==)
 
 [:camera_flash:【2022-08-13 21:17:18】](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664662398&idx=1&sn=65d2d38d3e6476194a74c452e2631fa6&chksm=bdcfbe388ab8372e57b9c20dfd2e205893dd8642e99cc0114d3d67f332b468f804f5f2248e8e&scene=27#wechat_redirect)
 
@@ -14,7 +14,7 @@
 
 ### [系统安全运维](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NjE0NDc5OQ==)
 
-[:chart_with_upwards_trend:【0/80/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NjE0NDc5OQ==)
+[:chart_with_upwards_trend:【0/77/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NjE0NDc5OQ==)
 
 [:camera_flash:【2022-08-15 08:08:03】](https://mp.weixin.qq.com/s?__biz=Mzk0NjE0NDc5OQ==&mid=2247507787&idx=1&sn=6f29d5164d437ee93c11e3bcbae822f5&chksm=c3080c3bf47f852dd23568200365f04df4663b55692d504dca4bd15e608cb6ba14cd8da15a9c&scene=27&key=d8221f16b48f88c8ea61f8cb040e3e24d3c46051dceb04c8e27fdd87d3e83a8ac2be1375b99d34108388f03900300b8578bc69d7e0465ea9ff17195eb4a5d4e2947cbedb126bd6f9df4d9322d162c0252e62e87d91f335daba7b0e8d8a3fff40daaf0c0c7667fec0e49f972e9decd6f90d100bf6a778d252bd7abc03b5401ed6&ascene=15&uin=MTA3Mzc3OTIzNQ%3D%3D&devicetype=Windows+10+x64&version=6307051f&lang=zh_CN&session_us=gh_2cec234c3593&exportkey=ASTFKmJcD1nDEd4niu5zc8s%3D&acctmode=0&pass_ticket=lM9xtTNDz4EE7tQ0q%2F2UuTaqdNoZ2%2FLteKmPxOqh6anxSRf%2BivoE8X1npcnRgDeP&wx_header=0&fontgear=2&scene=27#wechat_redirect)
 
@@ -27,7 +27,7 @@
 
 ### [kali黑客笔记](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzIwNTY1OA==)
 
-[:chart_with_upwards_trend:【23/25/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzIwNTY1OA==)
+[:chart_with_upwards_trend:【23/24/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzIwNTY1OA==)
 
 [:camera_flash:【2022-08-14 08:00:30】](https://mp.weixin.qq.com/s?__biz=MzkxMzIwNTY1OA==&mid=2247490270&idx=1&sn=77860be9fa5eb519985c9744c0e49554&chksm=c1006a2bf677e33dd6498f739957d7a5162ed0f8ce572af33607c9e2bdf17f3375210a1c30d7&scene=27&key=b9f9fe4690f0a07cb4f4d95f119c28648f4edbd654bce4cb47e0d7f00809b01963210df7d8c5ce25c4c1a24dfc9c5867fd23025bad026383b3bff91cfdb15bc10a6d3cc21f2b5afdd3db35644eda0dea9602baf7e29a643d69b207db508ee8f570781a21eddf79091d2bec9b35642bdc9aec923ab3444c4d323a22d41173f143&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+10+x64&version=6307051f&lang=zh_CN&session_us=gh_2cec234c3593&exportkey=AyG9WzRZTnU%2FS8l3H89PdG0%3D&acctmode=0&pass_ticket=EMT0urKLy6YvJNs8HqxMY2gEhh39XxA%2FAXoFNFNMLPIqm9gqg42TaYfce96L6vBA&wx_header=0&fontgear=2&scene=27#wechat_redirect)
 
@@ -51,28 +51,28 @@ Docker中文社区旨在为大家提供 Docker、Kubernetes 相关工具及前�
 ---
 
 
-### [网络运维渗透](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3MjMxODUwNg==)
-
-[:chart_with_upwards_trend:【1/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3MjMxODUwNg==)
-
-[:camera_flash:【2022-08-13 17:50:13】](https://mp.weixin.qq.com/s?__biz=MzA3MjMxODUwNg==&mid=2247485271&idx=1&sn=44e874fb8df962c365a921eb836c460f&chksm=9f216c12a856e504f9194623c3b3f672b994c7b098826755e5c4a2b38a82eda4bea3f1af692a&scene=27#wechat_redirect)
-
-漏洞挖掘、SRC、红蓝对抗、代码审计
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_304f5239b3b0" alt="" />
-
----
-
-
 ### [云计算和网络安全技术实践](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3MjM5MDc2Nw==)
 
-[:chart_with_upwards_trend:【3/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3MjM5MDc2Nw==)
+[:chart_with_upwards_trend:【4/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3MjM5MDc2Nw==)
 
 [:camera_flash:【2022-08-14 13:48:06】](https://mp.weixin.qq.com/s?__biz=MzA3MjM5MDc2Nw==&mid=2650747050&idx=1&sn=232530ad9654814ed25e051d1dc9c4bf&chksm=871491aab06318bcc2f5d34dcbd65428728903527d48caa7893d7e034932084b2b943114242c&scene=27#wechat_redirect)
 
 史上最具参考性的云计算和网络安全技术实践博客。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_34d6b0cb5633" alt="" />
+
+---
+
+
+### [网络运维渗透](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3MjMxODUwNg==)
+
+[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3MjMxODUwNg==)
+
+[:camera_flash:【2022-08-13 17:50:13】](https://mp.weixin.qq.com/s?__biz=MzA3MjMxODUwNg==&mid=2247485271&idx=1&sn=44e874fb8df962c365a921eb836c460f&chksm=9f216c12a856e504f9194623c3b3f672b994c7b098826755e5c4a2b38a82eda4bea3f1af692a&scene=27#wechat_redirect)
+
+漏洞挖掘、SRC、红蓝对抗、代码审计
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_304f5239b3b0" alt="" />
 
 ---
 

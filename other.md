@@ -1,7 +1,7 @@
 
 ### [全球技术地图](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1OTExNDY1NQ==)
 
-[:chart_with_upwards_trend:【26/51/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1OTExNDY1NQ==)
+[:chart_with_upwards_trend:【26/50/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1OTExNDY1NQ==)
 
 [:camera_flash:【2022-08-15 17:03:30】](https://mp.weixin.qq.com/s?__biz=MzI1OTExNDY1NQ==&mid=2651595959&idx=1&sn=d1d2d56dd1ca4c38f81a7e8cf30dfbdd&chksm=f1855747c6f2de514103515401cef47f77ef1db3ab643547cb835f0bf40221322c7cf29e065f&scene=27&key=512fb80aa4f22d2a1136e8fc7e32f7254e80a990962ad9e31e10be11612160dd351060a98420086a6022cd0967944fc5995053dffacd10cb2554f3bb05d7f2bfb0565302b66e548dcf0d3c7ce1f275834990a539a67ee66d6b8c1c96f0cdbdbc64e0597b0c22401bd1273986b212de1c6d55c78bef98b02a1322a6c3e3a98075&ascene=51&uin=MTA3Mzc3OTIzNQ%3D%3D&devicetype=Windows+10+x64&version=6307051f&lang=zh_CN&session_us=gh_e18f20900200&exportkey=AQHBA9iQkkTo2G7Rn7P%2F9tA%3D&acctmode=0&pass_ticket=lM9xtTNDz4EE7tQ0q%2F2UuTaqdNoZ2%2FLteKmPxOqh6anxSRf%2BivoE8X1npcnRgDeP&wx_header=0&fontgear=2&scene=27#wechat_redirect)
 
@@ -14,9 +14,9 @@
 
 ### [网络安全与黑客技术](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2MDQzMjY4NQ==)
 
-[:chart_with_upwards_trend:【0/30/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2MDQzMjY4NQ==)
+[:chart_with_upwards_trend:【0/32/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2MDQzMjY4NQ==)
 
-[:camera_flash:【2022-08-15 13:59:10】](https://mp.weixin.qq.com/s?__biz=Mzg2MDQzMjY4NQ==&mid=2247487351&idx=1&sn=5cea83db126ac877b8429a51caa9ef2f&chksm=ce273f35f950b623e3fbe851d52441b5553aa905e949c04649fe87759dc941228bb4e4eeb956&scene=27#wechat_redirect)
+[:camera_flash:【2022-08-16 14:00:59】](https://mp.weixin.qq.com/s?__biz=Mzg2MDQzMjY4NQ==&mid=2247487413&idx=1&sn=1e27bb6b1117acc2ed6b133062244791&chksm=ce273ff7f950b6e14df69be6897fe2ee4bc98bb5e11a951894b399d7fd111631cbb93160e28f&scene=27#wechat_redirect)
 
 这里拥有神秘的黑客技术，等你来关注 ！
 
@@ -142,6 +142,19 @@ NOVA SEC  新星安全 萌新启蒙之路 愿大家都能成为最闪耀的星�
 ---
 
 
+### [白帽学子](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNzIxMjM3Mg==)
+
+[:chart_with_upwards_trend:【2/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNzIxMjM3Mg==)
+
+[:camera_flash:【2022-08-15 08:10:39】](https://mp.weixin.qq.com/s?__biz=MzkyNzIxMjM3Mg==&mid=2247483887&idx=1&sn=10a9bbb3b0112c83a475987a725d1987&chksm=c22a37d4f55dbec244387b9584fa92e6f665e5d0a5ad213453561f82bab98bbf5639001ebd76&scene=27#wechat_redirect)
+
+专注安全研究、漏洞复现、代码审计等技术方向，有时会分享安全圈的资讯和职场分析！
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4bda7b44c1e3" alt="" />
+
+---
+
+
 ### [边界无限](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNzk0NTkxNw==)
 
 [:chart_with_upwards_trend:【1/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNzk0NTkxNw==)
@@ -181,19 +194,6 @@ NOVA SEC  新星安全 萌新启蒙之路 愿大家都能成为最闪耀的星�
 ---
 
 
-### [安全孺子牛](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MDI0NTM2Nw==)
-
-[:chart_with_upwards_trend:【2/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MDI0NTM2Nw==)
-
-[:camera_flash:【2022-08-02 12:40:10】](https://mp.weixin.qq.com/s?__biz=MzI2MDI0NTM2Nw==&mid=2247488398&idx=1&sn=d2d1c4d4682ad6498c4fefe9d1f2f5ac&chksm=ea6dc196dd1a4880b9a9a01294afa5d96bf23a6202b5eac388fb9691f27b1cb1043ac234ada5&scene=27#wechat_redirect)
-
-网络安全学习研究分享
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_2da522fdae7a" alt="" />
-
----
-
-
 ### [专注安管平台](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyNzMxOTAwMw==)
 
 [:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyNzMxOTAwMw==)
@@ -207,28 +207,15 @@ NOVA SEC  新星安全 萌新启蒙之路 愿大家都能成为最闪耀的星�
 ---
 
 
-### [白帽学子](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNzIxMjM3Mg==)
+### [安全孺子牛](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MDI0NTM2Nw==)
 
-[:chart_with_upwards_trend:【1/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNzIxMjM3Mg==)
+[:chart_with_upwards_trend:【1/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MDI0NTM2Nw==)
 
-[:camera_flash:【2022-08-15 08:10:39】](https://mp.weixin.qq.com/s?__biz=MzkyNzIxMjM3Mg==&mid=2247483887&idx=1&sn=10a9bbb3b0112c83a475987a725d1987&chksm=c22a37d4f55dbec244387b9584fa92e6f665e5d0a5ad213453561f82bab98bbf5639001ebd76&scene=27#wechat_redirect)
+[:camera_flash:【2022-08-02 12:40:10】](https://mp.weixin.qq.com/s?__biz=MzI2MDI0NTM2Nw==&mid=2247488398&idx=1&sn=d2d1c4d4682ad6498c4fefe9d1f2f5ac&chksm=ea6dc196dd1a4880b9a9a01294afa5d96bf23a6202b5eac388fb9691f27b1cb1043ac234ada5&scene=27#wechat_redirect)
 
-专注安全研究、漏洞复现、代码审计等技术方向，有时会分享安全圈的资讯和职场分析！
+网络安全学习研究分享
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4bda7b44c1e3" alt="" />
-
----
-
-
-### [安全帮Live](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3NTcwNTQ2Mg==)
-
-[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3NTcwNTQ2Mg==)
-
-[:camera_flash:【2022-07-22 20:55:36】](https://mp.weixin.qq.com/s?__biz=MzI3NTcwNTQ2Mg==&mid=2247485793&idx=1&sn=41307642182edb3c7ac3f0773afb3c4e&chksm=eb01f278dc767b6e58a1fe02bae6cee55b2f608b97806ac553413bad01008b02241f1d64421e&scene=27#wechat_redirect)
-
-安全帮 帮你学安全
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_499ac9d326f5" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_2da522fdae7a" alt="" />
 
 ---
 
@@ -272,15 +259,15 @@ NOVA SEC  新星安全 萌新启蒙之路 愿大家都能成为最闪耀的星�
 ---
 
 
-### [LinshaoSec](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MTczMjAzMQ==)
+### [安全帮Live](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3NTcwNTQ2Mg==)
 
-[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MTczMjAzMQ==)
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3NTcwNTQ2Mg==)
 
-[:camera_flash:【2022-07-17 15:24:59】](https://mp.weixin.qq.com/s?__biz=Mzg3MTczMjAzMQ==&mid=2247483925&idx=1&sn=782100c55d91c297c7d3ab23d64b5527&chksm=cefb4445f98ccd53ff50b811c95fb5dc6d58d58531eb85d13003e8183ffa081314162695b446&scene=126&sessionid=1658209527&subscene=227&key=a6088c6ea55d01fa9bac0b761a76820262fdc1e8d53993f4bf0412c9d8373262fae8c8c502052df09ca30e51e053c2f5b99a0ae67bdbbd1bf76de2454ba90b5d3b771c19e9552b4ab91fd1b25d19870fb97ebb71fd4bc6d2a3826edd5144bc2b44e7bdc65c269ccb49f52a6e5903ab0bc710ea11da78ef9dfe1576d2439e932e&ascene=7&uin=MTA3Mzc3OTIzNQ%3D%3D&devicetype=Windows+Server+2016+x64&version=6307001e&lang=zh_CN&exportkey=AYKEi%2Bw11AnTNUAJ%2BR%2B9vnY%3D&acctmode=0&pass_ticket=XjO7ydpuv%2BCD7fMJyh2cKQ%2FEkT7nzYQZFx9UynEx5Kb9AQ17H%2FmT1LPLzSjEHvtY&wx_header=0&fontgear=2&scene=27#wechat_redirect)
+[:camera_flash:【2022-07-22 20:55:36】](https://mp.weixin.qq.com/s?__biz=MzI3NTcwNTQ2Mg==&mid=2247485793&idx=1&sn=41307642182edb3c7ac3f0773afb3c4e&chksm=eb01f278dc767b6e58a1fe02bae6cee55b2f608b97806ac553413bad01008b02241f1d64421e&scene=27#wechat_redirect)
 
-心之所向，必是远方，成长，陪伴了我的每个凌晨四点，你该有一个属于自己的小圈子，他们跟你一样热爱，永不失热情
+安全帮 帮你学安全
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_b56c18450c1b" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_499ac9d326f5" alt="" />
 
 ---
 
@@ -307,6 +294,19 @@ NOVA SEC  新星安全 萌新启蒙之路 愿大家都能成为最闪耀的星�
 正阳风控咨询，关注企业和个人风险管理
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_884945b85a98" alt="" />
+
+---
+
+
+### [朴实无华lake2](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NTc0MjAwMg==)
+
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NTc0MjAwMg==)
+
+[:camera_flash:【2022-08-14 23:30:11】](https://mp.weixin.qq.com/s?__biz=Mzg4NTc0MjAwMg==&mid=2247484122&idx=1&sn=993358656fe702d8183033ff4e84d81f&chksm=cfa50207f8d28b113ef2f4685d22b90dccd7bdf465c6d29831f491b98d68d2d5330ace4e252e&scene=27&key=da9eb3f945dd83b41272bf9c8495b678f11019c309663ab82f06b86ac25373aac1baddd2f1c1d46607406ef43246f2fb8a23cdeaca279fbc3f9881ccc530e6b4cfa3796020b8783cd6b35cc8444edb3d8ba45649be9a5535c85106e29fb1a208d35960f54ca77d9a0ae596fec57ad75a8795fbe1ea19ad75792f6487e970f6d0&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+10+x64&version=6307051f&lang=zh_CN&session_us=gh_c34d4484c3b5&exportkey=A%2FxMl0rs%2FTce%2BSdD4IisIuc%3D&acctmode=0&pass_ticket=ur0tAjZah%2Fqxse37QqarOr0X1BysUgPVYya6P%2FsyY45nNQj5j5C3lPl%2FZmFYTjcz&wx_header=0&fontgear=2&scene=27#wechat_redirect)
+
+生活就是这么朴实无华，且枯燥
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_5a6a4859bf2d" alt="" />
 
 ---
 
@@ -675,19 +675,6 @@ What is Security?
 ---
 
 
-### [朴实无华lake2](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NTc0MjAwMg==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NTc0MjAwMg==)
-
-[:camera_flash:【2022-06-30 09:45:43】](https://mp.weixin.qq.com/s?__biz=Mzg4NTc0MjAwMg==&mid=2247484119&idx=1&sn=16f486ba5a716047499fb60946273996&chksm=cfa5020af8d28b1cfcfcf9ce6564ac194a7e29332e0c49f5868884bfb4b10bf07e4b5ff3485c&scene=27#wechat_redirect)
-
-生活就是这么朴实无华，且枯燥
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_5a6a4859bf2d" alt="" />
-
----
-
-
 ### [Matrix1024](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5NzYxMjI5OA==)
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5NzYxMjI5OA==)
@@ -814,6 +801,19 @@ What is Security?
 专注信息安全红队培训 AND 反电信诈骗！
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8ee4dc745ac2" alt="" />
+
+---
+
+
+### [LinshaoSec](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MTczMjAzMQ==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MTczMjAzMQ==)
+
+[:camera_flash:【2022-07-17 15:24:59】](https://mp.weixin.qq.com/s?__biz=Mzg3MTczMjAzMQ==&mid=2247483925&idx=1&sn=782100c55d91c297c7d3ab23d64b5527&chksm=cefb4445f98ccd53ff50b811c95fb5dc6d58d58531eb85d13003e8183ffa081314162695b446&scene=126&sessionid=1658209527&subscene=227&key=a6088c6ea55d01fa9bac0b761a76820262fdc1e8d53993f4bf0412c9d8373262fae8c8c502052df09ca30e51e053c2f5b99a0ae67bdbbd1bf76de2454ba90b5d3b771c19e9552b4ab91fd1b25d19870fb97ebb71fd4bc6d2a3826edd5144bc2b44e7bdc65c269ccb49f52a6e5903ab0bc710ea11da78ef9dfe1576d2439e932e&ascene=7&uin=MTA3Mzc3OTIzNQ%3D%3D&devicetype=Windows+Server+2016+x64&version=6307001e&lang=zh_CN&exportkey=AYKEi%2Bw11AnTNUAJ%2BR%2B9vnY%3D&acctmode=0&pass_ticket=XjO7ydpuv%2BCD7fMJyh2cKQ%2FEkT7nzYQZFx9UynEx5Kb9AQ17H%2FmT1LPLzSjEHvtY&wx_header=0&fontgear=2&scene=27#wechat_redirect)
+
+心之所向，必是远方，成长，陪伴了我的每个凌晨四点，你该有一个属于自己的小圈子，他们跟你一样热爱，永不失热情
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_b56c18450c1b" alt="" />
 
 ---
 
