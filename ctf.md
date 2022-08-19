@@ -1,9 +1,9 @@
 
 ### [寰宇卫士](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
 
-[:chart_with_upwards_trend:【0/19/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
+[:chart_with_upwards_trend:【0/18/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
 
-[:camera_flash:【2022-08-17 15:47:07】](https://mp.weixin.qq.com/s?__biz=MzIwMzU0NDY5OA==&mid=2247493708&idx=1&sn=1dd53bdf2def56b3d3f5396371ccaaf6&chksm=96cf6959a1b8e04f8772177cc6376ef0568c7f801a83e6f8716949c142f3f0bd7a6b4797f627&scene=27#wechat_redirect)
+[:camera_flash:【2022-08-18 17:38:22】](https://mp.weixin.qq.com/s?__biz=MzIwMzU0NDY5OA==&mid=2247493728&idx=1&sn=48dd91cae80c43aaa167c2689f2ce56e&chksm=96cf6975a1b8e063494edd44d4d57f42725359c094161cd8a7d5ed7809f1066143b2012b2180&scene=27#wechat_redirect)
 
 寰宇卫士综合安全咨询、安全服务、解决方案、认证培训、产品研发等信息安全多元化产业链为一体。
 
@@ -53,7 +53,7 @@ X是未知，更是无限，邀您一道创造、见证和实现X-Plan，北斗�
 
 ### [XCTF联赛](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
 
-[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
+[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
 
 [:camera_flash:【2022-08-12 12:00:37】](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247507532&idx=1&sn=853ed5f362999dfb7d7bd9bdd0cd309c&chksm=a6872c7691f0a56095f39048fba5f08a426f6dd5be2d3d18b8cfc4025267d4db94126f876987&scene=27&key=2d14964c488b733906bdc6bbfa001cde754030275541345506805dabdb5b017073e93145f3b4ee2bcedaf66d3b0922d8f7de720a476c71bd4b7c86892574fd9eff3c2fedd054cdabdcd4eee8a58a6dd3ccd70b8146167914d7ed48653c3d538c11159b385cbb9717ac1393412ac5e3de5126fe21dc5561574b571e0abd4f27cc&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+10+x64&version=6307051f&lang=zh_CN&session_us=gh_822cef092383&exportkey=AwQJHeYawZfO69UtaruYOPs%3D&acctmode=0&pass_ticket=tPmvcshPR99hSnO13AbBRRhZ6A5%2B2DmF9zs1JJrxW0EFJftH9%2BkWMtbpQG5AXZWm&wx_header=0&fontgear=2&scene=27#wechat_redirect)
 
@@ -68,7 +68,7 @@ X是未知，更是无限，邀您一道创造、见证和实现X-Plan，北斗�
 
 [:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5Njg1NzMyNw==)
 
-[:camera_flash:【2022-07-21 19:14:34】](https://mp.weixin.qq.com/s?__biz=MzU5Njg1NzMyNw==&mid=2247485169&idx=1&sn=c2bb29009abd8de215b0cd753ce0497d&chksm=fe5d1e71c92a976797b0d1c6232f9148446f68bfbc5c3f71f560852090bcc6725564a866b2e6&scene=27#wechat_redirect)
+[:camera_flash:【2022-08-18 17:31:13】](https://mp.weixin.qq.com/s?__biz=MzU5Njg1NzMyNw==&mid=2247485192&idx=1&sn=093d33df48aca03e1dad2ba156dda6c3&chksm=fe5d1f88c92a969e4108e26985362e85dbdbbf7d2ad50a2af06302d5df01bef8b63888e893d6&scene=27#wechat_redirect)
 
 由奇安信集团、清华大学、蚂蚁集团主办，联合北京大学、中科院软件所、复旦大学、中山大学、山东大学、中国科技大学等30多个知名高校和研究机构共同举办的聚焦大数据安全分析的比赛。
 
