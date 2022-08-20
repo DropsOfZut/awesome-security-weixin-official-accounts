@@ -1,9 +1,9 @@
 
 ### [商密君](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
 
-[:chart_with_upwards_trend:【0/107/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
+[:chart_with_upwards_trend:【0/111/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
 
-[:camera_flash:【2022-08-18 18:08:43】](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247579184&idx=1&sn=2da4d4a7d849cef223e887dff0e5c811&chksm=ec57a66bdb202f7dc2075ee9a47a2acf394cec2aa840eb214a25072731631b2b7680a83606c6&scene=27#wechat_redirect)
+[:camera_flash:【2022-08-19 15:08:47】](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247579265&idx=1&sn=e48fa2ceb5dea2bcd701a4aa55b90f30&chksm=ec57a6dadb202fcc001cea83eb98b304ea40a1a52c652fa5e52ec47e5cae4f5525b2abd17ce3&scene=27#wechat_redirect)
 
 商密君是全国密码行业头部公众号，旨在宣传推广《密码法》，普及商用密码知识，解读密码政策，分享商用密码行业的最新动态，为密码产业产学研用做好宣传服务，连接密码全行业精英，推动密码技术在数字经济各行业的应用和创新。
 
@@ -16,7 +16,7 @@
 
 [:chart_with_upwards_trend:【0/49/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
 
-[:camera_flash:【2022-08-17 08:00:26】](https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247503622&idx=1&sn=417693c77a6120eea54528ff12b0a46e&chksm=cf3d73cbf84afadd967933a7acb29b818909d5f4005cffbdbdb5896de914f3bfb6f4e56b5cfe&scene=27&key=d8221f16b48f88c825ba9c2961263b721767b487122522fea9f6f07294269d14eca235b61a739027473deca5d26bfda3af7e1a6537495caada0fdb04e9bccc1b2d2adf6647308747303a69595dcdcfef628c206e4fe126a3b64f2bf9aff4d53d7ac38ba4149940d55a1b944d485745f08aae017ab88903678fa13d61177cd8bf&ascene=15&uin=MTA3Mzc3OTIzNQ%3D%3D&devicetype=Windows+10+x64&version=6307051f&lang=zh_CN&session_us=gh_c0e66757f805&exportkey=Aay7vpl3KFPJxOnJaT2pNJI%3D&acctmode=0&pass_ticket=wLjE08T0IB6PQR6hlDlEgR%2FrdoP7qFTt9%2BH5ud2WrgsTplCU28T9UYO4%2BVNBFE6A&wx_header=0&fontgear=2&scene=27#wechat_redirect)
+[:camera_flash:【2022-08-20 00:00:12】](https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247503641&idx=1&sn=9bfa8abb4a6bee7418c9ead27c65cacf&chksm=cf3d73d4f84afac21987523cd63fb5589502f51a71daefaa8eccf1d68e85a47d0226dd6b4583&scene=27#wechat_redirect)
 
 网络安全事件预警体系、事件检测、应急处置、追踪溯源、安全运营、红蓝对抗、HW行动、AWD竞赛，以及站在审计师的角度评估信息系统建设的有效性、完备性、安全性等。 欢迎有想法、乐于分享的具备互联网分享精神的安全人交流学习。
 
@@ -27,9 +27,9 @@
 
 ### [数世咨询](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
 
-[:chart_with_upwards_trend:【11/42/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
+[:chart_with_upwards_trend:【10/43/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
 
-[:camera_flash:【2022-08-16 23:30:24】](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247494727&idx=1&sn=12f51bf32ac2399cdba2bce8ba0f4c55&chksm=c1449efaf63317ecc446fe337c774cc28059a4dfe42c7d9b15c3247ed7ccce4b0b7bf10d605a&scene=27&key=d8221f16b48f88c8ce039f3b5487606c9f03dad4ffd9c39bd1a99980b69bee1489bdcceb13982443f50d785c1fb6012da73f7c34663102823338177ef2509f1bf71f89e4686ebfcccf5a4b7b24a42fc64178f9363ee2a5304531dfd51fc1eea359703084de736d210148e801f1f242b7699f1553791802af28835cc4aad33791&ascene=15&uin=MTA3Mzc3OTIzNQ%3D%3D&devicetype=Windows+10+x64&version=6307051f&lang=zh_CN&session_us=gh_98aa7589b650&exportkey=AUHJHHtPeTyw8lU9z81RzIw%3D&acctmode=0&pass_ticket=wLjE08T0IB6PQR6hlDlEgR%2FrdoP7qFTt9%2BH5ud2WrgsTplCU28T9UYO4%2BVNBFE6A&wx_header=0&fontgear=2&scene=27#wechat_redirect)
+[:camera_flash:【2022-08-18 23:30:19】](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247494742&idx=1&sn=aa13dc4ea4ec47a7945dc9b9801d79f4&chksm=c1449eebf63317fdcb6155e8c62d245c0c8876366f1cc214252059ac11eb2f661368c0869cbc&scene=27&key=42fda77b115ac87d4f0dc8455109deea0dee1d5ec993c29b5c42a68a3b351efb223805caf88f7872f7d3f4386cc6196bd0bfd18209e80230be406f5d955bbe948f9e4754e8928c6df03e104e826ac61c78a763badc8352a4fe0415eb203b542c9f1d2235bc223203bdf3aa1e6f217ab240c561728a4b22b1761c22ca91455cf4&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+10+x64&version=6307051f&lang=zh_CN&session_us=gh_98aa7589b650&exportkey=A9U1h3310my%2Bw9xAhpVVkLU%3D&acctmode=0&pass_ticket=nbAVwylOthGZ0VV%2BXAk71sC594v05R50saz1fCiEe9dZqpTTt1qZX%2FtDBPmcJ00P&wx_header=0&fontgear=2&scene=27#wechat_redirect)
 
 中国数字产业领域中立的第三方调研机构，提供网络安全行业的调查、研究与咨询服务。
 
@@ -40,13 +40,26 @@
 
 ### [深圳市网络与信息安全行业协会](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
 
-[:chart_with_upwards_trend:【0/28/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
+[:chart_with_upwards_trend:【0/29/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
 
-[:camera_flash:【2022-08-18 21:45:59】](https://mp.weixin.qq.com/s?__biz=MzU0Mzk0NDQyOA==&mid=2247502907&idx=1&sn=b788af31f761958f5b9ba1bba8022afd&chksm=fb0137b8cc76beae2cac954484933bda0fa1a1d872acc84b4f41608e52446425a8d838aa236b&scene=27#wechat_redirect)
+[:camera_flash:【2022-08-19 18:03:00】](https://mp.weixin.qq.com/s?__biz=MzU0Mzk0NDQyOA==&mid=2247502940&idx=1&sn=b85a451a5f8563f4a57c1030aec0b255&chksm=fb0137dfcc76bec91b3bdf732845a5bf2ae6b737b42b7889f50045b27866e5ccdb55840d7c71&scene=27#wechat_redirect)
 
 深圳市网络与信息安全行业协会（SNISA），是深圳市网络与信息安全行业的权威组织，是中国网络安全审查技术与认证中心（CCRC）在深圳唯一授权工作站，是经深圳市人力资源和社会保障局核准，开展网络空间安全工程技术专业职称评审工作的社会组织。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_650442d8cad4" alt="" />
+
+---
+
+
+### [甲方安全建设](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0MDcyMTMxOQ==)
+
+[:chart_with_upwards_trend:【10/15/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0MDcyMTMxOQ==)
+
+[:camera_flash:【2022-08-19 12:45:38】](https://mp.weixin.qq.com/s?__biz=MzU0MDcyMTMxOQ==&mid=2247486938&idx=1&sn=5237ebbcdf358bb48bcfffb1952d5a75&chksm=fb35a412cc422d0460998e55464bc2e3b2c5b2d7caafad6031cf7e2e8dd4c91190e0bb1fa621&scene=27#wechat_redirect)
+
+甲方安全建设的点滴，共同学习，一起进步。 笔耕不辍也是对自我的督促。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_97cc04db2203" alt="" />
 
 ---
 
@@ -64,22 +77,9 @@
 ---
 
 
-### [甲方安全建设](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0MDcyMTMxOQ==)
-
-[:chart_with_upwards_trend:【7/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0MDcyMTMxOQ==)
-
-[:camera_flash:【2022-08-18 10:29:43】](https://mp.weixin.qq.com/s?__biz=MzU0MDcyMTMxOQ==&mid=2247486852&idx=1&sn=72846e0e9c84a28465e073a1d05f083d&chksm=fb35a44ccc422d5a3aa0729fbd1cf58bf36c34b254d06eb12187e4c6a7cfcb1c130a7bcc4c4d&scene=27#wechat_redirect)
-
-甲方安全建设的点滴，共同学习，一起进步。 笔耕不辍也是对自我的督促。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_97cc04db2203" alt="" />
-
----
-
-
 ### [vivo千镜](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0Njg4NzE3MQ==)
 
-[:chart_with_upwards_trend:【0/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0Njg4NzE3MQ==)
+[:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0Njg4NzE3MQ==)
 
 [:camera_flash:【2022-08-18 12:00:01】](https://mp.weixin.qq.com/s?__biz=MzI0Njg4NzE3MQ==&mid=2247489268&idx=1&sn=6e5105132a8b0791c9ce0ab58bed5202&chksm=e9b93098deceb98ed40847374f841cb2faedda58678a457cc4d7e3172489209da7e3e4858f59&scene=27#wechat_redirect)
 
