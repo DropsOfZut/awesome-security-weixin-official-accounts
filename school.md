@@ -1,7 +1,7 @@
 
 ### [大学生网络安全尖锋训练营](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
 
-[:chart_with_upwards_trend:【0/26/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
+[:chart_with_upwards_trend:【0/24/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
 
 [:camera_flash:【2022-08-19 09:02:02】](https://mp.weixin.qq.com/s?__biz=MzUzODkwMDMxNA==&mid=2247503635&idx=1&sn=e73072befc9c80ca7cdb57a607009ae3&chksm=fad22d26cda5a43026a43f62174313b6fabbf77b2aa8f437765fe78ee40c0fae43490b33d1df&scene=27#wechat_redirect)
 
@@ -27,7 +27,7 @@
 
 ### [启明星辰网络空间安全学院](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
 
-[:chart_with_upwards_trend:【0/13/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
+[:chart_with_upwards_trend:【0/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
 
 [:camera_flash:【2022-08-19 16:52:24】](https://mp.weixin.qq.com/s?__biz=MzUzNDg0NTc1NA==&mid=2247492658&idx=1&sn=46d5d2f724267e06830c0a7be126581d&chksm=fa8c2467cdfbad7165be55d070978123758d05f46d5a6120a06090f869c5d3da490d6356d23f&scene=27#wechat_redirect)
 
@@ -66,7 +66,7 @@
 
 ### [连天教育](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNTk2MDAwNA==)
 
-[:chart_with_upwards_trend:【0/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNTk2MDAwNA==)
+[:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNTk2MDAwNA==)
 
 [:camera_flash:【2022-08-17 16:03:01】](https://mp.weixin.qq.com/s?__biz=MzIwNTk2MDAwNA==&mid=2247486028&idx=2&sn=236277143a3d65e6cfb9473352178d8d&chksm=9729ac67a05e25715711c8c93c9d3b71355fa850f2dffc0c1d05f503c543ce9a99f3028773e2&scene=27&key=e8677526fb452b6d75c67e64d48a82f533c0c7f66befb8428a17b506b64784f71036650d51f7c998f2eee1c44e2882e3e4bfbf0beeb26937779356bc74ac9c20c6004108086bfceaae4ebb09080853439e670264424709ef313719b6565b2b130fe9394ad23ded66248502564591d630bc686e67faaa73910b6ea9153258ccf1&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+10+x64&version=6307051f&lang=zh_CN&session_us=gh_5206deb3cebc&exportkey=A2xXos9gimo1kU9QKW50Ctg%3D&acctmode=0&pass_ticket=nbAVwylOthGZ0VV%2BXAk71sC594v05R50saz1fCiEe9dZqpTTt1qZX%2FtDBPmcJ00P&wx_header=0&fontgear=2&scene=27#wechat_redirect)
 
@@ -155,19 +155,6 @@
 ---
 
 
-### [安协小天使](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxNDU2ODg3Mw==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxNDU2ODg3Mw==)
-
-[:camera_flash:【2022-07-22 20:00:21】](https://mp.weixin.qq.com/s?__biz=MzIxNDU2ODg3Mw==&mid=2247484946&idx=1&sn=65886e4cbda76c03ba33544faaa814f6&chksm=97a4dcd4a0d355c264eabddd2d4890035de0d043815bd4087582d366f32d1a996695c56f9b2a&scene=27#wechat_redirect)
-
-杭州电子科技大学Vidar-Team (原信息安全协会HDUISA&amp;网络空间安全协会)  消息助手
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e4ac6bc8fbfb" alt="" />
-
----
-
-
 ### [三叶草小组Syclover](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzOTg0NjYzNg==)
 
 [:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzOTg0NjYzNg==)
@@ -229,6 +216,19 @@
 中原工学院（ZUT）攻防技术团队
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_84fc2a89caa2" alt="" />
+
+---
+
+
+### [安协小天使](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxNDU2ODg3Mw==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxNDU2ODg3Mw==)
+
+[:camera_flash:【2022-07-22 20:00:21】](https://mp.weixin.qq.com/s?__biz=MzIxNDU2ODg3Mw==&mid=2247484946&idx=1&sn=65886e4cbda76c03ba33544faaa814f6&chksm=97a4dcd4a0d355c264eabddd2d4890035de0d043815bd4087582d366f32d1a996695c56f9b2a&scene=27#wechat_redirect)
+
+杭州电子科技大学Vidar-Team (原信息安全协会HDUISA&amp;网络空间安全协会)  消息助手
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e4ac6bc8fbfb" alt="" />
 
 ---
 
