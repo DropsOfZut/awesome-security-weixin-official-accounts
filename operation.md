@@ -1,7 +1,7 @@
 
 ### [Linux中国](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ4MjYwMQ==)
 
-[:chart_with_upwards_trend:【92/100/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ4MjYwMQ==)
+[:chart_with_upwards_trend:【89/97/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ4MjYwMQ==)
 
 [:camera_flash:【2022-08-20 19:11:48】](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664663243&idx=1&sn=dd213a492083ddfa73f647af812b13d1&chksm=bdcfb38d8ab83a9ba26f34d09db0fde091bdb43fd7ba0647e7693c1aae054e74135913b3ebe4&scene=27#wechat_redirect)
 
@@ -14,9 +14,9 @@
 
 ### [系统安全运维](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NjE0NDc5OQ==)
 
-[:chart_with_upwards_trend:【0/79/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NjE0NDc5OQ==)
+[:chart_with_upwards_trend:【0/76/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NjE0NDc5OQ==)
 
-[:camera_flash:【2022-08-22 08:08:29】](https://mp.weixin.qq.com/s?__biz=Mzk0NjE0NDc5OQ==&mid=2247508346&idx=2&sn=a78b2bbc4b056a888aaea7442b2bfe59&chksm=c308720af47ffb1c00129dbd2878fccc895701a7a59e9635c3614c234ee7a135970436dcc9d4&scene=27#wechat_redirect)
+[:camera_flash:【2022-08-22 08:08:29】](https://mp.weixin.qq.com/s?__biz=Mzk0NjE0NDc5OQ==&mid=2247508346&idx=1&sn=d71a3c931a266193e4e7b9f27d26d460&chksm=c308720af47ffb1c0d0d8819d6a88de4c6ffabf565fcb97304b424d0b933471f74f1a08599c7&scene=27#wechat_redirect)
 
 未知攻 焉知防 攻防兼备
 
@@ -27,7 +27,7 @@
 
 ### [kali黑客笔记](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzIwNTY1OA==)
 
-[:chart_with_upwards_trend:【26/28/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzIwNTY1OA==)
+[:chart_with_upwards_trend:【25/27/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzIwNTY1OA==)
 
 [:camera_flash:【2022-08-22 08:00:32】](https://mp.weixin.qq.com/s?__biz=MzkxMzIwNTY1OA==&mid=2247490571&idx=1&sn=b99a68333ad160197418b6428aa2fe90&chksm=c1006cfef677e5e821673b6522f4acd75c5783ba7e9305d7026bce91b5e637cb939105591edc&scene=27#wechat_redirect)
 
@@ -94,7 +94,7 @@ BAT 技术专家分享开发、架构、运维相关干货！
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI4MDEwNzAzNg==)
 
-[:camera_flash:【2022-08-12 12:18:13】](https://mp.weixin.qq.com/s?__biz=MzI4MDEwNzAzNg==&mid=2649458155&idx=1&sn=db8ea3e2675ec334a5f673ef8a9f6f3f&chksm=f3a2a498c4d52d8e30b561d5f648a165a2fb23bd0d3e3ba0edc7d9d1688f57358c98ab40e7cb&scene=27#wechat_redirect)
+[:camera_flash:【2022-08-22 12:18:14】](https://mp.weixin.qq.com/s?__biz=MzI4MDEwNzAzNg==&mid=2649458167&idx=1&sn=675cf2e80322ed2017170e68e8f8d778&chksm=f3a2a484c4d52d9252f8a692b0b71374bb30e5ec6f6647052fabb1cf0d96553254d632f4130f&scene=27#wechat_redirect)
 
 专注分享Linux/Unix相关内容，包括Linux命令、Linux内核、Linux系统开发、Linux运维、网络编程、开发工具等Linux相关知识和技术
 
