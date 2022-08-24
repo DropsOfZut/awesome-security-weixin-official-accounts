@@ -1,9 +1,9 @@
 
 ### [大学生网络安全尖锋训练营](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
 
-[:chart_with_upwards_trend:【0/21/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
+[:chart_with_upwards_trend:【0/19/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
 
-[:camera_flash:【2022-08-19 09:02:02】](https://mp.weixin.qq.com/s?__biz=MzUzODkwMDMxNA==&mid=2247503635&idx=1&sn=e73072befc9c80ca7cdb57a607009ae3&chksm=fad22d26cda5a43026a43f62174313b6fabbf77b2aa8f437765fe78ee40c0fae43490b33d1df&scene=27#wechat_redirect)
+[:camera_flash:【2022-08-23 10:12:33】](https://mp.weixin.qq.com/s?__biz=MzUzODkwMDMxNA==&mid=2247503667&idx=1&sn=5b85d1688344b74a099325ec3948fe3e&chksm=fad22d06cda5a410e38feb6b94b9ff76305909252a9756696651d92b1b4a95375e2d462ff341&scene=27#wechat_redirect)
 
 百所高校、百家用人单位、百名尖锋导师，携手打造定制化人才培养模式，通过导师制职业规划和封闭式岗位实训，补足知识短板、提高实战能力，培养创新型、实用型网络安全尖锋人才。
 
@@ -64,6 +64,19 @@
 ---
 
 
+### [复旦白泽战队](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
+
+[:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
+
+[:camera_flash:【2022-08-23 15:05:14】](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247485815&idx=1&sn=6b1e3bcb60567116746521417bbc72ec&chksm=fdeb8d09ca9c041ff62e50f3d13f706128203a4ba7762b16bea44ed6da3580f6c6fb6b62d494&scene=27&key=570eb32d49da9a7584e7ebf543068094d0df4022c1a523f7ac6aa6ab30f5ca283b91d1e686dc6f409ff174915c2064bf8212fbbb6d6113943bc66bd1121d23a942b556c0869822b58b1066ea7b2b699fb5794fb01e8c20170c9586bd179a8463b6fc30b990c4f897e1fd4ec10ec079f11231f39c4ef4269fbcde10ff1ca8c5f2&ascene=15&uin=MTA3Mzc3OTIzNQ%3D%3D&devicetype=Windows+Server+2016+x64&version=63070517&lang=zh_CN&session_us=gh_cbab6d7b8e9b&exportkey=AToDnKgtkIdbt1%2Fd7ppBpSA%3D&acctmode=0&pass_ticket=IeVJnpg5Iffag6nHzSnt9EMlPP3bVUunE4eHZ1g7apeloV5R47fq07Iq%2Bbt2Xvjp&wx_header=0&fontgear=2&scene=27#wechat_redirect)
+
+以复旦大学系统安全实验室学生为主成立的安全攻防战队，分享最新研究成果，交流系统安全攻防领域技巧。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f1bf07da06d8" alt="" />
+
+---
+
+
 ### [连天教育](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNTk2MDAwNA==)
 
 [:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNTk2MDAwNA==)
@@ -77,24 +90,11 @@
 ---
 
 
-### [复旦白泽战队](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
-
-[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
-
-[:camera_flash:【2022-08-17 22:00:06】](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247485800&idx=1&sn=1f7e4b9e136e7d56513810d3c16555a7&chksm=fdeb8d16ca9c040034fa931c3fb9354d5e8cbc26087df0fb7a41fbf522fd77b6483564a77d4b&scene=27#wechat_redirect)
-
-以复旦大学系统安全实验室学生为主成立的安全攻防战队，分享最新研究成果，交流系统安全攻防领域技巧。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f1bf07da06d8" alt="" />
-
----
-
-
 ### [河北网络安全高校联盟](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4ODUyMjYyNg==)
 
 [:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4ODUyMjYyNg==)
 
-[:camera_flash:【2022-08-09 12:54:06】](https://mp.weixin.qq.com/s?__biz=Mzg4ODUyMjYyNg==&mid=2247485858&idx=1&sn=0bcf085ee0fc67e3b4e6dcb880dcde3c&chksm=cff89b4ff88f1259f145777db2c01310cff47e809cffdb385212c1e4f447f72c98236a898eeb&scene=27#wechat_redirect)
+[:camera_flash:【2022-08-23 09:59:08】](https://mp.weixin.qq.com/s?__biz=Mzg4ODUyMjYyNg==&mid=2247485905&idx=1&sn=234099268920dd11e430cb2aa61871f7&chksm=cff89b3cf88f122a399a898be2230baa698f69f5ada05ed539440fb37deed34c20ea9edd2b28&scene=27#wechat_redirect)
 
 河北网络安全高校联盟
 
@@ -198,7 +198,7 @@
 
 [:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5NDczNDc4NA==)
 
-[:camera_flash:【2022-08-22 21:25:36】](https://mp.weixin.qq.com/s?__biz=Mzg5NDczNDc4NA==&mid=2247490873&idx=1&sn=79e82eab6e813b6a52029299cef4a889&chksm=c01a4596f76dcc80b514bf741729e395d15a158b494ef6da6b9df1ac73ff315d4d4b40efcfae&scene=27#wechat_redirect)
+[:camera_flash:【2022-08-23 16:14:38】](https://mp.weixin.qq.com/s?__biz=Mzg5NDczNDc4NA==&mid=2247490879&idx=1&sn=bdfde33285e5ddddb62524bc262a282c&chksm=c01a4590f76dcc8662caf378ca68f0adfa3cf837ef479c2f6f6a3185c0f42b2df82b694a6748&scene=27#wechat_redirect)
 
 浙江大学网络空间安全学院/浙江大学网络空间安全研究中心
 
