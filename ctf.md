@@ -1,13 +1,26 @@
 
 ### [寰宇卫士](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
 
-[:chart_with_upwards_trend:【0/23/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
+[:chart_with_upwards_trend:【0/22/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
 
-[:camera_flash:【2022-08-23 17:29:49】](https://mp.weixin.qq.com/s?__biz=MzIwMzU0NDY5OA==&mid=2247493875&idx=1&sn=367cbf0aa63d43a1c5ade2724a3f3423&chksm=96cf69e6a1b8e0f0dd85c3e1da249ff698ac54738eed8c51fe2e52c4300849d5bac49c4839ed&scene=27#wechat_redirect)
+[:camera_flash:【2022-08-24 14:29:07】](https://mp.weixin.qq.com/s?__biz=MzIwMzU0NDY5OA==&mid=2247493893&idx=1&sn=ada8fa0ea918dee18dc3b6726085278a&chksm=96cf6810a1b8e106dde16bdc321943427668c33b9f0b8f89c179df885f8e6319406fc0ceacdd&scene=27#wechat_redirect)
 
 寰宇卫士综合安全咨询、安全服务、解决方案、认证培训、产品研发等信息安全多元化产业链为一体。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_7aa3785c2fbe" alt="" />
+
+---
+
+
+### [强网竞赛](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjY3NDQ2Ng==)
+
+[:chart_with_upwards_trend:【0/18/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjY3NDQ2Ng==)
+
+[:camera_flash:【2022-08-21 23:13:02】](https://mp.weixin.qq.com/s?__biz=Mzg4MjY3NDQ2Ng==&mid=2247485928&idx=1&sn=7b0c35d11110525688fb1d2f42409277&chksm=cf5257a5f825deb3ad3e0386ed3d3950422ab5f6193b8f5cbb9f4ae9823452a84fb442210c3e&scene=27#wechat_redirect)
+
+强网竞赛是面向高等院校和国内信息安全企业的国家级赛事，旨在通过高对抗的竞技比赛，发现锻造网络安全领域优秀人才，提高国家网络安全保障能力，提升全民网络安全意识。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_cf8bfd7de794" alt="" />
 
 ---
 
@@ -21,19 +34,6 @@
 春秋伽玛，为广大网络安全爱好者传递网络安全大赛相关赛事信息，提供优质的赛事服务平台
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_07fa2c2720be" alt="" />
-
----
-
-
-### [强网竞赛](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjY3NDQ2Ng==)
-
-[:chart_with_upwards_trend:【0/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjY3NDQ2Ng==)
-
-[:camera_flash:【2022-08-21 23:13:02】](https://mp.weixin.qq.com/s?__biz=Mzg4MjY3NDQ2Ng==&mid=2247485928&idx=1&sn=7b0c35d11110525688fb1d2f42409277&chksm=cf5257a5f825deb3ad3e0386ed3d3950422ab5f6193b8f5cbb9f4ae9823452a84fb442210c3e&scene=27#wechat_redirect)
-
-强网竞赛是面向高等院校和国内信息安全企业的国家级赛事，旨在通过高对抗的竞技比赛，发现锻造网络安全领域优秀人才，提高国家网络安全保障能力，提升全民网络安全意识。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_cf8bfd7de794" alt="" />
 
 ---
 
