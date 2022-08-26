@@ -1,7 +1,7 @@
 
 ### [大学生网络安全尖锋训练营](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
 
-[:chart_with_upwards_trend:【0/17/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
+[:chart_with_upwards_trend:【0/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
 
 [:camera_flash:【2022-08-24 08:43:14】](https://mp.weixin.qq.com/s?__biz=MzUzODkwMDMxNA==&mid=2247503819&idx=1&sn=a5ffac2ee097750beb932a37f0f2ff55&chksm=fad22dfecda5a4e8396e0d35c1733a6953308c06387a85cb27eb9e00e521117a827dfd05b46e&scene=27#wechat_redirect)
 
@@ -25,19 +25,6 @@
 ---
 
 
-### [启明星辰网络空间安全学院](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
-
-[:chart_with_upwards_trend:【0/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
-
-[:camera_flash:【2022-08-24 16:56:15】](https://mp.weixin.qq.com/s?__biz=MzUzNDg0NTc1NA==&mid=2247492732&idx=1&sn=f3d9f28c6d35e4b88d7d4ee021c549a1&chksm=fa8c2429cdfbad3fb6e2597d5a904748573c06630eaab8ef4a21101af9382fdff98271a222b1&scene=27#wechat_redirect)
-
-启明星辰网络空间安全学院以国家网络安全事业发展为使命，依托启明星辰集团多年的技术沉淀及实践积累，提供网络安全人才体系构建与信息安全技术及能力提升教育培训，为建设网络强国提供有力的人才支撑。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_310250868fd4" alt="" />
-
----
-
-
 ### [合天网络安全](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyNzU3Mzg2NQ==)
 
 [:chart_with_upwards_trend:【0/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyNzU3Mzg2NQ==)
@@ -47,6 +34,19 @@
 网安学院拥有专业教学服务、就业指导，课程配套靶场实战平台（www.hetianlab.com），学员学完就练，切实提升实践动手能力；课程涵盖Web安全、软件安全、网络安全等网安各个相关方面。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a6ba8f92d07d" alt="" />
+
+---
+
+
+### [启明星辰网络空间安全学院](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
+
+[:chart_with_upwards_trend:【0/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
+
+[:camera_flash:【2022-08-25 16:45:56】](https://mp.weixin.qq.com/s?__biz=MzUzNDg0NTc1NA==&mid=2247492800&idx=1&sn=b5c0895e75ba0d8f960acf48534ce1ba&chksm=fa8c2495cdfbad83200673bb5d33c3cb421945f700ca0a43cfdec023cc2b18721097fc31452c&scene=27#wechat_redirect)
+
+启明星辰网络空间安全学院以国家网络安全事业发展为使命，依托启明星辰集团多年的技术沉淀及实践积累，提供网络安全人才体系构建与信息安全技术及能力提升教育培训，为建设网络强国提供有力的人才支撑。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_310250868fd4" alt="" />
 
 ---
 
@@ -146,7 +146,7 @@
 
 [:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzOTg0NjYzNg==)
 
-[:camera_flash:【2022-08-22 10:00:38】](https://mp.weixin.qq.com/s?__biz=MzIzOTg0NjYzNg==&mid=2247487995&idx=1&sn=eff1d3cfde6ddda9bad34ed2f0cbfb36&chksm=e9228478de550d6e582bcc16d442a0d3c4efe66b0aeee1a4d30db5e7e9c3cd0a942d2f68d204&scene=27#wechat_redirect)
+[:camera_flash:【2022-08-25 10:20:46】](https://mp.weixin.qq.com/s?__biz=MzIzOTg0NjYzNg==&mid=2247488364&idx=1&sn=bd2fad079420abd09790728a2c3c58e4&chksm=e92286efde550ff9732303eb1723466c125e714897eee096d48bdddb3aaccb0be58a2c987b5f&scene=27#wechat_redirect)
 
 一个专注于网络空间安全的高校技术团队，成立于2005年3月，主要研究方向有渗透测试、逆向工程、移动安全、安全编程、漏洞利用等；公众号定期推送小组成员原创文章
 
@@ -164,6 +164,19 @@
 鸿鸟只思羽翼齐,点翅飞腾千万里
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_362d1c6237f9" alt="" />
+
+---
+
+
+### [广外网络安全实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MTI2NDA5MA==)
+
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MTI2NDA5MA==)
+
+[:camera_flash:【2022-08-25 00:00:47】](https://mp.weixin.qq.com/s?__biz=MzU2MTI2NDA5MA==&mid=2247483896&idx=1&sn=cc3b4a7411a89ee2b9834267a40ac41f&chksm=fc7a254dcb0dac5ba3e6767c7a31b0bde6d1bb444c47c04e2d45660358b54b1f1b1c3836db37&scene=27#wechat_redirect)
+
+广东外语外贸大学网络安全实验室信息推送和资源平台
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8176da819e03" alt="" />
 
 ---
 
@@ -211,7 +224,7 @@
 
 [:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxMTEwOTA3OA==)
 
-[:camera_flash:【2022-08-11 18:34:49】](https://mp.weixin.qq.com/s?__biz=MzUxMTEwOTA3OA==&mid=2247483924&idx=1&sn=f766f4409e5e31d71e20d9270e6cef15&chksm=f979f0adce0e79bb23c7db99ffdeff9a365c9494b543e13cfdf9d70333d54c45590a380812d5&scene=27#wechat_redirect)
+[:camera_flash:【2022-08-25 23:04:28】](https://mp.weixin.qq.com/s?__biz=MzUxMTEwOTA3OA==&mid=2247483940&idx=1&sn=dcc9c29d31992af3ecec70fb6300e8a1&chksm=f979f09dce0e798b966b1a23cd272eaa96e67b3388ed1d7e990a2e79cd6065b78fd4adc971a2&scene=27#wechat_redirect)
 
 清华大学网络与信息安全实验室(NISL@THU)，专注于网络、系统、应用、人工智能安全教学与研究，在国际四大安全会议发表三十余篇论文，成果在业界产生了广泛影响力。孕育了蓝莲花、紫荆花等知名战队，发起了网安国际学术论坛InForSec。
 
@@ -255,19 +268,6 @@
 清华大学学生网络安全技术协会信息推送和资源平台
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_26798762d3e1" alt="" />
-
----
-
-
-### [广外网络安全实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MTI2NDA5MA==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MTI2NDA5MA==)
-
-[:camera_flash:【2022-08-25 00:00:47】](https://mp.weixin.qq.com/s?__biz=MzU2MTI2NDA5MA==&mid=2247483896&idx=1&sn=cc3b4a7411a89ee2b9834267a40ac41f&chksm=fc7a254dcb0dac5ba3e6767c7a31b0bde6d1bb444c47c04e2d45660358b54b1f1b1c3836db37&scene=27#wechat_redirect)
-
-广东外语外贸大学网络安全实验室信息推送和资源平台
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8176da819e03" alt="" />
 
 ---
 
@@ -653,7 +653,7 @@ Covteam工作室，成立于2005年。是以西华大学在校本科生研究生
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxNDQ2NDE1MA==)
 
-[:camera_flash:【2022-07-06 14:30:51】](https://mp.weixin.qq.com/s?__biz=MzAxNDQ2NDE1MA==&mid=2247484005&idx=1&sn=17012d284b6e441c74e00485eb0a3bd6&chksm=9b93a79cace42e8a4f339421389d5c10a4c6d803b4a2cd044bd216a6ab4912d95e89387b1679&scene=27&key=a42ed7a44607670d63b94a022a2e8e63513ba059a5a8b2cddca23ab1d579709f06ba1ec56374f7606b4944e2b65c4001a66a9efb48c5b37e4f33e497f28e27ed738ff647979be99a9f871fcd9b47809cb81e9cd25bb64c287e154049065a5b5af01f825983debc65f89aa86ccf7d5e33836a5fa523f5a0c032221a7b39928413&ascene=15&uin=MTA3Mzc3OTIzNQ%3D%3D&devicetype=Windows+Server+2016+x64&version=6307001e&lang=zh_CN&session_us=gh_f1d4da495e4f&exportkey=AaVXAAwgNK0f2CUgQaZYkkE%3D&acctmode=0&pass_ticket=rpk%2FFS6ee0mep%2BeqNFLs6S%2BUeSXypoCrlWpVQ9IfcEUhNd%2ByRySTZDjOa7K3JXq2&wx_header=0&fontgear=2&scene=27#wechat_redirect)
+[:camera_flash:【2022-08-25 18:30:46】](https://mp.weixin.qq.com/s?__biz=MzAxNDQ2NDE1MA==&mid=2247484185&idx=1&sn=99c73f8a6e95d553bf60dcc8251b706e&chksm=9b93a6e0ace42ff634d889e45e547b22c91f571bae65c85a200cf10a14edf8f98b0a80716d20&scene=27#wechat_redirect)
 
 Birkenwald安全团队 --来自哈尔滨理工大学
 
@@ -666,7 +666,7 @@ Birkenwald安全团队 --来自哈尔滨理工大学
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwMTI5NDYzOA==)
 
-[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
+[:camera_flash:【2022-08-26 03:04:27】](https://mp.weixin.qq.com/s?__biz=MzAwMTI5NDYzOA==&mid=2247483798&idx=1&sn=691989441cab80cbb194509076ce3d13&chksm=9adaa9d7adad20c1e5e707e06ab42bb860b95f00996f142af9fb71bc09069c1f90951a96fedf&scene=27#wechat_redirect)
 
 江西理工大学信息安全工作室——Stalker战队公众号
 
