@@ -1,7 +1,7 @@
 
 ### [汇编语言](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxNDcwOTcwOQ==)
 
-[:chart_with_upwards_trend:【0/226/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxNDcwOTcwOQ==)
+[:chart_with_upwards_trend:【0/218/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxNDcwOTcwOQ==)
 
 [:camera_flash:【2022-08-25 12:21:58】](https://mp.weixin.qq.com/s?__biz=MzIxNDcwOTcwOQ==&mid=2247493865&idx=1&sn=14aaab35689ea6c8eb2379b48663eecd&chksm=97a1cc4ba0d6455d00b4883447184c895f50e39e36fad62d24729593e653ced17294b3646e93&scene=27&key=9164184113abefbb5e14a7d533a6cbfac8eaaa109bca07128e8cebeaebe26e0d44262b103c2244f4070cede2cc30fc52747b02e971019f6b34ac0b14264b46013e82b7d991fe3318f7c1009a1e3b9f3f659756064dd7f5a5b77d6f656c5540fda88ba0c2cb2dfdfa02e66d6e745467a5518973c48696efa3f90caf9c96172757&ascene=15&uin=MzgxODQ4MjMz&devicetype=Windows+Server+2016+x64&version=63070517&lang=zh_CN&session_us=gh_9feb5a276a2a&exportkey=A7CmVhMDrP6JKgG2aew9hro%3D&acctmode=0&pass_ticket=FfHHbgGgFgmO4%2BWau%2BwbkEWEFHB%2BWOx6nwF%2FdzwrOQPlfH%2FF5J%2FZ9lnAaVfrgnkP&wx_header=0&fontgear=2&scene=27#wechat_redirect)
 
@@ -14,7 +14,7 @@
 
 ### [看雪学苑](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTc2MDYxMw==)
 
-[:chart_with_upwards_trend:【16/90/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTc2MDYxMw==)
+[:chart_with_upwards_trend:【15/87/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTc2MDYxMw==)
 
 [:camera_flash:【2022-08-25 18:02:59】](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458465700&idx=1&sn=88c0571f7a9bd353015fb15b395c8099&chksm=b18e052e86f98c382c9d5ae0de7b9a6650d19c61b78f9c33e06db03a4434bd51fe5238d46ca6&scene=27#wechat_redirect)
 
@@ -34,19 +34,6 @@
 吾爱破解论坛致力于软件安全与病毒分析的前沿，丰富的技术版块交相辉映，由无数热衷于软件加密解密及反病毒爱好者共同维护，留给世界一抹值得百年回眸的惊艳，沉淀百年来计算机应用之精华与优雅，任岁月流转，低调而奢华的技术交流与探索却是亘古不变。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_fb242c15300f" alt="" />
-
----
-
-
-### [米瑞尔信息安全](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2Mjc5NjQ0OA==)
-
-[:chart_with_upwards_trend:【1/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2Mjc5NjQ0OA==)
-
-[:camera_flash:【2022-07-27 23:11:53】](https://mp.weixin.qq.com/s?__biz=MzI2Mjc5NjQ0OA==&mid=2247485406&idx=1&sn=5824bba2eb266bc193607b8d5d3f139a&chksm=ea44e211dd336b079fa42b2924273cfdb042f4ab453d0ea843f2523ad02baeb2939e46037e83&scene=27#wechat_redirect)
-
-主打研究方向Ai人工智能、物联网安全、Web安全、APP安全、逆向工程、二进制、电子取证、信息安全
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_c6ea851cd149" alt="" />
 
 ---
 
@@ -190,6 +177,19 @@ pWn3d bY BiGSKidd3r&amp;FuzZer&amp;A2pter&amp;pWn3r rULe4Ker4pwn 65535 tim3s.
 随便逆逆，随便挖挖。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_c08b6fb82c4b" alt="" />
+
+---
+
+
+### [米瑞尔信息安全](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2Mjc5NjQ0OA==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2Mjc5NjQ0OA==)
+
+[:camera_flash:【2022-07-27 23:11:53】](https://mp.weixin.qq.com/s?__biz=MzI2Mjc5NjQ0OA==&mid=2247485406&idx=1&sn=5824bba2eb266bc193607b8d5d3f139a&chksm=ea44e211dd336b079fa42b2924273cfdb042f4ab453d0ea843f2523ad02baeb2939e46037e83&scene=27#wechat_redirect)
+
+主打研究方向Ai人工智能、物联网安全、Web安全、APP安全、逆向工程、二进制、电子取证、信息安全
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_c6ea851cd149" alt="" />
 
 ---
 
