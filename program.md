@@ -1,9 +1,9 @@
 
 ### [编码安全研究](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NDY1MDc2Mg==)
 
-[:chart_with_upwards_trend:【0/64/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NDY1MDc2Mg==)
+[:chart_with_upwards_trend:【0/66/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NDY1MDc2Mg==)
 
-[:camera_flash:【2022-08-26 09:09:19】](https://mp.weixin.qq.com/s?__biz=Mzg2NDY1MDc2Mg==&mid=2247494253&idx=1&sn=c89ec6b25a12e8bd5f42ea23aafc68b4&chksm=ce64b908f913301e71880304ab76a6e641021242635ad0e1f66627c6ba81a47ab2c77a21c7f8&scene=27#wechat_redirect)
+[:camera_flash:【2022-08-27 09:09:25】](https://mp.weixin.qq.com/s?__biz=Mzg2NDY1MDc2Mg==&mid=2247494482&idx=1&sn=3e962e73552f72b22e595702f47c000d&chksm=ce64b837f913312130e6a33299a94164b7084c40566fc2bb4c1e42c9459f561823c9895b8676&scene=27#wechat_redirect)
 
 专注于学习网络安全
 
@@ -14,7 +14,7 @@
 
 ### [字节跳动技术团队](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
 
-[:chart_with_upwards_trend:【13/29/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
+[:chart_with_upwards_trend:【13/30/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
 
 [:camera_flash:【2022-08-26 12:00:41】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247498242&idx=1&sn=939412ce672d2bfcf053b56f50f14818&chksm=e9d331e0dea4b8f65913b589e98dbacb8edba92ff623bef0d57413dd55695a9e661cc0e55adf&scene=27#wechat_redirect)
 
@@ -27,7 +27,7 @@
 
 ### [GoCN](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4ODg0NDkzOA==)
 
-[:chart_with_upwards_trend:【12/15/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4ODg0NDkzOA==)
+[:chart_with_upwards_trend:【12/16/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4ODg0NDkzOA==)
 
 [:camera_flash:【2022-08-26 08:00:01】](https://mp.weixin.qq.com/s?__biz=MzA4ODg0NDkzOA==&mid=2247504242&idx=1&sn=e432f2f74ea209b8680cfefc3817e9ac&chksm=90216e97a756e781647887222585956d936194c22da8d22979bc27139178ee9835e4ecfe22ad&scene=27#wechat_redirect)
 
@@ -42,7 +42,7 @@
 
 [:chart_with_upwards_trend:【8/15/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3Njc0NTgwMg==)
 
-[:camera_flash:【2022-08-23 12:00:39】](https://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&mid=2247488664&idx=1&sn=d27013c6e1bb83472a49225979162264&chksm=cf2cd1bdf85b58ab93d7053d3c9f5168d5dcabd74267fbe775d239a49e85e09de27642893469&scene=27&key=00d65dfbf652ec008bdc25b7e5ab8ed0e617e31ed2abe15daa00487a752048ac0aedbda2b64bcebc9fa863fbc7ec92d52901c3e4b557411eabbe64cc875a2e31d078bc9dad85dd207952445055cd2a84f3f170f94accf63b921e0a69fab36ad3c4dfe0fa68ebf5f9ee7d81d6dda2679b3ea1cf23573643a63a03f045c87f8a56&ascene=15&uin=MzgxODQ4MjMz&devicetype=Windows+Server+2016+x64&version=63070517&lang=zh_CN&session_us=gh_8e01ffd3a47c&exportkey=A0PRrR6rxZIrrE65Z2u2aiQ%3D&acctmode=0&pass_ticket=FfHHbgGgFgmO4%2BWau%2BwbkEWEFHB%2BWOx6nwF%2FdzwrOQPlfH%2FF5J%2FZ9lnAaVfrgnkP&wx_header=0&fontgear=2&scene=27#wechat_redirect)
+[:camera_flash:【2022-08-27 12:00:52】](https://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&mid=2247488761&idx=1&sn=8170d8306741e92f200acbfbedbf98ea&chksm=cf2cd1dcf85b58ca0f85a237ce0ef5f793a103fee2cba636b28ca39517605e559d2ed1ccb513&scene=27#wechat_redirect)
 
 提供B站相关技术的介绍和讲解
 
@@ -51,28 +51,28 @@
 ---
 
 
-### [美团技术团队](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ5MTI5OA==)
-
-[:chart_with_upwards_trend:【6/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ5MTI5OA==)
-
-[:camera_flash:【2022-08-25 19:58:32】](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651770674&idx=1&sn=f7eff64ed830340ff36850a76cf5a726&chksm=bd12167f8a659f69ae6146d55071ddd160a5b301d62d867c7a271ed2fc5e572ef7c286a49fe5&scene=27&key=d667817b94a6a6ec8bfdb51a2fd9139edb0779d52611f564cc70a03f9126df984b9dd60ed21936a791931e60c91bc490282a0acd9fbd93495ca8084249b37cf7086ffc6a56125bb50bd2d762b5b16bc72322d0331bf65acd4a11896bbe4b4a7cf7323550d49e03dc17d12616a190bd75cf986ab7ddaed9d3e2258bfea16a5f7d&ascene=15&uin=MzgxODQ4MjMz&devicetype=Windows+Server+2016+x64&version=63070517&lang=zh_CN&session_us=gh_523f772a62a6&exportkey=AzbE5T%2FDpzfg9JwuyhX2WSg%3D&acctmode=0&pass_ticket=FfHHbgGgFgmO4%2BWau%2BwbkEWEFHB%2BWOx6nwF%2FdzwrOQPlfH%2FF5J%2FZ9lnAaVfrgnkP&wx_header=0&fontgear=2&scene=27#wechat_redirect)
-
-10000+工程师，如何支撑中国领先的生活服务电子商务平台？数亿消费者、数百万商户、2000多个行业、几千亿交易额背后是哪些技术在支撑？这里是美团、大众点评、美团外卖、美团配送、美团优选等技术团队的对外窗口。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_96d37a04e9bf" alt="" />
-
----
-
-
 ### [腾讯技术工程](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
 
-[:chart_with_upwards_trend:【6/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
+[:chart_with_upwards_trend:【5/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
 
 [:camera_flash:【2022-08-26 18:00:21】](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649772834&idx=1&sn=39a7cbf4b1dc66dff853b5e7820e6f55&chksm=beccc05989bb494f71123c54554657a7030abc09499d70ccad975d4a0ba834006ba77bae423a&scene=27#wechat_redirect)
 
 腾讯技术官方号。腾讯技术创新、前沿领域发布解读平台。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_d14465b5ce6c" alt="" />
+
+---
+
+
+### [美团技术团队](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ5MTI5OA==)
+
+[:chart_with_upwards_trend:【5/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ5MTI5OA==)
+
+[:camera_flash:【2022-08-25 19:58:32】](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651770674&idx=1&sn=f7eff64ed830340ff36850a76cf5a726&chksm=bd12167f8a659f69ae6146d55071ddd160a5b301d62d867c7a271ed2fc5e572ef7c286a49fe5&scene=27&key=d667817b94a6a6ec8bfdb51a2fd9139edb0779d52611f564cc70a03f9126df984b9dd60ed21936a791931e60c91bc490282a0acd9fbd93495ca8084249b37cf7086ffc6a56125bb50bd2d762b5b16bc72322d0331bf65acd4a11896bbe4b4a7cf7323550d49e03dc17d12616a190bd75cf986ab7ddaed9d3e2258bfea16a5f7d&ascene=15&uin=MzgxODQ4MjMz&devicetype=Windows+Server+2016+x64&version=63070517&lang=zh_CN&session_us=gh_523f772a62a6&exportkey=AzbE5T%2FDpzfg9JwuyhX2WSg%3D&acctmode=0&pass_ticket=FfHHbgGgFgmO4%2BWau%2BwbkEWEFHB%2BWOx6nwF%2FdzwrOQPlfH%2FF5J%2FZ9lnAaVfrgnkP&wx_header=0&fontgear=2&scene=27#wechat_redirect)
+
+10000+工程师，如何支撑中国领先的生活服务电子商务平台？数亿消费者、数百万商户、2000多个行业、几千亿交易额背后是哪些技术在支撑？这里是美团、大众点评、美团外卖、美团配送、美团优选等技术团队的对外窗口。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_96d37a04e9bf" alt="" />
 
 ---
 
@@ -92,9 +92,9 @@
 
 ### [爱奇艺技术产品团队](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0MjczMjM2NA==)
 
-[:chart_with_upwards_trend:【2/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0MjczMjM2NA==)
+[:chart_with_upwards_trend:【3/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0MjczMjM2NA==)
 
-[:camera_flash:【2022-08-12 12:30:53】](https://mp.weixin.qq.com/s?__biz=MzI0MjczMjM2NA==&mid=2247496582&idx=1&sn=40b683adc5dd8709f9272f12ccda2759&chksm=e9756fa5de02e6b3e357c1c9962a53cfc6f838c253c0d370ea6ea7cb756cf50cf5069f48a0f8&scene=27&key=00d65dfbf652ec00c5a47d298aacc05ec75a6eb6282fa90b126519889ee3c2e1f3f4f6f55e6499a9fc26b41907bf5cc96fa0d0117d5bfaa66fdfeee74122e7e6cb60eb6aa8996b8bdc6e5e7a0e30afd1e818f65e37871bf619399f1352fed76b5f3fe8d5c5382f6e9e6d51c0d389bd296614af28500aba0ae14b18b26cb0e37b&ascene=15&uin=MzgxODQ4MjMz&devicetype=Windows+10+x64&version=6307051f&lang=zh_CN&session_us=gh_737fbe06535a&exportkey=A7RgY%2B2nJmadp9Px2Vtnb5o%3D&acctmode=0&pass_ticket=o3Y94IgnCUk2Zp%2FfJBlnRbWP57OIZNIXOb3rewxMrHGqIYEhJMO9nmrMXWKyuGNC&wx_header=0&fontgear=2&scene=27#wechat_redirect)
+[:camera_flash:【2022-08-26 12:00:22】](https://mp.weixin.qq.com/s?__biz=MzI0MjczMjM2NA==&mid=2247496654&idx=1&sn=de3d20d08da6df22028537af319c2d6d&chksm=e9756fedde02e6fb9b692e215eb5ffa4f981752d00ed7f3f770b6e3616fb47f0b917ca10560b&scene=27&key=b9f9fe4690f0a07ceb187d26a4e0842fd675df6a0714bfef5ddfc2bebc4fa408a3511e04c6bf22a9af5401abd7385ea37c97ea14ac38b907db0e40f4dc9f1356d8220abf52a209a5a00b003e8086cc695255ef904eadb50f2d234ab09cc2b8104c5e3d3e13cc2b8632c35dc73deb7811efe4079d052b20c00ce93e8958b78bb7&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+Server+2016+x64&version=63070517&lang=zh_CN&session_us=gh_ae9ab8305da0&exportkey=A7xZ3FUQSiFZXSpNnNwA2BA%3D&acctmode=0&pass_ticket=bVdH8Eo%2FDY0q%2FBHB%2BUgPghlXu6TngHYZaLE8EtSr7MaN6kowOzK0AAS%2BTq%2FurbXW&wx_header=0&fontgear=2&scene=27#wechat_redirect)
 
 爱奇艺的技术产品团队
 
@@ -105,9 +105,9 @@
 
 ### [隐查查](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwODMxMjcyMQ==)
 
-[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwODMxMjcyMQ==)
+[:chart_with_upwards_trend:【1/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwODMxMjcyMQ==)
 
-[:camera_flash:【2022-08-19 17:30:50】](https://mp.weixin.qq.com/s?__biz=MzkwODMxMjcyMQ==&mid=2247485749&idx=1&sn=9c9f889d525737ce45c7583f9111a40c&chksm=c0caa0cbf7bd29ddd1ba2e023fc2b85c4fa4cae92cb77d0f78824fd6375e574cd338c3274a4e&scene=27&key=e8677526fb452b6d757808b7cc1be5764fcca326cd3297fcf1e90cb05c219d29c22a1e7f3634970b89665114849f20ecf115b86406bbc69ee906b37cc9d7b84797c0a5b5d8324452baf0718eb387c639d2f09b03d436dd2dd1884dbac05b7fa74b51e3ff74ded2da236288771bb5f8bb41663cf70dca57187e014f360a90aa15&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+10+x64&version=6307051f&lang=zh_CN&session_us=gh_e87ab103349e&exportkey=AyPiobvrez9jkHIQEOStGs8%3D&acctmode=0&pass_ticket=uyfgm43O%2Bnte37Omf7S0pmG8umA%2F6CVPJp%2FegyZGM04etQwzjCVeYLTpeBxJ%2BLOq&wx_header=0&fontgear=2&scene=27#wechat_redirect)
+[:camera_flash:【2022-08-26 17:30:01】](https://mp.weixin.qq.com/s?__biz=MzkwODMxMjcyMQ==&mid=2247485791&idx=1&sn=e123b78b5bb63514205f4fb1c40caa93&chksm=c0caa0a1f7bd29b7fbe6711b583e6ff38a13c182966599f4bd95a917374875b7626875a4f75e&scene=27&key=570eb32d49da9a754a5451b7cae42b68039ec724ddf3eee6cb50a0281bb4af6631726c97e37643975224313aeeea52e080ccefae5216efc49d468f72ef9f07e31ae2beb848664114d6f19a6f3bfd7a8b061c647bbae5a852c6a849842cc00a28e4b471dd1d6769488ec7d824080820f131852de5b2062d5ad4f31eea417ac520&ascene=15&uin=MTA3Mzc3OTIzNQ%3D%3D&devicetype=Windows+Server+2016+x64&version=63070517&lang=zh_CN&session_us=gh_3ad192d9c87f&exportkey=AfWko8pL3AAe3hK3UycuQso%3D&acctmode=0&pass_ticket=oG5tVTdM46BqDULFeP1XUChlivJaeyzcE871u61GRvupgy6AnaYat1bkFQctsNYY&wx_header=0&fontgear=2&scene=27#wechat_redirect)
 
 守护隐私，即刻开始
 
@@ -116,24 +116,11 @@
 ---
 
 
-### [安技汇](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMTM4MTM2MQ==)
-
-[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMTM4MTM2MQ==)
-
-[:camera_flash:【2022-08-17 22:48:42】](https://mp.weixin.qq.com/s?__biz=MzkxMTM4MTM2MQ==&mid=2247483900&idx=1&sn=4fc20f2b621233388413584f243d9f1b&chksm=c11c47e2f66bcef44455809a0e363d853bbb244b338e9894d4d03dca27d1ce5eeb2bab8c8693&scene=27#wechat_redirect)
-
-智能安全运营、ATT&amp;CK知识图谱开源落地、安全防护能力评估
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_1bddcfd317ee" alt="" />
-
----
-
-
 ### [安全学术圈](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
 
 [:chart_with_upwards_trend:【2/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
 
-[:camera_flash:【2022-08-26 08:36:10】](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247488129&idx=1&sn=ad213594dcdf6c0dc2b60fc480d3e3e3&chksm=fe2eed0ac959641c08b7c481b6452a03d71ba854bd3c9a44dce59001f8a6102d9c638341cb8a&scene=27#wechat_redirect)
+[:camera_flash:【2022-08-27 08:30:20】](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247488149&idx=1&sn=13f3069c4d38e78ba059a51e997b6520&chksm=fe2eed1ec9596408d91a1b3bc1f4bf5cb5cc7efee373ed3f57e820cc886f3ec8b1bf94392c29&scene=27#wechat_redirect)
 
 分享安全方面的论文写作、会议发表、基金申请方面的资料。
 
@@ -142,28 +129,15 @@
 ---
 
 
-### [长亭百川云平台](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjgyNDIzOA==)
+### [安技汇](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMTM4MTM2MQ==)
 
-[:chart_with_upwards_trend:【2/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjgyNDIzOA==)
+[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMTM4MTM2MQ==)
 
-[:camera_flash:【2022-08-15 11:15:10】](https://mp.weixin.qq.com/s?__biz=Mzg4MjgyNDIzOA==&mid=2247483739&idx=1&sn=bb7367eff5ab780903b9323510cbaca9&chksm=cf51841af8260d0c657adf68f581e0252f090f0f1f92019bc20cf42f69f114331d1faf9c1180&scene=27&key=42fda77b115ac87d1b9610a4756bbc5501c2c317f3325b8b8ca099affacaab17a64697a1f1675e7647c3e84717301a9b3cba693be025e6a9b5c71425f7895d70cb4418371be531786cf42a62e9b520ff653691179f7e0e18ce79d36a4253e4b33d4c1137db25757290a8cfe9f5e79c315ba8f2b04aa5999aa5fff48b48305787&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+10+x64&version=6307051f&lang=zh_CN&session_us=gh_c34d4484c3b5&exportkey=Ay0p8x8agF%2FBes0%2FzUDZvEY%3D&acctmode=0&pass_ticket=ur0tAjZah%2Fqxse37QqarOr0X1BysUgPVYya6P%2FsyY45nNQj5j5C3lPl%2FZmFYTjcz&wx_header=0&fontgear=2&scene=27#wechat_redirect)
+[:camera_flash:【2022-08-17 22:48:42】](https://mp.weixin.qq.com/s?__biz=MzkxMTM4MTM2MQ==&mid=2247483900&idx=1&sn=4fc20f2b621233388413584f243d9f1b&chksm=c11c47e2f66bcef44455809a0e363d853bbb244b338e9894d4d03dca27d1ce5eeb2bab8c8693&scene=27#wechat_redirect)
 
-百川云平台（Rivers）是长亭面向企业开放的在线安全产品服务，包含了多个安全产品，如问脉容器安全产品，关山WebShell检测产品，牧云主机安全产品，以及其他第三方安全公司提供的安全产品等。
+智能安全运营、ATT&amp;CK知识图谱开源落地、安全防护能力评估
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_b7b2cd336ce7" alt="" />
-
----
-
-
-### [OPPO数智技术](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzE2MzY1OA==)
-
-[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzE2MzY1OA==)
-
-[:camera_flash:【2022-08-23 16:00:10】](https://mp.weixin.qq.com/s?__biz=Mzg4MzE2MzY1OA==&mid=2247489331&idx=1&sn=4117a304da8ff9067a2fd901ba654cde&chksm=cf4ac056f83d4940e35ad4beb533e40e3e22262b86a058a6e76595ad3fc32af1fbf1163215ce&scene=27#wechat_redirect)
-
-OPPO在大数据、人工智能、云技术等领域的技术干货及技术活动分享平台
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_7bc48466f080" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_1bddcfd317ee" alt="" />
 
 ---
 
@@ -190,6 +164,19 @@ OPPO在大数据、人工智能、云技术等领域的技术干货及技术活�
 RapidDNS.io 是一个免费开放的DNS在线查询平台。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_6327c9075859" alt="" />
+
+---
+
+
+### [长亭百川云平台](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjgyNDIzOA==)
+
+[:chart_with_upwards_trend:【1/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjgyNDIzOA==)
+
+[:camera_flash:【2022-08-15 11:15:10】](https://mp.weixin.qq.com/s?__biz=Mzg4MjgyNDIzOA==&mid=2247483739&idx=1&sn=bb7367eff5ab780903b9323510cbaca9&chksm=cf51841af8260d0c657adf68f581e0252f090f0f1f92019bc20cf42f69f114331d1faf9c1180&scene=27&key=42fda77b115ac87d1b9610a4756bbc5501c2c317f3325b8b8ca099affacaab17a64697a1f1675e7647c3e84717301a9b3cba693be025e6a9b5c71425f7895d70cb4418371be531786cf42a62e9b520ff653691179f7e0e18ce79d36a4253e4b33d4c1137db25757290a8cfe9f5e79c315ba8f2b04aa5999aa5fff48b48305787&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+10+x64&version=6307051f&lang=zh_CN&session_us=gh_c34d4484c3b5&exportkey=Ay0p8x8agF%2FBes0%2FzUDZvEY%3D&acctmode=0&pass_ticket=ur0tAjZah%2Fqxse37QqarOr0X1BysUgPVYya6P%2FsyY45nNQj5j5C3lPl%2FZmFYTjcz&wx_header=0&fontgear=2&scene=27#wechat_redirect)
+
+百川云平台（Rivers）是长亭面向企业开放的在线安全产品服务，包含了多个安全产品，如问脉容器安全产品，关山WebShell检测产品，牧云主机安全产品，以及其他第三方安全公司提供的安全产品等。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_b7b2cd336ce7" alt="" />
 
 ---
 
@@ -233,11 +220,24 @@ RapidDNS.io 是一个免费开放的DNS在线查询平台。
 ---
 
 
+### [OPPO数智技术](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzE2MzY1OA==)
+
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzE2MzY1OA==)
+
+[:camera_flash:【2022-08-23 16:00:10】](https://mp.weixin.qq.com/s?__biz=Mzg4MzE2MzY1OA==&mid=2247489331&idx=1&sn=4117a304da8ff9067a2fd901ba654cde&chksm=cf4ac056f83d4940e35ad4beb533e40e3e22262b86a058a6e76595ad3fc32af1fbf1163215ce&scene=27#wechat_redirect)
+
+OPPO在大数据、人工智能、云技术等领域的技术干货及技术活动分享平台
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_7bc48466f080" alt="" />
+
+---
+
+
 ### [北邮GAMMALab](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzE1MTQzNw==)
 
 [:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzE1MTQzNw==)
 
-[:camera_flash:【2022-08-17 23:44:17】](https://mp.weixin.qq.com/s?__biz=Mzg4MzE1MTQzNw==&mid=2247486708&idx=1&sn=8f3b32b2edbbb7de6d34a6d391f9e417&chksm=cf4a8bd6f83d02c0b25679ac3f047939e742b91745aabedc56abed53c9dcf95037c6fceeff4e&scene=27#wechat_redirect)
+[:camera_flash:【2022-08-27 11:25:15】](https://mp.weixin.qq.com/s?__biz=Mzg4MzE1MTQzNw==&mid=2247486723&idx=1&sn=e78a2fbec2a8283b1d82b0c7f9f06693&chksm=cf4a8a21f83d03376f54c57a02af4c2aa5dcc409f9d39e2edc6226e564cbdaf1cf5186863fb8&scene=27#wechat_redirect)
 
 北邮图数据挖掘与机器学习实验室
 
@@ -389,7 +389,7 @@ RapidDNS.io 是一个免费开放的DNS在线查询平台。
 ---
 
 
-### [面具与甲虫](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
+### [读诗库](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
 
