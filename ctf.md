@@ -1,26 +1,13 @@
 
 ### [寰宇卫士](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
 
-[:chart_with_upwards_trend:【0/22/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
+[:chart_with_upwards_trend:【0/21/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
 
 [:camera_flash:【2022-08-26 10:37:20】](https://mp.weixin.qq.com/s?__biz=MzIwMzU0NDY5OA==&mid=2247493934&idx=1&sn=892f20861ba645ba6dbfe0b4a866e0bd&chksm=96cf683ba1b8e12d980dd9c067112f1cfeb23f7217db5fd56ac46ac457937f1f13c0c0e9eab8&scene=27#wechat_redirect)
 
 寰宇卫士综合安全咨询、安全服务、解决方案、认证培训、产品研发等信息安全多元化产业链为一体。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_7aa3785c2fbe" alt="" />
-
----
-
-
-### [强网竞赛](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjY3NDQ2Ng==)
-
-[:chart_with_upwards_trend:【0/15/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjY3NDQ2Ng==)
-
-[:camera_flash:【2022-08-21 23:13:02】](https://mp.weixin.qq.com/s?__biz=Mzg4MjY3NDQ2Ng==&mid=2247485928&idx=1&sn=7b0c35d11110525688fb1d2f42409277&chksm=cf5257a5f825deb3ad3e0386ed3d3950422ab5f6193b8f5cbb9f4ae9823452a84fb442210c3e&scene=27#wechat_redirect)
-
-强网竞赛是面向高等院校和国内信息安全企业的国家级赛事，旨在通过高对抗的竞技比赛，发现锻造网络安全领域优秀人才，提高国家网络安全保障能力，提升全民网络安全意识。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_cf8bfd7de794" alt="" />
 
 ---
 
@@ -38,15 +25,41 @@
 ---
 
 
+### [强网竞赛](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjY3NDQ2Ng==)
+
+[:chart_with_upwards_trend:【0/13/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjY3NDQ2Ng==)
+
+[:camera_flash:【2022-08-21 23:13:02】](https://mp.weixin.qq.com/s?__biz=Mzg4MjY3NDQ2Ng==&mid=2247485928&idx=1&sn=7b0c35d11110525688fb1d2f42409277&chksm=cf5257a5f825deb3ad3e0386ed3d3950422ab5f6193b8f5cbb9f4ae9823452a84fb442210c3e&scene=27#wechat_redirect)
+
+强网竞赛是面向高等院校和国内信息安全企业的国家级赛事，旨在通过高对抗的竞技比赛，发现锻造网络安全领域优秀人才，提高国家网络安全保障能力，提升全民网络安全意识。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_cf8bfd7de794" alt="" />
+
+---
+
+
 ### [XPLAN](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MDY1ODU2Mw==)
 
-[:chart_with_upwards_trend:【1/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MDY1ODU2Mw==)
+[:chart_with_upwards_trend:【1/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MDY1ODU2Mw==)
 
 [:camera_flash:【2022-08-27 10:00:38】](https://mp.weixin.qq.com/s?__biz=Mzg5MDY1ODU2Mw==&mid=2247487278&idx=1&sn=65fa5a2b2f7cbe14156f6aaef9c6b774&chksm=cfd80542f8af8c54893a522e3c232364aebcb5a815a0b375167c2dfcb7340ec95e9e723217df&scene=27#wechat_redirect)
 
 X是未知，更是无限，邀您一道创造、见证和实现X-Plan，北斗逐光，安全有恒，未来无界，共创数字安全未来！
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_b0a5876d02ea" alt="" />
+
+---
+
+
+### [中学生CTF](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzEwMTQ3NQ==)
+
+[:chart_with_upwards_trend:【2/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzEwMTQ3NQ==)
+
+[:camera_flash:【2022-08-28 11:00:37】](https://mp.weixin.qq.com/s?__biz=MzU3MzEwMTQ3NQ==&mid=2247501109&idx=1&sn=0408d03324e8957c3a6eec58bab81137&chksm=fcc441f9cbb3c8efac8e853def2cbb900153626e67d9996fbd58191ae369841f528c4f1b7d1b&scene=27#wechat_redirect)
+
+为广大学生提供学习的平台
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0d0714849484" alt="" />
 
 ---
 
@@ -86,19 +99,6 @@ PTE小技巧
 由奇安信集团、清华大学、蚂蚁集团主办，联合北京大学、中科院软件所、复旦大学、中山大学、山东大学、中国科技大学等30多个知名高校和研究机构共同举办的聚焦大数据安全分析的比赛。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a0316d342599" alt="" />
-
----
-
-
-### [中学生CTF](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzEwMTQ3NQ==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzEwMTQ3NQ==)
-
-[:camera_flash:【2022-08-27 00:00:25】](https://mp.weixin.qq.com/s?__biz=MzU3MzEwMTQ3NQ==&mid=2247501003&idx=1&sn=1c6114783f22e6f8184337e224957275&chksm=fcc44007cbb3c9114e30902fb2256f5743eb0f1ccd0f7e068345a6db924107f972f1cdd5232c&scene=27#wechat_redirect)
-
-为广大学生提供学习的平台
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0d0714849484" alt="" />
 
 ---
 
