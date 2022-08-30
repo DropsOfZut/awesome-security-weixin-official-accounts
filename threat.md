@@ -1,9 +1,9 @@
 
 ### [情报分析师](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3Mjc1MTkwOA==)
 
-[:chart_with_upwards_trend:【52/54/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3Mjc1MTkwOA==)
+[:chart_with_upwards_trend:【50/52/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3Mjc1MTkwOA==)
 
-[:camera_flash:【2022-08-28 11:42:33】](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650514753&idx=1&sn=6414f6b929b6e114a056f94857411f1a&chksm=87168b0ab061021c773531fc0e9205b858ebd17e7693485568970356e608c02f7eec394d5028&scene=27#wechat_redirect)
+[:camera_flash:【2022-08-29 11:06:16】](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650514821&idx=1&sn=65b7d925f70b4c7901bad86fd34617e8&chksm=87168bceb06102d89e1d363745ecfd53f63ccda1a79163c940dc6caaddb0735bcadaf166bf5f&scene=27#wechat_redirect)
 
 POLICE教授团队：聚焦情报安全与警务！关注情报动态，制定情报标准，开展情报培训，促进情报协作，传播情报文化，优化情报生态，共建情报分析师职业共同体。
 
@@ -29,7 +29,7 @@ POLICE教授团队：聚焦情报安全与警务！关注情报动态，制定�
 
 [:chart_with_upwards_trend:【23/25/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxMzkzNDA1Mg==)
 
-[:camera_flash:【2022-08-26 20:17:11】](https://mp.weixin.qq.com/s?__biz=MzAxMzkzNDA1Mg==&mid=2247499922&idx=1&sn=aebebd032a3e681e603625e3e260ed10&chksm=9b998c19acee050f928523bfcab0b6cafe8d8403e38d839d591733488b7f6624d5b59c361d7e&scene=27#wechat_redirect)
+[:camera_flash:【2022-08-29 20:06:09】](https://mp.weixin.qq.com/s?__biz=MzAxMzkzNDA1Mg==&mid=2247499946&idx=1&sn=bf547e18dbd7bec6011ca8fcf7df1fdd&chksm=9b998c21acee0537806fe90ed6a7ac17e4ea8718850519ed7a5ef603088a1c37f7e3bcd2b3ca&scene=27#wechat_redirect)
 
 致力于反网络违法犯罪领域相关情报、技术研究与分享。
 
@@ -40,9 +40,9 @@ POLICE教授团队：聚焦情报安全与警务！关注情报动态，制定�
 
 ### [微步在线](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NjA0NjI5MQ==)
 
-[:chart_with_upwards_trend:【6/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NjA0NjI5MQ==)
+[:chart_with_upwards_trend:【7/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NjA0NjI5MQ==)
 
-[:camera_flash:【2022-08-26 08:30:55】](https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650173908&idx=1&sn=33c1e1beb81e40f8b25c3bd4d76dc300&chksm=f4488a68c33f037eed355a31778dcd05bd50388d7142d4e54f84e04d61061abf8582dbf7e954&scene=27#wechat_redirect)
+[:camera_flash:【2022-08-29 12:20:18】](https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650173923&idx=1&sn=38d7f1b6bebe991663e13dc73e12e3a6&chksm=f4488a5fc33f0349b7a8496461db8b2c5a8a5dc288dd318caaa0f653b387530bac84b5627fae&scene=27#wechat_redirect)
 
 ThreatBook微步在线，中国新一代网络安全代表企业，网络威胁发现与响应专家。
 
@@ -129,6 +129,19 @@ ThreatBook微步在线，中国新一代网络安全代表企业，网络威胁�
 ---
 
 
+### [Seebug漏洞平台](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxNDY2MTQ2OQ==)
+
+[:chart_with_upwards_trend:【2/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxNDY2MTQ2OQ==)
+
+[:camera_flash:【2022-08-29 09:50:23】](https://mp.weixin.qq.com/s?__biz=MzAxNDY2MTQ2OQ==&mid=2650964259&idx=1&sn=70e0aea69c8255ba44f1b9738085b4f0&chksm=8079c311b70e4a075046e8e6bf55e21d786b99cc24bdf82deecaa8774ab152f770a55ab3b645&scene=27#wechat_redirect)
+
+Seebug，原 Sebug 漏洞平台，洞悉漏洞，让你掌握第一手漏洞情报！
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_7a00af2b3993" alt="" />
+
+---
+
+
 ### [安恒威胁情报中心](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MDU5NjYwNg==)
 
 [:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MDU5NjYwNg==)
@@ -138,19 +151,6 @@ ThreatBook微步在线，中国新一代网络安全代表企业，网络威胁�
 安恒威胁情报中心专注于威胁情报的收集、处理、分析、应用，定期提供高质量的威胁情报。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e0f7c5e21306" alt="" />
-
----
-
-
-### [Seebug漏洞平台](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxNDY2MTQ2OQ==)
-
-[:chart_with_upwards_trend:【1/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxNDY2MTQ2OQ==)
-
-[:camera_flash:【2022-08-26 09:54:28】](https://mp.weixin.qq.com/s?__biz=MzAxNDY2MTQ2OQ==&mid=2650964176&idx=1&sn=c8c0545345896279ea9d69abe17f84b9&chksm=8079c2e2b70e4bf4a2dc4862c7d7ce4def9a7ff2b1cca68104a5fb0224520eba266174e7caa0&scene=27#wechat_redirect)
-
-Seebug，原 Sebug 漏洞平台，洞悉漏洞，让你掌握第一手漏洞情报！
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_7a00af2b3993" alt="" />
 
 ---
 
@@ -177,6 +177,19 @@ Seebug，原 Sebug 漏洞平台，洞悉漏洞，让你掌握第一手漏洞情�
 一切行为皆有犯罪的可能性，而在信息时代，这一过程变得更加复杂或者隐晦了。本号致力于传播打击和预防犯罪的手段、方法、理念，并希望能够推动侦查犯罪的机制变革，而这需要了解方方面面的信息。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_fc392f1d7dc1" alt="" />
+
+---
+
+
+### [且听安全](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MTU0MjkwNw==)
+
+[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MTU0MjkwNw==)
+
+[:camera_flash:【2022-08-29 17:00:15】](https://mp.weixin.qq.com/s?__biz=Mzg3MTU0MjkwNw==&mid=2247491457&idx=1&sn=5a4a4db750ae92082cd7d86bf8a67e1a&chksm=cefda695f98a2f83301bf03758c51b7d2e5d0c0fc76fbabbba31348d6b98df10d7784c4ee9b9&scene=27#wechat_redirect)
+
+专注高质量原创漏洞分析，致力打造高端漏洞交流圈。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_af90c021677b" alt="" />
 
 ---
 
@@ -320,19 +333,6 @@ Seebug，原 Sebug 漏洞平台，洞悉漏洞，让你掌握第一手漏洞情�
 神秘，低调，手里全是情报。中国网络安全圈不可缺少的力量。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_c108d4d389bf" alt="" />
-
----
-
-
-### [且听安全](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MTU0MjkwNw==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MTU0MjkwNw==)
-
-[:camera_flash:【2022-07-26 14:51:10】](https://mp.weixin.qq.com/s?__biz=Mzg3MTU0MjkwNw==&mid=2247491456&idx=1&sn=8dd858209f48ef39fd0ed345cd63aab6&chksm=cefda694f98a2f82c948768904389bf4adb2139a7e0b1dc0be4d493af8a472b0e542785fa474&scene=27#wechat_redirect)
-
-专注高质量原创漏洞分析，致力打造高端漏洞交流圈。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_af90c021677b" alt="" />
 
 ---
 

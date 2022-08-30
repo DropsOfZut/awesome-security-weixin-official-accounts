@@ -1,9 +1,9 @@
 
 ### [寰宇卫士](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
 
-[:chart_with_upwards_trend:【0/21/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
+[:chart_with_upwards_trend:【0/22/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
 
-[:camera_flash:【2022-08-26 10:37:20】](https://mp.weixin.qq.com/s?__biz=MzIwMzU0NDY5OA==&mid=2247493934&idx=1&sn=892f20861ba645ba6dbfe0b4a866e0bd&chksm=96cf683ba1b8e12d980dd9c067112f1cfeb23f7217db5fd56ac46ac457937f1f13c0c0e9eab8&scene=27#wechat_redirect)
+[:camera_flash:【2022-08-29 15:03:47】](https://mp.weixin.qq.com/s?__biz=MzIwMzU0NDY5OA==&mid=2247494134&idx=1&sn=36bd7f37d3935e3127f0c06e5041946b&chksm=96cf68e3a1b8e1f5d3bc0d89919c06fa3d95dc1f2848ce42a1819d1fd68b391562b61120b081&scene=27#wechat_redirect)
 
 寰宇卫士综合安全咨询、安全服务、解决方案、认证培训、产品研发等信息安全多元化产业链为一体。
 
@@ -14,9 +14,9 @@
 
 ### [春秋伽玛](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
 
-[:chart_with_upwards_trend:【6/14/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
+[:chart_with_upwards_trend:【6/15/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
 
-[:camera_flash:【2022-08-22 18:30:56】](https://mp.weixin.qq.com/s?__biz=MzkyNDA5NjgyMg==&mid=2247494231&idx=1&sn=4895908c825a6a509c7a754c0eab02cd&chksm=c1d9aa0ef6ae2318f6ee916423a9beec86e58bffdee8c5b313964003d38993375746c9148699&scene=27#wechat_redirect)
+[:camera_flash:【2022-08-29 15:47:50】](https://mp.weixin.qq.com/s?__biz=MzkyNDA5NjgyMg==&mid=2247494244&idx=1&sn=eff056927f137c47a775e01651ed5eb5&chksm=c1d9aa3df6ae232bce82fa2855a0a62084cf15fcd45e0d5b2bd176031a4cd23759a9423e569e&scene=27#wechat_redirect)
 
 春秋伽玛，为广大网络安全爱好者传递网络安全大赛相关赛事信息，提供优质的赛事服务平台
 
@@ -27,9 +27,9 @@
 
 ### [强网竞赛](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjY3NDQ2Ng==)
 
-[:chart_with_upwards_trend:【0/13/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjY3NDQ2Ng==)
+[:chart_with_upwards_trend:【0/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjY3NDQ2Ng==)
 
-[:camera_flash:【2022-08-21 23:13:02】](https://mp.weixin.qq.com/s?__biz=Mzg4MjY3NDQ2Ng==&mid=2247485928&idx=1&sn=7b0c35d11110525688fb1d2f42409277&chksm=cf5257a5f825deb3ad3e0386ed3d3950422ab5f6193b8f5cbb9f4ae9823452a84fb442210c3e&scene=27#wechat_redirect)
+[:camera_flash:【2022-08-29 16:16:29】](https://mp.weixin.qq.com/s?__biz=Mzg4MjY3NDQ2Ng==&mid=2247485940&idx=1&sn=733d94f5b68a951031141c6a9fa40c01&chksm=cf5257b9f825deafc2a4b559fa247c8b46c07d0a3545ae881b1fbafaaf01af48af255b66eea9&scene=27#wechat_redirect)
 
 强网竞赛是面向高等院校和国内信息安全企业的国家级赛事，旨在通过高对抗的竞技比赛，发现锻造网络安全领域优秀人才，提高国家网络安全保障能力，提升全民网络安全意识。
 
@@ -99,6 +99,19 @@ PTE小技巧
 由奇安信集团、清华大学、蚂蚁集团主办，联合北京大学、中科院软件所、复旦大学、中山大学、山东大学、中国科技大学等30多个知名高校和研究机构共同举办的聚焦大数据安全分析的比赛。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a0316d342599" alt="" />
+
+---
+
+
+### [SCUCTF](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxNDk1ODUxMw==)
+
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxNDk1ODUxMw==)
+
+[:camera_flash:【2022-08-25 13:31:49】](https://mp.weixin.qq.com/s?__biz=MzUxNDk1ODUxMw==&mid=2247486035&idx=1&sn=900c7d3a4643e959ec3efacce2a23f2d&chksm=f9bcbf8dcecb369be49ef1391b83935d3b8ba29ef3611bc0d929d7207533950ac576a9dcec3f&mpshare=1&scene=1&srcid=0825x1xf46GPc0nk1Hf9kh6I&sharer_sharetime=1661414562700&sharer_shareid=3e03111671af4cfd3d37a92be8338434&key=3b90a962c7574fe1a7a52653cd473608d5afe0425698d8305855406fdf331db12a51f7f978628fb7ead7f75f06fc24b34223773db7e89e597f5a1448d79d3eecac9e344f17a0df4906e28a0ec414ae7cff69142bdf9ae251aa0c7e5a0f1c401ce5a99fdb5ba8e708b263b7ba13964667c7942ae307cc1dc78d10e35073dabe5d&ascene=1&uin=MTA3Mzc3OTIzNQ%3D%3D&devicetype=Windows+Server+2016+x64&version=63070517&lang=zh_CN&exportkey=AZs%2FH7JWV%2FYbyaH3fYzgnkU%3D&acctmode=0&pass_ticket=IeVJnpg5Iffag6nHzSnt9EMlPP3bVUunE4eHZ1g7apeloV5R47fq07Iq%2Bbt2Xvjp&wx_header=0&fontgear=2&scene=27#wechat_redirect)
+
+CTF协会
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_1e4280acde68" alt="" />
 
 ---
 
