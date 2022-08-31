@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【0/15/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
 
-[:camera_flash:【2022-08-24 08:43:14】](https://mp.weixin.qq.com/s?__biz=MzUzODkwMDMxNA==&mid=2247503819&idx=1&sn=a5ffac2ee097750beb932a37f0f2ff55&chksm=fad22dfecda5a4e8396e0d35c1733a6953308c06387a85cb27eb9e00e521117a827dfd05b46e&scene=27#wechat_redirect)
+[:camera_flash:【2022-08-30 09:43:32】](https://mp.weixin.qq.com/s?__biz=MzUzODkwMDMxNA==&mid=2247503845&idx=1&sn=103b0247524c44c4be78447b3a027a94&chksm=fad22dd0cda5a4c63ea4dcb24c62aac806501469e4cb05a109f2f02170db2d739132211b6a83&scene=27#wechat_redirect)
 
 百所高校、百家用人单位、百名尖锋导师，携手打造定制化人才培养模式，通过导师制职业规划和封闭式岗位实训，补足知识短板、提高实战能力，培养创新型、实用型网络安全尖锋人才。
 
@@ -105,7 +105,7 @@
 
 ### [浙大网安](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5NDczNDc4NA==)
 
-[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5NDczNDc4NA==)
+[:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5NDczNDc4NA==)
 
 [:camera_flash:【2022-08-29 16:02:23】](https://mp.weixin.qq.com/s?__biz=Mzg5NDczNDc4NA==&mid=2247490902&idx=1&sn=3291934196d18d76d2a4826667519353&chksm=c01a45f9f76dccefc47a078ff677b99bfbf63a28997a09b880b8509c85846b82ba235fda644b&scene=27#wechat_redirect)
 
