@@ -1,7 +1,7 @@
 
 ### [大学生网络安全尖锋训练营](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
 
-[:chart_with_upwards_trend:【0/15/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
+[:chart_with_upwards_trend:【0/13/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
 
 [:camera_flash:【2022-08-30 09:43:32】](https://mp.weixin.qq.com/s?__biz=MzUzODkwMDMxNA==&mid=2247503845&idx=1&sn=103b0247524c44c4be78447b3a027a94&chksm=fad22dd0cda5a4c63ea4dcb24c62aac806501469e4cb05a109f2f02170db2d739132211b6a83&scene=27#wechat_redirect)
 
@@ -16,24 +16,11 @@
 
 [:chart_with_upwards_trend:【0/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
 
-[:camera_flash:【2022-08-25 16:45:56】](https://mp.weixin.qq.com/s?__biz=MzUzNDg0NTc1NA==&mid=2247492800&idx=1&sn=b5c0895e75ba0d8f960acf48534ce1ba&chksm=fa8c2495cdfbad83200673bb5d33c3cb421945f700ca0a43cfdec023cc2b18721097fc31452c&scene=27#wechat_redirect)
+[:camera_flash:【2022-08-31 18:25:03】](https://mp.weixin.qq.com/s?__biz=MzUzNDg0NTc1NA==&mid=2247493132&idx=1&sn=350a746d0a8f57b6f7fe74070b7acf91&chksm=fa8c2659cdfbaf4f1d01f6d695f79b84716693cbd39a88796a4715976c00aa468d57d2103117&scene=27#wechat_redirect)
 
 启明星辰网络空间安全学院以国家网络安全事业发展为使命，依托启明星辰集团多年的技术沉淀及实践积累，提供网络安全人才体系构建与信息安全技术及能力提升教育培训，为建设网络强国提供有力的人才支撑。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_310250868fd4" alt="" />
-
----
-
-
-### [东塔网络安全学院](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMzAyMDAwMQ==)
-
-[:chart_with_upwards_trend:【0/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMzAyMDAwMQ==)
-
-[:camera_flash:【2022-08-15 17:00:45】](https://mp.weixin.qq.com/s?__biz=MzkwMzAyMDAwMQ==&mid=2247503419&idx=1&sn=0ba82da600c5c748b6967ca6d21982a5&chksm=c09e22b5f7e9aba3ce2d6b886a742a63f079dedc97665dc8b82ec45a6a3b39fd6290147d1ca7&scene=27#wechat_redirect)
-
-网络安全服务、技术特训、技术咨询、渗透测试服务
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_cef293eb3618" alt="" />
 
 ---
 
@@ -64,6 +51,19 @@
 ---
 
 
+### [东塔网络安全学院](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMzAyMDAwMQ==)
+
+[:chart_with_upwards_trend:【0/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMzAyMDAwMQ==)
+
+[:camera_flash:【2022-08-15 17:00:45】](https://mp.weixin.qq.com/s?__biz=MzkwMzAyMDAwMQ==&mid=2247503419&idx=1&sn=0ba82da600c5c748b6967ca6d21982a5&chksm=c09e22b5f7e9aba3ce2d6b886a742a63f079dedc97665dc8b82ec45a6a3b39fd6290147d1ca7&scene=27#wechat_redirect)
+
+网络安全服务、技术特训、技术咨询、渗透测试服务
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_cef293eb3618" alt="" />
+
+---
+
+
 ### [复旦白泽战队](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
 
 [:chart_with_upwards_trend:【0/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
@@ -73,19 +73,6 @@
 以复旦大学系统安全实验室学生为主成立的安全攻防战队，分享最新研究成果，交流系统安全攻防领域技巧。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f1bf07da06d8" alt="" />
-
----
-
-
-### [河北网络安全高校联盟](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4ODUyMjYyNg==)
-
-[:chart_with_upwards_trend:【1/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4ODUyMjYyNg==)
-
-[:camera_flash:【2022-08-24 17:26:57】](https://mp.weixin.qq.com/s?__biz=Mzg4ODUyMjYyNg==&mid=2247485930&idx=1&sn=50eee59ede3dffec7682ff82b1cbad24&chksm=cff89b07f88f12112cfd96876b837bc039bd0fa81c3b2c6bcb1a8020a864d3e1f1e300a4f8bd&scene=27#wechat_redirect)
-
-河北网络安全高校联盟
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8937984657cd" alt="" />
 
 ---
 
@@ -116,28 +103,28 @@
 ---
 
 
-### [珠天PearlSky](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyODMyODMyOA==)
+### [河北网络安全高校联盟](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4ODUyMjYyNg==)
 
-[:chart_with_upwards_trend:【2/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyODMyODMyOA==)
+[:chart_with_upwards_trend:【1/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4ODUyMjYyNg==)
 
-[:camera_flash:【2022-08-23 17:52:49】](https://mp.weixin.qq.com/s?__biz=MzkyODMyODMyOA==&mid=2247485392&idx=1&sn=9a2610363ebc65acc6bba63512bdd10a&chksm=c21b3837f56cb121763079e775ec1d02c8b7991060b4d88b7adcc7576b2e818b65dffdc763f0&scene=27&key=7d0747fd59e25d7fd8460b4a05320d8cb4fd88c4545b08e8c3cc4b478511dd41f40e5a583d4e9381dffa85cd08933ffbfcf3877aff1d8805e1d33f8b47ff5793a2fbb6838e9e45f492c172312cd8685ce3fb404ee1870ab0d2ff696eabf1ecd421a32a205d118f087ad71218ec28c092858d2a369fb2dc01621c89cc4064caa7&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+Server+2016+x64&version=63070517&lang=zh_CN&session_us=gh_e87ab103349e&exportkey=A8o15yLPMW3xzP%2FwiYFQsAU%3D&acctmode=0&pass_ticket=9mNz6KCzgInXwg0CHvfqQX%2BtC9DuiDU8Y0I4OcAGRdzMLTLPC0Zq%2FSTvXa0PTMIM&wx_header=0&fontgear=2&scene=27#wechat_redirect)
+[:camera_flash:【2022-08-24 17:26:57】](https://mp.weixin.qq.com/s?__biz=Mzg4ODUyMjYyNg==&mid=2247485930&idx=1&sn=50eee59ede3dffec7682ff82b1cbad24&chksm=cff89b07f88f12112cfd96876b837bc039bd0fa81c3b2c6bcb1a8020a864d3e1f1e300a4f8bd&scene=27#wechat_redirect)
 
-珠天PearlSky，意为珠科安全的一片天。珠天的队员都来自于珠海科技学院热爱钻研网络安全技术的同学。我们希望我们能够让更多人了解网络安全，更欢迎各位同学加入我们一起交流学习。本公众号会发布一些学习心得，经验总结等等一系列文章。
+河北网络安全高校联盟
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a4b0a923e487" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8937984657cd" alt="" />
 
 ---
 
 
-### [三叶草小组Syclover](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzOTg0NjYzNg==)
+### [珠天PearlSky](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyODMyODMyOA==)
 
-[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzOTg0NjYzNg==)
+[:chart_with_upwards_trend:【2/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyODMyODMyOA==)
 
-[:camera_flash:【2022-08-25 10:20:46】](https://mp.weixin.qq.com/s?__biz=MzIzOTg0NjYzNg==&mid=2247488364&idx=1&sn=bd2fad079420abd09790728a2c3c58e4&chksm=e92286efde550ff9732303eb1723466c125e714897eee096d48bdddb3aaccb0be58a2c987b5f&scene=27#wechat_redirect)
+[:camera_flash:【2022-08-31 12:32:58】](https://mp.weixin.qq.com/s?__biz=MzkyODMyODMyOA==&mid=2247485441&idx=1&sn=be146ab340091fb27860aa5588ab1aa6&chksm=c21b37e6f56cbef0947dd14a57f6844a4ccbe0e045408c2ec4708d590b63ff80d36945c16082&scene=27#wechat_redirect)
 
-一个专注于网络空间安全的高校技术团队，成立于2005年3月，主要研究方向有渗透测试、逆向工程、移动安全、安全编程、漏洞利用等；公众号定期推送小组成员原创文章
+珠天PearlSky，意为珠科安全的一片天。珠天的队员都来自于珠海科技学院热爱钻研网络安全技术的同学。我们希望我们能够让更多人了解网络安全，更欢迎各位同学加入我们一起交流学习。本公众号会发布一些学习心得，经验总结等等一系列文章。
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_962842f4917b" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a4b0a923e487" alt="" />
 
 ---
 
@@ -151,6 +138,19 @@
 东北大学“谛听”网络安全团队
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ce3e0df31e50" alt="" />
+
+---
+
+
+### [三叶草小组Syclover](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzOTg0NjYzNg==)
+
+[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzOTg0NjYzNg==)
+
+[:camera_flash:【2022-08-25 10:20:46】](https://mp.weixin.qq.com/s?__biz=MzIzOTg0NjYzNg==&mid=2247488364&idx=1&sn=bd2fad079420abd09790728a2c3c58e4&chksm=e92286efde550ff9732303eb1723466c125e714897eee096d48bdddb3aaccb0be58a2c987b5f&scene=27#wechat_redirect)
+
+一个专注于网络空间安全的高校技术团队，成立于2005年3月，主要研究方向有渗透测试、逆向工程、移动安全、安全编程、漏洞利用等；公众号定期推送小组成员原创文章
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_962842f4917b" alt="" />
 
 ---
 
