@@ -1,9 +1,9 @@
 
 ### [Linux中国](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ4MjYwMQ==)
 
-[:chart_with_upwards_trend:【93/105/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ4MjYwMQ==)
+[:chart_with_upwards_trend:【89/101/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ4MjYwMQ==)
 
-[:camera_flash:【2022-09-02 18:00:56】](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664664896&idx=1&sn=52202c1a0cb40a265e22b48a3ceef729&chksm=bdcfb4068ab83d1098eca446dd93e43ca557111bf8e14ff48e97a895663c9a728e006135ce32&scene=27#wechat_redirect)
+[:camera_flash:【2022-09-03 18:00:03】](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664665355&idx=1&sn=196bf355137d56c6f9715180ecafa988&chksm=bdcfaa4d8ab8235b83a6933fbe3cf0d4a0ef36d6f750f5e08d88892019e155930156f1c8990e&scene=27#wechat_redirect)
 
 [Linux中国](https://linux.cn/)开源社区官方公众号。专注于开源技术研究、开源思想传播。
 
@@ -14,9 +14,9 @@
 
 ### [系统安全运维](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NjE0NDc5OQ==)
 
-[:chart_with_upwards_trend:【0/78/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NjE0NDc5OQ==)
+[:chart_with_upwards_trend:【0/81/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NjE0NDc5OQ==)
 
-[:camera_flash:【2022-09-02 08:08:09】](https://mp.weixin.qq.com/s?__biz=Mzk0NjE0NDc5OQ==&mid=2247509256&idx=1&sn=76aad07a0f12d44427ce898a6ab2769e&chksm=c3087678f47fff6e2b750f41514d933390a8f97efef8ed18af7d8fb557500009381cd434ec26&scene=27#wechat_redirect)
+[:camera_flash:【2022-09-03 08:08:14】](https://mp.weixin.qq.com/s?__biz=Mzk0NjE0NDc5OQ==&mid=2247509344&idx=1&sn=70557e080dd39c64cda889e4d856bed8&chksm=c3087610f47fff06a8321dff7dd7b56ca3343f78fe53a3b9fcc9c86ca2771451afac69860f18&scene=27#wechat_redirect)
 
 未知攻 焉知防 攻防兼备
 
@@ -27,9 +27,9 @@
 
 ### [kali黑客笔记](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzIwNTY1OA==)
 
-[:chart_with_upwards_trend:【26/29/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzIwNTY1OA==)
+[:chart_with_upwards_trend:【25/28/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzIwNTY1OA==)
 
-[:camera_flash:【2022-09-01 08:00:08】](https://mp.weixin.qq.com/s?__biz=MzkxMzIwNTY1OA==&mid=2247490842&idx=1&sn=b7e5f15e0f043ead56b4e6bf280b9e62&chksm=c1006deff677e4f9987ba16c18a0d6b251b031b3083512779add14c88fd4656030982aa64bcb&scene=27#wechat_redirect)
+[:camera_flash:【2022-09-04 08:00:04】](https://mp.weixin.qq.com/s?__biz=MzkxMzIwNTY1OA==&mid=2247490906&idx=1&sn=f913584be51d8ffd1891062845b4b91d&chksm=c1006daff677e4b9fb7badfd703c637f85cef1defe160a562a7e10d84e3ea226dc2744a40447&scene=27#wechat_redirect)
 
 kali论坛官方唯一公众号，主要发布过于小白学习Kali Linux相关安全学习知识。Debian Ubuntu Centos等操作系统的安全和运维。以及树莓派 ESP8266 DIY单片机等相关领域的文章，欢迎大家关注我！
 
@@ -40,7 +40,7 @@ kali论坛官方唯一公众号，主要发布过于小白学习Kali Linux相关
 
 ### [Docker中文社区](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1NzI5NDM4Mw==)
 
-[:chart_with_upwards_trend:【0/14/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1NzI5NDM4Mw==)
+[:chart_with_upwards_trend:【0/13/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1NzI5NDM4Mw==)
 
 [:camera_flash:【2022-09-02 08:00:56】](https://mp.weixin.qq.com/s?__biz=MzI1NzI5NDM4Mw==&mid=2247493034&idx=1&sn=a251a90b4fb9954df068764aefaeabbc&chksm=ea1b0ceadd6c85fc16ad341e7b20cd42738f1f2885684c3cdcc050f7f0f7bfda7cbc212a9730&scene=27#wechat_redirect)
 
@@ -64,19 +64,6 @@ BAT 技术专家分享开发、架构、运维相关干货！
 ---
 
 
-### [网络运维渗透](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3MjMxODUwNg==)
-
-[:chart_with_upwards_trend:【1/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3MjMxODUwNg==)
-
-[:camera_flash:【2022-08-26 18:33:45】](https://mp.weixin.qq.com/s?__biz=MzA3MjMxODUwNg==&mid=2247485290&idx=1&sn=6028a2d95decec8a5dd1e198e7dbcc30&chksm=9f216c2fa856e539986cc2d0162193ef010aafae7e59e16ff0d417273b302aaa448ef4ec185a&scene=27#wechat_redirect)
-
-漏洞挖掘、SRC、红蓝对抗、代码审计
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_304f5239b3b0" alt="" />
-
----
-
-
 ### [云计算和网络安全技术实践](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3MjM5MDc2Nw==)
 
 [:chart_with_upwards_trend:【4/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3MjM5MDc2Nw==)
@@ -86,6 +73,19 @@ BAT 技术专家分享开发、架构、运维相关干货！
 史上最具参考性的云计算和网络安全技术实践博客。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_34d6b0cb5633" alt="" />
+
+---
+
+
+### [网络运维渗透](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3MjMxODUwNg==)
+
+[:chart_with_upwards_trend:【1/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3MjMxODUwNg==)
+
+[:camera_flash:【2022-08-26 18:33:45】](https://mp.weixin.qq.com/s?__biz=MzA3MjMxODUwNg==&mid=2247485290&idx=1&sn=6028a2d95decec8a5dd1e198e7dbcc30&chksm=9f216c2fa856e539986cc2d0162193ef010aafae7e59e16ff0d417273b302aaa448ef4ec185a&scene=27#wechat_redirect)
+
+漏洞挖掘、SRC、红蓝对抗、代码审计
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_304f5239b3b0" alt="" />
 
 ---
 
