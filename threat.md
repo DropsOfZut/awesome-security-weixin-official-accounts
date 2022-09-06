@@ -1,9 +1,9 @@
 
 ### [情报分析师](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3Mjc1MTkwOA==)
 
-[:chart_with_upwards_trend:【55/58/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3Mjc1MTkwOA==)
+[:chart_with_upwards_trend:【56/60/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3Mjc1MTkwOA==)
 
-[:camera_flash:【2022-09-04 16:55:20】](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650515490&idx=1&sn=52b1b4e3d5a89424ea6a15d9c64816af&chksm=87168669b0610f7f87282e2b66ebe209c972dac4d2cd8550b2172b688601a3037c085647883d&scene=27#wechat_redirect)
+[:camera_flash:【2022-09-05 12:18:50】](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650515538&idx=2&sn=eff18add80cd10b94bc87f751e7c8a6a&chksm=87168619b0610f0f9ba05eceea6d7eeb8a2e02b4eeef5e99409f2107930d20a0efd1f3cfc3de&scene=27#wechat_redirect)
 
 POLICE教授团队：聚焦情报安全与警务！关注情报动态，制定情报标准，开展情报培训，促进情报协作，传播情报文化，优化情报生态，共建情报分析师职业共同体。
 
@@ -14,9 +14,9 @@ POLICE教授团队：聚焦情报安全与警务！关注情报动态，制定�
 
 ### [丁爸情报分析师的工具箱](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MTE0NTE3Mw==)
 
-[:chart_with_upwards_trend:【25/35/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MTE0NTE3Mw==)
+[:chart_with_upwards_trend:【25/34/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MTE0NTE3Mw==)
 
-[:camera_flash:【2022-09-04 22:52:06】](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651131821&idx=1&sn=31f51571088e25b5d09f7b4e594ae737&chksm=f1af7897c6d8f1810621336e5a57357125f46bca52e2ec9aba71a16467ff91effc6862ef9822&scene=27#wechat_redirect)
+[:camera_flash:【2022-09-06 06:47:12】](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651131844&idx=1&sn=5d38f3bf8baf27e7361d4af2bee44c63&chksm=f1af78fec6d8f1e8930bc6d1daf81ec216d408d01169a51dafc4cc2292f3bd93d5a390230687&scene=27#wechat_redirect)
 
 每天为大家精选各类情报分析相关的资源、工具、技巧和资讯，努力成为情报分析师必备的工具箱。外挂机器人“小丁丁”还能陪您聊天，给您查航班、查列车、查天气、查酒店、查美食、查股票、回答您的提问等等。
 
@@ -29,7 +29,7 @@ POLICE教授团队：聚焦情报安全与警务！关注情报动态，制定�
 
 [:chart_with_upwards_trend:【22/25/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxMzkzNDA1Mg==)
 
-[:camera_flash:【2022-09-02 18:30:56】](https://mp.weixin.qq.com/s?__biz=MzAxMzkzNDA1Mg==&mid=2247500050&idx=1&sn=976a82086b4e7c1ed4e94d4a2d129a59&chksm=9b998d99acee048f95b610083c13545c7bc33a133add7d168d10e2b2437022a11b4d8a3d693d&scene=27#wechat_redirect)
+[:camera_flash:【2022-09-05 18:30:13】](https://mp.weixin.qq.com/s?__biz=MzAxMzkzNDA1Mg==&mid=2247500063&idx=1&sn=183608d9c9648bc63875ce71842c963c&chksm=9b998d94acee0482961443ca58e129e4db2efc56e5993d456d916131eb668bcb94a653924e44&scene=27#wechat_redirect)
 
 致力于反网络违法犯罪领域相关情报、技术研究与分享。
 
@@ -224,7 +224,7 @@ Seebug，原 Sebug 漏洞平台，洞悉漏洞，让你掌握第一手漏洞情�
 
 [:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5ODA0NDUxNA==)
 
-[:camera_flash:【2022-09-01 08:36:24】](https://mp.weixin.qq.com/s?__biz=MzI5ODA0NDUxNA==&mid=2247485856&idx=1&sn=0a15e33660d6614442cf550983ab3217&chksm=ecaa94addbdd1dbbbe6498bdec82732db88fef64c4b56dc31eb255fd17495d22bdda3d984eb6&scene=27#wechat_redirect)
+[:camera_flash:【2022-09-05 19:00:15】](https://mp.weixin.qq.com/s?__biz=MzI5ODA0NDUxNA==&mid=2247485923&idx=2&sn=f91ef312109222bb6be950300d57612f&chksm=ecaa94eedbdd1df878a5eff61beef9c51e73d173edc4ed4133948072cfe74b1dd5fc74691b48&scene=27#wechat_redirect)
 
 您好，欢迎关注网络与信息安全中心公众号。公众号将定期推送网安中心工作成果、网络安全常识、网络安全专业技术、网络安全法律法规等相关讯息。
 
