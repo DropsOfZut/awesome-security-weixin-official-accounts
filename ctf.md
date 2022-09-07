@@ -1,9 +1,9 @@
 
 ### [寰宇卫士](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
 
-[:chart_with_upwards_trend:【0/21/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
+[:chart_with_upwards_trend:【0/23/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
 
-[:camera_flash:【2022-09-05 11:49:30】](https://mp.weixin.qq.com/s?__biz=MzIwMzU0NDY5OA==&mid=2247494250&idx=1&sn=1a13d55baed34c0bf63de720a292f94b&chksm=96cf6b7fa1b8e269cf3eb1f3448e87fa3b9603e3dd4ec0725207b69b72c0eeeb3a4011456977&scene=27#wechat_redirect)
+[:camera_flash:【2022-09-06 11:32:39】](https://mp.weixin.qq.com/s?__biz=MzIwMzU0NDY5OA==&mid=2247494266&idx=1&sn=6af78d1448b336a58531e4e34533224a&chksm=96cf6b6fa1b8e279ff7359afb54c3a183d3a0d0d90deec3b70fd00c163ebced6738bbad1005a&scene=27#wechat_redirect)
 
 寰宇卫士综合安全咨询、安全服务、解决方案、认证培训、产品研发等信息安全多元化产业链为一体。
 
@@ -14,7 +14,7 @@
 
 ### [强网竞赛](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjY3NDQ2Ng==)
 
-[:chart_with_upwards_trend:【0/15/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjY3NDQ2Ng==)
+[:chart_with_upwards_trend:【0/14/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjY3NDQ2Ng==)
 
 [:camera_flash:【2022-09-04 11:36:50】](https://mp.weixin.qq.com/s?__biz=Mzg4MjY3NDQ2Ng==&mid=2247486063&idx=1&sn=ad9f9b56baff73c486c81bdd8fbba376&chksm=cf525422f825dd345b4e8dc1b06a3369f1e5506f9671f728784c2a42e373f93e553bf6240665&scene=27#wechat_redirect)
 
