@@ -12,28 +12,28 @@
 ---
 
 
-### [大学生网络安全尖锋训练营](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
-
-[:chart_with_upwards_trend:【0/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
-
-[:camera_flash:【2022-09-07 09:08:12】](https://mp.weixin.qq.com/s?__biz=MzUzODkwMDMxNA==&mid=2247503890&idx=1&sn=231597d92336dffd24e1d2df15144eb5&chksm=fad23227cda5bb31c5b3380e6676461a4d06893c65bf63003bf67ac32293b9f4bfd686a1d140&scene=27#wechat_redirect)
-
-百所高校、百家用人单位、百名尖锋导师，携手打造定制化人才培养模式，通过导师制职业规划和封闭式岗位实训，补足知识短板、提高实战能力，培养创新型、实用型网络安全尖锋人才。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_b54960a6ea07" alt="" />
-
----
-
-
 ### [复旦白泽战队](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
 
-[:chart_with_upwards_trend:【0/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
+[:chart_with_upwards_trend:【0/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
 
 [:camera_flash:【2022-09-07 11:27:38】](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247485887&idx=1&sn=c2d63722d125f769fbd8fa8e41b7400d&chksm=fdeb8dc1ca9c04d78f3ad9e8d28ebf8c36d3b40e4f352d8bf565fd4fc4c897d66120d74e7c3c&scene=27#wechat_redirect)
 
 以复旦大学系统安全实验室学生为主成立的安全攻防战队，分享最新研究成果，交流系统安全攻防领域技巧。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f1bf07da06d8" alt="" />
+
+---
+
+
+### [大学生网络安全尖锋训练营](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
+
+[:chart_with_upwards_trend:【0/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
+
+[:camera_flash:【2022-09-07 09:08:12】](https://mp.weixin.qq.com/s?__biz=MzUzODkwMDMxNA==&mid=2247503890&idx=1&sn=231597d92336dffd24e1d2df15144eb5&chksm=fad23227cda5bb31c5b3380e6676461a4d06893c65bf63003bf67ac32293b9f4bfd686a1d140&scene=27#wechat_redirect)
+
+百所高校、百家用人单位、百名尖锋导师，携手打造定制化人才培养模式，通过导师制职业规划和封闭式岗位实训，补足知识短板、提高实战能力，培养创新型、实用型网络安全尖锋人才。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_b54960a6ea07" alt="" />
 
 ---
 
@@ -116,15 +116,15 @@
 ---
 
 
-### [河北网络安全高校联盟](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4ODUyMjYyNg==)
+### [山警网络空间安全实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Njc1OTYyNA==)
 
-[:chart_with_upwards_trend:【1/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4ODUyMjYyNg==)
+[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Njc1OTYyNA==)
 
-[:camera_flash:【2022-08-24 17:26:57】](https://mp.weixin.qq.com/s?__biz=Mzg4ODUyMjYyNg==&mid=2247485930&idx=1&sn=50eee59ede3dffec7682ff82b1cbad24&chksm=cff89b07f88f12112cfd96876b837bc039bd0fa81c3b2c6bcb1a8020a864d3e1f1e300a4f8bd&scene=27#wechat_redirect)
+[:camera_flash:【2022-09-08 10:54:26】](https://mp.weixin.qq.com/s?__biz=MjM5Njc1OTYyNA==&mid=2450783979&idx=1&sn=76e0bbc269d97fac17d684a6d1c45fed&chksm=b1030fcc867486dab5dfaca3789e80419b984b85d298b3b80a7c7be2dbf3ebf11eea38a48d19&scene=27#wechat_redirect)
 
-河北网络安全高校联盟
+山警网络空间安全实验室（简称：网安社）
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8937984657cd" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_544c8c38eeaf" alt="" />
 
 ---
 
@@ -164,6 +164,19 @@
 清华大学网络与信息安全实验室(NISL@THU)，专注于网络、系统、应用、人工智能安全教学与研究，在国际四大安全会议发表三十余篇论文，成果在业界产生了广泛影响力。孕育了蓝莲花、紫荆花等知名战队，发起了网安国际学术论坛InForSec。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_52677a4545d1" alt="" />
+
+---
+
+
+### [河北网络安全高校联盟](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4ODUyMjYyNg==)
+
+[:chart_with_upwards_trend:【1/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4ODUyMjYyNg==)
+
+[:camera_flash:【2022-08-24 17:26:57】](https://mp.weixin.qq.com/s?__biz=Mzg4ODUyMjYyNg==&mid=2247485930&idx=1&sn=50eee59ede3dffec7682ff82b1cbad24&chksm=cff89b07f88f12112cfd96876b837bc039bd0fa81c3b2c6bcb1a8020a864d3e1f1e300a4f8bd&scene=27#wechat_redirect)
+
+河北网络安全高校联盟
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8937984657cd" alt="" />
 
 ---
 
@@ -229,19 +242,6 @@ Birkenwald安全团队 --来自哈尔滨理工大学
 广东外语外贸大学网络安全实验室信息推送和资源平台
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8176da819e03" alt="" />
-
----
-
-
-### [山警网络空间安全实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Njc1OTYyNA==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Njc1OTYyNA==)
-
-[:camera_flash:【2022-09-05 23:38:30】](https://mp.weixin.qq.com/s?__biz=MjM5Njc1OTYyNA==&mid=2450783911&idx=1&sn=28f0148edfeb006bbabed3f2a0035b23&chksm=b1030f8086748696fe6851f48edfafb28e26e3b00c3526823bccaf312065efa040576ab17e07&scene=27#wechat_redirect)
-
-山警网络空间安全实验室（简称：网安社）
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_544c8c38eeaf" alt="" />
 
 ---
 

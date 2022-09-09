@@ -1,9 +1,9 @@
 
 ### [编码安全研究](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NDY1MDc2Mg==)
 
-[:chart_with_upwards_trend:【0/63/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NDY1MDc2Mg==)
+[:chart_with_upwards_trend:【0/65/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NDY1MDc2Mg==)
 
-[:camera_flash:【2022-09-07 09:09:25】](https://mp.weixin.qq.com/s?__biz=Mzg2NDY1MDc2Mg==&mid=2247495252&idx=1&sn=89f41f3884a3535ba17a2593f08615ca&chksm=ce64bd31f9133427456ff860c67aba5896624b3e61967d563853c15a6d3289875f48d464ae37&scene=27#wechat_redirect)
+[:camera_flash:【2022-09-08 09:09:05】](https://mp.weixin.qq.com/s?__biz=Mzg2NDY1MDc2Mg==&mid=2247495313&idx=1&sn=16ee8aa35ce811d6bac9d21110631037&chksm=ce64bdf4f91334e2435c07967be8aa7e10845a699c727812182dc940f7672b2f1b04b18d7a0a&scene=27#wechat_redirect)
 
 专注于学习网络安全
 
@@ -14,9 +14,9 @@
 
 ### [字节跳动技术团队](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
 
-[:chart_with_upwards_trend:【13/26/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
+[:chart_with_upwards_trend:【14/26/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
 
-[:camera_flash:【2022-09-07 12:00:29】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247498499&idx=1&sn=61bdefeaa033ac7989d33366a963fcbc&chksm=e9d330e1dea4b9f7904baaeb7e7b9bc95e92ff5c9c899d42c98941ac775feabef404975c7a62&scene=27#wechat_redirect)
+[:camera_flash:【2022-09-08 12:00:19】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247498554&idx=1&sn=d59ac6667527a577d3684217df21cc49&chksm=e9d330d8dea4b9ceab1a20176881a1885b74e717c1d88b7b76d503f3cb071b19595f9c1d3bf3&scene=27#wechat_redirect)
 
 字节跳动的技术实践分享
 
@@ -27,7 +27,7 @@
 
 ### [GoCN](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4ODg0NDkzOA==)
 
-[:chart_with_upwards_trend:【15/19/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4ODg0NDkzOA==)
+[:chart_with_upwards_trend:【17/21/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4ODg0NDkzOA==)
 
 [:camera_flash:【2022-09-08 08:00:13】](https://mp.weixin.qq.com/s?__biz=MzA4ODg0NDkzOA==&mid=2247504567&idx=1&sn=bd0c04e78cfc296dc938017f69788b47&chksm=90216d52a756e444e51f82e32d77f18596cda054979c4d214101327b4740875aa8c3ac7d79b0&scene=27#wechat_redirect)
 
@@ -40,7 +40,7 @@
 
 ### [哔哩哔哩技术](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3Njc0NTgwMg==)
 
-[:chart_with_upwards_trend:【11/18/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3Njc0NTgwMg==)
+[:chart_with_upwards_trend:【11/17/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3Njc0NTgwMg==)
 
 [:camera_flash:【2022-09-06 12:00:33】](https://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&mid=2247489557&idx=1&sn=3ce2c7938fe589452130acea71e3a738&chksm=cf2cdd30f85b5426e54523a7ae5dff02f3abcdfe35b33c75e249bd797fdeb8f1410702b5e365&scene=27&key=d8221f16b48f88c8f1b1a6921a9696f7dd56328a6a8f60df5955620479a9771aad85d2ded9e79abe96792666c2c85d9803dc18ea0e0f6c540a174f85eb3d1e9e2c8a0d7c61be45d77bc88a72b6c892da2ba53d3691f115b4f1f2d7342b284a1519cf555036a918205853f34433daf15420966d6c1f867c39d1c48bcaa366af9e&ascene=15&uin=MTA3Mzc3OTIzNQ%3D%3D&devicetype=Windows+Server+2016+x64&version=63070517&lang=zh_CN&session_us=gh_cbab6d7b8e9b&exportkey=AYqX7WI%2BnfZYqJIa0keADwU%3D&acctmode=0&pass_ticket=MgppKHmFuB9WZF86XMggAtWbXiyrUmPdV0hOYa4jdsrAZUh6uZonOBQlvi0b9f8m&wx_header=0&fontgear=2&scene=27#wechat_redirect)
 
@@ -53,7 +53,7 @@
 
 ### [腾讯技术工程](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
 
-[:chart_with_upwards_trend:【5/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
+[:chart_with_upwards_trend:【4/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
 
 [:camera_flash:【2022-09-06 18:00:44】](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649773709&idx=1&sn=a270b3a0049c36153b143e11d835d947&chksm=beccc5f689bb4ce03bd9652cfdb52d8982407e2134ea982f8f1a1e5359cd4452315fc033489b&scene=27#wechat_redirect)
 
@@ -116,6 +116,19 @@
 ---
 
 
+### [四维创智](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzI1MDg2Mg==)
+
+[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzI1MDg2Mg==)
+
+[:camera_flash:【2022-09-07 17:30:39】](https://mp.weixin.qq.com/s?__biz=MzIwMzI1MDg2Mg==&mid=2649934826&idx=1&sn=5ba329b6b55e1d5bd26ab65c6abe773f&chksm=8ed4262bb9a3af3d73782e80832185086890a459b4a497ec6b9868b836bf87bda6492d2e3969&scene=27#wechat_redirect)
+
+主营业务涵盖应用安全、系统安全、运维安全等，包括IT资产管理、智能攻击机器人、智能防御机器人、攻防实战演练支持、安全培训、课题和安全技术研究、产品研发及服务综合解决方案提供；其中，行业解决方案又包括电力行业、金融行业、军工行业、公检法等。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_10621ea3bed3" alt="" />
+
+---
+
+
 ### [RapidDNS](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NDU0ODMxOQ==)
 
 [:chart_with_upwards_trend:【3/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NDU0ODMxOQ==)
@@ -164,19 +177,6 @@ RapidDNS.io 是一个免费开放的DNS在线查询平台。
 OPPO在大数据、人工智能、云技术等领域的技术干货及技术活动分享平台
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_7bc48466f080" alt="" />
-
----
-
-
-### [四维创智](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzI1MDg2Mg==)
-
-[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzI1MDg2Mg==)
-
-[:camera_flash:【2022-09-07 17:30:39】](https://mp.weixin.qq.com/s?__biz=MzIwMzI1MDg2Mg==&mid=2649934826&idx=1&sn=5ba329b6b55e1d5bd26ab65c6abe773f&chksm=8ed4262bb9a3af3d73782e80832185086890a459b4a497ec6b9868b836bf87bda6492d2e3969&scene=27#wechat_redirect)
-
-主营业务涵盖应用安全、系统安全、运维安全等，包括IT资产管理、智能攻击机器人、智能防御机器人、攻防实战演练支持、安全培训、课题和安全技术研究、产品研发及服务综合解决方案提供；其中，行业解决方案又包括电力行业、金融行业、军工行业、公检法等。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_10621ea3bed3" alt="" />
 
 ---
 
