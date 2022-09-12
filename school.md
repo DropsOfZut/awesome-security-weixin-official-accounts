@@ -1,9 +1,9 @@
 
 ### [启明星辰网络空间安全学院](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
 
-[:chart_with_upwards_trend:【0/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
+[:chart_with_upwards_trend:【0/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
 
-[:camera_flash:【2022-09-10 08:40:41】](https://mp.weixin.qq.com/s?__biz=MzUzNDg0NTc1NA==&mid=2247493753&idx=1&sn=2193e0b29315809b0113a8b8c0525b48&chksm=fa8c282ccdfba13a4f36d55f54929404c9d8a6f000e0172b1dcab1d27db0577d86f8e3fcb65f&scene=27#wechat_redirect)
+[:camera_flash:【2022-09-11 08:54:47】](https://mp.weixin.qq.com/s?__biz=MzUzNDg0NTc1NA==&mid=2247494002&idx=1&sn=9084e502ea96c2498aa45d5a6134d142&chksm=fa8c2927cdfba031bda3b0d6f21a31a380fe498459c622ef56af3d57a096d97eff39efbb01ce&scene=27#wechat_redirect)
 
 启明星辰网络空间安全学院以国家网络安全事业发展为使命，依托启明星辰集团多年的技术沉淀及实践积累，提供网络安全人才体系构建与信息安全技术及能力提升教育培训，为建设网络强国提供有力的人才支撑。
 
@@ -14,7 +14,7 @@
 
 ### [复旦白泽战队](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
 
-[:chart_with_upwards_trend:【0/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
+[:chart_with_upwards_trend:【0/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
 
 [:camera_flash:【2022-09-07 11:27:38】](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247485887&idx=1&sn=c2d63722d125f769fbd8fa8e41b7400d&chksm=fdeb8dc1ca9c04d78f3ad9e8d28ebf8c36d3b40e4f352d8bf565fd4fc4c897d66120d74e7c3c&scene=27#wechat_redirect)
 
@@ -27,7 +27,7 @@
 
 ### [大学生网络安全尖锋训练营](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
 
-[:chart_with_upwards_trend:【0/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
+[:chart_with_upwards_trend:【0/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
 
 [:camera_flash:【2022-09-10 08:30:46】](https://mp.weixin.qq.com/s?__biz=MzUzODkwMDMxNA==&mid=2247504178&idx=1&sn=9237a6729f15f70e2245768784aa8e5d&chksm=fad23307cda5ba11e51e055e2d876d70ae9ecc53a49f51d3657ea1786067c63f12b702bc91ce&scene=27#wechat_redirect)
 
@@ -68,7 +68,7 @@
 
 [:chart_with_upwards_trend:【4/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyODMyODMyOA==)
 
-[:camera_flash:【2022-09-07 12:18:58】](https://mp.weixin.qq.com/s?__biz=MzkyODMyODMyOA==&mid=2247485456&idx=1&sn=11c945c3c2967481995bce7e579af4f0&chksm=c21b37f7f56cbee11c8ac010d910ae5a0bfebcb0ff625fbb76be0dea762e64f4cd4e369c0f59&scene=27#wechat_redirect)
+[:camera_flash:【2022-09-11 16:00:37】](https://mp.weixin.qq.com/s?__biz=MzkyODMyODMyOA==&mid=2247485497&idx=1&sn=5e40acbbe646940b58db74a2170e5bb5&chksm=c21b37def56cbec8853e9b2b2d5526b88a9c2ba86b1dfe91672c83ee5ea6cd83cb497d74b63d&scene=27#wechat_redirect)
 
 珠天PearlSky，意为珠科安全的一片天。珠天的队员都来自于珠海科技学院热爱钻研网络安全技术的同学。我们希望我们能够让更多人了解网络安全，更欢迎各位同学加入我们一起交流学习。本公众号会发布一些学习心得，经验总结等等一系列文章。
 
