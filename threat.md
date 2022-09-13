@@ -1,9 +1,9 @@
 
 ### [情报分析师](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3Mjc1MTkwOA==)
 
-[:chart_with_upwards_trend:【45/48/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3Mjc1MTkwOA==)
+[:chart_with_upwards_trend:【42/45/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3Mjc1MTkwOA==)
 
-[:camera_flash:【2022-09-11 11:22:00】](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650516045&idx=1&sn=fb8d3795fcc8324f504035dd3666ee9a&chksm=87168406b0610d1038c4b8c691f1f444c7aee3f56b0a859f4a89730d074bd2aed70467165739&scene=27#wechat_redirect)
+[:camera_flash:【2022-09-12 10:21:54】](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650516080&idx=1&sn=4b8fa21bcfcefc1ede3b66ef36b529e6&chksm=8716843bb0610d2d7091a3b9a3c3b457eb752bd3f23e7bc80216f80642b325c265c013e534f3&scene=27#wechat_redirect)
 
 POLICE教授团队：聚焦情报安全与警务！关注情报动态，制定情报标准，开展情报培训，促进情报协作，传播情报文化，优化情报生态，共建情报分析师职业共同体。
 
@@ -14,9 +14,9 @@ POLICE教授团队：聚焦情报安全与警务！关注情报动态，制定�
 
 ### [丁爸情报分析师的工具箱](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MTE0NTE3Mw==)
 
-[:chart_with_upwards_trend:【24/36/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MTE0NTE3Mw==)
+[:chart_with_upwards_trend:【25/37/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MTE0NTE3Mw==)
 
-[:camera_flash:【2022-09-11 18:40:57】](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651131978&idx=1&sn=45cfaaac11a83d1d393477f89b08327e&chksm=f1af6770c6d8ee66c9c8ab96d4d19b9ae8c2a28f0e8b9a004da971bbcd2e5759d0337b7b4c05&scene=27#wechat_redirect)
+[:camera_flash:【2022-09-12 21:59:47】](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651132000&idx=1&sn=9547f001f3af5cea270c1369bd25b593&chksm=f1af675ac6d8ee4c199d44955cef10cadb3b65013fe0ddb9fd1e9894762af298a85d9ac8ab83&scene=27#wechat_redirect)
 
 每天为大家精选各类情报分析相关的资源、工具、技巧和资讯，努力成为情报分析师必备的工具箱。外挂机器人“小丁丁”还能陪您聊天，给您查航班、查列车、查天气、查酒店、查美食、查股票、回答您的提问等等。
 
@@ -131,7 +131,7 @@ Seebug，原 Sebug 漏洞平台，洞悉漏洞，让你掌握第一手漏洞情�
 
 ### [虎符智库](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNjYwMTMyNQ==)
 
-[:chart_with_upwards_trend:【4/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNjYwMTMyNQ==)
+[:chart_with_upwards_trend:【3/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNjYwMTMyNQ==)
 
 [:camera_flash:【2022-09-08 18:05:48】](https://mp.weixin.qq.com/s?__biz=MzIwNjYwMTMyNQ==&mid=2247488137&idx=1&sn=bbece8d082d79fb26eccfbd020d86672&chksm=971e7f8ba069f69d9ffad2fe5e7c35720711820c2c29ce5e40601678c089875da5278d43630d&scene=27&key=2d14964c488b73394647e9802bc90e4c9e38829609268976ac8693e2a902f65a06d84686c25034c1e828d6c9ecd93f16a2c14fae1d0e532d0a1afa41270c85ffafa16a267d02320065734ee4c44fe78e0147b02fbb31d4481fa1596a03e1c623c8fcb6b0e6e9bf615bf761ad23866436c80c89dafd6b742cdaff59568d48f30c&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+Server+2016+x64&version=63070517&lang=zh_CN&session_us=gh_bdbfaffcf899&exportkey=A6NdFGqdg3LIH2XA%2B0NuQis%3D&acctmode=0&pass_ticket=SA7aDNchxSYOs1MVgVV9nCJiT931HC99QqLUbaFkJcozVRSomAePu3YV9LG7SNBS&wx_header=0&fontgear=2&scene=27#wechat_redirect)
 

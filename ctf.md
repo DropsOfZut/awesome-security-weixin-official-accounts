@@ -1,7 +1,7 @@
 
 ### [寰宇卫士](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
 
-[:chart_with_upwards_trend:【0/21/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
+[:chart_with_upwards_trend:【0/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
 
 [:camera_flash:【2022-09-09 09:32:16】](https://mp.weixin.qq.com/s?__biz=MzIwMzU0NDY5OA==&mid=2247494314&idx=1&sn=ce11d71aeeab9d6abacb6ff1e72ce760&chksm=96cf6bbfa1b8e2a953d2c209fa65924b9c29053c5613ec925a877cda43af13a45bd26a2fe2ba&scene=27#wechat_redirect)
 
@@ -16,7 +16,7 @@
 
 [:chart_with_upwards_trend:【0/15/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjY3NDQ2Ng==)
 
-[:camera_flash:【2022-09-10 20:30:07】](https://mp.weixin.qq.com/s?__biz=Mzg4MjY3NDQ2Ng==&mid=2247486100&idx=1&sn=23cd3590762f78712c1ecffec14096f9&chksm=cf5254d9f825ddcf3a25ebff58c4e6c9ad4aa85b87cdd338d3f2ca3806905d7cc9c896fd6dbf&scene=27#wechat_redirect)
+[:camera_flash:【2022-09-12 09:48:12】](https://mp.weixin.qq.com/s?__biz=Mzg4MjY3NDQ2Ng==&mid=2247486127&idx=1&sn=602171b807a4b24591922b4f01594f3b&chksm=cf5254e2f825ddf4aa719c1affabc4130a6b9dd8c41becbf9bc185b42c2f319ee3d85aeba3fd&scene=27#wechat_redirect)
 
 强网竞赛是面向高等院校和国内信息安全企业的国家级赛事，旨在通过高对抗的竞技比赛，发现锻造网络安全领域优秀人才，提高国家网络安全保障能力，提升全民网络安全意识。
 
