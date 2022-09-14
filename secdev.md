@@ -1,9 +1,9 @@
 
 ### [商密君](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
 
-[:chart_with_upwards_trend:【0/112/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
+[:chart_with_upwards_trend:【0/108/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
 
-[:camera_flash:【2022-09-12 17:52:54】](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247581008&idx=1&sn=4f9345ec7f35c162056e80f9f44864b0&chksm=ec57ad0bdb20241dd3bf12406955dc57960db3af7651fecaa1c036cee48298750ac55adc8995&scene=27#wechat_redirect)
+[:camera_flash:【2022-09-13 15:43:29】](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247581092&idx=1&sn=4deabd9b3a78f98d668981717bdc1959&chksm=ec57adffdb2024e90ec82af239f4f982393d745d19bfafaca3ae0698404141f329ee5707e458&scene=27#wechat_redirect)
 
 商密君是全国密码行业头部公众号，旨在宣传推广《密码法》，普及商用密码知识，解读密码政策，分享商用密码行业的最新动态，为密码产业产学研用做好宣传服务，连接密码全行业精英，推动密码技术在数字经济各行业的应用和创新。
 
@@ -14,9 +14,9 @@
 
 ### [数世咨询](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
 
-[:chart_with_upwards_trend:【5/55/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
+[:chart_with_upwards_trend:【5/54/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
 
-[:camera_flash:【2022-09-10 23:30:20】](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247495420&idx=1&sn=8826a3919968b29063ba839241cb235b&chksm=c1449c41f633155787274e623d74d8dfa1d0187bd6a6b4ad1a1e543230e9f3f7c82eb840094a&scene=27#wechat_redirect)
+[:camera_flash:【2022-09-13 23:30:44】](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247495463&idx=1&sn=4cfea7bbc07bfef40ffba750edf45457&chksm=c1449d9af633148c1087f6da808ddae7aed30246a3ddec8f3cc39c6718ba3ac355cfd604816c&scene=27#wechat_redirect)
 
 中国数字产业领域中立的第三方调研机构，提供网络安全行业的调查、研究与咨询服务。
 
@@ -27,9 +27,9 @@
 
 ### [全栈网络空间安全](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
 
-[:chart_with_upwards_trend:【0/44/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
+[:chart_with_upwards_trend:【0/43/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
 
-[:camera_flash:【2022-09-11 00:04:35】](https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247504104&idx=1&sn=91e2b5c903ff6af697faf0b0e25eedbb&chksm=cf3d6c25f84ae53348303ea6680c7d2107005b24ec2f6c2109fd49d543fd57da94f388e598c1&scene=27#wechat_redirect)
+[:camera_flash:【2022-09-13 09:59:35】](https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247504162&idx=1&sn=e2f1edf68a88f56870d9a7afca8daf1b&chksm=cf3d6deff84ae4f9a91f669cd9ac52bf842cb98b1bf21bd5be7e4429ba9ac52b0e0d4dc19a8d&scene=27#wechat_redirect)
 
 网络安全事件预警体系、事件检测、应急处置、追踪溯源、安全运营、红蓝对抗、HW行动、AWD竞赛，以及站在审计师的角度评估信息系统建设的有效性、完备性、安全性等。 欢迎有想法、乐于分享的具备互联网分享精神的安全人交流学习。
 
@@ -116,19 +116,6 @@ vivo全新的安全品牌，有人文温度的科技新媒体，致力于让亿�
 ---
 
 
-### [网络安全观](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxNzUxNzA2NQ==)
-
-[:chart_with_upwards_trend:【3/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxNzUxNzA2NQ==)
-
-[:camera_flash:【2022-09-11 06:59:11】](https://mp.weixin.qq.com/s?__biz=MzIxNzUxNzA2NQ==&mid=2247494915&idx=1&sn=9a185bb4f19813af6182a95802e90d40&chksm=97fa3065a08db973b278f0e141a3c98f64b2eb850caa9864209233e5d6be6abf0d4534413197&scene=27#wechat_redirect)
-
-零信任和安全架构传道者。专注于解析国外先进网络安全体系，含零信任、数据安全、美军安全体系等。帐号主体为柯善学博士，现任职360。当前，本订阅号只做原创。谢绝商务合作与宣传推广。谢谢关注！
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_3290c66b9669" alt="" />
-
----
-
-
 ### [乐枕迭代日志](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NTMyNDg3OQ==)
 
 [:chart_with_upwards_trend:【2/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NTMyNDg3OQ==)
@@ -177,6 +164,19 @@ vivo全新的安全品牌，有人文温度的科技新媒体，致力于让亿�
 持续关注企业与信息安全建设，分享精选干货。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4947400a6ef2" alt="" />
+
+---
+
+
+### [网络安全观](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxNzUxNzA2NQ==)
+
+[:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxNzUxNzA2NQ==)
+
+[:camera_flash:【2022-09-11 06:59:11】](https://mp.weixin.qq.com/s?__biz=MzIxNzUxNzA2NQ==&mid=2247494915&idx=1&sn=9a185bb4f19813af6182a95802e90d40&chksm=97fa3065a08db973b278f0e141a3c98f64b2eb850caa9864209233e5d6be6abf0d4534413197&scene=27#wechat_redirect)
+
+零信任和安全架构传道者。专注于解析国外先进网络安全体系，含零信任、数据安全、美军安全体系等。帐号主体为柯善学博士，现任职360。当前，本订阅号只做原创。谢绝商务合作与宣传推广。谢谢关注！
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_3290c66b9669" alt="" />
 
 ---
 
