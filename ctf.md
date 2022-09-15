@@ -1,9 +1,9 @@
 
 ### [寰宇卫士](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
 
-[:chart_with_upwards_trend:【0/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
+[:chart_with_upwards_trend:【0/19/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
 
-[:camera_flash:【2022-09-13 11:11:20】](https://mp.weixin.qq.com/s?__biz=MzIwMzU0NDY5OA==&mid=2247494337&idx=1&sn=bcb91ba428cfa4c4470feb04490a03a3&chksm=96cf6bd4a1b8e2c23b9e37fe0dede936d289df23af339471fa394cd20d364f4e5196b6ffaecf&scene=27#wechat_redirect)
+[:camera_flash:【2022-09-14 08:41:04】](https://mp.weixin.qq.com/s?__biz=MzIwMzU0NDY5OA==&mid=2247494367&idx=1&sn=4982affa5033599280d061205f9e31ab&chksm=96cf6bcaa1b8e2dcb0a072eb50302ca1e2db0935267f13cc3d73d89d7e821b96a8f66485acb6&scene=27#wechat_redirect)
 
 寰宇卫士综合安全咨询、安全服务、解决方案、认证培训、产品研发等信息安全多元化产业链为一体。
 
@@ -29,7 +29,7 @@
 
 [:chart_with_upwards_trend:【1/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
 
-[:camera_flash:【2022-09-02 14:01:41】](https://mp.weixin.qq.com/s?__biz=MzkyNDA5NjgyMg==&mid=2247494257&idx=1&sn=6dc0132cf02099cb73055df4b2154930&chksm=c1d9aa28f6ae233ee405882e4550f19b2d884c271e0689a6d58115e0b00f8718109ed30fe556&scene=27#wechat_redirect)
+[:camera_flash:【2022-09-14 18:00:59】](https://mp.weixin.qq.com/s?__biz=MzkyNDA5NjgyMg==&mid=2247494282&idx=1&sn=a540164ee11694816552fa312a998306&chksm=c1d9aad3f6ae23c5975d4fa8cea39db8b61f82bd7edd3e3be524146850248def769bd6838a76&scene=27&key=e8677526fb452b6d11de89724d6b99415c07b4610a459f26d483a3d0dc8cce9215b7a474f6ce6ee165dafebc742c36deb218ea8296854bb4216dfe69aa13de303dc68b8b9917ed0e0a2e922e638d08ffe58db9a53e36ecd3be9e312f9db6cf8f3e7ad320d6a7e5cbe4b0022cf8f56b5f927887624dab6f18259bd528efcffa1e&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+Server+2016+x64&version=63070517&lang=zh_CN&session_us=gh_7b58592cc40e&exportkey=A3qKi4HJLXKJ%2F2TnAIbfpX8%3D&acctmode=0&pass_ticket=%2FCxJciBMgGN94DeRt8iXnLr6Xwld76EgPpdYSGnfvm3YltQ%2BMTAF8Mhw41CYnnCx&wx_header=0&fontgear=2&scene=27#wechat_redirect)
 
 春秋伽玛，为广大网络安全爱好者传递网络安全大赛相关赛事信息，提供优质的赛事服务平台
 
@@ -51,6 +51,19 @@ X是未知，更是无限，邀您一道创造、见证和实现X-Plan，北斗�
 ---
 
 
+### [XCTF联赛](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
+
+[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
+
+[:camera_flash:【2022-09-14 09:00:05】](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247507651&idx=1&sn=cbfe84220d829bdf238fc848f73b6a38&chksm=a6872cf991f0a5efce59157feecde213aa7c0a2d9b3069c6d487a5668d037d42c452f3012000&scene=27#wechat_redirect)
+
+国内最早、亚洲最大的网络攻防联赛。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_3d7c7f90f79f" alt="" />
+
+---
+
+
 ### [中学生CTF](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzEwMTQ3NQ==)
 
 [:chart_with_upwards_trend:【2/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzEwMTQ3NQ==)
@@ -60,19 +73,6 @@ X是未知，更是无限，邀您一道创造、见证和实现X-Plan，北斗�
 为广大学生提供学习的平台
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0d0714849484" alt="" />
-
----
-
-
-### [XCTF联赛](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
-
-[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
-
-[:camera_flash:【2022-09-10 09:00:42】](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247507650&idx=1&sn=ccb8de09fc4bee8ae249e81a26b4f2f5&chksm=a6872cf891f0a5ee9c64546c14b3ac58e070a4c300997002d923553fc73bc27c3215b20f7df8&scene=27&key=da9eb3f945dd83b4ed19917de0ea96e92d0995c434b530d8e017af73c77c21359e15d666d55d3c6b2649dcb759b30fd96e5b801d9c10381af59593732d5a1a17cdd9e044fa0e3c54fbf88de7e04acee946c4338c10f8e6cde04d1d921dd7a45635b8d88a4e926c696f7a37e4eaa1bf85dd4dabc7b307f88aa9ed467970d17a22&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+Server+2016+x64&version=63070517&lang=zh_CN&session_us=gh_59637109313f&exportkey=A23gIzVKEZXCQ7Ezjr77S7k%3D&acctmode=0&pass_ticket=SA7aDNchxSYOs1MVgVV9nCJiT931HC99QqLUbaFkJcozVRSomAePu3YV9LG7SNBS&wx_header=0&fontgear=2&scene=27#wechat_redirect)
-
-国内最早、亚洲最大的网络攻防联赛。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_3d7c7f90f79f" alt="" />
 
 ---
 
