@@ -1,9 +1,9 @@
 
 ### [寰宇卫士](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
 
-[:chart_with_upwards_trend:【0/19/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
+[:chart_with_upwards_trend:【0/18/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
 
-[:camera_flash:【2022-09-14 08:41:04】](https://mp.weixin.qq.com/s?__biz=MzIwMzU0NDY5OA==&mid=2247494367&idx=1&sn=4982affa5033599280d061205f9e31ab&chksm=96cf6bcaa1b8e2dcb0a072eb50302ca1e2db0935267f13cc3d73d89d7e821b96a8f66485acb6&scene=27#wechat_redirect)
+[:camera_flash:【2022-09-15 14:43:34】](https://mp.weixin.qq.com/s?__biz=MzIwMzU0NDY5OA==&mid=2247494397&idx=1&sn=22bd6d242370fff4b032ad7e4b325627&chksm=96cf6be8a1b8e2fe69ef01492eb60d3f80482b880fcbd1a21d13bcee52b02b96aba087c48717&scene=27#wechat_redirect)
 
 寰宇卫士综合安全咨询、安全服务、解决方案、认证培训、产品研发等信息安全多元化产业链为一体。
 
@@ -14,7 +14,7 @@
 
 ### [强网竞赛](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjY3NDQ2Ng==)
 
-[:chart_with_upwards_trend:【0/15/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjY3NDQ2Ng==)
+[:chart_with_upwards_trend:【0/14/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjY3NDQ2Ng==)
 
 [:camera_flash:【2022-09-12 09:48:12】](https://mp.weixin.qq.com/s?__biz=Mzg4MjY3NDQ2Ng==&mid=2247486127&idx=1&sn=602171b807a4b24591922b4f01594f3b&chksm=cf5254e2f825ddf4aa719c1affabc4130a6b9dd8c41becbf9bc185b42c2f319ee3d85aeba3fd&scene=27#wechat_redirect)
 
@@ -29,7 +29,7 @@
 
 [:chart_with_upwards_trend:【1/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
 
-[:camera_flash:【2022-09-14 18:00:59】](https://mp.weixin.qq.com/s?__biz=MzkyNDA5NjgyMg==&mid=2247494282&idx=1&sn=a540164ee11694816552fa312a998306&chksm=c1d9aad3f6ae23c5975d4fa8cea39db8b61f82bd7edd3e3be524146850248def769bd6838a76&scene=27&key=e8677526fb452b6d11de89724d6b99415c07b4610a459f26d483a3d0dc8cce9215b7a474f6ce6ee165dafebc742c36deb218ea8296854bb4216dfe69aa13de303dc68b8b9917ed0e0a2e922e638d08ffe58db9a53e36ecd3be9e312f9db6cf8f3e7ad320d6a7e5cbe4b0022cf8f56b5f927887624dab6f18259bd528efcffa1e&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+Server+2016+x64&version=63070517&lang=zh_CN&session_us=gh_7b58592cc40e&exportkey=A3qKi4HJLXKJ%2F2TnAIbfpX8%3D&acctmode=0&pass_ticket=%2FCxJciBMgGN94DeRt8iXnLr6Xwld76EgPpdYSGnfvm3YltQ%2BMTAF8Mhw41CYnnCx&wx_header=0&fontgear=2&scene=27#wechat_redirect)
+[:camera_flash:【2022-09-15 19:10:07】](https://mp.weixin.qq.com/s?__biz=MzkyNDA5NjgyMg==&mid=2247494390&idx=1&sn=35ff5dab7ef7bb99a11cc99c222b6684&chksm=c1d9aaaff6ae23b9557f5a0d5b193327aad80e2ad012246fa3a01bb86415c5dd2319aebf7ab5&scene=27#wechat_redirect)
 
 春秋伽玛，为广大网络安全爱好者传递网络安全大赛相关赛事信息，提供优质的赛事服务平台
 
@@ -42,7 +42,7 @@
 
 [:chart_with_upwards_trend:【2/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MDY1ODU2Mw==)
 
-[:camera_flash:【2022-09-05 18:01:38】](https://mp.weixin.qq.com/s?__biz=Mzg5MDY1ODU2Mw==&mid=2247488200&idx=1&sn=c96e56a37711bf4c33818521766de495&chksm=cfd818a4f8af91b2da5a8b11bd69705509e225d9336ce2fcfb4c45b1759dae9d043f81a337bf&scene=27#wechat_redirect)
+[:camera_flash:【2022-09-15 18:24:51】](https://mp.weixin.qq.com/s?__biz=Mzg5MDY1ODU2Mw==&mid=2247488996&idx=1&sn=79072377baec697d2c4420cb5c1d89c3&chksm=cfd81f88f8af969ed3115227724deef3b428cbf59f57c0335ec53cd2a5f1b55701b8d69d0fd9&scene=27#wechat_redirect)
 
 X是未知，更是无限，邀您一道创造、见证和实现X-Plan，北斗逐光，安全有恒，未来无界，共创数字安全未来！
 
@@ -90,19 +90,6 @@ X是未知，更是无限，邀您一道创造、见证和实现X-Plan，北斗�
 ---
 
 
-### [PTEHub](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NzY5NjgyNw==)
-
-[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NzY5NjgyNw==)
-
-[:camera_flash:【2022-08-16 09:09:53】](https://mp.weixin.qq.com/s?__biz=Mzg4NzY5NjgyNw==&mid=2247484540&idx=1&sn=1485134b77b79820eda3fd95be2b147b&chksm=cf8738a8f8f0b1bee912253d82445721a2e5d3adf85b343dabf72ffb6b981ae8d96331bde12a&scene=27&key=7d0747fd59e25d7fb06e7d6676abcecb7b69196fc625af36cb42e2982894a9f6234aeae2c5c2e7cecc33931ea6d1bdf42f12b4e3f154274fb9e2787955aef557a4fd41d1a8cca0a317f9a90051e3c166eec55093a9059d230340ab8731d3b1ec6b3e517f1ca6a6c526922ea1b9c5a1c63d88dd6c041de64954b976252637eacd&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+10+x64&version=6307051f&lang=zh_CN&session_us=gh_ceb74c1acd23&exportkey=A6aRzOPpt3heMvD2vfTTBtA%3D&acctmode=0&pass_ticket=nbAVwylOthGZ0VV%2BXAk71sC594v05R50saz1fCiEe9dZqpTTt1qZX%2FtDBPmcJ00P&wx_header=0&fontgear=2&scene=27#wechat_redirect)
-
-PTE小技巧
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_5aff651a75ac" alt="" />
-
----
-
-
 ### [胖哈勃](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2OTUzMzg3Ng==)
 
 [:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2OTUzMzg3Ng==)
@@ -138,6 +125,19 @@ PTE小技巧
 CTF协会
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_1e4280acde68" alt="" />
+
+---
+
+
+### [PTEHub](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NzY5NjgyNw==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NzY5NjgyNw==)
+
+[:camera_flash:【2022-08-16 09:09:53】](https://mp.weixin.qq.com/s?__biz=Mzg4NzY5NjgyNw==&mid=2247484540&idx=1&sn=1485134b77b79820eda3fd95be2b147b&chksm=cf8738a8f8f0b1bee912253d82445721a2e5d3adf85b343dabf72ffb6b981ae8d96331bde12a&scene=27&key=7d0747fd59e25d7fb06e7d6676abcecb7b69196fc625af36cb42e2982894a9f6234aeae2c5c2e7cecc33931ea6d1bdf42f12b4e3f154274fb9e2787955aef557a4fd41d1a8cca0a317f9a90051e3c166eec55093a9059d230340ab8731d3b1ec6b3e517f1ca6a6c526922ea1b9c5a1c63d88dd6c041de64954b976252637eacd&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+10+x64&version=6307051f&lang=zh_CN&session_us=gh_ceb74c1acd23&exportkey=A6aRzOPpt3heMvD2vfTTBtA%3D&acctmode=0&pass_ticket=nbAVwylOthGZ0VV%2BXAk71sC594v05R50saz1fCiEe9dZqpTTt1qZX%2FtDBPmcJ00P&wx_header=0&fontgear=2&scene=27#wechat_redirect)
+
+PTE小技巧
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_5aff651a75ac" alt="" />
 
 ---
 
