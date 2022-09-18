@@ -1,7 +1,7 @@
 
 ### [寰宇卫士](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
 
-[:chart_with_upwards_trend:【0/17/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
+[:chart_with_upwards_trend:【0/16/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
 
 [:camera_flash:【2022-09-15 14:43:34】](https://mp.weixin.qq.com/s?__biz=MzIwMzU0NDY5OA==&mid=2247494397&idx=1&sn=22bd6d242370fff4b032ad7e4b325627&chksm=96cf6be8a1b8e2fe69ef01492eb60d3f80482b880fcbd1a21d13bcee52b02b96aba087c48717&scene=27#wechat_redirect)
 
@@ -14,7 +14,7 @@
 
 ### [强网竞赛](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjY3NDQ2Ng==)
 
-[:chart_with_upwards_trend:【0/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjY3NDQ2Ng==)
+[:chart_with_upwards_trend:【0/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjY3NDQ2Ng==)
 
 [:camera_flash:【2022-09-12 09:48:12】](https://mp.weixin.qq.com/s?__biz=Mzg4MjY3NDQ2Ng==&mid=2247486127&idx=1&sn=602171b807a4b24591922b4f01594f3b&chksm=cf5254e2f825ddf4aa719c1affabc4130a6b9dd8c41becbf9bc185b42c2f319ee3d85aeba3fd&scene=27#wechat_redirect)
 
@@ -55,7 +55,7 @@ X是未知，更是无限，邀您一道创造、见证和实现X-Plan，北斗�
 
 [:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
 
-[:camera_flash:【2022-09-16 09:00:48】](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247507660&idx=1&sn=f2e66296c29d5b91476f2372e3588f7d&chksm=a6872cf691f0a5e0740dfb0ccbd8a0245db0c8621b142ad7b354eb82549240575fe62452cceb&scene=27#wechat_redirect)
+[:camera_flash:【2022-09-17 22:03:51】](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247507672&idx=1&sn=47f46218a3614394529d74c24b09a37c&chksm=a6872ce291f0a5f4cfa3499ba17623bf763fecffec183befd4b9f21e658804cec196fbb1b719&scene=27#wechat_redirect)
 
 国内最早、亚洲最大的网络攻防联赛。
 
@@ -103,19 +103,6 @@ X是未知，更是无限，邀您一道创造、见证和实现X-Plan，北斗�
 ---
 
 
-### [DataCon大数据安全分析竞赛](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5Njg1NzMyNw==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5Njg1NzMyNw==)
-
-[:camera_flash:【2022-08-18 17:31:13】](https://mp.weixin.qq.com/s?__biz=MzU5Njg1NzMyNw==&mid=2247485192&idx=1&sn=093d33df48aca03e1dad2ba156dda6c3&chksm=fe5d1f88c92a969e4108e26985362e85dbdbbf7d2ad50a2af06302d5df01bef8b63888e893d6&scene=27#wechat_redirect)
-
-由奇安信集团、清华大学、蚂蚁集团主办，联合北京大学、中科院软件所、复旦大学、中山大学、山东大学、中国科技大学等30多个知名高校和研究机构共同举办的聚焦大数据安全分析的比赛。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a0316d342599" alt="" />
-
----
-
-
 ### [SCUCTF](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxNDk1ODUxMw==)
 
 [:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxNDk1ODUxMw==)
@@ -138,6 +125,19 @@ CTF协会
 PTE小技巧
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_5aff651a75ac" alt="" />
+
+---
+
+
+### [DataCon大数据安全分析竞赛](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5Njg1NzMyNw==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5Njg1NzMyNw==)
+
+[:camera_flash:【2022-08-18 17:31:13】](https://mp.weixin.qq.com/s?__biz=MzU5Njg1NzMyNw==&mid=2247485192&idx=1&sn=093d33df48aca03e1dad2ba156dda6c3&chksm=fe5d1f88c92a969e4108e26985362e85dbdbbf7d2ad50a2af06302d5df01bef8b63888e893d6&scene=27#wechat_redirect)
+
+由奇安信集团、清华大学、蚂蚁集团主办，联合北京大学、中科院软件所、复旦大学、中山大学、山东大学、中国科技大学等30多个知名高校和研究机构共同举办的聚焦大数据安全分析的比赛。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a0316d342599" alt="" />
 
 ---
 
