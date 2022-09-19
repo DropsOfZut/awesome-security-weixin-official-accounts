@@ -1,30 +1,4 @@
 
-### [启明星辰网络空间安全学院](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
-
-[:chart_with_upwards_trend:【0/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
-
-[:camera_flash:【2022-09-15 16:45:52】](https://mp.weixin.qq.com/s?__biz=MzUzNDg0NTc1NA==&mid=2247494115&idx=1&sn=82002e33df2e36eda7024a4302f3fc28&chksm=fa8c29b6cdfba0a098ca83970090f4aeac60f9000b7340c5c782c02e8706e235f6886372f09e&scene=27#wechat_redirect)
-
-启明星辰网络空间安全学院以国家网络安全事业发展为使命，依托启明星辰集团多年的技术沉淀及实践积累，提供网络安全人才体系构建与信息安全技术及能力提升教育培训，为建设网络强国提供有力的人才支撑。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_310250868fd4" alt="" />
-
----
-
-
-### [大学生网络安全尖锋训练营](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
-
-[:chart_with_upwards_trend:【0/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
-
-[:camera_flash:【2022-09-10 08:30:46】](https://mp.weixin.qq.com/s?__biz=MzUzODkwMDMxNA==&mid=2247504178&idx=1&sn=9237a6729f15f70e2245768784aa8e5d&chksm=fad23307cda5ba11e51e055e2d876d70ae9ecc53a49f51d3657ea1786067c63f12b702bc91ce&scene=27#wechat_redirect)
-
-百所高校、百家用人单位、百名尖锋导师，携手打造定制化人才培养模式，通过导师制职业规划和封闭式岗位实训，补足知识短板、提高实战能力，培养创新型、实用型网络安全尖锋人才。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_b54960a6ea07" alt="" />
-
----
-
-
 ### [赛博安全社团](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDIyNTE0OQ==)
 
 [:chart_with_upwards_trend:【6/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDIyNTE0OQ==)
@@ -42,11 +16,37 @@
 
 [:chart_with_upwards_trend:【4/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyODMyODMyOA==)
 
-[:camera_flash:【2022-09-11 16:00:37】](https://mp.weixin.qq.com/s?__biz=MzkyODMyODMyOA==&mid=2247485497&idx=1&sn=5e40acbbe646940b58db74a2170e5bb5&chksm=c21b37def56cbec8853e9b2b2d5526b88a9c2ba86b1dfe91672c83ee5ea6cd83cb497d74b63d&scene=27#wechat_redirect)
+[:camera_flash:【2022-09-18 13:27:10】](https://mp.weixin.qq.com/s?__biz=MzkyODMyODMyOA==&mid=2247485547&idx=1&sn=695c7d26805f5613047ef36aed59da6f&chksm=c21b378cf56cbe9ad9785b6380301d08c9c2dd93c25b9f098a9609c829c37e0a9d6ef7286e0b&scene=27#wechat_redirect)
 
 珠天PearlSky，意为珠科安全的一片天。珠天的队员都来自于珠海科技学院热爱钻研网络安全技术的同学。我们希望我们能够让更多人了解网络安全，更欢迎各位同学加入我们一起交流学习。本公众号会发布一些学习心得，经验总结等等一系列文章。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a4b0a923e487" alt="" />
+
+---
+
+
+### [启明星辰网络空间安全学院](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
+
+[:chart_with_upwards_trend:【0/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
+
+[:camera_flash:【2022-09-15 16:45:52】](https://mp.weixin.qq.com/s?__biz=MzUzNDg0NTc1NA==&mid=2247494115&idx=1&sn=82002e33df2e36eda7024a4302f3fc28&chksm=fa8c29b6cdfba0a098ca83970090f4aeac60f9000b7340c5c782c02e8706e235f6886372f09e&scene=27#wechat_redirect)
+
+启明星辰网络空间安全学院以国家网络安全事业发展为使命，依托启明星辰集团多年的技术沉淀及实践积累，提供网络安全人才体系构建与信息安全技术及能力提升教育培训，为建设网络强国提供有力的人才支撑。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_310250868fd4" alt="" />
+
+---
+
+
+### [大学生网络安全尖锋训练营](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
+
+[:chart_with_upwards_trend:【0/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
+
+[:camera_flash:【2022-09-18 14:55:11】](https://mp.weixin.qq.com/s?__biz=MzUzODkwMDMxNA==&mid=2247504186&idx=1&sn=956885796fec431baab85264aed6aaeb&chksm=fad2330fcda5ba19c7671c5b7061cb22122b6945838f23ad7a1574dc151eb78ead64b43c140a&scene=27#wechat_redirect)
+
+百所高校、百家用人单位、百名尖锋导师，携手打造定制化人才培养模式，通过导师制职业规划和封闭式岗位实训，补足知识短板、提高实战能力，培养创新型、实用型网络安全尖锋人才。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_b54960a6ea07" alt="" />
 
 ---
 
@@ -81,7 +81,7 @@
 
 [:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Njc1OTYyNA==)
 
-[:camera_flash:【2022-09-08 10:54:26】](https://mp.weixin.qq.com/s?__biz=MjM5Njc1OTYyNA==&mid=2450783979&idx=1&sn=76e0bbc269d97fac17d684a6d1c45fed&chksm=b1030fcc867486dab5dfaca3789e80419b984b85d298b3b80a7c7be2dbf3ebf11eea38a48d19&scene=27#wechat_redirect)
+[:camera_flash:【2022-09-18 20:00:39】](https://mp.weixin.qq.com/s?__biz=MjM5Njc1OTYyNA==&mid=2450784012&idx=1&sn=14740dfe03eea397909670d0911e8774&chksm=b1030e2b8674873d29439ca88b77975dca71800a6443efdfac9ac1c908ffebda0e351610cebf&scene=27#wechat_redirect)
 
 山警网络空间安全实验室（简称：网安社）
 
@@ -168,19 +168,6 @@
 ---
 
 
-### [鸿鸟安全](http://wechat.doonsec.com/wechat_echarts/?biz=MzUwOTc1OTQyMQ==)
-
-[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUwOTc1OTQyMQ==)
-
-[:camera_flash:【2022-08-19 10:16:00】](https://mp.weixin.qq.com/s?__biz=MzUwOTc1OTQyMQ==&mid=2247487687&idx=1&sn=cb0bb285361214516bd5250d174f82be&chksm=f90c0a15ce7b830363a99dd4188a2bddf4ab0f3e113ade5992a91e6dc2a1bc65f0243036c9da&scene=27#wechat_redirect)
-
-鸿鸟只思羽翼齐,点翅飞腾千万里
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_362d1c6237f9" alt="" />
-
----
-
-
 ### [河北网络安全高校联盟](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4ODUyMjYyNg==)
 
 [:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4ODUyMjYyNg==)
@@ -242,6 +229,19 @@ Birkenwald安全团队 --来自哈尔滨理工大学
 广东外语外贸大学网络安全实验室信息推送和资源平台
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8176da819e03" alt="" />
+
+---
+
+
+### [渭南师院网络信息安全社](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0MjI1NzY1NQ==)
+
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0MjI1NzY1NQ==)
+
+[:camera_flash:【2022-09-18 18:00:14】](https://mp.weixin.qq.com/s?__biz=Mzk0MjI1NzY1NQ==&mid=2247485561&idx=1&sn=377590dae7db90f1ebb14920cb6e4ea8&chksm=c2c4ace1f5b325f7c1f45f677fa2754217625d3d1338c075c26adca3e6b0d460cd9a6242293e&scene=27#wechat_redirect)
+
+渭南师范学院网络信息安全社团
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f4e0f7548c2f" alt="" />
 
 ---
 
@@ -428,19 +428,6 @@ Birkenwald安全团队 --来自哈尔滨理工大学
 ---
 
 
-### [渭南师院网络信息安全社](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0MjI1NzY1NQ==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0MjI1NzY1NQ==)
-
-[:camera_flash:【2022-05-22 10:49:25】](https://mp.weixin.qq.com/s?__biz=Mzk0MjI1NzY1NQ==&mid=2247485342&idx=1&sn=bd92e954aad72428f849407d450e1770&chksm=c2c4a306f5b32a109ba4928a1cbde4bdfd7bdfce7763876e3c4a71553d2d00000ee85615da5f&scene=27#wechat_redirect)
-
-渭南师范学院网络信息安全社团
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f4e0f7548c2f" alt="" />
-
----
-
-
 ### [黑科大CTF网络安全](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MDUyMjM5NQ==)
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MDUyMjM5NQ==)
@@ -476,6 +463,19 @@ Birkenwald安全团队 --来自哈尔滨理工大学
 网络安全服务、技术特训、技术咨询、渗透测试服务
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_cef293eb3618" alt="" />
+
+---
+
+
+### [鸿鸟安全](http://wechat.doonsec.com/wechat_echarts/?biz=MzUwOTc1OTQyMQ==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUwOTc1OTQyMQ==)
+
+[:camera_flash:【2022-08-19 10:16:00】](https://mp.weixin.qq.com/s?__biz=MzUwOTc1OTQyMQ==&mid=2247487687&idx=1&sn=cb0bb285361214516bd5250d174f82be&chksm=f90c0a15ce7b830363a99dd4188a2bddf4ab0f3e113ade5992a91e6dc2a1bc65f0243036c9da&scene=27#wechat_redirect)
+
+鸿鸟只思羽翼齐,点翅飞腾千万里
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_362d1c6237f9" alt="" />
 
 ---
 
