@@ -12,24 +12,11 @@
 ---
 
 
-### [珠天PearlSky](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyODMyODMyOA==)
-
-[:chart_with_upwards_trend:【4/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyODMyODMyOA==)
-
-[:camera_flash:【2022-09-18 13:27:10】](https://mp.weixin.qq.com/s?__biz=MzkyODMyODMyOA==&mid=2247485547&idx=1&sn=695c7d26805f5613047ef36aed59da6f&chksm=c21b378cf56cbe9ad9785b6380301d08c9c2dd93c25b9f098a9609c829c37e0a9d6ef7286e0b&scene=27#wechat_redirect)
-
-珠天PearlSky，意为珠科安全的一片天。珠天的队员都来自于珠海科技学院热爱钻研网络安全技术的同学。我们希望我们能够让更多人了解网络安全，更欢迎各位同学加入我们一起交流学习。本公众号会发布一些学习心得，经验总结等等一系列文章。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a4b0a923e487" alt="" />
-
----
-
-
 ### [启明星辰网络空间安全学院](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
 
 [:chart_with_upwards_trend:【0/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
 
-[:camera_flash:【2022-09-15 16:45:52】](https://mp.weixin.qq.com/s?__biz=MzUzNDg0NTc1NA==&mid=2247494115&idx=1&sn=82002e33df2e36eda7024a4302f3fc28&chksm=fa8c29b6cdfba0a098ca83970090f4aeac60f9000b7340c5c782c02e8706e235f6886372f09e&scene=27#wechat_redirect)
+[:camera_flash:【2022-09-19 17:16:55】](https://mp.weixin.qq.com/s?__biz=MzUzNDg0NTc1NA==&mid=2247494149&idx=1&sn=b698fe442a1d88c11bdd5aabd0303b60&chksm=fa8c2a50cdfba3465b777947b7ff01d864740bd67f4bab57394f581253841d3e2d318fb58096&scene=27#wechat_redirect)
 
 启明星辰网络空间安全学院以国家网络安全事业发展为使命，依托启明星辰集团多年的技术沉淀及实践积累，提供网络安全人才体系构建与信息安全技术及能力提升教育培训，为建设网络强国提供有力的人才支撑。
 
@@ -60,6 +47,19 @@
 浙江大学网络空间安全学院/浙江大学网络空间安全研究中心
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e603b55057e7" alt="" />
+
+---
+
+
+### [珠天PearlSky](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyODMyODMyOA==)
+
+[:chart_with_upwards_trend:【3/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyODMyODMyOA==)
+
+[:camera_flash:【2022-09-18 13:27:10】](https://mp.weixin.qq.com/s?__biz=MzkyODMyODMyOA==&mid=2247485547&idx=1&sn=695c7d26805f5613047ef36aed59da6f&chksm=c21b378cf56cbe9ad9785b6380301d08c9c2dd93c25b9f098a9609c829c37e0a9d6ef7286e0b&scene=27#wechat_redirect)
+
+珠天PearlSky，意为珠科安全的一片天。珠天的队员都来自于珠海科技学院热爱钻研网络安全技术的同学。我们希望我们能够让更多人了解网络安全，更欢迎各位同学加入我们一起交流学习。本公众号会发布一些学习心得，经验总结等等一系列文章。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a4b0a923e487" alt="" />
 
 ---
 
@@ -536,7 +536,7 @@ Birkenwald安全团队 --来自哈尔滨理工大学
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzMjA4ODM0NA==)
 
-[:camera_flash:【2022-06-15 15:12:58】](https://mp.weixin.qq.com/s?__biz=MzkzMjA4ODM0NA==&mid=2247484909&idx=1&sn=296085601d74eedcdf48df855b18e208&chksm=c2605a9af517d38c8198f377a2bfc8b210bf3c810144576bac43bab606bb12986ee154b204ff&scene=27#wechat_redirect)
+[:camera_flash:【2022-09-19 17:45:37】](https://mp.weixin.qq.com/s?__biz=MzkzMjA4ODM0NA==&mid=2247484914&idx=1&sn=3f84328faa7eb64c055bd0bb1e1a9fb1&chksm=c2605a85f517d3934cba960079952e4b9b4b508aecb9e440d22bf2f9a4c726dde76b49dd3f18&scene=27#wechat_redirect)
 
 绿盟科技网络安全学院（别名：猎鹰学院）秉承”卓尔不凡，极致专业”（The few The professional）的校训精神，依托集团安全研究院、五大安全实验室和四大战队的强大师资力量，提供网络安全人才培养、认证培训以及技术能力提升服务。
 

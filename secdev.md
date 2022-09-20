@@ -1,9 +1,9 @@
 
 ### [商密君](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
 
-[:chart_with_upwards_trend:【0/112/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
+[:chart_with_upwards_trend:【0/108/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
 
-[:camera_flash:【2022-09-18 16:08:47】](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247581517&idx=1&sn=380ae6d1111e6d64d6d5d6eaccf16c64&chksm=ec57af16db20260047bd3945cf394d0a4059ef87622ec0c8c59ba42810d62df05681dcb65b2c&scene=27#wechat_redirect)
+[:camera_flash:【2022-09-19 15:45:38】](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247581563&idx=2&sn=3c534f0b9c96d9bb38c64b1d04381f9d&chksm=ec57af20db20263664a844b7c04a09f23145aa1add090ce318faa635e64df64884db4dc6c442&scene=27#wechat_redirect)
 
 商密君是全国密码行业头部公众号，旨在宣传推广《密码法》，普及商用密码知识，解读密码政策，分享商用密码行业的最新动态，为密码产业产学研用做好宣传服务，连接密码全行业精英，推动密码技术在数字经济各行业的应用和创新。
 
@@ -14,9 +14,9 @@
 
 ### [数世咨询](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
 
-[:chart_with_upwards_trend:【6/52/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
+[:chart_with_upwards_trend:【5/51/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
 
-[:camera_flash:【2022-09-18 23:30:26】](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247495496&idx=1&sn=8f92ce86b9f102a2b2c26d70ceddf308&chksm=c1449df5f63314e373ef8b8087bd1dc8c1e9d2e373fcd69030ee2988d096af68651bd849313c&scene=27#wechat_redirect)
+[:camera_flash:【2022-09-19 23:30:35】](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247495510&idx=1&sn=95f6d2959de0d2f6fd805ea28d14b5c5&chksm=c1449debf63314fdf23939a56f98d2c87572a13b43b439275515a6ea793478f3ffdd0fa8aa60&scene=27#wechat_redirect)
 
 中国数字产业领域中立的第三方调研机构，提供网络安全行业的调查、研究与咨询服务。
 
@@ -27,9 +27,9 @@
 
 ### [全栈网络空间安全](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
 
-[:chart_with_upwards_trend:【0/45/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
+[:chart_with_upwards_trend:【0/42/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
 
-[:camera_flash:【2022-09-17 00:00:52】](https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247504343&idx=1&sn=1e67417a0eb0972b16d635c4a0434560&chksm=cf3d6d1af84ae40c6d670ef0c21007f87d23b39fe1988902a5f8b3c294d1fcdc30f8728cbd75&scene=27#wechat_redirect)
+[:camera_flash:【2022-09-19 08:35:37】](https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247504384&idx=1&sn=4e04dbd3ada76f003b1778fb03d6ce9a&chksm=cf3d6ecdf84ae7dbf2f00adc7b6ff295b43ccecd396e048fcef693f181f960c73b6a9cee49a4&scene=27#wechat_redirect)
 
 网络安全事件预警体系、事件检测、应急处置、追踪溯源、安全运营、红蓝对抗、HW行动、AWD竞赛，以及站在审计师的角度评估信息系统建设的有效性、完备性、安全性等。 欢迎有想法、乐于分享的具备互联网分享精神的安全人交流学习。
 
@@ -42,7 +42,7 @@
 
 [:chart_with_upwards_trend:【1/18/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
 
-[:camera_flash:【2022-09-16 00:00:49】](https://mp.weixin.qq.com/s?__biz=MzU0Mzk0NDQyOA==&mid=2247503435&idx=1&sn=035aeb4edb5787dab0911be7902c2b40&chksm=fb0135c8cc76bcde58964420dc847d6dad0f35e6c915278199b2730c81926a9f9a43ea16e969&scene=27#wechat_redirect)
+[:camera_flash:【2022-09-19 17:23:23】](https://mp.weixin.qq.com/s?__biz=MzU0Mzk0NDQyOA==&mid=2247503447&idx=1&sn=3158d594613d67a0144662229b2ecbbb&chksm=fb0135d4cc76bcc25e7d5c28aab644ce736270f2d4e6c4a040711d25774dd304d546b89ffe69&scene=27#wechat_redirect)
 
 深圳市网络与信息安全行业协会（SNISA），是深圳市网络与信息安全行业的权威组织，是中国网络安全审查技术与认证中心（CCRC）在深圳唯一授权工作站，是经深圳市人力资源和社会保障局核准，开展网络空间安全工程技术专业职称评审工作的社会组织。
 
@@ -328,7 +328,7 @@ OWASP中国，SecZone互联网安全研究中心官方平台
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzNjAyODE0NQ==)
 
-[:camera_flash:【2022-08-17 19:50:29】](https://mp.weixin.qq.com/s?__biz=MzIzNjAyODE0NQ==&mid=2247483815&idx=1&sn=0800c0eef4d9b26988109c7288a1bd35&chksm=e8df6839dfa8e12fc19d9ccbb30714ee732f7ad4ab8ae96d4c1e921ab4deb35b2e17a45fff7b&scene=27#wechat_redirect)
+[:camera_flash:【2022-09-19 20:36:41】](https://mp.weixin.qq.com/s?__biz=MzIzNjAyODE0NQ==&mid=2247483817&idx=1&sn=b44a5147ec61d596ea4489094e37cdb8&chksm=e8df6837dfa8e1211c9a80d6822ae490858bb73447feb372d4631bc4a379ec95427f4ca6ede4&scene=27#wechat_redirect)
 
 基于基本事实、基本常识和基本逻辑，致力网络安全及数字安全相关领域体系规划，提供行业领域的前沿理念和实践
 
