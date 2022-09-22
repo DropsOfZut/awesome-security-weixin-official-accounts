@@ -1,9 +1,9 @@
 
 ### [寰宇卫士](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
 
-[:chart_with_upwards_trend:【0/21/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
+[:chart_with_upwards_trend:【0/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
 
-[:camera_flash:【2022-09-20 14:28:52】](https://mp.weixin.qq.com/s?__biz=MzIwMzU0NDY5OA==&mid=2247494484&idx=1&sn=921fcd6856532045df8832b9e1fb48b0&chksm=96cf6a41a1b8e3570ff63a0b76a06735dcc4c010e0df4cca2075d8c562a4455be25050bff964&scene=27&key=2d14964c488b7339c298bf99ba4a41d6e5c62ae0b5be88698a1935a1bacfcfda005298089bdeb55d1801f843cbd9c2bf796a18fd961c25496932ec91d5931b7d816d99aa57c1a8974b4a2e6f3385a8d7fc3d737b8e07bb8b598c29608cb2f15dd5c78ef65b3e2192b708be5e9e00c01b62079cc030c6c54619cfcc5c8699c7af&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+Server+2016+x64&version=63070517&lang=zh_CN&session_us=gh_523f772a62a6&exportkey=A7Q0UuYE5RfrQ297My%2BTUzY%3D&acctmode=0&pass_ticket=hxQiDiiHoVu%2FnLLtK5vqLxMBYftdtcLiVJNGw1RAuqoytm7e12b7UfGTPZFRiefQ&wx_header=0&fontgear=2&scene=27#wechat_redirect)
+[:camera_flash:【2022-09-21 15:03:39】](https://mp.weixin.qq.com/s?__biz=MzIwMzU0NDY5OA==&mid=2247494507&idx=1&sn=84da3193d0be532bd74d0d2a2a2f49dd&chksm=96cf6a7ea1b8e368e865a5500b089a6bf56da1309c8b73a40bfe24a540f1a2a93de39a5ee1d8&scene=27#wechat_redirect)
 
 寰宇卫士综合安全咨询、安全服务、解决方案、认证培训、产品研发等信息安全多元化产业链为一体。
 
@@ -38,19 +38,6 @@
 ---
 
 
-### [春秋伽玛](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
-
-[:chart_with_upwards_trend:【0/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
-
-[:camera_flash:【2022-09-15 19:10:07】](https://mp.weixin.qq.com/s?__biz=MzkyNDA5NjgyMg==&mid=2247494390&idx=1&sn=35ff5dab7ef7bb99a11cc99c222b6684&chksm=c1d9aaaff6ae23b9557f5a0d5b193327aad80e2ad012246fa3a01bb86415c5dd2319aebf7ab5&scene=27#wechat_redirect)
-
-春秋伽玛，为广大网络安全爱好者传递网络安全大赛相关赛事信息，提供优质的赛事服务平台
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_07fa2c2720be" alt="" />
-
----
-
-
 ### [XPLAN](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MDY1ODU2Mw==)
 
 [:chart_with_upwards_trend:【1/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MDY1ODU2Mw==)
@@ -60,6 +47,19 @@
 X是未知，更是无限，邀您一道创造、见证和实现X-Plan，北斗逐光，安全有恒，未来无界，共创数字安全未来！
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_b0a5876d02ea" alt="" />
+
+---
+
+
+### [春秋伽玛](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
+
+[:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
+
+[:camera_flash:【2022-09-21 17:00:40】](https://mp.weixin.qq.com/s?__biz=MzkyNDA5NjgyMg==&mid=2247494430&idx=1&sn=f9be6a640e4fba0419ffa49f1cee6930&chksm=c1d9ab47f6ae225109ca26ff4342692df46d251e40bd64231619dd11f55bf4a8c97a0ccce857&scene=27#wechat_redirect)
+
+春秋伽玛，为广大网络安全爱好者传递网络安全大赛相关赛事信息，提供优质的赛事服务平台
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_07fa2c2720be" alt="" />
 
 ---
 
