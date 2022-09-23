@@ -1,9 +1,9 @@
 
 ### [商密君](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
 
-[:chart_with_upwards_trend:【0/109/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
+[:chart_with_upwards_trend:【0/113/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
 
-[:camera_flash:【2022-09-20 17:42:17】](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247581598&idx=1&sn=930e2b9d43b2e5bf393016d86400897f&chksm=ec57afc5db2026d3dad4fce91540aacca6e1a3698bca3d1cec9ecfd598d5b4d73aefb2c84bbe&scene=27#wechat_redirect)
+[:camera_flash:【2022-09-21 18:38:15】](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247581721&idx=2&sn=30307300237e3e08235b0a9f14f1c6e8&chksm=ec579042db20195416553b25b275c2452387efa06a0694b96851c2b0cc6a47a57dd00381c3af&scene=27&key=b94dfdab45ea2e79be77d9ffb5e53e5220318089acf0fe72b729e4397bdc6b669cef6072884757f0481a6d186e94d37aef71bcfaa1a9993cb7526226ae88743e6604f62bf8bc36e0fb0d6c0d40c885267238f648b2025c6e7a0eef7f3c72bab5e5edd09da9e9a7bbcec738ccd06f1feb685cfb1f63528599232408c4ca6e10eb&ascene=15&uin=MTA3Mzc3OTIzNQ%3D%3D&devicetype=Windows+Server+2016+x64&version=63070517&lang=zh_CN&session_us=gh_88013a4dd92a&exportkey=AfnmNzRVMfJhkROFHYUFetA%3D&acctmode=0&pass_ticket=nP6spRM8hMyiazMifMuFetRdSji3u6F4iU1PoNglFE6zGbwDRWX%2F4QyvCBMQQBay&wx_header=0&fontgear=2&scene=27#wechat_redirect)
 
 商密君是全国密码行业头部公众号，旨在宣传推广《密码法》，普及商用密码知识，解读密码政策，分享商用密码行业的最新动态，为密码产业产学研用做好宣传服务，连接密码全行业精英，推动密码技术在数字经济各行业的应用和创新。
 
@@ -16,7 +16,7 @@
 
 [:chart_with_upwards_trend:【6/53/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
 
-[:camera_flash:【2022-09-20 23:30:19】](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247495515&idx=1&sn=97c5a4ce9925fed607ffa4edc8cd2a74&chksm=c1449de6f63314f0424847753400b639568610f8858e17da8aedf14667632cf06e3d6d9ef888&scene=27#wechat_redirect)
+[:camera_flash:【2022-09-22 23:30:28】](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247495526&idx=1&sn=3e291c6816ee34035a02e0f679297e9c&chksm=c1449ddbf63314cd4aa8e0f8be5486712bf030791f48de200c36648fbcde3c8f2e8af85705d2&scene=27#wechat_redirect)
 
 中国数字产业领域中立的第三方调研机构，提供网络安全行业的调查、研究与咨询服务。
 
@@ -27,9 +27,9 @@
 
 ### [全栈网络空间安全](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
 
-[:chart_with_upwards_trend:【0/38/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
+[:chart_with_upwards_trend:【0/36/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
 
-[:camera_flash:【2022-09-20 08:58:07】](https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247504444&idx=1&sn=6e9537663ae6f12d8bdc10b1f01bd9db&chksm=cf3d6ef1f84ae7e71392198e72aa65c891e0954b0f8f064fb0020ac36350a79c13f4cf77a35b&scene=27#wechat_redirect)
+[:camera_flash:【2022-09-22 22:33:40】](https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247504446&idx=1&sn=c00606caf49a0f38aaaf8058f75e55f6&chksm=cf3d6ef3f84ae7e58d7fcf765bb167205ef6e7d8c57e1cee154d05b23cc1e8db4dedbabdd1ea&scene=27#wechat_redirect)
 
 网络安全事件预警体系、事件检测、应急处置、追踪溯源、安全运营、红蓝对抗、HW行动、AWD竞赛，以及站在审计师的角度评估信息系统建设的有效性、完备性、安全性等。 欢迎有想法、乐于分享的具备互联网分享精神的安全人交流学习。
 
@@ -40,9 +40,9 @@
 
 ### [深圳市网络与信息安全行业协会](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
 
-[:chart_with_upwards_trend:【1/19/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
+[:chart_with_upwards_trend:【1/18/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
 
-[:camera_flash:【2022-09-19 17:23:23】](https://mp.weixin.qq.com/s?__biz=MzU0Mzk0NDQyOA==&mid=2247503447&idx=1&sn=3158d594613d67a0144662229b2ecbbb&chksm=fb0135d4cc76bcc25e7d5c28aab644ce736270f2d4e6c4a040711d25774dd304d546b89ffe69&scene=27#wechat_redirect)
+[:camera_flash:【2022-09-21 23:29:12】](https://mp.weixin.qq.com/s?__biz=MzU0Mzk0NDQyOA==&mid=2247503462&idx=1&sn=bd7c43775f47b34ac2eb60f6c7ee8657&chksm=fb0135e5cc76bcf351c30b4624694df18243904db6a65b92505133e79441fa06f9ef42e7b8e3&scene=27&key=c28b5d09085340dfdb75bbf209414188532961f688ab4fd45346f8b9508ce8653938f9d409ca12e890fdc3b5ee9ccbe09fe3c94f93ced662e48241313d74aa9f8e51d0f9f6037d7bdecab3a9943ce715ca3f73291fa137fd0b674b08e0aa8418058da455edfc5023c7e015c54c2f4490d479312368d5b9a28d4614a4184731e9&ascene=15&uin=MzgxODQ4MjMz&devicetype=Windows+Server+2016+x64&version=63070517&lang=zh_CN&session_us=gh_de59bd871eb8&exportkey=A735cTCByyNxNoX5XOJiFWI%3D&acctmode=0&pass_ticket=7%2FZe%2FGyXhrifZgJXh8CUbyDKAovnzJ%2FYpY75YWoOj490CeXgo55UJB2grhY2KMUP&wx_header=0&fontgear=2&scene=27#wechat_redirect)
 
 深圳市网络与信息安全行业协会（SNISA），是深圳市网络与信息安全行业的权威组织，是中国网络安全审查技术与认证中心（CCRC）在深圳唯一授权工作站，是经深圳市人力资源和社会保障局核准，开展网络空间安全工程技术专业职称评审工作的社会组织。
 
@@ -51,9 +51,22 @@
 ---
 
 
+### [绿盟科技金融事业部](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2NDI5MTg4MA==)
+
+[:chart_with_upwards_trend:【0/14/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2NDI5MTg4MA==)
+
+[:camera_flash:【2022-09-22 18:08:02】](https://mp.weixin.qq.com/s?__biz=MzI2NDI5MTg4MA==&mid=2247492285&idx=1&sn=976e441792eb8a0b117b54b89fefd332&chksm=eaac71fadddbf8ec4fe64e0628f9e283a766903026691c8c144025f49d7ddaa63c1da7dac35c&scene=27#wechat_redirect)
+
+该账号由绿盟科技金融事业部维护，用于发布金融行业相关安全资讯等内容
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_de59bd871eb8" alt="" />
+
+---
+
+
 ### [君哥的体历](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MjQ1NTA4MA==)
 
-[:chart_with_upwards_trend:【5/14/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MjQ1NTA4MA==)
+[:chart_with_upwards_trend:【5/13/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MjQ1NTA4MA==)
 
 [:camera_flash:【2022-09-19 08:00:15】](https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247488833&idx=1&sn=839ad3f066632586a83c7198e656486d&chksm=ea4bbf06dd3c36101994590bfbc622a6fe7615ab8df42ba22133cb1853b44ae0b8b1f3c8c19b&scene=27#wechat_redirect)
 
@@ -64,22 +77,9 @@
 ---
 
 
-### [绿盟科技金融事业部](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2NDI5MTg4MA==)
-
-[:chart_with_upwards_trend:【0/14/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2NDI5MTg4MA==)
-
-[:camera_flash:【2022-09-20 17:34:44】](https://mp.weixin.qq.com/s?__biz=MzI2NDI5MTg4MA==&mid=2247492276&idx=1&sn=f47fa2ce9b4eeca28b878648c370629b&chksm=eaac71f3dddbf8e532e3c9f2b8f947e8b4e2790e771eff0790ec40215d772a27ab73c5dfbdd6&scene=27#wechat_redirect)
-
-该账号由绿盟科技金融事业部维护，用于发布金融行业相关安全资讯等内容
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_de59bd871eb8" alt="" />
-
----
-
-
 ### [甲方安全建设](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0MDcyMTMxOQ==)
 
-[:chart_with_upwards_trend:【6/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0MDcyMTMxOQ==)
+[:chart_with_upwards_trend:【3/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0MDcyMTMxOQ==)
 
 [:camera_flash:【2022-08-29 18:00:52】](https://mp.weixin.qq.com/s?__biz=MzU0MDcyMTMxOQ==&mid=2247487300&idx=1&sn=d2bb372406293f3dc888dba831925c65&chksm=fb35a68ccc422f9a495013d8d61bfceddd9603962f214f62e9f6839c07ca465e491a89c7d83e&scene=27#wechat_redirect)
 
@@ -103,28 +103,28 @@
 ---
 
 
+### [vivo千镜](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0Njg4NzE3MQ==)
+
+[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0Njg4NzE3MQ==)
+
+[:camera_flash:【2022-09-22 12:00:12】](https://mp.weixin.qq.com/s?__biz=MzI0Njg4NzE3MQ==&mid=2247489382&idx=1&sn=06bde0565ab562349cac2c9cd19aaedb&chksm=e9b9310adeceb81ca2294dec93247cf0348174b744d51169a17a356f9c6ec3de0ecc38c3b706&scene=27#wechat_redirect)
+
+vivo全新的安全品牌，有人文温度的科技新媒体，致力于让亿万用户享受安全便捷的数字生活。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_54ff3f871510" alt="" />
+
+---
+
+
 ### [腾讯安全战略研究](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5MTA0NjU3Ng==)
 
-[:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5MTA0NjU3Ng==)
+[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5MTA0NjU3Ng==)
 
 [:camera_flash:【2022-09-06 20:10:34】](https://mp.weixin.qq.com/s?__biz=MjM5MTA0NjU3Ng==&mid=2652719971&idx=1&sn=60b01fe2d793e0f6c7a122cccfce8eaf&chksm=bd5265bc8a25ecaaee9fb801b840d916b5349e03a425ed8d63c98f9b2843aae828dc6de9c5bf&scene=27#wechat_redirect)
 
 聚焦网络安全法律研究，剖析网络犯罪现状手法，洞察网络传播规律特征，问道数字空间生态治理。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_6e302b961ec6" alt="" />
-
----
-
-
-### [vivo千镜](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0Njg4NzE3MQ==)
-
-[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0Njg4NzE3MQ==)
-
-[:camera_flash:【2022-09-15 12:00:27】](https://mp.weixin.qq.com/s?__biz=MzI0Njg4NzE3MQ==&mid=2247489365&idx=1&sn=2d5d5e1e3b0492bdf884431dd5a056e9&chksm=e9b93139deceb82fb8273a2e69cf82a89e8ce00a0a6efd79c2c48c2e50056babf24698b38da9&scene=27&key=e8677526fb452b6d9f3e5719e85ec2bfe2172bb6c387b3a366f6c637fd6613c2a51a6466e023caa6c9e70d81ef7d065eb95028153867107d59bc4b32a090bab6773a87a1fdc34b7d34b926c7a6ff45a89159ace4de124e57293bbff337aebbb20eb7c3814c1939efe978d9ee3a407396080d6d03555ff047e611bc9b0eea630b&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+Server+2016+x64&version=63070517&lang=zh_CN&session_us=gh_4841b752f48d&exportkey=AxWEZeN3%2Fpnupc2ryfQCe7Y%3D&acctmode=0&pass_ticket=%2FCxJciBMgGN94DeRt8iXnLr6Xwld76EgPpdYSGnfvm3YltQ%2BMTAF8Mhw41CYnnCx&wx_header=0&fontgear=2&scene=27#wechat_redirect)
-
-vivo全新的安全品牌，有人文温度的科技新媒体，致力于让亿万用户享受安全便捷的数字生活。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_54ff3f871510" alt="" />
 
 ---
 
@@ -138,19 +138,6 @@ vivo全新的安全品牌，有人文温度的科技新媒体，致力于让亿�
 青藤智库，网安人的智囊团！
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_7294abd08445" alt="" />
-
----
-
-
-### [薄说安全](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NzU3MzkyMg==)
-
-[:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NzU3MzkyMg==)
-
-[:camera_flash:【2022-09-13 07:00:30】](https://mp.weixin.qq.com/s?__biz=Mzg2NzU3MzkyMg==&mid=2247484318&idx=1&sn=a2752b1ed8916538c93264e02cf0fdbb&chksm=ceb8ca53f9cf434522d99c6351de40c7f67fd094c1cb0257365fca3f0e14c6748e88ed95acda&scene=27#wechat_redirect)
-
-关于功能安全、信息安全、系统工程方法的工作感悟，资讯分享。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_956e8befd9f9" alt="" />
 
 ---
 
@@ -194,19 +181,6 @@ vivo全新的安全品牌，有人文温度的科技新媒体，致力于让亿�
 ---
 
 
-### [安全管理杂谈](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5MjEyOTE4MA==)
-
-[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5MjEyOTE4MA==)
-
-[:camera_flash:【2022-08-23 18:30:12】](https://mp.weixin.qq.com/s?__biz=MzI5MjEyOTE4MA==&mid=2648519888&idx=1&sn=31978fd1e80dc7b433714caf6571c3f9&chksm=f42f8423c3580d35786e38b0705a61178fa4999721dba5bcbc22742efe41aaa73c67cf0fc6b6&scene=27&key=b9f9fe4690f0a07cfd4e563c7b794d836fdba5db6bc2fbe35940dfcebbddbca706ee5c694df4daf879aec9454c097c1249fdc90a55c18ea4bb0de6716957fb61ede805837c97d347f42567ed0dbff4f4f3bc6ea45594e67a34766f9cffe8ef23f12be419415fecd7a41452823afd155f5d08156f1ce47699235b8e48c2ebef9c&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+Server+2016+x64&version=63070517&lang=zh_CN&session_us=gh_cf325e4d8d77&exportkey=A97E1D%2BewL7PCoQs62joKXk%3D&acctmode=0&pass_ticket=9mNz6KCzgInXwg0CHvfqQX%2BtC9DuiDU8Y0I4OcAGRdzMLTLPC0Zq%2FSTvXa0PTMIM&wx_header=0&fontgear=2&scene=27#wechat_redirect)
-
-信息安全体系建设相关内容分享…不定时更新，可随时取关…
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_eaab7ac10752" alt="" />
-
----
-
-
 ### [FreeBuf安全咨询](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2MTAwNzg1Ng==)
 
 [:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2MTAwNzg1Ng==)
@@ -229,6 +203,19 @@ vivo全新的安全品牌，有人文温度的科技新媒体，致力于让亿�
 实践分享企业在建设安全开发生命周期各阶段及流程中的优秀实践，内容涉及代码审计、业界对标、系统工程化心得、国外资料分享，搭建应用安全交流平台。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_d6239d0bb816" alt="" />
+
+---
+
+
+### [薄说安全](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NzU3MzkyMg==)
+
+[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NzU3MzkyMg==)
+
+[:camera_flash:【2022-09-13 07:00:30】](https://mp.weixin.qq.com/s?__biz=Mzg2NzU3MzkyMg==&mid=2247484318&idx=1&sn=a2752b1ed8916538c93264e02cf0fdbb&chksm=ceb8ca53f9cf434522d99c6351de40c7f67fd094c1cb0257365fca3f0e14c6748e88ed95acda&scene=27#wechat_redirect)
+
+关于功能安全、信息安全、系统工程方法的工作感悟，资讯分享。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_956e8befd9f9" alt="" />
 
 ---
 
@@ -268,6 +255,19 @@ vivo全新的安全品牌，有人文温度的科技新媒体，致力于让亿�
 OWASP中国，SecZone互联网安全研究中心官方平台
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_6977ebcf9804" alt="" />
+
+---
+
+
+### [安全管理杂谈](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5MjEyOTE4MA==)
+
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5MjEyOTE4MA==)
+
+[:camera_flash:【2022-08-23 18:30:12】](https://mp.weixin.qq.com/s?__biz=MzI5MjEyOTE4MA==&mid=2648519888&idx=1&sn=31978fd1e80dc7b433714caf6571c3f9&chksm=f42f8423c3580d35786e38b0705a61178fa4999721dba5bcbc22742efe41aaa73c67cf0fc6b6&scene=27&key=b9f9fe4690f0a07cfd4e563c7b794d836fdba5db6bc2fbe35940dfcebbddbca706ee5c694df4daf879aec9454c097c1249fdc90a55c18ea4bb0de6716957fb61ede805837c97d347f42567ed0dbff4f4f3bc6ea45594e67a34766f9cffe8ef23f12be419415fecd7a41452823afd155f5d08156f1ce47699235b8e48c2ebef9c&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+Server+2016+x64&version=63070517&lang=zh_CN&session_us=gh_cf325e4d8d77&exportkey=A97E1D%2BewL7PCoQs62joKXk%3D&acctmode=0&pass_ticket=9mNz6KCzgInXwg0CHvfqQX%2BtC9DuiDU8Y0I4OcAGRdzMLTLPC0Zq%2FSTvXa0PTMIM&wx_header=0&fontgear=2&scene=27#wechat_redirect)
+
+信息安全体系建设相关内容分享…不定时更新，可随时取关…
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_eaab7ac10752" alt="" />
 
 ---
 
