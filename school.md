@@ -1,9 +1,9 @@
 
 ### [启明星辰网络空间安全学院](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
 
-[:chart_with_upwards_trend:【0/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
+[:chart_with_upwards_trend:【0/13/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
 
-[:camera_flash:【2022-09-19 17:16:55】](https://mp.weixin.qq.com/s?__biz=MzUzNDg0NTc1NA==&mid=2247494149&idx=1&sn=b698fe442a1d88c11bdd5aabd0303b60&chksm=fa8c2a50cdfba3465b777947b7ff01d864740bd67f4bab57394f581253841d3e2d318fb58096&scene=27#wechat_redirect)
+[:camera_flash:【2022-09-24 11:00:44】](https://mp.weixin.qq.com/s?__biz=MzUzNDg0NTc1NA==&mid=2247494354&idx=1&sn=33222b2472ba1826cae1d54823012ffd&chksm=fa8c2a87cdfba3912237b8af5ef4244e6deef2dc1abdd3832a0d0be2ae377a87fb08d4d810ac&scene=27#wechat_redirect)
 
 启明星辰网络空间安全学院以国家网络安全事业发展为使命，依托启明星辰集团多年的技术沉淀及实践积累，提供网络安全人才体系构建与信息安全技术及能力提升教育培训，为建设网络强国提供有力的人才支撑。
 
@@ -53,7 +53,7 @@
 
 ### [浙大网安](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5NDczNDc4NA==)
 
-[:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5NDczNDc4NA==)
+[:chart_with_upwards_trend:【0/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5NDczNDc4NA==)
 
 [:camera_flash:【2022-09-23 19:33:10】](https://mp.weixin.qq.com/s?__biz=Mzg5NDczNDc4NA==&mid=2247490942&idx=1&sn=cc8df157753d7e11b5e80867f91a7bb1&chksm=c01a45d1f76dccc718d6e883d070e6d4c41f52491555065fc96b358bbbb73ce8802446b75913&scene=27#wechat_redirect)
 
@@ -116,19 +116,6 @@
 ---
 
 
-### [NISL实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxMTEwOTA3OA==)
-
-[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxMTEwOTA3OA==)
-
-[:camera_flash:【2022-09-21 11:48:57】](https://mp.weixin.qq.com/s?__biz=MzUxMTEwOTA3OA==&mid=2247484033&idx=1&sn=cdca96884069e15397fe5e0bafbf82fc&chksm=f979f038ce0e792ee626def567235bf8b87aec5299ee4c43682af881cda9a25f798de18a7aae&scene=27#wechat_redirect)
-
-清华大学网络与信息安全实验室(NISL@THU)，专注于网络、系统、应用、人工智能安全教学与研究，在国际四大安全会议发表三十余篇论文，成果在业界产生了广泛影响力。孕育了蓝莲花、紫荆花等知名战队，发起了网安国际学术论坛InForSec。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_52677a4545d1" alt="" />
-
----
-
-
 ### [蚁景网安](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MTU2ODYwNw==)
 
 [:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MTU2ODYwNw==)
@@ -155,28 +142,28 @@
 ---
 
 
-### [三叶草小组Syclover](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzOTg0NjYzNg==)
-
-[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzOTg0NjYzNg==)
-
-[:camera_flash:【2022-09-05 12:00:31】](https://mp.weixin.qq.com/s?__biz=MzIzOTg0NjYzNg==&mid=2247488375&idx=1&sn=39ebd1167ffd4ebe5f2d812aa5b28ca0&chksm=e92286f4de550fe20689fbd26b5df6941c875419109c66b23b62046b465051ce433ddacb6b28&scene=27#wechat_redirect)
-
-一个专注于网络空间安全的高校技术团队，成立于2005年3月，主要研究方向有渗透测试、逆向工程、移动安全、安全编程、漏洞利用等；公众号定期推送小组成员原创文章
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_962842f4917b" alt="" />
-
----
-
-
 ### [齐鲁师院网络安全社团](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MDU5NTA1MQ==)
 
 [:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MDU5NTA1MQ==)
 
-[:camera_flash:【2022-09-20 23:33:35】](https://mp.weixin.qq.com/s?__biz=MzU3MDU5NTA1MQ==&mid=2247491579&idx=1&sn=77eabe3853fb1d443be67c90210dc1fd&chksm=fcec5c7fcb9bd569e400d18ee1b2395da51698568f4681bfb2f3f53ad8ec17e5d11838faabbf&scene=27#wechat_redirect)
+[:camera_flash:【2022-09-24 22:23:46】](https://mp.weixin.qq.com/s?__biz=MzU3MDU5NTA1MQ==&mid=2247491682&idx=1&sn=ab852132da8211418b3977f2b8116174&chksm=fcefa3e6cb982af0879ad43b87ab330188cb19dfddf63d70153df05a357add52d44a1061a7c5&scene=27#wechat_redirect)
 
 欢迎加入齐鲁师范学院网络安全社团
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0c9ae293eb8e" alt="" />
+
+---
+
+
+### [NISL实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxMTEwOTA3OA==)
+
+[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxMTEwOTA3OA==)
+
+[:camera_flash:【2022-09-21 11:48:57】](https://mp.weixin.qq.com/s?__biz=MzUxMTEwOTA3OA==&mid=2247484033&idx=1&sn=cdca96884069e15397fe5e0bafbf82fc&chksm=f979f038ce0e792ee626def567235bf8b87aec5299ee4c43682af881cda9a25f798de18a7aae&scene=27#wechat_redirect)
+
+清华大学网络与信息安全实验室(NISL@THU)，专注于网络、系统、应用、人工智能安全教学与研究，在国际四大安全会议发表三十余篇论文，成果在业界产生了广泛影响力。孕育了蓝莲花、紫荆花等知名战队，发起了网安国际学术论坛InForSec。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_52677a4545d1" alt="" />
 
 ---
 
@@ -207,19 +194,6 @@
 ---
 
 
-### [Birkenwald](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxNDQ2NDE1MA==)
-
-[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxNDQ2NDE1MA==)
-
-[:camera_flash:【2022-08-25 18:30:46】](https://mp.weixin.qq.com/s?__biz=MzAxNDQ2NDE1MA==&mid=2247484185&idx=1&sn=99c73f8a6e95d553bf60dcc8251b706e&chksm=9b93a6e0ace42ff634d889e45e547b22c91f571bae65c85a200cf10a14edf8f98b0a80716d20&scene=27#wechat_redirect)
-
-Birkenwald安全团队 --来自哈尔滨理工大学
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_78acfb2bfff7" alt="" />
-
----
-
-
 ### [Stalker安全团队](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwMTI5NDYzOA==)
 
 [:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwMTI5NDYzOA==)
@@ -246,15 +220,15 @@ Birkenwald安全团队 --来自哈尔滨理工大学
 ---
 
 
-### [广外网络安全实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MTI2NDA5MA==)
+### [三叶草小组Syclover](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzOTg0NjYzNg==)
 
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MTI2NDA5MA==)
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzOTg0NjYzNg==)
 
-[:camera_flash:【2022-08-25 00:00:47】](https://mp.weixin.qq.com/s?__biz=MzU2MTI2NDA5MA==&mid=2247483896&idx=1&sn=cc3b4a7411a89ee2b9834267a40ac41f&chksm=fc7a254dcb0dac5ba3e6767c7a31b0bde6d1bb444c47c04e2d45660358b54b1f1b1c3836db37&scene=27#wechat_redirect)
+[:camera_flash:【2022-09-05 12:00:31】](https://mp.weixin.qq.com/s?__biz=MzIzOTg0NjYzNg==&mid=2247488375&idx=1&sn=39ebd1167ffd4ebe5f2d812aa5b28ca0&chksm=e92286f4de550fe20689fbd26b5df6941c875419109c66b23b62046b465051ce433ddacb6b28&scene=27#wechat_redirect)
 
-广东外语外贸大学网络安全实验室信息推送和资源平台
+一个专注于网络空间安全的高校技术团队，成立于2005年3月，主要研究方向有渗透测试、逆向工程、移动安全、安全编程、漏洞利用等；公众号定期推送小组成员原创文章
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8176da819e03" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_962842f4917b" alt="" />
 
 ---
 
@@ -307,6 +281,19 @@ Birkenwald安全团队 --来自哈尔滨理工大学
 中原工学院（ZUT）攻防技术团队
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_84fc2a89caa2" alt="" />
+
+---
+
+
+### [广外网络安全实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MTI2NDA5MA==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MTI2NDA5MA==)
+
+[:camera_flash:【2022-08-25 00:00:47】](https://mp.weixin.qq.com/s?__biz=MzU2MTI2NDA5MA==&mid=2247483896&idx=1&sn=cc3b4a7411a89ee2b9834267a40ac41f&chksm=fc7a254dcb0dac5ba3e6767c7a31b0bde6d1bb444c47c04e2d45660358b54b1f1b1c3836db37&scene=27#wechat_redirect)
+
+广东外语外贸大学网络安全实验室信息推送和资源平台
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8176da819e03" alt="" />
 
 ---
 
@@ -671,6 +658,19 @@ Covteam工作室，成立于2005年。是以西华大学在校本科生研究生
 在这里你能get到实验室最新资讯以及知识分享、每周授课预告 : )
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ef1f6c5f3dc4" alt="" />
+
+---
+
+
+### [Birkenwald](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxNDQ2NDE1MA==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxNDQ2NDE1MA==)
+
+[:camera_flash:【2022-08-25 18:30:46】](https://mp.weixin.qq.com/s?__biz=MzAxNDQ2NDE1MA==&mid=2247484185&idx=1&sn=99c73f8a6e95d553bf60dcc8251b706e&chksm=9b93a6e0ace42ff634d889e45e547b22c91f571bae65c85a200cf10a14edf8f98b0a80716d20&scene=27#wechat_redirect)
+
+Birkenwald安全团队 --来自哈尔滨理工大学
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_78acfb2bfff7" alt="" />
 
 ---
 
