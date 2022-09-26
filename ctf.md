@@ -1,7 +1,7 @@
 
 ### [寰宇卫士](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
 
-[:chart_with_upwards_trend:【0/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
+[:chart_with_upwards_trend:【0/19/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
 
 [:camera_flash:【2022-09-23 14:47:17】](https://mp.weixin.qq.com/s?__biz=MzIwMzU0NDY5OA==&mid=2247494670&idx=1&sn=6f1bff5d03bb2ffad56e0952a1526eb9&chksm=96cf6d1ba1b8e40da582843b1ccc10bef5edbdd88c59d7c8cd0d2c3deea8c5093d13669ae809&scene=27#wechat_redirect)
 
