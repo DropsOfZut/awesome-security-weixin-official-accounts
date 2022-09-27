@@ -1,9 +1,9 @@
 
 ### [启明星辰网络空间安全学院](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
 
-[:chart_with_upwards_trend:【0/13/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
+[:chart_with_upwards_trend:【0/14/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
 
-[:camera_flash:【2022-09-24 11:00:44】](https://mp.weixin.qq.com/s?__biz=MzUzNDg0NTc1NA==&mid=2247494354&idx=1&sn=33222b2472ba1826cae1d54823012ffd&chksm=fa8c2a87cdfba3912237b8af5ef4244e6deef2dc1abdd3832a0d0be2ae377a87fb08d4d810ac&scene=27#wechat_redirect)
+[:camera_flash:【2022-09-26 16:45:08】](https://mp.weixin.qq.com/s?__biz=MzUzNDg0NTc1NA==&mid=2247494372&idx=1&sn=cbfc20c2116fcccdd4dfb005f7cc60e4&chksm=fa8c2ab1cdfba3a7ebc067f33eaceb2daf59476c49affce1e6ae715b83985058664ed202e6c0&scene=27#wechat_redirect)
 
 启明星辰网络空间安全学院以国家网络安全事业发展为使命，依托启明星辰集团多年的技术沉淀及实践积累，提供网络安全人才体系构建与信息安全技术及能力提升教育培训，为建设网络强国提供有力的人才支撑。
 
@@ -14,7 +14,7 @@
 
 ### [赛博安全社团](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDIyNTE0OQ==)
 
-[:chart_with_upwards_trend:【6/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDIyNTE0OQ==)
+[:chart_with_upwards_trend:【6/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDIyNTE0OQ==)
 
 [:camera_flash:【2022-09-25 10:35:50】](https://mp.weixin.qq.com/s?__biz=MzkyNDIyNTE0OQ==&mid=2247484183&idx=1&sn=74cf98671e3d8743959a19a525b89dd4&chksm=c1d85805f6afd1133105450e12cab30c06c03ccd42e917c9aade14ccab969c38ceef992b32bb&scene=27#wechat_redirect)
 
@@ -51,6 +51,19 @@
 ---
 
 
+### [合天网络安全](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyNzU3Mzg2NQ==)
+
+[:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyNzU3Mzg2NQ==)
+
+[:camera_flash:【2022-09-26 17:34:39】](https://mp.weixin.qq.com/s?__biz=MzIyNzU3Mzg2NQ==&mid=2247485892&idx=1&sn=b995f0c7c80504c7819c7daa63f30cfe&chksm=e85e60c2df29e9d4503b1db75b08e267774018028cb2b660bb4ff19a63900a327983502ee722&scene=27&key=9164184113abefbb2312047b7ac32db2e5f095d854626a01029df3884f8ce6e8758adae6e0519a225b5e0f476b450af12a77d3141c691c15ce8d491b97a870f34d5a00be4a0f32af9fb5dc152a60f0949fb2a2473841e9374f08ebc52caa47cf69098b13cf61cb7e3b786b5714b39d2ea4ea97b5edd8f2760b907bee6b095607&ascene=15&uin=MzgxODQ4MjMz&devicetype=Windows+Server+2016+x64&version=63070517&lang=zh_CN&session_us=gh_d5c25339a9e5&exportkey=A6jqTNEbwrH9pWIVwvXCE0E%3D&acctmode=0&pass_ticket=bmlZjS1BpePqXW%2FI%2FHSCGH7MDo1YpL6dQIOvvlM%2BH1L8GeL2XvA6gZyoeDKQKen0&wx_header=0&fontgear=2&scene=27#wechat_redirect)
+
+网安学院拥有专业教学服务、就业指导，课程配套靶场实战平台（www.hetianlab.com），学员学完就练，切实提升实践动手能力；课程涵盖Web安全、软件安全、网络安全等网安各个相关方面。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a6ba8f92d07d" alt="" />
+
+---
+
+
 ### [浙大网安](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5NDczNDc4NA==)
 
 [:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5NDczNDc4NA==)
@@ -77,28 +90,15 @@
 ---
 
 
-### [复旦白泽战队](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
+### [齐鲁师院网络安全社团](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MDU5NTA1MQ==)
 
-[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
+[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MDU5NTA1MQ==)
 
-[:camera_flash:【2022-09-07 11:27:38】](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247485887&idx=1&sn=c2d63722d125f769fbd8fa8e41b7400d&chksm=fdeb8dc1ca9c04d78f3ad9e8d28ebf8c36d3b40e4f352d8bf565fd4fc4c897d66120d74e7c3c&scene=27#wechat_redirect)
+[:camera_flash:【2022-09-24 22:23:46】](https://mp.weixin.qq.com/s?__biz=MzU3MDU5NTA1MQ==&mid=2247491682&idx=1&sn=ab852132da8211418b3977f2b8116174&chksm=fcefa3e6cb982af0879ad43b87ab330188cb19dfddf63d70153df05a357add52d44a1061a7c5&scene=27#wechat_redirect)
 
-以复旦大学系统安全实验室学生为主成立的安全攻防战队，分享最新研究成果，交流系统安全攻防领域技巧。
+欢迎加入齐鲁师范学院网络安全社团
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f1bf07da06d8" alt="" />
-
----
-
-
-### [合天网络安全](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyNzU3Mzg2NQ==)
-
-[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyNzU3Mzg2NQ==)
-
-[:camera_flash:【2022-09-09 17:39:36】](https://mp.weixin.qq.com/s?__biz=MzIyNzU3Mzg2NQ==&mid=2247485870&idx=1&sn=d8c3d53dddc31617b1555a975a6ec837&chksm=e85e60a8df29e9be545d62596f04fb0e7c7234f0ee2c5d7f7920a3b53287342eb5c211ba387f&scene=27&key=b94dfdab45ea2e791495cb016db10904c8615d7a2910bfdcedfdffd045361d752dc500ddb94e26c2972e3269f42f13b8a3a76857dfba187376d2f57b9f05affecc5611a883e77c888cccb76ef5b33ba2532332531cc5179f77729a941132d98dceeb4a35bc13901e82c5e53b67aaa4188c987370bc6d33c688bcc892174ef8aa&ascene=15&uin=MTA3Mzc3OTIzNQ%3D%3D&devicetype=Windows+Server+2016+x64&version=63070517&lang=zh_CN&session_us=gh_a8ddc88234b2&exportkey=AVe%2Fl8drpbZK3CEA1eVhcCc%3D&acctmode=0&pass_ticket=oqzUAztfy4H48MlYFLNV%2BL1dsYTyAsuUUmXsTOZwF9FB87Zq2KZDmXvsAX5f7NYi&wx_header=0&fontgear=2&scene=27#wechat_redirect)
-
-网安学院拥有专业教学服务、就业指导，课程配套靶场实战平台（www.hetianlab.com），学员学完就练，切实提升实践动手能力；课程涵盖Web安全、软件安全、网络安全等网安各个相关方面。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a6ba8f92d07d" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0c9ae293eb8e" alt="" />
 
 ---
 
@@ -142,15 +142,15 @@
 ---
 
 
-### [齐鲁师院网络安全社团](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MDU5NTA1MQ==)
+### [复旦白泽战队](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
 
-[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MDU5NTA1MQ==)
+[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
 
-[:camera_flash:【2022-09-24 22:23:46】](https://mp.weixin.qq.com/s?__biz=MzU3MDU5NTA1MQ==&mid=2247491682&idx=1&sn=ab852132da8211418b3977f2b8116174&chksm=fcefa3e6cb982af0879ad43b87ab330188cb19dfddf63d70153df05a357add52d44a1061a7c5&scene=27#wechat_redirect)
+[:camera_flash:【2022-09-07 11:27:38】](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247485887&idx=1&sn=c2d63722d125f769fbd8fa8e41b7400d&chksm=fdeb8dc1ca9c04d78f3ad9e8d28ebf8c36d3b40e4f352d8bf565fd4fc4c897d66120d74e7c3c&scene=27#wechat_redirect)
 
-欢迎加入齐鲁师范学院网络安全社团
+以复旦大学系统安全实验室学生为主成立的安全攻防战队，分享最新研究成果，交流系统安全攻防领域技巧。
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0c9ae293eb8e" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f1bf07da06d8" alt="" />
 
 ---
 
