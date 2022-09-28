@@ -1,9 +1,9 @@
 
 ### [情报分析师](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3Mjc1MTkwOA==)
 
-[:chart_with_upwards_trend:【52/55/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3Mjc1MTkwOA==)
+[:chart_with_upwards_trend:【50/53/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3Mjc1MTkwOA==)
 
-[:camera_flash:【2022-09-26 12:08:12】](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650517132&idx=1&sn=e7295218515383a9195b226a14478237&chksm=871680c7b06109d1119c75ad46de2deb15f659860901943eefb5bde3d88ebe02ebcba9570501&scene=27#wechat_redirect)
+[:camera_flash:【2022-09-27 11:50:53】](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650517170&idx=1&sn=dfb8f71c5a14e7ea2103ea9cad9590bf&chksm=871680f9b06109ef1a56de7ac3cc96d85fb0a3516b67aff20ddc018d565e930f6d11277021c1&scene=27#wechat_redirect)
 
 POLICE教授团队：聚焦情报安全与警务！关注情报动态，制定情报标准，开展情报培训，促进情报协作，传播情报文化，优化情报生态，共建情报分析师职业共同体。
 
@@ -14,9 +14,9 @@ POLICE教授团队：聚焦情报安全与警务！关注情报动态，制定�
 
 ### [丁爸情报分析师的工具箱](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MTE0NTE3Mw==)
 
-[:chart_with_upwards_trend:【30/42/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MTE0NTE3Mw==)
+[:chart_with_upwards_trend:【29/41/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MTE0NTE3Mw==)
 
-[:camera_flash:【2022-09-26 17:57:14】](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651132387&idx=1&sn=23bc32f2b66aae3bf37613b017292de6&chksm=f1af66d9c6d8efcfca2a65fd2a88340433397e5ab5c567f4f725b306856b565477cbcca33ac0&scene=27#wechat_redirect)
+[:camera_flash:【2022-09-28 06:30:57】](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651132454&idx=1&sn=fd9cd9b74322d1a3d6af217a0f531f09&chksm=f1af651cc6d8ec0aafe860c343749172727dd0fd3159b08d0ecdcdf53c005d400a5ec8686fb8&scene=27#wechat_redirect)
 
 每天为大家精选各类情报分析相关的资源、工具、技巧和资讯，努力成为情报分析师必备的工具箱。外挂机器人“小丁丁”还能陪您聊天，给您查航班、查列车、查天气、查酒店、查美食、查股票、回答您的提问等等。
 
@@ -29,7 +29,7 @@ POLICE教授团队：聚焦情报安全与警务！关注情报动态，制定�
 
 [:chart_with_upwards_trend:【20/25/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxMzkzNDA1Mg==)
 
-[:camera_flash:【2022-09-26 19:29:03】](https://mp.weixin.qq.com/s?__biz=MzAxMzkzNDA1Mg==&mid=2247500648&idx=2&sn=e78cc0009efe3dc55857e85d9715112b&chksm=9b998fe3acee06f5518aeecd8a4c8679e1a2fee8ea373763327b4299725192675279469ed958&scene=27#wechat_redirect)
+[:camera_flash:【2022-09-27 19:15:38】](https://mp.weixin.qq.com/s?__biz=MzAxMzkzNDA1Mg==&mid=2247500664&idx=1&sn=cd905e483d3b02baad45b3e42b9ae875&chksm=9b998ff3acee06e579dda7fcea010ecc02857fb18190c257384ebd5354bb6765a85110cd8d40&scene=27#wechat_redirect)
 
 致力于反网络违法犯罪领域相关情报、技术研究与分享。
 
@@ -42,7 +42,7 @@ POLICE教授团队：聚焦情报安全与警务！关注情报动态，制定�
 
 [:chart_with_upwards_trend:【7/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NjA0NjI5MQ==)
 
-[:camera_flash:【2022-09-26 16:59:40】](https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650174337&idx=1&sn=9583d28e7691a09b52bfe723217d1e0f&chksm=f448883dc33f012b911c041c0c9f92f4d5e7abf429327ae3a6c4587f944981c6ece4c158df0d&scene=27#wechat_redirect)
+[:camera_flash:【2022-09-27 08:45:36】](https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650174365&idx=1&sn=99017a8c75fd3f5f5f53e3aee3d9a66f&chksm=f4488821c33f0137cc307fdf3c0cee0a1af75375894fbca3cb68ac9241baa8eef0ec83660df0&scene=27#wechat_redirect)
 
 ThreatBook微步在线，中国新一代网络安全代表企业，网络威胁发现与响应专家。
 

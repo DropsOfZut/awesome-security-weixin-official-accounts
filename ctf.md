@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【0/19/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
 
-[:camera_flash:【2022-09-26 15:42:10】](https://mp.weixin.qq.com/s?__biz=MzIwMzU0NDY5OA==&mid=2247494671&idx=1&sn=9edaa9de45544058f4cfea681e15bb60&chksm=96cf6d1aa1b8e40c3018481d17ef7fb1b7368b1b0b18d5239c0f10f7044b6b789991a4c16155&scene=27#wechat_redirect)
+[:camera_flash:【2022-09-27 15:38:47】](https://mp.weixin.qq.com/s?__biz=MzIwMzU0NDY5OA==&mid=2247494686&idx=1&sn=30248f0313b7c122d08a605c6c1dbc04&chksm=96cf6d0ba1b8e41dfd0680c4b46bcacc8c2e68ce454f478083f18f5e24e2ea4de3d68d26ff2a&scene=27#wechat_redirect)
 
 寰宇卫士综合安全咨询、安全服务、解决方案、认证培训、产品研发等信息安全多元化产业链为一体。
 
@@ -66,7 +66,7 @@ X是未知，更是无限，邀您一道创造、见证和实现X-Plan，北斗�
 
 ### [中学生CTF](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzEwMTQ3NQ==)
 
-[:chart_with_upwards_trend:【3/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzEwMTQ3NQ==)
+[:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzEwMTQ3NQ==)
 
 [:camera_flash:【2022-09-23 01:15:58】](https://mp.weixin.qq.com/s?__biz=MzU3MzEwMTQ3NQ==&mid=2247501970&idx=1&sn=4e6eecd5abaf4c3dc57aeae251372dcb&chksm=fcc44c5ecbb3c5483a79954b9bfa5f39bb533a53edcce5b503941427fec7ba8be1d91a97c360&scene=27#wechat_redirect)
 

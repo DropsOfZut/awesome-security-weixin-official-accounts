@@ -1,9 +1,9 @@
 
 ### [IoVSecurity](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
 
-[:chart_with_upwards_trend:【0/63/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
+[:chart_with_upwards_trend:【0/60/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
 
-[:camera_flash:【2022-09-26 22:11:05】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247557966&idx=1&sn=67a02483a2bcd73974db3e4e94b154b8&chksm=fc03b384cb743a9286d8ec963b42f780c900f5db770b99827bc8532a8d02c208ae214f2d6f5c&scene=27#wechat_redirect)
+[:camera_flash:【2022-09-27 23:01:54】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247558071&idx=1&sn=0868b60b25e7948def4df124dd0bc5ac&chksm=fc03b37dcb743a6bc175afd64574aa7d00dc4df98147e37013772de568ff1debfacf6436dd37&scene=27#wechat_redirect)
 
 为智能网联汽车行业专业人士提供信息和网络安全技术、产品及服务等行业发展最新咨询
 
@@ -14,7 +14,7 @@
 
 ### [网络安全与取证研究](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTU3NTY0Nw==)
 
-[:chart_with_upwards_trend:【0/28/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTU3NTY0Nw==)
+[:chart_with_upwards_trend:【0/27/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTU3NTY0Nw==)
 
 [:camera_flash:【2022-09-26 20:33:13】](https://mp.weixin.qq.com/s?__biz=Mzg3NTU3NTY0Nw==&mid=2247485045&idx=1&sn=07a807f759b5da87a63bf9e3d3313f96&chksm=cf3e2645f849af53accc31596d8a54624a52eb7663ec22573f1378842fdc57aeaa34c3faa053&scene=27#wechat_redirect)
 
@@ -29,7 +29,7 @@
 
 [:chart_with_upwards_trend:【0/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNDcwMDgzMA==)
 
-[:camera_flash:【2022-09-19 08:30:39】](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651044199&idx=1&sn=8bbde40e57fd46994d138f95089bc1f3&chksm=80d0f696b7a77f8058c264cdba5ec4e23e593f47e336048f5a9e57d8662fae337186ccf9f943&scene=27#wechat_redirect)
+[:camera_flash:【2022-09-27 13:37:57】](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651044219&idx=1&sn=518749467872584d4cd26e54710607fc&chksm=80d0f68ab7a77f9c55b0d164b17a4e5986775b3385f791d7aadfa1bee989f1149a80e03208ca&scene=27#wechat_redirect)
 
 关注刑事证据科学前沿发展，传递电子物证技术最新趋势
 
@@ -42,7 +42,7 @@
 
 [:chart_with_upwards_trend:【0/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MTY5NjQzMA==)
 
-[:camera_flash:【2022-09-23 16:00:46】](https://mp.weixin.qq.com/s?__biz=Mzg4MTY5NjQzMA==&mid=2247487319&idx=1&sn=db1657ebd01733abc1280e3333b3b5ff&chksm=cf634496f814cd809d12c4c771087e066e392d2fe162d3508332b57118e29de8da6b0eb8e3cb&scene=27#wechat_redirect)
+[:camera_flash:【2022-09-27 18:30:02】](https://mp.weixin.qq.com/s?__biz=Mzg4MTY5NjQzMA==&mid=2247487344&idx=1&sn=ee425e8efaacac4e11909287b90963c8&chksm=cf6344b1f814cda75c7cb1d98bf0dc89e66b00cd1bcae07ad4c44020cb71522e4aa99232acd7&scene=27#wechat_redirect)
 
 极客的专属潮酷聚集地，尽在iotsec-zone
 
@@ -68,7 +68,7 @@
 
 [:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
 
-[:camera_flash:【2022-09-16 19:54:46】](https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&mid=2454929494&idx=1&sn=e2a31f1ab46f68ffab47f6b5366cbc90&chksm=b1670d198610840f64a4d56f9a04125fece10e13f04ebf85e6ede6a44ba7dfe7e2ce0286317b&scene=27#wechat_redirect)
+[:camera_flash:【2022-09-27 20:29:17】](https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&mid=2454929517&idx=1&sn=55dfb523f4b2f058194b7451e8bf86d1&chksm=b1670d2286108434a4248aa258be849133bfcd05d3f06550d8e1a18059ed3c7963bd31a35c21&scene=27#wechat_redirect)
 
 国内最大IoT物联网开发者社区，1000+行业资料分享；集结 AWS，阿里云，华为云，微软Azure，百度云 物联网专家；通信模组，物联网卡厂商；智能家居，工业制造，智慧城市解决方案商。
 
@@ -125,19 +125,6 @@
 我们专注于电子取证技术的分享及司法鉴定实践的交流，涵盖了计算机取证、手机取证、电子物证、司法鉴定等众多领域，是电子取证公司与电子取证从业者交流学习的首选平台。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_336d761a246b" alt="" />
-
----
-
-
-### [网络安全自学](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3NzQ3NzY4OA==)
-
-[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3NzQ3NzY4OA==)
-
-[:camera_flash:【2022-09-24 19:10:12】](https://mp.weixin.qq.com/s?__biz=MzI3NzQ3NzY4OA==&mid=2247483969&idx=1&sn=f86bb0c94ad7f22eb097a2710b8bb4a8&chksm=eb64e216dc136b00cd9bd6afe90e6da51207fd2f1b2f8b4d9bffc9dbac335ee95bf9f31b1576&scene=27#wechat_redirect)
-
-网络安全自学交流，提高效率，少走弯路
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_1d8521f5d38e" alt="" />
 
 ---
 
@@ -294,6 +281,19 @@ Power by Gh0xE9 Team, Just join us &lt;3; Gh0xE9 Team Welcomes universities and 
 关注汽车网络安全，定期发布最专业的汽车网络安全攻防实验室相关实验结果，公开一些汽车网络攻防实验的细节，公布发现的汽车安全漏洞以帮助生产厂家认识到安全隐患！针对联网化的汽车网络安全性提供研究测试和公开报告！
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_85e019862246" alt="" />
+
+---
+
+
+### [网络安全自学](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3NzQ3NzY4OA==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3NzQ3NzY4OA==)
+
+[:camera_flash:【2022-09-24 19:10:12】](https://mp.weixin.qq.com/s?__biz=MzI3NzQ3NzY4OA==&mid=2247483969&idx=1&sn=f86bb0c94ad7f22eb097a2710b8bb4a8&chksm=eb64e216dc136b00cd9bd6afe90e6da51207fd2f1b2f8b4d9bffc9dbac335ee95bf9f31b1576&scene=27#wechat_redirect)
+
+网络安全自学交流，提高效率，少走弯路
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_1d8521f5d38e" alt="" />
 
 ---
 
