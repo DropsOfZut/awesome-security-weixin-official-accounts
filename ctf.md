@@ -1,26 +1,13 @@
 
 ### [寰宇卫士](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
 
-[:chart_with_upwards_trend:【0/19/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
+[:chart_with_upwards_trend:【0/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
 
-[:camera_flash:【2022-09-27 15:38:47】](https://mp.weixin.qq.com/s?__biz=MzIwMzU0NDY5OA==&mid=2247494686&idx=1&sn=30248f0313b7c122d08a605c6c1dbc04&chksm=96cf6d0ba1b8e41dfd0680c4b46bcacc8c2e68ce454f478083f18f5e24e2ea4de3d68d26ff2a&scene=27#wechat_redirect)
+[:camera_flash:【2022-09-28 16:32:26】](https://mp.weixin.qq.com/s?__biz=MzIwMzU0NDY5OA==&mid=2247494702&idx=1&sn=396ded53294d6eebca80c8dfd3449ed2&chksm=96cf6d3ba1b8e42d5be6f26b252aef5f7273381a9d02f6263b10dbbe7860f72d735c62a61c1d&scene=27#wechat_redirect)
 
 寰宇卫士综合安全咨询、安全服务、解决方案、认证培训、产品研发等信息安全多元化产业链为一体。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_7aa3785c2fbe" alt="" />
-
----
-
-
-### [强网竞赛](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjY3NDQ2Ng==)
-
-[:chart_with_upwards_trend:【0/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjY3NDQ2Ng==)
-
-[:camera_flash:【2022-09-23 01:05:07】](https://mp.weixin.qq.com/s?__biz=Mzg4MjY3NDQ2Ng==&mid=2247486383&idx=1&sn=de707ab62fef684532ed612a07325a1a&chksm=cf5255e2f825dcf480558cc9649be0978b3938148ac4e0b4468cce925d5d28f3a0efa419d4dc&scene=27#wechat_redirect)
-
-强网竞赛是面向高等院校和国内信息安全企业的国家级赛事，旨在通过高对抗的竞技比赛，发现锻造网络安全领域优秀人才，提高国家网络安全保障能力，提升全民网络安全意识。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_cf8bfd7de794" alt="" />
 
 ---
 
@@ -34,6 +21,19 @@
 国内最早、亚洲最大的网络攻防联赛。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_3d7c7f90f79f" alt="" />
+
+---
+
+
+### [强网竞赛](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjY3NDQ2Ng==)
+
+[:chart_with_upwards_trend:【0/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjY3NDQ2Ng==)
+
+[:camera_flash:【2022-09-23 01:05:07】](https://mp.weixin.qq.com/s?__biz=Mzg4MjY3NDQ2Ng==&mid=2247486383&idx=1&sn=de707ab62fef684532ed612a07325a1a&chksm=cf5255e2f825dcf480558cc9649be0978b3938148ac4e0b4468cce925d5d28f3a0efa419d4dc&scene=27#wechat_redirect)
+
+强网竞赛是面向高等院校和国内信息安全企业的国家级赛事，旨在通过高对抗的竞技比赛，发现锻造网络安全领域优秀人才，提高国家网络安全保障能力，提升全民网络安全意识。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_cf8bfd7de794" alt="" />
 
 ---
 
@@ -53,7 +53,7 @@ X是未知，更是无限，邀您一道创造、见证和实现X-Plan，北斗�
 
 ### [春秋伽玛](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
 
-[:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
+[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
 
 [:camera_flash:【2022-09-21 17:00:40】](https://mp.weixin.qq.com/s?__biz=MzkyNDA5NjgyMg==&mid=2247494430&idx=1&sn=f9be6a640e4fba0419ffa49f1cee6930&chksm=c1d9ab47f6ae225109ca26ff4342692df46d251e40bd64231619dd11f55bf4a8c97a0ccce857&scene=27#wechat_redirect)
 
@@ -77,6 +77,19 @@ X是未知，更是无限，邀您一道创造、见证和实现X-Plan，北斗�
 ---
 
 
+### [胖哈勃](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2OTUzMzg3Ng==)
+
+[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2OTUzMzg3Ng==)
+
+[:camera_flash:【2022-09-27 18:00:37】](https://mp.weixin.qq.com/s?__biz=MzI2OTUzMzg3Ng==&mid=2247499062&idx=1&sn=ff61003bfaeddf707daaf61d9a0a3871&chksm=eadc6aedddabe3fbbba3f6c5088c972937f879db2fed48519cbc4d516007dd9011b345414c1a&scene=27&key=d8221f16b48f88c82ef69e0b1152dc3abb2867b7463144e847c249bdfaaa21e0c28015cf8fd3bc07cba5ffe2c2a79e0b87e7d02f151ea82c4740402d754dbf1678ec9de6cd3ff6230a1059114d4256770463b7eca81fc05009c9b5cfdba5721407d43d5a0c47b98283cad6ee42615a9ee573af3137dfde2d3a363d5adccfecac&ascene=15&uin=MTA3Mzc3OTIzNQ%3D%3D&devicetype=Windows+Server+2016+x64&version=63070517&lang=zh_CN&session_us=gh_99c29b36f837&exportkey=AfBaom1L%2F0YCDDPZq7FPBKg%3D&acctmode=0&pass_ticket=CoqO%2FdVC38UYkiQj0WHewQ6vE1iz3312Dq8F3AftraYXP4J0Y87YRerdRh9eKUa4&wx_header=0&fontgear=2&scene=27#wechat_redirect)
+
+1990年，哈勃望远镜（Hubble Space Telescope）发射升空，开启了人类对宇宙空间的崭新探索。 现在，Pwnhub的出现，将引领那些对网络安全感兴趣的人们探索“0 1”世界中的无限奥秘。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_2e9e965bad75" alt="" />
+
+---
+
+
 ### [BugKu](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3ODQ2MDMxMg==)
 
 [:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3ODQ2MDMxMg==)
@@ -86,19 +99,6 @@ X是未知，更是无限，邀您一道创造、见证和实现X-Plan，北斗�
 关注网络安全，和你一起分享安全技术。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_d10dfd684f1b" alt="" />
-
----
-
-
-### [胖哈勃](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2OTUzMzg3Ng==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2OTUzMzg3Ng==)
-
-[:camera_flash:【2022-09-05 15:06:06】](https://mp.weixin.qq.com/s?__biz=MzI2OTUzMzg3Ng==&mid=2247498511&idx=1&sn=0dcbea7325894e17aae1f5aea50577c9&chksm=eadc6cd4ddabe5c2f0cb5a4f0f5a8b56c38f8e58e51119da9264c1e22ec44ffa2838065e8ceb&scene=27&key=00d65dfbf652ec003275d4123719052b9f9ccf284304e5baad561bd1eba9716b9b137f08613b3f9e47cdb497e09d9b8f796446ab44544934ac2401d435ef4ab8406537715b6f28ac7e7801cd15b24ec407a2dffd403d58f66471e9f79f9c3b67f6f199c009a8f0330ed3d7b053eed97411196b90ce7c7395c42ba9688e8122d4&ascene=15&uin=MzgxODQ4MjMz&devicetype=Windows+Server+2016+x64&version=63070517&lang=zh_CN&session_us=gh_f09f6d0a4aee&exportkey=A95RSLoAQMGsuA9KgOm0SqY%3D&acctmode=0&pass_ticket=L3CGnrfwXOeo2T%2Buh4YWaI7nRTXofYaJoUhuF2SbHMXZ9TQM3m3vlwD2pKPsf2tC&wx_header=0&fontgear=2&scene=27#wechat_redirect)
-
-1990年，哈勃望远镜（Hubble Space Telescope）发射升空，开启了人类对宇宙空间的崭新探索。 现在，Pwnhub的出现，将引领那些对网络安全感兴趣的人们探索“0 1”世界中的无限奥秘。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_2e9e965bad75" alt="" />
 
 ---
 

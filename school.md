@@ -42,7 +42,7 @@
 
 [:chart_with_upwards_trend:【0/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
 
-[:camera_flash:【2022-09-20 09:00:01】](https://mp.weixin.qq.com/s?__biz=MzUzODkwMDMxNA==&mid=2247504191&idx=1&sn=14c0102066ba6311fe231ea48eaf344b&chksm=fad2330acda5ba1cf97751ca7ba6c1f151864a230d4783120f40b312c695b324a7f20c85e069&scene=27#wechat_redirect)
+[:camera_flash:【2022-09-28 09:00:59】](https://mp.weixin.qq.com/s?__biz=MzUzODkwMDMxNA==&mid=2247504203&idx=1&sn=c2c03e0c9b115ae27264d7d5d1b9c81f&chksm=fad2337ecda5ba68db373540f2b1fe7323101c847bc7482af1160a91d59f5404cfdeb3f153b7&scene=27#wechat_redirect)
 
 百所高校、百家用人单位、百名尖锋导师，携手打造定制化人才培养模式，通过导师制职业规划和封闭式岗位实训，补足知识短板、提高实战能力，培养创新型、实用型网络安全尖锋人才。
 
@@ -64,9 +64,22 @@
 ---
 
 
+### [复旦白泽战队](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
+
+[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
+
+[:camera_flash:【2022-09-28 10:00:12】](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247485916&idx=1&sn=bfd781d29caac610af8fdaf4d2a9aa77&chksm=fdeb8da2ca9c04b40d4a2baeccc0ca19d4227b04f0d0c7ec01375c786635c8597fb8cc17a55f&scene=27#wechat_redirect)
+
+以复旦大学系统安全实验室学生为主成立的安全攻防战队，分享最新研究成果，交流系统安全攻防领域技巧。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f1bf07da06d8" alt="" />
+
+---
+
+
 ### [浙大网安](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5NDczNDc4NA==)
 
-[:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5NDczNDc4NA==)
+[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5NDczNDc4NA==)
 
 [:camera_flash:【2022-09-23 19:33:10】](https://mp.weixin.qq.com/s?__biz=Mzg5NDczNDc4NA==&mid=2247490942&idx=1&sn=cc8df157753d7e11b5e80867f91a7bb1&chksm=c01a45d1f76dccc718d6e883d070e6d4c41f52491555065fc96b358bbbb73ce8802446b75913&scene=27#wechat_redirect)
 
@@ -142,24 +155,11 @@
 ---
 
 
-### [复旦白泽战队](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
-
-[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
-
-[:camera_flash:【2022-09-27 21:19:43】](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247485915&idx=1&sn=dd6d3c60cca640ebd58c385e9b28cd75&chksm=fdeb8da5ca9c04b39a3b451fe03dd5415657bef99a0a52df57449b9ad8844320e424f697b1a8&scene=27#wechat_redirect)
-
-以复旦大学系统安全实验室学生为主成立的安全攻防战队，分享最新研究成果，交流系统安全攻防领域技巧。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f1bf07da06d8" alt="" />
-
----
-
-
 ### [NISL实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxMTEwOTA3OA==)
 
 [:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxMTEwOTA3OA==)
 
-[:camera_flash:【2022-09-21 11:48:57】](https://mp.weixin.qq.com/s?__biz=MzUxMTEwOTA3OA==&mid=2247484033&idx=1&sn=cdca96884069e15397fe5e0bafbf82fc&chksm=f979f038ce0e792ee626def567235bf8b87aec5299ee4c43682af881cda9a25f798de18a7aae&scene=27#wechat_redirect)
+[:camera_flash:【2022-09-28 13:14:42】](https://mp.weixin.qq.com/s?__biz=MzUxMTEwOTA3OA==&mid=2247484039&idx=1&sn=affe18eca2b839b02116158209262cbf&chksm=f979f03ece0e7928e0e6ebc8893ddd36c96b6af13fb582b9aee6866e2ee03d54504db307e869&scene=27#wechat_redirect)
 
 清华大学网络与信息安全实验室(NISL@THU)，专注于网络、系统、应用、人工智能安全教学与研究，在国际四大安全会议发表三十余篇论文，成果在业界产生了广泛影响力。孕育了蓝莲花、紫荆花等知名战队，发起了网安国际学术论坛InForSec。
 
@@ -259,6 +259,19 @@
 ---
 
 
+### [Birkenwald](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxNDQ2NDE1MA==)
+
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxNDQ2NDE1MA==)
+
+[:camera_flash:【2022-09-27 20:38:20】](https://mp.weixin.qq.com/s?__biz=MzAxNDQ2NDE1MA==&mid=2247484191&idx=1&sn=821f58150c8902190b211271f2362a42&chksm=9b93a6e6ace42ff0d3a178717a278967dc4768b8f55cc5353bffc1fd5ae40a398ce6ace9aeb6&scene=27#wechat_redirect)
+
+Birkenwald安全团队 --来自哈尔滨理工大学
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_78acfb2bfff7" alt="" />
+
+---
+
+
 ### [DROPS攻防训练营](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NjE0Mzk2OA==)
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NjE0Mzk2OA==)
@@ -289,7 +302,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NzgyNjUwNA==)
 
-[:camera_flash:【2022-06-10 18:29:30】](https://mp.weixin.qq.com/s?__biz=MzA3NzgyNjUwNA==&mid=2247488346&idx=1&sn=86f28563a7cece1164742a59a65d5f3c&chksm=9f4d43fda83acaeb46e4e69a85161e88b77035f55739c2abb85816dc6e5ba0972b16474c88c6&scene=27#wechat_redirect)
+[:camera_flash:【2022-09-28 18:53:57】](https://mp.weixin.qq.com/s?__biz=MzA3NzgyNjUwNA==&mid=2247489335&idx=1&sn=c37f4e658538b3674728aaac1548c49f&chksm=9f4d4790a83ace864da720ab8675b9ba0175883ac2df5c6aa5c8d4c8b68e5f49161e428fd08d&scene=27#wechat_redirect)
 
 湖南农业大学蝰蛇安全实验室
 
@@ -645,19 +658,6 @@ Covteam工作室，成立于2005年。是以西华大学在校本科生研究生
 在这里你能get到实验室最新资讯以及知识分享、每周授课预告 : )
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ef1f6c5f3dc4" alt="" />
-
----
-
-
-### [Birkenwald](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxNDQ2NDE1MA==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxNDQ2NDE1MA==)
-
-[:camera_flash:【2022-09-27 20:38:20】](https://mp.weixin.qq.com/s?__biz=MzAxNDQ2NDE1MA==&mid=2247484191&idx=1&sn=821f58150c8902190b211271f2362a42&chksm=9b93a6e6ace42ff0d3a178717a278967dc4768b8f55cc5353bffc1fd5ae40a398ce6ace9aeb6&scene=27#wechat_redirect)
-
-Birkenwald安全团队 --来自哈尔滨理工大学
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_78acfb2bfff7" alt="" />
 
 ---
 
