@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【0/14/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
 
-[:camera_flash:【2022-09-26 16:45:08】](https://mp.weixin.qq.com/s?__biz=MzUzNDg0NTc1NA==&mid=2247494372&idx=1&sn=cbfc20c2116fcccdd4dfb005f7cc60e4&chksm=fa8c2ab1cdfba3a7ebc067f33eaceb2daf59476c49affce1e6ae715b83985058664ed202e6c0&scene=27#wechat_redirect)
+[:camera_flash:【2022-09-29 16:50:50】](https://mp.weixin.qq.com/s?__biz=MzUzNDg0NTc1NA==&mid=2247494440&idx=1&sn=cad95cdfb1ebe442dd25fd84fed3692b&chksm=fa8c2b7dcdfba26bb3b094acf30903ff6c38925af5d048b3a54aac91007211a3da7a59ca7638&scene=27#wechat_redirect)
 
 启明星辰网络空间安全学院以国家网络安全事业发展为使命，依托启明星辰集团多年的技术沉淀及实践积累，提供网络安全人才体系构建与信息安全技术及能力提升教育培训，为建设网络强国提供有力的人才支撑。
 
@@ -38,19 +38,6 @@
 ---
 
 
-### [大学生网络安全尖锋训练营](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
-
-[:chart_with_upwards_trend:【0/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
-
-[:camera_flash:【2022-09-28 09:00:59】](https://mp.weixin.qq.com/s?__biz=MzUzODkwMDMxNA==&mid=2247504203&idx=1&sn=c2c03e0c9b115ae27264d7d5d1b9c81f&chksm=fad2337ecda5ba68db373540f2b1fe7323101c847bc7482af1160a91d59f5404cfdeb3f153b7&scene=27#wechat_redirect)
-
-百所高校、百家用人单位、百名尖锋导师，携手打造定制化人才培养模式，通过导师制职业规划和封闭式岗位实训，补足知识短板、提高实战能力，培养创新型、实用型网络安全尖锋人才。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_b54960a6ea07" alt="" />
-
----
-
-
 ### [合天网络安全](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyNzU3Mzg2NQ==)
 
 [:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyNzU3Mzg2NQ==)
@@ -60,6 +47,19 @@
 网安学院拥有专业教学服务、就业指导，课程配套靶场实战平台（www.hetianlab.com），学员学完就练，切实提升实践动手能力；课程涵盖Web安全、软件安全、网络安全等网安各个相关方面。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a6ba8f92d07d" alt="" />
+
+---
+
+
+### [大学生网络安全尖锋训练营](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
+
+[:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
+
+[:camera_flash:【2022-09-28 09:00:59】](https://mp.weixin.qq.com/s?__biz=MzUzODkwMDMxNA==&mid=2247504203&idx=1&sn=c2c03e0c9b115ae27264d7d5d1b9c81f&chksm=fad2337ecda5ba68db373540f2b1fe7323101c847bc7482af1160a91d59f5404cfdeb3f153b7&scene=27#wechat_redirect)
+
+百所高校、百家用人单位、百名尖锋导师，携手打造定制化人才培养模式，通过导师制职业规划和封闭式岗位实训，补足知识短板、提高实战能力，培养创新型、实用型网络安全尖锋人才。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_b54960a6ea07" alt="" />
 
 ---
 
@@ -393,7 +393,7 @@ Birkenwald安全团队 --来自哈尔滨理工大学
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NjUzODYyNw==)
 
-[:camera_flash:【2022-06-17 23:50:55】](https://mp.weixin.qq.com/s?__biz=Mzg4NjUzODYyNw==&mid=2247483984&idx=1&sn=b07f95011ad6899cfcb1e1f888e573cf&chksm=cf996abcf8eee3aa625761dcbb4446cb0957bfa1d1e01ab8f4f046c87015a8a95c1af9a5e9af&scene=27#wechat_redirect)
+[:camera_flash:【2022-09-29 12:50:31】](https://mp.weixin.qq.com/s?__biz=Mzg4NjUzODYyNw==&mid=2247483992&idx=1&sn=a8733cb5b44cfff520730cf89f71e429&chksm=cf996ab4f8eee3a2ae9b99cd7ba03b46c89739455fdaffb509c12b6e4faaa21158ec3d4192e3&scene=27#wechat_redirect)
 
 南宁职业技术学院网络安全技术协会
 

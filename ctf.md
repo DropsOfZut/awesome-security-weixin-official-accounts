@@ -1,26 +1,13 @@
 
 ### [寰宇卫士](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
 
-[:chart_with_upwards_trend:【0/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
+[:chart_with_upwards_trend:【0/19/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
 
-[:camera_flash:【2022-09-28 16:32:26】](https://mp.weixin.qq.com/s?__biz=MzIwMzU0NDY5OA==&mid=2247494702&idx=1&sn=396ded53294d6eebca80c8dfd3449ed2&chksm=96cf6d3ba1b8e42d5be6f26b252aef5f7273381a9d02f6263b10dbbe7860f72d735c62a61c1d&scene=27#wechat_redirect)
+[:camera_flash:【2022-09-29 11:04:36】](https://mp.weixin.qq.com/s?__biz=MzIwMzU0NDY5OA==&mid=2247494724&idx=1&sn=b5e9443cc672f698ceebfb912e3d79dd&chksm=96cf6d51a1b8e4470ee048c45f7c88601c52bf1148b0a3ca002397659b3272b57b1bc15eab3d&scene=27#wechat_redirect)
 
 寰宇卫士综合安全咨询、安全服务、解决方案、认证培训、产品研发等信息安全多元化产业链为一体。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_7aa3785c2fbe" alt="" />
-
----
-
-
-### [XCTF联赛](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
-
-[:chart_with_upwards_trend:【0/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
-
-[:camera_flash:【2022-09-18 16:11:47】](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247507710&idx=1&sn=d4772858c211effaa8b94025c055ecc9&chksm=a6872cc491f0a5d241879f080c2486e30be80bf8a85a8aa6b4079270c4a4f7d727c50f77b925&scene=27#wechat_redirect)
-
-国内最早、亚洲最大的网络攻防联赛。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_3d7c7f90f79f" alt="" />
 
 ---
 
@@ -47,6 +34,19 @@
 X是未知，更是无限，邀您一道创造、见证和实现X-Plan，北斗逐光，安全有恒，未来无界，共创数字安全未来！
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_b0a5876d02ea" alt="" />
+
+---
+
+
+### [XCTF联赛](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
+
+[:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
+
+[:camera_flash:【2022-09-18 16:11:47】](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247507710&idx=1&sn=d4772858c211effaa8b94025c055ecc9&chksm=a6872cc491f0a5d241879f080c2486e30be80bf8a85a8aa6b4079270c4a4f7d727c50f77b925&scene=27#wechat_redirect)
+
+国内最早、亚洲最大的网络攻防联赛。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_3d7c7f90f79f" alt="" />
 
 ---
 
@@ -92,7 +92,7 @@ X是未知，更是无限，邀您一道创造、见证和实现X-Plan，北斗�
 
 ### [BugKu](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3ODQ2MDMxMg==)
 
-[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3ODQ2MDMxMg==)
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3ODQ2MDMxMg==)
 
 [:camera_flash:【2022-09-01 11:37:24】](https://mp.weixin.qq.com/s?__biz=MzU3ODQ2MDMxMg==&mid=2247485371&idx=1&sn=f3f87b7ddf3151491e0b7ae42b56adf5&chksm=fd74484cca03c15a6954fc1b2a63da5c98fbf4ec3be32b13294a3e06d8c3491606226d0ea69a&scene=27&key=e8677526fb452b6de28fd1f5818579a6a8603b646a1c55a44962b16d067da171975ebd9e1b2954d0c89386bfba7110beb3c66bc64b079ddc0dd612cbde72fbd24ecf90258211f4485efed848d37b26312adff1d8a0591328070c1446221c35d60f19b394ab28a5cda8908486288d4b5cbb8e6a4245f5fee1b6d4b2fd12e92365&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+Server+2016+x64&version=63070517&lang=zh_CN&session_us=gh_cbab6d7b8e9b&exportkey=A7kaI0OTYoJIORK1qA4jgmA%3D&acctmode=0&pass_ticket=xDxsmAAWYSe3DoxRqztGuQsgsbsFGWT2J%2FoOMf8mAeamFYeZwDs22tMD2DWLTCq7&wx_header=0&fontgear=2&scene=27#wechat_redirect)
 
