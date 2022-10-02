@@ -1,7 +1,7 @@
 
 ### [寰宇卫士](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
 
-[:chart_with_upwards_trend:【0/21/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
+[:chart_with_upwards_trend:【0/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
 
 [:camera_flash:【2022-09-30 14:59:14】](https://mp.weixin.qq.com/s?__biz=MzIwMzU0NDY5OA==&mid=2247494760&idx=1&sn=ac4a792f342060b6435ca4a3022b7799&chksm=96cf6d7da1b8e46b7d1341aaa2542bb8e454ff3bf2ed63420e0242fd3073141f14c0e0097a49&scene=27#wechat_redirect)
 
@@ -86,19 +86,6 @@ X是未知，更是无限，邀您一道创造、见证和实现X-Plan，北斗�
 1990年，哈勃望远镜（Hubble Space Telescope）发射升空，开启了人类对宇宙空间的崭新探索。 现在，Pwnhub的出现，将引领那些对网络安全感兴趣的人们探索“0 1”世界中的无限奥秘。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_2e9e965bad75" alt="" />
-
----
-
-
-### [BugKu](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3ODQ2MDMxMg==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3ODQ2MDMxMg==)
-
-[:camera_flash:【2022-09-01 11:37:24】](https://mp.weixin.qq.com/s?__biz=MzU3ODQ2MDMxMg==&mid=2247485371&idx=1&sn=f3f87b7ddf3151491e0b7ae42b56adf5&chksm=fd74484cca03c15a6954fc1b2a63da5c98fbf4ec3be32b13294a3e06d8c3491606226d0ea69a&scene=27&key=e8677526fb452b6de28fd1f5818579a6a8603b646a1c55a44962b16d067da171975ebd9e1b2954d0c89386bfba7110beb3c66bc64b079ddc0dd612cbde72fbd24ecf90258211f4485efed848d37b26312adff1d8a0591328070c1446221c35d60f19b394ab28a5cda8908486288d4b5cbb8e6a4245f5fee1b6d4b2fd12e92365&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+Server+2016+x64&version=63070517&lang=zh_CN&session_us=gh_cbab6d7b8e9b&exportkey=A7kaI0OTYoJIORK1qA4jgmA%3D&acctmode=0&pass_ticket=xDxsmAAWYSe3DoxRqztGuQsgsbsFGWT2J%2FoOMf8mAeamFYeZwDs22tMD2DWLTCq7&wx_header=0&fontgear=2&scene=27#wechat_redirect)
-
-关注网络安全，和你一起分享安全技术。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_d10dfd684f1b" alt="" />
 
 ---
 
@@ -268,6 +255,19 @@ ctf技术交流。
 CTF协会
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_1e4280acde68" alt="" />
+
+---
+
+
+### [BugKu](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3ODQ2MDMxMg==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3ODQ2MDMxMg==)
+
+[:camera_flash:【2022-09-01 11:37:24】](https://mp.weixin.qq.com/s?__biz=MzU3ODQ2MDMxMg==&mid=2247485371&idx=1&sn=f3f87b7ddf3151491e0b7ae42b56adf5&chksm=fd74484cca03c15a6954fc1b2a63da5c98fbf4ec3be32b13294a3e06d8c3491606226d0ea69a&scene=27&key=e8677526fb452b6de28fd1f5818579a6a8603b646a1c55a44962b16d067da171975ebd9e1b2954d0c89386bfba7110beb3c66bc64b079ddc0dd612cbde72fbd24ecf90258211f4485efed848d37b26312adff1d8a0591328070c1446221c35d60f19b394ab28a5cda8908486288d4b5cbb8e6a4245f5fee1b6d4b2fd12e92365&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+Server+2016+x64&version=63070517&lang=zh_CN&session_us=gh_cbab6d7b8e9b&exportkey=A7kaI0OTYoJIORK1qA4jgmA%3D&acctmode=0&pass_ticket=xDxsmAAWYSe3DoxRqztGuQsgsbsFGWT2J%2FoOMf8mAeamFYeZwDs22tMD2DWLTCq7&wx_header=0&fontgear=2&scene=27#wechat_redirect)
+
+关注网络安全，和你一起分享安全技术。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_d10dfd684f1b" alt="" />
 
 ---
 

@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【0/14/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
 
-[:camera_flash:【2022-09-29 16:50:50】](https://mp.weixin.qq.com/s?__biz=MzUzNDg0NTc1NA==&mid=2247494440&idx=1&sn=cad95cdfb1ebe442dd25fd84fed3692b&chksm=fa8c2b7dcdfba26bb3b094acf30903ff6c38925af5d048b3a54aac91007211a3da7a59ca7638&scene=27#wechat_redirect)
+[:camera_flash:【2022-10-01 09:30:12】](https://mp.weixin.qq.com/s?__biz=MzUzNDg0NTc1NA==&mid=2247494441&idx=1&sn=336c67464e1c7bf3e45cd0ab8ddfa561&chksm=fa8c2b7ccdfba26ab1f1e6cddbfe381d8297434d1e0003e644a46fd70ad495bc2f8c8b9c168a&scene=27#wechat_redirect)
 
 启明星辰网络空间安全学院以国家网络安全事业发展为使命，依托启明星辰集团多年的技术沉淀及实践积累，提供网络安全人才体系构建与信息安全技术及能力提升教育培训，为建设网络强国提供有力的人才支撑。
 
@@ -68,7 +68,7 @@
 
 [:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
 
-[:camera_flash:【2022-09-28 09:00:59】](https://mp.weixin.qq.com/s?__biz=MzUzODkwMDMxNA==&mid=2247504203&idx=1&sn=c2c03e0c9b115ae27264d7d5d1b9c81f&chksm=fad2337ecda5ba68db373540f2b1fe7323101c847bc7482af1160a91d59f5404cfdeb3f153b7&scene=27#wechat_redirect)
+[:camera_flash:【2022-10-01 08:30:04】](https://mp.weixin.qq.com/s?__biz=MzUzODkwMDMxNA==&mid=2247504208&idx=1&sn=5f81887f51a0ff7066e6bcd872b2691f&chksm=fad23365cda5ba7390a39df3d2dc6ed78b7674ce81033f812f3e3ef930a9d9e8684873e02b2e&scene=27#wechat_redirect)
 
 百所高校、百家用人单位、百名尖锋导师，携手打造定制化人才培养模式，通过导师制职业规划和封闭式岗位实训，补足知识短板、提高实战能力，培养创新型、实用型网络安全尖锋人才。
 
@@ -99,19 +99,6 @@
 欢迎加入齐鲁师范学院网络安全社团
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0c9ae293eb8e" alt="" />
-
----
-
-
-### [网络安全学生社团](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzNDcyMDM1MQ==)
-
-[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzNDcyMDM1MQ==)
-
-[:camera_flash:【2022-09-03 05:00:30】](https://mp.weixin.qq.com/s?__biz=MzIzNDcyMDM1MQ==&mid=2247483845&idx=1&sn=925babc671aecdd0f8ee30fa78d08b25&chksm=e8f35cf5df84d5e3afd2e5f4f45168448b7735c33d2704d416878f84d5328d59cd944bd90039&scene=27#wechat_redirect)
-
-校企合作网络安全学生社团
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f587b147a938" alt="" />
 
 ---
 
@@ -155,15 +142,15 @@
 ---
 
 
-### [NISL实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxMTEwOTA3OA==)
+### [网络安全学生社团](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzNDcyMDM1MQ==)
 
-[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxMTEwOTA3OA==)
+[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzNDcyMDM1MQ==)
 
-[:camera_flash:【2022-09-28 13:14:42】](https://mp.weixin.qq.com/s?__biz=MzUxMTEwOTA3OA==&mid=2247484039&idx=1&sn=affe18eca2b839b02116158209262cbf&chksm=f979f03ece0e7928e0e6ebc8893ddd36c96b6af13fb582b9aee6866e2ee03d54504db307e869&scene=27#wechat_redirect)
+[:camera_flash:【2022-09-03 05:00:30】](https://mp.weixin.qq.com/s?__biz=MzIzNDcyMDM1MQ==&mid=2247483845&idx=1&sn=925babc671aecdd0f8ee30fa78d08b25&chksm=e8f35cf5df84d5e3afd2e5f4f45168448b7735c33d2704d416878f84d5328d59cd944bd90039&scene=27#wechat_redirect)
 
-清华大学网络与信息安全实验室(NISL@THU)，专注于网络、系统、应用、人工智能安全教学与研究，在国际四大安全会议发表三十余篇论文，成果在业界产生了广泛影响力。孕育了蓝莲花、紫荆花等知名战队，发起了网安国际学术论坛InForSec。
+校企合作网络安全学生社团
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_52677a4545d1" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f587b147a938" alt="" />
 
 ---
 
@@ -211,7 +198,7 @@
 
 [:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxNDU2ODg3Mw==)
 
-[:camera_flash:【2022-09-16 17:00:48】](https://mp.weixin.qq.com/s?__biz=MzIxNDU2ODg3Mw==&mid=2247484967&idx=1&sn=bf096f02bcf61543b05a22593bd32fe9&chksm=97a4dce1a0d355f72f1a7d12ed1764e74008b290cce8dd6e944ec8495dd6aeda5acc01751a87&scene=27&key=42fda77b115ac87d0b28b8862425984c27e0c7fed2598879dbfd56d2c37ef6c47852d3db83e33578c06a1f4a3efc813f3331931b35479129fd29b50c0a4fc26a3c317ede4d6542811757660a631d4b5d38edff7452d1e4a7038d5f6f29ce8f39ff72221efde1ea3a6ab433611acbf163e65504ca1ddd995632ca671bb25979a6&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+Server+2016+x64&version=63070517&lang=zh_CN&session_us=gh_857c90e961dc&exportkey=AxgRKyJtF9Z118p9XzY616g%3D&acctmode=0&pass_ticket=%2FCxJciBMgGN94DeRt8iXnLr6Xwld76EgPpdYSGnfvm3YltQ%2BMTAF8Mhw41CYnnCx&wx_header=0&fontgear=2&scene=27#wechat_redirect)
+[:camera_flash:【2022-10-01 19:00:08】](https://mp.weixin.qq.com/s?__biz=MzIxNDU2ODg3Mw==&mid=2247484989&idx=1&sn=3795997bdf92f6249c173b18a9e00de2&chksm=97a4dcfba0d355ed152185ee8d1b981d1775065c16c3ad36c46252e1f64802f6575d53785ccd&scene=27#wechat_redirect)
 
 杭州电子科技大学Vidar-Team (原信息安全协会HDUISA&amp;网络空间安全协会)  消息助手
 
@@ -268,6 +255,19 @@
 深圳市网安计算机网络安全培训中心是深圳市计算机网络公共安全协会设立的下属培训机构。培训内容包括：CISP-PTE/PTS系列课程、CISP-IRE/IRS系列课程；网络攻防技术系列课程；网络安全等级保护及风险评估系列课程等网络安全相关课程。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_94f04a96b1ca" alt="" />
+
+---
+
+
+### [NISL实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxMTEwOTA3OA==)
+
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxMTEwOTA3OA==)
+
+[:camera_flash:【2022-09-28 13:14:42】](https://mp.weixin.qq.com/s?__biz=MzUxMTEwOTA3OA==&mid=2247484039&idx=1&sn=affe18eca2b839b02116158209262cbf&chksm=f979f03ece0e7928e0e6ebc8893ddd36c96b6af13fb582b9aee6866e2ee03d54504db307e869&scene=27#wechat_redirect)
+
+清华大学网络与信息安全实验室(NISL@THU)，专注于网络、系统、应用、人工智能安全教学与研究，在国际四大安全会议发表三十余篇论文，成果在业界产生了广泛影响力。孕育了蓝莲花、紫荆花等知名战队，发起了网安国际学术论坛InForSec。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_52677a4545d1" alt="" />
 
 ---
 
