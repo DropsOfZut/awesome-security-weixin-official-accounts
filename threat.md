@@ -1,9 +1,9 @@
 
 ### [情报分析师](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3Mjc1MTkwOA==)
 
-[:chart_with_upwards_trend:【40/43/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3Mjc1MTkwOA==)
+[:chart_with_upwards_trend:【69/72/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3Mjc1MTkwOA==)
 
-[:camera_flash:【2022-10-01 19:58:42】](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650517775&idx=1&sn=aa013542820e3b70681b181c5e726e94&chksm=87169f44b0611652ca755094ff2c98eb0473d266b553377183a10f57e9471854b3777de54db9&scene=27#wechat_redirect)
+[:camera_flash:【2022-10-02 11:40:46】](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650517808&idx=1&sn=3929cd1d8b8c3680066efe754db8111e&chksm=87169f7bb061166df8a280fb6eb42792ed2daf9bd0a8675b7b8939b3cd288947391f8d5cfe62&scene=27#wechat_redirect)
 
 POLICE教授团队：聚焦情报安全与警务！关注情报动态，制定情报标准，开展情报培训，促进情报协作，传播情报文化，优化情报生态，共建情报分析师职业共同体。
 
@@ -14,9 +14,9 @@ POLICE教授团队：聚焦情报安全与警务！关注情报动态，制定�
 
 ### [丁爸情报分析师的工具箱](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MTE0NTE3Mw==)
 
-[:chart_with_upwards_trend:【25/35/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MTE0NTE3Mw==)
+[:chart_with_upwards_trend:【24/34/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MTE0NTE3Mw==)
 
-[:camera_flash:【2022-09-30 15:36:47】](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651132558&idx=1&sn=3018372e3ec8ca6fe7c411e05bfcef0e&chksm=f1af65b4c6d8eca2da21c2721f6d90747ae26d15169847bae897c0585b326e3d4350269d5df5&scene=27#wechat_redirect)
+[:camera_flash:【2022-10-03 07:17:15】](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651132608&idx=1&sn=e08a8c05db9a02f779343328ad5b0e1e&chksm=f1af65fac6d8ececa509bc64a805b78d84a028987218f92c52ca71c16af24b1f6507708d6759&scene=27#wechat_redirect)
 
 每天为大家精选各类情报分析相关的资源、工具、技巧和资讯，努力成为情报分析师必备的工具箱。外挂机器人“小丁丁”还能陪您聊天，给您查航班、查列车、查天气、查酒店、查美食、查股票、回答您的提问等等。
 
@@ -27,7 +27,7 @@ POLICE教授团队：聚焦情报安全与警务！关注情报动态，制定�
 
 ### [无糖反网络犯罪研究中心](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxMzkzNDA1Mg==)
 
-[:chart_with_upwards_trend:【21/27/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxMzkzNDA1Mg==)
+[:chart_with_upwards_trend:【20/26/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxMzkzNDA1Mg==)
 
 [:camera_flash:【2022-09-30 18:30:02】](https://mp.weixin.qq.com/s?__biz=MzAxMzkzNDA1Mg==&mid=2247500714&idx=1&sn=9ba1c2f5aaf22e0a34169f6de89d79a9&chksm=9b998f21acee0637583261b10f2c533d6754dd6c639fc4085a67341dbb9a3078e403cdd207f6&scene=27#wechat_redirect)
 
@@ -66,7 +66,7 @@ ThreatBook微步在线，中国新一代网络安全代表企业，网络威胁�
 
 ### [奇安信威胁情报中心](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MDc2MDA4OA==)
 
-[:chart_with_upwards_trend:【6/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MDc2MDA4OA==)
+[:chart_with_upwards_trend:【5/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MDc2MDA4OA==)
 
 [:camera_flash:【2022-10-01 09:00:55】](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247504004&idx=1&sn=2cabe16d346fa099b3badf72380972b7&chksm=ea6627f3dd11aee5d7729c11fe0c6d363525c658e0120e47c072173aaedc9f52defb206f8c3b&scene=27#wechat_redirect)
 
@@ -194,6 +194,19 @@ Seebug，原 Sebug 漏洞平台，洞悉漏洞，让你掌握第一手漏洞情�
 ---
 
 
+### [赛博攻防悟道](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MDA1MjcxMw==)
+
+[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MDA1MjcxMw==)
+
+[:camera_flash:【2022-09-23 19:20:05】](https://mp.weixin.qq.com/s?__biz=MzI1MDA1MjcxMw==&mid=2649907842&idx=1&sn=875f0f4361b06fa6c207437b2e245713&chksm=f18eeb84c6f96292615e994546391ad04f13d0daca0b66c8cd8a47d616368e5bcc5969eedea5&scene=27#wechat_redirect)
+
+商务合作或加入「先进攻防社群」，请联系@DarkGro0t 或 @Betcha-X ，请注明：商务合作或加入社群。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e4eaed342c88" alt="" />
+
+---
+
+
 ### [福韵开源情报研究](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NTg4Mzc0MA==)
 
 [:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NTg4Mzc0MA==)
@@ -216,19 +229,6 @@ Seebug，原 Sebug 漏洞平台，洞悉漏洞，让你掌握第一手漏洞情�
 二道情报贩子，专注任何情报领域。上知天文,下知地理,中晓人和,明阴阳,懂八卦,晓奇门,知遁甲,运筹帷幄之中,决胜千里之外,自比管仲乐毅之贤,抱膝危坐,笑傲风月,未出茅庐,先定三分天下。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f0f88d5b70e3" alt="" />
-
----
-
-
-### [赛博攻防悟道](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MDA1MjcxMw==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MDA1MjcxMw==)
-
-[:camera_flash:【2022-09-23 19:20:05】](https://mp.weixin.qq.com/s?__biz=MzI1MDA1MjcxMw==&mid=2649907842&idx=1&sn=875f0f4361b06fa6c207437b2e245713&chksm=f18eeb84c6f96292615e994546391ad04f13d0daca0b66c8cd8a47d616368e5bcc5969eedea5&scene=27#wechat_redirect)
-
-商务合作或加入「先进攻防社群」，请联系@DarkGro0t 或 @Betcha-X ，请注明：商务合作或加入社群。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e4eaed342c88" alt="" />
 
 ---
 

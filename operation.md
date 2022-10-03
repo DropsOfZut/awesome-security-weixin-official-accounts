@@ -1,9 +1,9 @@
 
 ### [系统安全运维](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NjE0NDc5OQ==)
 
-[:chart_with_upwards_trend:【0/76/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NjE0NDc5OQ==)
+[:chart_with_upwards_trend:【0/73/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NjE0NDc5OQ==)
 
-[:camera_flash:【2022-10-01 08:08:24】](https://mp.weixin.qq.com/s?__biz=Mzk0NjE0NDc5OQ==&mid=2247510678&idx=1&sn=bffc507e43c3bd28de33cf0394275a2c&chksm=c30879e6f47ff0f0e1348a44fb5f0f6bc0def3211622c44e24f6b2ee5d50f7853dfa5f4158a2&scene=27#wechat_redirect)
+[:camera_flash:【2022-10-02 22:43:28】](https://mp.weixin.qq.com/s?__biz=Mzk0NjE0NDc5OQ==&mid=2247510687&idx=1&sn=ef0d64fa418595ef22c3d4a29323fe86&chksm=c30879eff47ff0f9b3831c51e141d181229d5de1a7a29699dce18a1b6d51b4f105271fe1f43e&scene=27#wechat_redirect)
 
 未知攻 焉知防 攻防兼备
 
@@ -14,7 +14,7 @@
 
 ### [Linux中国](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ4MjYwMQ==)
 
-[:chart_with_upwards_trend:【50/52/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ4MjYwMQ==)
+[:chart_with_upwards_trend:【47/49/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ4MjYwMQ==)
 
 [:camera_flash:【2022-09-30 15:53:31】](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664667181&idx=1&sn=29d5479aaaac4d1c6a8ce243d9c2a323&chksm=bdcfa36b8ab82a7d918677a664e97544136a6f13cf90b3ae05cc6dfd37013b5db6d14080cf81&scene=27#wechat_redirect)
 
@@ -27,9 +27,9 @@
 
 ### [kali黑客笔记](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzIwNTY1OA==)
 
-[:chart_with_upwards_trend:【17/17/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzIwNTY1OA==)
+[:chart_with_upwards_trend:【16/16/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzIwNTY1OA==)
 
-[:camera_flash:【2022-09-30 08:00:20】](https://mp.weixin.qq.com/s?__biz=MzkxMzIwNTY1OA==&mid=2247491342&idx=1&sn=eaf0aeac86692d6accacb3030a1b436d&chksm=c1006ffbf677e6ed5bb137a8c59011fe09dfb6a1ae38a99aec15d57b38c7fb66d056741160c0&scene=27#wechat_redirect)
+[:camera_flash:【2022-10-02 13:44:31】](https://mp.weixin.qq.com/s?__biz=MzkxMzIwNTY1OA==&mid=2247491356&idx=1&sn=bd5cf85d28c4a79266349742ade5f96b&chksm=c1006fe9f677e6ff556fefa2297ac154261a6522761ada65a19583cf946f12d72a81b53f6f12&scene=27#wechat_redirect)
 
 kali论坛官方唯一公众号，主要发布过于小白学习Kali Linux相关安全学习知识。Debian Ubuntu Centos等操作系统的安全和运维。以及树莓派 ESP8266 DIY单片机等相关领域的文章，欢迎大家关注我！
 
@@ -40,7 +40,7 @@ kali论坛官方唯一公众号，主要发布过于小白学习Kali Linux相关
 
 ### [Docker中文社区](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1NzI5NDM4Mw==)
 
-[:chart_with_upwards_trend:【0/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1NzI5NDM4Mw==)
+[:chart_with_upwards_trend:【0/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1NzI5NDM4Mw==)
 
 [:camera_flash:【2022-09-30 08:00:39】](https://mp.weixin.qq.com/s?__biz=MzI1NzI5NDM4Mw==&mid=2247493498&idx=1&sn=29950a312a498e47176bf819388762f5&chksm=ea1b0e3add6c872c72a474e258821bda0a1f44ed4761b79a08368d55b583a9c81473e5426799&scene=27#wechat_redirect)
 
@@ -66,7 +66,7 @@ BAT 技术专家分享开发、架构、运维相关干货！
 
 ### [云计算和网络安全技术实践](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3MjM5MDc2Nw==)
 
-[:chart_with_upwards_trend:【3/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3MjM5MDc2Nw==)
+[:chart_with_upwards_trend:【4/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3MjM5MDc2Nw==)
 
 [:camera_flash:【2022-09-25 20:18:21】](https://mp.weixin.qq.com/s?__biz=MzA3MjM5MDc2Nw==&mid=2650747159&idx=1&sn=e702865f81fc84895dbec8f0ae740d05&chksm=87149017b0631901ed63c36ef21b0a3919b272dc3d95a347afad038eafc635c8503e9b7ba18f&scene=27#wechat_redirect)
 
@@ -79,7 +79,7 @@ BAT 技术专家分享开发、架构、运维相关干货！
 
 ### [网络运维渗透](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3MjMxODUwNg==)
 
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3MjMxODUwNg==)
+[:chart_with_upwards_trend:【2/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3MjMxODUwNg==)
 
 [:camera_flash:【2022-09-22 13:08:46】](https://mp.weixin.qq.com/s?__biz=MzA3MjMxODUwNg==&mid=2247485433&idx=1&sn=d68c99e93b79769b201a9ae99c7cb511&chksm=9f216cbca856e5aacde2e0a5164123bd6586c7ecca56e3e0e5edd5193de1c0a49c1fa66cb3ab&scene=27#wechat_redirect)
 
