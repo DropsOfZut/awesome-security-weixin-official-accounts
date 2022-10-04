@@ -64,9 +64,22 @@
 ---
 
 
+### [珠天PearlSky](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyODMyODMyOA==)
+
+[:chart_with_upwards_trend:【3/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyODMyODMyOA==)
+
+[:camera_flash:【2022-09-23 19:42:23】](https://mp.weixin.qq.com/s?__biz=MzkyODMyODMyOA==&mid=2247485762&idx=1&sn=4f8f618aac8983e29c8a7465c5ff00bf&chksm=c21b36a5f56cbfb3cc76311ac465918b5763133ed446afd359fbc0ee524f6f91ad87089cca57&scene=27#wechat_redirect)
+
+珠天PearlSky，意为珠科安全的一片天。珠天的队员都来自于珠海科技学院热爱钻研网络安全技术的同学。我们希望我们能够让更多人了解网络安全，更欢迎各位同学加入我们一起交流学习。本公众号会发布一些学习心得，经验总结等等一系列文章。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a4b0a923e487" alt="" />
+
+---
+
+
 ### [大学生网络安全尖锋训练营](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
 
-[:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
+[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
 
 [:camera_flash:【2022-10-01 08:30:04】](https://mp.weixin.qq.com/s?__biz=MzUzODkwMDMxNA==&mid=2247504208&idx=1&sn=5f81887f51a0ff7066e6bcd872b2691f&chksm=fad23365cda5ba7390a39df3d2dc6ed78b7674ce81033f812f3e3ef930a9d9e8684873e02b2e&scene=27#wechat_redirect)
 
@@ -77,15 +90,15 @@
 ---
 
 
-### [珠天PearlSky](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyODMyODMyOA==)
+### [清华大学学生网络安全技术协会](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5MjUwOTY4Ng==)
 
-[:chart_with_upwards_trend:【3/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyODMyODMyOA==)
+[:chart_with_upwards_trend:【2/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5MjUwOTY4Ng==)
 
-[:camera_flash:【2022-09-23 19:42:23】](https://mp.weixin.qq.com/s?__biz=MzkyODMyODMyOA==&mid=2247485762&idx=1&sn=4f8f618aac8983e29c8a7465c5ff00bf&chksm=c21b36a5f56cbfb3cc76311ac465918b5763133ed446afd359fbc0ee524f6f91ad87089cca57&scene=27#wechat_redirect)
+[:camera_flash:【2022-09-22 12:14:51】](https://mp.weixin.qq.com/s?__biz=MzA5MjUwOTY4Ng==&mid=2651804756&idx=1&sn=1f895c91a124f0538ecf12f2fd63ece5&chksm=8b97f0cdbce079db9db7c3fff57328fc0ef29a2588bf597863c1050525b7d77d6f113d727faa&scene=27#wechat_redirect)
 
-珠天PearlSky，意为珠科安全的一片天。珠天的队员都来自于珠海科技学院热爱钻研网络安全技术的同学。我们希望我们能够让更多人了解网络安全，更欢迎各位同学加入我们一起交流学习。本公众号会发布一些学习心得，经验总结等等一系列文章。
+清华大学学生网络安全技术协会信息推送和资源平台
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a4b0a923e487" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_26798762d3e1" alt="" />
 
 ---
 
@@ -116,19 +129,6 @@
 ---
 
 
-### [浙大网安](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5NDczNDc4NA==)
-
-[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5NDczNDc4NA==)
-
-[:camera_flash:【2022-09-23 19:33:10】](https://mp.weixin.qq.com/s?__biz=Mzg5NDczNDc4NA==&mid=2247490942&idx=1&sn=cc8df157753d7e11b5e80867f91a7bb1&chksm=c01a45d1f76dccc718d6e883d070e6d4c41f52491555065fc96b358bbbb73ce8802446b75913&scene=27#wechat_redirect)
-
-浙江大学网络空间安全学院/浙江大学网络空间安全研究中心
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e603b55057e7" alt="" />
-
----
-
-
 ### [TJ网络安全与电子数据取证实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2NTY2MDAyMw==)
 
 [:chart_with_upwards_trend:【1/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2NTY2MDAyMw==)
@@ -155,15 +155,15 @@
 ---
 
 
-### [清华大学学生网络安全技术协会](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5MjUwOTY4Ng==)
+### [浙大网安](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5NDczNDc4NA==)
 
-[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5MjUwOTY4Ng==)
+[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5NDczNDc4NA==)
 
-[:camera_flash:【2022-09-22 12:14:51】](https://mp.weixin.qq.com/s?__biz=MzA5MjUwOTY4Ng==&mid=2651804756&idx=1&sn=1f895c91a124f0538ecf12f2fd63ece5&chksm=8b97f0cdbce079db9db7c3fff57328fc0ef29a2588bf597863c1050525b7d77d6f113d727faa&scene=27#wechat_redirect)
+[:camera_flash:【2022-10-03 11:36:29】](https://mp.weixin.qq.com/s?__biz=Mzg5NDczNDc4NA==&mid=2247490978&idx=1&sn=79528e69eb3fb09c4484fe4b17f77412&chksm=c01a450df76dcc1b278cb5f799d930f830d75d616663a329dac1ade519d9e36d446e183ede46&scene=27#wechat_redirect)
 
-清华大学学生网络安全技术协会信息推送和资源平台
+浙江大学网络空间安全学院/浙江大学网络空间安全研究中心
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_26798762d3e1" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e603b55057e7" alt="" />
 
 ---
 
@@ -177,19 +177,6 @@
 湖南农业大学蝰蛇安全实验室
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_638eab2e92c7" alt="" />
-
----
-
-
-### [谛听ditecting](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzQyOTU0Nw==)
-
-[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzQyOTU0Nw==)
-
-[:camera_flash:【2022-09-03 10:36:52】](https://mp.weixin.qq.com/s?__biz=MzU3MzQyOTU0Nw==&mid=2247487934&idx=1&sn=b4b569a0c28a77e78ec49405b6820092&chksm=fcc093facbb71aeccb4c0a17b91286b57b461b9669315fc6640c8de10af24a67f34607d22999&scene=27#wechat_redirect)
-
-东北大学“谛听”网络安全团队
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ce3e0df31e50" alt="" />
 
 ---
 
@@ -259,19 +246,6 @@
 ---
 
 
-### [网络安全学生社团](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzNDcyMDM1MQ==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzNDcyMDM1MQ==)
-
-[:camera_flash:【2022-09-03 05:00:30】](https://mp.weixin.qq.com/s?__biz=MzIzNDcyMDM1MQ==&mid=2247483845&idx=1&sn=925babc671aecdd0f8ee30fa78d08b25&chksm=e8f35cf5df84d5e3afd2e5f4f45168448b7735c33d2704d416878f84d5328d59cd944bd90039&scene=27#wechat_redirect)
-
-校企合作网络安全学生社团
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f587b147a938" alt="" />
-
----
-
-
 ### [NISL实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxMTEwOTA3OA==)
 
 [:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxMTEwOTA3OA==)
@@ -320,6 +294,19 @@ Birkenwald安全团队 --来自哈尔滨理工大学
 广东外语外贸大学网络安全实验室信息推送和资源平台
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8176da819e03" alt="" />
+
+---
+
+
+### [谛听ditecting](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzQyOTU0Nw==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzQyOTU0Nw==)
+
+[:camera_flash:【2022-09-03 10:36:52】](https://mp.weixin.qq.com/s?__biz=MzU3MzQyOTU0Nw==&mid=2247487934&idx=1&sn=b4b569a0c28a77e78ec49405b6820092&chksm=fcc093facbb71aeccb4c0a17b91286b57b461b9669315fc6640c8de10af24a67f34607d22999&scene=27#wechat_redirect)
+
+东北大学“谛听”网络安全团队
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ce3e0df31e50" alt="" />
 
 ---
 
@@ -580,6 +567,19 @@ Covteam工作室，成立于2005年。是以西华大学在校本科生研究生
 河北网络安全高校联盟
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8937984657cd" alt="" />
+
+---
+
+
+### [网络安全学生社团](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzNDcyMDM1MQ==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzNDcyMDM1MQ==)
+
+[:camera_flash:【2022-09-03 05:00:30】](https://mp.weixin.qq.com/s?__biz=MzIzNDcyMDM1MQ==&mid=2247483845&idx=1&sn=925babc671aecdd0f8ee30fa78d08b25&chksm=e8f35cf5df84d5e3afd2e5f4f45168448b7735c33d2704d416878f84d5328d59cd944bd90039&scene=27#wechat_redirect)
+
+校企合作网络安全学生社团
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f587b147a938" alt="" />
 
 ---
 
