@@ -1,9 +1,9 @@
 
 ### [计算机与网络安全](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTk4MDE2MA==)
 
-[:chart_with_upwards_trend:【1/168/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTk4MDE2MA==)
+[:chart_with_upwards_trend:【1/169/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTk4MDE2MA==)
 
-[:camera_flash:【2022-10-03 10:19:16】](https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655181878&idx=1&sn=e9d9c00ddbc5bdee87763588126ba8f7&chksm=bc8541d98bf2c8cfdfab096176fd8202e9134a88fec7ffa24f6ddeb37cf93e41e99b454940ad&scene=27#wechat_redirect)
+[:camera_flash:【2022-10-04 11:10:55】](https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655181881&idx=1&sn=57adcde012d183eb2a029f82d4284981&chksm=bc8541d68bf2c8c0114366fec5bb29e9fcc9fbb20b4c572f8138244963e529f3013b495252ac&scene=27#wechat_redirect)
 
 帮助安全从业者、安全爱好者学习与成长。
 
@@ -14,9 +14,9 @@
 
 ### [安全内参](http://wechat.doonsec.com/wechat_echarts/?biz=MzI4NDY2MDMwMw==)
 
-[:chart_with_upwards_trend:【0/80/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI4NDY2MDMwMw==)
+[:chart_with_upwards_trend:【0/79/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI4NDY2MDMwMw==)
 
-[:camera_flash:【2022-09-30 19:37:46】](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247506195&idx=1&sn=ab8b96ff80f233324ef4637994d49a6f&chksm=ebfa9e33dc8d17252521894efb50ecf965e7ef0be51a88f774ec79122203569bc7ae1e3e9278&scene=27#wechat_redirect)
+[:camera_flash:【2022-10-04 09:03:13】](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247506199&idx=1&sn=92644b77ab1b014570e6e1566ff91d63&chksm=ebfa9e37dc8d17211bb777c512864ff7a209d03ad59b97398fc0f9505ed824bacab3464a10ee&scene=27#wechat_redirect)
 
 《安全内参》是专注于网络安全产业发展和行业应用的高端智库平台，致力于成为网络安全首席知识官。投稿&amp;合作请邮件联系 anquanneican#163.com
 
@@ -27,9 +27,9 @@
 
 ### [河南等级保护测评](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NjY2MTI3Mg==)
 
-[:chart_with_upwards_trend:【22/65/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NjY2MTI3Mg==)
+[:chart_with_upwards_trend:【22/64/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NjY2MTI3Mg==)
 
-[:camera_flash:【2022-10-04 00:00:56】](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247487498&idx=1&sn=9067150ee88ab5b6b842bd1828f0213f&chksm=ce4636fdf931bfebf7108452d8c9e1b5b29edf859d5176c4793ee961261b017b9bbefab1f252&scene=27#wechat_redirect)
+[:camera_flash:【2022-10-05 00:00:06】](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247487502&idx=1&sn=a241e8377df57cdfc7d67985a7120a16&chksm=ce4636f9f931bfefef01b72be8e24f7b2376604793dd4a30311118432a787b166cb42e23dde7&scene=27#wechat_redirect)
 
 传播网络安全知识，分享网络安全政策，共建风清气正的网络安全氛围。等级保护测评、风险评估、网络安全培训、咨询。
 
@@ -40,9 +40,9 @@
 
 ### [祺印说信安](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5MzU5MzQzMA==)
 
-[:chart_with_upwards_trend:【31/52/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5MzU5MzQzMA==)
+[:chart_with_upwards_trend:【30/51/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5MzU5MzQzMA==)
 
-[:camera_flash:【2022-10-04 00:00:28】](https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652096207&idx=1&sn=2c0e883be3b33abb45a0e5df2ea943df&chksm=8bbcecf6bccb65e051cf8acd58fd921adeb9f4df4be12c425f8dfdb5a54a1f160b5a671025eb&scene=27#wechat_redirect)
+[:camera_flash:【2022-10-05 00:00:08】](https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652096221&idx=1&sn=8a168bebcf3494a5a0d5e55a2dd800a6&chksm=8bbcece4bccb65f251da13d3c0ad1067e290a3c3457bc50b140f1aaa1eaf90be71434d15022e&scene=27#wechat_redirect)
 
 学习网络安全、说网络安全；共同致力于网络安全、网络安全等级保护。
 
@@ -172,7 +172,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3MDY0Nzg1Nw==)
 
-[:camera_flash:【2022-10-01 22:50:29】](https://mp.weixin.qq.com/s?__biz=MzI3MDY0Nzg1Nw==&mid=2247487638&idx=1&sn=d1bb81c48f62945d8d7ed88df6e717e5&chksm=eacc87c8ddbb0edeb9534a28253ecc687b7b5aad7862043fa1afd328b86456fe25cfdc612b01&scene=27#wechat_redirect)
+[:camera_flash:【2022-10-04 17:15:57】](https://mp.weixin.qq.com/s?__biz=MzI3MDY0Nzg1Nw==&mid=2247487708&idx=1&sn=bc9470fa519959c8c8744ef21005873a&chksm=eacc8782ddbb0e94de5598542a613f5d78901a0a513e629303de3a3fceb8427279c283e3079c&scene=27#wechat_redirect)
 
 学习笔记和资讯分享。
 

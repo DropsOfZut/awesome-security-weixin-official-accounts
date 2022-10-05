@@ -1,9 +1,9 @@
 
 ### [情报分析师](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3Mjc1MTkwOA==)
 
-[:chart_with_upwards_trend:【66/69/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3Mjc1MTkwOA==)
+[:chart_with_upwards_trend:【69/71/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3Mjc1MTkwOA==)
 
-[:camera_flash:【2022-10-03 15:15:11】](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650517852&idx=1&sn=06793a41f659162b0abe27f22ba22184&chksm=87169f17b0611601144cbb7753212e28d9e143a296b4963320626058e99cad0f1a4bc0101943&scene=27#wechat_redirect)
+[:camera_flash:【2022-10-04 11:51:14】](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650517853&idx=1&sn=86f8edbb1bda7637e719567fb243fe52&chksm=87169f16b061160006e804a337c3404e8af7ee3227538835ff8d2200dc26aa74241f165b3d50&scene=27#wechat_redirect)
 
 POLICE教授团队：聚焦情报安全与警务！关注情报动态，制定情报标准，开展情报培训，促进情报协作，传播情报文化，优化情报生态，共建情报分析师职业共同体。
 
@@ -14,9 +14,9 @@ POLICE教授团队：聚焦情报安全与警务！关注情报动态，制定�
 
 ### [丁爸情报分析师的工具箱](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MTE0NTE3Mw==)
 
-[:chart_with_upwards_trend:【22/32/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MTE0NTE3Mw==)
+[:chart_with_upwards_trend:【21/31/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MTE0NTE3Mw==)
 
-[:camera_flash:【2022-10-03 07:17:15】](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651132608&idx=1&sn=e08a8c05db9a02f779343328ad5b0e1e&chksm=f1af65fac6d8ececa509bc64a805b78d84a028987218f92c52ca71c16af24b1f6507708d6759&scene=27#wechat_redirect)
+[:camera_flash:【2022-10-05 07:01:29】](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651132631&idx=1&sn=dc80c30695d6e4651c8253f2236f09ea&chksm=f1af65edc6d8ecfb493937a1b997ad80f0a3c4c921aa82edf4e98c702b085834c1447d7d313b&scene=27#wechat_redirect)
 
 每天为大家精选各类情报分析相关的资源、工具、技巧和资讯，努力成为情报分析师必备的工具箱。外挂机器人“小丁丁”还能陪您聊天，给您查航班、查列车、查天气、查酒店、查美食、查股票、回答您的提问等等。
 
@@ -445,7 +445,7 @@ Seebug，原 Sebug 漏洞平台，洞悉漏洞，让你掌握第一手漏洞情�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxNTA4NDAwOQ==)
 
-[:camera_flash:【2022-10-01 12:16:55】](https://mp.weixin.qq.com/s?__biz=MzAxNTA4NDAwOQ==&mid=2650736600&idx=1&sn=0ff70b2a96192cea7dca133ecc327b88&chksm=8382d75eb4f55e484dc9a68263d552dd31a511ff660e3e0c7b082a7aaf51dc21bb1b78d35197&scene=27#wechat_redirect)
+[:camera_flash:【2022-10-04 22:51:14】](https://mp.weixin.qq.com/s?__biz=MzAxNTA4NDAwOQ==&mid=2650736606&idx=1&sn=7b56e02859ec62e2f0ba40c1315d6967&chksm=8382d758b4f55e4e19e31ca97f93e0a0e28c53e5727ec91aa02ba3585ca4ec6bc2c11df3fb09&scene=27#wechat_redirect)
 
 一切行为皆有犯罪的可能性，而在信息时代，这一过程变得更加复杂或者隐晦了。本号致力于传播打击和预防犯罪的手段、方法、理念，并希望能够推动侦查犯罪的机制变革，而这需要了解方方面面的信息。
 
