@@ -1,9 +1,9 @@
 
 ### [情报分析师](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3Mjc1MTkwOA==)
 
-[:chart_with_upwards_trend:【69/71/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3Mjc1MTkwOA==)
+[:chart_with_upwards_trend:【67/69/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3Mjc1MTkwOA==)
 
-[:camera_flash:【2022-10-04 11:51:14】](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650517853&idx=1&sn=86f8edbb1bda7637e719567fb243fe52&chksm=87169f16b061160006e804a337c3404e8af7ee3227538835ff8d2200dc26aa74241f165b3d50&scene=27#wechat_redirect)
+[:camera_flash:【2022-10-05 11:57:00】](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650517864&idx=1&sn=dea8c650d654465af35123333cae6103&chksm=87169f23b0611635dd3de06814927a523292ec8bfaf89e8ca5f9e061422d9af51657339456da&scene=27#wechat_redirect)
 
 POLICE教授团队：聚焦情报安全与警务！关注情报动态，制定情报标准，开展情报培训，促进情报协作，传播情报文化，优化情报生态，共建情报分析师职业共同体。
 
@@ -14,7 +14,7 @@ POLICE教授团队：聚焦情报安全与警务！关注情报动态，制定�
 
 ### [丁爸情报分析师的工具箱](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MTE0NTE3Mw==)
 
-[:chart_with_upwards_trend:【21/31/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MTE0NTE3Mw==)
+[:chart_with_upwards_trend:【20/30/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MTE0NTE3Mw==)
 
 [:camera_flash:【2022-10-05 07:01:29】](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651132631&idx=1&sn=dc80c30695d6e4651c8253f2236f09ea&chksm=f1af65edc6d8ecfb493937a1b997ad80f0a3c4c921aa82edf4e98c702b085834c1447d7d313b&scene=27#wechat_redirect)
 
@@ -27,7 +27,7 @@ POLICE教授团队：聚焦情报安全与警务！关注情报动态，制定�
 
 ### [无糖反网络犯罪研究中心](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxMzkzNDA1Mg==)
 
-[:chart_with_upwards_trend:【20/26/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxMzkzNDA1Mg==)
+[:chart_with_upwards_trend:【19/25/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxMzkzNDA1Mg==)
 
 [:camera_flash:【2022-09-30 18:30:02】](https://mp.weixin.qq.com/s?__biz=MzAxMzkzNDA1Mg==&mid=2247500714&idx=1&sn=9ba1c2f5aaf22e0a34169f6de89d79a9&chksm=9b998f21acee0637583261b10f2c533d6754dd6c639fc4085a67341dbb9a3078e403cdd207f6&scene=27#wechat_redirect)
 
@@ -55,7 +55,7 @@ ThreatBook微步在线，中国新一代网络安全代表企业，网络威胁�
 
 [:chart_with_upwards_trend:【7/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MjEwNjQzNg==)
 
-[:camera_flash:【2022-09-24 00:20:03】](https://mp.weixin.qq.com/s?__biz=MzU5MjEwNjQzNg==&mid=2247510818&idx=1&sn=dddf9bb6a29d057b6f8de61ca0401b8d&chksm=fe262d89c951a49f27fa5f1c5475cf30a383e22f58cbba4c4fdfaf466acc73281263d63c1e49&scene=27#wechat_redirect)
+[:camera_flash:【2022-10-05 18:46:29】](https://mp.weixin.qq.com/s?__biz=MzU5MjEwNjQzNg==&mid=2247510869&idx=1&sn=97ff95564cc1b57fcd23e5c4ac05c4de&chksm=fe262dfec951a4e809b96b285e1862ccd1227f0be0f662822feaa6200cfe558b72acaefe8995&scene=27#wechat_redirect)
 
 国家网络空间威胁情报共享开放平台（简称CNTIC）是政企合作的国家级网络空间威胁情报平台，由发改委批复建设，由中国科学院信息工程研究所牵头运营，为各级党政机关、安全主管部门、安全厂商、企事业单位、社会公众提供网络空间安全威胁情报服务。
 
@@ -103,19 +103,6 @@ ThreatBook微步在线，中国新一代网络安全代表企业，网络威胁�
 ---
 
 
-### [CE安全圈](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5ODA0NDUxNA==)
-
-[:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5ODA0NDUxNA==)
-
-[:camera_flash:【2022-09-10 19:00:11】](https://mp.weixin.qq.com/s?__biz=MzI5ODA0NDUxNA==&mid=2247486007&idx=1&sn=53206f270855c75c761c39c510491aef&chksm=ecaa973adbdd1e2cd889f8dd37614f273ecfcf4d520958a63bc2cc210a207b362eabd881fc67&scene=27#wechat_redirect)
-
-您好，欢迎关注网络与信息安全中心公众号。公众号将定期推送网安中心工作成果、网络安全常识、网络安全专业技术、网络安全法律法规等相关讯息。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e99fbb291516" alt="" />
-
----
-
-
 ### [Seebug漏洞平台](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxNDY2MTQ2OQ==)
 
 [:chart_with_upwards_trend:【2/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxNDY2MTQ2OQ==)
@@ -125,6 +112,19 @@ ThreatBook微步在线，中国新一代网络安全代表企业，网络威胁�
 Seebug，原 Sebug 漏洞平台，洞悉漏洞，让你掌握第一手漏洞情报！
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_7a00af2b3993" alt="" />
+
+---
+
+
+### [CE安全圈](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5ODA0NDUxNA==)
+
+[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5ODA0NDUxNA==)
+
+[:camera_flash:【2022-09-10 19:00:11】](https://mp.weixin.qq.com/s?__biz=MzI5ODA0NDUxNA==&mid=2247486007&idx=1&sn=53206f270855c75c761c39c510491aef&chksm=ecaa973adbdd1e2cd889f8dd37614f273ecfcf4d520958a63bc2cc210a207b362eabd881fc67&scene=27#wechat_redirect)
+
+您好，欢迎关注网络与信息安全中心公众号。公众号将定期推送网安中心工作成果、网络安全常识、网络安全专业技术、网络安全法律法规等相关讯息。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e99fbb291516" alt="" />
 
 ---
 

@@ -1,7 +1,7 @@
 
 ### [启明星辰网络空间安全学院](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
 
-[:chart_with_upwards_trend:【0/13/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
+[:chart_with_upwards_trend:【0/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
 
 [:camera_flash:【2022-10-01 09:30:12】](https://mp.weixin.qq.com/s?__biz=MzUzNDg0NTc1NA==&mid=2247494441&idx=1&sn=336c67464e1c7bf3e45cd0ab8ddfa561&chksm=fa8c2b7ccdfba26ab1f1e6cddbfe381d8297434d1e0003e644a46fd70ad495bc2f8c8b9c168a&scene=27#wechat_redirect)
 
@@ -27,7 +27,7 @@
 
 ### [山警网络空间安全实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Njc1OTYyNA==)
 
-[:chart_with_upwards_trend:【0/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Njc1OTYyNA==)
+[:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Njc1OTYyNA==)
 
 [:camera_flash:【2022-09-21 21:10:27】](https://mp.weixin.qq.com/s?__biz=MjM5Njc1OTYyNA==&mid=2450784117&idx=1&sn=1566ecfdbcb492353dbc63c81b2a03da&chksm=b1030e5286748744a770c51a1e9e9ebac63a13fca26a8017683bcf1e2a1b8e18d3eeebf7d142&scene=27&key=e8677526fb452b6da99735106a2374cc27a2c4c1010d8aba815f22160bf98326b1705dff3ef776bc9a9dd9f8c1cccb8f157bfe7498c04e91f806f407f31749c152fd918e7862ac307644342cf9fe026c9e349da5b8d762f22306b6a6694b1a3ceaaa7a71b9912ac8282b20842f0e23ecd9c1b3463a78cf7084a257a5912af969&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+Server+2016+x64&version=63070517&lang=zh_CN&session_us=gh_ff13bad322ea&exportkey=AyAl03u%2Bv9mtRezSrMqOQCI%3D&acctmode=0&pass_ticket=MvQo3sVuHlrFH5cDn2CqE8sSCLBrWqj4uGcmAz4TnJwzV%2Fwsnk5wRp58tlPcRcvm&wx_header=0&fontgear=2&scene=27#wechat_redirect)
 
@@ -207,19 +207,6 @@
 ---
 
 
-### [三叶草小组Syclover](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzOTg0NjYzNg==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzOTg0NjYzNg==)
-
-[:camera_flash:【2022-09-05 12:00:31】](https://mp.weixin.qq.com/s?__biz=MzIzOTg0NjYzNg==&mid=2247488375&idx=1&sn=39ebd1167ffd4ebe5f2d812aa5b28ca0&chksm=e92286f4de550fe20689fbd26b5df6941c875419109c66b23b62046b465051ce433ddacb6b28&scene=27#wechat_redirect)
-
-一个专注于网络空间安全的高校技术团队，成立于2005年3月，主要研究方向有渗透测试、逆向工程、移动安全、安全编程、漏洞利用等；公众号定期推送小组成员原创文章
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_962842f4917b" alt="" />
-
----
-
-
 ### [渭南师院网络信息安全社](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0MjI1NzY1NQ==)
 
 [:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0MjI1NzY1NQ==)
@@ -250,7 +237,7 @@
 
 [:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxMTEwOTA3OA==)
 
-[:camera_flash:【2022-09-28 13:14:42】](https://mp.weixin.qq.com/s?__biz=MzUxMTEwOTA3OA==&mid=2247484039&idx=1&sn=affe18eca2b839b02116158209262cbf&chksm=f979f03ece0e7928e0e6ebc8893ddd36c96b6af13fb582b9aee6866e2ee03d54504db307e869&scene=27#wechat_redirect)
+[:camera_flash:【2022-10-05 11:00:01】](https://mp.weixin.qq.com/s?__biz=MzUxMTEwOTA3OA==&mid=2247484045&idx=1&sn=2981c27c0b94e82d6119c873a03e5003&chksm=f979f034ce0e79221a9627d826f637352ac36a10cf513398e7ab2f7c5a9746c3da2f9fa38a2a&scene=27#wechat_redirect)
 
 清华大学网络与信息安全实验室(NISL@THU)，专注于网络、系统、应用、人工智能安全教学与研究，在国际四大安全会议发表三十余篇论文，成果在业界产生了广泛影响力。孕育了蓝莲花、紫荆花等知名战队，发起了网安国际学术论坛InForSec。
 
@@ -372,6 +359,19 @@ Birkenwald安全团队 --来自哈尔滨理工大学
 发布信息安全技术及相关竞赛信息。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_711d4ce1da87" alt="" />
+
+---
+
+
+### [三叶草小组Syclover](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzOTg0NjYzNg==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzOTg0NjYzNg==)
+
+[:camera_flash:【2022-09-05 12:00:31】](https://mp.weixin.qq.com/s?__biz=MzIzOTg0NjYzNg==&mid=2247488375&idx=1&sn=39ebd1167ffd4ebe5f2d812aa5b28ca0&chksm=e92286f4de550fe20689fbd26b5df6941c875419109c66b23b62046b465051ce433ddacb6b28&scene=27#wechat_redirect)
+
+一个专注于网络空间安全的高校技术团队，成立于2005年3月，主要研究方向有渗透测试、逆向工程、移动安全、安全编程、漏洞利用等；公众号定期推送小组成员原创文章
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_962842f4917b" alt="" />
 
 ---
 
