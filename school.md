@@ -1,7 +1,7 @@
 
 ### [启明星辰网络空间安全学院](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
 
-[:chart_with_upwards_trend:【0/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
+[:chart_with_upwards_trend:【0/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
 
 [:camera_flash:【2022-10-01 09:30:12】](https://mp.weixin.qq.com/s?__biz=MzUzNDg0NTc1NA==&mid=2247494441&idx=1&sn=336c67464e1c7bf3e45cd0ab8ddfa561&chksm=fa8c2b7ccdfba26ab1f1e6cddbfe381d8297434d1e0003e644a46fd70ad495bc2f8c8b9c168a&scene=27#wechat_redirect)
 
@@ -38,19 +38,6 @@
 ---
 
 
-### [合天网络安全](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyNzU3Mzg2NQ==)
-
-[:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyNzU3Mzg2NQ==)
-
-[:camera_flash:【2022-09-26 17:34:39】](https://mp.weixin.qq.com/s?__biz=MzIyNzU3Mzg2NQ==&mid=2247485892&idx=1&sn=b995f0c7c80504c7819c7daa63f30cfe&chksm=e85e60c2df29e9d4503b1db75b08e267774018028cb2b660bb4ff19a63900a327983502ee722&scene=27&key=9164184113abefbb2312047b7ac32db2e5f095d854626a01029df3884f8ce6e8758adae6e0519a225b5e0f476b450af12a77d3141c691c15ce8d491b97a870f34d5a00be4a0f32af9fb5dc152a60f0949fb2a2473841e9374f08ebc52caa47cf69098b13cf61cb7e3b786b5714b39d2ea4ea97b5edd8f2760b907bee6b095607&ascene=15&uin=MzgxODQ4MjMz&devicetype=Windows+Server+2016+x64&version=63070517&lang=zh_CN&session_us=gh_d5c25339a9e5&exportkey=A6jqTNEbwrH9pWIVwvXCE0E%3D&acctmode=0&pass_ticket=bmlZjS1BpePqXW%2FI%2FHSCGH7MDo1YpL6dQIOvvlM%2BH1L8GeL2XvA6gZyoeDKQKen0&wx_header=0&fontgear=2&scene=27#wechat_redirect)
-
-网安学院拥有专业教学服务、就业指导，课程配套靶场实战平台（www.hetianlab.com），学员学完就练，切实提升实践动手能力；课程涵盖Web安全、软件安全、网络安全等网安各个相关方面。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a6ba8f92d07d" alt="" />
-
----
-
-
 ### [珠天PearlSky](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyODMyODMyOA==)
 
 [:chart_with_upwards_trend:【3/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyODMyODMyOA==)
@@ -73,6 +60,19 @@
 以复旦大学系统安全实验室学生为主成立的安全攻防战队，分享最新研究成果，交流系统安全攻防领域技巧。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f1bf07da06d8" alt="" />
+
+---
+
+
+### [合天网络安全](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyNzU3Mzg2NQ==)
+
+[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyNzU3Mzg2NQ==)
+
+[:camera_flash:【2022-09-26 17:34:39】](https://mp.weixin.qq.com/s?__biz=MzIyNzU3Mzg2NQ==&mid=2247485892&idx=1&sn=b995f0c7c80504c7819c7daa63f30cfe&chksm=e85e60c2df29e9d4503b1db75b08e267774018028cb2b660bb4ff19a63900a327983502ee722&scene=27&key=9164184113abefbb2312047b7ac32db2e5f095d854626a01029df3884f8ce6e8758adae6e0519a225b5e0f476b450af12a77d3141c691c15ce8d491b97a870f34d5a00be4a0f32af9fb5dc152a60f0949fb2a2473841e9374f08ebc52caa47cf69098b13cf61cb7e3b786b5714b39d2ea4ea97b5edd8f2760b907bee6b095607&ascene=15&uin=MzgxODQ4MjMz&devicetype=Windows+Server+2016+x64&version=63070517&lang=zh_CN&session_us=gh_d5c25339a9e5&exportkey=A6jqTNEbwrH9pWIVwvXCE0E%3D&acctmode=0&pass_ticket=bmlZjS1BpePqXW%2FI%2FHSCGH7MDo1YpL6dQIOvvlM%2BH1L8GeL2XvA6gZyoeDKQKen0&wx_header=0&fontgear=2&scene=27#wechat_redirect)
+
+网安学院拥有专业教学服务、就业指导，课程配套靶场实战平台（www.hetianlab.com），学员学完就练，切实提升实践动手能力；课程涵盖Web安全、软件安全、网络安全等网安各个相关方面。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a6ba8f92d07d" alt="" />
 
 ---
 
@@ -116,19 +116,6 @@
 ---
 
 
-### [蚁景网安](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MTU2ODYwNw==)
-
-[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MTU2ODYwNw==)
-
-[:camera_flash:【2022-09-09 17:39:40】](https://mp.weixin.qq.com/s?__biz=Mzg5MTU2ODYwNw==&mid=2247485775&idx=1&sn=975d08a2d91008337fc7636d46a85d07&chksm=cfca21fff8bda8e937df3acac561535b8a27b1c5353093ff960fe6654928dfae2322727f2618&scene=27&key=b9f9fe4690f0a07c43079b7c2a678279c9b1453c411f17f535b2b0aa798fde71e9c79794d198ca32af70aa58b79dd4eb3f8fe011ebecf25655f64abb7da10b8f9a8dc65e776aa0bfcf1d2e200b1fa3d1cc031e1654d63e3c4bb98b834b00322300cfbcb1eb73a8ad56a9a10ef9f03c256509c55da3cd570c9781b50ce3f56041&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+Server+2016+x64&version=63070517&lang=zh_CN&session_us=gh_59637109313f&exportkey=A0fzIs1GLy1CfdZavoy%2B1Hs%3D&acctmode=0&pass_ticket=SA7aDNchxSYOs1MVgVV9nCJiT931HC99QqLUbaFkJcozVRSomAePu3YV9LG7SNBS&wx_header=0&fontgear=2&scene=27#wechat_redirect)
-
-分享网安干货技能，致力于实战网安技能人才培养
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_861ca8c2271b" alt="" />
-
----
-
-
 ### [浙大网安](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5NDczNDc4NA==)
 
 [:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5NDczNDc4NA==)
@@ -142,19 +129,6 @@
 ---
 
 
-### [TJ网络安全与电子数据取证实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2NTY2MDAyMw==)
-
-[:chart_with_upwards_trend:【1/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2NTY2MDAyMw==)
-
-[:camera_flash:【2022-09-07 16:41:34】](https://mp.weixin.qq.com/s?__biz=MzU2NTY2MDAyMw==&mid=2247485013&idx=1&sn=f00fb6925ea85517d0c961a7c3d59331&chksm=fcb9164dcbce9f5b8db0d8f5f6abe0d1e7ee088cf2330b974e2f68321167ff47e94f68f6d302&scene=27#wechat_redirect)
-
-彩虹七号网络安全与电子数据取证实验室成立于2017年5月20日。主要研究方向有网络攻防、电子数据取证、大数据等模块。团队致力于提供更好的学习交流平台，几年来培养出一大批网络安全专业技术人才。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_fe60a47fe531" alt="" />
-
----
-
-
 ### [网安培训学院](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDYzMjAyNA==)
 
 [:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDYzMjAyNA==)
@@ -164,6 +138,19 @@
 深圳市网安计算机网络安全培训中心是深圳市计算机网络公共安全协会设立的下属培训机构。培训内容包括：CISP-PTE/PTS系列课程、CISP-IRE/IRS系列课程；网络攻防技术系列课程；网络安全等级保护及风险评估系列课程等网络安全相关课程。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_94f04a96b1ca" alt="" />
+
+---
+
+
+### [蚁景网安](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MTU2ODYwNw==)
+
+[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MTU2ODYwNw==)
+
+[:camera_flash:【2022-09-09 17:39:40】](https://mp.weixin.qq.com/s?__biz=Mzg5MTU2ODYwNw==&mid=2247485775&idx=1&sn=975d08a2d91008337fc7636d46a85d07&chksm=cfca21fff8bda8e937df3acac561535b8a27b1c5353093ff960fe6654928dfae2322727f2618&scene=27&key=b9f9fe4690f0a07c43079b7c2a678279c9b1453c411f17f535b2b0aa798fde71e9c79794d198ca32af70aa58b79dd4eb3f8fe011ebecf25655f64abb7da10b8f9a8dc65e776aa0bfcf1d2e200b1fa3d1cc031e1654d63e3c4bb98b834b00322300cfbcb1eb73a8ad56a9a10ef9f03c256509c55da3cd570c9781b50ce3f56041&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+Server+2016+x64&version=63070517&lang=zh_CN&session_us=gh_59637109313f&exportkey=A0fzIs1GLy1CfdZavoy%2B1Hs%3D&acctmode=0&pass_ticket=SA7aDNchxSYOs1MVgVV9nCJiT931HC99QqLUbaFkJcozVRSomAePu3YV9LG7SNBS&wx_header=0&fontgear=2&scene=27#wechat_redirect)
+
+分享网安干货技能，致力于实战网安技能人才培养
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_861ca8c2271b" alt="" />
 
 ---
 
@@ -190,6 +177,19 @@
 青岛科技大学信息安全团队
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_244b9c8677de" alt="" />
+
+---
+
+
+### [TJ网络安全与电子数据取证实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2NTY2MDAyMw==)
+
+[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2NTY2MDAyMw==)
+
+[:camera_flash:【2022-09-07 16:41:34】](https://mp.weixin.qq.com/s?__biz=MzU2NTY2MDAyMw==&mid=2247485013&idx=1&sn=f00fb6925ea85517d0c961a7c3d59331&chksm=fcb9164dcbce9f5b8db0d8f5f6abe0d1e7ee088cf2330b974e2f68321167ff47e94f68f6d302&scene=27#wechat_redirect)
+
+彩虹七号网络安全与电子数据取证实验室成立于2017年5月20日。主要研究方向有网络攻防、电子数据取证、大数据等模块。团队致力于提供更好的学习交流平台，几年来培养出一大批网络安全专业技术人才。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_fe60a47fe531" alt="" />
 
 ---
 
