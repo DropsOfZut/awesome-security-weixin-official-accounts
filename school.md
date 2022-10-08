@@ -38,32 +38,6 @@
 ---
 
 
-### [珠天PearlSky](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyODMyODMyOA==)
-
-[:chart_with_upwards_trend:【3/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyODMyODMyOA==)
-
-[:camera_flash:【2022-09-23 19:42:23】](https://mp.weixin.qq.com/s?__biz=MzkyODMyODMyOA==&mid=2247485762&idx=1&sn=4f8f618aac8983e29c8a7465c5ff00bf&chksm=c21b36a5f56cbfb3cc76311ac465918b5763133ed446afd359fbc0ee524f6f91ad87089cca57&scene=27#wechat_redirect)
-
-珠天PearlSky，意为珠科安全的一片天。珠天的队员都来自于珠海科技学院热爱钻研网络安全技术的同学。我们希望我们能够让更多人了解网络安全，更欢迎各位同学加入我们一起交流学习。本公众号会发布一些学习心得，经验总结等等一系列文章。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a4b0a923e487" alt="" />
-
----
-
-
-### [复旦白泽战队](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
-
-[:chart_with_upwards_trend:【1/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
-
-[:camera_flash:【2022-09-30 09:00:06】](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247485949&idx=1&sn=405d860f45fc7c85c88f9a762e3972a3&chksm=fdeb8d83ca9c0495ae0e65644d36e42bb7cd959192d465bd1b5d337dbc00afcd9fe83e86b1f5&scene=27#wechat_redirect)
-
-以复旦大学系统安全实验室学生为主成立的安全攻防战队，分享最新研究成果，交流系统安全攻防领域技巧。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f1bf07da06d8" alt="" />
-
----
-
-
 ### [合天网络安全](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyNzU3Mzg2NQ==)
 
 [:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyNzU3Mzg2NQ==)
@@ -73,19 +47,6 @@
 网安学院拥有专业教学服务、就业指导，课程配套靶场实战平台（www.hetianlab.com），学员学完就练，切实提升实践动手能力；课程涵盖Web安全、软件安全、网络安全等网安各个相关方面。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a6ba8f92d07d" alt="" />
-
----
-
-
-### [大学生网络安全尖锋训练营](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
-
-[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
-
-[:camera_flash:【2022-10-04 12:18:48】](https://mp.weixin.qq.com/s?__biz=MzUzODkwMDMxNA==&mid=2247504215&idx=1&sn=6b0db57fae625faeaa0ae6c0b8ef2d9d&chksm=fad23362cda5ba74d73cf90c2bdb05c3d5ca7716006ab2ce642a45fb62d3f5c88403801921fc&scene=27#wechat_redirect)
-
-百所高校、百家用人单位、百名尖锋导师，携手打造定制化人才培养模式，通过导师制职业规划和封闭式岗位实训，补足知识短板、提高实战能力，培养创新型、实用型网络安全尖锋人才。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_b54960a6ea07" alt="" />
 
 ---
 
@@ -103,6 +64,32 @@
 ---
 
 
+### [珠天PearlSky](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyODMyODMyOA==)
+
+[:chart_with_upwards_trend:【2/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyODMyODMyOA==)
+
+[:camera_flash:【2022-09-23 19:42:23】](https://mp.weixin.qq.com/s?__biz=MzkyODMyODMyOA==&mid=2247485762&idx=1&sn=4f8f618aac8983e29c8a7465c5ff00bf&chksm=c21b36a5f56cbfb3cc76311ac465918b5763133ed446afd359fbc0ee524f6f91ad87089cca57&scene=27#wechat_redirect)
+
+珠天PearlSky，意为珠科安全的一片天。珠天的队员都来自于珠海科技学院热爱钻研网络安全技术的同学。我们希望我们能够让更多人了解网络安全，更欢迎各位同学加入我们一起交流学习。本公众号会发布一些学习心得，经验总结等等一系列文章。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a4b0a923e487" alt="" />
+
+---
+
+
+### [复旦白泽战队](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
+
+[:chart_with_upwards_trend:【1/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
+
+[:camera_flash:【2022-09-30 09:00:06】](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247485949&idx=1&sn=405d860f45fc7c85c88f9a762e3972a3&chksm=fdeb8d83ca9c0495ae0e65644d36e42bb7cd959192d465bd1b5d337dbc00afcd9fe83e86b1f5&scene=27#wechat_redirect)
+
+以复旦大学系统安全实验室学生为主成立的安全攻防战队，分享最新研究成果，交流系统安全攻防领域技巧。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f1bf07da06d8" alt="" />
+
+---
+
+
 ### [齐鲁师院网络安全社团](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MDU5NTA1MQ==)
 
 [:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MDU5NTA1MQ==)
@@ -112,6 +99,19 @@
 欢迎加入齐鲁师范学院网络安全社团
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0c9ae293eb8e" alt="" />
+
+---
+
+
+### [大学生网络安全尖锋训练营](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
+
+[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
+
+[:camera_flash:【2022-10-07 11:59:20】](https://mp.weixin.qq.com/s?__biz=MzUzODkwMDMxNA==&mid=2247504222&idx=1&sn=41d8c1a3965302f9e256406c16d351bc&chksm=fad2336bcda5ba7dcd6b8b13ecdc33e8a8bce25fe5a179fe2af8436dc362cd0ed41c8c9b8c9c&scene=27#wechat_redirect)
+
+百所高校、百家用人单位、百名尖锋导师，携手打造定制化人才培养模式，通过导师制职业规划和封闭式岗位实训，补足知识短板、提高实战能力，培养创新型、实用型网络安全尖锋人才。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_b54960a6ea07" alt="" />
 
 ---
 
@@ -177,19 +177,6 @@
 青岛科技大学信息安全团队
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_244b9c8677de" alt="" />
-
----
-
-
-### [TJ网络安全与电子数据取证实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2NTY2MDAyMw==)
-
-[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2NTY2MDAyMw==)
-
-[:camera_flash:【2022-09-07 16:41:34】](https://mp.weixin.qq.com/s?__biz=MzU2NTY2MDAyMw==&mid=2247485013&idx=1&sn=f00fb6925ea85517d0c961a7c3d59331&chksm=fcb9164dcbce9f5b8db0d8f5f6abe0d1e7ee088cf2330b974e2f68321167ff47e94f68f6d302&scene=27#wechat_redirect)
-
-彩虹七号网络安全与电子数据取证实验室成立于2017年5月20日。主要研究方向有网络攻防、电子数据取证、大数据等模块。团队致力于提供更好的学习交流平台，几年来培养出一大批网络安全专业技术人才。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_fe60a47fe531" alt="" />
 
 ---
 
@@ -333,6 +320,19 @@ Birkenwald安全团队 --来自哈尔滨理工大学
 0w1网络安全俱乐部隶属于西安交通大学智能网络与网络安全教育部重点实验室，旨在进行网络安全方面的学习和研究交流。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_20dc9c32f27c" alt="" />
+
+---
+
+
+### [TJ网络安全与电子数据取证实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2NTY2MDAyMw==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2NTY2MDAyMw==)
+
+[:camera_flash:【2022-09-07 16:41:34】](https://mp.weixin.qq.com/s?__biz=MzU2NTY2MDAyMw==&mid=2247485013&idx=1&sn=f00fb6925ea85517d0c961a7c3d59331&chksm=fcb9164dcbce9f5b8db0d8f5f6abe0d1e7ee088cf2330b974e2f68321167ff47e94f68f6d302&scene=27#wechat_redirect)
+
+彩虹七号网络安全与电子数据取证实验室成立于2017年5月20日。主要研究方向有网络攻防、电子数据取证、大数据等模块。团队致力于提供更好的学习交流平台，几年来培养出一大批网络安全专业技术人才。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_fe60a47fe531" alt="" />
 
 ---
 

@@ -14,9 +14,9 @@
 
 ### [看雪学苑](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTc2MDYxMw==)
 
-[:chart_with_upwards_trend:【22/100/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTc2MDYxMw==)
+[:chart_with_upwards_trend:【21/96/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTc2MDYxMw==)
 
-[:camera_flash:【2022-10-06 17:59:16】](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458473852&idx=1&sn=7cc6b9eb080137f59729bfef67edfde0&chksm=b18e65f686f9ece0031c2554e0fc82a1714041c00c599e3f11975c7d6a6327117c16f454b5a9&scene=27#wechat_redirect)
+[:camera_flash:【2022-10-07 18:21:24】](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458473853&idx=1&sn=cc6c0e7d75f02b4b34edad2bd0525349&chksm=b18e65f786f9ece19e09b9e261ff88f235ba67ffb4045b5e66669bcdc70a6ca550edd5e96ba9&scene=27#wechat_redirect)
 
 致力于移动与安全研究的开发者社区，看雪学院(kanxue.com)官方微信公众帐号。
 
@@ -27,7 +27,7 @@
 
 ### [吾爱破解论坛](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Mjc3MDM2Mw==)
 
-[:chart_with_upwards_trend:【4/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Mjc3MDM2Mw==)
+[:chart_with_upwards_trend:【3/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Mjc3MDM2Mw==)
 
 [:camera_flash:【2022-09-30 11:23:47】](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651138466&idx=1&sn=1fadb8377568ffc541387675de903190&chksm=bd50b9f68a2730e0bd406e92f0edc9598113e35ea16ca3658d0703b47793f019d07252c9c598&scene=27#wechat_redirect)
 
