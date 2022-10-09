@@ -1,9 +1,22 @@
 
+### [全球技术地图](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1OTExNDY1NQ==)
+
+[:chart_with_upwards_trend:【30/46/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1OTExNDY1NQ==)
+
+[:camera_flash:【2022-10-08 17:12:37】](https://mp.weixin.qq.com/s?__biz=MzI1OTExNDY1NQ==&mid=2651597447&idx=1&sn=1662ee62f351f5a00c48f292b07e3c87&chksm=f1855977c6f2d061af8d422df9f23b3b9ad51adc0aeee1708248e5e30b9c4085d87f0b093bfb&scene=27#wechat_redirect)
+
+洞见前沿，引领未来。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_66ccbb1db194" alt="" />
+
+---
+
+
 ### [网络安全与黑客技术](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2MDQzMjY4NQ==)
 
-[:chart_with_upwards_trend:【0/29/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2MDQzMjY4NQ==)
+[:chart_with_upwards_trend:【0/28/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2MDQzMjY4NQ==)
 
-[:camera_flash:【2022-10-07 13:59:10】](https://mp.weixin.qq.com/s?__biz=Mzg2MDQzMjY4NQ==&mid=2247488502&idx=1&sn=90c727281c0699cb29024bfaf221842e&chksm=ce2723b4f950aaa2a8d38efd0228f51a624a42b0ff22330370d88553f64dc3c7e727fa50c5d0&scene=27#wechat_redirect)
+[:camera_flash:【2022-10-08 13:59:11】](https://mp.weixin.qq.com/s?__biz=Mzg2MDQzMjY4NQ==&mid=2247488503&idx=1&sn=f3c43f8eabdf501fef6e2431ed945881&chksm=ce2723b5f950aaa32e4deb4ee6e9b07f95ab3bdff5213503431479dd137fb1d0dd1738c3bbc1&scene=27#wechat_redirect)
 
 这里拥有神秘的黑客技术，等你来关注 ！
 
@@ -14,39 +27,13 @@
 
 ### [小草培养创研中心](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxMDAwNzM3MQ==)
 
-[:chart_with_upwards_trend:【8/19/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxMDAwNzM3MQ==)
+[:chart_with_upwards_trend:【8/18/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxMDAwNzM3MQ==)
 
-[:camera_flash:【2022-09-30 18:00:53】](https://mp.weixin.qq.com/s?__biz=MzIxMDAwNzM3MQ==&mid=2247516365&idx=1&sn=fd5ef6e8f21d8698a739ba57a6940056&chksm=9769e4e9a01e6dffa02d2d3b3dca859423a25e48afd102d81a0ecd712284a243dbe045d730d5&scene=27#wechat_redirect)
+[:camera_flash:【2022-10-08 17:46:04】](https://mp.weixin.qq.com/s?__biz=MzIxMDAwNzM3MQ==&mid=2247516385&idx=1&sn=c6772f067e510c536024d6bfbf4f3b42&chksm=9769e4c5a01e6dd3ad4ba589635d38dfaa1e23a57166914cde9570cdc85170530123b9b89de4&scene=27#wechat_redirect)
 
 数字时代网安人才培养的践行者
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a824093cc3ce" alt="" />
-
----
-
-
-### [全球技术地图](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1OTExNDY1NQ==)
-
-[:chart_with_upwards_trend:【9/17/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1OTExNDY1NQ==)
-
-[:camera_flash:【2022-10-06 17:00:22】](https://mp.weixin.qq.com/s?__biz=MzI1OTExNDY1NQ==&mid=2651597438&idx=1&sn=071fa73c4af767f0fd404520c21e0ebd&chksm=f185598ec6f2d098ece7e526420f280130b76671fe9a317c7a7f478516f1fc6d4d6a60b34a60&scene=27#wechat_redirect)
-
-洞见前沿，引领未来。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_66ccbb1db194" alt="" />
-
----
-
-
-### [黑客技术与网络安全](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyMDEzMTA2MQ==)
-
-[:chart_with_upwards_trend:【0/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyMDEzMTA2MQ==)
-
-[:camera_flash:【2022-09-26 08:30:26】](https://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651163527&idx=1&sn=563d4d166496bbad15246297ac7bfcd2&chksm=8c21901dbb56190b6415415da1e00e1244692a889b2473475a0299f3df1ca6d6f2b93a7ff94e&scene=27#wechat_redirect)
-
-分享黑客技术和网络安全知识，让程序员了解黑客世界，学习黑客技术；普及上网和网络安全知识；帮助黑客、安全从业者、安全爱好者学习与成长。分享的所有技术和工具仅供学习之用。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4ad27a83ff73" alt="" />
 
 ---
 
@@ -60,6 +47,19 @@
 致力于打造网络安全知识矩阵
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f2ead9d547d0" alt="" />
+
+---
+
+
+### [黑客技术与网络安全](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyMDEzMTA2MQ==)
+
+[:chart_with_upwards_trend:【0/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyMDEzMTA2MQ==)
+
+[:camera_flash:【2022-10-08 11:11:26】](https://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651163546&idx=1&sn=385aba39fe83de3aae41c081b4a1262c&chksm=8c219000bb561916aab94c01ea1f89c45d76de08a38dfdcb9de472f5588c91655991f5cf50e5&scene=27#wechat_redirect)
+
+分享黑客技术和网络安全知识，让程序员了解黑客世界，学习黑客技术；普及上网和网络安全知识；帮助黑客、安全从业者、安全爱好者学习与成长。分享的所有技术和工具仅供学习之用。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4ad27a83ff73" alt="" />
 
 ---
 
@@ -79,7 +79,7 @@ NOVA SEC  新星安全 萌新启蒙之路 愿大家都能成为最闪耀的星�
 
 ### [轩公子谈技术](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MDg2NDI4OA==)
 
-[:chart_with_upwards_trend:【1/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MDg2NDI4OA==)
+[:chart_with_upwards_trend:【1/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MDg2NDI4OA==)
 
 [:camera_flash:【2022-09-30 16:29:47】](https://mp.weixin.qq.com/s?__biz=MzU3MDg2NDI4OA==&mid=2247487130&idx=1&sn=29e3b2cb39179ee5db767fcbe76c5a15&chksm=fce9a955cb9e2043c6e8a71f85ec012dc1b4972f3844f63773596793342231e125c7ade86018&scene=27#wechat_redirect)
 
@@ -94,7 +94,7 @@ NOVA SEC  新星安全 萌新启蒙之路 愿大家都能成为最闪耀的星�
 
 [:chart_with_upwards_trend:【0/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NjY4MDAyNQ==)
 
-[:camera_flash:【2022-09-28 14:57:44】](https://mp.weixin.qq.com/s?__biz=MzU4NjY4MDAyNQ==&mid=2247489997&idx=1&sn=98713103a169345117125d1f69ee1316&chksm=fdf6ca7bca81436d1658f6a935484d380e28e0a7820e4917530c1f1289a6ad8760baed882494&scene=27#wechat_redirect)
+[:camera_flash:【2022-10-01 08:51:41】](https://mp.weixin.qq.com/s?__biz=MzU4NjY4MDAyNQ==&mid=2247490003&idx=1&sn=277192bb711ef516d9030e562394f8ef&chksm=fdf6ca65ca8143738501d31ce824c222de4094ea105dfcc961ad6000bbe8054229b1084ee516&scene=27#wechat_redirect)
 
 嘉诚安全，您身边的安全专家
 
@@ -116,19 +116,6 @@ NOVA SEC  新星安全 萌新启蒙之路 愿大家都能成为最闪耀的星�
 ---
 
 
-### [虚拟框架](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Njg5ODU2NA==)
-
-[:chart_with_upwards_trend:【1/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Njg5ODU2NA==)
-
-[:camera_flash:【2022-09-24 20:00:21】](https://mp.weixin.qq.com/s?__biz=MjM5Njg5ODU2NA==&mid=2257500501&idx=1&sn=404ab0c9ed93918e452b56fceaaa3bb9&chksm=a5982b3e92efa228cf61929125213f0333780357199f8ef8d633f088764c842270e93c78377b&scene=27#wechat_redirect)
-
-解锁 Android 手机黑科技！
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_39c8fb2fc8b4" alt="" />
-
----
-
-
 ### [渗透测试教程](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3OTIwNDkzNQ==)
 
 [:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3OTIwNDkzNQ==)
@@ -142,28 +129,41 @@ NOVA SEC  新星安全 萌新启蒙之路 愿大家都能成为最闪耀的星�
 ---
 
 
-### [网安寻路人](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxODM0NDU4MQ==)
-
-[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxODM0NDU4MQ==)
-
-[:camera_flash:【2022-09-26 09:28:58】](https://mp.weixin.qq.com/s?__biz=MzIxODM0NDU4MQ==&mid=2247495964&idx=1&sn=10631b126135ffb986f1450786f911b2&chksm=97e94cf6a09ec5e0d4ae02f9ea7b7cc188da411b0509edd27fad89522272be44270edc3ea077&scene=27#wechat_redirect)
-
-立足本土实践和需求，放眼全球做法和经验，探寻网络空间安全之法道。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e01653781aad" alt="" />
-
----
-
-
 ### [安圈评](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwNTI4MTA1MQ==)
 
-[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwNTI4MTA1MQ==)
+[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwNTI4MTA1MQ==)
 
-[:camera_flash:【2022-09-20 12:07:21】](https://mp.weixin.qq.com/s?__biz=MzkwNTI4MTA1MQ==&mid=2247499601&idx=1&sn=4d86ea1fc7ca8719ad540220a3f56ea8&chksm=c0f89425f78f1d33e0d4fccaca873b3ad0e91287106094ae487bbabab08e9e9440f944b1d88a&scene=27#wechat_redirect)
+[:camera_flash:【2022-10-08 15:39:01】](https://mp.weixin.qq.com/s?__biz=MzkwNTI4MTA1MQ==&mid=2247499605&idx=1&sn=baa86a78081adb85c543ff1fa1cd5b32&chksm=c0f89421f78f1d37f403d6c7485f434b92457ef25735013b06ac67b99321019c49b3ca1f2b7d&scene=27#wechat_redirect)
 
 安全服务
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_c9e26ce99897" alt="" />
+
+---
+
+
+### [虚拟框架](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Njg5ODU2NA==)
+
+[:chart_with_upwards_trend:【1/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Njg5ODU2NA==)
+
+[:camera_flash:【2022-09-24 20:00:21】](https://mp.weixin.qq.com/s?__biz=MjM5Njg5ODU2NA==&mid=2257500501&idx=1&sn=404ab0c9ed93918e452b56fceaaa3bb9&chksm=a5982b3e92efa228cf61929125213f0333780357199f8ef8d633f088764c842270e93c78377b&scene=27#wechat_redirect)
+
+解锁 Android 手机黑科技！
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_39c8fb2fc8b4" alt="" />
+
+---
+
+
+### [网安寻路人](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxODM0NDU4MQ==)
+
+[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxODM0NDU4MQ==)
+
+[:camera_flash:【2022-10-08 09:13:11】](https://mp.weixin.qq.com/s?__biz=MzIxODM0NDU4MQ==&mid=2247496147&idx=1&sn=d00a8675a91be4a3491491c33196424c&chksm=97e94c39a09ec52fcbad3bfc35755977ea3fb8119628d233b3048dff885d900f09697f200dd4&scene=27#wechat_redirect)
+
+立足本土实践和需求，放眼全球做法和经验，探寻网络空间安全之法道。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e01653781aad" alt="" />
 
 ---
 
@@ -177,6 +177,19 @@ NOVA SEC  新星安全 萌新启蒙之路 愿大家都能成为最闪耀的星�
 安全业务介绍
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_452ee5a4fb24" alt="" />
+
+---
+
+
+### [朴实无华lake2](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NTc0MjAwMg==)
+
+[:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NTc0MjAwMg==)
+
+[:camera_flash:【2022-10-03 21:00:37】](https://mp.weixin.qq.com/s?__biz=Mzg4NTc0MjAwMg==&mid=2247484184&idx=1&sn=1a91ce0308dfeac5df912fdefc44e8b2&chksm=cfa503c5f8d28ad3355770c9088cf33d7eb73eb3cb738bf32f3794e1002f57fc9feaee72b78a&scene=27#wechat_redirect)
+
+生活就是这么朴实无华，且枯燥
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_5a6a4859bf2d" alt="" />
 
 ---
 
@@ -207,6 +220,45 @@ NOVA SEC  新星安全 萌新启蒙之路 愿大家都能成为最闪耀的星�
 ---
 
 
+### [白帽学子](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNzIxMjM3Mg==)
+
+[:chart_with_upwards_trend:【1/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNzIxMjM3Mg==)
+
+[:camera_flash:【2022-10-08 08:10:10】](https://mp.weixin.qq.com/s?__biz=MzkyNzIxMjM3Mg==&mid=2247483901&idx=1&sn=40fd3f5ecb4c879513ed8e9192e1e27e&chksm=c22a37c6f55dbed0ecc5202d70ab79d5f3a3ae01e7697fdbf5d2b6381d6bfbf09c9758c3c974&scene=27#wechat_redirect)
+
+专注安全研究、漏洞复现、代码审计等技术方向，有时会分享安全圈的资讯和职场分析！
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4bda7b44c1e3" alt="" />
+
+---
+
+
+### [红队攻防](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2MjYxODY2Mw==)
+
+[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2MjYxODY2Mw==)
+
+[:camera_flash:【2022-10-05 20:26:01】](https://mp.weixin.qq.com/s?__biz=Mzg2MjYxODY2Mw==&mid=2247484248&idx=1&sn=eaef563977480a432b6581748d704d52&chksm=ce045610f973df06b39980740547ac14981c9b91448a367d15564542aca09798e98f3877a372&scene=27#wechat_redirect)
+
+定期分享渗透知识，渗透思路，漏洞研究及复现等文章
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_33e72d8a2c87" alt="" />
+
+---
+
+
+### [赛博堡垒](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMTI4MDI3NQ==)
+
+[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMTI4MDI3NQ==)
+
+[:camera_flash:【2022-10-08 22:49:51】](https://mp.weixin.qq.com/s?__biz=MzkxMTI4MDI3NQ==&mid=2247483999&idx=1&sn=f247d47e92c1905853b7a68117fa01e6&chksm=c11fd3a3f6685ab581a70565f7bf6f046f0a0ef1a87d7c5fc31a834d73eab801ef3b410031e9&scene=27&key=3b90a962c7574fe1c45e90b915e4513d9c417abf696d1562fecc548ab34da3afe52d6ab889e0849b837ce13e5337c675636f73d627fef8f4761415866683c5398c8a8d4706a7dbc23b2624e94c051a5b171a2d97b18b877765a6a19e468be9720256e37ce07e0785d97fa684b9eedd8e3afddb1ad187b1df770593e228298f1c&ascene=15&uin=MTA3Mzc3OTIzNQ%3D%3D&devicetype=Windows+Server+2016+x64&version=63070517&lang=zh_CN&session_us=gh_b8318b066606&exportkey=n_ChQIAhIQ9fdVGPhAfwr6BuY5YjrJRxL5AQIE97dBBAEAAAAAAGrLOd%2Bu460AAAAOpnltbLcz9gKNyK89dVj0tYQ7RfAPyoicGTQDUJCWUSzDOpUuSCx9V3f68ElAaDZtPfl7uiDsaU2iO6RdleBmlp8wkhmN2T8n6EEgf0E69mtAkgErgk48njXTtKHEPLPUbkT%2Bs5kfxHHRP72NXqgwnueTphsEGQLe0kmgdFVOYo21WJhHw%2FzM5MXdzVZtHUTIc4s8ELkf7%2BVJIKa3BMg5qs8KGuevPVLFGUggBtsgdzpXOz6eUtFz4hHD5WI05JKOLsThWzD4kuYFV74FFGVUXOCAC3fjAHILFXz3jQd63JuqwA%3D%3D&acctmode=0&pass_ticket&scene=27#wechat_redirect)
+
+赛博堡垒专注于为关键性基础设施构建基于硬件安全，固件安全，Linux内核安全以及密码工程的全链条的防护体系。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_099f3e462773" alt="" />
+
+---
+
+
 ### [lymmmx](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3NTExMDc0OQ==)
 
 [:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3NTExMDc0OQ==)
@@ -224,7 +276,7 @@ lymmmx
 
 [:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MjQwMTAyOQ==)
 
-[:camera_flash:【2022-09-18 21:44:05】](https://mp.weixin.qq.com/s?__biz=MzI1MjQwMTAyOQ==&mid=2247483807&idx=1&sn=711da6c9c39210fbd8c55f5ae368e2b8&chksm=e9e50575de928c6348e888eb95e86e146db0345158afa2deb93a81a1d82a9a05290f0046f1d3&scene=27#wechat_redirect)
+[:camera_flash:【2022-10-08 19:59:14】](https://mp.weixin.qq.com/s?__biz=MzI1MjQwMTAyOQ==&mid=2247483812&idx=1&sn=b041e82f29b787452ae0b537349cac1a&chksm=e9e5054ede928c583ff78fa5fe3b85b580ea69542c8ed81687fd4b7dc91e8fec11e01adb0aaa&scene=27#wechat_redirect)
 
 不谈技术，只说故事。喝完这杯，还有三杯
 
@@ -255,6 +307,19 @@ lymmmx
 专注安管平台、SIEM、SOC、SOAR、大数据安全分析、态势感知等平台类安全领域。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_48603b9bb05a" alt="" />
+
+---
+
+
+### [RainSec](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NzczOTA3OQ==)
+
+[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NzczOTA3OQ==)
+
+[:camera_flash:【2022-10-08 15:07:29】](https://mp.weixin.qq.com/s?__biz=Mzg3NzczOTA3OQ==&mid=2247485751&idx=1&sn=912bbcd7ff29b312ccbbd4ae02c859ac&chksm=cf1f241ff868ad09c1b32846a65553fddb223b944f0f2a71c6cc38cf5d7d359fb1214b1c2847&scene=27#wechat_redirect)
+
+致力于云原生安全和自动化渗透测试的研究与分享
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_33d1054dff82" alt="" />
 
 ---
 
@@ -294,32 +359,6 @@ PeckShield (派盾) -- 全球领先的区块链安全守护者。
 分享渗透，安服方面的知识，从浅到深，循序渐进。在渗透的路上，让我们从学徒出发。   此公众号提供的任何工具仅供实验使用，如用于其它用途使用，本公众号概不承担任何责任。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_20d07d60856a" alt="" />
-
----
-
-
-### [红队攻防](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2MjYxODY2Mw==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2MjYxODY2Mw==)
-
-[:camera_flash:【2022-10-05 20:26:01】](https://mp.weixin.qq.com/s?__biz=Mzg2MjYxODY2Mw==&mid=2247484248&idx=1&sn=eaef563977480a432b6581748d704d52&chksm=ce045610f973df06b39980740547ac14981c9b91448a367d15564542aca09798e98f3877a372&scene=27#wechat_redirect)
-
-定期分享渗透知识，渗透思路，漏洞研究及复现等文章
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_33e72d8a2c87" alt="" />
-
----
-
-
-### [赛博堡垒](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMTI4MDI3NQ==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMTI4MDI3NQ==)
-
-[:camera_flash:【2022-09-20 13:45:27】](https://mp.weixin.qq.com/s?__biz=MzkxMTI4MDI3NQ==&mid=2247483969&idx=1&sn=ee390bf20d4ea3924168c899dc7bd36b&chksm=c11fd3bdf6685aab8b22077d48db2f9d1e7b24a5727dc3c712c79316e814a5a70b43ddae30b2&scene=27&key=b9f9fe4690f0a07c4ef342d56f61d9b9194e9c7a899e2947dbf387c7acb22fa504a90e97e17a04641c68c9d937f6c0a754f8279fe83e60ef09de0ea57e28d109319ec5e8eecf8fa57d9c752819837c639191298b2836ee353a433a6c09aee05a76ff79774bd9d621073a4b4249a553a8c8d06575fd85691564e717bcd46268c0&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+Server+2016+x64&version=63070517&lang=zh_CN&session_us=gh_ab0a19ae353a&exportkey=A2x9RtvOYK%2B9VMaTrDln3qY%3D&acctmode=0&pass_ticket=hxQiDiiHoVu%2FnLLtK5vqLxMBYftdtcLiVJNGw1RAuqoytm7e12b7UfGTPZFRiefQ&wx_header=0&fontgear=2&scene=27#wechat_redirect)
-
-赛博堡垒专注于为关键性基础设施构建基于硬件安全，固件安全，Linux内核安全以及密码工程的全链条的防护体系。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_099f3e462773" alt="" />
 
 ---
 
@@ -536,7 +575,7 @@ What is Security?
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2Njg1OTA3OA==)
 
-[:camera_flash:【2022-09-03 16:28:59】](https://mp.weixin.qq.com/s?__biz=MzI2Njg1OTA3OA==&mid=2247483965&idx=1&sn=24aee2e8070fba339a157aa59e0eb875&chksm=ea86e514ddf16c02ce523f2a1cd737cfc03ae7988cc680f368798420c5bbcf34cca63ac6b6a2&scene=27#wechat_redirect)
+[:camera_flash:【2022-10-08 08:29:44】](https://mp.weixin.qq.com/s?__biz=MzI2Njg1OTA3OA==&mid=2247483974&idx=1&sn=b1e462eebdea903e0008ae2b6b3c0e3f&chksm=ea86e56fddf16c79d9449a1759873f54cff38db4842f4b029ca2d9e791a0af0ec66fb340aec2&scene=27#wechat_redirect)
 
 杂七杂八的分享
 
@@ -649,19 +688,6 @@ What is Security?
 ---
 
 
-### [朴实无华lake2](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NTc0MjAwMg==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NTc0MjAwMg==)
-
-[:camera_flash:【2022-10-03 21:00:37】](https://mp.weixin.qq.com/s?__biz=Mzg4NTc0MjAwMg==&mid=2247484184&idx=1&sn=1a91ce0308dfeac5df912fdefc44e8b2&chksm=cfa503c5f8d28ad3355770c9088cf33d7eb73eb3cb738bf32f3794e1002f57fc9feaee72b78a&scene=27#wechat_redirect)
-
-生活就是这么朴实无华，且枯燥
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_5a6a4859bf2d" alt="" />
-
----
-
-
 ### [Nurburgring](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNjIxNDIyMA==)
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNjIxNDIyMA==)
@@ -727,19 +753,6 @@ What is Security?
 ---
 
 
-### [RainSec](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NzczOTA3OQ==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NzczOTA3OQ==)
-
-[:camera_flash:【2022-08-19 09:00:48】](https://mp.weixin.qq.com/s?__biz=Mzg3NzczOTA3OQ==&mid=2247485716&idx=1&sn=6837d1c20f3d46646b34787886f83690&chksm=cf1f243cf868ad2a00604327cc5db79abeae15509654153b5dab1afd492dce9c28afc324d4cc&scene=27#wechat_redirect)
-
-致力于云原生安全和自动化渗透测试的研究与分享
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_33d1054dff82" alt="" />
-
----
-
-
 ### [友创佳业](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0MTAyMzAxNg==)
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0MTAyMzAxNg==)
@@ -783,7 +796,7 @@ What is Security?
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzE2ODAyNA==)
 
-[:camera_flash:【2022-06-28 12:23:40】](https://mp.weixin.qq.com/s?__biz=MzU3MzE2ODAyNA==&mid=2247484682&idx=1&sn=97caf08ed09c6f250ab25f9a9c72cb3a&chksm=fcc485fdcbb30ceb2b5a4ab047a4b1406bb5913e3f5de3545f78ac7e5f0439864e7ac54e9e67&mpshare=1&scene=1&srcid=0628XMAo2i50ncgaT9y7Lu3p&sharer_sharetime=1656396049066&sharer_shareid=3e03111671af4cfd3d37a92be8338434&key=a42ed7a44607670de427c2b8980dbf2cf8f3baeb136ff3e3a7231054d81b2119720daec33cac6504411b70c55682d13811d95336b3139f2d5785ab08425fc2f0da6930ec0aaa3c3850670be0281287d649d9860630301ba7b52152491f10dcad694ddbf9fdf7a5e57d55cc784aa01245b4dbc4b25c8d2e5c66cea8a6c47133fe&ascene=1&uin=MTA3Mzc3OTIzNQ%3D%3D&devicetype=Windows+Server+2016+x64&version=6307001e&lang=zh_CN&exportkey=AVm4lC6BEmAW63D1DyBbS3Q%3D&acctmode=0&pass_ticket=sKNK3ur%2Bb1y%2F5r54bUQpdAiUD6mFZMhVBFbNRVyVltYCv4RpXfE08XwnQ7CIHFlc&wx_header=0&fontgear=2&scene=27#wechat_redirect)
+[:camera_flash:【2022-10-08 09:22:39】](https://mp.weixin.qq.com/s?__biz=MzU3MzE2ODAyNA==&mid=2247484692&idx=1&sn=917233d77cc9166d530e4fa9b3cbd7be&chksm=fcc485e3cbb30cf590c232ca8e6844b71fcbed56efaa6186484e7d42f937ed39ecff5e44ed33&key=b9f9fe4690f0a07cd42ba21afdd8b6924968872e9ad5ecec568d90fa8eca255d57bf7d03ec2d1bb51dd782eff06fc6dbb1e6cf06025a5f2ed59a8dbfaf3f5999cbabc68b6b85d0dac98a595114c50c38c62060a2b6ecae3f4dd0baa749e5a75f9b8f77267b91306b121304caf4231a0d1480d25098c5fb2e1df9f620f50983c0&ascene=51&uin=NTY2NTA4NjQ%3D&devicetype=Windows+Server+2016+x64&version=63070517&lang=zh_CN&session_us=gh_8ee4dc745ac2&exportkey=A38h7p8ratIxRzAfqeNirr0%3D&acctmode=0&pass_ticket=emYPUvePlyg8wO4dtUjIAJrcKT55D9BHk%2FhyodJ4reYwATwMSaSFlnkTuO%2BiaCfs&wx_header=0&fontgear=2&scene=27#wechat_redirect)
 
 专注信息安全红队培训 AND 反电信诈骗！
 
@@ -814,19 +827,6 @@ What is Security?
 小资青年Ai4，有品味的青年公众号，在做资源分享的同时，也作为个人成长的记录！欢迎各位批评指正！
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_67ae989c4800" alt="" />
-
----
-
-
-### [白帽学子](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNzIxMjM3Mg==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNzIxMjM3Mg==)
-
-[:camera_flash:【2022-08-15 08:10:39】](https://mp.weixin.qq.com/s?__biz=MzkyNzIxMjM3Mg==&mid=2247483887&idx=1&sn=10a9bbb3b0112c83a475987a725d1987&chksm=c22a37d4f55dbec244387b9584fa92e6f665e5d0a5ad213453561f82bab98bbf5639001ebd76&scene=27#wechat_redirect)
-
-专注安全研究、漏洞复现、代码审计等技术方向，有时会分享安全圈的资讯和职场分析！
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4bda7b44c1e3" alt="" />
 
 ---
 
