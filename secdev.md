@@ -1,7 +1,7 @@
 
 ### [商密君](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
 
-[:chart_with_upwards_trend:【0/112/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
+[:chart_with_upwards_trend:【0/116/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
 
 [:camera_flash:【2022-10-11 18:24:16】](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247583352&idx=1&sn=b0c2852bd69535105a6906f3e2bc3f69&chksm=ec579623db201f358caf8503ba0d73859af91b77f2fca2f4cbb0c29b668b1ff8d5bb0107c803&scene=27#wechat_redirect)
 
@@ -53,7 +53,7 @@
 
 ### [君哥的体历](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MjQ1NTA4MA==)
 
-[:chart_with_upwards_trend:【4/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MjQ1NTA4MA==)
+[:chart_with_upwards_trend:【6/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MjQ1NTA4MA==)
 
 [:camera_flash:【2022-10-12 07:00:46】](https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247488934&idx=1&sn=ac13030e7243f685761ef007ab28d3a7&chksm=ea4bbfe1dd3c36f74d774ed9601073db6633300340ba9305dc47ab2eb9ff7eff1b10f76ba086&scene=27#wechat_redirect)
 
@@ -66,13 +66,26 @@
 
 ### [绿盟科技金融事业部](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2NDI5MTg4MA==)
 
-[:chart_with_upwards_trend:【0/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2NDI5MTg4MA==)
+[:chart_with_upwards_trend:【0/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2NDI5MTg4MA==)
 
-[:camera_flash:【2022-10-09 10:24:23】](https://mp.weixin.qq.com/s?__biz=MzI2NDI5MTg4MA==&mid=2247492337&idx=1&sn=19d3c7bccde1dfb179f9752b8e6b2985&chksm=eaac71b6dddbf8a0d92bb5f3ef2aab337cd4fa262406b2305c595374466d413ee9e318cd1d3d&scene=27#wechat_redirect)
+[:camera_flash:【2022-10-10 18:51:51】](https://mp.weixin.qq.com/s?__biz=MzI2NDI5MTg4MA==&mid=2247492342&idx=1&sn=8e135f8773cce274de10636218600953&chksm=eaac71b1dddbf8a738b4e229b0bfec901b7ad3257359b14e2ae7dedafa2eb93844b0e70b42dc&scene=27&key=da9eb3f945dd83b4b2296ca2d107b7113ca032c62b0f561639e30e9f0a8b15428bfd23141ffaab27f28a46619a73a9b3e70e76485270256cf8d452cd94114a16065b7e85729830b481e1b585f9537ebd55acd3ef829fabb06ecd6f8662545fe5a69650fca02dad7723c003de1b775a54324384b27e7b87f26a30b44ac9ccbd88&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+Server+2016+x64&version=63070517&lang=zh_CN&session_us=gh_448dbe1f6d82&exportkey=n_ChQIAhIQfdavXdveF2QaT2heiIp%2FaRL4AQIE97dBBAEAAAAAAIIABO6cn80AAAAOpnltbLcz9gKNyK89dVj0U%2FYXL2bBa35flmgU4sUwVBZmxf%2B%2BvUC%2BPVN20Hbp5RlcjZOfEvUZCW7RJS3b%2F%2F1KdqmI8FIv8FmxrGOXRY47DzNxx7xcWQpUXKLArLNG7hz3T791aAmkGF%2B7ZtmQcGoV6o7lTnnSU1ZcGVrlu%2BaPMZ0FEEkPPt7FhNdy58IvAvIDokb%2F21L7EgvZDd%2FbPRhs9B5vINqiTEQjRMqXPgIdxp4pMPcrD4%2FYwKwahmBRLicCnuDJJ70V0dxWIOlzU7qbikWIFJTxn55PEyDIs09Fiv3V&acctmode=0&pass_tick&scene=27#wechat_redirect)
 
 该账号由绿盟科技金融事业部维护，用于发布金融行业相关安全资讯等内容
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_de59bd871eb8" alt="" />
+
+---
+
+
+### [乐枕迭代日志](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NTMyNDg3OQ==)
+
+[:chart_with_upwards_trend:【3/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NTMyNDg3OQ==)
+
+[:camera_flash:【2022-10-09 20:23:40】](https://mp.weixin.qq.com/s?__biz=MzA3NTMyNDg3OQ==&mid=2652519445&idx=1&sn=1cd17f16d45fbb0facd4216d4baf2941&chksm=849cd0b5b3eb59a3d02e18b9042f9445dadec0c81d455752a7ab0fd9e2f7ce8cbb351ceddf5c&scene=27#wechat_redirect)
+
+网络安全创业者，CTO@星阑科技。浪漫世界，一起折腾！
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_6410a4e28c9e" alt="" />
 
 ---
 
@@ -103,19 +116,6 @@ vivo全新的安全品牌，有人文温度的科技新媒体，致力于让亿�
 ---
 
 
-### [乐枕迭代日志](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NTMyNDg3OQ==)
-
-[:chart_with_upwards_trend:【2/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NTMyNDg3OQ==)
-
-[:camera_flash:【2022-10-09 20:23:40】](https://mp.weixin.qq.com/s?__biz=MzA3NTMyNDg3OQ==&mid=2652519445&idx=1&sn=1cd17f16d45fbb0facd4216d4baf2941&chksm=849cd0b5b3eb59a3d02e18b9042f9445dadec0c81d455752a7ab0fd9e2f7ce8cbb351ceddf5c&scene=27#wechat_redirect)
-
-网络安全创业者，CTO@星阑科技。浪漫世界，一起折腾！
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_6410a4e28c9e" alt="" />
-
----
-
-
 ### [OWASP](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTk5NDMyMw==)
 
 [:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTk5NDMyMw==)
@@ -125,6 +125,19 @@ vivo全新的安全品牌，有人文温度的科技新媒体，致力于让亿�
 OWASP中国，SecZone互联网安全研究中心官方平台
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_6977ebcf9804" alt="" />
+
+---
+
+
+### [薄说安全](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NzU3MzkyMg==)
+
+[:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NzU3MzkyMg==)
+
+[:camera_flash:【2022-10-06 07:01:00】](https://mp.weixin.qq.com/s?__biz=Mzg2NzU3MzkyMg==&mid=2247484330&idx=1&sn=5664db9134db4c6186208ed649d9120c&chksm=ceb8ca67f9cf43716879fd23ccbf2b80e7586d817e3df495f89ba90815bdccef297e5565fb09&scene=27#wechat_redirect)
+
+关于功能安全、信息安全、系统工程方法的工作感悟，资讯分享。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_956e8befd9f9" alt="" />
 
 ---
 
@@ -164,19 +177,6 @@ OWASP中国，SecZone互联网安全研究中心官方平台
 青藤智库，网安人的智囊团！
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_7294abd08445" alt="" />
-
----
-
-
-### [薄说安全](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NzU3MzkyMg==)
-
-[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NzU3MzkyMg==)
-
-[:camera_flash:【2022-10-06 07:01:00】](https://mp.weixin.qq.com/s?__biz=Mzg2NzU3MzkyMg==&mid=2247484330&idx=1&sn=5664db9134db4c6186208ed649d9120c&chksm=ceb8ca67f9cf43716879fd23ccbf2b80e7586d817e3df495f89ba90815bdccef297e5565fb09&scene=27#wechat_redirect)
-
-关于功能安全、信息安全、系统工程方法的工作感悟，资讯分享。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_956e8befd9f9" alt="" />
 
 ---
 
