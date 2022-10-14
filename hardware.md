@@ -1,9 +1,9 @@
 
 ### [IoVSecurity](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
 
-[:chart_with_upwards_trend:【0/72/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
+[:chart_with_upwards_trend:【0/69/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
 
-[:camera_flash:【2022-10-11 23:47:44】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247559838&idx=1&sn=b3ce7ecf1d94d7d17ae456443f53236a&chksm=fc03ba54cb743342d20b1f09999dd162437e1a958431083f1fae1bcf5b2515df551698ab6bd0&scene=27#wechat_redirect)
+[:camera_flash:【2022-10-13 23:43:41】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247559878&idx=1&sn=e16ad9b7aa9aeab267c3646817c45e3d&chksm=fc03ba0ccb74331acba3626b6231131094507536b43dd00a773ee1367b9a549dcdcfd6e517a7&scene=27#wechat_redirect)
 
 为智能网联汽车行业专业人士提供信息和网络安全技术、产品及服务等行业发展最新咨询
 
@@ -14,9 +14,9 @@
 
 ### [网络安全与取证研究](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTU3NTY0Nw==)
 
-[:chart_with_upwards_trend:【0/25/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTU3NTY0Nw==)
+[:chart_with_upwards_trend:【0/24/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTU3NTY0Nw==)
 
-[:camera_flash:【2022-10-12 11:13:38】](https://mp.weixin.qq.com/s?__biz=Mzg3NTU3NTY0Nw==&mid=2247485077&idx=1&sn=399a7d5493bf568c203033e0b80f0320&chksm=cf3e26a5f849afb32387c2daaed7b94d884fca67d1ea58d03b9a18e5107ed2b2b80e155398f0&scene=27#wechat_redirect)
+[:camera_flash:【2022-10-13 07:39:15】](https://mp.weixin.qq.com/s?__biz=Mzg3NTU3NTY0Nw==&mid=2247485081&idx=1&sn=544a3d895b1276bfcce1f90cca816f9e&chksm=cf3e26a9f849afbf00dfa93973f736b0baa95ee71e15ee45e03614a59dabfcb957e79626215e&scene=27#wechat_redirect)
 
 旨于开展网络安全相关法律法规研究与电子数据取证技术研究，分享小知识、小技巧，共同学习提高，推进技术规范化建设。
 
@@ -40,7 +40,7 @@
 
 ### [IoT物联网技术](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
 
-[:chart_with_upwards_trend:【0/16/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
+[:chart_with_upwards_trend:【0/15/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
 
 [:camera_flash:【2022-10-10 19:21:33】](https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&mid=2454929734&idx=1&sn=7b46f3317f2e739b375e464acc789593&chksm=b1670c098610851fdda96fb3c704a52848758a7f079080955df7b6f497dfffeaf594a0eaf4ee&scene=27&key=b94dfdab45ea2e7932663f4bf4745d009c9665e75e13f4206dddfea38b0cb32b02964c3628b4131ed223124f594b39c622a3e7a21207f6ed253089168f4a1a6f3207603438f1c89914c2f913c3b6bef470fedd0774c7cdfa21357e23bf4c122622b7581cb1b5b5f500f45f9427fa7c768aab3df50523de00ca4268c00d1824bf&ascene=15&uin=MTA3Mzc3OTIzNQ%3D%3D&devicetype=Windows+Server+2016+x64&version=63070517&lang=zh_CN&session_us=gh_f09f6d0a4aee&exportkey=n_ChQIAhIQoujt32dLIz1xWGTI2YmxAhL5AQIE97dBBAEAAAAAAF%2BXB58lttIAAAAOpnltbLcz9gKNyK89dVj0Jhcjd6EQgxJeC2Xs8zn5b%2BwHBsyRMHUYSM0uLNbwHRIU1NderKepxiJ%2BvJ%2BntXFjaJhANeV3LXfJiL9w%2ByWNGhHGAUEXfRel4pKCGZfhfT861w9E1ORL90%2B8rZzt4kBvETZ7v2sYX%2F%2FcmAWXTojfXtH0ESIWNikehK9aNsv6rDDEff8SbitkK9BzQL983Chc5BiTRk%2Baa%2BHDnZxJZZYW2j044Pi%2BoZA%2BvskgRp4pfhrIdhUtWjNJVgWD0qNxoLOjlh7Fdx06T%2F9WJpuz8gjycd1oVA%3D%3D&acct&scene=27#wechat_redirect)
 
@@ -125,19 +125,6 @@
 未知攻，焉知防，专注于高级威胁研究与数字调查取证。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ea4772086043" alt="" />
-
----
-
-
-### [信睿网络](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MDA2NjExMA==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MDA2NjExMA==)
-
-[:camera_flash:【2022-09-13 14:00:29】](https://mp.weixin.qq.com/s?__biz=Mzg4MDA2NjExMA==&mid=2247489165&idx=1&sn=4616f5d7f3f88b32ad837a4109b1323d&chksm=cf7bbddcf80c34cae9a6d4f719e4d265ecf48e7379269f76cbfc9440d92ec70e0ac17189843b&key=512fb80aa4f22d2a95b7e1b71f9f9c6ed6e79b139d40f5d37a71ef1ad77c21c53a336bd7f1be9b9e8e43c041204a62df0614ccb942fd9919ec60d5bb61720009f3f628970c8bca1dca45f37effda4e09156e77dbfe659229e76f9f0fbb0a5ec1f0fd75c960bf0ea4cec46ce8e49acbf1cd4717a9b4367bcb88102048a2844b62&ascene=51&uin=MTA3Mzc3OTIzNQ%3D%3D&devicetype=Windows+Server+2016+x64&version=63070517&lang=zh_CN&session_us=gh_18cae47da613&exportkey=AeSFJqyljaIkmcoJSRnXnxs%3D&acctmode=0&pass_ticket=0lk%2FhEKvpqFsLx2rntVlq4e%2BSshu%2B%2Bmv9zIgMr0U21w3%2FiShDAxVVXOhiWslgRLg&wx_header=0&fontgear=2&scene=27#wechat_redirect)
-
-吉林省信睿网络官方公众号
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_18cae47da613" alt="" />
 
 ---
 
@@ -294,6 +281,19 @@ Power by Gh0xE9 Team, Just join us &lt;3; Gh0xE9 Team Welcomes universities and 
 关注汽车网络安全，定期发布最专业的汽车网络安全攻防实验室相关实验结果，公开一些汽车网络攻防实验的细节，公布发现的汽车安全漏洞以帮助生产厂家认识到安全隐患！针对联网化的汽车网络安全性提供研究测试和公开报告！
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_85e019862246" alt="" />
+
+---
+
+
+### [信睿网络](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MDA2NjExMA==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MDA2NjExMA==)
+
+[:camera_flash:【2022-10-13 10:00:53】](https://mp.weixin.qq.com/s?__biz=Mzg4MDA2NjExMA==&mid=2247489186&idx=1&sn=831429358ea77bf3a0ab83fbe2513d7f&chksm=cf7bbdf3f80c34e53731e4df29a889fca1fb5a7d26aea9660691aa64438c819304ae82b5068f&key=d8221f16b48f88c896ddb77c997d07353071b19844d63be7b7112d8e7e6644f8e9f4b0756b106046f95d3a241fa7915a90cb9be874d39bb1fc5bafe7abddc05e7b923656011542876468bf1c4ae61f4b013462c3f12ddb28006e5eeaccd62e048860a63e63101a9684daa3de5c0822a1040ee31de87f89bd17401b9637157ad1&ascene=51&uin=MTA3Mzc3OTIzNQ%3D%3D&devicetype=Windows+Server+2016+x64&version=63070517&lang=zh_CN&session_us=gh_18cae47da613&exportkey=n_ChQIAhIQSNu2FU2CY89hnPdoj%2FWDMBL5AQIE97dBBAEAAAAAAIfRDnC%2BokUAAAAOpnltbLcz9gKNyK89dVj0qBuvH%2B5rFbJVT%2F3EskLwillXD2CEL%2FPE7DLcYYzdb4Ua%2F6hChM4e2d%2F0REB8KaLEY%2B1HySLOXSjdy6u7vf6McR2zyiQVpJfO40f%2BJRgvuMGmZ9yLSdWGhFQJ6Yd5XtFjbXZUkbqpYG1o4yF8FZ9lK5f6Wy027tMn75M2EZNXCjiD8hNBEan%2BneYRnF6mV51y9y%2Fv7WG5ZGWMdkSlM%2BRrF2ASVJgP3kwV08ahL12Ac2bTo0wcVFfDHCiMVI321IWi0AIK1RmNY8VlVqxSPU2SOGm%2BOw%3D%3D&acctmode=0&pa&scene=27#wechat_redirect)
+
+吉林省信睿网络官方公众号
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_18cae47da613" alt="" />
 
 ---
 
