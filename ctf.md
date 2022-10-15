@@ -1,9 +1,9 @@
 
 ### [寰宇卫士](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
 
-[:chart_with_upwards_trend:【0/16/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
+[:chart_with_upwards_trend:【0/19/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
 
-[:camera_flash:【2022-10-13 14:56:50】](https://mp.weixin.qq.com/s?__biz=MzIwMzU0NDY5OA==&mid=2247494928&idx=1&sn=f8e33ee9463906ca10f37ef12f5b7ad4&chksm=96cf6c05a1b8e51319e34edf250b680da21c43e66b521ae598b1f2d0008f427e6d9b633e6770&scene=27#wechat_redirect)
+[:camera_flash:【2022-10-14 10:01:57】](https://mp.weixin.qq.com/s?__biz=MzIwMzU0NDY5OA==&mid=2247494939&idx=1&sn=e8ce812695b21e54c155833c16861740&chksm=96cf6c0ea1b8e5187833469e4ec62bd6ecb608a429d6a5fc6b807ce3c5542a9bacbc3c6a7106&scene=27#wechat_redirect)
 
 寰宇卫士综合安全咨询、安全服务、解决方案、认证培训、产品研发等信息安全多元化产业链为一体。
 
@@ -27,7 +27,7 @@
 
 ### [XCTF联赛](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
 
-[:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
+[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
 
 [:camera_flash:【2022-10-09 18:42:51】](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247507714&idx=1&sn=0f645e32f9e3b55cf75185ebe82c5bf8&chksm=a6872d3891f0a42e271814984bd07452ca5e669c23bf9ccc7667475a8ecf6e84c67c3c16865c&scene=27#wechat_redirect)
 
@@ -40,9 +40,9 @@
 
 ### [春秋伽玛](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
 
-[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
+[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
 
-[:camera_flash:【2022-09-21 17:00:40】](https://mp.weixin.qq.com/s?__biz=MzkyNDA5NjgyMg==&mid=2247494430&idx=1&sn=f9be6a640e4fba0419ffa49f1cee6930&chksm=c1d9ab47f6ae225109ca26ff4342692df46d251e40bd64231619dd11f55bf4a8c97a0ccce857&scene=27#wechat_redirect)
+[:camera_flash:【2022-10-14 16:01:35】](https://mp.weixin.qq.com/s?__biz=MzkyNDA5NjgyMg==&mid=2247494439&idx=1&sn=8efadebd20898ae103753e851b944a74&chksm=c1d9ab7ef6ae2268a575772cfd957099e43d493b989da02db2b41fe93c1b1b3f117f8b264a95&scene=27#wechat_redirect)
 
 春秋伽玛，为广大网络安全爱好者传递网络安全大赛相关赛事信息，提供优质的赛事服务平台
 
@@ -99,6 +99,19 @@ X是未知，更是无限，邀您一道创造、见证和实现X-Plan，北斗�
 强网竞赛是面向高等院校和国内信息安全企业的国家级赛事，旨在通过高对抗的竞技比赛，发现锻造网络安全领域优秀人才，提高国家网络安全保障能力，提升全民网络安全意识。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_cf8bfd7de794" alt="" />
+
+---
+
+
+### [BugKu](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3ODQ2MDMxMg==)
+
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3ODQ2MDMxMg==)
+
+[:camera_flash:【2022-10-09 08:30:01】](https://mp.weixin.qq.com/s?__biz=MzU3ODQ2MDMxMg==&mid=2247485434&idx=1&sn=1e2ccfc142f55f9c1a244c883aacebfd&chksm=fd74480dca03c11b6f9dc12755fe0a7ac0276f2c545ec34e1f52edc261a5711dd6599e63f73d&scene=27#wechat_redirect)
+
+关注网络安全，和你一起分享安全技术。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_d10dfd684f1b" alt="" />
 
 ---
 
@@ -268,19 +281,6 @@ ctf技术交流。
 CTF协会
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_1e4280acde68" alt="" />
-
----
-
-
-### [BugKu](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3ODQ2MDMxMg==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3ODQ2MDMxMg==)
-
-[:camera_flash:【2022-10-09 08:30:01】](https://mp.weixin.qq.com/s?__biz=MzU3ODQ2MDMxMg==&mid=2247485434&idx=1&sn=1e2ccfc142f55f9c1a244c883aacebfd&chksm=fd74480dca03c11b6f9dc12755fe0a7ac0276f2c545ec34e1f52edc261a5711dd6599e63f73d&scene=27#wechat_redirect)
-
-关注网络安全，和你一起分享安全技术。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_d10dfd684f1b" alt="" />
 
 ---
 
