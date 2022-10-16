@@ -14,9 +14,9 @@
 
 ### [启明星辰网络空间安全学院](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
 
-[:chart_with_upwards_trend:【0/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
+[:chart_with_upwards_trend:【0/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
 
-[:camera_flash:【2022-10-13 16:45:44】](https://mp.weixin.qq.com/s?__biz=MzUzNDg0NTc1NA==&mid=2247494505&idx=1&sn=9cb07fdabd2bacdeed38ccdd5ae16ebf&chksm=fa8c2b3ccdfba22a03e5df7a30414d189d45daa675c3e9bb0e29d1c73e73db02d7b85e63f2dd&scene=27#wechat_redirect)
+[:camera_flash:【2022-10-15 16:45:23】](https://mp.weixin.qq.com/s?__biz=MzUzNDg0NTc1NA==&mid=2247494633&idx=1&sn=cb334fadf2d84771cf4cfba9f1ba17f8&chksm=fa8c2bbccdfba2aa15586438f3ec4c05c7e95612e73d98d9c496583af5de1307ad41f73b3f49&scene=27#wechat_redirect)
 
 启明星辰网络空间安全学院以国家网络安全事业发展为使命，依托启明星辰集团多年的技术沉淀及实践积累，提供网络安全人才体系构建与信息安全技术及能力提升教育培训，为建设网络强国提供有力的人才支撑。
 
