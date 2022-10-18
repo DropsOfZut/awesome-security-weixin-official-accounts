@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【0/17/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
 
-[:camera_flash:【2022-10-14 10:01:57】](https://mp.weixin.qq.com/s?__biz=MzIwMzU0NDY5OA==&mid=2247494939&idx=1&sn=e8ce812695b21e54c155833c16861740&chksm=96cf6c0ea1b8e5187833469e4ec62bd6ecb608a429d6a5fc6b807ce3c5542a9bacbc3c6a7106&scene=27#wechat_redirect)
+[:camera_flash:【2022-10-17 14:45:07】](https://mp.weixin.qq.com/s?__biz=MzIwMzU0NDY5OA==&mid=2247494950&idx=1&sn=9fb9788f5b7fc9c6d3602811e73b2309&chksm=96cf6c33a1b8e52517a83a4caec55c90a033c4ecaad15fb40c0449626c0f0b62c3d816dabf9c&scene=27#wechat_redirect)
 
 寰宇卫士综合安全咨询、安全服务、解决方案、认证培训、产品研发等信息安全多元化产业链为一体。
 
@@ -27,7 +27,7 @@
 
 ### [XCTF联赛](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
 
-[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
+[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
 
 [:camera_flash:【2022-10-15 09:00:35】](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247507765&idx=1&sn=1efbf5579db3723a6710f854dd980451&chksm=a6872d0f91f0a419be6180b0e8974d5415000045124d990ec3e1df6668bb42d73bd816b67eba&scene=27#wechat_redirect)
 

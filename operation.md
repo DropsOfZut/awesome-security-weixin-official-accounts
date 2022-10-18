@@ -1,9 +1,9 @@
 
 ### [系统安全运维](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NjE0NDc5OQ==)
 
-[:chart_with_upwards_trend:【0/65/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NjE0NDc5OQ==)
+[:chart_with_upwards_trend:【0/62/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NjE0NDc5OQ==)
 
-[:camera_flash:【2022-10-17 08:08:32】](https://mp.weixin.qq.com/s?__biz=Mzk0NjE0NDc5OQ==&mid=2247511237&idx=1&sn=5356c55a87b26d3eb05c43238c840502&chksm=c3087fb5f47ff6a30261a70dd0111df95f971c70d84c3b4a8150ac853924ed806ecbe5b7f36a&scene=27#wechat_redirect)
+[:camera_flash:【2022-10-18 08:08:28】](https://mp.weixin.qq.com/s?__biz=Mzk0NjE0NDc5OQ==&mid=2247511269&idx=1&sn=44955637da5edc7df227adcffcf38874&chksm=c3087f95f47ff683ce2c707746e1708d881ef4e4b2acd4e06ab67dc07d0f8c9121309ded7bbc&scene=27#wechat_redirect)
 
 未知攻 焉知防 攻防兼备
 
@@ -14,9 +14,9 @@
 
 ### [Linux中国](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ4MjYwMQ==)
 
-[:chart_with_upwards_trend:【48/53/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ4MjYwMQ==)
+[:chart_with_upwards_trend:【46/50/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ4MjYwMQ==)
 
-[:camera_flash:【2022-10-16 19:11:20】](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664668080&idx=1&sn=5f14f8f0fc9a7774e158f06640b532bb&chksm=bdcfa0f68ab829e026b658aae388555c2a5746445c2f5a44d5067de5dd1b59eb68162e93518d&scene=27#wechat_redirect)
+[:camera_flash:【2022-10-17 16:21:46】](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664668168&idx=1&sn=9be511d11c3a21249a25452773068178&chksm=bdcfa74e8ab82e5868441895e7b15d8ef75a57a4ad563d9a0f213c26061126da9438f2c9621b&scene=27#wechat_redirect)
 
 [Linux中国](https://linux.cn/)开源社区官方公众号。专注于开源技术研究、开源思想传播。
 
@@ -27,7 +27,7 @@
 
 ### [kali黑客笔记](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzIwNTY1OA==)
 
-[:chart_with_upwards_trend:【29/30/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzIwNTY1OA==)
+[:chart_with_upwards_trend:【28/29/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzIwNTY1OA==)
 
 [:camera_flash:【2022-10-17 08:00:19】](https://mp.weixin.qq.com/s?__biz=MzkxMzIwNTY1OA==&mid=2247491596&idx=1&sn=287ead3f315b4e0c038bfdde3c0a6e59&chksm=c10390f9f67419ef180e62d89a43dd6af4f95c943f0b9a7e7dce940daeccf42fd10ea785f9f4&scene=27#wechat_redirect)
 
@@ -94,7 +94,7 @@ BAT 技术专家分享开发、架构、运维相关干货！
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI4MDEwNzAzNg==)
 
-[:camera_flash:【2022-10-13 12:18:38】](https://mp.weixin.qq.com/s?__biz=MzI4MDEwNzAzNg==&mid=2649459275&idx=2&sn=b5d315b5c17433d624ea60909cc37bf7&chksm=f3a2ab38c4d5222ef864a40047a0a3a9da3ccd3be14ad87772db954f65a235cf8571fb59b92f&scene=27#wechat_redirect)
+[:camera_flash:【2022-10-17 13:30:13】](https://mp.weixin.qq.com/s?__biz=MzI4MDEwNzAzNg==&mid=2649459284&idx=1&sn=bba724d9761e13da772d7088dc81b6ab&chksm=f3a2ab27c4d52231b968dd42b6f824bd3c2c2c4956228dd5fe130193ebca364d9b4f3d330de9&scene=27#wechat_redirect)
 
 专注分享Linux/Unix相关内容，包括Linux命令、Linux内核、Linux系统开发、Linux运维、网络编程、开发工具等Linux相关知识和技术
 
@@ -120,7 +120,7 @@ BAT 技术专家分享开发、架构、运维相关干货！
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4Nzg5Nzc5OA==)
 
-[:camera_flash:【2022-10-17 07:10:47】](https://mp.weixin.qq.com/s?__biz=MzA4Nzg5Nzc5OA==&mid=2651724703&idx=1&sn=ae7072bb8ae253d1640b202b7344fb32&chksm=8bc8d836bcbf51205cf3fbdad179ac9ce82c6f20b2a4a752207eb6cfe0358731902e8bdd161a&scene=27#wechat_redirect)
+[:camera_flash:【2022-10-18 07:10:04】](https://mp.weixin.qq.com/s?__biz=MzA4Nzg5Nzc5OA==&mid=2651724730&idx=1&sn=f223f402371b3fb634591a4a46730aee&chksm=8bc8d813bcbf51058b509a8cfecfc639ece39bcc7e87f62aef8ca4f66ef7ecaae3c2b36d0e6e&scene=27#wechat_redirect)
 
 高效运维公众号由萧田国及朋友们维护，经常发布各种广为传播的优秀原创技术文章，关注运维转型，陪伴您的运维职业生涯，一起愉快滴发展。
 
