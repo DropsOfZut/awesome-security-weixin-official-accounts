@@ -14,9 +14,9 @@
 
 ### [启明星辰网络空间安全学院](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
 
-[:chart_with_upwards_trend:【0/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
+[:chart_with_upwards_trend:【0/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
 
-[:camera_flash:【2022-10-15 16:45:23】](https://mp.weixin.qq.com/s?__biz=MzUzNDg0NTc1NA==&mid=2247494633&idx=1&sn=cb334fadf2d84771cf4cfba9f1ba17f8&chksm=fa8c2bbccdfba2aa15586438f3ec4c05c7e95612e73d98d9c496583af5de1307ad41f73b3f49&scene=27#wechat_redirect)
+[:camera_flash:【2022-10-19 16:45:03】](https://mp.weixin.qq.com/s?__biz=MzUzNDg0NTc1NA==&mid=2247494648&idx=1&sn=b35086b53423a1bfd9130924bac321a1&chksm=fa8c2badcdfba2bb15545a1cd0edf583d7e5cc1241b00ab883d9d4828782df151933106f4756&scene=27#wechat_redirect)
 
 启明星辰网络空间安全学院以国家网络安全事业发展为使命，依托启明星辰集团多年的技术沉淀及实践积累，提供网络安全人才体系构建与信息安全技术及能力提升教育培训，为建设网络强国提供有力的人才支撑。
 
@@ -55,7 +55,7 @@
 
 [:chart_with_upwards_trend:【1/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxMTEwOTA3OA==)
 
-[:camera_flash:【2022-10-17 17:00:54】](https://mp.weixin.qq.com/s?__biz=MzUxMTEwOTA3OA==&mid=2247484130&idx=1&sn=3c4709c0e894065ff5989e3e8df2c779&chksm=f979f05bce0e794db18515649a7f7d560d31343929235510c46389129f20dcac3de14ce6bd3f&scene=27#wechat_redirect)
+[:camera_flash:【2022-10-19 17:00:25】](https://mp.weixin.qq.com/s?__biz=MzUxMTEwOTA3OA==&mid=2247484149&idx=1&sn=4df37d1b28e976b09c0e5be5613b2723&chksm=f979f04cce0e795a06e9469ecc07f5cc0c6600f737ce7ce41ae480ea8036e85da59797e49e54&scene=27#wechat_redirect)
 
 清华大学网络与信息安全实验室(NISL@THU)，专注于网络、系统、应用、人工智能安全教学与研究，在国际四大安全会议发表三十余篇论文，成果在业界产生了广泛影响力。孕育了蓝莲花、紫荆花等知名战队，发起了网安国际学术论坛InForSec。
 
@@ -229,19 +229,6 @@
 深圳市网安计算机网络安全培训中心是深圳市计算机网络公共安全协会设立的下属培训机构。培训内容包括：CISP-PTE/PTS系列课程、CISP-IRE/IRS系列课程；网络攻防技术系列课程；网络安全等级保护及风险评估系列课程等网络安全相关课程。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_94f04a96b1ca" alt="" />
-
----
-
-
-### [绿盟科技网络安全学院](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzMjA4ODM0NA==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzMjA4ODM0NA==)
-
-[:camera_flash:【2022-09-19 17:45:37】](https://mp.weixin.qq.com/s?__biz=MzkzMjA4ODM0NA==&mid=2247484914&idx=1&sn=3f84328faa7eb64c055bd0bb1e1a9fb1&chksm=c2605a85f517d3934cba960079952e4b9b4b508aecb9e440d22bf2f9a4c726dde76b49dd3f18&scene=27#wechat_redirect)
-
-绿盟科技网络安全学院（别名：猎鹰学院）秉承”卓尔不凡，极致专业”（The few The professional）的校训精神，依托集团安全研究院、五大安全实验室和四大战队的强大师资力量，提供网络安全人才培养、认证培训以及技术能力提升服务。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_c887198c61eb" alt="" />
 
 ---
 
@@ -515,6 +502,19 @@ Birkenwald安全团队 --来自哈尔滨理工大学
 连天教育，是河南信安世纪科技有限公司旗下独立信息安全培训组织，主要面向国内外信息安全认证和职业技能培训，涉及CISP、CISM、CISSP、CISA、信息安全意识、风险评估、渗透测试、CTF竞赛、Web安全等。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_9fe1a6f307b0" alt="" />
+
+---
+
+
+### [绿盟科技网络安全学院](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzMjA4ODM0NA==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzMjA4ODM0NA==)
+
+[:camera_flash:【2022-09-19 17:45:37】](https://mp.weixin.qq.com/s?__biz=MzkzMjA4ODM0NA==&mid=2247484914&idx=1&sn=3f84328faa7eb64c055bd0bb1e1a9fb1&chksm=c2605a85f517d3934cba960079952e4b9b4b508aecb9e440d22bf2f9a4c726dde76b49dd3f18&scene=27#wechat_redirect)
+
+绿盟科技网络安全学院（别名：猎鹰学院）秉承”卓尔不凡，极致专业”（The few The professional）的校训精神，依托集团安全研究院、五大安全实验室和四大战队的强大师资力量，提供网络安全人才培养、认证培训以及技术能力提升服务。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_c887198c61eb" alt="" />
 
 ---
 
