@@ -1,7 +1,7 @@
 
 ### [汇编语言](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxNDcwOTcwOQ==)
 
-[:chart_with_upwards_trend:【0/199/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxNDcwOTcwOQ==)
+[:chart_with_upwards_trend:【0/191/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxNDcwOTcwOQ==)
 
 [:camera_flash:【2022-10-19 23:43:30】](https://mp.weixin.qq.com/s?__biz=MzIxNDcwOTcwOQ==&mid=2247494030&idx=1&sn=f9d83f7653f076c1af28cb7c2d3ed3fb&chksm=97a1cd2ca0d6443a3029e261fd5f4caa7bae22135ea1a7fe8d4f562b0b1d996c807b0544facc&scene=27&key=da9eb3f945dd83b4c1c7de4d4f51f23fffa3eabbaea2bda33ac853821dcb6a893a1fd33d915e312d1ccc0ff4f14e5465b0932ddbd26fd03dd7d439ecc5659871eb1fd0d41288cb5ba980d68215a6fc5363caf26f24d3b96ec1c755f55917c6e6fbb3c55e8eb987dfd9685a1ae119b9e643fbe4f6bc0a1ba45116599afc7f5cfb&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+Server+2016+x64&version=63070517&lang=zh_CN&session_us=gh_4ad27a83ff73&exportkey=n_ChQIAhIQUIxml1FrpDJV0%2FVaNsMzshL4AQIE97dBBAEAAAAAALuVK5wtTR8AAAAOpnltbLcz9gKNyK89dVj0uGM6C%2Bmdln7SpxDOIzngC%2B9kdj06hF%2F7sAfv8QARp0j4o%2BCQoHkNjLgypHfS048t%2BGs135el5it3XuuE6ytndoYqVL4Dnr6LMRNF2sLZ2V5%2FIkCTr3f0LwcfUerKTvL6MYZxfYrNFux1BEN%2FLPklPaewo1DrjYl00I%2BuHYmsJQODKkYePqZ939wuYMVAvg8gbFrmoNs5gws6v0R37Cexf8ni3j5hC%2FwcSR%2B7BRJGtIQiFmfW%2BJy9ptC6pq2HeNZwUct7exLloNehIPHC2my%2BmEZW&acctmode=0&pass_ti&scene=27#wechat_redirect)
 
@@ -14,9 +14,9 @@
 
 ### [看雪学苑](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTc2MDYxMw==)
 
-[:chart_with_upwards_trend:【28/113/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTc2MDYxMw==)
+[:chart_with_upwards_trend:【26/110/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTc2MDYxMw==)
 
-[:camera_flash:【2022-10-20 18:03:53】](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458477550&idx=1&sn=9434ecee72dd62dbcf95248f57c0bb36&chksm=b18e536486f9da723ddd7cca161e1e3bac6e96aff27629d484bb27511e40cdc646ab00c70ce5&scene=27#wechat_redirect)
+[:camera_flash:【2022-10-21 18:10:39】](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458477628&idx=1&sn=e49b07ecfb8c6dd04343fa35f028a0ab&chksm=b18e54b686f9dda002b25d59ca8231765a09d4558baf4e08388a5e8aec263197defa36cc6136&scene=27#wechat_redirect)
 
 致力于移动与安全研究的开发者社区，看雪学院(kanxue.com)官方微信公众帐号。
 
@@ -29,7 +29,7 @@
 
 [:chart_with_upwards_trend:【5/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Mjc3MDM2Mw==)
 
-[:camera_flash:【2022-10-20 18:41:13】](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651138538&idx=1&sn=28209c167d80302c4e866fd66b9ba315&chksm=bd50b9be8a2730a889942109c8169fa8df0e2bbc40452f1c99a365f2dc8cf9dfe0fb5de4b623&scene=27#wechat_redirect)
+[:camera_flash:【2022-10-21 10:28:38】](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651138541&idx=1&sn=c7482f59c3d830b2646e276761928941&chksm=bd50b9b98a2730af72e1f9e346663c12973821967c1ac002f5fcdabd0182af5f6106b36d6a01&scene=27#wechat_redirect)
 
 吾爱破解论坛致力于软件安全与病毒分析的前沿，丰富的技术版块交相辉映，由无数热衷于软件加密解密及反病毒爱好者共同维护，留给世界一抹值得百年回眸的惊艳，沉淀百年来计算机应用之精华与优雅，任岁月流转，低调而奢华的技术交流与探索却是亘古不变。
 

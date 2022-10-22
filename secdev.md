@@ -1,9 +1,9 @@
 
 ### [商密君](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
 
-[:chart_with_upwards_trend:【0/115/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
+[:chart_with_upwards_trend:【0/111/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
 
-[:camera_flash:【2022-10-20 16:04:14】](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247584074&idx=1&sn=46a21a4606eaac817ce3ddda080cea7d&chksm=ec579911db20100796f02e8396a63853d9da020b43a4d0c66db5be9686ccb3c6c1c29d2a3944&scene=27#wechat_redirect)
+[:camera_flash:【2022-10-21 17:34:17】](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247584124&idx=1&sn=bdcbcfacfa7a92e68bcba58cc94ab369&chksm=ec579927db201031e7b4e6f9b59ef3da8efd2f620c4fd70552baeee92bd95a9ec58d16b59472&scene=27#wechat_redirect)
 
 商密君是全国密码行业头部公众号，旨在宣传推广《密码法》，普及商用密码知识，解读密码政策，分享商用密码行业的最新动态，为密码产业产学研用做好宣传服务，连接密码全行业精英，推动密码技术在数字经济各行业的应用和创新。
 
@@ -16,7 +16,7 @@
 
 [:chart_with_upwards_trend:【6/24/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
 
-[:camera_flash:【2022-10-20 23:30:32】](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247495746&idx=1&sn=9b8b15cb471ec1ecd775f1ba5cb12a0b&chksm=c14482fff6330be988807030f7b348d517da9ce5df7a5e1553d2b336136a7fc20685c5dca07a&scene=27#wechat_redirect)
+[:camera_flash:【2022-10-21 23:30:14】](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247495753&idx=1&sn=ed5de1eb523eaa838486ab3200d5495c&chksm=c14482f4f6330be25cce29e9af9cbeb3162cbba79d8a6dadac2a64cca947e16305fa3df048f5&scene=27#wechat_redirect)
 
 中国数字产业领域中立的第三方调研机构，提供网络安全行业的调查、研究与咨询服务。
 
@@ -29,7 +29,7 @@
 
 [:chart_with_upwards_trend:【0/24/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
 
-[:camera_flash:【2022-10-19 18:16:03】](https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247504681&idx=1&sn=55ec3ae90e7a398149b5935de94e081b&chksm=cf3d6fe4f84ae6f220e4306ede4c97b57c280c53483d1db83b6fab6274e20d98e5521ad74526&scene=27#wechat_redirect)
+[:camera_flash:【2022-10-22 00:00:22】](https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247504719&idx=1&sn=78fd06e75e4199a8b21e8b67624f8c96&chksm=cf3d6f82f84ae69458781f062d9299e75e9e90ac75a39f1d4e02186f71fe0e2c01d1748f6761&scene=27#wechat_redirect)
 
 网络安全事件预警体系、事件检测、应急处置、追踪溯源、安全运营、红蓝对抗、HW行动、AWD竞赛，以及站在审计师的角度评估信息系统建设的有效性、完备性、安全性等。 欢迎有想法、乐于分享的具备互联网分享精神的安全人交流学习。
 
@@ -40,9 +40,9 @@
 
 ### [深圳市网络与信息安全行业协会](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
 
-[:chart_with_upwards_trend:【0/13/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
+[:chart_with_upwards_trend:【0/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
 
-[:camera_flash:【2022-10-21 00:00:08】](https://mp.weixin.qq.com/s?__biz=MzU0Mzk0NDQyOA==&mid=2247503747&idx=1&sn=6cabb51d3b77bb0d3d95a189982e3a68&chksm=fb013400cc76bd160107225f636f5af4f65cd0af7e8665a7adfc041142b8caa6048da81991f4&scene=27#wechat_redirect)
+[:camera_flash:【2022-10-21 17:34:53】](https://mp.weixin.qq.com/s?__biz=MzU0Mzk0NDQyOA==&mid=2247503761&idx=1&sn=67dc8bc1630ddd10dc68fed86f5bb271&chksm=fb013412cc76bd043fb59ece2607e43834b242e4870193ad9be5c4c19fcf9f80a5195c2ed48f&scene=27#wechat_redirect)
 
 深圳市网络与信息安全行业协会（SNISA），是深圳市网络与信息安全行业的权威组织，是中国网络安全审查技术与认证中心（CCRC）在深圳唯一授权工作站，是经深圳市人力资源和社会保障局核准，开展网络空间安全工程技术专业职称评审工作的社会组织。
 
