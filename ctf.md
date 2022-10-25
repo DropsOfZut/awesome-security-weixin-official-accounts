@@ -29,7 +29,7 @@
 
 [:chart_with_upwards_trend:【1/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
 
-[:camera_flash:【2022-10-20 09:56:43】](https://mp.weixin.qq.com/s?__biz=MzkyNDA5NjgyMg==&mid=2247494493&idx=1&sn=b98e32815d38b7bf4f0cbb770d7b9236&chksm=c1d9ab04f6ae221292193778fc4f129a55731d19b0d930c46d41164b4b2c07d12cdc7b20ddd4&scene=27#wechat_redirect)
+[:camera_flash:【2022-10-24 10:09:44】](https://mp.weixin.qq.com/s?__biz=MzkyNDA5NjgyMg==&mid=2247494511&idx=1&sn=ada2c005e45435d0ac4b2b057292c3b6&chksm=c1d9ab36f6ae222032a77d8ef21d25a0490f1a25f6b6476202cf0530d5f56a6553bdaa1fefa0&scene=27#wechat_redirect)
 
 春秋伽玛，为广大网络安全爱好者传递网络安全大赛相关赛事信息，提供优质的赛事服务平台
 
