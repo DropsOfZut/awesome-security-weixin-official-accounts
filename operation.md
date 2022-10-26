@@ -14,7 +14,7 @@
 
 ### [系统安全运维](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NjE0NDc5OQ==)
 
-[:chart_with_upwards_trend:【0/48/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NjE0NDc5OQ==)
+[:chart_with_upwards_trend:【0/46/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NjE0NDc5OQ==)
 
 [:camera_flash:【2022-10-24 08:08:43】](https://mp.weixin.qq.com/s?__biz=Mzk0NjE0NDc5OQ==&mid=2247511414&idx=1&sn=f5f9da5b8a6f5d130976fa1e717ca5cc&chksm=c3087e06f47ff710d5ce6c4550c0b508263f8a2b23ac99bfa409383b48562f3cec74e432b79a&scene=27#wechat_redirect)
 
@@ -27,9 +27,9 @@
 
 ### [kali黑客笔记](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzIwNTY1OA==)
 
-[:chart_with_upwards_trend:【23/24/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzIwNTY1OA==)
+[:chart_with_upwards_trend:【22/23/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzIwNTY1OA==)
 
-[:camera_flash:【2022-10-24 10:10:15】](https://mp.weixin.qq.com/s?__biz=MzkxMzIwNTY1OA==&mid=2247491752&idx=1&sn=47f0885f4bc1cd37b938764884f49867&chksm=c103905df674194b48609d8bbcdb5298c35746a57d0756b153de8879c20968134c5f8472c63e&scene=27#wechat_redirect)
+[:camera_flash:【2022-10-26 08:00:37】](https://mp.weixin.qq.com/s?__biz=MzkxMzIwNTY1OA==&mid=2247491773&idx=1&sn=aa8f6b8781f04179c513d38928504dca&chksm=c1039048f674195e968cfc1c52adf14502ea52ef6c255440e6dc309a3a1dc42d5331b7d4d279&scene=27#wechat_redirect)
 
 kali论坛官方唯一公众号，主要发布过于小白学习Kali Linux相关安全学习知识。Debian Ubuntu Centos等操作系统的安全和运维。以及树莓派 ESP8266 DIY单片机等相关领域的文章，欢迎大家关注我！
 
@@ -53,7 +53,7 @@ Docker中文社区旨在为大家提供 Docker、Kubernetes 相关工具及前�
 
 ### [云计算和网络安全技术实践](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3MjM5MDc2Nw==)
 
-[:chart_with_upwards_trend:【4/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3MjM5MDc2Nw==)
+[:chart_with_upwards_trend:【3/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3MjM5MDc2Nw==)
 
 [:camera_flash:【2022-10-23 21:04:34】](https://mp.weixin.qq.com/s?__biz=MzA3MjM5MDc2Nw==&mid=2650747198&idx=1&sn=da6b8a96433bdcabc4b0c6c9e5426e7e&chksm=8714903eb0631928075c382104a12133d1b26f5cb29b947370a9dd6b86eaced178813c9d8ce5&scene=27#wechat_redirect)
 

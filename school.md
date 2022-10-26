@@ -68,7 +68,7 @@
 
 [:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5NDczNDc4NA==)
 
-[:camera_flash:【2022-10-21 22:53:52】](https://mp.weixin.qq.com/s?__biz=Mzg5NDczNDc4NA==&mid=2247490997&idx=1&sn=3b4bdbcb1e8f0eb2eb83b13addaebc72&chksm=c01a451af76dcc0cdbbd1f2e0eac465fbb60bf57872fbfdf6b6ea40d0137f2acbeb5a3e89918&scene=27#wechat_redirect)
+[:camera_flash:【2022-10-25 21:32:06】](https://mp.weixin.qq.com/s?__biz=Mzg5NDczNDc4NA==&mid=2247491008&idx=1&sn=099a9685ebca8c82e7a22979a6fe95c8&chksm=c01a456ff76dcc7970e85f406ae7534c8026fb265ec891e0b724910af20cd4619d663e5838be&scene=27#wechat_redirect)
 
 浙江大学网络空间安全学院/浙江大学网络空间安全研究中心
 
@@ -99,19 +99,6 @@
 以复旦大学系统安全实验室学生为主成立的安全攻防战队，分享最新研究成果，交流系统安全攻防领域技巧。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f1bf07da06d8" alt="" />
-
----
-
-
-### [赛博安全社团](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDIyNTE0OQ==)
-
-[:chart_with_upwards_trend:【1/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDIyNTE0OQ==)
-
-[:camera_flash:【2022-10-13 11:34:36】](https://mp.weixin.qq.com/s?__biz=MzkyNDIyNTE0OQ==&mid=2247484204&idx=1&sn=24ebb03ef68feeaec668f27ff615e0a5&chksm=c1d8583ef6afd12899ba594dc6d3f40243b70642b0358e019eec1461358c4ad5bea57800dde5&scene=27#wechat_redirect)
-
-本社团致力于向大家分享交流网络安全实践技术，主要以CTF竞赛、红蓝对抗、渗透测试、知识讲座等形式分享网络安全知识，培养网安人才，积极响应国家建设网络强国的号召，共筑网络安全防线。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ac1289a6ef60" alt="" />
 
 ---
 
@@ -190,6 +177,19 @@
 青岛科技大学信息安全团队
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_244b9c8677de" alt="" />
+
+---
+
+
+### [赛博安全社团](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDIyNTE0OQ==)
+
+[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDIyNTE0OQ==)
+
+[:camera_flash:【2022-10-13 11:34:36】](https://mp.weixin.qq.com/s?__biz=MzkyNDIyNTE0OQ==&mid=2247484204&idx=1&sn=24ebb03ef68feeaec668f27ff615e0a5&chksm=c1d8583ef6afd12899ba594dc6d3f40243b70642b0358e019eec1461358c4ad5bea57800dde5&scene=27#wechat_redirect)
+
+本社团致力于向大家分享交流网络安全实践技术，主要以CTF竞赛、红蓝对抗、渗透测试、知识讲座等形式分享网络安全知识，培养网安人才，积极响应国家建设网络强国的号召，共筑网络安全防线。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ac1289a6ef60" alt="" />
 
 ---
 
