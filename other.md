@@ -1,9 +1,9 @@
 
 ### [全球技术地图](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1OTExNDY1NQ==)
 
-[:chart_with_upwards_trend:【33/41/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1OTExNDY1NQ==)
+[:chart_with_upwards_trend:【32/39/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1OTExNDY1NQ==)
 
-[:camera_flash:【2022-10-26 17:58:38】](https://mp.weixin.qq.com/s?__biz=MzI1OTExNDY1NQ==&mid=2651597908&idx=1&sn=274379ea9c36fafcdf0c91562e473e44&chksm=f1855fa4c6f2d6b2c3828ef8479747be48ef832e3bebe0c8edd1e6960c8309e027de1399fd14&scene=27#wechat_redirect)
+[:camera_flash:【2022-10-27 17:16:46】](https://mp.weixin.qq.com/s?__biz=MzI1OTExNDY1NQ==&mid=2651597947&idx=1&sn=f7bdd0b709584a42533e0918005b56a8&chksm=f1855f8bc6f2d69d7432e3b5217a95dc1fbb30137b88378f803a8088852d26eb17efed05b968&scene=27#wechat_redirect)
 
 洞见前沿，引领未来。
 
@@ -14,9 +14,9 @@
 
 ### [网络安全与黑客技术](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2MDQzMjY4NQ==)
 
-[:chart_with_upwards_trend:【0/28/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2MDQzMjY4NQ==)
+[:chart_with_upwards_trend:【0/27/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2MDQzMjY4NQ==)
 
-[:camera_flash:【2022-10-26 14:00:24】](https://mp.weixin.qq.com/s?__biz=Mzg2MDQzMjY4NQ==&mid=2247488643&idx=1&sn=0c6fd7c1c26a11e22f4dd831b75f4158&chksm=ce2724c1f950add748c3c6e240441988e7787dca05759f98fce8c0931a8189a8b1ab224337be&scene=27#wechat_redirect)
+[:camera_flash:【2022-10-27 14:00:02】](https://mp.weixin.qq.com/s?__biz=Mzg2MDQzMjY4NQ==&mid=2247488662&idx=1&sn=8143e040016f1fa8ee7c38e13f7bcc05&chksm=ce2724d4f950adc26f0961648f74186412f6859d624b587a31ebe13da1fe5052c83074abed8d&scene=27#wechat_redirect)
 
 这里拥有神秘的黑客技术，等你来关注 ！
 
@@ -66,9 +66,9 @@
 
 ### [网安国际](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4ODYzMjU0NQ==)
 
-[:chart_with_upwards_trend:【6/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4ODYzMjU0NQ==)
+[:chart_with_upwards_trend:【5/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4ODYzMjU0NQ==)
 
-[:camera_flash:【2022-10-26 19:21:39】](https://mp.weixin.qq.com/s?__biz=MzA4ODYzMjU0NQ==&mid=2652311740&idx=1&sn=94f9c96ea91f21ae1194131cc91e7d06&chksm=8bc48d32bcb3042498544dfff7af6e6645ba4552320857affe7a71da32122018fe0de84fb2f9&scene=27#wechat_redirect)
+[:camera_flash:【2022-10-27 17:55:50】](https://mp.weixin.qq.com/s?__biz=MzA4ODYzMjU0NQ==&mid=2652311749&idx=1&sn=a3f6eabee4d91284a74baa1a460fca07&chksm=8bc48d4bbcb3045d99e77883180173bc11c775e3a6705fb92575ac34b9f26ee7b69c59b05145&scene=27#wechat_redirect)
 
 网络安全研究国际学术论坛（InForSec），由活跃在安全学术圈的段海新教授、杨珉教授、韦韬博士、万涛博士等共同发起，在网络和系统安全领域建立一座沟通中国和国际、学术和工业、老师和学生的桥梁。
 
@@ -86,19 +86,6 @@
 嘉诚安全，您身边的安全专家
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4d63647c0cbb" alt="" />
-
----
-
-
-### [安全孺子牛](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MDI0NTM2Nw==)
-
-[:chart_with_upwards_trend:【5/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MDI0NTM2Nw==)
-
-[:camera_flash:【2022-10-25 08:30:06】](https://mp.weixin.qq.com/s?__biz=MzI2MDI0NTM2Nw==&mid=2247488970&idx=1&sn=355b682e34eb262799d253c5010beff3&chksm=ea6dc7d2dd1a4ec45f3851dccc79242a13da7e21294503a58cafed2bf36e5a2f55f1cb0b6f81&scene=27#wechat_redirect)
-
-网络安全学习研究分享
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_2da522fdae7a" alt="" />
 
 ---
 
@@ -129,6 +116,19 @@
 ---
 
 
+### [安全孺子牛](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MDI0NTM2Nw==)
+
+[:chart_with_upwards_trend:【4/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MDI0NTM2Nw==)
+
+[:camera_flash:【2022-10-25 08:30:06】](https://mp.weixin.qq.com/s?__biz=MzI2MDI0NTM2Nw==&mid=2247488970&idx=1&sn=355b682e34eb262799d253c5010beff3&chksm=ea6dc7d2dd1a4ec45f3851dccc79242a13da7e21294503a58cafed2bf36e5a2f55f1cb0b6f81&scene=27#wechat_redirect)
+
+网络安全学习研究分享
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_2da522fdae7a" alt="" />
+
+---
+
+
 ### [网安寻路人](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxODM0NDU4MQ==)
 
 [:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxODM0NDU4MQ==)
@@ -146,7 +146,7 @@
 
 [:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2MjYxODY2Mw==)
 
-[:camera_flash:【2022-10-25 15:57:24】](https://mp.weixin.qq.com/s?__biz=Mzg2MjYxODY2Mw==&mid=2247484254&idx=1&sn=b466b63c088db9ea697bf209d59d2fe4&chksm=ce045616f973df004876738e8cc085b7008fa9e9478a2c9fd4630758bd194f21b580697d6da6&scene=27#wechat_redirect)
+[:camera_flash:【2022-10-28 00:14:03】](https://mp.weixin.qq.com/s?__biz=Mzg2MjYxODY2Mw==&mid=2247484256&idx=1&sn=ab7bee2569d337d561000d8681bf3778&chksm=ce045628f973df3e12fc3657a37e4db39f87b03c1826f91638dce6b419986f1afc980f3ba2fa&scene=27#wechat_redirect)
 
 定期分享渗透知识，渗透思路，漏洞研究及复现等文章
 
@@ -198,7 +198,7 @@ NOVA SEC  新星安全 萌新启蒙之路 愿大家都能成为最闪耀的星�
 
 [:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwNTI4MTA1MQ==)
 
-[:camera_flash:【2022-10-22 21:37:47】](https://mp.weixin.qq.com/s?__biz=MzkwNTI4MTA1MQ==&mid=2247499609&idx=1&sn=cb478f81870c74f916b2e1b9db222067&chksm=c0f8942df78f1d3b54f80f99ae4fac3b806d7acb7785067e1e952cd0d06483e025ea065940e9&scene=27#wechat_redirect)
+[:camera_flash:【2022-10-27 15:32:00】](https://mp.weixin.qq.com/s?__biz=MzkwNTI4MTA1MQ==&mid=2247499645&idx=1&sn=1695d64672d52c5ea4d1195d04c83713&chksm=c0f89409f78f1d1f881115f8a66385fe2d6eb8bdc82969837e933d17e2ff1bcc4c11e7059413&scene=27#wechat_redirect)
 
 安全服务
 
@@ -211,7 +211,7 @@ NOVA SEC  新星安全 萌新启蒙之路 愿大家都能成为最闪耀的星�
 
 [:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyNzMxOTAwMw==)
 
-[:camera_flash:【2022-10-17 12:02:28】](https://mp.weixin.qq.com/s?__biz=MzUyNzMxOTAwMw==&mid=2247484530&idx=1&sn=af1537ab8fe4503a0b10fb133d507096&chksm=fa002ec6cd77a7d01239618b95446d54a2fd0b83c1e6b16c22a1bbb2718df271fc94a6fb3abe&scene=27#wechat_redirect)
+[:camera_flash:【2022-10-27 11:59:59】](https://mp.weixin.qq.com/s?__biz=MzUyNzMxOTAwMw==&mid=2247484533&idx=1&sn=d7183adae6663c27a255660e56fb38f9&chksm=fa002ec1cd77a7d73ca6fb15e9b63b0657d0b2ea0c331d991a7517843bcb195aab9e323cf20b&scene=27#wechat_redirect)
 
 专注安管平台、SIEM、SOC、SOAR、大数据安全分析、态势感知等平台类安全领域。
 
