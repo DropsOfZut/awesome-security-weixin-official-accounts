@@ -1,9 +1,9 @@
 
 ### [寰宇卫士](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
 
-[:chart_with_upwards_trend:【0/16/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
+[:chart_with_upwards_trend:【0/18/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
 
-[:camera_flash:【2022-10-27 14:30:47】](https://mp.weixin.qq.com/s?__biz=MzIwMzU0NDY5OA==&mid=2247495212&idx=1&sn=9becb0c067167c2c7cec9b3f8cd67182&chksm=96cf6f39a1b8e62fbd00c106133c633a96a46c0a3f0e39e002eebf44018a907790323e284d07&scene=27#wechat_redirect)
+[:camera_flash:【2022-10-28 09:44:07】](https://mp.weixin.qq.com/s?__biz=MzIwMzU0NDY5OA==&mid=2247495240&idx=1&sn=6d8cd7a5a6b4ebe963b0798eb593361b&chksm=96cf6f5da1b8e64b7de1af3f5915c082abf81504c123d96b8cee83756fed34cb8ac0f028d353&scene=27&key=5068985b1dfe19a951e9dbcacfd0719ce1bd532b1c8a85851772d72b3efc87adea21ff671a48cf574aa3008e98d5b01509e55e38bd5ed560715a5f9e93722ad92804f83cbf0aff89564866dc699ef0e3ca2c0f74395f7eb356a2e142b5df7fb2132c736b468632ae488e5db6c148ca49cad32f8bb40d2f3628399b2eb7809616&ascene=15&uin=MzgxODQ4MjMz&devicetype=Windows+Server+2016+x64&version=63070517&lang=zh_CN&session_us=gh_637acf2ff3eb&exportkey=n_ChQIAhIQrFhgWBVVFQUujUBelLwgpRL5AQIE97dBBAEAAAAAACUICMpgbVUAAAAOpnltbLcz9gKNyK89dVj0qt1An1D73f417INFVyCaV6t2mjuD0x8lp2n%2FdgnYK7NxucH12eSLOeQkP6Vkk8HarDMWGZdWVK%2BElZYP8U7ervXJpI115H0yY6qRxN3yomFF9VodAxFC02nVoLJ95OYfNgXkzwc3IY9mIUBvejOFknyUXJ1yzIKcC2EH59tVbPXwLo2PGZQ4fc2DFuq94l12qLdXVTQCErqqMdEfYGe0%2B41M4OZtjYNctiWRBd%2B2NyicJPaYoxhboffgV7IOiH5QNgSkZ%2FsQKDjS0oSVZPmCclf6jQ%3D%3D&acctmode=0&pass_ticket=ayJM8&scene=27#wechat_redirect)
 
 寰宇卫士综合安全咨询、安全服务、解决方案、认证培训、产品研发等信息安全多元化产业链为一体。
 
@@ -47,6 +47,19 @@
 山海关安全团队旗下CTF战队-Arr3stY0u公众号。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f11d07068d45" alt="" />
+
+---
+
+
+### [DataCon大数据安全分析竞赛](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5Njg1NzMyNw==)
+
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5Njg1NzMyNw==)
+
+[:camera_flash:【2022-10-28 10:51:20】](https://mp.weixin.qq.com/s?__biz=MzU5Njg1NzMyNw==&mid=2247485211&idx=1&sn=551ad0704137136839aac0675499742d&chksm=fe5d1f9bc92a968d66f0d71c5c198d1bf8644a887214522b34176f8dc594f6f30fafb501ac61&scene=27#wechat_redirect)
+
+由奇安信集团、清华大学、蚂蚁集团主办，联合北京大学、中科院软件所、复旦大学、中山大学、山东大学、中国科技大学等30多个知名高校和研究机构共同举办的聚焦大数据安全分析的比赛。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a0316d342599" alt="" />
 
 ---
 
@@ -99,19 +112,6 @@ X是未知，更是无限，邀您一道创造、见证和实现X-Plan，北斗�
 PTE小技巧
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_5aff651a75ac" alt="" />
-
----
-
-
-### [DataCon大数据安全分析竞赛](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5Njg1NzMyNw==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5Njg1NzMyNw==)
-
-[:camera_flash:【2022-08-18 17:31:13】](https://mp.weixin.qq.com/s?__biz=MzU5Njg1NzMyNw==&mid=2247485192&idx=1&sn=093d33df48aca03e1dad2ba156dda6c3&chksm=fe5d1f88c92a969e4108e26985362e85dbdbbf7d2ad50a2af06302d5df01bef8b63888e893d6&scene=27#wechat_redirect)
-
-由奇安信集团、清华大学、蚂蚁集团主办，联合北京大学、中科院软件所、复旦大学、中山大学、山东大学、中国科技大学等30多个知名高校和研究机构共同举办的聚焦大数据安全分析的比赛。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a0316d342599" alt="" />
 
 ---
 
