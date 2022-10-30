@@ -14,7 +14,7 @@
 
 ### [启明星辰网络空间安全教育](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
 
-[:chart_with_upwards_trend:【0/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
+[:chart_with_upwards_trend:【0/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
 
 [:camera_flash:【2022-10-28 17:40:53】](https://mp.weixin.qq.com/s?__biz=MzUzNDg0NTc1NA==&mid=2247494964&idx=1&sn=9556b5eaed47e2a5d82d469066eebfdf&chksm=fa8c2d61cdfba47746872f383d49e58ca2f7b9c50eedb209530d0af0493843d76e216a3a7cb7&scene=27#wechat_redirect)
 
@@ -207,19 +207,6 @@
 ---
 
 
-### [NCVTCSTA](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NjUzODYyNw==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NjUzODYyNw==)
-
-[:camera_flash:【2022-09-29 12:50:31】](https://mp.weixin.qq.com/s?__biz=Mzg4NjUzODYyNw==&mid=2247483992&idx=1&sn=a8733cb5b44cfff520730cf89f71e429&chksm=cf996ab4f8eee3a2ae9b99cd7ba03b46c89739455fdaffb509c12b6e4faaa21158ec3d4192e3&scene=27#wechat_redirect)
-
-南宁职业技术学院网络安全技术协会
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ce0885e25658" alt="" />
-
----
-
-
 ### [网安培训学院](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDYzMjAyNA==)
 
 [:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDYzMjAyNA==)
@@ -372,6 +359,19 @@
 发布信息安全技术及相关竞赛信息。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_711d4ce1da87" alt="" />
+
+---
+
+
+### [NCVTCSTA](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NjUzODYyNw==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NjUzODYyNw==)
+
+[:camera_flash:【2022-09-29 12:50:31】](https://mp.weixin.qq.com/s?__biz=Mzg4NjUzODYyNw==&mid=2247483992&idx=1&sn=a8733cb5b44cfff520730cf89f71e429&chksm=cf996ab4f8eee3a2ae9b99cd7ba03b46c89739455fdaffb509c12b6e4faaa21158ec3d4192e3&scene=27#wechat_redirect)
+
+南宁职业技术学院网络安全技术协会
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ce0885e25658" alt="" />
 
 ---
 

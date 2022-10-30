@@ -1,9 +1,9 @@
 
 ### [Linux中国](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ4MjYwMQ==)
 
-[:chart_with_upwards_trend:【101/111/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ4MjYwMQ==)
+[:chart_with_upwards_trend:【98/107/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ4MjYwMQ==)
 
-[:camera_flash:【2022-10-28 17:30:45】](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664668901&idx=1&sn=4ceb294f3672c7738ba5a7c6c80dc46b&chksm=bdcfa5a38ab82cb53d62068448cb3935ad99489b7e81457ad81f10590a895658c6976838841a&scene=27#wechat_redirect)
+[:camera_flash:【2022-10-29 19:26:48】](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664669090&idx=1&sn=5e9eb7abdfe3b99f9f55b1252d06ec1e&chksm=bdcfa4e48ab82df2e0a51e2072b3f9f28aa9dc9dac8311f3520359bcd7736b72c3905930d370&scene=27#wechat_redirect)
 
 [Linux中国](https://linux.cn/)开源社区官方公众号。专注于开源技术研究、开源思想传播。
 
@@ -14,9 +14,9 @@
 
 ### [系统安全运维](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NjE0NDc5OQ==)
 
-[:chart_with_upwards_trend:【0/40/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NjE0NDc5OQ==)
+[:chart_with_upwards_trend:【0/37/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NjE0NDc5OQ==)
 
-[:camera_flash:【2022-10-27 08:08:00】](https://mp.weixin.qq.com/s?__biz=Mzk0NjE0NDc5OQ==&mid=2247511510&idx=1&sn=89efad0f6ae015cf0647f3e080e3b7bb&chksm=c3087ea6f47ff7b0f677282dad8a9d483485f84a6ecb3a0cd7424a06abdef5e726ac92b32d15&scene=27#wechat_redirect)
+[:camera_flash:【2022-10-29 08:08:36】](https://mp.weixin.qq.com/s?__biz=Mzk0NjE0NDc5OQ==&mid=2247511558&idx=1&sn=88fe58e2f48d77a5f359e6416460b31b&chksm=c3087d76f47ff460248480667d052f431edb9327f099a8e0b62753786e35b8e14404fc8f256c&scene=27#wechat_redirect)
 
 未知攻 焉知防 攻防兼备
 
@@ -27,9 +27,9 @@
 
 ### [kali黑客笔记](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzIwNTY1OA==)
 
-[:chart_with_upwards_trend:【19/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzIwNTY1OA==)
+[:chart_with_upwards_trend:【18/19/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzIwNTY1OA==)
 
-[:camera_flash:【2022-10-28 08:00:44】](https://mp.weixin.qq.com/s?__biz=MzkxMzIwNTY1OA==&mid=2247491827&idx=1&sn=38397ac2cd6d7ff23f34520344a5a10d&chksm=c1039006f67419108e21270e1a74eb5019379a7d0961626ad7cb5a33fcff84210ce50a1cb08e&scene=27#wechat_redirect)
+[:camera_flash:【2022-10-29 09:00:10】](https://mp.weixin.qq.com/s?__biz=MzkxMzIwNTY1OA==&mid=2247491869&idx=1&sn=da22057b114258590f0264ef4cbb3a46&chksm=c10391e8f67418fea884e744cb5f742e2e31c69d8314eaa1740d7fb7d4cd6680a62dd4a1d020&scene=27#wechat_redirect)
 
 kali论坛官方唯一公众号，主要发布过于小白学习Kali Linux相关安全学习知识。Debian Ubuntu Centos等操作系统的安全和运维。以及树莓派 ESP8266 DIY单片机等相关领域的文章，欢迎大家关注我！
 
