@@ -1,7 +1,7 @@
 
 ### [情报分析师](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3Mjc1MTkwOA==)
 
-[:chart_with_upwards_trend:【41/41/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3Mjc1MTkwOA==)
+[:chart_with_upwards_trend:【38/38/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3Mjc1MTkwOA==)
 
 [:camera_flash:【2022-10-19 12:36:39】](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650519724&idx=1&sn=befef075a33580f3eda480d2b375d097&chksm=871696e7b0611ff17dd7c585a59c2effa79021f683476e7385013bd2cff530a56aacdd8b3b9d&scene=27#wechat_redirect)
 
@@ -14,7 +14,7 @@ POLICE教授团队：聚焦情报安全与警务！关注情报动态，制定�
 
 ### [丁爸情报分析师的工具箱](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MTE0NTE3Mw==)
 
-[:chart_with_upwards_trend:【23/26/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MTE0NTE3Mw==)
+[:chart_with_upwards_trend:【23/28/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MTE0NTE3Mw==)
 
 [:camera_flash:【2022-10-30 07:09:23】](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651133296&idx=1&sn=33358045c8d0c88a3c37f88acae6aae7&chksm=f1af624ac6d8eb5c35e3a7458696e1d5ced3aa4cfdb62f5a79f673184a89c0e4e716ba67f7b9&scene=27#wechat_redirect)
 
@@ -27,7 +27,7 @@ POLICE教授团队：聚焦情报安全与警务！关注情报动态，制定�
 
 ### [无糖反网络犯罪研究中心](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxMzkzNDA1Mg==)
 
-[:chart_with_upwards_trend:【10/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxMzkzNDA1Mg==)
+[:chart_with_upwards_trend:【10/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxMzkzNDA1Mg==)
 
 [:camera_flash:【2022-10-28 18:30:37】](https://mp.weixin.qq.com/s?__biz=MzAxMzkzNDA1Mg==&mid=2247501183&idx=1&sn=80c50af3aff08a0ef4d324093c44f584&chksm=9b9989f4acee00e2e8c3a2406342fd086f501a8f263b3441c30ebe4a73b74550e08440d4071a&scene=27#wechat_redirect)
 
@@ -77,19 +77,6 @@ POLICE教授团队：聚焦情报安全与警务！关注情报动态，制定�
 ---
 
 
-### [信息时代的犯罪侦查](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxNTA4NDAwOQ==)
-
-[:chart_with_upwards_trend:【1/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxNTA4NDAwOQ==)
-
-[:camera_flash:【2022-10-25 15:57:00】](https://mp.weixin.qq.com/s?__biz=MzAxNTA4NDAwOQ==&mid=2650736643&idx=1&sn=e72d02cbab9dc25cfe6bd75e4e9af633&chksm=8382d885b4f55193e64b9cd3725487de1b861fc6017b6e3bbb4d8fffc42ae420338fc4bedc23&scene=27#wechat_redirect)
-
-一切行为皆有犯罪的可能性，而在信息时代，这一过程变得更加复杂或者隐晦了。本号致力于传播打击和预防犯罪的手段、方法、理念，并希望能够推动侦查犯罪的机制变革，而这需要了解方方面面的信息。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_fc392f1d7dc1" alt="" />
-
----
-
-
 ### [国家网络威胁情报共享开放平台](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MjEwNjQzNg==)
 
 [:chart_with_upwards_trend:【5/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MjEwNjQzNg==)
@@ -99,6 +86,19 @@ POLICE教授团队：聚焦情报安全与警务！关注情报动态，制定�
 国家网络空间威胁情报共享开放平台（简称CNTIC）是政企合作的国家级网络空间威胁情报平台，由发改委批复建设，由中国科学院信息工程研究所牵头运营，为各级党政机关、安全主管部门、安全厂商、企事业单位、社会公众提供网络空间安全威胁情报服务。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_77f1ed017c2c" alt="" />
+
+---
+
+
+### [信息时代的犯罪侦查](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxNTA4NDAwOQ==)
+
+[:chart_with_upwards_trend:【1/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxNTA4NDAwOQ==)
+
+[:camera_flash:【2022-10-25 15:57:00】](https://mp.weixin.qq.com/s?__biz=MzAxNTA4NDAwOQ==&mid=2650736643&idx=1&sn=e72d02cbab9dc25cfe6bd75e4e9af633&chksm=8382d885b4f55193e64b9cd3725487de1b861fc6017b6e3bbb4d8fffc42ae420338fc4bedc23&scene=27#wechat_redirect)
+
+一切行为皆有犯罪的可能性，而在信息时代，这一过程变得更加复杂或者隐晦了。本号致力于传播打击和预防犯罪的手段、方法、理念，并希望能够推动侦查犯罪的机制变革，而这需要了解方方面面的信息。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_fc392f1d7dc1" alt="" />
 
 ---
 
@@ -129,19 +129,6 @@ POLICE教授团队：聚焦情报安全与警务！关注情报动态，制定�
 ---
 
 
-### [微步在线](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NjA0NjI5MQ==)
-
-[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NjA0NjI5MQ==)
-
-[:camera_flash:【2022-10-27 17:06:40】](https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650174546&idx=1&sn=b5d2ca1a257c906ed659af54ee16b019&chksm=f4488feec33f06f8174e0cc62046bb68bdce4620dadfb44e38be1d7854ce0117d20436053534&scene=27#wechat_redirect)
-
-数字时代网络威胁应对专家
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_aed83ab73350" alt="" />
-
----
-
-
 ### [Seebug漏洞平台](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxNDY2MTQ2OQ==)
 
 [:chart_with_upwards_trend:【1/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxNDY2MTQ2OQ==)
@@ -151,6 +138,19 @@ POLICE教授团队：聚焦情报安全与警务！关注情报动态，制定�
 Seebug，原 Sebug 漏洞平台，洞悉漏洞，让你掌握第一手漏洞情报！
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_7a00af2b3993" alt="" />
+
+---
+
+
+### [微步在线](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NjA0NjI5MQ==)
+
+[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NjA0NjI5MQ==)
+
+[:camera_flash:【2022-10-27 17:06:40】](https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650174546&idx=1&sn=b5d2ca1a257c906ed659af54ee16b019&chksm=f4488feec33f06f8174e0cc62046bb68bdce4620dadfb44e38be1d7854ce0117d20436053534&scene=27#wechat_redirect)
+
+数字时代网络威胁应对专家
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_aed83ab73350" alt="" />
 
 ---
 

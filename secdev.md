@@ -1,9 +1,9 @@
 
 ### [商密君](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
 
-[:chart_with_upwards_trend:【0/111/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
+[:chart_with_upwards_trend:【0/107/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
 
-[:camera_flash:【2022-10-29 16:56:40】](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247585114&idx=1&sn=c5a20196759043a36fc84f28f70bc68d&chksm=ec579d01db201417f67bc76e509eb6acd3e5c849e0a6dcda685c29e51777d22748715f9aa7f5&scene=27#wechat_redirect)
+[:camera_flash:【2022-10-30 13:07:57】](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247585115&idx=1&sn=beb485e453d6012e7063a0fb0b1131a2&chksm=ec579d00db20141656544cd68498aef5f724aab3a0853f5c68dea8b263e22e7d4fe8b7efdb63&scene=27#wechat_redirect)
 
 商密君是全国密码行业头部公众号，旨在宣传推广《密码法》，普及商用密码知识，解读密码政策，分享商用密码行业的最新动态，为密码产业产学研用做好宣传服务，连接密码全行业精英，推动密码技术在数字经济各行业的应用和创新。
 
@@ -14,9 +14,9 @@
 
 ### [全栈网络空间安全](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
 
-[:chart_with_upwards_trend:【0/26/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
+[:chart_with_upwards_trend:【0/27/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
 
-[:camera_flash:【2022-10-29 00:00:27】](https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247504953&idx=1&sn=11e6c58cdf2889cf29e14c50fe0e7ea6&chksm=cf3d68f4f84ae1e26e9e984dc1f02f5ee839e219a2076393575505acc0a048369670d2a0c7f6&scene=27#wechat_redirect)
+[:camera_flash:【2022-10-30 18:31:06】](https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247504963&idx=1&sn=4fe10ef451d375c2f9f41f481e533f6a&chksm=cf3d688ef84ae198303c01a0bae71514e5bfed7d71fefe77c50412d6dd6d1b3c8bda1cdd0b61&scene=27#wechat_redirect)
 
 网络安全事件预警体系、事件检测、应急处置、追踪溯源、安全运营、红蓝对抗、HW行动、AWD竞赛，以及站在审计师的角度评估信息系统建设的有效性、完备性、安全性等。 欢迎有想法、乐于分享的具备互联网分享精神的安全人交流学习。
 
@@ -27,26 +27,13 @@
 
 ### [深圳市网络与信息安全行业协会](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
 
-[:chart_with_upwards_trend:【0/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
+[:chart_with_upwards_trend:【0/13/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
 
 [:camera_flash:【2022-10-28 21:50:19】](https://mp.weixin.qq.com/s?__biz=MzU0Mzk0NDQyOA==&mid=2247503866&idx=1&sn=0e4d4dad2424302825946b6b033e460c&chksm=fb013479cc76bd6f3337caa67a16458ec5898c22900e7565b3da5576d6d7c5d150fe7cc5529c&scene=27#wechat_redirect)
 
 深圳市网络与信息安全行业协会（SNISA），是深圳市网络与信息安全行业的权威组织，是中国网络安全审查技术与认证中心（CCRC）在深圳唯一授权工作站，是经深圳市人力资源和社会保障局核准，开展网络空间安全工程技术专业职称评审工作的社会组织。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_650442d8cad4" alt="" />
-
----
-
-
-### [数世咨询](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
-
-[:chart_with_upwards_trend:【5/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
-
-[:camera_flash:【2022-10-29 23:30:01】](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247495874&idx=1&sn=6a7e3c0613908c250d0a6487e966fb92&chksm=c144827ff6330b69d649aa735f2bd2fda32b491e4e19da6ce16d01df250261e864cb257e8e37&scene=27#wechat_redirect)
-
-中国数字产业领域中立的第三方调研机构，提供网络安全行业的调查、研究与咨询服务。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_bacd64503774" alt="" />
 
 ---
 
@@ -64,15 +51,15 @@
 ---
 
 
-### [君哥的体历](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MjQ1NTA4MA==)
+### [数世咨询](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
 
-[:chart_with_upwards_trend:【4/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MjQ1NTA4MA==)
+[:chart_with_upwards_trend:【4/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
 
-[:camera_flash:【2022-10-30 00:05:00】](https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247488979&idx=1&sn=4c03d604a330fd82e28aebf993d5f3c1&chksm=ea4bbf94dd3c368229ffa2d77c61aef1b009fec76d47161c7d6cf4f732174f67e4a9906a5c3a&scene=27#wechat_redirect)
+[:camera_flash:【2022-10-30 23:30:41】](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247495884&idx=1&sn=f14f22c04c1df5e1ca11cce603b8764f&chksm=c1448271f6330b671a815deb7e6e9a2c720ae54bd1348037a560ecd88900186c2208bbaea56a&scene=27#wechat_redirect)
 
-闲暇时间，逼迫自己，记录分享体验与经历，不求正确统一，但求真、善、美。
+中国数字产业领域中立的第三方调研机构，提供网络安全行业的调查、研究与咨询服务。
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_aa4d8db71365" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_bacd64503774" alt="" />
 
 ---
 
@@ -99,6 +86,19 @@
 专注于DevOps安全、DevSecOps、开发安全、开源安全等行业领域的优质内容分享与传播。一个真正懂DevSecOps的订阅号！
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_7dd1a6c278da" alt="" />
+
+---
+
+
+### [君哥的体历](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MjQ1NTA4MA==)
+
+[:chart_with_upwards_trend:【3/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MjQ1NTA4MA==)
+
+[:camera_flash:【2022-10-31 07:00:06】](https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247488980&idx=1&sn=38e30ab11b0c422282aea05c3f0f41f6&chksm=ea4bbf93dd3c3685f2432b98c27c8b7b88ce4bdf20b38d259e4afae34b25e66433f473a31f8b&scene=27#wechat_redirect)
+
+闲暇时间，逼迫自己，记录分享体验与经历，不求正确统一，但求真、善、美。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_aa4d8db71365" alt="" />
 
 ---
 
