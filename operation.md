@@ -1,7 +1,7 @@
 
 ### [Linux中国](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ4MjYwMQ==)
 
-[:chart_with_upwards_trend:【101/110/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ4MjYwMQ==)
+[:chart_with_upwards_trend:【97/106/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ4MjYwMQ==)
 
 [:camera_flash:【2022-10-30 16:33:13】](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664669154&idx=1&sn=12097e20925543c6a5815336f4626e73&chksm=bdcfa4a48ab82db2466d9c45819d3670b5cfc90a0ff4935d0c71a6110c4626ad32c9e176ff19&scene=27#wechat_redirect)
 
@@ -14,9 +14,9 @@
 
 ### [系统安全运维](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NjE0NDc5OQ==)
 
-[:chart_with_upwards_trend:【0/35/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NjE0NDc5OQ==)
+[:chart_with_upwards_trend:【0/34/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NjE0NDc5OQ==)
 
-[:camera_flash:【2022-10-29 08:08:36】](https://mp.weixin.qq.com/s?__biz=Mzk0NjE0NDc5OQ==&mid=2247511558&idx=1&sn=88fe58e2f48d77a5f359e6416460b31b&chksm=c3087d76f47ff460248480667d052f431edb9327f099a8e0b62753786e35b8e14404fc8f256c&scene=27#wechat_redirect)
+[:camera_flash:【2022-10-31 10:25:41】](https://mp.weixin.qq.com/s?__biz=Mzk0NjE0NDc5OQ==&mid=2247511575&idx=1&sn=78832f2f15a86ce142722871f20fe88b&chksm=c3087d67f47ff471df315a4e808065197d6f70bccd3b22f93b14e8e466aadf15e41a6e2c4bb2&scene=27#wechat_redirect)
 
 未知攻 焉知防 攻防兼备
 
@@ -27,9 +27,9 @@
 
 ### [kali黑客笔记](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzIwNTY1OA==)
 
-[:chart_with_upwards_trend:【17/18/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzIwNTY1OA==)
+[:chart_with_upwards_trend:【17/17/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzIwNTY1OA==)
 
-[:camera_flash:【2022-10-30 08:59:05】](https://mp.weixin.qq.com/s?__biz=MzkxMzIwNTY1OA==&mid=2247491883&idx=1&sn=8c838a897f71053436b166b30bb88729&chksm=c10391def67418c8bd0f1691282ef0747d30da3e081bec2eb3440b3b2a17c37c39e9f3f63667&scene=27#wechat_redirect)
+[:camera_flash:【2022-10-31 11:00:49】](https://mp.weixin.qq.com/s?__biz=MzkxMzIwNTY1OA==&mid=2247491904&idx=1&sn=839f49f2dff071f3638b08abdf04a925&chksm=c10391b5f67418a39c01aceb53905253cfa7051453170ae2638ce654bb1cf23c0f60529f5637&scene=27#wechat_redirect)
 
 kali论坛官方唯一公众号，主要发布过于小白学习Kali Linux相关安全学习知识。Debian Ubuntu Centos等操作系统的安全和运维。以及树莓派 ESP8266 DIY单片机等相关领域的文章，欢迎大家关注我！
 

@@ -1,9 +1,9 @@
 
 ### [计算机与网络安全](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTk4MDE2MA==)
 
-[:chart_with_upwards_trend:【0/88/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTk4MDE2MA==)
+[:chart_with_upwards_trend:【0/86/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTk4MDE2MA==)
 
-[:camera_flash:【2022-10-31 07:32:08】](https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655183022&idx=1&sn=e1d5a9c139514279e8c32fa6411f4b2a&chksm=bc857d418bf2f45764f219efdb7a21f6d75a43c5e29566c3b23f1719c593b7fc1cf112aaad66&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-01 07:31:24】](https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655183046&idx=1&sn=e62b4f412977f99978902eff50e41d78&chksm=bc857d298bf2f43f67211cefb48033bb9ad83d55866a9de26b81f38725744b72707f4fb4f42a&scene=27#wechat_redirect)
 
 帮助安全从业者、安全爱好者学习与成长。
 
@@ -14,7 +14,7 @@
 
 ### [祺印说信安](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5MzU5MzQzMA==)
 
-[:chart_with_upwards_trend:【38/70/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5MzU5MzQzMA==)
+[:chart_with_upwards_trend:【37/67/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5MzU5MzQzMA==)
 
 [:camera_flash:【2022-10-31 00:00:36】](https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652096622&idx=1&sn=54d9a17797e5911a1d816f7ba8061812&chksm=8bbce257bccb6b41fc7428affcc9577c39321e3d2eaaa374440311328156a154e0d0f3df239d&scene=27#wechat_redirect)
 
@@ -40,7 +40,7 @@
 
 ### [河南等级保护测评](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NjY2MTI3Mg==)
 
-[:chart_with_upwards_trend:【24/42/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NjY2MTI3Mg==)
+[:chart_with_upwards_trend:【24/40/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NjY2MTI3Mg==)
 
 [:camera_flash:【2022-10-31 00:00:12】](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247487951&idx=1&sn=cc3eace76b44f22e92d54dbf141544a4&chksm=ce463738f931be2e2580861a1af1090d726acc442da5996c1b4952967b2674d67238782424f4&scene=27#wechat_redirect)
 
@@ -107,7 +107,7 @@
 
 [:chart_with_upwards_trend:【0/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4ODU1MzAyNg==)
 
-[:camera_flash:【2022-10-27 14:44:01】](https://mp.weixin.qq.com/s?__biz=MzU4ODU1MzAyNg==&mid=2247507467&idx=1&sn=57442507da5bd36745f5e56909e564fe&chksm=fdd99026caae1930f40657eb9500fe3bf574723defe859d2dac3a2418478c333c0d2a7852141&scene=27#wechat_redirect)
+[:camera_flash:【2022-10-31 10:55:46】](https://mp.weixin.qq.com/s?__biz=MzU4ODU1MzAyNg==&mid=2247507488&idx=1&sn=87af82878e30f64876fa7695768ebd40&chksm=fdd9900dcaae191b35f03226f34822fa68f012a7784fa99c2dc3f402e13f3baacec8927bde5d&scene=27#wechat_redirect)
 
 全面介绍网络安全相关知识、安全建设方案、分享网络安全行业法律法规及相关政策等内容，一个学习网络安全知识、技术、业务交流的全国性平台。
 
@@ -116,28 +116,28 @@
 ---
 
 
+### [汇能云安全](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNzAwOTQxMg==)
+
+[:chart_with_upwards_trend:【0/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNzAwOTQxMg==)
+
+[:camera_flash:【2022-10-31 11:13:04】](https://mp.weixin.qq.com/s?__biz=MzIwNzAwOTQxMg==&mid=2652246569&idx=1&sn=ac6131acefcc48f294fc3bda5c433ea8&chksm=8cfa51c2bb8dd8d4e82d30948ca2679f27e9cb214d9ed1fda3def562fe9bf49f99c68a5d342e&scene=27#wechat_redirect)
+
+信息安全等保测评、信息安全服务；云卫士CDS-容灾备份、智能安全网关、智能网络管理产品支持服务；智云iSC-云平台、云服务技术支持服务；朗云iOT-物联网产品支持服务。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_5f81484d311e" alt="" />
+
+---
+
+
 ### [网络安全等保测评](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3MDY0Nzg1Nw==)
 
-[:chart_with_upwards_trend:【0/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3MDY0Nzg1Nw==)
+[:chart_with_upwards_trend:【0/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3MDY0Nzg1Nw==)
 
 [:camera_flash:【2022-10-17 22:58:29】](https://mp.weixin.qq.com/s?__biz=MzI3MDY0Nzg1Nw==&mid=2247488089&idx=1&sn=dbbc4e69ef33d014ae1f656131bbab11&chksm=eacc8507ddbb0c113fcb72c4d866206ad9b139f22fb4b009aa9680e0d2a3cc6b11382fb0dbd2&scene=27#wechat_redirect)
 
 学习笔记和资讯分享。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_630452116db5" alt="" />
-
----
-
-
-### [汇能云安全](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNzAwOTQxMg==)
-
-[:chart_with_upwards_trend:【0/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNzAwOTQxMg==)
-
-[:camera_flash:【2022-10-28 09:53:47】](https://mp.weixin.qq.com/s?__biz=MzIwNzAwOTQxMg==&mid=2652246552&idx=1&sn=3d56ae081768257745b1666a453a68d0&chksm=8cfa51f3bb8dd8e59c6f8ae17c4e9fbdc039f2f17af8ae6fbc7dd7c21a4783b8089a23738794&scene=27#wechat_redirect)
-
-信息安全等保测评、信息安全服务；云卫士CDS-容灾备份、智能安全网关、智能网络管理产品支持服务；智云iSC-云平台、云服务技术支持服务；朗云iOT-物联网产品支持服务。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_5f81484d311e" alt="" />
 
 ---
 
@@ -151,19 +151,6 @@
 国家等级保护制度核心机构
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f5f6bf3d09af" alt="" />
-
----
-
-
-### [湖南金盾评估中心](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyNTI0ODcwMw==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyNTI0ODcwMw==)
-
-[:camera_flash:【2022-10-28 17:03:12】](https://mp.weixin.qq.com/s?__biz=MzIyNTI0ODcwMw==&mid=2662127362&idx=1&sn=a43211691d392e23056d8eb51e602ee3&chksm=f35ae3d2c42d6ac419b76e58003a9dbba6298282730c210a272c7888f0072e873b45b197690e&scene=27#wechat_redirect)
-
-提供行业安全资讯，打造专业安全服务平台。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_18727cdf9502" alt="" />
 
 ---
 
@@ -216,6 +203,19 @@
 测评整改、渗透测试、主机加固、风险评估、Hvv&amp;重保、系统集成
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_5a49c93db94e" alt="" />
+
+---
+
+
+### [湖南金盾评估中心](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyNTI0ODcwMw==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyNTI0ODcwMw==)
+
+[:camera_flash:【2022-10-31 16:36:15】](https://mp.weixin.qq.com/s?__biz=MzIyNTI0ODcwMw==&mid=2662127369&idx=1&sn=8ee505f12c3d105f1c6e0b62b291215f&chksm=f35ae3d9c42d6acf966c056b4e69436d0671f4fc278e70d3239935d69ec02037562e9507aeca&scene=27#wechat_redirect)
+
+提供行业安全资讯，打造专业安全服务平台。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_18727cdf9502" alt="" />
 
 ---
 

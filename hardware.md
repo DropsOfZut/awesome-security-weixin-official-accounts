@@ -1,9 +1,9 @@
 
 ### [IoVSecurity](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
 
-[:chart_with_upwards_trend:【0/63/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
+[:chart_with_upwards_trend:【0/60/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
 
-[:camera_flash:【2022-10-30 23:24:10】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247560859&idx=1&sn=a10cd66c0e434750d97d1228445840f2&chksm=fc03be51cb7437474ab71de6fedaf885893a274617dcb6ebb5a6607b3f2ded5469885b359805&scene=27#wechat_redirect)
+[:camera_flash:【2022-10-31 20:57:51】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247561029&idx=1&sn=e7c5672d1a3e658bed1533b8f59491e3&chksm=fc03bf8fcb743699faa8be0bfb4a0253ccd3bd66064ae126e9df8222973f718f986c80a30107&scene=27#wechat_redirect)
 
 为智能网联汽车行业专业人士提供信息和网络安全技术、产品及服务等行业发展最新咨询
 
@@ -14,9 +14,9 @@
 
 ### [网络安全与取证研究](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTU3NTY0Nw==)
 
-[:chart_with_upwards_trend:【0/26/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTU3NTY0Nw==)
+[:chart_with_upwards_trend:【0/25/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTU3NTY0Nw==)
 
-[:camera_flash:【2022-10-30 21:47:35】](https://mp.weixin.qq.com/s?__biz=Mzg3NTU3NTY0Nw==&mid=2247485125&idx=1&sn=d1218c8aba0710fabe706e909ab62df0&chksm=cf3e26f5f849afe39552844c0d1f54d105f679cf8122e362855143f8cbd00f73b4df28cfbbe1&scene=27#wechat_redirect)
+[:camera_flash:【2022-10-31 10:43:08】](https://mp.weixin.qq.com/s?__biz=Mzg3NTU3NTY0Nw==&mid=2247485129&idx=1&sn=d4dff0dc1dbc2781ad01c28f7066c9a7&chksm=cf3e26f9f849afef66a5eb4c37c6fe11fa7dbee0b8531ed9d540211be2aeeac452924f0445c2&scene=27#wechat_redirect)
 
 旨于开展网络安全相关法律法规研究与电子数据取证技术研究，分享小知识、小技巧，共同学习提高，推进技术规范化建设。
 
@@ -27,7 +27,7 @@
 
 ### [IoT物联网技术](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
 
-[:chart_with_upwards_trend:【0/14/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
+[:chart_with_upwards_trend:【0/13/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
 
 [:camera_flash:【2022-10-26 19:21:40】](https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&mid=2454929798&idx=1&sn=1ac6648c06cbd2209055759747683a2d&chksm=b1670cc9861085dfd694f56846ff3a9d28e4295138aecf0c0ad57f6bca0d8a9aad94770180d8&scene=27#wechat_redirect)
 
@@ -40,9 +40,9 @@
 
 ### [电子物证](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNDcwMDgzMA==)
 
-[:chart_with_upwards_trend:【0/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNDcwMDgzMA==)
+[:chart_with_upwards_trend:【0/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNDcwMDgzMA==)
 
-[:camera_flash:【2022-10-19 17:00:14】](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651044350&idx=1&sn=72a30c390170a0fd474db0cb69e2c1c5&chksm=80d0f60fb7a77f1920b974c876a570e9d87b7335bb8820d0a0f79307c73061621297ef179453&scene=27#wechat_redirect)
+[:camera_flash:【2022-10-31 11:20:15】](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651044536&idx=1&sn=438ac4f018b95e5d983537857378c982&chksm=80d0f549b7a77c5fa4017a4f4a399525556aaecb56d80c1626d08ffd8a567d2a69a2e4b6df04&scene=27#wechat_redirect)
 
 关注刑事证据科学前沿发展，传递电子物证技术最新趋势
 
@@ -53,7 +53,7 @@
 
 ### [网安杂谈](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwMTMzMDUwNg==)
 
-[:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwMTMzMDUwNg==)
+[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwMTMzMDUwNg==)
 
 [:camera_flash:【2022-10-18 19:56:11】](https://mp.weixin.qq.com/s?__biz=MzAwMTMzMDUwNg==&mid=2650887049&idx=1&sn=6f4d8cd7cd723fd4bd31965b86d079ba&chksm=812eafacb65926ba23b97f1762a200aa5a002dcee3f4080a1127a2de57f6d5c2548aa168c46d&scene=27&key=9164184113abefbb349509ee0adaeb6ce8b76021aab452dd628f1902a69d79f4843f83046dc3a2e8b2e288e2d671594ee62b19f3c10f7a519f6f2550984eee1c233abd2a04f57456de9469c660c8d2fb6680130b72b2823df5a4b16b598314b733e2e4181103219f6cc82ad557e198dcc5a71d3aadec659c12ad709967dd2dc1&ascene=15&uin=MzgxODQ4MjMz&devicetype=Windows+Server+2016+x64&version=63070517&lang=zh_CN&session_us=gh_e27e751d6d9f&exportkey=n_ChQIAhIQjC8wYo8DukUgf6bWt1EjRRL5AQIE97dBBAEAAAAAAB63MuHfo7AAAAAOpnltbLcz9gKNyK89dVj0kkhypCq8ofHqMlCMX%2F0h3ATKBYAq%2FhxYUNJVDKtKVx8qWUTyaWyDwSM%2BFxKLzSQwDFDA%2F3upymL0zVPP%2BB592xp4NEPpDIqHMY0RlLBG4eLZIZGUEp1XNSJyxCQqg3Bt47seD2kfFWL2r0P4JYDcY7M42lXpQCznNhUpy0%2FtRb8K3py7%2FM0QR56M34TuNRYiqZQt%2B%2BJNcH5Kjk4FGh4ldFf5RXMQRs%2BBHVN%2FnZPv5q4A971y%2BZcCjGoBTLO2%2B996qed4PA21o2QFPy5ealvBYDCOQw%3D%3D&acctmode=0&p&scene=27#wechat_redirect)
 
