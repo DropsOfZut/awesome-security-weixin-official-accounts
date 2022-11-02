@@ -1,9 +1,9 @@
 
 ### [寰宇卫士](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
 
-[:chart_with_upwards_trend:【0/16/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
+[:chart_with_upwards_trend:【0/18/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
 
-[:camera_flash:【2022-10-31 10:04:44】](https://mp.weixin.qq.com/s?__biz=MzIwMzU0NDY5OA==&mid=2247495261&idx=1&sn=baba2530b90a6fa7666a428564affcdf&chksm=96cf6f48a1b8e65e350a940f299371ee42dcf06aa694eb59c4dcddfb141e3a740afddbc22969&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-01 09:55:34】](https://mp.weixin.qq.com/s?__biz=MzIwMzU0NDY5OA==&mid=2247495278&idx=1&sn=863ab0dab010fa8264411dcc7b326940&chksm=96cf6f7ba1b8e66d86b56cfeb1d45803334694db64808d1103191728d144c313e44fed2ff4a9&scene=27#wechat_redirect)
 
 寰宇卫士综合安全咨询、安全服务、解决方案、认证培训、产品研发等信息安全多元化产业链为一体。
 
@@ -12,11 +12,24 @@
 ---
 
 
+### [Arr3stY0u](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjcxMTAwMQ==)
+
+[:chart_with_upwards_trend:【1/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjcxMTAwMQ==)
+
+[:camera_flash:【2022-10-31 00:00:02】](https://mp.weixin.qq.com/s?__biz=Mzg4MjcxMTAwMQ==&mid=2247485578&idx=1&sn=61434347591ee7cca1e06fba5f1ef82a&chksm=cf53c83cf824412a820f74b45457e27a2b04af6d48957ff566b1587480e690bf6389f3025bba&scene=27#wechat_redirect)
+
+山海关安全团队旗下CTF战队-Arr3stY0u公众号。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f11d07068d45" alt="" />
+
+---
+
+
 ### [春秋伽玛](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
 
 [:chart_with_upwards_trend:【1/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
 
-[:camera_flash:【2022-10-24 10:09:44】](https://mp.weixin.qq.com/s?__biz=MzkyNDA5NjgyMg==&mid=2247494511&idx=1&sn=ada2c005e45435d0ac4b2b057292c3b6&chksm=c1d9ab36f6ae222032a77d8ef21d25a0490f1a25f6b6476202cf0530d5f56a6553bdaa1fefa0&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-01 10:00:04】](https://mp.weixin.qq.com/s?__biz=MzkyNDA5NjgyMg==&mid=2247494638&idx=1&sn=f21b74d41ff059f1f758fdb134e29574&chksm=c1d9abb7f6ae22a1a7b122349dbea43c5fc4b52eea81c15786921d3eb4857cdbf79f6bac6167&scene=27#wechat_redirect)
 
 春秋伽玛，为广大网络安全爱好者传递网络安全大赛相关赛事信息，提供优质的赛事服务平台
 
@@ -38,24 +51,11 @@
 ---
 
 
-### [Arr3stY0u](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjcxMTAwMQ==)
-
-[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjcxMTAwMQ==)
-
-[:camera_flash:【2022-10-31 00:00:02】](https://mp.weixin.qq.com/s?__biz=Mzg4MjcxMTAwMQ==&mid=2247485578&idx=1&sn=61434347591ee7cca1e06fba5f1ef82a&chksm=cf53c83cf824412a820f74b45457e27a2b04af6d48957ff566b1587480e690bf6389f3025bba&scene=27#wechat_redirect)
-
-山海关安全团队旗下CTF战队-Arr3stY0u公众号。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f11d07068d45" alt="" />
-
----
-
-
 ### [DataCon大数据安全分析竞赛](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5Njg1NzMyNw==)
 
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5Njg1NzMyNw==)
+[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5Njg1NzMyNw==)
 
-[:camera_flash:【2022-10-28 10:51:20】](https://mp.weixin.qq.com/s?__biz=MzU5Njg1NzMyNw==&mid=2247485211&idx=1&sn=551ad0704137136839aac0675499742d&chksm=fe5d1f9bc92a968d66f0d71c5c198d1bf8644a887214522b34176f8dc594f6f30fafb501ac61&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-01 09:58:25】](https://mp.weixin.qq.com/s?__biz=MzU5Njg1NzMyNw==&mid=2247485220&idx=1&sn=faf5bd974b97851fc776b43eaaefe020&chksm=fe5d1fa4c92a96b2136839d5d97c70241b4446142214ac31ae5f697bd224a734848e89c4ce29&scene=27#wechat_redirect)
 
 由奇安信集团、清华大学、蚂蚁集团主办，联合北京大学、中科院软件所、复旦大学、中山大学、山东大学、中国科技大学等30多个知名高校和研究机构共同举办的聚焦大数据安全分析的比赛。
 
@@ -73,6 +73,19 @@
 X是未知，更是无限，邀您一道创造、见证和实现X-Plan，北斗逐光，安全有恒，未来无界，共创数字安全未来！
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_b0a5876d02ea" alt="" />
+
+---
+
+
+### [SCUCTF](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxNDk1ODUxMw==)
+
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxNDk1ODUxMw==)
+
+[:camera_flash:【2022-10-31 21:08:25】](https://mp.weixin.qq.com/s?__biz=MzUxNDk1ODUxMw==&mid=2247486066&idx=1&sn=a83d9a800ec365ad7118787c1334aa82&chksm=f9bcbfaccecb36bae92c3092d78ab52ac94b66a52ad0100b4eb6d67a7afaa1532d32f91a9c57&scene=27#wechat_redirect)
+
+CTF协会
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_1e4280acde68" alt="" />
 
 ---
 
@@ -268,19 +281,6 @@ ctf技术交流。
 强网竞赛是面向高等院校和国内信息安全企业的国家级赛事，旨在通过高对抗的竞技比赛，发现锻造网络安全领域优秀人才，提高国家网络安全保障能力，提升全民网络安全意识。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_cf8bfd7de794" alt="" />
-
----
-
-
-### [SCUCTF](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxNDk1ODUxMw==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxNDk1ODUxMw==)
-
-[:camera_flash:【2022-10-31 21:08:25】](https://mp.weixin.qq.com/s?__biz=MzUxNDk1ODUxMw==&mid=2247486066&idx=1&sn=a83d9a800ec365ad7118787c1334aa82&chksm=f9bcbfaccecb36bae92c3092d78ab52ac94b66a52ad0100b4eb6d67a7afaa1532d32f91a9c57&scene=27#wechat_redirect)
-
-CTF协会
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_1e4280acde68" alt="" />
 
 ---
 

@@ -1,9 +1,9 @@
 
 ### [编码安全研究](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NDY1MDc2Mg==)
 
-[:chart_with_upwards_trend:【0/32/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NDY1MDc2Mg==)
+[:chart_with_upwards_trend:【0/33/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NDY1MDc2Mg==)
 
-[:camera_flash:【2022-10-31 10:37:34】](https://mp.weixin.qq.com/s?__biz=Mzg2NDY1MDc2Mg==&mid=2247497087&idx=1&sn=2e23ddb4d830898415e7ce623ef8b96b&chksm=ce64a61af9132f0c58ceefa83fb684ce860e36580357ba5d06c2a7c868c95614a185b093d1c7&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-01 09:09:54】](https://mp.weixin.qq.com/s?__biz=Mzg2NDY1MDc2Mg==&mid=2247497101&idx=1&sn=c368074b394d9a4c92c873d1f1b0ba5e&chksm=ce64a6e8f9132ffe315a504f7a57161b648b0f6c76a3ff2fc3d8a2b4d142f7e5da0082b519b3&scene=27&key=9164184113abefbbe436d9fc366d6513c7f43a2b19d1624753bfc753205f3641aa5977e7fbd460ed0036b8fbd9f5b49f24d6c57f300877bf7112938ae708a79985ab9dec46619ba067e6d00cbcc442958c6c54e7e02f0d0994222d431003d272ee7d0432832da0a23d2ec0ad43866aa5333b56aaa8d23717f7c03067e3d20334&ascene=15&uin=MzgxODQ4MjMz&devicetype=Windows+Server+2016+x64&version=63070517&lang=zh_CN&session_us=gh_690a898a06c9&exportkey=n_ChQIAhIQ64UhwDADjhbhK7s%2FMNbX6RL5AQIE97dBBAEAAAAAAH1QOKCz%2BLEAAAAOpnltbLcz9gKNyK89dVj0L17U2UsPLxBFUFkythKSA6K33GMIhsurYjhwt6WtYZiisw38eCPQmcGXaXd1giDZ8TM%2BV7MznjwBA26pzcdd%2BZ89ESaagx0WMM2l4KouR%2Fbn0jzvwIxERGBLYVhDeZjmGiWSTtflvRaBkUdQfZlbD3Yo%2BmXzHivBGaH%2Bos35No3TFkteOEoI%2BCPWyiAEBKOphfm0XbXQbMi2n%2Fl17pmsUCdBKEb8uXFTZN7en6tusoOL4nmVF1OPhdJ4jInDjvWmlEP3%2B6nVVZ9FpTKdo%2BbYP5v2Bg%3D%3D&acctmode=0&pass_&scene=27#wechat_redirect)
 
 专注于学习网络安全
 
@@ -14,9 +14,9 @@
 
 ### [哔哩哔哩技术](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3Njc0NTgwMg==)
 
-[:chart_with_upwards_trend:【10/19/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3Njc0NTgwMg==)
+[:chart_with_upwards_trend:【11/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3Njc0NTgwMg==)
 
-[:camera_flash:【2022-10-29 23:00:13】](https://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&mid=2247491337&idx=4&sn=920cd0f45189e01b2c98b2b2996d7384&chksm=cf2cda2cf85b533abb190af041bb8780a69e34e8bde10899a51287d720bd9af4f18f21a1c6b6&scene=27&key=00d65dfbf652ec003159a1bc1f1fa1be6ce448dbf38441f62ac35ca67fd7a5751a035e4c806e494294a51c3f1df8530b7852abdcf466d943bcff8df42d411a8ae9cd30e4cf80858d3430b265792e6c42d2045c8417892c437d9f569085eb0f0230442fe149ef1b72b0148f4bc315ffefeb2749d3c2dbeb501adde6be7ae68cf9&ascene=15&uin=MzgxODQ4MjMz&devicetype=Windows+Server+2016+x64&version=63070517&lang=zh_CN&session_us=gh_8620cb9f61a5&exportkey=n_ChQIAhIQ%2BQxMq1518%2BuAMlXaP2sIuRL5AQIE97dBBAEAAAAAAAg%2BIwFdvVQAAAAOpnltbLcz9gKNyK89dVj0YcBRJxkFAd5Uqm6Qf4AFFcP8njT7nBKnoGEYsHhdvDPsJR8SjSok5J6qxV6kTn4lgEG5MCYx0O6%2FDYWDqpeOUHNH3MBrW0P6a5Q1s1MZ4rAK94%2BBzZ45hSXCIYTqKorpfIlzThAnm05iKuee8U3ci65oEAMY0G%2BUs9SPaufbbF8Yj%2FKdujcmeu%2B%2F%2BpaHFKDp5dI%2Fq4mMBNnF3vb4iz%2BMFQvmgjOY8m%2BzrftJyxPEhE7cF9HPwSl0X2xleeS3qnNDwUJnSCIokfU5MdLDM7VuMheMqA%3D%3D&acctmode=0&p&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-01 12:00:59】](https://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&mid=2247491358&idx=1&sn=80034b5b8a9987dc1c2ea3be402efb4f&chksm=cf2cda3bf85b532d6d34496db0cf5a0e7d6b875576b4bbdeca9c9bbbebdcedacf61ce91320b4&scene=27&key=5068985b1dfe19a9b47c408bd0633b24456fda57eed84d0cf6d4a40d3d2068e65bb375d97024006fc1c50f5a1b2f9b8d6f98c8987b1d264d1672161d660441a6e60dbd4207bdbaa6d6de39db4d5779cff70418bd2a721916bd93ce19f98edcbcdb6d7c94b76fb60492a323937608f895ee2e3dcfe3b35661b1fda713974d2aca&ascene=15&uin=MzgxODQ4MjMz&devicetype=Windows+Server+2016+x64&version=63070517&lang=zh_CN&session_us=gh_690a898a06c9&exportkey=n_ChQIAhIQI%2Bgd8InkibCmEwjC9agQlRL5AQIE97dBBAEAAAAAALCuCVvea%2BQAAAAOpnltbLcz9gKNyK89dVj0kbI5b6zdSMdHNhrzeb6jk0pJJgvyfq3nuZdbWSVXZL4Pzb4jZDp%2FC52UxDnqFI2wbhAXvUMHebYHNn%2BZHLZrrtKoCP82dfTmF03yQA8C9lBjJMme5wvWXfuGhpzyvm69EY3WtBUW3V%2FYGvOzvtIV2B6vOtDkaj34mkKEMyoT4TshupkKIvPurzvmeV8ln7lp8xos1GJ0yxZ7%2FQnheFNCwQqY5zmmw19OE9XvCVqh1RcCrlsGjmfjmFR71CAGKtumP%2F2%2Ftb0PVNQVn5ZS%2BBTkP5A5Fg%3D%3D&acctmode=0&pass_tick&scene=27#wechat_redirect)
 
 提供B站相关技术的介绍和讲解
 
@@ -94,7 +94,7 @@
 
 [:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI4MzcwNTAzOQ==)
 
-[:camera_flash:【2022-10-09 16:35:11】](https://mp.weixin.qq.com/s?__biz=MzI4MzcwNTAzOQ==&mid=2247519888&idx=1&sn=0e6fc3bcbe049fc1ecfdad0477744f2d&chksm=eb846530dcf3ec26f1aebc2e9803b4a0f55ae7dfff8ccd8e47ab132149be3eb3e191a56a07ca&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-01 20:00:34】](https://mp.weixin.qq.com/s?__biz=MzI4MzcwNTAzOQ==&mid=2247520626&idx=1&sn=2417da8ff614dddde9197918daa61d5d&chksm=eb847ad2dcf3f3c4831aaac03611b02f00692d65ddec9e9be2cba96d5fbfb17aa0214dee8c90&scene=27#wechat_redirect)
 
 新一代网络安全测试工具，由赵武Zwell（Pangolin、FOFA作者）打造，能够针对一个目标企业梳理最全的攻击面信息，同时能进行高效、实战化漏洞扫描，并快速的从一个验证入口点，切换到横向。
 
@@ -133,7 +133,7 @@
 
 [:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxOTg4NDAxMg==)
 
-[:camera_flash:【2022-10-08 17:48:54】](https://mp.weixin.qq.com/s?__biz=MzUxOTg4NDAxMg==&mid=2247484285&idx=1&sn=337b4872c238e196f0f1eb837eb849bb&chksm=f9f39efece8417e8f73665540ec195b52886be0f4d04ba8143e077660538298f1e52382c8194&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-01 18:30:47】](https://mp.weixin.qq.com/s?__biz=MzUxOTg4NDAxMg==&mid=2247484324&idx=1&sn=266efe666ffe212c7785602c900f415e&chksm=f9f39e27ce841731269d0313ec1a1f6d6c0cbe8826b73ccbf13d7b98155d63d73475cfd6ca4a&scene=27#wechat_redirect)
 
 好大夫在线技术实践与分享，欢迎大家一起交流！更欢迎加入我们，一起用“科技创造优质医疗”！
 
@@ -484,7 +484,7 @@ Pinpoint，专业代码审计团队。感谢您的关注！
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzE2MzY1OA==)
 
-[:camera_flash:【2022-10-27 10:22:44】](https://mp.weixin.qq.com/s?__biz=Mzg4MzE2MzY1OA==&mid=2247489459&idx=1&sn=e6756f9ae75d5f08cf0c171176bf2087&chksm=cf4ac0d6f83d49c0ce89cdde80e813dfedbf31cc93877f6925114ee5bfd8e4a71d58167bb936&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-01 20:00:03】](https://mp.weixin.qq.com/s?__biz=Mzg4MzE2MzY1OA==&mid=2247489505&idx=1&sn=03de73dbc3e7a63c29daf0b8b3058ded&chksm=cf4ac084f83d49926e117ef5d68f1d7a858d2a852c4560a1276c6a5c6738674e3afd570a5b91&scene=27#wechat_redirect)
 
 OPPO在大数据、人工智能、云技术等领域的技术干货及技术活动分享平台
 

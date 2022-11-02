@@ -1,9 +1,9 @@
 
 ### [商密君](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
 
-[:chart_with_upwards_trend:【0/103/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
+[:chart_with_upwards_trend:【0/99/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
 
-[:camera_flash:【2022-10-31 17:28:48】](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247585154&idx=1&sn=56b12cf70af918137a3d1a98a41b4911&chksm=ec579dd9db2014cf148f577c8868e945c54bf369426d1e273c2ab35a51c77c766b66a4dadac1&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-01 15:51:18】](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247585198&idx=1&sn=46dde15648952571a652b99828229980&chksm=ec579df5db2014e39fc992767a03b9b0b34133044ba8272aac92859bf9107ce0e37a80a80516&scene=27#wechat_redirect)
 
 商密君是全国密码行业头部公众号，旨在宣传推广《密码法》，普及商用密码知识，解读密码政策，分享商用密码行业的最新动态，为密码产业产学研用做好宣传服务，连接密码全行业精英，推动密码技术在数字经济各行业的应用和创新。
 
@@ -14,9 +14,9 @@
 
 ### [全栈网络空间安全](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
 
-[:chart_with_upwards_trend:【0/27/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
+[:chart_with_upwards_trend:【0/30/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
 
-[:camera_flash:【2022-10-31 18:36:44】](https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247504979&idx=1&sn=c0de6b46184b1e4a465aaf6195b5dbf7&chksm=cf3d689ef84ae188209b9a053534fb0e72663de4d3c6c544f966982adcf5228f5db57e61979e&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-01 21:44:22】](https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247504990&idx=1&sn=e4478e79999e029c388326e39c8df323&chksm=cf3d6893f84ae185885165bd0c336b094512940545226de76bf4e35b41bdfa1e45a0018fab2a&scene=27#wechat_redirect)
 
 网络安全事件预警体系、事件检测、应急处置、追踪溯源、安全运营、红蓝对抗、HW行动、AWD竞赛，以及站在审计师的角度评估信息系统建设的有效性、完备性、安全性等。 欢迎有想法、乐于分享的具备互联网分享精神的安全人交流学习。
 
@@ -27,9 +27,9 @@
 
 ### [深圳市网络与信息安全行业协会](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
 
-[:chart_with_upwards_trend:【0/13/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
+[:chart_with_upwards_trend:【0/14/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
 
-[:camera_flash:【2022-10-28 21:50:19】](https://mp.weixin.qq.com/s?__biz=MzU0Mzk0NDQyOA==&mid=2247503866&idx=1&sn=0e4d4dad2424302825946b6b033e460c&chksm=fb013479cc76bd6f3337caa67a16458ec5898c22900e7565b3da5576d6d7c5d150fe7cc5529c&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-01 12:07:55】](https://mp.weixin.qq.com/s?__biz=MzU0Mzk0NDQyOA==&mid=2247503876&idx=1&sn=f7d800322746bdaa1357b1864f53554e&chksm=fb012b87cc76a2913d6cb14342c3325740361c80b7695c5089143d9e2d45c9cce62d5fd40840&scene=27&key=b94dfdab45ea2e7972807af5c69fd3c50d61a2f769d71517748d1220adf61d834f4afafdc733b9aa25920c9682160ff481552092e026f2178a7920a2715259ad0f0b1304f344da309d8f6996a023a7e53e88ae2a23c576fde66b08c23e4e7326b71bd6fe70437d9d07ab0f7f701d7080a28a806cb49dc58d1be69af6093184d9&ascene=15&uin=MTA3Mzc3OTIzNQ%3D%3D&devicetype=Windows+Server+2016+x64&version=63070517&lang=zh_CN&session_us=gh_ca15ca057a28&exportkey=n_ChQIAhIQqUCLsEemq3KpGLBwSE0NpBL5AQIE97dBBAEAAAAAAIjpE04vnAoAAAAOpnltbLcz9gKNyK89dVj0g%2BDAN0PKUFbvGerhD40BYuXa9ui3JXKM42Epocmg9vdgl1t4uDBIm7Vsd5PqWuHiHYjT5tsD9lrllMLVUvjrVIZpOXgYOtcUZDjKf%2F414U9pkm4BQYIqx8Vvd8nAjlzZPMQmgvBgtsqfW%2F4sEM0OrlqCz6g1Be%2FSSegUoOnlSUp%2FdbFveVS%2Fy4121k%2FOg0YDClq%2FtsBzisSGI0EK%2FN3hSRfH75mUwNke1ikVcMDNoXPYN98W82w%2B%2BF3xXIrDhCw06JUXzqLIGjBPbLqrg6vo%2BhcY3g%3D%3D&acctmo&scene=27#wechat_redirect)
 
 深圳市网络与信息安全行业协会（SNISA），是深圳市网络与信息安全行业的权威组织，是中国网络安全审查技术与认证中心（CCRC）在深圳唯一授权工作站，是经深圳市人力资源和社会保障局核准，开展网络空间安全工程技术专业职称评审工作的社会组织。
 
@@ -55,7 +55,7 @@
 
 [:chart_with_upwards_trend:【0/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2NDI5MTg4MA==)
 
-[:camera_flash:【2022-10-28 10:04:58】](https://mp.weixin.qq.com/s?__biz=MzI2NDI5MTg4MA==&mid=2247492378&idx=1&sn=a3a8ee74470a8412ba8279ce1a735e41&chksm=eaac705ddddbf94b311857d6cf4955dde10a37500591d6616aea1fa47c02fbf34f9b69a1ad8b&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-01 10:46:01】](https://mp.weixin.qq.com/s?__biz=MzI2NDI5MTg4MA==&mid=2247492388&idx=1&sn=dea807f7d997c62fe25c2639900d1097&chksm=eaac7063dddbf975faeef20bec85a97f2683778cc122c741e7e2ae658bad03295704754401ee&scene=27#wechat_redirect)
 
 该账号由绿盟科技金融事业部维护，用于发布金融行业相关安全资讯等内容
 
@@ -81,24 +81,11 @@
 
 [:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwODc2NjgwMg==)
 
-[:camera_flash:【2022-10-26 17:25:28】](https://mp.weixin.qq.com/s?__biz=MzAwODc2NjgwMg==&mid=2649109149&idx=1&sn=fbb438a2e895fbd6bf3f2d32c5ad24bd&chksm=837b46a0b40ccfb6601458896d6996cbc310cb59615284b6917ae435d67d63738306fe065893&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-01 19:58:50】](https://mp.weixin.qq.com/s?__biz=MzAwODc2NjgwMg==&mid=2649109158&idx=1&sn=d43c31f71a1c29584ca86587ec15976d&chksm=837b469bb40ccf8da0b0b2f7bf6abd0747f5c261e925edb11f995fdc31e4b87ee790d159f716&scene=27#wechat_redirect)
 
 专注于DevOps安全、DevSecOps、开发安全、开源安全等行业领域的优质内容分享与传播。一个真正懂DevSecOps的订阅号！
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_7dd1a6c278da" alt="" />
-
----
-
-
-### [君哥的体历](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MjQ1NTA4MA==)
-
-[:chart_with_upwards_trend:【3/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MjQ1NTA4MA==)
-
-[:camera_flash:【2022-11-01 07:30:21】](https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247488985&idx=1&sn=ff0d724874c4a786aad4c65ed61ec599&chksm=ea4bbf9edd3c36883054641f7025e173fbebb4c844c8ab0c85081762418de8ee15b8179f5ec9&scene=27#wechat_redirect)
-
-闲暇时间，逼迫自己，记录分享体验与经历，不求正确统一，但求真、善、美。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_aa4d8db71365" alt="" />
 
 ---
 
@@ -112,6 +99,19 @@
 vivo全新的安全品牌，有人文温度的科技新媒体，致力于让亿万用户享受安全便捷的数字生活。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_54ff3f871510" alt="" />
+
+---
+
+
+### [君哥的体历](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MjQ1NTA4MA==)
+
+[:chart_with_upwards_trend:【2/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MjQ1NTA4MA==)
+
+[:camera_flash:【2022-11-01 07:30:21】](https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247488985&idx=1&sn=ff0d724874c4a786aad4c65ed61ec599&chksm=ea4bbf9edd3c36883054641f7025e173fbebb4c844c8ab0c85081762418de8ee15b8179f5ec9&scene=27#wechat_redirect)
+
+闲暇时间，逼迫自己，记录分享体验与经历，不求正确统一，但求真、善、美。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_aa4d8db71365" alt="" />
 
 ---
 
