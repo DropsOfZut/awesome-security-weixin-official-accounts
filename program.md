@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【0/33/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NDY1MDc2Mg==)
 
-[:camera_flash:【2022-11-02 09:09:57】](https://mp.weixin.qq.com/s?__biz=Mzg2NDY1MDc2Mg==&mid=2247497127&idx=1&sn=5eca163c78a8eb3734163f5438ebb8a0&chksm=ce64a6c2f9132fd4651d72266b735dd4e78a32ac52503ad8161dd58168e49889d8590754f12f&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-03 09:09:52】](https://mp.weixin.qq.com/s?__biz=Mzg2NDY1MDc2Mg==&mid=2247497135&idx=1&sn=38815fd5c7577179cd10831d7e985f43&chksm=ce64a6caf9132fdc9957f61529286086ea8856f19443551ac405b1d2aa41994652e245030766&scene=27#wechat_redirect)
 
 专注于学习网络安全
 
@@ -14,7 +14,7 @@
 
 ### [哔哩哔哩技术](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3Njc0NTgwMg==)
 
-[:chart_with_upwards_trend:【11/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3Njc0NTgwMg==)
+[:chart_with_upwards_trend:【10/18/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3Njc0NTgwMg==)
 
 [:camera_flash:【2022-11-01 12:00:59】](https://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&mid=2247491358&idx=1&sn=80034b5b8a9987dc1c2ea3be402efb4f&chksm=cf2cda3bf85b532d6d34496db0cf5a0e7d6b875576b4bbdeca9c9bbbebdcedacf61ce91320b4&scene=27&key=5068985b1dfe19a9b47c408bd0633b24456fda57eed84d0cf6d4a40d3d2068e65bb375d97024006fc1c50f5a1b2f9b8d6f98c8987b1d264d1672161d660441a6e60dbd4207bdbaa6d6de39db4d5779cff70418bd2a721916bd93ce19f98edcbcdb6d7c94b76fb60492a323937608f895ee2e3dcfe3b35661b1fda713974d2aca&ascene=15&uin=MzgxODQ4MjMz&devicetype=Windows+Server+2016+x64&version=63070517&lang=zh_CN&session_us=gh_690a898a06c9&exportkey=n_ChQIAhIQI%2Bgd8InkibCmEwjC9agQlRL5AQIE97dBBAEAAAAAALCuCVvea%2BQAAAAOpnltbLcz9gKNyK89dVj0kbI5b6zdSMdHNhrzeb6jk0pJJgvyfq3nuZdbWSVXZL4Pzb4jZDp%2FC52UxDnqFI2wbhAXvUMHebYHNn%2BZHLZrrtKoCP82dfTmF03yQA8C9lBjJMme5wvWXfuGhpzyvm69EY3WtBUW3V%2FYGvOzvtIV2B6vOtDkaj34mkKEMyoT4TshupkKIvPurzvmeV8ln7lp8xos1GJ0yxZ7%2FQnheFNCwQqY5zmmw19OE9XvCVqh1RcCrlsGjmfjmFR71CAGKtumP%2F2%2Ftb0PVNQVn5ZS%2BBTkP5A5Fg%3D%3D&acctmode=0&pass_tick&scene=27#wechat_redirect)
 
@@ -29,7 +29,7 @@
 
 [:chart_with_upwards_trend:【5/15/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
 
-[:camera_flash:【2022-11-02 12:00:51】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247499708&idx=1&sn=4f30a9f5acc0a8c563c1e9323095a47d&chksm=e9d3345edea4bd48c44521c0ffb25999a5ea32cb03c7abd7be06b844023c20be9ba4d53fb9b2&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-03 12:00:05】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247499750&idx=1&sn=c7fc5b6c7b0bcbec73a6f318014d2a58&chksm=e9d33404dea4bd128356318818a80f416a31bc9cf09aa74c6dc99e074a96a9b7f8c0b9a4f256&scene=27#wechat_redirect)
 
 字节跳动的技术实践分享
 
@@ -40,7 +40,7 @@
 
 ### [GoCN](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4ODg0NDkzOA==)
 
-[:chart_with_upwards_trend:【5/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4ODg0NDkzOA==)
+[:chart_with_upwards_trend:【5/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4ODg0NDkzOA==)
 
 [:camera_flash:【2022-10-31 08:20:20】](https://mp.weixin.qq.com/s?__biz=MzA4ODg0NDkzOA==&mid=2247505694&idx=1&sn=fa77db27f733f3167cbe9b7e84cf96c4&chksm=902168fba756e1edca8d5bb151aa48f18ce6c2973d1335de209f5b19333f6e845c8f2c265d7e&scene=27#wechat_redirect)
 
@@ -103,6 +103,19 @@
 ---
 
 
+### [HaoDF技术团队](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxOTg4NDAxMg==)
+
+[:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxOTg4NDAxMg==)
+
+[:camera_flash:【2022-11-01 18:30:47】](https://mp.weixin.qq.com/s?__biz=MzUxOTg4NDAxMg==&mid=2247484324&idx=1&sn=266efe666ffe212c7785602c900f415e&chksm=f9f39e27ce841731269d0313ec1a1f6d6c0cbe8826b73ccbf13d7b98155d63d73475cfd6ca4a&scene=27#wechat_redirect)
+
+好大夫在线技术实践与分享，欢迎大家一起交流！更欢迎加入我们，一起用“科技创造优质医疗”！
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a0f9bc95946e" alt="" />
+
+---
+
+
 ### [OPPO数智技术](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzE2MzY1OA==)
 
 [:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzE2MzY1OA==)
@@ -146,24 +159,11 @@ OPPO在大数据、人工智能、云技术等领域的技术干货及技术活�
 
 [:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxMjU3ODc1MA==)
 
-[:camera_flash:【2022-10-17 09:57:12】](https://mp.weixin.qq.com/s?__biz=MzUxMjU3ODc1MA==&mid=2247485239&idx=1&sn=a059748eba368c2d69f429f111d283a0&chksm=f96302e6ce148bf07f848cad76f1e04217c31a88f47dedda8e507bee9beeea774ffad3584c70&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-03 20:55:08】](https://mp.weixin.qq.com/s?__biz=MzUxMjU3ODc1MA==&mid=2247485603&idx=1&sn=f4b69bc94eee6436e77221580a42c404&chksm=f9630d72ce14846415336c58de7c346c050aecd56c9670ca19f6c6cc77401b70e860299c85a1&scene=27#wechat_redirect)
 
 本公众号由善于Web反反爬的林弟弟善于App逆向的猛狗哥哥赞助
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_fc6c78a6258d" alt="" />
-
----
-
-
-### [HaoDF技术团队](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxOTg4NDAxMg==)
-
-[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxOTg4NDAxMg==)
-
-[:camera_flash:【2022-11-01 18:30:47】](https://mp.weixin.qq.com/s?__biz=MzUxOTg4NDAxMg==&mid=2247484324&idx=1&sn=266efe666ffe212c7785602c900f415e&chksm=f9f39e27ce841731269d0313ec1a1f6d6c0cbe8826b73ccbf13d7b98155d63d73475cfd6ca4a&scene=27#wechat_redirect)
-
-好大夫在线技术实践与分享，欢迎大家一起交流！更欢迎加入我们，一起用“科技创造优质医疗”！
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a0f9bc95946e" alt="" />
 
 ---
 
@@ -224,7 +224,7 @@ FOFA是由华顺信安科技有限公司开发的一款网络空间资产搜索�
 
 [:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzI1MDg2Mg==)
 
-[:camera_flash:【2022-10-28 17:30:49】](https://mp.weixin.qq.com/s?__biz=MzIwMzI1MDg2Mg==&mid=2649936207&idx=1&sn=5d37b8d76c04ca5e7f50cb5320c2cb33&chksm=8ed43c8eb9a3b5987a8cc376c68ce637388720386497102804fbef4b5d5b8ff38adb382edfa1&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-03 17:31:41】](https://mp.weixin.qq.com/s?__biz=MzIwMzI1MDg2Mg==&mid=2649940612&idx=2&sn=6d74b33d6f29dae9d5614bc29108808c&chksm=8ed40f45b9a386532d29fe67b59a290e5ead6d6e729006d522487d52d762e48551c6e645cb86&scene=27#wechat_redirect)
 
 主营业务涵盖应用安全、系统安全、运维安全等，包括IT资产管理、智能攻击机器人、智能防御机器人、攻防实战演练支持、安全培训、课题和安全技术研究、产品研发及服务综合解决方案提供；其中，行业解决方案又包括电力行业、金融行业、军工行业、公检法等。
 

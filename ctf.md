@@ -1,9 +1,9 @@
 
 ### [寰宇卫士](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
 
-[:chart_with_upwards_trend:【0/18/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
+[:chart_with_upwards_trend:【0/19/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
 
-[:camera_flash:【2022-11-02 16:30:15】](https://mp.weixin.qq.com/s?__biz=MzIwMzU0NDY5OA==&mid=2247495297&idx=1&sn=55cb8fc5d344c49233942a6c2b5944a0&chksm=96cf6f94a1b8e6828812e6097b92dd6b6a2abdf876b2b17c878807478b919bc5a3063c2edb2e&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-03 15:50:09】](https://mp.weixin.qq.com/s?__biz=MzIwMzU0NDY5OA==&mid=2247495322&idx=1&sn=3c82ea752e81abb743f95c21143ff3b6&chksm=96cf6f8fa1b8e69997909b660ca6bef5c8a736d89ce068021ba754961bbfb572ab91eb1d2199&scene=27#wechat_redirect)
 
 寰宇卫士综合安全咨询、安全服务、解决方案、认证培训、产品研发等信息安全多元化产业链为一体。
 
@@ -55,11 +55,24 @@
 
 [:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5Njg1NzMyNw==)
 
-[:camera_flash:【2022-11-01 09:58:25】](https://mp.weixin.qq.com/s?__biz=MzU5Njg1NzMyNw==&mid=2247485220&idx=1&sn=faf5bd974b97851fc776b43eaaefe020&chksm=fe5d1fa4c92a96b2136839d5d97c70241b4446142214ac31ae5f697bd224a734848e89c4ce29&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-03 16:21:40】](https://mp.weixin.qq.com/s?__biz=MzU5Njg1NzMyNw==&mid=2247485245&idx=1&sn=10bc1975a88b79d5b57d7bc859ac15f2&chksm=fe5d1fbdc92a96ab6bdd430434ed35f30e82d93533c15c8bad1a90fada9ba6ce676861b1066f&scene=27#wechat_redirect)
 
 由奇安信集团、清华大学、蚂蚁集团主办，联合北京大学、中科院软件所、复旦大学、中山大学、山东大学、中国科技大学等30多个知名高校和研究机构共同举办的聚焦大数据安全分析的比赛。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a0316d342599" alt="" />
+
+---
+
+
+### [BugKu](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3ODQ2MDMxMg==)
+
+[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3ODQ2MDMxMg==)
+
+[:camera_flash:【2022-11-02 09:00:53】](https://mp.weixin.qq.com/s?__biz=MzU3ODQ2MDMxMg==&mid=2247485488&idx=1&sn=cb1c0d0fe7d54def21ccc54a7accbaea&chksm=fd7447c7ca03ced15d3c4882f4ec5f4666938840e8c24e7214ca0c2a1176293e73765fb20d53&scene=27#wechat_redirect)
+
+关注网络安全，和你一起分享安全技术。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_d10dfd684f1b" alt="" />
 
 ---
 
@@ -86,19 +99,6 @@ X是未知，更是无限，邀您一道创造、见证和实现X-Plan，北斗�
 CTF协会
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_1e4280acde68" alt="" />
-
----
-
-
-### [BugKu](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3ODQ2MDMxMg==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3ODQ2MDMxMg==)
-
-[:camera_flash:【2022-11-02 09:00:53】](https://mp.weixin.qq.com/s?__biz=MzU3ODQ2MDMxMg==&mid=2247485488&idx=1&sn=cb1c0d0fe7d54def21ccc54a7accbaea&chksm=fd7447c7ca03ced15d3c4882f4ec5f4666938840e8c24e7214ca0c2a1176293e73765fb20d53&scene=27#wechat_redirect)
-
-关注网络安全，和你一起分享安全技术。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_d10dfd684f1b" alt="" />
 
 ---
 

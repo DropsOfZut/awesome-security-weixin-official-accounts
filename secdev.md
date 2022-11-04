@@ -1,9 +1,9 @@
 
 ### [商密君](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
 
-[:chart_with_upwards_trend:【0/111/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
+[:chart_with_upwards_trend:【0/107/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
 
-[:camera_flash:【2022-11-02 15:04:59】](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247585256&idx=1&sn=b10668499fbb77d00bb1ce5a1e236283&chksm=ec579db3db2014a5a283e6e866e9002071934ae6a0c0270dadc7bd2273092a83f0e4673e9693&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-03 18:48:00】](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247585352&idx=1&sn=a51e0bed270ff0f243faf770bbde95fe&chksm=ec579e13db20170595f2c12a3c16d5fdcb259047d46ec3452377bdeb63494e6f304746d88895&scene=27#wechat_redirect)
 
 商密君是全国密码行业头部公众号，旨在宣传推广《密码法》，普及商用密码知识，解读密码政策，分享商用密码行业的最新动态，为密码产业产学研用做好宣传服务，连接密码全行业精英，推动密码技术在数字经济各行业的应用和创新。
 
@@ -14,9 +14,9 @@
 
 ### [全栈网络空间安全](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
 
-[:chart_with_upwards_trend:【0/30/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
+[:chart_with_upwards_trend:【0/32/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
 
-[:camera_flash:【2022-11-02 00:00:35】](https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247504996&idx=1&sn=c5d9c35576e3cf4c32ef29e26a2519eb&chksm=cf3d68a9f84ae1bf49318b88fe9a9ae9deb63e3e858d60d1e76bf0b8bd7459728e7174943f48&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-04 00:00:08】](https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247505008&idx=1&sn=d7ef8959b61b15f5fd41cd2f375c70cd&chksm=cf3d68bdf84ae1aba632215b5336c3324df65a205dcffee77634effebebb0198665e8db605f1&scene=27#wechat_redirect)
 
 网络安全事件预警体系、事件检测、应急处置、追踪溯源、安全运营、红蓝对抗、HW行动、AWD竞赛，以及站在审计师的角度评估信息系统建设的有效性、完备性、安全性等。 欢迎有想法、乐于分享的具备互联网分享精神的安全人交流学习。
 
@@ -40,9 +40,9 @@
 
 ### [深圳市网络与信息安全行业协会](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
 
-[:chart_with_upwards_trend:【0/14/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
+[:chart_with_upwards_trend:【0/16/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
 
-[:camera_flash:【2022-11-02 12:16:33】](https://mp.weixin.qq.com/s?__biz=MzU0Mzk0NDQyOA==&mid=2247503913&idx=1&sn=5c70cfecd2802a904117155a4051ff45&chksm=fb012baacc76a2bc5a767c16d63a1e3050602306442f90f17f3e236dc057104ee3d7bf8cef04&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-03 22:35:43】](https://mp.weixin.qq.com/s?__biz=MzU0Mzk0NDQyOA==&mid=2247503941&idx=1&sn=0de84ea09d7ff3c273ea981344fe36ee&chksm=fb012bc6cc76a2d0763771640696963d28319f160d37c49d592074a699f938d6903e7939d9bf&scene=27#wechat_redirect)
 
 深圳市网络与信息安全行业协会（SNISA），是深圳市网络与信息安全行业的权威组织，是中国网络安全审查技术与认证中心（CCRC）在深圳唯一授权工作站，是经深圳市人力资源和社会保障局核准，开展网络空间安全工程技术专业职称评审工作的社会组织。
 
@@ -55,7 +55,7 @@
 
 [:chart_with_upwards_trend:【0/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2NDI5MTg4MA==)
 
-[:camera_flash:【2022-11-01 10:46:01】](https://mp.weixin.qq.com/s?__biz=MzI2NDI5MTg4MA==&mid=2247492388&idx=1&sn=dea807f7d997c62fe25c2639900d1097&chksm=eaac7063dddbf975faeef20bec85a97f2683778cc122c741e7e2ae658bad03295704754401ee&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-03 17:09:52】](https://mp.weixin.qq.com/s?__biz=MzI2NDI5MTg4MA==&mid=2247492398&idx=1&sn=cd89677f4ab91013fd7fbe6a6f1ebe5e&chksm=eaac7069dddbf97f617cf55301139a38ee37ce4bceba44a8bbea0cbb296c871758e64eb10e90&scene=27#wechat_redirect)
 
 该账号由绿盟科技金融事业部维护，用于发布金融行业相关安全资讯等内容
 
@@ -81,7 +81,7 @@
 
 [:chart_with_upwards_trend:【3/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3ODAzNjg5OA==)
 
-[:camera_flash:【2022-10-27 19:06:37】](https://mp.weixin.qq.com/s?__biz=Mzg3ODAzNjg5OA==&mid=2247485068&idx=1&sn=d7452b1153454ed2ab0d77630d1075aa&chksm=cf189441f86f1d578a2477b4d60582d7f29241dd4a4bd76a6a16fad89e5e00b32eef14d433cf&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-03 22:51:27】](https://mp.weixin.qq.com/s?__biz=Mzg3ODAzNjg5OA==&mid=2247485085&idx=1&sn=1cf7bed2858f04b29da592c5f878a29e&chksm=cf189450f86f1d468679f5eb07954976a0b4bda048867e226456b27be9ac532e54cd4e6cec99&scene=27#wechat_redirect)
 
 持续关注企业与信息安全建设，分享精选干货。
 
@@ -94,7 +94,7 @@
 
 [:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0Njg4NzE3MQ==)
 
-[:camera_flash:【2022-10-26 17:50:23】](https://mp.weixin.qq.com/s?__biz=MzI0Njg4NzE3MQ==&mid=2247489521&idx=1&sn=8eb330ff48532516f091c52bca2eb9ce&chksm=e9b9319ddeceb88b82853e7d5995dd8626f196f96e93e6b86825e76f0c13adebb72652e8713b&scene=27&key=c28b5d09085340df9afbfdd1ea54c0a4fc92dd2fca647672285b1ce9389bfb0eef5fab34e5516b83b891fbe45d13e240fe2348baef1e843b2438bb21fd9f152b452615146c20f0187edc31a40a04dc7a5cc9c726b765e3989b16f2bfb2f53f7994c9b608b004c3ed2d550aba2a788868bb51375c1adca3a892a8d571366723f0&ascene=15&uin=MzgxODQ4MjMz&devicetype=Windows+Server+2016+x64&version=63070517&lang=zh_CN&session_us=gh_6a92a838f9e0&exportkey=n_ChQIAhIQ6ubGk%2F%2BPKDHzPQcFHV6d5hL5AQIE97dBBAEAAAAAADUdB6sYSLsAAAAOpnltbLcz9gKNyK89dVj0GpebE3V5XZLHRSEs6peRGeEGniCdYKqzzAGPnOi%2B7%2BaVeUDNQ4rA4b1XizpvVK5V93euux4j25hJIFSXlBcpe1ad5VekVK%2FaRndPgWVTtRPBhWXrxW3%2FZlXGTYg%2FFIdYFOX3wU1QgI7ybsIWDvVJUemMcH7BH5tWnA5g2%2BFpervQuzzz%2Fw47xCfkN3rNFFXyUcszIrgr4Z6fcrsFkEHGsd4JgNDnMm9e753NCbhGsIDchovApQku6%2FvtaXASS2s2qDLrkxfKG9e6JoQGNQwpimqDyA%3D%3D&acctmode=0&pass_ti&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-03 12:00:20】](https://mp.weixin.qq.com/s?__biz=MzI0Njg4NzE3MQ==&mid=2247489545&idx=1&sn=8c61106f39e283d73ec8756179408330&chksm=e9b93e65deceb773adf7053c48254b249be537742b658a242d46a47021240fc485aa305f7ad8&scene=27#wechat_redirect)
 
 vivo全新的安全品牌，有人文温度的科技新媒体，致力于让亿万用户享受安全便捷的数字生活。
 
