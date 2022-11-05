@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【0/19/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
 
-[:camera_flash:【2022-11-03 15:50:09】](https://mp.weixin.qq.com/s?__biz=MzIwMzU0NDY5OA==&mid=2247495322&idx=1&sn=3c82ea752e81abb743f95c21143ff3b6&chksm=96cf6f8fa1b8e69997909b660ca6bef5c8a736d89ce068021ba754961bbfb572ab91eb1d2199&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-04 14:58:19】](https://mp.weixin.qq.com/s?__biz=MzIwMzU0NDY5OA==&mid=2247495333&idx=1&sn=57eba0a3931f04ebdbfc83bddda2443d&chksm=96cf6fb0a1b8e6a6b95ed55bf55d6711b8c4fd0a10f67574f47661f6f4bbfd683240ca456130&scene=27#wechat_redirect)
 
 寰宇卫士综合安全咨询、安全服务、解决方案、认证培训、产品研发等信息安全多元化产业链为一体。
 

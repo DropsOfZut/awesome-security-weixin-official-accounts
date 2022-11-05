@@ -1,7 +1,7 @@
 
 ### [商密君](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
 
-[:chart_with_upwards_trend:【0/107/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
+[:chart_with_upwards_trend:【0/103/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
 
 [:camera_flash:【2022-11-03 18:48:00】](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247585352&idx=1&sn=a51e0bed270ff0f243faf770bbde95fe&chksm=ec579e13db20170595f2c12a3c16d5fdcb259047d46ec3452377bdeb63494e6f304746d88895&scene=27#wechat_redirect)
 
@@ -42,7 +42,7 @@
 
 [:chart_with_upwards_trend:【0/16/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
 
-[:camera_flash:【2022-11-03 22:35:43】](https://mp.weixin.qq.com/s?__biz=MzU0Mzk0NDQyOA==&mid=2247503941&idx=1&sn=0de84ea09d7ff3c273ea981344fe36ee&chksm=fb012bc6cc76a2d0763771640696963d28319f160d37c49d592074a699f938d6903e7939d9bf&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-04 16:15:20】](https://mp.weixin.qq.com/s?__biz=MzU0Mzk0NDQyOA==&mid=2247503956&idx=1&sn=64ef2eb713cdc48d2feec1cf4e41cee6&chksm=fb012bd7cc76a2c15d2697fdaf9a937127bb48ba4ff4c3321436776a225d4af79d77c60af0da&scene=27#wechat_redirect)
 
 深圳市网络与信息安全行业协会（SNISA），是深圳市网络与信息安全行业的权威组织，是中国网络安全审查技术与认证中心（CCRC）在深圳唯一授权工作站，是经深圳市人力资源和社会保障局核准，开展网络空间安全工程技术专业职称评审工作的社会组织。
 
@@ -68,7 +68,7 @@
 
 [:chart_with_upwards_trend:【0/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwODc2NjgwMg==)
 
-[:camera_flash:【2022-11-01 19:58:50】](https://mp.weixin.qq.com/s?__biz=MzAwODc2NjgwMg==&mid=2649109158&idx=1&sn=d43c31f71a1c29584ca86587ec15976d&chksm=837b469bb40ccf8da0b0b2f7bf6abd0747f5c261e925edb11f995fdc31e4b87ee790d159f716&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-04 22:47:28】](https://mp.weixin.qq.com/s?__biz=MzAwODc2NjgwMg==&mid=2649109188&idx=1&sn=54c9eaf440def500911c415327893113&chksm=837b46f9b40ccfef4242c4e4e18cd8a7c9aa1b4b5a66e4e90ef3cd52d0bed01f622f0715b27e&scene=27#wechat_redirect)
 
 专注于DevOps安全、DevSecOps、开发安全、开源安全等行业领域的优质内容分享与传播。一个真正懂DevSecOps的订阅号！
 
@@ -86,19 +86,6 @@
 持续关注企业与信息安全建设，分享精选干货。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4947400a6ef2" alt="" />
-
----
-
-
-### [vivo千镜](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0Njg4NzE3MQ==)
-
-[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0Njg4NzE3MQ==)
-
-[:camera_flash:【2022-11-03 12:00:20】](https://mp.weixin.qq.com/s?__biz=MzI0Njg4NzE3MQ==&mid=2247489545&idx=1&sn=8c61106f39e283d73ec8756179408330&chksm=e9b93e65deceb773adf7053c48254b249be537742b658a242d46a47021240fc485aa305f7ad8&scene=27#wechat_redirect)
-
-vivo全新的安全品牌，有人文温度的科技新媒体，致力于让亿万用户享受安全便捷的数字生活。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_54ff3f871510" alt="" />
 
 ---
 
@@ -129,6 +116,19 @@ vivo全新的安全品牌，有人文温度的科技新媒体，致力于让亿�
 ---
 
 
+### [vivo千镜](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0Njg4NzE3MQ==)
+
+[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0Njg4NzE3MQ==)
+
+[:camera_flash:【2022-11-03 12:00:20】](https://mp.weixin.qq.com/s?__biz=MzI0Njg4NzE3MQ==&mid=2247489545&idx=1&sn=8c61106f39e283d73ec8756179408330&chksm=e9b93e65deceb773adf7053c48254b249be537742b658a242d46a47021240fc485aa305f7ad8&scene=27#wechat_redirect)
+
+vivo全新的安全品牌，有人文温度的科技新媒体，致力于让亿万用户享受安全便捷的数字生活。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_54ff3f871510" alt="" />
+
+---
+
+
 ### [FreeBuf安全咨询](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2MTAwNzg1Ng==)
 
 [:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2MTAwNzg1Ng==)
@@ -146,7 +146,7 @@ vivo全新的安全品牌，有人文温度的科技新媒体，致力于让亿�
 
 [:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NzU3MzkyMg==)
 
-[:camera_flash:【2022-10-06 07:01:00】](https://mp.weixin.qq.com/s?__biz=Mzg2NzU3MzkyMg==&mid=2247484330&idx=1&sn=5664db9134db4c6186208ed649d9120c&chksm=ceb8ca67f9cf43716879fd23ccbf2b80e7586d817e3df495f89ba90815bdccef297e5565fb09&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-04 18:44:12】](https://mp.weixin.qq.com/s?__biz=Mzg2NzU3MzkyMg==&mid=2247484344&idx=1&sn=d3c61527e7c8cd224d7bc6a5c7450f09&chksm=ceb8ca75f9cf436360810b1fa6d9a7526a8974c66722829c1c8e0ee7e00a070ed5c271856321&scene=27#wechat_redirect)
 
 关于功能安全、信息安全、系统工程方法的工作感悟，资讯分享。
 

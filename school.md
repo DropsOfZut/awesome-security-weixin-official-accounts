@@ -1,9 +1,9 @@
 
 ### [NISL实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxMTEwOTA3OA==)
 
-[:chart_with_upwards_trend:【11/16/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxMTEwOTA3OA==)
+[:chart_with_upwards_trend:【11/15/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxMTEwOTA3OA==)
 
-[:camera_flash:【2022-11-02 17:00:39】](https://mp.weixin.qq.com/s?__biz=MzUxMTEwOTA3OA==&mid=2247484260&idx=1&sn=fabc4f639efd3503c531da36af8ae756&chksm=f979f1ddce0e78cb8123d747d28d6d1d7a9e7a27b78fc78631cbbce7ed761706b904a73a1aab&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-04 17:00:32】](https://mp.weixin.qq.com/s?__biz=MzUxMTEwOTA3OA==&mid=2247484273&idx=1&sn=439d808c56afdead259230629e2105a3&chksm=f979f1c8ce0e78defed9e2f8935c36e1bd2a0422915d25432e9ad2c140e156360a5cd2bf6026&scene=27#wechat_redirect)
 
 清华大学网络与信息安全实验室(NISL@THU)，专注于网络、系统、应用、人工智能安全教学与研究，在国际四大安全会议发表三十余篇论文，成果在业界产生了广泛影响力。孕育了蓝莲花、紫荆花等知名战队，发起了网安国际学术论坛InForSec。
 

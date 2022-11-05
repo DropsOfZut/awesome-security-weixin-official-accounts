@@ -1,7 +1,7 @@
 
 ### [计算机与网络安全](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTk4MDE2MA==)
 
-[:chart_with_upwards_trend:【0/174/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTk4MDE2MA==)
+[:chart_with_upwards_trend:【0/172/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTk4MDE2MA==)
 
 [:camera_flash:【2022-11-04 07:30:35】](https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655183124&idx=1&sn=cbaf03c313521fd919ad6c9f29f79778&chksm=bc857cfb8bf2f5edc8a400c3e8a95e226281c28042345f096cdf58798880387b8fb7a4f5e25f&scene=27#wechat_redirect)
 
@@ -16,7 +16,7 @@
 
 [:chart_with_upwards_trend:【0/78/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI4NDY2MDMwMw==)
 
-[:camera_flash:【2022-11-03 21:05:48】](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247506576&idx=1&sn=180135a5545dc6c70f2ac5dbf9648954&chksm=ebfa9db0dc8d14a6e96e4449c70affd907b74130ee27b20c24a52a24d0572c304649a72f3eb6&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-04 20:24:51】](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247506663&idx=1&sn=96c58683a25a71fb735feab01f6355c3&chksm=ebfa9dc7dc8d14d1e6b68fc44102a3c3c6e3f0ab698fb3c209e7aa5ad09da00cddc911c4d4b7&scene=27#wechat_redirect)
 
 《安全内参》是专注于网络安全产业发展和行业应用的高端智库平台，致力于成为网络安全首席知识官。投稿&amp;合作请邮件联系 anquanneican#163.com
 
@@ -27,9 +27,9 @@
 
 ### [祺印说信安](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5MzU5MzQzMA==)
 
-[:chart_with_upwards_trend:【37/70/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5MzU5MzQzMA==)
+[:chart_with_upwards_trend:【36/68/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5MzU5MzQzMA==)
 
-[:camera_flash:【2022-11-04 00:00:21】](https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652096694&idx=1&sn=0aabdf40ce4b20e63189ed67a14ca446&chksm=8bbce28fbccb6b9960d71d85a44fc98b30baa3a052195b54cf5031e828cc621ef05121d4b1e2&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-05 00:00:23】](https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652096706&idx=1&sn=ec4e3fbb40d5977118e65948f4158f82&chksm=8bbce2fbbccb6bed81c712bfddee8eb7c0224fc835a74c2e27d0250c2ac2944c1edd34beec74&scene=27#wechat_redirect)
 
 学习网络安全、说网络安全；共同致力于网络安全、网络安全等级保护。
 
@@ -40,9 +40,9 @@
 
 ### [河南等级保护测评](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NjY2MTI3Mg==)
 
-[:chart_with_upwards_trend:【36/61/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NjY2MTI3Mg==)
+[:chart_with_upwards_trend:【35/60/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NjY2MTI3Mg==)
 
-[:camera_flash:【2022-11-04 00:00:16】](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247487992&idx=1&sn=c5107d5658656bad95d39fcc4ebc0c7e&chksm=ce46370ff931be1993e0ce7239ef78f0709be9c93db58dd9db6307ee5280208d84420db57807&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-05 00:00:49】](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247487993&idx=1&sn=0be4b5c4f2f0ef56c316247af56cba64&chksm=ce46370ef931be185a850204ec2f2a2f6bc8c9c509f7dc7fc799b5389c0634d6c561e85151ee&scene=27#wechat_redirect)
 
 传播网络安全知识，分享网络安全政策，共建风清气正的网络安全氛围。等级保护测评、风险评估、网络安全培训、咨询。
 
@@ -120,7 +120,7 @@
 
 [:chart_with_upwards_trend:【0/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNzAwOTQxMg==)
 
-[:camera_flash:【2022-11-03 10:08:14】](https://mp.weixin.qq.com/s?__biz=MzIwNzAwOTQxMg==&mid=2652246599&idx=1&sn=f7242b9b7423083fb4c16f9d29a98c87&chksm=8cfa51acbb8dd8badf02b20790b5439627ec900961b865b15c253f9b9b56d59963f8daa76c4c&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-04 10:12:58】](https://mp.weixin.qq.com/s?__biz=MzIwNzAwOTQxMg==&mid=2652246607&idx=1&sn=ea4ca00a1c5c6793e26f45b14dd37af7&chksm=8cfa51a4bb8dd8b25176ba838ab29bcde405f1bcfa46408670c01738e924f3081df7b5ce587a&scene=27#wechat_redirect)
 
 信息安全等保测评、信息安全服务；云卫士CDS-容灾备份、智能安全网关、智能网络管理产品支持服务；智云iSC-云平台、云服务技术支持服务；朗云iOT-物联网产品支持服务。
 
@@ -159,7 +159,7 @@
 
 [:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyNTI0ODcwMw==)
 
-[:camera_flash:【2022-10-31 16:36:15】](https://mp.weixin.qq.com/s?__biz=MzIyNTI0ODcwMw==&mid=2662127369&idx=1&sn=8ee505f12c3d105f1c6e0b62b291215f&chksm=f35ae3d9c42d6acf966c056b4e69436d0671f4fc278e70d3239935d69ec02037562e9507aeca&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-04 17:27:04】](https://mp.weixin.qq.com/s?__biz=MzIyNTI0ODcwMw==&mid=2662127379&idx=1&sn=5cc1f82e63833bf9772f08365593c985&chksm=f35ae3c3c42d6ad5dbe4741c76de8bcc731d0691a292a42fb5cc126d0240cf64f3f7678b20a3&scene=27#wechat_redirect)
 
 提供行业安全资讯，打造专业安全服务平台。
 
