@@ -1,7 +1,7 @@
 
 ### [商密君](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
 
-[:chart_with_upwards_trend:【0/103/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
+[:chart_with_upwards_trend:【0/99/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
 
 [:camera_flash:【2022-11-03 18:48:00】](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247585352&idx=1&sn=a51e0bed270ff0f243faf770bbde95fe&chksm=ec579e13db20170595f2c12a3c16d5fdcb259047d46ec3452377bdeb63494e6f304746d88895&scene=27#wechat_redirect)
 
@@ -16,7 +16,7 @@
 
 [:chart_with_upwards_trend:【0/32/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
 
-[:camera_flash:【2022-11-04 00:00:08】](https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247505008&idx=1&sn=d7ef8959b61b15f5fd41cd2f375c70cd&chksm=cf3d68bdf84ae1aba632215b5336c3324df65a205dcffee77634effebebb0198665e8db605f1&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-06 00:52:37】](https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247505012&idx=1&sn=f3a3052a6545594f572bda9f4945735d&chksm=cf3d68b9f84ae1afe471b069990f8c961fa194206adf0a83a225f4b247abd117b17e341f0bed&scene=27#wechat_redirect)
 
 网络安全事件预警体系、事件检测、应急处置、追踪溯源、安全运营、红蓝对抗、HW行动、AWD竞赛，以及站在审计师的角度评估信息系统建设的有效性、完备性、安全性等。 欢迎有想法、乐于分享的具备互联网分享精神的安全人交流学习。
 
@@ -27,7 +27,7 @@
 
 ### [数世咨询](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
 
-[:chart_with_upwards_trend:【8/23/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
+[:chart_with_upwards_trend:【8/22/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
 
 [:camera_flash:【2022-11-02 10:00:57】](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247495973&idx=1&sn=f56adb99ac63fa91478ad461fc5878a3&chksm=c1448398f6330a8e54700ab562d3d34dbb59cab4072b1635bbc0468d9ab1415d61c76296fd25&scene=27&key=5068985b1dfe19a9ba386a372e4975fba59b02835f2caa0aa82e808eecc4dbfbc816228b273fe865508d24b1c8c6bd6c8dc72a275b350a73da1f8a33a2928151f00d6aa29df29145f443f7badc558137e1b0d7952c678065fe3df61833f9a1e51601f02d9ff6adb053df2ed7295115f950bb701e44dac7576a26f7fe51532d50&ascene=15&uin=MzgxODQ4MjMz&devicetype=Windows+Server+2016+x64&version=63070517&lang=zh_CN&session_us=gh_c844687d05d6&exportkey=n_ChQIAhIQPlP9hui4y2bdfHEhD2osrxL5AQIE97dBBAEAAAAAACreGs1mrxgAAAAOpnltbLcz9gKNyK89dVj0ZO5oJL8G5N4WwQkohaHRnWLpjlSoVmzNvyL803%2BxmJ6TexGlAQ%2FdrSkHmCJ4LKfkh4bQkbTegfqh5rlECkPSeD3Xirhphjl%2B0oIz7yB6CGRPFwMraCDILXPdBgsNU8quSCoIuRNzVCL7%2Bs%2B3Ht9Ygcr0poaVY1aLsJn5FaVN%2FSYF4yPLWv%2FzO4I6MhPAXzI3nVTMn%2FsxvrVJ6zanAmnCyJa0kRxSDSVSqXSvXOEtxQGS%2BvlCQn5FdrI782TOGOSLtIPFTADvCE%2FKRLNGDy1SOy6ItQ%3D%3D&acctmode=0&pass_ti&scene=27#wechat_redirect)
 
@@ -142,19 +142,6 @@ vivo全新的安全品牌，有人文温度的科技新媒体，致力于让亿�
 ---
 
 
-### [薄说安全](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NzU3MzkyMg==)
-
-[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NzU3MzkyMg==)
-
-[:camera_flash:【2022-11-04 18:44:12】](https://mp.weixin.qq.com/s?__biz=Mzg2NzU3MzkyMg==&mid=2247484344&idx=1&sn=d3c61527e7c8cd224d7bc6a5c7450f09&chksm=ceb8ca75f9cf436360810b1fa6d9a7526a8974c66722829c1c8e0ee7e00a070ed5c271856321&scene=27#wechat_redirect)
-
-关于功能安全、信息安全、系统工程方法的工作感悟，资讯分享。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_956e8befd9f9" alt="" />
-
----
-
-
 ### [SecOps急行军](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Mjc5MDQ3NA==)
 
 [:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Mjc5MDQ3NA==)
@@ -255,6 +242,19 @@ OWASP中国，SecZone互联网安全研究中心官方平台
 全面深入解读安全架构、前沿安全技术、安全报告解读、安全趋势详解。做业内最专业、看透“安全本质”的纯安全分享公众号。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_642251d04229" alt="" />
+
+---
+
+
+### [薄说安全](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NzU3MzkyMg==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NzU3MzkyMg==)
+
+[:camera_flash:【2022-11-04 18:44:12】](https://mp.weixin.qq.com/s?__biz=Mzg2NzU3MzkyMg==&mid=2247484344&idx=1&sn=d3c61527e7c8cd224d7bc6a5c7450f09&chksm=ceb8ca75f9cf436360810b1fa6d9a7526a8974c66722829c1c8e0ee7e00a070ed5c271856321&scene=27#wechat_redirect)
+
+关于功能安全、信息安全、系统工程方法的工作感悟，资讯分享。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_956e8befd9f9" alt="" />
 
 ---
 

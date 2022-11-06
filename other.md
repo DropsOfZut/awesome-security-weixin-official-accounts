@@ -1,9 +1,9 @@
 
 ### [网络安全与黑客技术](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2MDQzMjY4NQ==)
 
-[:chart_with_upwards_trend:【0/29/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2MDQzMjY4NQ==)
+[:chart_with_upwards_trend:【0/28/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2MDQzMjY4NQ==)
 
-[:camera_flash:【2022-11-04 14:00:15】](https://mp.weixin.qq.com/s?__biz=Mzg2MDQzMjY4NQ==&mid=2247488724&idx=1&sn=135c98bb269420d6bbfecb1ec5d8c90b&chksm=ce272496f950ad80abbdb0ed0655086d6214ae204208600ef6c6be97183310b6a0443f287efc&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-05 14:00:02】](https://mp.weixin.qq.com/s?__biz=Mzg2MDQzMjY4NQ==&mid=2247488725&idx=1&sn=9e07feded3eaeff7938a6ece372fbf39&chksm=ce272497f950ad81c07edccc9e0942ef06cb274afb1b38a6e3e7bd84b030f316446ebe888b5c&scene=27#wechat_redirect)
 
 这里拥有神秘的黑客技术，等你来关注 ！
 
@@ -14,9 +14,9 @@
 
 ### [全球技术地图](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1OTExNDY1NQ==)
 
-[:chart_with_upwards_trend:【22/28/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1OTExNDY1NQ==)
+[:chart_with_upwards_trend:【21/27/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1OTExNDY1NQ==)
 
-[:camera_flash:【2022-11-03 17:17:07】](https://mp.weixin.qq.com/s?__biz=MzI1OTExNDY1NQ==&mid=2651598188&idx=1&sn=4cddf214bace657964108de3333befe6&chksm=f1855e9cc6f2d78ac539f238891d469ed1b97af721ddd4d5092493e7bfee6062ee1af0b3a790&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-05 18:31:41】](https://mp.weixin.qq.com/s?__biz=MzI1OTExNDY1NQ==&mid=2651598233&idx=1&sn=f2db7094cee7dffbb819e3751ce6712d&chksm=f1855e69c6f2d77f323a3693bd8fbbe26378d3c53ad7a15b3f1b04b9f4b8d6b68eea2f2c3b5f&scene=27#wechat_redirect)
 
 洞见前沿，引领未来。
 
@@ -27,7 +27,7 @@
 
 ### [小草培养创研中心](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxMDAwNzM3MQ==)
 
-[:chart_with_upwards_trend:【6/14/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxMDAwNzM3MQ==)
+[:chart_with_upwards_trend:【7/14/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxMDAwNzM3MQ==)
 
 [:camera_flash:【2022-11-04 18:00:46】](https://mp.weixin.qq.com/s?__biz=MzIxMDAwNzM3MQ==&mid=2247517654&idx=1&sn=b841744a62dcfb7bbcb83e7826d3a4a2&chksm=9769e1f2a01e68e445d9fd5d4a1ae350e4c593470d2a3ee825c6ecad10f94d2a055fe217e48d&scene=27#wechat_redirect)
 
@@ -55,7 +55,7 @@
 
 [:chart_with_upwards_trend:【9/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4ODYzMjU0NQ==)
 
-[:camera_flash:【2022-11-04 20:04:26】](https://mp.weixin.qq.com/s?__biz=MzA4ODYzMjU0NQ==&mid=2652311784&idx=1&sn=fbc5d69b77be85a26fbf59ef4c6a4dbc&chksm=8bc48d66bcb3047028ff0d1cf8073f5be0a098aded3ad9382b80760d5f7257641665b622a23c&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-05 16:20:11】](https://mp.weixin.qq.com/s?__biz=MzA4ODYzMjU0NQ==&mid=2652311789&idx=1&sn=58f95018b42e5247ae1e703ff3bff438&chksm=8bc48d63bcb3047551d815d9077416432a657719299231a8b85989e6f20b593dc7d9e8dd35ad&scene=27#wechat_redirect)
 
 网络安全研究国际学术论坛（InForSec），由活跃在安全学术圈的段海新教授、杨珉教授、韦韬博士、万涛博士等共同发起，在网络和系统安全领域建立一座沟通中国和国际、学术和工业、老师和学生的桥梁。
 
@@ -246,19 +246,6 @@
 ---
 
 
-### [Matrix1024](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5NzYxMjI5OA==)
-
-[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5NzYxMjI5OA==)
-
-[:camera_flash:【2022-10-07 13:55:02】](https://mp.weixin.qq.com/s?__biz=Mzg5NzYxMjI5OA==&mid=2247485403&idx=1&sn=28925a92e22e5d0f7ddbcd0a09d7e006&chksm=c06e68bef719e1a8ca11a7dd4e31fe49c46b47a0214dabf553f2b763ee96b6640d16c1c788c9&scene=27&key=b94dfdab45ea2e79fb590d8ce0d2fbc8e5032ec2fa03deb3014469ed7faf43911d63f65d3b42eafc48a3d912e145e06ff3b757c5ad37c245363f4888d5dfa5bd693d8fcbdca97819b01f48880a02497e2f46b3febc1dd9b347f99dcd4d07c352b225d6abb218c2bb455c048c4f3878197bc62a28b4c7bef96b140c84d359f21c&ascene=15&uin=MTA3Mzc3OTIzNQ%3D%3D&devicetype=Windows+Server+2016+x64&version=63070517&lang=zh_CN&session_us=gh_de59bd871eb8&exportkey=n_ChQIAhIQIu5miwk2hd92J3oB8JuEUBL5AQIE97dBBAEAAAAAAAHTM4K30BQAAAAOpnltbLcz9gKNyK89dVj00l8kYTLckqX5%2Bej%2B20Zlc%2Bxtbw1Jc4aFslF7QpxDaLia2DM2GLm1FvgnDjdLuQbpU4F8Uaa9VIi3r8AVdtb4bSEIiv4FRBELxd3sh9%2BwybfBAiFh90vmxmGfXHLPmVJpbtnOrIjXuiJBLbGERAEfRUVnRJgwMf0giyBB9T3rySertZ2uIU6yWHF%2FQimk27yqkW7zRJZNsFayJxXqRudeuuUdxZSQQPYVIXZji%2F%2BSfUBZ8xGlubWsrM2VdKLUeR2zon6ikP5LYNkg%2BpUlzEQDXVY17A%3D%3D&acctmode=0&pas&scene=27#wechat_redirect)
-
-致力于打造网络安全知识矩阵
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f2ead9d547d0" alt="" />
-
----
-
-
 ### [落水轩](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MjQwMTAyOQ==)
 
 [:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MjQwMTAyOQ==)
@@ -320,6 +307,19 @@
 PeckShield (派盾) -- 全球领先的区块链安全守护者。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_82bb3a5a82b1" alt="" />
+
+---
+
+
+### [Matrix1024](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5NzYxMjI5OA==)
+
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5NzYxMjI5OA==)
+
+[:camera_flash:【2022-10-07 13:55:02】](https://mp.weixin.qq.com/s?__biz=Mzg5NzYxMjI5OA==&mid=2247485403&idx=1&sn=28925a92e22e5d0f7ddbcd0a09d7e006&chksm=c06e68bef719e1a8ca11a7dd4e31fe49c46b47a0214dabf553f2b763ee96b6640d16c1c788c9&scene=27&key=b94dfdab45ea2e79fb590d8ce0d2fbc8e5032ec2fa03deb3014469ed7faf43911d63f65d3b42eafc48a3d912e145e06ff3b757c5ad37c245363f4888d5dfa5bd693d8fcbdca97819b01f48880a02497e2f46b3febc1dd9b347f99dcd4d07c352b225d6abb218c2bb455c048c4f3878197bc62a28b4c7bef96b140c84d359f21c&ascene=15&uin=MTA3Mzc3OTIzNQ%3D%3D&devicetype=Windows+Server+2016+x64&version=63070517&lang=zh_CN&session_us=gh_de59bd871eb8&exportkey=n_ChQIAhIQIu5miwk2hd92J3oB8JuEUBL5AQIE97dBBAEAAAAAAAHTM4K30BQAAAAOpnltbLcz9gKNyK89dVj00l8kYTLckqX5%2Bej%2B20Zlc%2Bxtbw1Jc4aFslF7QpxDaLia2DM2GLm1FvgnDjdLuQbpU4F8Uaa9VIi3r8AVdtb4bSEIiv4FRBELxd3sh9%2BwybfBAiFh90vmxmGfXHLPmVJpbtnOrIjXuiJBLbGERAEfRUVnRJgwMf0giyBB9T3rySertZ2uIU6yWHF%2FQimk27yqkW7zRJZNsFayJxXqRudeuuUdxZSQQPYVIXZji%2F%2BSfUBZ8xGlubWsrM2VdKLUeR2zon6ikP5LYNkg%2BpUlzEQDXVY17A%3D%3D&acctmode=0&pas&scene=27#wechat_redirect)
+
+致力于打造网络安全知识矩阵
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f2ead9d547d0" alt="" />
 
 ---
 
@@ -692,7 +692,7 @@ NOVA SEC  新星安全 萌新启蒙之路 愿大家都能成为最闪耀的星�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwMDQwNTE5MA==)
 
-[:camera_flash:【2022-10-26 00:00:27】](https://mp.weixin.qq.com/s?__biz=MzAwMDQwNTE5MA==&mid=2650246403&idx=1&sn=3eab3cffff069b75fcf75d1c7beaa483&chksm=82ea56aab59ddfbc05d330283da544a3e20e8d1a3fada65e6dc46dc1b3db78ee05421950574c&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-06 00:00:34】](https://mp.weixin.qq.com/s?__biz=MzAwMDQwNTE5MA==&mid=2650246409&idx=1&sn=716ed345cededdb48fae41811811e4fb&chksm=82ea56a0b59ddfb668e07cff8825d3949ddcb4c27ab2dcd4ed9844726c0f1608020be535242e&scene=27#wechat_redirect)
 
 每天会发信息安全的事件文章，让大家了解更多信息安全知识和资讯。
 

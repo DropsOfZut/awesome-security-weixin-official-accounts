@@ -1,9 +1,9 @@
 
 ### [谈数据](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1NzYwNTMzNw==)
 
-[:chart_with_upwards_trend:【1/38/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1NzYwNTMzNw==)
+[:chart_with_upwards_trend:【1/37/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1NzYwNTMzNw==)
 
-[:camera_flash:【2022-11-05 07:36:29】](https://mp.weixin.qq.com/s?__biz=MzI1NzYwNTMzNw==&mid=2247508139&idx=1&sn=8b8dd1bbf3c90c0137a061bb7eaf210f&chksm=ea160b1ddd61820b320fb47dbe67753507542250217800f1fb9c4f05d580578cba89008cdedc&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-06 07:36:13】](https://mp.weixin.qq.com/s?__biz=MzI1NzYwNTMzNw==&mid=2247508162&idx=1&sn=4eceb08088dcdb02f316df47b4908c44&chksm=ea160b74dd618262098881b7ec1dae30ad93509fafc61e635fd6c2e92476f534e8cda4964380&scene=27#wechat_redirect)
 
 聚焦数据治理，数字化转型，数据中台等领域专业知识总结和实战分享，做你身边最有价值的数据号！
 
@@ -27,7 +27,7 @@ www.pcachina.com
 
 ### [商业智能研究](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzg5MTI0OQ==)
 
-[:chart_with_upwards_trend:【0/17/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzg5MTI0OQ==)
+[:chart_with_upwards_trend:【0/18/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzg5MTI0OQ==)
 
 [:camera_flash:【2022-11-04 21:00:38】](https://mp.weixin.qq.com/s?__biz=MzIwMzg5MTI0OQ==&mid=2247511402&idx=1&sn=2196a5479e6103743514da64c815f782&chksm=96ca9a34a1bd1322b2b29a2318b7f72937e9ecc5bde2d98325c8571c136dbae472617f3470f5&scene=27#wechat_redirect)
 
@@ -53,7 +53,7 @@ www.pcachina.com
 
 ### [大数据安全工程研究中心](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Nzg0NzUxOQ==)
 
-[:chart_with_upwards_trend:【0/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Nzg0NzUxOQ==)
+[:chart_with_upwards_trend:【0/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Nzg0NzUxOQ==)
 
 [:camera_flash:【2022-11-04 10:59:17】](https://mp.weixin.qq.com/s?__biz=MjM5Nzg0NzUxOQ==&mid=2247484709&idx=1&sn=c5915b4691fa1e6ee343c79c2f218b7a&chksm=a6d28d9591a50483f4217057a20097461dd8871c89a77e037524e395d2e29c39a8d12ba15c14&scene=27#wechat_redirect)
 
@@ -77,6 +77,19 @@ www.pcachina.com
 ---
 
 
+### [中伦文德网络安全与数据合规](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxNDgyNTg0NQ==)
+
+[:chart_with_upwards_trend:【0/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxNDgyNTg0NQ==)
+
+[:camera_flash:【2022-11-03 18:00:30】](https://mp.weixin.qq.com/s?__biz=MzIxNDgyNTg0NQ==&mid=2247490100&idx=1&sn=bd582d3a07a8ed1d3709415c67a235cc&chksm=97a0f42ea0d77d38987450872baf699f4f2f03a6ce4e0963f8754155841596f3791d404c629f&scene=27&key=da9eb3f945dd83b4395f0d99057eb6cd5481dc6c542b993d8eb6b2b233c9416b1c58812a27c887549508d690dd27809e1ba7301f9ca4ecc284610727c3db28390cf234465c241457af47b98bb6caf8ad47a86e7611a4303755eeef2c85abed9bd7963d4934921bff2203a2d12bb71af424ad4d5c2a2e160d62042be004444e1f&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+Server+2016+x64&version=63070517&lang=zh_CN&session_us=gh_641f71fe80e8&exportkey=n_ChQIAhIQE5pYEpzBYDOzCpkfcvftYxL4AQIE97dBBAEAAAAAAIHRMjbVItUAAAAOpnltbLcz9gKNyK89dVj0UxKARMbpRGiwAtDARJ965S6bPP7ozJspoEj4qcmR7xMPRGwcX66XTYnT3HjQD0gxkYLRHe34ANO0AWbWcf7MFKY1DqLKuXOQlgiGF7kjCmdtsDIAFZn5HPLWaCMIoeLRwStTKN8XJqCehH9toiBObiZavwP4idazjv5M80mB6rFni8nUg4w%2BEQlKYG3nIQCXytx%2B9Uqd22lGOESw4akp7YmZhE7FPBGTBpuWqiYomWSXh%2BTf8NJj2DQXtvZ9w8W1o5H34uwX2FpbMnYVNLUkbxub&acctmode=0&pass_ticket=kCKDWUgbwBM05w6&scene=27#wechat_redirect)
+
+中伦文德网络安全与数据合规专委会
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4b33f9a2e329" alt="" />
+
+---
+
+
 ### [天锐数据安全](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5MTk0MzIzMQ==)
 
 [:chart_with_upwards_trend:【2/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5MTk0MzIzMQ==)
@@ -86,19 +99,6 @@ www.pcachina.com
 可信赖的数据安全产品与服务提供商
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a112d631fa8f" alt="" />
-
----
-
-
-### [中伦文德网络安全与数据合规](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxNDgyNTg0NQ==)
-
-[:chart_with_upwards_trend:【0/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxNDgyNTg0NQ==)
-
-[:camera_flash:【2022-11-01 18:00:23】](https://mp.weixin.qq.com/s?__biz=MzIxNDgyNTg0NQ==&mid=2247490088&idx=1&sn=5828709517acd342e635d1b8a27aef53&chksm=97a0f432a0d77d245392046d1810eab410230fad07334a999121b7baaa78c42b25ec7e725a63&scene=27#wechat_redirect)
-
-中伦文德网络安全与数据合规专委会
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4b33f9a2e329" alt="" />
 
 ---
 

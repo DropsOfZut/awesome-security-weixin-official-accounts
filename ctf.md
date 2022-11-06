@@ -1,7 +1,7 @@
 
 ### [寰宇卫士](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
 
-[:chart_with_upwards_trend:【0/19/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
+[:chart_with_upwards_trend:【0/21/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
 
 [:camera_flash:【2022-11-04 14:58:19】](https://mp.weixin.qq.com/s?__biz=MzIwMzU0NDY5OA==&mid=2247495333&idx=1&sn=57eba0a3931f04ebdbfc83bddda2443d&chksm=96cf6fb0a1b8e6a6b95ed55bf55d6711b8c4fd0a10f67574f47661f6f4bbfd683240ca456130&scene=27#wechat_redirect)
 
@@ -16,7 +16,7 @@
 
 [:chart_with_upwards_trend:【2/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
 
-[:camera_flash:【2022-11-01 10:00:04】](https://mp.weixin.qq.com/s?__biz=MzkyNDA5NjgyMg==&mid=2247494638&idx=1&sn=f21b74d41ff059f1f758fdb134e29574&chksm=c1d9abb7f6ae22a1a7b122349dbea43c5fc4b52eea81c15786921d3eb4857cdbf79f6bac6167&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-05 15:04:56】](https://mp.weixin.qq.com/s?__biz=MzkyNDA5NjgyMg==&mid=2247494644&idx=1&sn=b973ed7f092ad40c6d2dc74dc128ae81&chksm=c1d9abadf6ae22bb5c12fac30eab1784699a27c93f885c73ab25b5a9363033fff8c29f4755a5&scene=27#wechat_redirect)
 
 春秋伽玛，为广大网络安全爱好者传递网络安全大赛相关赛事信息，提供优质的赛事服务平台
 
@@ -38,6 +38,19 @@
 ---
 
 
+### [DataCon大数据安全分析竞赛](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5Njg1NzMyNw==)
+
+[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5Njg1NzMyNw==)
+
+[:camera_flash:【2022-11-03 16:21:40】](https://mp.weixin.qq.com/s?__biz=MzU5Njg1NzMyNw==&mid=2247485245&idx=1&sn=10bc1975a88b79d5b57d7bc859ac15f2&chksm=fe5d1fbdc92a96ab6bdd430434ed35f30e82d93533c15c8bad1a90fada9ba6ce676861b1066f&scene=27#wechat_redirect)
+
+由奇安信集团、清华大学、蚂蚁集团主办，联合北京大学、中科院软件所、复旦大学、中山大学、山东大学、中国科技大学等30多个知名高校和研究机构共同举办的聚焦大数据安全分析的比赛。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a0316d342599" alt="" />
+
+---
+
+
 ### [Arr3stY0u](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjcxMTAwMQ==)
 
 [:chart_with_upwards_trend:【1/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjcxMTAwMQ==)
@@ -47,19 +60,6 @@
 山海关安全团队旗下CTF战队-Arr3stY0u公众号。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f11d07068d45" alt="" />
-
----
-
-
-### [DataCon大数据安全分析竞赛](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5Njg1NzMyNw==)
-
-[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5Njg1NzMyNw==)
-
-[:camera_flash:【2022-11-03 16:21:40】](https://mp.weixin.qq.com/s?__biz=MzU5Njg1NzMyNw==&mid=2247485245&idx=1&sn=10bc1975a88b79d5b57d7bc859ac15f2&chksm=fe5d1fbdc92a96ab6bdd430434ed35f30e82d93533c15c8bad1a90fada9ba6ce676861b1066f&scene=27#wechat_redirect)
-
-由奇安信集团、清华大学、蚂蚁集团主办，联合北京大学、中科院软件所、复旦大学、中山大学、山东大学、中国科技大学等30多个知名高校和研究机构共同举办的聚焦大数据安全分析的比赛。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a0316d342599" alt="" />
 
 ---
 
