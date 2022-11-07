@@ -1,7 +1,7 @@
 
 ### [Linux中国](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ4MjYwMQ==)
 
-[:chart_with_upwards_trend:【98/113/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ4MjYwMQ==)
+[:chart_with_upwards_trend:【95/110/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ4MjYwMQ==)
 
 [:camera_flash:【2022-11-04 08:30:12】](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664669517&idx=1&sn=6fecb1cc416e7d560c233c5603b88dc4&chksm=bdcf9a0b8ab8131d69db603768561c45ec050c9283e68b05dd4ec0cd26126617019f73bb755d&scene=27&key=42fda77b115ac87d304440cd6e958a59f43daeb34dbf5e0afb9a3c572fddc292f965635b41fad9c7d77181425a493593a2bb66a935f0ff40700633b0de9e6874c5af849cb00594ffbc40447f7ac708a51955c1ffe86754c7cf1e413f99e8ad415954ae34c5fc3de368a95b655abe58d56fb81cb894f2a00306075011363f769b&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+Server+2016+x64&version=63070517&lang=zh_CN&session_us=gh_7b464fe0640b&exportkey=n_ChQIAhIQShRyDSl3k80rEuwClOHQEhL4AQIE97dBBAEAAAAAAO%2FZLwtWRuEAAAAOpnltbLcz9gKNyK89dVj0KVmeclShhXhe0AIALcZvGFBZIC55AZN%2F56HKplZzAnFUKecVk9AddtCDf7KBC2GyQ5qZc%2FJXk6P83FZF31D5XAr%2FK5K0kaCNnX7h8497mMUydidfBexdVGuupJLNPZd1DWf%2BE9vcLCO3KvRA33XIYR3%2Bs1%2BGjt79ijp32ktoy6zecrtHkW9NmhwLyh7fLOEEcVDlbbt1XmWKkbFHnUqekCeCxM%2Fzr5N7v%2B44Ifd6WUNzZ7PFMWPnhlBvivu4g3Nj6ANtltgcJ2pIvsdxSD1wue07&acctmode=0&pass_ticket=kCK&scene=27#wechat_redirect)
 
@@ -29,7 +29,7 @@
 
 [:chart_with_upwards_trend:【0/13/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1NzI5NDM4Mw==)
 
-[:camera_flash:【2022-11-04 08:00:47】](https://mp.weixin.qq.com/s?__biz=MzI1NzI5NDM4Mw==&mid=2247493819&idx=1&sn=a542a65d8ca62b765607d8b583a24f49&chksm=ea1b01fbdd6c88ed159ecaab0921d1005a923ee043ab62fd91ae9ea0fc1904010c2013fcc162&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-07 07:58:56】](https://mp.weixin.qq.com/s?__biz=MzI1NzI5NDM4Mw==&mid=2247493820&idx=1&sn=38738817fb6a6eb19d2d498a3f0c55fd&chksm=ea1b01fcdd6c88eac3b6552b4b19bc1a715d7918cc105ac85e34d6d733e5c0282df7b6546fb8&scene=27#wechat_redirect)
 
 Docker中文社区旨在为大家提供 Docker、Kubernetes 相关工具及前沿资讯信息，方便大家了解学习 Docker、Kubernetes 相关容器技术。官网：www.dockerchina.cn
 
@@ -40,9 +40,9 @@ Docker中文社区旨在为大家提供 Docker、Kubernetes 相关工具及前�
 
 ### [kali黑客笔记](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzIwNTY1OA==)
 
-[:chart_with_upwards_trend:【12/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzIwNTY1OA==)
+[:chart_with_upwards_trend:【11/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzIwNTY1OA==)
 
-[:camera_flash:【2022-11-05 11:45:37】](https://mp.weixin.qq.com/s?__biz=MzkxMzIwNTY1OA==&mid=2247492002&idx=1&sn=9dfc7706f6cc340222c05c073918ead9&chksm=c1039157f674184137a81a0f87b35927bf149e3d8abd2c33d0877e421b142d9c933e21646f2c&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-06 20:13:15】](https://mp.weixin.qq.com/s?__biz=MzkxMzIwNTY1OA==&mid=2247492033&idx=1&sn=782d4992d5e2dbd63e35838b5bb47b2a&chksm=c1039134f67418226f212c7be3599178457da378b3e4b97d3130132331ff112a9db63dbd55e6&scene=27#wechat_redirect)
 
 kali论坛官方唯一公众号，主要发布过于小白学习Kali Linux相关安全学习知识。Debian Ubuntu Centos等操作系统的安全和运维。以及树莓派 ESP8266 DIY单片机等相关领域的文章，欢迎大家关注我！
 
@@ -53,9 +53,9 @@ kali论坛官方唯一公众号，主要发布过于小白学习Kali Linux相关
 
 ### [云计算和网络安全技术实践](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3MjM5MDc2Nw==)
 
-[:chart_with_upwards_trend:【4/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3MjM5MDc2Nw==)
+[:chart_with_upwards_trend:【3/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3MjM5MDc2Nw==)
 
-[:camera_flash:【2022-10-30 16:14:45】](https://mp.weixin.qq.com/s?__biz=MzA3MjM5MDc2Nw==&mid=2650747222&idx=1&sn=c57586801188aa8f87ac75108728eade&chksm=87149056b0631940eb08631888059bd4ec7c66f5b10fd8fb57d5ce4fd38fa594d6c8c2e67adc&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-06 16:06:07】](https://mp.weixin.qq.com/s?__biz=MzA3MjM5MDc2Nw==&mid=2650747238&idx=1&sn=0069509d1d26eecad0172074b884361f&chksm=87149066b0631970446fb7905ba228e737e11f87f90c9057e5df47f2b9003d6e8755d7386621&scene=27#wechat_redirect)
 
 史上最具参考性的云计算和网络安全技术实践博客。
 

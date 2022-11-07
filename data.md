@@ -1,9 +1,9 @@
 
 ### [谈数据](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1NzYwNTMzNw==)
 
-[:chart_with_upwards_trend:【1/37/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1NzYwNTMzNw==)
+[:chart_with_upwards_trend:【1/36/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1NzYwNTMzNw==)
 
-[:camera_flash:【2022-11-06 07:36:13】](https://mp.weixin.qq.com/s?__biz=MzI1NzYwNTMzNw==&mid=2247508162&idx=1&sn=4eceb08088dcdb02f316df47b4908c44&chksm=ea160b74dd618262098881b7ec1dae30ad93509fafc61e635fd6c2e92476f534e8cda4964380&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-07 07:36:25】](https://mp.weixin.qq.com/s?__biz=MzI1NzYwNTMzNw==&mid=2247508178&idx=1&sn=516956d44320a263e9414c90e16d5a64&chksm=ea160b64dd61827254f98fe01e2e356eac346815d4957c74c3ae6521525f058337f57c3a5d35&scene=27#wechat_redirect)
 
 聚焦数据治理，数字化转型，数据中台等领域专业知识总结和实战分享，做你身边最有价值的数据号！
 
@@ -27,7 +27,7 @@ www.pcachina.com
 
 ### [商业智能研究](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzg5MTI0OQ==)
 
-[:chart_with_upwards_trend:【0/18/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzg5MTI0OQ==)
+[:chart_with_upwards_trend:【0/17/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzg5MTI0OQ==)
 
 [:camera_flash:【2022-11-04 21:00:38】](https://mp.weixin.qq.com/s?__biz=MzIwMzg5MTI0OQ==&mid=2247511402&idx=1&sn=2196a5479e6103743514da64c815f782&chksm=96ca9a34a1bd1322b2b29a2318b7f72937e9ecc5bde2d98325c8571c136dbae472617f3470f5&scene=27#wechat_redirect)
 
@@ -66,9 +66,9 @@ www.pcachina.com
 
 ### [数据安全与隐私计算](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNzM0NzA3Ng==)
 
-[:chart_with_upwards_trend:【0/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNzM0NzA3Ng==)
+[:chart_with_upwards_trend:【0/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNzM0NzA3Ng==)
 
-[:camera_flash:【2022-10-31 22:47:48】](https://mp.weixin.qq.com/s?__biz=MzkyNzM0NzA3Ng==&mid=2247498098&idx=1&sn=f9feaecf7fa98d38cdc020eff227f304&chksm=c22bc199f55c488f114926ff08603b2be7ea64ad732f0b5dc6fdc8a1dea0313d80d05ac1c9fb&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-06 23:38:51】](https://mp.weixin.qq.com/s?__biz=MzkyNzM0NzA3Ng==&mid=2247498114&idx=1&sn=c2e138e5976b2b7cea32ff045c6ca5d2&chksm=c22bc169f55c487f30647c79baf57653c06d09d6bbca4ef0ee2cb1b5c5ca463359d66975abb7&scene=27#wechat_redirect)
 
 可隐数据实验室
 
@@ -120,7 +120,7 @@ www.pcachina.com
 
 [:chart_with_upwards_trend:【0/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzMDM1MDgzNA==)
 
-[:camera_flash:【2022-11-01 11:39:35】](https://mp.weixin.qq.com/s?__biz=MzIzMDM1MDgzNA==&mid=2247486164&idx=1&sn=fcd2c12eda3c068d881cf9e70afc9cfb&chksm=e8b58049dfc2095ffac154c67673af847ef010f8d5084ce496c28b826d74d209b3a8fcd97c9f&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-06 17:39:40】](https://mp.weixin.qq.com/s?__biz=MzIzMDM1MDgzNA==&mid=2247486201&idx=1&sn=482c175d68493a190021cc54b8ac2591&chksm=e8b58064dfc2097258ae407470b8133c7cade77905bb84fea9a666a5ca507edaca9c8aadb63b&scene=27#wechat_redirect)
 
 浙江省数据安全服务有限公司
 

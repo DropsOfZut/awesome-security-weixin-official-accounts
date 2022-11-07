@@ -1,7 +1,7 @@
 
 ### [编码安全研究](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NDY1MDc2Mg==)
 
-[:chart_with_upwards_trend:【0/30/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NDY1MDc2Mg==)
+[:chart_with_upwards_trend:【0/28/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NDY1MDc2Mg==)
 
 [:camera_flash:【2022-11-05 09:09:21】](https://mp.weixin.qq.com/s?__biz=Mzg2NDY1MDc2Mg==&mid=2247497160&idx=1&sn=e4ec8b7da37ce18cede0cbbede74e9c9&chksm=ce64a6adf9132fbb5d38f62da2bd1903a2ced01067737855906ddfd29b5ebd9f6b23ae016501&scene=27#wechat_redirect)
 
@@ -14,9 +14,9 @@
 
 ### [哔哩哔哩技术](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3Njc0NTgwMg==)
 
-[:chart_with_upwards_trend:【10/18/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3Njc0NTgwMg==)
+[:chart_with_upwards_trend:【9/17/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3Njc0NTgwMg==)
 
-[:camera_flash:【2022-11-04 12:00:05】](https://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&mid=2247491460&idx=1&sn=b2f81308a3d2f388f84f5d1f054c67fa&chksm=cf2cdaa1f85b53b723d64fe5363001374366966eb31e9367cfdf51a05c9a915863733b7dd57c&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-06 14:37:25】](https://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&mid=2247491468&idx=1&sn=76b75cb884bffcc9744b2790acff1f4f&chksm=cf2cdaa9f85b53bfcd07a21955896e7792a8dcb045a3a7ef5606fd18200ba6b0778ec55f1636&scene=27#wechat_redirect)
 
 提供B站相关技术的介绍和讲解
 
@@ -42,24 +42,11 @@
 
 [:chart_with_upwards_trend:【4/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4ODg0NDkzOA==)
 
-[:camera_flash:【2022-10-31 08:20:20】](https://mp.weixin.qq.com/s?__biz=MzA4ODg0NDkzOA==&mid=2247505694&idx=1&sn=fa77db27f733f3167cbe9b7e84cf96c4&chksm=902168fba756e1edca8d5bb151aa48f18ce6c2973d1335de209f5b19333f6e845c8f2c265d7e&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-07 08:00:58】](https://mp.weixin.qq.com/s?__biz=MzA4ODg0NDkzOA==&mid=2247505735&idx=1&sn=7057fb23d0f2c36616808e92375ad79e&chksm=902168a2a756e1b48ebc38b5db5dd043bda243a50c77fd3cf1ac2165a6dc472ec95d83924086&scene=27#wechat_redirect)
 
 最具规模和生命力的 Go 开发者社区
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8997cd77cfb2" alt="" />
-
----
-
-
-### [安全学术圈](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
-
-[:chart_with_upwards_trend:【3/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
-
-[:camera_flash:【2022-10-31 23:30:39】](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247488241&idx=1&sn=316eee5da1f870237d04c945ed6b9dc8&chksm=fe2eed7ac959646c30275091393e105940c2827075d0374010de8c98f30db4bb4fd1554ad7a1&scene=27&key=bf4c8a47cc41cb918739c003bd054aac3ac39145f00bed423051ae60fd7dd4c48a509c7eb86a0c096205f41f29703ed665790c7b27d9f8d0c647ccd41ae5df0ad2889fd4d9d343f55746b4e582440b5b54db09dedd494af6f941af45198aade414fe63ade310dd71af03158eadd3f929acfd7b8529e0505c453d75bee3a74d63&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+Server+2016+x64&version=63070517&lang=zh_CN&session_us=gh_2b92aaea64ea&exportkey=n_ChQIAhIQMMpX8wbC0MFY92UUMRNqExL4AQIE97dBBAEAAAAAAOkpNTsOZ2wAAAAOpnltbLcz9gKNyK89dVj0drzep%2FwbmyKR6%2BxncCy2xw%2BC0L4FjAPn%2BvamZkv46CoZhFATpP5O1b6NbS5kDGRrXbNEGgped2%2BidFFMQFXHQdnqtGz3NE7x4jUqdwnzaldJri7TGAMYA4fAzCwGKy5i9PkWCMNyblVHkpV36rPvZjY1tIOjFbBCPJXH%2BjqSQQgU3%2B9%2FvfCFFXpVstcBiLpfmFqSO2AT3IAWFYFtxyCH0oUjKvzW7wqhzoLY3lV3op06GZ1VoSatGIoILPIdFRtRjv7lnqhLD31uD0fDV%2BW3zbpT&acctmode=0&pass_ticket=ScD&scene=27#wechat_redirect)
-
-分享安全方面的论文写作、会议发表、基金申请方面的资料。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_cbda1fb027bf" alt="" />
 
 ---
 
@@ -73,6 +60,19 @@
 10000+工程师，如何支撑中国领先的生活服务电子商务平台？数亿消费者、数百万商户、2000多个行业、几千亿交易额背后是哪些技术在支撑？这里是美团、大众点评、美团外卖、美团配送、美团优选等技术团队的对外窗口。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_96d37a04e9bf" alt="" />
+
+---
+
+
+### [安全学术圈](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
+
+[:chart_with_upwards_trend:【3/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
+
+[:camera_flash:【2022-10-31 23:30:39】](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247488241&idx=1&sn=316eee5da1f870237d04c945ed6b9dc8&chksm=fe2eed7ac959646c30275091393e105940c2827075d0374010de8c98f30db4bb4fd1554ad7a1&scene=27&key=bf4c8a47cc41cb918739c003bd054aac3ac39145f00bed423051ae60fd7dd4c48a509c7eb86a0c096205f41f29703ed665790c7b27d9f8d0c647ccd41ae5df0ad2889fd4d9d343f55746b4e582440b5b54db09dedd494af6f941af45198aade414fe63ade310dd71af03158eadd3f929acfd7b8529e0505c453d75bee3a74d63&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+Server+2016+x64&version=63070517&lang=zh_CN&session_us=gh_2b92aaea64ea&exportkey=n_ChQIAhIQMMpX8wbC0MFY92UUMRNqExL4AQIE97dBBAEAAAAAAOkpNTsOZ2wAAAAOpnltbLcz9gKNyK89dVj0drzep%2FwbmyKR6%2BxncCy2xw%2BC0L4FjAPn%2BvamZkv46CoZhFATpP5O1b6NbS5kDGRrXbNEGgped2%2BidFFMQFXHQdnqtGz3NE7x4jUqdwnzaldJri7TGAMYA4fAzCwGKy5i9PkWCMNyblVHkpV36rPvZjY1tIOjFbBCPJXH%2BjqSQQgU3%2B9%2FvfCFFXpVstcBiLpfmFqSO2AT3IAWFYFtxyCH0oUjKvzW7wqhzoLY3lV3op06GZ1VoSatGIoILPIdFRtRjv7lnqhLD31uD0fDV%2BW3zbpT&acctmode=0&pass_ticket=ScD&scene=27#wechat_redirect)
+
+分享安全方面的论文写作、会议发表、基金申请方面的资料。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_cbda1fb027bf" alt="" />
 
 ---
 

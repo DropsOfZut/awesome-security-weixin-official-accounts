@@ -1,7 +1,7 @@
 
 ### [商密君](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
 
-[:chart_with_upwards_trend:【0/99/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
+[:chart_with_upwards_trend:【0/95/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
 
 [:camera_flash:【2022-11-03 18:48:00】](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247585352&idx=1&sn=a51e0bed270ff0f243faf770bbde95fe&chksm=ec579e13db20170595f2c12a3c16d5fdcb259047d46ec3452377bdeb63494e6f304746d88895&scene=27#wechat_redirect)
 
@@ -14,7 +14,7 @@
 
 ### [全栈网络空间安全](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
 
-[:chart_with_upwards_trend:【0/32/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
+[:chart_with_upwards_trend:【0/31/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
 
 [:camera_flash:【2022-11-06 00:52:37】](https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247505012&idx=1&sn=f3a3052a6545594f572bda9f4945735d&chksm=cf3d68b9f84ae1afe471b069990f8c961fa194206adf0a83a225f4b247abd117b17e341f0bed&scene=27#wechat_redirect)
 
@@ -27,7 +27,7 @@
 
 ### [数世咨询](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
 
-[:chart_with_upwards_trend:【8/22/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
+[:chart_with_upwards_trend:【7/21/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
 
 [:camera_flash:【2022-11-02 10:00:57】](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247495973&idx=1&sn=f56adb99ac63fa91478ad461fc5878a3&chksm=c1448398f6330a8e54700ab562d3d34dbb59cab4072b1635bbc0468d9ab1415d61c76296fd25&scene=27&key=5068985b1dfe19a9ba386a372e4975fba59b02835f2caa0aa82e808eecc4dbfbc816228b273fe865508d24b1c8c6bd6c8dc72a275b350a73da1f8a33a2928151f00d6aa29df29145f443f7badc558137e1b0d7952c678065fe3df61833f9a1e51601f02d9ff6adb053df2ed7295115f950bb701e44dac7576a26f7fe51532d50&ascene=15&uin=MzgxODQ4MjMz&devicetype=Windows+Server+2016+x64&version=63070517&lang=zh_CN&session_us=gh_c844687d05d6&exportkey=n_ChQIAhIQPlP9hui4y2bdfHEhD2osrxL5AQIE97dBBAEAAAAAACreGs1mrxgAAAAOpnltbLcz9gKNyK89dVj0ZO5oJL8G5N4WwQkohaHRnWLpjlSoVmzNvyL803%2BxmJ6TexGlAQ%2FdrSkHmCJ4LKfkh4bQkbTegfqh5rlECkPSeD3Xirhphjl%2B0oIz7yB6CGRPFwMraCDILXPdBgsNU8quSCoIuRNzVCL7%2Bs%2B3Ht9Ygcr0poaVY1aLsJn5FaVN%2FSYF4yPLWv%2FzO4I6MhPAXzI3nVTMn%2FsxvrVJ6zanAmnCyJa0kRxSDSVSqXSvXOEtxQGS%2BvlCQn5FdrI782TOGOSLtIPFTADvCE%2FKRLNGDy1SOy6ItQ%3D%3D&acctmode=0&pass_ti&scene=27#wechat_redirect)
 
@@ -81,24 +81,11 @@
 
 [:chart_with_upwards_trend:【3/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3ODAzNjg5OA==)
 
-[:camera_flash:【2022-11-03 22:51:27】](https://mp.weixin.qq.com/s?__biz=Mzg3ODAzNjg5OA==&mid=2247485085&idx=1&sn=1cf7bed2858f04b29da592c5f878a29e&chksm=cf189450f86f1d468679f5eb07954976a0b4bda048867e226456b27be9ac532e54cd4e6cec99&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-06 22:53:10】](https://mp.weixin.qq.com/s?__biz=Mzg3ODAzNjg5OA==&mid=2247485093&idx=1&sn=b676bda84aa200f7e5fac84704d563d6&chksm=cf189468f86f1d7eedd9bdbb8b70317cd4dd08d7526257c798bf12192ae0d08f100fc8b6025e&scene=27#wechat_redirect)
 
 持续关注企业与信息安全建设，分享精选干货。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4947400a6ef2" alt="" />
-
----
-
-
-### [君哥的体历](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MjQ1NTA4MA==)
-
-[:chart_with_upwards_trend:【2/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MjQ1NTA4MA==)
-
-[:camera_flash:【2022-11-02 18:27:39】](https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247489002&idx=1&sn=764f595a76d693f155272822516e5ac0&chksm=ea4bbfaddd3c36bbffb76c4d5ae3003b98ba5743d0b35c2819a0b46fa7cabbd48101b2bad44a&scene=27#wechat_redirect)
-
-闲暇时间，逼迫自己，记录分享体验与经历，不求正确统一，但求真、善、美。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_aa4d8db71365" alt="" />
 
 ---
 
@@ -138,6 +125,19 @@ vivo全新的安全品牌，有人文温度的科技新媒体，致力于让亿�
 关注安全行业前沿动向、产品服务商用前景，洞悉商业市场和用户趋势，助力安全行业发展。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e18f20900200" alt="" />
+
+---
+
+
+### [君哥的体历](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MjQ1NTA4MA==)
+
+[:chart_with_upwards_trend:【1/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MjQ1NTA4MA==)
+
+[:camera_flash:【2022-11-06 23:07:42】](https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247489010&idx=1&sn=6a94bad18017a9564dd8c4125ea52e6b&chksm=ea4bbfb5dd3c36a398faf0b33df79d778ce4efc6c16d3985abdc6721d4ded04b1eb5ea78a5d3&scene=27#wechat_redirect)
+
+闲暇时间，逼迫自己，记录分享体验与经历，不求正确统一，但求真、善、美。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_aa4d8db71365" alt="" />
 
 ---
 
