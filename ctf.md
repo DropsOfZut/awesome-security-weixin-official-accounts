@@ -1,9 +1,9 @@
 
 ### [寰宇卫士](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
 
-[:chart_with_upwards_trend:【0/21/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
+[:chart_with_upwards_trend:【0/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
 
-[:camera_flash:【2022-11-04 14:58:19】](https://mp.weixin.qq.com/s?__biz=MzIwMzU0NDY5OA==&mid=2247495333&idx=1&sn=57eba0a3931f04ebdbfc83bddda2443d&chksm=96cf6fb0a1b8e6a6b95ed55bf55d6711b8c4fd0a10f67574f47661f6f4bbfd683240ca456130&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-07 15:24:28】](https://mp.weixin.qq.com/s?__biz=MzIwMzU0NDY5OA==&mid=2247495346&idx=1&sn=8638bc13b0af6984bf46d093324e7ec5&chksm=96cf6fa7a1b8e6b170e104d043febf609cf62ae922f8d4dfc258d92a8ae4807b2400c0fd7a44&scene=27#wechat_redirect)
 
 寰宇卫士综合安全咨询、安全服务、解决方案、认证培训、产品研发等信息安全多元化产业链为一体。
 
@@ -172,7 +172,7 @@ CTF，从入门到放弃
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzEwMTQ3NQ==)
 
-[:camera_flash:【2022-09-23 01:15:58】](https://mp.weixin.qq.com/s?__biz=MzU3MzEwMTQ3NQ==&mid=2247501970&idx=1&sn=4e6eecd5abaf4c3dc57aeae251372dcb&chksm=fcc44c5ecbb3c5483a79954b9bfa5f39bb533a53edcce5b503941427fec7ba8be1d91a97c360&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-08 00:00:51】](https://mp.weixin.qq.com/s?__biz=MzU3MzEwMTQ3NQ==&mid=2247502018&idx=1&sn=bb9d351b7e562da598a74c89987fc2db&chksm=fcc44c0ecbb3c51814f60661a7027452eddbf29729bec3f7d1e1e77ed13a6e96f91c565a1c54&scene=27#wechat_redirect)
 
 青少年CTF（原名中学生CTF）帮助大家学习CTF竞赛，信息安全与网络技术。大家如果喜欢我们的视频讲解和教程可以加入我们的QQ群：797842833。快来和我们一起学习安全知识吧。
 

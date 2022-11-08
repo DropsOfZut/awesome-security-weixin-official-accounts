@@ -1,9 +1,9 @@
 
 ### [IoVSecurity](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
 
-[:chart_with_upwards_trend:【0/42/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
+[:chart_with_upwards_trend:【0/39/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
 
-[:camera_flash:【2022-11-06 23:15:46】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247561747&idx=1&sn=69b227097c9d3d65191690e7d2d65715&chksm=fc03a2d9cb742bcf8874b3edd7c2cce755a2e6e4da0f1f5cb6e2eab145cefa7f098fe1faff38&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-07 13:56:36】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247561874&idx=1&sn=d66a80ab1cce0aa2444c19c5af055ce1&chksm=fc03a258cb742b4e4fb385da487644ba898090c67b692d70ab98671eb55735862115bdf5dcbe&scene=27#wechat_redirect)
 
 为智能网联汽车行业专业人士提供信息和网络安全技术、产品及服务等行业发展最新咨询
 
@@ -14,9 +14,9 @@
 
 ### [网络安全与取证研究](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTU3NTY0Nw==)
 
-[:chart_with_upwards_trend:【0/24/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTU3NTY0Nw==)
+[:chart_with_upwards_trend:【0/26/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTU3NTY0Nw==)
 
-[:camera_flash:【2022-11-06 09:40:54】](https://mp.weixin.qq.com/s?__biz=Mzg3NTU3NTY0Nw==&mid=2247485158&idx=1&sn=282213dea6df104992010e8c1b15fc7f&chksm=cf3e26d6f849afc023338577a469a558737b55986699996c94b2be28469d0a45a0955d92c28e&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-07 09:50:09】](https://mp.weixin.qq.com/s?__biz=Mzg3NTU3NTY0Nw==&mid=2247485162&idx=1&sn=b92febdbaa287a961bb8953437baaffe&chksm=cf3e26daf849afcceb5bce568f14a70f6d36490ee7fef5e10815c03f143dd21d2dc0d1d78c3c&scene=27&key=b9f9fe4690f0a07c5b6b3dcdfaa7c268027eb8e1915c6e171a8447db610642f38024831d6646eb77fdcd8a74c62a4c4a2836082e69fbeba3e7935dcf7d0a15cbdd79025a5b7f4d417e8f8fd3fbffef057d94ff11c729acadae4b07b2ad4de6e4cbe62e67fb96ce0c234743136fab725a0ff908b77823e3f97f477f3b80ed7dbb&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+Server+2016+x64&version=63070517&lang=zh_CN&session_us=gh_0fc477a2a8b1&exportkey=n_ChQIAhIQBpZY0jrqcKq7eC4bh4jurhL4AQIE97dBBAEAAAAAABL7B0VVbPIAAAAOpnltbLcz9gKNyK89dVj02F8Sfc7zoQMj%2Fm64L3c%2FhI3Xl%2FkMhstGdqD1E9JnHcOjLkxQo3caS76%2BKPMqghjKlHkskkRa0h5WD%2FZNNNIrmG%2F%2FdXWmGQmDwg3UvBDqhYHiUrlNzJXKpRDfVd3jrfa%2F3m1f9XHHfYJfbodAeFpZNEwpSv7qAkTr7reaop0DU0PWEqnElYYd64f2MxVFlIUqm0CpzMBw0GJV5HTJPS288tQkIwDaX%2FGJ45Wp4hkJtRo33aOxAtIeZkuKlF0CpSO0uF82y1s3jDdjBCV92SrP2Uib&acctmode=0&pass_ticket=Omn&scene=27#wechat_redirect)
 
 旨于开展网络安全相关法律法规研究与电子数据取证技术研究，分享小知识、小技巧，共同学习提高，推进技术规范化建设。
 
@@ -27,9 +27,9 @@
 
 ### [IoT物联网技术](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
 
-[:chart_with_upwards_trend:【0/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
+[:chart_with_upwards_trend:【0/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
 
-[:camera_flash:【2022-11-06 19:21:58】](https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&mid=2454929833&idx=1&sn=3c158f59a8210789d6ff796ec54f0684&chksm=b1670ce6861085f06f96d56c21959e82f78c25bd3fae1ab383e06031c9832726ba9e56bae055&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-07 19:21:46】](https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&mid=2454929838&idx=1&sn=b7d717ec6402e55d7fca7509a96e520f&chksm=b1670ce1861085f730a7e1eb2f4d04483c7f359072dfef8ca35971ef337c768f66285a217db9&scene=27#wechat_redirect)
 
 国内最大IoT物联网开发者社区，1000+行业资料分享；集结 AWS，阿里云，华为云，微软Azure，百度云 物联网专家；通信模组，物联网卡厂商；智能家居，工业制造，智慧城市解决方案商。
 
@@ -42,7 +42,7 @@
 
 [:chart_with_upwards_trend:【0/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNDcwMDgzMA==)
 
-[:camera_flash:【2022-10-31 11:20:15】](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651044536&idx=1&sn=438ac4f018b95e5d983537857378c982&chksm=80d0f549b7a77c5fa4017a4f4a399525556aaecb56d80c1626d08ffd8a567d2a69a2e4b6df04&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-08 07:48:20】](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651044540&idx=1&sn=7c30a727b597d99cfeb9a0c2f62ca72d&chksm=80d0f54db7a77c5b1851ba3d938cc7fcdec6653a688b04bc1108a53542ada8997b224fdeaf1c&scene=27#wechat_redirect)
 
 关注刑事证据科学前沿发展，传递电子物证技术最新趋势
 
@@ -129,19 +129,6 @@
 ---
 
 
-### [IOTsecZone](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MTY5NjQzMA==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MTY5NjQzMA==)
-
-[:camera_flash:【2022-10-24 17:40:16】](https://mp.weixin.qq.com/s?__biz=Mzg4MTY5NjQzMA==&mid=2247487389&idx=1&sn=fd60d2c8d60fe92c643c30b4ea8a1dab&chksm=cf63445cf814cd4a1f6dd518563a841736fdda62a59e01c5fd7106f1aab57a57a2112ec8ae78&scene=27#wechat_redirect)
-
-极客的专属潮酷聚集地，尽在iotsec-zone
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_3f7435f8d16d" alt="" />
-
----
-
-
 ### [全频带阻塞干扰](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzMzE2OTQyNA==)
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzMzE2OTQyNA==)
@@ -203,6 +190,19 @@ Power by Gh0xE9 Team, Just join us &lt;3; Gh0xE9 Team Welcomes universities and 
 介绍电子数据取证与鉴定的基础知识、法律法规、技术标准及检验方法、检验流程、取证和鉴定的工具等。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a3bb8fead1f9" alt="" />
+
+---
+
+
+### [IOTsecZone](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MTY5NjQzMA==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MTY5NjQzMA==)
+
+[:camera_flash:【2022-10-24 17:40:16】](https://mp.weixin.qq.com/s?__biz=Mzg4MTY5NjQzMA==&mid=2247487389&idx=1&sn=fd60d2c8d60fe92c643c30b4ea8a1dab&chksm=cf63445cf814cd4a1f6dd518563a841736fdda62a59e01c5fd7106f1aab57a57a2112ec8ae78&scene=27#wechat_redirect)
+
+极客的专属潮酷聚集地，尽在iotsec-zone
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_3f7435f8d16d" alt="" />
 
 ---
 

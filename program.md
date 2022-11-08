@@ -1,9 +1,9 @@
 
 ### [编码安全研究](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NDY1MDc2Mg==)
 
-[:chart_with_upwards_trend:【0/28/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NDY1MDc2Mg==)
+[:chart_with_upwards_trend:【0/27/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NDY1MDc2Mg==)
 
-[:camera_flash:【2022-11-05 09:09:21】](https://mp.weixin.qq.com/s?__biz=Mzg2NDY1MDc2Mg==&mid=2247497160&idx=1&sn=e4ec8b7da37ce18cede0cbbede74e9c9&chksm=ce64a6adf9132fbb5d38f62da2bd1903a2ced01067737855906ddfd29b5ebd9f6b23ae016501&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-07 10:34:13】](https://mp.weixin.qq.com/s?__biz=Mzg2NDY1MDc2Mg==&mid=2247497180&idx=1&sn=90ea5a1889193d9b8d910e80a063ae73&chksm=ce64a6b9f9132faf79a1bd37b4a4ffe3e8026a128a4a6355c746924513fb1987d4e9ac14d4ed&scene=27#wechat_redirect)
 
 专注于学习网络安全
 
@@ -29,7 +29,7 @@
 
 [:chart_with_upwards_trend:【5/15/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
 
-[:camera_flash:【2022-11-04 12:00:00】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247499793&idx=1&sn=3ae074560dd4630d3c64cb7dac0a157c&chksm=e9d30bf3dea482e5b922b9cd86ce8d6b156eb1c2219aaadbed2cdf9ead169c3a309694a4c61b&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-07 12:00:10】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247499823&idx=1&sn=f8613b3095e2944d3da2238299f8f2a8&chksm=e9d30bcddea482db002354c9715cd64031256372fb5c168dc6748b8c3d678461f18081b6711c&scene=27#wechat_redirect)
 
 字节跳动的技术实践分享
 
@@ -66,7 +66,7 @@
 
 ### [安全学术圈](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
 
-[:chart_with_upwards_trend:【3/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
+[:chart_with_upwards_trend:【3/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
 
 [:camera_flash:【2022-10-31 23:30:39】](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247488241&idx=1&sn=316eee5da1f870237d04c945ed6b9dc8&chksm=fe2eed7ac959646c30275091393e105940c2827075d0374010de8c98f30db4bb4fd1554ad7a1&scene=27&key=bf4c8a47cc41cb918739c003bd054aac3ac39145f00bed423051ae60fd7dd4c48a509c7eb86a0c096205f41f29703ed665790c7b27d9f8d0c647ccd41ae5df0ad2889fd4d9d343f55746b4e582440b5b54db09dedd494af6f941af45198aade414fe63ade310dd71af03158eadd3f929acfd7b8529e0505c453d75bee3a74d63&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+Server+2016+x64&version=63070517&lang=zh_CN&session_us=gh_2b92aaea64ea&exportkey=n_ChQIAhIQMMpX8wbC0MFY92UUMRNqExL4AQIE97dBBAEAAAAAAOkpNTsOZ2wAAAAOpnltbLcz9gKNyK89dVj0drzep%2FwbmyKR6%2BxncCy2xw%2BC0L4FjAPn%2BvamZkv46CoZhFATpP5O1b6NbS5kDGRrXbNEGgped2%2BidFFMQFXHQdnqtGz3NE7x4jUqdwnzaldJri7TGAMYA4fAzCwGKy5i9PkWCMNyblVHkpV36rPvZjY1tIOjFbBCPJXH%2BjqSQQgU3%2B9%2FvfCFFXpVstcBiLpfmFqSO2AT3IAWFYFtxyCH0oUjKvzW7wqhzoLY3lV3op06GZ1VoSatGIoILPIdFRtRjv7lnqhLD31uD0fDV%2BW3zbpT&acctmode=0&pass_ticket=ScD&scene=27#wechat_redirect)
 
@@ -99,19 +99,6 @@
 守护隐私，即刻开始
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_9701d03894ec" alt="" />
-
----
-
-
-### [HaoDF技术团队](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxOTg4NDAxMg==)
-
-[:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxOTg4NDAxMg==)
-
-[:camera_flash:【2022-11-01 18:30:47】](https://mp.weixin.qq.com/s?__biz=MzUxOTg4NDAxMg==&mid=2247484324&idx=1&sn=266efe666ffe212c7785602c900f415e&chksm=f9f39e27ce841731269d0313ec1a1f6d6c0cbe8826b73ccbf13d7b98155d63d73475cfd6ca4a&scene=27#wechat_redirect)
-
-好大夫在线技术实践与分享，欢迎大家一起交流！更欢迎加入我们，一起用“科技创造优质医疗”！
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a0f9bc95946e" alt="" />
 
 ---
 
@@ -164,6 +151,19 @@ OPPO在大数据、人工智能、云技术等领域的技术干货及技术活�
 本公众号由善于Web反反爬的林弟弟善于App逆向的猛狗哥哥赞助
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_fc6c78a6258d" alt="" />
+
+---
+
+
+### [HaoDF技术团队](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxOTg4NDAxMg==)
+
+[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxOTg4NDAxMg==)
+
+[:camera_flash:【2022-11-01 18:30:47】](https://mp.weixin.qq.com/s?__biz=MzUxOTg4NDAxMg==&mid=2247484324&idx=1&sn=266efe666ffe212c7785602c900f415e&chksm=f9f39e27ce841731269d0313ec1a1f6d6c0cbe8826b73ccbf13d7b98155d63d73475cfd6ca4a&scene=27#wechat_redirect)
+
+好大夫在线技术实践与分享，欢迎大家一起交流！更欢迎加入我们，一起用“科技创造优质医疗”！
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a0f9bc95946e" alt="" />
 
 ---
 
