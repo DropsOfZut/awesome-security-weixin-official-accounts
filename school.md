@@ -16,7 +16,7 @@
 
 [:chart_with_upwards_trend:【0/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
 
-[:camera_flash:【2022-11-02 16:50:33】](https://mp.weixin.qq.com/s?__biz=MzUzNDg0NTc1NA==&mid=2247495049&idx=1&sn=978092d6e98a5790f826cb475548290f&chksm=fa8c2ddccdfba4ca99ebff83a7fa97bf5fc8b61d908a01c65c2a3de055cb7550f519c0874505&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-08 16:56:15】](https://mp.weixin.qq.com/s?__biz=MzUzNDg0NTc1NA==&mid=2247495254&idx=1&sn=f2cb2186d5bcccb375c1159d39951e66&chksm=fa8c2e03cdfba715b49a7af45531f883a59cce1ebd465cc07db2fa70be926ca66ce8e5319187&scene=27#wechat_redirect)
 
 启明星辰网络空间安全学院以国家网络安全事业发展为使命，依托启明星辰集团多年的技术沉淀及实践积累，提供网络安全人才体系构建与信息安全技术及能力提升教育培训，为建设网络强国提供有力的人才支撑。
 
@@ -64,19 +64,6 @@
 ---
 
 
-### [齐鲁师院网络安全社团](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MDU5NTA1MQ==)
-
-[:chart_with_upwards_trend:【2/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MDU5NTA1MQ==)
-
-[:camera_flash:【2022-11-07 21:30:42】](https://mp.weixin.qq.com/s?__biz=MzU3MDU5NTA1MQ==&mid=2247492441&idx=1&sn=d70a7156a6cd91716217f579349e56f3&chksm=fcefa0ddcb9829cb58934ab71a42ce8ae948192711325677168b6501e32ddfc3ca60bae815c9&scene=27#wechat_redirect)
-
-欢迎加入齐鲁师范学院网络安全社团
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0c9ae293eb8e" alt="" />
-
----
-
-
 ### [连天教育](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNTk2MDAwNA==)
 
 [:chart_with_upwards_trend:【1/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNTk2MDAwNA==)
@@ -86,6 +73,19 @@
 连天教育，是河南信安世纪科技有限公司旗下独立信息安全培训组织，主要面向国内外信息安全认证和职业技能培训，涉及CISP、CISM、CISSP、CISA、信息安全意识、风险评估、渗透测试、CTF竞赛、Web安全等。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_9fe1a6f307b0" alt="" />
+
+---
+
+
+### [齐鲁师院网络安全社团](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MDU5NTA1MQ==)
+
+[:chart_with_upwards_trend:【1/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MDU5NTA1MQ==)
+
+[:camera_flash:【2022-11-07 21:30:42】](https://mp.weixin.qq.com/s?__biz=MzU3MDU5NTA1MQ==&mid=2247492441&idx=1&sn=d70a7156a6cd91716217f579349e56f3&chksm=fcefa0ddcb9829cb58934ab71a42ce8ae948192711325677168b6501e32ddfc3ca60bae815c9&scene=27#wechat_redirect)
+
+欢迎加入齐鲁师范学院网络安全社团
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0c9ae293eb8e" alt="" />
 
 ---
 

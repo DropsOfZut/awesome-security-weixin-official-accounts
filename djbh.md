@@ -1,9 +1,9 @@
 
 ### [计算机与网络安全](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTk4MDE2MA==)
 
-[:chart_with_upwards_trend:【0/161/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTk4MDE2MA==)
+[:chart_with_upwards_trend:【0/153/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTk4MDE2MA==)
 
-[:camera_flash:【2022-11-08 07:30:56】](https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655183255&idx=1&sn=31f57d5c42776e3ef206aa3cc153f51b&chksm=bc857c788bf2f56eef630686ddfaf7f9d59ae01457fcba3965b9a7cad4e5d91d9bed5d41ca63&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-09 07:31:51】](https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655183366&idx=1&sn=68dcc7bd14c9f3016584000fbb0c0e33&chksm=bc857fe98bf2f6ff2c1497ba61ff4cfec57c45b1ac8c0c8d90acaf53fc0747a2e95fe6fb76b0&scene=27#wechat_redirect)
 
 帮助安全从业者、安全爱好者学习与成长。
 
@@ -14,9 +14,9 @@
 
 ### [安全内参](http://wechat.doonsec.com/wechat_echarts/?biz=MzI4NDY2MDMwMw==)
 
-[:chart_with_upwards_trend:【0/74/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI4NDY2MDMwMw==)
+[:chart_with_upwards_trend:【0/70/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI4NDY2MDMwMw==)
 
-[:camera_flash:【2022-11-07 18:41:10】](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247506690&idx=1&sn=e4efd2b5d0beba7db6ea5af82baf4538&chksm=ebfa9c22dc8d15344b8136915cf67f0a1a746efcd1ca43d4952116ae79a008f4f1d014e962e2&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-08 22:20:28】](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247506704&idx=1&sn=1716a9b85f894f954ef7cc7690a66816&chksm=ebfa9c30dc8d1526096b11839ff343ec7a309f6e512bbe5cf94851f1408a8f5e38b494b490f9&scene=27#wechat_redirect)
 
 《安全内参》是专注于网络安全产业发展和行业应用的高端智库平台，致力于成为网络安全首席知识官。投稿&amp;合作请邮件联系 anquanneican#163.com
 
@@ -27,9 +27,9 @@
 
 ### [祺印说信安](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5MzU5MzQzMA==)
 
-[:chart_with_upwards_trend:【32/61/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5MzU5MzQzMA==)
+[:chart_with_upwards_trend:【31/59/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5MzU5MzQzMA==)
 
-[:camera_flash:【2022-11-08 00:00:51】](https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652096741&idx=1&sn=cb11270410a5492f158ccd551ba5ec39&chksm=8bbce2dcbccb6bcaf1be5f5e81c1293f4bd13cfe078d2190f97a01a254d6dca349b7ab0b495f&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-09 00:00:34】](https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652096745&idx=1&sn=09b5fae83ca04d7fa4bada568f6f6e8e&chksm=8bbce2d0bccb6bc699f35716ae5f73fd104e2c866dfc6f1de9ef6614f0d7efdb8a6b66064d73&scene=27#wechat_redirect)
 
 学习网络安全、说网络安全；共同致力于网络安全、网络安全等级保护。
 
@@ -40,9 +40,9 @@
 
 ### [河南等级保护测评](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NjY2MTI3Mg==)
 
-[:chart_with_upwards_trend:【33/54/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NjY2MTI3Mg==)
+[:chart_with_upwards_trend:【32/53/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NjY2MTI3Mg==)
 
-[:camera_flash:【2022-11-08 00:00:51】](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247488068&idx=1&sn=30d073330929436a57325ed7fa000a27&chksm=ce4634b3f931bda5e47af365eb410ac4fb2d2f6797b702e80e634abd8e5a973816513912d5ea&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-09 00:00:02】](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247488073&idx=1&sn=ffd2249f7da20ead4969b9700bf3720b&chksm=ce4634bef931bda8d683d475f3827bd8cf5643dfa70f9fba9371a1c931964c1543719131b69c&scene=27#wechat_redirect)
 
 传播网络安全知识，分享网络安全政策，共建风清气正的网络安全氛围。等级保护测评、风险评估、网络安全培训、咨询。
 
@@ -55,7 +55,7 @@
 
 [:chart_with_upwards_trend:【0/17/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1OTA1MzQzNA==)
 
-[:camera_flash:【2022-11-07 15:29:16】](https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651243095&idx=1&sn=5cc757d717d23c0455c0584a609d7ba9&chksm=f18ca042c6fb29548d61089498825e97a7d47a93e39ed70feaa41ba2f49e239fe795a81f2ab0&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-08 10:26:04】](https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651243100&idx=1&sn=448c8ae952d20170bb469c93a4faa1b7&chksm=f18ca049c6fb295f6e305f84fb55a9ca724e26668f23ba3e39b0a8ee3316820bcc9a9a57a254&scene=27#wechat_redirect)
 
 关注益安在线，一站了解等级保护、工业互联网安全。专注网络安全人才培训，行业咨询、网络安全技术大赛服务。举办2017和2018中央企业网络安全技术大赛、“护网杯”2018网络安全防护赛，为行业提供人才赋能综合解决方案，输送实战型网安人才。
 
@@ -68,7 +68,7 @@
 
 [:chart_with_upwards_trend:【1/16/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5OTQ0NzY3Ng==)
 
-[:camera_flash:【2022-11-03 17:40:43】](https://mp.weixin.qq.com/s?__biz=MzU5OTQ0NzY3Ng==&mid=2247492405&idx=1&sn=e59d46fe16ab7e4f62091a205e35f6a9&chksm=feb66226c9c1eb30d7bc114b3b2732cae34b7710677cdc644973944130725281fb7db58cfce4&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-08 17:30:39】](https://mp.weixin.qq.com/s?__biz=MzU5OTQ0NzY3Ng==&mid=2247492434&idx=1&sn=9c699b498f58cdb336f12f5043c01b62&chksm=feb66241c9c1eb571d23848cb393ae77bee0a54fe786aafb2377281a419635627c9544f33fd1&scene=27#wechat_redirect)
 
 由国家发改委于2004年批复、2012年授牌，法人实体为中科信息安全共性技术国家工程研究中心有限公司。在网络安全服务、体系建设等有丰富的技术研究和工程化经验。依托中科院信工所等科研单位，搭建国家网络安全工程化与产业化平台、产学研创新技术。
 
@@ -79,9 +79,9 @@
 
 ### [天億网络安全](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4ODU1MzAyNg==)
 
-[:chart_with_upwards_trend:【0/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4ODU1MzAyNg==)
+[:chart_with_upwards_trend:【0/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4ODU1MzAyNg==)
 
-[:camera_flash:【2022-11-07 10:50:11】](https://mp.weixin.qq.com/s?__biz=MzU4ODU1MzAyNg==&mid=2247507533&idx=1&sn=88bdbdcf17013301891cc639eb1de424&chksm=fdd99060caae1976db41b4188ab05a92de144dfb38116ee7aebb0ed2d114c643e7f1e434f621&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-08 11:10:42】](https://mp.weixin.qq.com/s?__biz=MzU4ODU1MzAyNg==&mid=2247507587&idx=1&sn=08e8e8b16adb31eb19fb07b517d8df15&chksm=fdd990aecaae19b8dbadf0359815582f496bded9fbe339efbe22bef2843333b4ee503ffdec4c&scene=27#wechat_redirect)
 
 全面介绍网络安全相关知识、安全建设方案、分享网络安全行业法律法规及相关政策等内容，一个学习网络安全知识、技术、业务交流的全国性平台。
 
@@ -92,9 +92,9 @@
 
 ### [威努特工控安全](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNTgyODU3NQ==)
 
-[:chart_with_upwards_trend:【4/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNTgyODU3NQ==)
+[:chart_with_upwards_trend:【3/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNTgyODU3NQ==)
 
-[:camera_flash:【2022-11-08 08:00:46】](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651090816&idx=1&sn=392bf49b01930ed1a8a384a1ffb47160&chksm=80e67530b791fc266b9f568c5e3c5d3f379f27c105cc7e1fceee8b619e47188c1311ddce2a25&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-09 08:00:28】](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651090817&idx=1&sn=b1146458bf7881f4362d073cfb987e43&chksm=80e67531b791fc2786560cb75845b8181421abcdf6e8afc1825f359690232d91477458ab0316&scene=27#wechat_redirect)
 
 我们将为您分享最前沿的国际工控网络安全技术，国家相关政策法规解读及经典成功案例解析。
 
@@ -118,7 +118,7 @@
 
 ### [汇能云安全](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNzAwOTQxMg==)
 
-[:chart_with_upwards_trend:【0/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNzAwOTQxMg==)
+[:chart_with_upwards_trend:【0/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNzAwOTQxMg==)
 
 [:camera_flash:【2022-11-07 09:58:31】](https://mp.weixin.qq.com/s?__biz=MzIwNzAwOTQxMg==&mid=2652246616&idx=1&sn=f0c0c773f9e990588726c4dd5f77981b&chksm=8cfa51b3bb8dd8a545790d936fd7c9d8630ce8815a8e9ca2cf37b54bdedaae60e4bc019f489d&scene=27#wechat_redirect)
 
@@ -146,7 +146,7 @@
 
 [:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3NTQwNDYyNA==)
 
-[:camera_flash:【2022-11-05 19:38:37】](https://mp.weixin.qq.com/s?__biz=MzU3NTQwNDYyNA==&mid=2247485631&idx=1&sn=da540583231e3744d0286215c1d056d2&chksm=fd22e780ca556e967d85bf9e980da9d9a84fcb397d5e6707191e605f31c410aec7fc95254bd2&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-08 09:09:21】](https://mp.weixin.qq.com/s?__biz=MzU3NTQwNDYyNA==&mid=2247485658&idx=1&sn=c318e9f33f87ec746462aeb26d1c96f9&chksm=fd22e7e5ca556ef30499cedfad1291c9dcfd59a4a3659bc95564509d2aa8e538df85a5f74d99&scene=27#wechat_redirect)
 
 国家等级保护制度核心机构
 

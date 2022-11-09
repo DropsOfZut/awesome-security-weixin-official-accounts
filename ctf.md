@@ -1,9 +1,9 @@
 
 ### [寰宇卫士](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
 
-[:chart_with_upwards_trend:【0/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
+[:chart_with_upwards_trend:【0/19/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
 
-[:camera_flash:【2022-11-07 15:24:28】](https://mp.weixin.qq.com/s?__biz=MzIwMzU0NDY5OA==&mid=2247495346&idx=1&sn=8638bc13b0af6984bf46d093324e7ec5&chksm=96cf6fa7a1b8e6b170e104d043febf609cf62ae922f8d4dfc258d92a8ae4807b2400c0fd7a44&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-08 15:47:00】](https://mp.weixin.qq.com/s?__biz=MzIwMzU0NDY5OA==&mid=2247495359&idx=1&sn=6fc045be20b8d8d82dcb9b5b04bac55a&chksm=96cf6faaa1b8e6bc876dbdec2f7a93b1fd3ad0aa6cdd639f22476c864fcbe987e9b62426e419&scene=27#wechat_redirect)
 
 寰宇卫士综合安全咨询、安全服务、解决方案、认证培训、产品研发等信息安全多元化产业链为一体。
 
@@ -21,19 +21,6 @@
 春秋伽玛，为广大网络安全爱好者传递网络安全大赛相关赛事信息，提供优质的赛事服务平台
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_07fa2c2720be" alt="" />
-
----
-
-
-### [XCTF联赛](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
-
-[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
-
-[:camera_flash:【2022-10-26 09:33:59】](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247507824&idx=1&sn=f7f7b9e6d604073b5fd5fc02fbb8d0d7&chksm=a6872d4a91f0a45cf88aacc038dd44e26c616052076ee3a5259dc83910e52d2c4bbda7777f85&scene=27&key=2d14964c488b7339a6ea8faed0b387d94105fce45e9e3c8a9a3d019f19efecb589177f47884c9900ae86644e9d28cd70a70cff88c4dcd70c0e3fe9290eb5be8a51f71cc4081d76bd4ffdcf5804be171ff68b7ad70911c565fb8e9fa88606483b02ffe7b6cf9d98fc92598bdac80c25b09687fb8ba003064ed1cb0868ae99ac4f&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+Server+2016+x64&version=63070517&lang=zh_CN&session_us=gh_72d9239e6429&exportkey=n_ChQIAhIQbN%2BkajztKxI7TnbeEMCRVhL4AQIE97dBBAEAAAAAAHCfK7AnwFwAAAAOpnltbLcz9gKNyK89dVj0DZVV9Wfogem3fFfiQHe5YY93B8rm%2F460zPdZHRadbK661ZwyyG%2BmHaQob6B%2BiwP0IMrbX3F38QtnLWkW1bF9CsGhhDOTMRetbXRbJyKpTp%2BYO4%2F12z0ZE7V4a6thcvjyd6owCdNcKNCtkqkWh4M7YrLf6DBi0A%2F9%2BXOogGB1S0KO3ceHE%2FRy0J5qEwIsfxtieYdGVl3B5G0br%2FJmv45aX7%2FFNG58O6ntf9jbCYE6BhsRAELSkEMPrEd7KeCxHBHV1sBFE%2BtFMU2QotXndQEtyFJa&acctmode=0&pass_tick&scene=27#wechat_redirect)
-
-国内最早、亚洲最大的网络攻防联赛。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_3d7c7f90f79f" alt="" />
 
 ---
 
@@ -64,15 +51,15 @@
 ---
 
 
-### [BugKu](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3ODQ2MDMxMg==)
+### [XCTF联赛](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
 
-[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3ODQ2MDMxMg==)
+[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
 
-[:camera_flash:【2022-11-02 09:00:53】](https://mp.weixin.qq.com/s?__biz=MzU3ODQ2MDMxMg==&mid=2247485488&idx=1&sn=cb1c0d0fe7d54def21ccc54a7accbaea&chksm=fd7447c7ca03ced15d3c4882f4ec5f4666938840e8c24e7214ca0c2a1176293e73765fb20d53&scene=27#wechat_redirect)
+[:camera_flash:【2022-10-26 09:33:59】](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247507824&idx=1&sn=f7f7b9e6d604073b5fd5fc02fbb8d0d7&chksm=a6872d4a91f0a45cf88aacc038dd44e26c616052076ee3a5259dc83910e52d2c4bbda7777f85&scene=27&key=2d14964c488b7339a6ea8faed0b387d94105fce45e9e3c8a9a3d019f19efecb589177f47884c9900ae86644e9d28cd70a70cff88c4dcd70c0e3fe9290eb5be8a51f71cc4081d76bd4ffdcf5804be171ff68b7ad70911c565fb8e9fa88606483b02ffe7b6cf9d98fc92598bdac80c25b09687fb8ba003064ed1cb0868ae99ac4f&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+Server+2016+x64&version=63070517&lang=zh_CN&session_us=gh_72d9239e6429&exportkey=n_ChQIAhIQbN%2BkajztKxI7TnbeEMCRVhL4AQIE97dBBAEAAAAAAHCfK7AnwFwAAAAOpnltbLcz9gKNyK89dVj0DZVV9Wfogem3fFfiQHe5YY93B8rm%2F460zPdZHRadbK661ZwyyG%2BmHaQob6B%2BiwP0IMrbX3F38QtnLWkW1bF9CsGhhDOTMRetbXRbJyKpTp%2BYO4%2F12z0ZE7V4a6thcvjyd6owCdNcKNCtkqkWh4M7YrLf6DBi0A%2F9%2BXOogGB1S0KO3ceHE%2FRy0J5qEwIsfxtieYdGVl3B5G0br%2FJmv45aX7%2FFNG58O6ntf9jbCYE6BhsRAELSkEMPrEd7KeCxHBHV1sBFE%2BtFMU2QotXndQEtyFJa&acctmode=0&pass_tick&scene=27#wechat_redirect)
 
-关注网络安全，和你一起分享安全技术。
+国内最早、亚洲最大的网络攻防联赛。
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_d10dfd684f1b" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_3d7c7f90f79f" alt="" />
 
 ---
 
@@ -99,6 +86,19 @@ X是未知，更是无限，邀您一道创造、见证和实现X-Plan，北斗�
 CTF协会
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_1e4280acde68" alt="" />
+
+---
+
+
+### [BugKu](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3ODQ2MDMxMg==)
+
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3ODQ2MDMxMg==)
+
+[:camera_flash:【2022-11-02 09:00:53】](https://mp.weixin.qq.com/s?__biz=MzU3ODQ2MDMxMg==&mid=2247485488&idx=1&sn=cb1c0d0fe7d54def21ccc54a7accbaea&chksm=fd7447c7ca03ced15d3c4882f4ec5f4666938840e8c24e7214ca0c2a1176293e73765fb20d53&scene=27#wechat_redirect)
+
+关注网络安全，和你一起分享安全技术。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_d10dfd684f1b" alt="" />
 
 ---
 

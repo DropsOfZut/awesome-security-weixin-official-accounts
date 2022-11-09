@@ -1,9 +1,9 @@
 
 ### [IoVSecurity](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
 
-[:chart_with_upwards_trend:【0/39/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
+[:chart_with_upwards_trend:【0/36/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
 
-[:camera_flash:【2022-11-07 13:56:36】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247561874&idx=1&sn=d66a80ab1cce0aa2444c19c5af055ce1&chksm=fc03a258cb742b4e4fb385da487644ba898090c67b692d70ab98671eb55735862115bdf5dcbe&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-08 21:17:38】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247562039&idx=1&sn=ca8ae3a92c943d8e836d664c2a13145c&chksm=fc03a3fdcb742aebfaa6c9bd1c0b41eaca8f2c1ac38a2eceb6397624bc7d4a9e955b09ec2820&scene=27#wechat_redirect)
 
 为智能网联汽车行业专业人士提供信息和网络安全技术、产品及服务等行业发展最新咨询
 
@@ -16,7 +16,7 @@
 
 [:chart_with_upwards_trend:【0/26/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTU3NTY0Nw==)
 
-[:camera_flash:【2022-11-07 09:50:09】](https://mp.weixin.qq.com/s?__biz=Mzg3NTU3NTY0Nw==&mid=2247485162&idx=1&sn=b92febdbaa287a961bb8953437baaffe&chksm=cf3e26daf849afcceb5bce568f14a70f6d36490ee7fef5e10815c03f143dd21d2dc0d1d78c3c&scene=27&key=b9f9fe4690f0a07c5b6b3dcdfaa7c268027eb8e1915c6e171a8447db610642f38024831d6646eb77fdcd8a74c62a4c4a2836082e69fbeba3e7935dcf7d0a15cbdd79025a5b7f4d417e8f8fd3fbffef057d94ff11c729acadae4b07b2ad4de6e4cbe62e67fb96ce0c234743136fab725a0ff908b77823e3f97f477f3b80ed7dbb&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+Server+2016+x64&version=63070517&lang=zh_CN&session_us=gh_0fc477a2a8b1&exportkey=n_ChQIAhIQBpZY0jrqcKq7eC4bh4jurhL4AQIE97dBBAEAAAAAABL7B0VVbPIAAAAOpnltbLcz9gKNyK89dVj02F8Sfc7zoQMj%2Fm64L3c%2FhI3Xl%2FkMhstGdqD1E9JnHcOjLkxQo3caS76%2BKPMqghjKlHkskkRa0h5WD%2FZNNNIrmG%2F%2FdXWmGQmDwg3UvBDqhYHiUrlNzJXKpRDfVd3jrfa%2F3m1f9XHHfYJfbodAeFpZNEwpSv7qAkTr7reaop0DU0PWEqnElYYd64f2MxVFlIUqm0CpzMBw0GJV5HTJPS288tQkIwDaX%2FGJ45Wp4hkJtRo33aOxAtIeZkuKlF0CpSO0uF82y1s3jDdjBCV92SrP2Uib&acctmode=0&pass_ticket=Omn&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-08 11:08:44】](https://mp.weixin.qq.com/s?__biz=Mzg3NTU3NTY0Nw==&mid=2247485172&idx=1&sn=7515a74daa550cab37d90aef3ab5519c&chksm=cf3e26c4f849afd203e26cb74714da53090e28d78ebd8f8e0bf7a75acd05f58f8c2e04db440c&scene=27#wechat_redirect)
 
 旨于开展网络安全相关法律法规研究与电子数据取证技术研究，分享小知识、小技巧，共同学习提高，推进技术规范化建设。
 
@@ -27,9 +27,9 @@
 
 ### [IoT物联网技术](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
 
-[:chart_with_upwards_trend:【0/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
+[:chart_with_upwards_trend:【0/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
 
-[:camera_flash:【2022-11-07 19:21:46】](https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&mid=2454929838&idx=1&sn=b7d717ec6402e55d7fca7509a96e520f&chksm=b1670ce1861085f730a7e1eb2f4d04483c7f359072dfef8ca35971ef337c768f66285a217db9&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-08 20:12:59】](https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&mid=2454929843&idx=1&sn=6c6eba89848bf0a1d4934593b4901414&chksm=b1670cfc861085ea8814f2db2953a8c91213c76749386bd4d9200d66b4862b3038b8d06e125c&scene=27#wechat_redirect)
 
 国内最大IoT物联网开发者社区，1000+行业资料分享；集结 AWS，阿里云，华为云，微软Azure，百度云 物联网专家；通信模组，物联网卡厂商；智能家居，工业制造，智慧城市解决方案商。
 
@@ -133,7 +133,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzMzE2OTQyNA==)
 
-[:camera_flash:【2022-10-25 08:45:11】](https://mp.weixin.qq.com/s?__biz=MzIzMzE2OTQyNA==&mid=2648954993&idx=1&sn=3aff04dc565400f0474f4d0ce4cfa651&chksm=f09ecf0ec7e946188dc07455da87e0487f19e196a7abb7f22fd95e93cfc0a4588c413f9f8cd3&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-08 11:43:19】](https://mp.weixin.qq.com/s?__biz=MzIzMzE2OTQyNA==&mid=2648955032&idx=1&sn=b227bbef668a7eb24eb4a5f24d9a63fa&chksm=f09ecfe7c7e946f19da0a6b1a91a7b088e58c6682e8c7ab4366571ef069c56a248adfdba0b19&scene=27#wechat_redirect)
 
 坚持以非正常体位探寻未知信号。 国内商业安全、TSCM技术反窃密、隐私保护及物理安全领域前行者。持久关注通信安全、海外威胁情报、犯罪防御与群氓效应。
 
