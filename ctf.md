@@ -1,9 +1,9 @@
 
 ### [寰宇卫士](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
 
-[:chart_with_upwards_trend:【0/19/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
+[:chart_with_upwards_trend:【0/21/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
 
-[:camera_flash:【2022-11-08 15:47:00】](https://mp.weixin.qq.com/s?__biz=MzIwMzU0NDY5OA==&mid=2247495359&idx=1&sn=6fc045be20b8d8d82dcb9b5b04bac55a&chksm=96cf6faaa1b8e6bc876dbdec2f7a93b1fd3ad0aa6cdd639f22476c864fcbe987e9b62426e419&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-09 10:10:37】](https://mp.weixin.qq.com/s?__biz=MzIwMzU0NDY5OA==&mid=2247495371&idx=1&sn=ae1c437b4d1d083ee06fdde8ea2d7f87&chksm=96cf6fdea1b8e6c86784d3bd449787221b9d4bcef90f1b28f32492c676eea61ac3712e149b5a&scene=27#wechat_redirect)
 
 寰宇卫士综合安全咨询、安全服务、解决方案、认证培训、产品研发等信息安全多元化产业链为一体。
 
@@ -16,7 +16,7 @@
 
 [:chart_with_upwards_trend:【2/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
 
-[:camera_flash:【2022-11-05 15:04:56】](https://mp.weixin.qq.com/s?__biz=MzkyNDA5NjgyMg==&mid=2247494644&idx=1&sn=b973ed7f092ad40c6d2dc74dc128ae81&chksm=c1d9abadf6ae22bb5c12fac30eab1784699a27c93f885c73ab25b5a9363033fff8c29f4755a5&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-09 10:07:08】](https://mp.weixin.qq.com/s?__biz=MzkyNDA5NjgyMg==&mid=2247494651&idx=1&sn=493f1fc02da3165504112ed9cf0d71d8&chksm=c1d9aba2f6ae22b4ab408a0eb70dddded85bae4c4cbdefa3e5d77e1a607eaeb4a7e51b4f6b6c&scene=27#wechat_redirect)
 
 春秋伽玛，为广大网络安全爱好者传递网络安全大赛相关赛事信息，提供优质的赛事服务平台
 
@@ -27,9 +27,9 @@
 
 ### [DataCon大数据安全分析竞赛](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5Njg1NzMyNw==)
 
-[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5Njg1NzMyNw==)
+[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5Njg1NzMyNw==)
 
-[:camera_flash:【2022-11-03 16:21:40】](https://mp.weixin.qq.com/s?__biz=MzU5Njg1NzMyNw==&mid=2247485245&idx=1&sn=10bc1975a88b79d5b57d7bc859ac15f2&chksm=fe5d1fbdc92a96ab6bdd430434ed35f30e82d93533c15c8bad1a90fada9ba6ce676861b1066f&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-09 10:00:48】](https://mp.weixin.qq.com/s?__biz=MzU5Njg1NzMyNw==&mid=2247485296&idx=1&sn=953f7932db09f894362f147879e2c9e5&chksm=fe5d1ff0c92a96e64ccbc97775479992c978cb01475d763473ecb3a6d345a710a53acdae5ca8&scene=27#wechat_redirect)
 
 由奇安信集团、清华大学、蚂蚁集团主办，联合北京大学、中科院软件所、复旦大学、中山大学、山东大学、中国科技大学等30多个知名高校和研究机构共同举办的聚焦大数据安全分析的比赛。
 
@@ -60,19 +60,6 @@
 国内最早、亚洲最大的网络攻防联赛。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_3d7c7f90f79f" alt="" />
-
----
-
-
-### [XPLAN](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MDY1ODU2Mw==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MDY1ODU2Mw==)
-
-[:camera_flash:【2022-10-10 18:43:59】](https://mp.weixin.qq.com/s?__biz=Mzg5MDY1ODU2Mw==&mid=2247489584&idx=1&sn=0ddf4524e089aa7f7bb50fbdf1b3a8c4&chksm=cfd8125cf8af9b4a8c71f47d901d98349a20e5c34ee8036496e560d470fb8f20d48b1389c076&scene=27&key=3b90a962c7574fe1c9a824fcbac67b6a674f57b62f4e9f32cc49162b5c26a453a2a62195cb42197c29beb0a02e2acf35479dcab54c62ff80a783ab281076235bbc7eef5bee64028339e18bd4d501cda97a8e1ae75c3f7af52b806ac9aa41936672374f2c2eb2fa2f4b97d4359126fe311bf9164988f33be1f4193164f9bfb863&ascene=15&uin=MTA3Mzc3OTIzNQ%3D%3D&devicetype=Windows+Server+2016+x64&version=63070517&lang=zh_CN&session_us=gh_2065400058ac&exportkey=n_ChQIAhIQn3yC7TVRw%2FppFNHpNcjEbxL5AQIE97dBBAEAAAAAAI4kJEnjR%2FQAAAAOpnltbLcz9gKNyK89dVj0Y2lU4GPYf9gIpmZhb7JleYrQMvzZqOX5PLsRIgOrTZQL5l7NSJVgLjJhyw1WJXoKHJPajtOgCuhnn2uvMmP6F2g1gUmSQSsFZFq%2Fje7eblCIaKUghVYmWpBuBBMoQm6pnFy6Cu9fItSOW2ybXLgAtX7JsJIjIpmTrVOKGl%2FZXtYYzMxcXucInsSv7OJmJP9D9m51s48rj20OHy50J2BmhOn9Qs0LAJkBSgDWZPuEHsNsNZDJbTRVQRVRapQ05d1CVFmu4NK81eHGHc34xnH5ebFucQ%3D%3D&acctmode=0&pass_ticket&scene=27#wechat_redirect)
-
-X是未知，更是无限，邀您一道创造、见证和实现X-Plan，北斗逐光，安全有恒，未来无界，共创数字安全未来！
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_b0a5876d02ea" alt="" />
 
 ---
 
@@ -281,6 +268,19 @@ ctf技术交流。
 强网竞赛是面向高等院校和国内信息安全企业的国家级赛事，旨在通过高对抗的竞技比赛，发现锻造网络安全领域优秀人才，提高国家网络安全保障能力，提升全民网络安全意识。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_cf8bfd7de794" alt="" />
+
+---
+
+
+### [XPLAN](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MDY1ODU2Mw==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MDY1ODU2Mw==)
+
+[:camera_flash:【2022-10-10 18:43:59】](https://mp.weixin.qq.com/s?__biz=Mzg5MDY1ODU2Mw==&mid=2247489584&idx=1&sn=0ddf4524e089aa7f7bb50fbdf1b3a8c4&chksm=cfd8125cf8af9b4a8c71f47d901d98349a20e5c34ee8036496e560d470fb8f20d48b1389c076&scene=27&key=3b90a962c7574fe1c9a824fcbac67b6a674f57b62f4e9f32cc49162b5c26a453a2a62195cb42197c29beb0a02e2acf35479dcab54c62ff80a783ab281076235bbc7eef5bee64028339e18bd4d501cda97a8e1ae75c3f7af52b806ac9aa41936672374f2c2eb2fa2f4b97d4359126fe311bf9164988f33be1f4193164f9bfb863&ascene=15&uin=MTA3Mzc3OTIzNQ%3D%3D&devicetype=Windows+Server+2016+x64&version=63070517&lang=zh_CN&session_us=gh_2065400058ac&exportkey=n_ChQIAhIQn3yC7TVRw%2FppFNHpNcjEbxL5AQIE97dBBAEAAAAAAI4kJEnjR%2FQAAAAOpnltbLcz9gKNyK89dVj0Y2lU4GPYf9gIpmZhb7JleYrQMvzZqOX5PLsRIgOrTZQL5l7NSJVgLjJhyw1WJXoKHJPajtOgCuhnn2uvMmP6F2g1gUmSQSsFZFq%2Fje7eblCIaKUghVYmWpBuBBMoQm6pnFy6Cu9fItSOW2ybXLgAtX7JsJIjIpmTrVOKGl%2FZXtYYzMxcXucInsSv7OJmJP9D9m51s48rj20OHy50J2BmhOn9Qs0LAJkBSgDWZPuEHsNsNZDJbTRVQRVRapQ05d1CVFmu4NK81eHGHc34xnH5ebFucQ%3D%3D&acctmode=0&pass_ticket&scene=27#wechat_redirect)
+
+X是未知，更是无限，邀您一道创造、见证和实现X-Plan，北斗逐光，安全有恒，未来无界，共创数字安全未来！
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_b0a5876d02ea" alt="" />
 
 ---
 
