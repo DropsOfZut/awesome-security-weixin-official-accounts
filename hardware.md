@@ -1,9 +1,9 @@
 
 ### [IoVSecurity](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
 
-[:chart_with_upwards_trend:【0/33/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
+[:chart_with_upwards_trend:【0/30/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
 
-[:camera_flash:【2022-11-09 20:13:33】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247562357&idx=1&sn=e93e6cc53b79b65cbe239b324f76d35d&chksm=fc03a4bfcb742da98f1c971d46ef93185b78c3dac144893a486911fbbb5e340a9237cb409cb4&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-10 23:53:07】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247562494&idx=1&sn=e527412aafdc5c3f9ddcd0ac6dbf814e&chksm=fc03a434cb742d222325fd063e210197bc64fe721c2779a14cea1f38f61e15c35f05a6c847bb&scene=27#wechat_redirect)
 
 为智能网联汽车行业专业人士提供信息和网络安全技术、产品及服务等行业发展最新咨询
 
@@ -14,9 +14,9 @@
 
 ### [网络安全与取证研究](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTU3NTY0Nw==)
 
-[:chart_with_upwards_trend:【0/27/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTU3NTY0Nw==)
+[:chart_with_upwards_trend:【0/26/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTU3NTY0Nw==)
 
-[:camera_flash:【2022-11-09 17:02:29】](https://mp.weixin.qq.com/s?__biz=Mzg3NTU3NTY0Nw==&mid=2247485176&idx=1&sn=4fedfe865c1b1e591a9f3af67c529048&chksm=cf3e26c8f849afde4c03e53fa3152ed60c8d58ec44f9244964c01822e72acd5c739941b48594&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-10 11:40:15】](https://mp.weixin.qq.com/s?__biz=Mzg3NTU3NTY0Nw==&mid=2247485180&idx=1&sn=37b7fc92b17a626a20374831a584c521&chksm=cf3e26ccf849afda7723e47d89ab2db4212a3032de474514121b03f1efb4b2bec6fc8ae185cc&scene=27#wechat_redirect)
 
 旨于开展网络安全相关法律法规研究与电子数据取证技术研究，分享小知识、小技巧，共同学习提高，推进技术规范化建设。
 
@@ -29,7 +29,7 @@
 
 [:chart_with_upwards_trend:【0/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
 
-[:camera_flash:【2022-11-08 20:12:59】](https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&mid=2454929843&idx=1&sn=6c6eba89848bf0a1d4934593b4901414&chksm=b1670cfc861085ea8814f2db2953a8c91213c76749386bd4d9200d66b4862b3038b8d06e125c&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-10 19:21:57】](https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&mid=2454929871&idx=1&sn=3a8c5e691c0571ff6f6f0b6056f6fd97&chksm=b1670c808610859650c7daf32c70d8f4bd74b79ac97586dcb5d2ed45e1d8a40cf76e38485abb&scene=27#wechat_redirect)
 
 国内最大IoT物联网开发者社区，1000+行业资料分享；集结 AWS，阿里云，华为云，微软Azure，百度云 物联网专家；通信模组，物联网卡厂商；智能家居，工业制造，智慧城市解决方案商。
 

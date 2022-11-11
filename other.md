@@ -1,9 +1,9 @@
 
 ### [网络安全与黑客技术](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2MDQzMjY4NQ==)
 
-[:chart_with_upwards_trend:【0/24/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2MDQzMjY4NQ==)
+[:chart_with_upwards_trend:【0/23/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2MDQzMjY4NQ==)
 
-[:camera_flash:【2022-11-09 14:00:12】](https://mp.weixin.qq.com/s?__biz=Mzg2MDQzMjY4NQ==&mid=2247488913&idx=1&sn=889e619325e4e79c69c81244005e7f12&chksm=ce2725d3f950acc514a08dc97f8cd2b186fd4a2873cf5fe8092a53796b5f58f4ba1f4696af46&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-10 14:00:23】](https://mp.weixin.qq.com/s?__biz=Mzg2MDQzMjY4NQ==&mid=2247488916&idx=1&sn=4ec71e979fd42c6f5f024bbe157bc8a2&chksm=ce2725d6f950acc01f80a0ff1a86a697b7afb50f29f99e1ff5e18131f6906a3662c5dbfa05ac&scene=27#wechat_redirect)
 
 这里拥有神秘的黑客技术，等你来关注 ！
 
@@ -14,7 +14,7 @@
 
 ### [全球技术地图](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1OTExNDY1NQ==)
 
-[:chart_with_upwards_trend:【14/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1OTExNDY1NQ==)
+[:chart_with_upwards_trend:【12/18/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1OTExNDY1NQ==)
 
 [:camera_flash:【2022-11-08 17:10:16】](https://mp.weixin.qq.com/s?__biz=MzI1OTExNDY1NQ==&mid=2651598290&idx=1&sn=a8b9f65bbc5926f96267307e7df45e44&chksm=f1855e22c6f2d73441d3fb59daa3d1f67f2593f600863f1ddac22b0365770073ba9c1e1372bc&scene=27#wechat_redirect)
 
@@ -38,28 +38,28 @@
 ---
 
 
+### [网安国际](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4ODYzMjU0NQ==)
+
+[:chart_with_upwards_trend:【9/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4ODYzMjU0NQ==)
+
+[:camera_flash:【2022-11-10 15:43:40】](https://mp.weixin.qq.com/s?__biz=MzA4ODYzMjU0NQ==&mid=2652311828&idx=1&sn=91fa95bdd646cedcd25cc863439291a1&chksm=8bc48c9abcb3058cf4ee02a8a64f148c637cbfa7d400344be897a5080d0a9913ba3263c5e1d4&scene=27#wechat_redirect)
+
+网络安全研究国际学术论坛（InForSec），由活跃在安全学术圈的段海新教授、杨珉教授、韦韬博士、万涛博士等共同发起，在网络和系统安全领域建立一座沟通中国和国际、学术和工业、老师和学生的桥梁。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f7029e75bd21" alt="" />
+
+---
+
+
 ### [黑客技术与网络安全](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyMDEzMTA2MQ==)
 
-[:chart_with_upwards_trend:【0/13/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyMDEzMTA2MQ==)
+[:chart_with_upwards_trend:【0/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyMDEzMTA2MQ==)
 
 [:camera_flash:【2022-11-09 08:30:57】](https://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651163718&idx=1&sn=5c0055ca67ceeb2e75ebbcc04d234dab&chksm=8c2197dcbb561eca4c07a414af47bfe3ee1015f435da6cb461c8358c0624b70cf8abd317cbb4&scene=27#wechat_redirect)
 
 分享黑客技术和网络安全知识，让程序员了解黑客世界，学习黑客技术；普及上网和网络安全知识；帮助黑客、安全从业者、安全爱好者学习与成长。分享的所有技术和工具仅供学习之用。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4ad27a83ff73" alt="" />
-
----
-
-
-### [网安国际](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4ODYzMjU0NQ==)
-
-[:chart_with_upwards_trend:【9/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4ODYzMjU0NQ==)
-
-[:camera_flash:【2022-11-09 18:35:12】](https://mp.weixin.qq.com/s?__biz=MzA4ODYzMjU0NQ==&mid=2652311811&idx=1&sn=fd39479ec86f0ef0534c53631e573d61&chksm=8bc48c8dbcb3059b8237d6eb5b3abfc056422210f36dcb7a3f29712dae892aac7a5abbae9b91&scene=27#wechat_redirect)
-
-网络安全研究国际学术论坛（InForSec），由活跃在安全学术圈的段海新教授、杨珉教授、韦韬博士、万涛博士等共同发起，在网络和系统安全领域建立一座沟通中国和国际、学术和工业、老师和学生的桥梁。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f7029e75bd21" alt="" />
 
 ---
 
@@ -155,19 +155,6 @@
 ---
 
 
-### [安圈评](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwNTI4MTA1MQ==)
-
-[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwNTI4MTA1MQ==)
-
-[:camera_flash:【2022-10-27 15:32:00】](https://mp.weixin.qq.com/s?__biz=MzkwNTI4MTA1MQ==&mid=2247499645&idx=1&sn=1695d64672d52c5ea4d1195d04c83713&chksm=c0f89409f78f1d1f881115f8a66385fe2d6eb8bdc82969837e933d17e2ff1bcc4c11e7059413&scene=27#wechat_redirect)
-
-安全服务
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_c9e26ce99897" alt="" />
-
----
-
-
 ### [专注安管平台](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyNzMxOTAwMw==)
 
 [:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyNzMxOTAwMw==)
@@ -233,15 +220,15 @@
 ---
 
 
-### [绝对防御局](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMTE5MjQ3NA==)
+### [安圈评](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwNTI4MTA1MQ==)
 
-[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMTE5MjQ3NA==)
+[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwNTI4MTA1MQ==)
 
-[:camera_flash:【2022-10-11 22:13:59】](https://mp.weixin.qq.com/s?__biz=MzkxMTE5MjQ3NA==&mid=2247483873&idx=1&sn=e5ac5c9a802a16bd23c70b819ddd82fa&chksm=c11eb914f6693002e38fd499fac5ce4ab3e96b954f81114b08e5d8ed75a505a1fe730153615c&scene=27#wechat_redirect)
+[:camera_flash:【2022-10-27 15:32:00】](https://mp.weixin.qq.com/s?__biz=MzkwNTI4MTA1MQ==&mid=2247499645&idx=1&sn=1695d64672d52c5ea4d1195d04c83713&chksm=c0f89409f78f1d1f881115f8a66385fe2d6eb8bdc82969837e933d17e2ff1bcc4c11e7059413&scene=27#wechat_redirect)
 
-专注于入侵检测、红蓝对抗的安全内容分享
+安全服务
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_838daa0b2ceb" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_c9e26ce99897" alt="" />
 
 ---
 
@@ -762,6 +749,19 @@ NOVA SEC  新星安全 萌新启蒙之路 愿大家都能成为最闪耀的星�
 自2002年成立以来始终致力于计算机网络信息安全技术研究及网络安全服务的高新技术企业，至今已为全国2000+央企、军工、金融、医疗、能源、教育等客户提供包括安全咨询、安全解决方案、安全运营、安全运维、安全培训等全生命周期服务。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_fabf42af069c" alt="" />
+
+---
+
+
+### [绝对防御局](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMTE5MjQ3NA==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMTE5MjQ3NA==)
+
+[:camera_flash:【2022-10-11 22:13:59】](https://mp.weixin.qq.com/s?__biz=MzkxMTE5MjQ3NA==&mid=2247483873&idx=1&sn=e5ac5c9a802a16bd23c70b819ddd82fa&chksm=c11eb914f6693002e38fd499fac5ce4ab3e96b954f81114b08e5d8ed75a505a1fe730153615c&scene=27#wechat_redirect)
+
+专注于入侵检测、红蓝对抗的安全内容分享
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_838daa0b2ceb" alt="" />
 
 ---
 
