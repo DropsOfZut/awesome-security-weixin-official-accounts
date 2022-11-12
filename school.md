@@ -1,9 +1,9 @@
 
 ### [NISL实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxMTEwOTA3OA==)
 
-[:chart_with_upwards_trend:【13/18/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxMTEwOTA3OA==)
+[:chart_with_upwards_trend:【13/17/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxMTEwOTA3OA==)
 
-[:camera_flash:【2022-11-09 17:00:58】](https://mp.weixin.qq.com/s?__biz=MzUxMTEwOTA3OA==&mid=2247484324&idx=2&sn=3344f491ca346c53db1fbbac623369b9&chksm=f979f11dce0e780b07085b147add00a6d626850147016167fb22d11bfef578d86e1508d977c7&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-11 17:00:37】](https://mp.weixin.qq.com/s?__biz=MzUxMTEwOTA3OA==&mid=2247484326&idx=1&sn=2273698f7d6e55b92bb630bac02e99a7&chksm=f979f11fce0e78092c40f6162ea944153124f13a393f12372f948d8d42db5c73ad2b71bce81c&scene=27#wechat_redirect)
 
 网络与信息安全实验室(NISL@THU)，专注于网络、系统、应用、人工智能安全教学与研究，在国际四大安全会议发表三十余篇论文，成果在业界产生了广泛影响力。孕育了蓝莲花、紫荆花等知名战队，发起了网安国际学术论坛InForSec。
 
@@ -14,9 +14,9 @@
 
 ### [启明星辰网络空间安全教育](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
 
-[:chart_with_upwards_trend:【0/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
+[:chart_with_upwards_trend:【0/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
 
-[:camera_flash:【2022-11-10 16:55:09】](https://mp.weixin.qq.com/s?__biz=MzUzNDg0NTc1NA==&mid=2247495334&idx=1&sn=64e26069044b53dc887c6e3a5f6c0cac&chksm=fa8c2ef3cdfba7e575c89cafbe2c1d7cf5b84a5364bca5c051c4cc969475484864ce4f22b64d&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-11 11:45:02】](https://mp.weixin.qq.com/s?__biz=MzUzNDg0NTc1NA==&mid=2247495349&idx=1&sn=4b4044a9c5249fe5fc6a7e4bb621a245&chksm=fa8c2ee0cdfba7f674079e24a98edbf0abbcb1eab9c916e55011ac2930250c6de655f2de5f3e&scene=27#wechat_redirect)
 
 启明星辰网络空间安全学院以国家网络安全事业发展为使命，依托启明星辰集团多年的技术沉淀及实践积累，提供网络安全人才体系构建与信息安全技术及能力提升教育培训，为建设网络强国提供有力的人才支撑。
 
@@ -27,9 +27,9 @@
 
 ### [大学生网络安全尖锋训练营](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
 
-[:chart_with_upwards_trend:【0/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
+[:chart_with_upwards_trend:【0/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
 
-[:camera_flash:【2022-11-10 09:00:13】](https://mp.weixin.qq.com/s?__biz=MzUzODkwMDMxNA==&mid=2247504300&idx=1&sn=b84270fe49944cd70f71d617619a10b0&chksm=fad23399cda5ba8f739120e0836eabba9e5b64d28137ed53750efd3edd10f4ba93961f5ea96a&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-11 09:40:52】](https://mp.weixin.qq.com/s?__biz=MzUzODkwMDMxNA==&mid=2247504308&idx=1&sn=cd93e0ca6eb43ba81b8c9c52ab642c39&chksm=fad23381cda5ba9788bb66a46f2e4aa6acaea4727cf51785b2f28be76fd678e124c14a956a85&scene=27#wechat_redirect)
 
 百所高校、百家用人单位、百名尖锋导师，携手打造定制化人才培养模式，通过导师制职业规划和封闭式岗位实训，补足知识短板、提高实战能力，培养创新型、实用型网络安全尖锋人才。
 
@@ -129,19 +129,6 @@
 ---
 
 
-### [复旦白泽战队](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
-
-[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
-
-[:camera_flash:【2022-10-12 23:51:45】](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247485969&idx=1&sn=91e5aaf6bfb9d2fc86354c46c73e2fc1&chksm=fdeb8e6fca9c07791c34f483bbe13c710e154d4cd1586f9a658e6b6d6752f9cbc9c2fd36eaa7&scene=27#wechat_redirect)
-
-以复旦大学系统安全实验室学生为主成立的安全攻防战队，分享最新研究成果，交流系统安全攻防领域技巧。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f1bf07da06d8" alt="" />
-
----
-
-
 ### [蝰蛇安全实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NzgyNjUwNA==)
 
 [:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NzgyNjUwNA==)
@@ -185,7 +172,7 @@
 
 [:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyODMyODMyOA==)
 
-[:camera_flash:【2022-11-09 17:23:50】](https://mp.weixin.qq.com/s?__biz=MzkyODMyODMyOA==&mid=2247485805&idx=1&sn=9898855e23d1f6fe4eb3a14ba6b8f44c&chksm=c21b368af56cbf9c824e3c5ada76caf9db2fbc9be97a8b6f0bd36d0039067729fe7b2ace6f8c&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-12 01:54:48】](https://mp.weixin.qq.com/s?__biz=MzkyODMyODMyOA==&mid=2247485825&idx=1&sn=d0fda27a4d4445f1ac9edc59308b3a11&chksm=c21b3666f56cbf701e6e2a2c18c4d58f00dddc666be629a8bdce4bd5541282fd2c0b907b5aa8&scene=27#wechat_redirect)
 
 珠天PearlSky，意为珠科安全的一片天。珠天的队员都来自于珠海科技学院热爱钻研网络安全技术的同学。我们希望我们能够让更多人了解网络安全，更欢迎各位同学加入我们一起交流学习。本公众号会发布一些学习心得，经验总结等等一系列文章。
 
@@ -242,6 +229,19 @@
 广东外语外贸大学网络安全实验室信息推送和资源平台
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8176da819e03" alt="" />
+
+---
+
+
+### [复旦白泽战队](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
+
+[:camera_flash:【2022-10-12 23:51:45】](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247485969&idx=1&sn=91e5aaf6bfb9d2fc86354c46c73e2fc1&chksm=fdeb8e6fca9c07791c34f483bbe13c710e154d4cd1586f9a658e6b6d6752f9cbc9c2fd36eaa7&scene=27#wechat_redirect)
+
+以复旦大学系统安全实验室学生为主成立的安全攻防战队，分享最新研究成果，交流系统安全攻防领域技巧。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f1bf07da06d8" alt="" />
 
 ---
 
