@@ -1,9 +1,9 @@
 
 ### [汇编语言](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxNDcwOTcwOQ==)
 
-[:chart_with_upwards_trend:【0/135/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxNDcwOTcwOQ==)
+[:chart_with_upwards_trend:【0/183/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxNDcwOTcwOQ==)
 
-[:camera_flash:【2022-11-03 11:54:59】](https://mp.weixin.qq.com/s?__biz=MzIxNDcwOTcwOQ==&mid=2247494062&idx=1&sn=71c8d7d121a35304e0840d09f99a2477&chksm=97a1cd0ca0d6441a9b6bee038519ed7a41aec2f2ee9e1035ef5575275f2f56ad4acfc5ceb261&scene=27&key=3b90a962c7574fe1b6557004f311296eaee403d326d45ccb51f6e06fdca2950ceefadb51b05af344dd5a1fc71a315b71fb50de72d01e8c31391f81863d92e71b6b634a2064be56871d6b793cc4872507ed5f6f20446be4dd54b2c1db057e15ee3ddeb1f2722efa3b3636c052ee26cb96c8b0de22577948b80eb13a3052cf446f&ascene=15&uin=MTA3Mzc3OTIzNQ%3D%3D&devicetype=Windows+Server+2016+x64&version=63070517&lang=zh_CN&session_us=gh_d32004c56b84&exportkey=n_ChQIAhIQOObj4dBt1crf%2BJhUsR23ZRL5AQIE97dBBAEAAAAAAODAFx35Zv8AAAAOpnltbLcz9gKNyK89dVj0JMpa5lzSV82Plv%2BNUxkbd%2BaxnILntD6eW74f87UwN4W2ukY90T6Gpa%2BShTMgKjzdPr2xLzL2gM%2FzxMCyrrLfZGXI6Is5qpXQDZkhuIhQKv3%2FeLvTU0MNw6O6iRbJOitfkDw8SNpb%2FM8GcHoXyCR70%2FD534j5B7aClDmhqs1RhiFYnKpuEavMa%2Fr1zixUb1XCF8HmhhAZOhZgSdSFV%2FyZfdvDHDtIzcxrL%2FAR8%2FMNjbCqRGwu5drzR7HffNRZIJyv2G6WDPlre5pU%2Fm5E5tVvaZQKUA%3D%3D&acct&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-12 12:26:26】](https://mp.weixin.qq.com/s?__biz=MzIxNDcwOTcwOQ==&mid=2247494105&idx=1&sn=a789bd1a2d20fa31ab02cf14c1029c28&chksm=97a1cd7ba0d6446d7623169b3ce68d7e7c719d843f190cf5691447c914a875e1c5ba6fddc912&scene=27&key=8a0e174ffd98ef0f88e3e6b6002c9ff21e6eb468b28a852a5aa81aada674678d663438e9787f3a342fa3ce3b678ef8d97340ac12773cd652c0d6e28ca8ef7c43cd6fe54696eb9c783650a32c04e1d81564aac90f2e558a242c94eef7b98138cacb34229f331d15d515a5c1a83c6c2117d1c8801de98305df3379ea4794274d46&ascene=15&uin=MzgxODQ4MjMz&devicetype=Windows+Server+2016+x64&version=63070517&lang=zh_CN&session_us=gh_11277f297993&exportkey=n_ChQIAhIQgsZUQNrjMrnxMIDpuGNfBhL5AQIE97dBBAEAAAAAAOcnGtnySLQAAAAOpnltbLcz9gKNyK89dVj0NHV5Sub2eVhByXv7BqhZgTjqzXC0CNySxB6FGWExPyXGpf87bKGm2Atm7cQ7%2BY5uFPUkw%2FRoUDKS9RHe9qrhDGCkfGmikB2xNds8jSzvePrVtB%2B42bohBZISwjs8bCPVWciLbV5BmiYe7fQrcZ3YPzv%2BuM8iguYdwj6RF6zkgddRSGjdfpKTQ8TZMlkUfXjaWgd2DqdpRZnsBL059hlP9%2Fakk7chKonnGlSUu4qLE%2BWyHOeBVdaeO5sZJtyIepUY8mBaelgQk3zfwczBdecgzNhZMw%3D%3D&acctmode=0&pass_ticket=JEC&scene=27#wechat_redirect)
 
 致力于汇编教程和逆向破解之路
 
@@ -14,9 +14,9 @@
 
 ### [看雪学苑](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTc2MDYxMw==)
 
-[:chart_with_upwards_trend:【15/74/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTc2MDYxMw==)
+[:chart_with_upwards_trend:【24/110/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTc2MDYxMw==)
 
-[:camera_flash:【2022-11-11 18:29:06】](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458483404&idx=1&sn=a75fd608eb28013525fc031631389488&chksm=b18e4a4686f9c350fa76ae2f3b56b65cd9bee86bfa3dcd793add37fd6d9e2f5fc5f179cf01da&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-12 18:08:37】](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458483667&idx=1&sn=4ab588c5ea73f7b5fef297ec396f777e&chksm=b18e4b5986f9c24f4933a94c0f97361247c5602c18cfc04727c025125f35e435a4e86b5cfbcc&scene=27#wechat_redirect)
 
 致力于移动与安全研究的开发者社区，看雪学院(kanxue.com)官方微信公众帐号。
 
@@ -27,7 +27,7 @@
 
 ### [吾爱破解论坛](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Mjc3MDM2Mw==)
 
-[:chart_with_upwards_trend:【3/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Mjc3MDM2Mw==)
+[:chart_with_upwards_trend:【4/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Mjc3MDM2Mw==)
 
 [:camera_flash:【2022-11-06 12:01:07】](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651138613&idx=1&sn=6ee9b89f3e4c2e5bf641379ed53a91d1&chksm=bd50ba618a27337743b0aee76a3df1331ebb475dbd6efa2a2d86d38736206a13439418dba0b4&scene=27#wechat_redirect)
 
@@ -47,6 +47,19 @@
 「FuzzWiki」致力于成为国内最专业的模糊测试技术论坛平台，专注于分享模糊测试领域前沿技术、深度文章、行业资讯、最新突破，为专家学者、从业者、相关行业安全人员和决策者构筑完善的知识图谱，提供交流模糊测试新技术、新知识、新工具的开放平台。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_fcf21e658324" alt="" />
+
+---
+
+
+### [天问记事簿](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzMTIwMDQwMA==)
+
+[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzMTIwMDQwMA==)
+
+[:camera_flash:【2022-11-07 22:47:08】](https://mp.weixin.qq.com/s?__biz=MzkzMTIwMDQwMA==&mid=2247484758&idx=1&sn=25bf234b31d79e65da81bac272421845&chksm=c26fe9a9f51860bf9fd77247dfee9fef2883b341196d8e5479cbb50fdb34b505ec93a259f5ff&scene=27#wechat_redirect)
+
+二进制安全学习
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_92889635e9ef" alt="" />
 
 ---
 
@@ -216,19 +229,6 @@ pWn3d bY BiGSKidd3r&amp;FuzZer&amp;A2pter&amp;pWn3r rULe4Ker4pwn 65535 tim3s.
 “知其白守其黑，用手中的矛铸心中的盾&quot;,  逆向、安全、加固、风控、分享。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_fdf8c8d2d9a8" alt="" />
-
----
-
-
-### [天问记事簿](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzMTIwMDQwMA==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzMTIwMDQwMA==)
-
-[:camera_flash:【2022-11-07 22:47:08】](https://mp.weixin.qq.com/s?__biz=MzkzMTIwMDQwMA==&mid=2247484758&idx=1&sn=25bf234b31d79e65da81bac272421845&chksm=c26fe9a9f51860bf9fd77247dfee9fef2883b341196d8e5479cbb50fdb34b505ec93a259f5ff&scene=27#wechat_redirect)
-
-二进制安全学习
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_92889635e9ef" alt="" />
 
 ---
 
