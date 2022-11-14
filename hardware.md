@@ -1,9 +1,9 @@
 
 ### [网络安全与取证研究](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTU3NTY0Nw==)
 
-[:chart_with_upwards_trend:【0/27/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTU3NTY0Nw==)
+[:chart_with_upwards_trend:【0/26/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTU3NTY0Nw==)
 
-[:camera_flash:【2022-11-12 19:55:59】](https://mp.weixin.qq.com/s?__biz=Mzg3NTU3NTY0Nw==&mid=2247485191&idx=1&sn=c4043c7d3057199f0d56ce8a2bb35b2f&chksm=cf3e2737f849ae213c4aa0c7575625a2d44a4c5ddc5c4fe0853fa6b8cbd156491ff1d33decd0&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-13 14:06:54】](https://mp.weixin.qq.com/s?__biz=Mzg3NTU3NTY0Nw==&mid=2247485198&idx=1&sn=c8b1123e83dbb4fa6e5c59eb8a93baa3&chksm=cf3e273ef849ae28d1679ef5c504a8b2aba9358e70334749336a833b3fe17e489818495a3e33&scene=27#wechat_redirect)
 
 旨于开展网络安全相关法律法规研究与电子数据取证技术研究，分享小知识、小技巧，共同学习提高，推进技术规范化建设。
 
@@ -14,9 +14,9 @@
 
 ### [IoVSecurity](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
 
-[:chart_with_upwards_trend:【0/24/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
+[:chart_with_upwards_trend:【0/21/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
 
-[:camera_flash:【2022-11-12 19:01:51】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247562663&idx=1&sn=15c40d172e4a2ad5d368fc2b507c617b&chksm=fc03a56dcb742c7b461ffb9854992bd4a22463411dfac5da6f2963ec91bd4d59b5347a2010bb&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-13 16:47:37】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247562668&idx=1&sn=e3bb154af75c8223e6892df8e78302b9&chksm=fc03a566cb742c704ad246cf75910996b2e7df9f60b5332afad3ea93e01edacf024bbe08fd6b&scene=27#wechat_redirect)
 
 为智能网联汽车行业专业人士提供信息和网络安全技术、产品及服务等行业发展最新咨询
 
@@ -40,9 +40,9 @@
 
 ### [IoT物联网技术](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
 
-[:chart_with_upwards_trend:【0/13/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
+[:chart_with_upwards_trend:【0/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
 
-[:camera_flash:【2022-11-12 19:21:44】](https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&mid=2454929893&idx=1&sn=914927f68448b5b59d344c10c6912c9b&chksm=b1670caa861085bc70e137eb9a8d8a7950d3ffb47acebf9174f602ff4b16d664cf9628b6ff76&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-13 19:22:37】](https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&mid=2454929924&idx=1&sn=82154b5476192e92891ea68752fa25b7&chksm=b1670f4b8610865d8dd4b660f2a8ef68cccaf40af26459992c214bd1ca5c8d4ba6f62fe81d71&scene=27#wechat_redirect)
 
 国内最大IoT物联网开发者社区，1000+行业资料分享；集结 AWS，阿里云，华为云，微软Azure，百度云 物联网专家；通信模组，物联网卡厂商；智能家居，工业制造，智慧城市解决方案商。
 
@@ -90,19 +90,6 @@
 ---
 
 
-### [电子取证及可信应用协创中心](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxODA3NDc3NA==)
-
-[:chart_with_upwards_trend:【1/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxODA3NDc3NA==)
-
-[:camera_flash:【2022-11-12 16:23:21】](https://mp.weixin.qq.com/s?__biz=MzAxODA3NDc3NA==&mid=2247485166&idx=1&sn=813787a842350ca5b0772462776eed54&chksm=9bda9b17acad12016b25f168147fb9c908b5e65aa2459bf26379d04f35c48097097923709256&scene=27#wechat_redirect)
-
-电子取证及可信应用湖北省协同创新中心（培育）的订阅号。介绍和宣传法庭科学中的电子数据取证（Digital Forensics）涉及的科学知识、技术实践和创新应用，推动电子数据取证的普及和发展。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_16885e328471" alt="" />
-
----
-
-
 ### [网安杂谈](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwMTMzMDUwNg==)
 
 [:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwMTMzMDUwNg==)
@@ -125,6 +112,19 @@
 分享电子取证及司法鉴定相关知识
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_3cc4dcce2d29" alt="" />
+
+---
+
+
+### [电子取证及可信应用协创中心](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxODA3NDc3NA==)
+
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxODA3NDc3NA==)
+
+[:camera_flash:【2022-11-12 16:23:21】](https://mp.weixin.qq.com/s?__biz=MzAxODA3NDc3NA==&mid=2247485166&idx=1&sn=813787a842350ca5b0772462776eed54&chksm=9bda9b17acad12016b25f168147fb9c908b5e65aa2459bf26379d04f35c48097097923709256&scene=27#wechat_redirect)
+
+电子取证及可信应用湖北省协同创新中心（培育）的订阅号。介绍和宣传法庭科学中的电子数据取证（Digital Forensics）涉及的科学知识、技术实践和创新应用，推动电子数据取证的普及和发展。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_16885e328471" alt="" />
 
 ---
 
