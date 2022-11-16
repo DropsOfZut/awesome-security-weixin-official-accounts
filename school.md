@@ -16,24 +16,11 @@
 
 [:chart_with_upwards_trend:【0/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
 
-[:camera_flash:【2022-11-11 11:45:02】](https://mp.weixin.qq.com/s?__biz=MzUzNDg0NTc1NA==&mid=2247495349&idx=1&sn=4b4044a9c5249fe5fc6a7e4bb621a245&chksm=fa8c2ee0cdfba7f674079e24a98edbf0abbcb1eab9c916e55011ac2930250c6de655f2de5f3e&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-15 16:55:34】](https://mp.weixin.qq.com/s?__biz=MzUzNDg0NTc1NA==&mid=2247495370&idx=1&sn=78c7d687b5b607c0501fc6bb56ea3be4&chksm=fa8c2e9fcdfba7897f1059826426daef50e405711ed5c0fe9cc9e8bf667367385e98383bf385&scene=27#wechat_redirect)
 
 启明星辰网络空间安全学院以国家网络安全事业发展为使命，依托启明星辰集团多年的技术沉淀及实践积累，提供网络安全人才体系构建与信息安全技术及能力提升教育培训，为建设网络强国提供有力的人才支撑。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_310250868fd4" alt="" />
-
----
-
-
-### [大学生网络安全尖锋训练营](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
-
-[:chart_with_upwards_trend:【0/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
-
-[:camera_flash:【2022-11-11 09:40:52】](https://mp.weixin.qq.com/s?__biz=MzUzODkwMDMxNA==&mid=2247504308&idx=1&sn=cd93e0ca6eb43ba81b8c9c52ab642c39&chksm=fad23381cda5ba9788bb66a46f2e4aa6acaea4727cf51785b2f28be76fd678e124c14a956a85&scene=27#wechat_redirect)
-
-百所高校、百家用人单位、百名尖锋导师，携手打造定制化人才培养模式，通过导师制职业规划和封闭式岗位实训，补足知识短板、提高实战能力，培养创新型、实用型网络安全尖锋人才。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_b54960a6ea07" alt="" />
 
 ---
 
@@ -77,6 +64,19 @@
 ---
 
 
+### [大学生网络安全尖锋训练营](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
+
+[:chart_with_upwards_trend:【0/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
+
+[:camera_flash:【2022-11-11 09:40:52】](https://mp.weixin.qq.com/s?__biz=MzUzODkwMDMxNA==&mid=2247504308&idx=1&sn=cd93e0ca6eb43ba81b8c9c52ab642c39&chksm=fad23381cda5ba9788bb66a46f2e4aa6acaea4727cf51785b2f28be76fd678e124c14a956a85&scene=27#wechat_redirect)
+
+百所高校、百家用人单位、百名尖锋导师，携手打造定制化人才培养模式，通过导师制职业规划和封闭式岗位实训，补足知识短板、提高实战能力，培养创新型、实用型网络安全尖锋人才。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_b54960a6ea07" alt="" />
+
+---
+
+
 ### [连天教育](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNTk2MDAwNA==)
 
 [:chart_with_upwards_trend:【1/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNTk2MDAwNA==)
@@ -86,19 +86,6 @@
 连天教育，是河南信安世纪科技有限公司旗下独立信息安全培训组织，主要面向国内外信息安全认证和职业技能培训，涉及CISP、CISM、CISSP、CISA、信息安全意识、风险评估、渗透测试、CTF竞赛、Web安全等。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_9fe1a6f307b0" alt="" />
-
----
-
-
-### [珠天PearlSky](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyODMyODMyOA==)
-
-[:chart_with_upwards_trend:【1/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyODMyODMyOA==)
-
-[:camera_flash:【2022-11-12 01:54:48】](https://mp.weixin.qq.com/s?__biz=MzkyODMyODMyOA==&mid=2247485825&idx=1&sn=d0fda27a4d4445f1ac9edc59308b3a11&chksm=c21b3666f56cbf701e6e2a2c18c4d58f00dddc666be629a8bdce4bd5541282fd2c0b907b5aa8&scene=27#wechat_redirect)
-
-珠天PearlSky，意为珠科安全的一片天。珠天的队员都来自于珠海科技学院热爱钻研网络安全技术的同学。我们希望我们能够让更多人了解网络安全，更欢迎各位同学加入我们一起交流学习。本公众号会发布一些学习心得，经验总结等等一系列文章。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a4b0a923e487" alt="" />
 
 ---
 
@@ -138,6 +125,19 @@
 湖南农业大学蝰蛇安全实验室
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_638eab2e92c7" alt="" />
+
+---
+
+
+### [珠天PearlSky](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyODMyODMyOA==)
+
+[:chart_with_upwards_trend:【1/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyODMyODMyOA==)
+
+[:camera_flash:【2022-11-12 01:54:48】](https://mp.weixin.qq.com/s?__biz=MzkyODMyODMyOA==&mid=2247485825&idx=1&sn=d0fda27a4d4445f1ac9edc59308b3a11&chksm=c21b3666f56cbf701e6e2a2c18c4d58f00dddc666be629a8bdce4bd5541282fd2c0b907b5aa8&scene=27#wechat_redirect)
+
+珠天PearlSky，意为珠科安全的一片天。珠天的队员都来自于珠海科技学院热爱钻研网络安全技术的同学。我们希望我们能够让更多人了解网络安全，更欢迎各位同学加入我们一起交流学习。本公众号会发布一些学习心得，经验总结等等一系列文章。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a4b0a923e487" alt="" />
 
 ---
 

@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【0/107/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
 
-[:camera_flash:【2022-11-13 15:54:39】](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247586100&idx=1&sn=9ce18aaf1280c88fe03a56035b606bc8&chksm=ec57816fdb200879858b86f9963ec4dc214c7574a5e1ca03be8e7c3d636576f30a64af41f49d&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-15 17:44:05】](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247586202&idx=1&sn=b2f1f3ed32da5328e6ac96aac890955a&chksm=ec5781c1db2008d738c7a4f6218a92d6849cf0dbd8e57fd9e4384cbc1452b0937dfef5251c26&scene=27#wechat_redirect)
 
 商密君是全国密码行业头部公众号，旨在宣传推广《密码法》，普及商用密码知识，解读密码政策，分享商用密码行业的最新动态，为密码产业产学研用做好宣传服务，连接密码全行业精英，推动密码技术在数字经济各行业的应用和创新。
 
@@ -29,7 +29,7 @@
 
 [:chart_with_upwards_trend:【5/30/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
 
-[:camera_flash:【2022-11-13 23:30:56】](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247496155&idx=1&sn=97074648af4422c38644825cc9b26d5a&chksm=c1448366f6330a7016ab9498c852721b1bdf775c2231ee8efeb83217a97c65dd1f2210d5ea76&scene=27&key=aaa38460719a42c1d0ff5dac6bd8d584a04a1803232aa5291ca1f2b76d6f379ce82e34bdd7c0ea89f2887585001b5bfe11954088c25f22325e543125dbd159fa302d0e09a297549591ddc884f720ade08253874b0eb44dd95af232d2fc369b9220dfd8414d870b1c38376fb96220bc40a886b72afd6f28e80e9cc4fe0c6ae7ae&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+Server+2016+x64&version=63070517&lang=zh_CN&session_us=gh_ae9ab8305da0&exportkey=n_ChQIAhIQX%2FI0DFRG8o%2FN9zS4FWJathLtAQIE97dBBAEAAAAAAJKDOP%2FQoZ4AAAAOpnltbLcz9gKNyK89dVj08vbbLPYMD5suQVJovuRpzJHE2x%2BIsd5Fgurqj1JcCy4VbA2e4pdu%2FORNggDb%2F%2BxQqiwKpnZ2%2BBkNjbRnygaR0asVKwMGLsQnaPCRpAyA0NJCgFh8lXyC4c8otqh5K1%2FaKHsSAqr1KzPrxjAOneYUGhCTCcPN6miaHTJRMrrs%2BGzb%2FOfWmmlhQw%2BwFMwuMcbG9DcyjppS5BpNdJYCDDa8aGpntimq0LgdBy0lN8sOwQT6frg8oF781pQiSxsQotW2tTvk4vSbLg%3D%3D&acctmode=0&pass_ticket=GpWD%&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-15 23:30:33】](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247496165&idx=1&sn=8eebdc4bc446705fc36c513df9834080&chksm=c1448358f6330a4e6bfeaa03b49f59489b3b1a57d33fa7713cbe07773e8ab9a6d82615ca8e03&scene=27#wechat_redirect)
 
 中国数字产业领域中立的第三方调研机构，提供网络安全行业的调查、研究与咨询服务。
 
@@ -55,7 +55,7 @@
 
 [:chart_with_upwards_trend:【0/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2NDI5MTg4MA==)
 
-[:camera_flash:【2022-11-09 17:54:45】](https://mp.weixin.qq.com/s?__biz=MzI2NDI5MTg4MA==&mid=2247492433&idx=1&sn=832aec3a8b6244ce18cbeeb83ceebd9d&chksm=eaac7016dddbf9006cbd0fc0f3b7853adc319a8dea3ecdbde8c06ee7898b96a2c3e01475b9aa&scene=27&key=b99acdc152d359f7e339c43f9c063e2a11d16bb6ca3685750b31ce026ad1cd397a7f9a72f9fae7929da921458ca12eb345b2a03043dd18671651834ba964c807a8492817634c1e3817b01ca4f04294c3d2038c074e0a7bee7ac10bf3e2c2c510df7c46310bfeb2662e05277e7fdf825531e25724c6bf784b2c54849e34925ff1&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+Server+2016+x64&version=63070517&lang=zh_CN&session_us=gh_8acffc8c80d6&exportkey=n_ChQIAhIQVz%2FZT2r6HM4GzkRusAa%2BqBL4AQIE97dBBAEAAAAAAFWPF2%2BNB%2FMAAAAOpnltbLcz9gKNyK89dVj0SIkhjtNrpPKBfFFdF4Yv9FAMK6zT2IsJw90ehbuTiZddINiKj7%2FEcqko2GkR1%2Bz8ZCPEywUiPdthQ%2BkkFSDfe74PvMItSdGdc03fxCMkVv2kDHnZMyJegkyG4Sd%2BY0elmsG3pvMfBZpM84IqV2yhddWFWrJ3kaHjMbJ2ZBeKcMlVUH1xw6inSUOt4pMcRwO3C3aehUJQY3Nm9Z2ZYLgmHXLNUfIe%2By01%2BsRFVt2G5cfV53Uzjia%2FPCjvHhJhjt%2BuiVw5FLK4yi72GHizczDkKe6w&acctmode=0&pass_tick&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-15 17:22:09】](https://mp.weixin.qq.com/s?__biz=MzI2NDI5MTg4MA==&mid=2247492444&idx=1&sn=83c7589c75517b7c1cc6452b90f0a2a3&chksm=eaac701bdddbf90db66a90c38855ab1e0391e786078f3f6f3cd066257f3fe05dbd275ba70048&scene=27#wechat_redirect)
 
 该账号由绿盟科技金融事业部维护，用于发布金融行业相关安全资讯等内容
 
@@ -68,7 +68,7 @@
 
 [:chart_with_upwards_trend:【0/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0Njg4NzE3MQ==)
 
-[:camera_flash:【2022-11-12 12:00:59】](https://mp.weixin.qq.com/s?__biz=MzI0Njg4NzE3MQ==&mid=2247490249&idx=1&sn=c8095cf4ed105458b8330ea08badc2c3&chksm=e9b93ca5deceb5b36c3cb7869898618a020c537d3edf67b327b3fe8bb15f53f40affd3e7d29d&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-15 16:30:09】](https://mp.weixin.qq.com/s?__biz=MzI0Njg4NzE3MQ==&mid=2247490272&idx=1&sn=02b2bbfb7cb03b6ddd6059c45fdf5477&chksm=e9b93c8cdeceb59aaf4433ed279ade1f9ed5456926257eef79e2ff087d1df7b54b95ab447e1f&scene=27#wechat_redirect)
 
 vivo全新的安全品牌，有人文温度的科技新媒体，致力于让亿万用户享受安全便捷的数字生活。
 
@@ -125,19 +125,6 @@ vivo全新的安全品牌，有人文温度的科技新媒体，致力于让亿�
 关于功能安全、信息安全、系统工程方法的工作感悟，资讯分享。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_956e8befd9f9" alt="" />
-
----
-
-
-### [君哥的体历](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MjQ1NTA4MA==)
-
-[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MjQ1NTA4MA==)
-
-[:camera_flash:【2022-11-14 15:48:12】](https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247489054&idx=1&sn=50733d0bf99cfc25ef81f254ab6ebfa8&chksm=ea4bbc59dd3c354f6030e3ea0bb8a91e57e3a1313dd2b9eb9e47d26e450aab602a85ae015f93&scene=27#wechat_redirect)
-
-闲暇时间，逼迫自己，记录分享体验与经历，不求正确统一，但求真、善、美。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_aa4d8db71365" alt="" />
 
 ---
 
@@ -242,6 +229,19 @@ OWASP中国，SecZone互联网安全研究中心官方平台
 全面深入解读安全架构、前沿安全技术、安全报告解读、安全趋势详解。做业内最专业、看透“安全本质”的纯安全分享公众号。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_642251d04229" alt="" />
+
+---
+
+
+### [君哥的体历](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MjQ1NTA4MA==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MjQ1NTA4MA==)
+
+[:camera_flash:【2022-11-14 15:48:12】](https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247489054&idx=1&sn=50733d0bf99cfc25ef81f254ab6ebfa8&chksm=ea4bbc59dd3c354f6030e3ea0bb8a91e57e3a1313dd2b9eb9e47d26e450aab602a85ae015f93&scene=27#wechat_redirect)
+
+闲暇时间，逼迫自己，记录分享体验与经历，不求正确统一，但求真、善、美。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_aa4d8db71365" alt="" />
 
 ---
 
