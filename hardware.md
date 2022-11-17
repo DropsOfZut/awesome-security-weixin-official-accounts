@@ -1,7 +1,7 @@
 
 ### [网络安全与取证研究](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTU3NTY0Nw==)
 
-[:chart_with_upwards_trend:【0/24/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTU3NTY0Nw==)
+[:chart_with_upwards_trend:【0/23/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTU3NTY0Nw==)
 
 [:camera_flash:【2022-11-15 09:00:13】](https://mp.weixin.qq.com/s?__biz=Mzg3NTU3NTY0Nw==&mid=2247485207&idx=1&sn=be501f3f1eebf5816a063ebd9b331818&chksm=cf3e2727f849ae31e2dd0a18d372acd5737ea0e8c116f2139fee024620c533b459ce03e8339c&scene=27#wechat_redirect)
 
@@ -27,9 +27,9 @@
 
 ### [IoVSecurity](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
 
-[:chart_with_upwards_trend:【0/15/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
+[:chart_with_upwards_trend:【0/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
 
-[:camera_flash:【2022-11-15 13:46:10】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247562910&idx=1&sn=4dd1c1a1ba3d4028da552187343ce18e&chksm=fc03a654cb742f42e7935113e57c35320c487ad7758620113cc63d7ca27bbdacc4e4dd569d51&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-16 16:11:01】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247562997&idx=1&sn=c896a63a1df5471d42a71b7d4ab7ba5a&chksm=fc03a63fcb742f2963c10a35c8748419be8c69a2f5314e7e6b9ae783ccd912233a1799bccbac&scene=27#wechat_redirect)
 
 为智能网联汽车行业专业人士提供信息和网络安全技术、产品及服务等行业发展最新咨询
 
