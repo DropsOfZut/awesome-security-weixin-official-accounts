@@ -1,9 +1,9 @@
 
 ### [哔哩哔哩技术](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3Njc0NTgwMg==)
 
-[:chart_with_upwards_trend:【15/27/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3Njc0NTgwMg==)
+[:chart_with_upwards_trend:【15/26/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3Njc0NTgwMg==)
 
-[:camera_flash:【2022-11-18 12:00:57】](https://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&mid=2247491746&idx=1&sn=74ee78f19a0d38f27d9ad60acdc09b9e&chksm=cf2f2587f858ac910fadd0b2d98291ecc3554d41b9f3af0eaf5e6ccd0465df4a15f864c79909&scene=27&key=aaa38460719a42c1a57bffb012a012e0b2b1733f3e5f9c634152bc53f3b9e674c3940d576c52328fee638a669f020c30f02bd4c1035a53e1306bcb1ef2c33cd8202682112672134575887eda3d076ed8be34f95a2ba09296a0aa022c05b8cb6ec21d2ea2df27a66d13d75349dbd32640f1358d22c092081d1ab8ff8fb5cf3c81&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+Server+2016+x64&version=63070517&lang=zh_CN&session_us=gh_5331cb469b82&exportkey=n_ChQIAhIQziq%2BR9rXk%2FDNoycfg1bmnxL4AQIE97dBBAEAAAAAAEgfAGi4mH8AAAAOpnltbLcz9gKNyK89dVj0edLB%2B8oLeFSK4vVltDRbeZrG3oO5Tq5%2FXcvEPrArwYxycrWRR79Cqrj0foqBG9LuKlqDJc1wg5c8BVAQGzJjbVL7MppzlbnavC1UBt%2FvCqZJRiFu6b2Rbap2q5QQ61ElyDwJ6S81uZOQP%2FnckgxRzVWAJiQCOghCRDTC9w8ZE%2FKp0hrfJM26UMhwDKCArR8AqTMxrojzU5FE0MX%2B9%2BmiW7FAKFd9DQcpGrDelXnnPsm7mVKpcOXkkpdFEWnQ90TLVU5PFJytIidGLHLU76lrLRu9&acctmode=0&pass_ticket=6e0&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-19 13:40:31】](https://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&mid=2247491762&idx=1&sn=510ea9b372051cbfb62d68a2180a5bc0&chksm=cf2f2597f858ac81933bfec29165cab924a17995f1826007a2ec1067acf5462343bcd76f0acc&scene=27#wechat_redirect)
 
 提供B站相关技术的介绍和讲解
 
@@ -14,9 +14,9 @@
 
 ### [编码安全研究](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NDY1MDc2Mg==)
 
-[:chart_with_upwards_trend:【0/14/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NDY1MDc2Mg==)
+[:chart_with_upwards_trend:【0/13/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NDY1MDc2Mg==)
 
-[:camera_flash:【2022-11-18 08:08:38】](https://mp.weixin.qq.com/s?__biz=Mzg2NDY1MDc2Mg==&mid=2247497504&idx=1&sn=7e07a7531a99b537da58c4369c5d2bc8&chksm=ce64a445f9132d53beab8799d1945bbd781bce32d714fcaf01726aabc05b977466d2903b6d61&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-19 09:09:37】](https://mp.weixin.qq.com/s?__biz=Mzg2NDY1MDc2Mg==&mid=2247497505&idx=1&sn=27b02a12bdd1cfcc29a973b3957a20e6&chksm=ce64a444f9132d5286cdcc0370d398479411197491dee8e1e052a6e3cfa19b773dca774a00ca&scene=27#wechat_redirect)
 
 专注于学习网络安全
 
@@ -27,26 +27,13 @@
 
 ### [GoCN](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4ODg0NDkzOA==)
 
-[:chart_with_upwards_trend:【8/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4ODg0NDkzOA==)
+[:chart_with_upwards_trend:【8/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4ODg0NDkzOA==)
 
 [:camera_flash:【2022-11-18 08:01:00】](https://mp.weixin.qq.com/s?__biz=MzA4ODg0NDkzOA==&mid=2247505947&idx=1&sn=37aeab0c48bb4d00342a0cf15e445e3c&chksm=902167fea756eee8787ada65ff3da066c7cb955df6da51fe95ecf7912db1119c7efe31458402&scene=27#wechat_redirect)
 
 最具规模和生命力的 Go 开发者社区
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8997cd77cfb2" alt="" />
-
----
-
-
-### [字节跳动技术团队](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
-
-[:chart_with_upwards_trend:【3/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
-
-[:camera_flash:【2022-11-16 12:00:31】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247499952&idx=1&sn=66c7465372f8f9bdd220261275b28389&chksm=e9d30b52dea482443f4482fb8aca13316ba28cd677b062c35998172883e0d0d86082d6a07a23&scene=27#wechat_redirect)
-
-字节跳动的技术实践分享
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_24231986c9c8" alt="" />
 
 ---
 
@@ -60,6 +47,19 @@
 10000+工程师，如何支撑中国领先的生活服务电子商务平台？数亿消费者、数百万商户、2000多个行业、几千亿交易额背后是哪些技术在支撑？这里是美团、大众点评、美团外卖、美团配送、美团优选等技术团队的对外窗口。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_96d37a04e9bf" alt="" />
+
+---
+
+
+### [字节跳动技术团队](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
+
+[:chart_with_upwards_trend:【3/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
+
+[:camera_flash:【2022-11-16 12:00:31】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247499952&idx=1&sn=66c7465372f8f9bdd220261275b28389&chksm=e9d30b52dea482443f4482fb8aca13316ba28cd677b062c35998172883e0d0d86082d6a07a23&scene=27#wechat_redirect)
+
+字节跳动的技术实践分享
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_24231986c9c8" alt="" />
 
 ---
 
@@ -458,7 +458,7 @@ Pinpoint，专业代码审计团队。感谢您的关注！
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5NzEwOTUzMw==)
 
-[:camera_flash:【2022-09-15 11:21:51】](https://mp.weixin.qq.com/s?__biz=MzA5NzEwOTUzMw==&mid=2447979773&idx=1&sn=0789549ee0211f1927a18f0a8e2dbde8&chksm=84b8478fb3cfce998a0cfc2b5819c6e52def2433e3ddf1e8eed04bc56b62c16b59f3aeb1ec10&scene=27&key=3b90a962c7574fe1e3f903d56984962ca7a988727e64c2f6485ce0608cf9e4a776d8e0a9d5e1f4026d9a70af6ac5d77ef3a876e3e9a539b2f46b4c49e08f34a47e682af132f53bab55cea20d85e12ecd23ad85df11da561c4fe0fdfe5503aef4288a8366937962634055dcbb48760baeb58bd8fc1532318ee741021816b74b18&ascene=15&uin=MTA3Mzc3OTIzNQ%3D%3D&devicetype=Windows+Server+2016+x64&version=63070517&lang=zh_CN&session_us=gh_21453a77f9fd&exportkey=AQP9MWf1wuwkJ7bWNxK7dRI%3D&acctmode=0&pass_ticket=R58LBspgkWN4GZNrksEXuKC%2BDztZBKT71Wl7X6eayJoE%2Fk5KpZt13tqJaw1qT5mZ&wx_header=0&fontgear=2&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-19 15:01:11】](https://mp.weixin.qq.com/s?__biz=MzA5NzEwOTUzMw==&mid=2447979840&idx=1&sn=ead9b62e68aae2edc7665769bece1e4b&chksm=84b84632b3cfcf2431bab5059e9cc06467a9ac8548f96d4d2e25fb0927dd3ba1e711323e8024&scene=27#wechat_redirect)
 
 关注我，及时收取你遇到的问题
 
