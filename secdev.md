@@ -1,9 +1,9 @@
 
 ### [商密君](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
 
-[:chart_with_upwards_trend:【0/92/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
+[:chart_with_upwards_trend:【0/88/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
 
-[:camera_flash:【2022-11-19 17:27:23】](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247586530&idx=1&sn=8ae522169f032ace6aec1722154448b1&chksm=ec5782b9db200baf506a59948cc309ee47de1a058eb3429a0746ecf4d65a67639f913ccf725b&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-20 19:00:14】](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247586563&idx=1&sn=68f8f12f82a898418709740e8b53072a&chksm=ec578358db200a4ea5ac50b36e3187a1e930e38ec13abe57b81a5be1a4b4a5c718aa56861d3a&scene=27#wechat_redirect)
 
 商密君是全国密码行业头部公众号，旨在宣传推广《密码法》，普及商用密码知识，解读密码政策，分享商用密码行业的最新动态，为密码产业产学研用做好宣传服务，连接密码全行业精英，推动密码技术在数字经济各行业的应用和创新。
 
@@ -14,9 +14,9 @@
 
 ### [数世咨询](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
 
-[:chart_with_upwards_trend:【5/37/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
+[:chart_with_upwards_trend:【5/38/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
 
-[:camera_flash:【2022-11-18 23:31:00】](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247496206&idx=1&sn=a71a0aec98cacf29505a02585523645d&chksm=c14480b3f63309a59afe1a63ac630f5a6818cc1e980112ddf47323809d85b63c92bc1981b669&scene=27&key=8a0e174ffd98ef0f11c4a8b5d80b5466799ac5c4af931fcd9f0cf42716ec3012c35e089aee3108cf2b769445f116e457e3ad3b1d60c7c89e667956c8d44f2cd20ff26131c80e157c0a99ccf341cc656e54ae9d7ef336371da3977d9371282672a12dcba83e77b204fd4e2f9372e7543454e286fdc04ee91d93828189636235b3&ascene=15&uin=MzgxODQ4MjMz&devicetype=Windows+Server+2016+x64&version=63070517&lang=zh_CN&session_us=gh_7c85d5aeb85d&exportkey=n_ChQIAhIQRxGltSqwSaoyUAbuD7YovxL5AQIE97dBBAEAAAAAAIJrDlswNgkAAAAOpnltbLcz9gKNyK89dVj06MX3N5SHhbSqAfRfFAt%2B3Vyx0Weh%2BDdKDkgycpXrtbrnL2iZF2LLyYLYr%2F0ng2UtYaCbHgLsQBpob2y%2BbUgZ3GpZ%2FAR81TWmH7B47HGH%2FRFFnyPzdIhxPYnmrIj9Ou1Jh5xYkQNMrFXyBL3BbPAwtKfl50ZnmRxypKpZt%2FKOADmzrW%2BGoBtIhmpisVZbQ%2Bsg%2BnODoX7KCWZ%2BXZMr4pSjl1K06vk6xurWczfDvJzo5Tyokze3sVsSfaNVVR5ZpNax2rTYcKQQa8RB%2By2uBhuI84ZvIg%3D%3D&acctmode=0&pas&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-20 23:30:27】](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247496212&idx=1&sn=60047a71f4b49217d888a609a40b9fc9&chksm=c14480a9f63309bfde3c2396ba9b5226310c452e49a155bf8d61bb38e96d5540debaf8bd0f27&scene=27#wechat_redirect)
 
 中国数字产业领域中立的第三方调研机构，提供网络安全行业的调查、研究与咨询服务。
 
@@ -27,7 +27,7 @@
 
 ### [全栈网络空间安全](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
 
-[:chart_with_upwards_trend:【0/31/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
+[:chart_with_upwards_trend:【0/29/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
 
 [:camera_flash:【2022-11-20 00:00:12】](https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247505215&idx=2&sn=e5aadbe6ec44615decee5e265195870a&chksm=cf3d69f2f84ae0e415f017ff1053721010c426f4efed74e0a3249809e9c83a77e52731998f27&scene=27#wechat_redirect)
 
@@ -40,7 +40,7 @@
 
 ### [深圳市网络与信息安全行业协会](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
 
-[:chart_with_upwards_trend:【0/23/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
+[:chart_with_upwards_trend:【0/22/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
 
 [:camera_flash:【2022-11-18 10:24:34】](https://mp.weixin.qq.com/s?__biz=MzU0Mzk0NDQyOA==&mid=2247504164&idx=1&sn=994fe08cbb8cf8283a6e3553d683cbff&chksm=fb012aa7cc76a3b1b2558876dd067c1d0b0dd3b329a05542b4fe55bbf6a94903e41acf557233&scene=27&key=d3d737aff69fb7fa7f38f5529ff3634035ef36c7ac76deed0b204ab78e70f728e707a01510bb943f19d6eef8d525601e385e2d8ca999b41f38ba81c1ae7e094a1046fe23a62fb8e49e5d7c71d1acaabc23b7549e4317bc654097bffd78016c1e1c72bfd67bb552b798d17d19928d2e1e80a6377dbdfd5f34ff675fafa19e2252&ascene=15&uin=MzgxODQ4MjMz&devicetype=Windows+Server+2016+x64&version=63070517&lang=zh_CN&session_us=gh_7c85d5aeb85d&exportkey=n_ChQIAhIQDqYNwBtBsi2O1RrJxDIwNRL5AQIE97dBBAEAAAAAAOJvImW3DPYAAAAOpnltbLcz9gKNyK89dVj0XdY2h%2BIrUJO9NiOtnuAvDP1nk0LGFlMQu8dCjVBuKgtWPmjYOJMfZz6fbKT%2Fv8SMzgivh6aDkdkK9P47dDn4HtQTizGXNHB5P%2Fxnoh%2FNr7vuaUv1O%2BwWz0AphheI89Aon6UU0uKE9jscZa8bXL4WSaE0HAHZzu9kCMgOH9PJDt%2FiRDKyINBxIiMptO9VMMSZ7gofDlKucSM7hqZlJe0eABWzByYpp11hSkd07tfSR3wHUtebbDtncaPiFEVk2oV4sPzAHD%2BqerbzB67Ho8HLG%2Fv2pw%3D%3D&acctmode=0&pass_ticket&scene=27#wechat_redirect)
 
@@ -198,7 +198,7 @@ OWASP中国，SecZone互联网安全研究中心官方平台
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxODY0NTYwMw==)
 
-[:camera_flash:【2022-09-03 20:12:20】](https://mp.weixin.qq.com/s?__biz=MzAxODY0NTYwMw==&mid=2247485678&idx=1&sn=9beb8967f13a72bf1a5f3047c5343a47&chksm=9bd25fe2aca5d6f4cf613b5dbde1d500de5b7db3f71489c05ea3fa27b44d1c7429a1572fa962&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-21 00:00:34】](https://mp.weixin.qq.com/s?__biz=MzAxODY0NTYwMw==&mid=2247485715&idx=1&sn=152acc8640915d242f2e3fd466ba22b3&chksm=9bd25e1faca5d709eb7ce2ad3f01a05e115e41653413cf59ce6c6d38eaa3afb7d9b7dc8a2ff2&scene=27#wechat_redirect)
 
 共同探讨企业网信实践经验，解决企业网信建设最后一公里。
 
