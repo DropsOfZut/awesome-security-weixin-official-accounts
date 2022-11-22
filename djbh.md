@@ -1,7 +1,7 @@
 
 ### [计算机与网络安全](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTk4MDE2MA==)
 
-[:chart_with_upwards_trend:【0/177/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTk4MDE2MA==)
+[:chart_with_upwards_trend:【0/175/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTk4MDE2MA==)
 
 [:camera_flash:【2022-11-21 07:32:51】](https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655184808&idx=1&sn=a8fb93fe330c954abbfd9946074c7305&chksm=bc857a478bf2f351e41d8ca670491d2d6a628e740ea09bc2392b5724d6a6cd22a5b8bac7c8c0&scene=27#wechat_redirect)
 
@@ -16,7 +16,7 @@
 
 [:chart_with_upwards_trend:【0/76/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI4NDY2MDMwMw==)
 
-[:camera_flash:【2022-11-19 09:41:05】](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247506842&idx=1&sn=31489a27062d0764da73265cfb07f7eb&chksm=ebfa9cbadc8d15ac80bcb35d7ba630a86e505183942cde1ead53ca52a3d3141abbf23bb4a08d&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-21 22:21:53】](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247506853&idx=1&sn=d0a59432b2c5ee092e8e586a001f2feb&chksm=ebfa9c85dc8d1593b76c16da4a0175d8d6c27c8d2935d521e0a16f95a72433f6cae680239204&scene=27#wechat_redirect)
 
 《安全内参》是专注于网络安全产业发展和行业应用的高端智库平台，致力于成为网络安全首席知识官。投稿&amp;合作请邮件联系 anquanneican#163.com
 
@@ -27,9 +27,9 @@
 
 ### [河南等级保护测评](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NjY2MTI3Mg==)
 
-[:chart_with_upwards_trend:【35/63/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NjY2MTI3Mg==)
+[:chart_with_upwards_trend:【34/61/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NjY2MTI3Mg==)
 
-[:camera_flash:【2022-11-21 00:00:53】](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247488331&idx=1&sn=7883f0ef382c58e09f0f6df6d44eafc3&chksm=ce4635bcf931bcaa245342cd79b548355a355a37fb6a6c571d9228388d53b8924aa1dc3bf572&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-22 00:00:14】](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247488382&idx=1&sn=f2cc118f7e360e0cbac0e8bd26b051bf&chksm=ce463589f931bc9f3b72d4c96731ec685b716b2a3b50634d1d3fa04e182bf822d169cb387e16&scene=27#wechat_redirect)
 
 传播网络安全知识，分享网络安全政策，共建风清气正的网络安全氛围。等级保护测评、风险评估、网络安全培训、咨询。
 
@@ -40,7 +40,7 @@
 
 ### [祺印说信安](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5MzU5MzQzMA==)
 
-[:chart_with_upwards_trend:【34/59/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5MzU5MzQzMA==)
+[:chart_with_upwards_trend:【32/57/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5MzU5MzQzMA==)
 
 [:camera_flash:【2022-11-21 00:00:32】](https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652096958&idx=1&sn=91cc74c58c66391563752306f600f824&chksm=8bbce387bccb6a91a8a168c4af98f360aa7312ad6cf1a2621b2dfb6fc16412d13913e530ed1f&scene=27#wechat_redirect)
 
@@ -51,9 +51,35 @@
 ---
 
 
+### [汇能云安全](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNzAwOTQxMg==)
+
+[:chart_with_upwards_trend:【0/21/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNzAwOTQxMg==)
+
+[:camera_flash:【2022-11-21 09:55:49】](https://mp.weixin.qq.com/s?__biz=MzIwNzAwOTQxMg==&mid=2652246730&idx=1&sn=040d6f5f0af66c4143ea051a9a440b68&chksm=8cfa5121bb8dd837c7124b9bcb67ee1c6afece9fa0ec9e72e83418a24abf1dda6f6e2bcc613f&scene=27#wechat_redirect)
+
+信息安全等保测评、信息安全服务；云卫士CDS-容灾备份、智能安全网关、智能网络管理产品支持服务；智云iSC-云平台、云服务技术支持服务；朗云iOT-物联网产品支持服务。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_5f81484d311e" alt="" />
+
+---
+
+
+### [威努特工控安全](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNTgyODU3NQ==)
+
+[:chart_with_upwards_trend:【9/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNTgyODU3NQ==)
+
+[:camera_flash:【2022-11-22 08:00:35】](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651091127&idx=1&sn=6580a4007e3fd5dd43bd70ee9cb1abb4&chksm=80e66a07b791e3114ebce3fed8ef6e191fa24188a4fc1da1edf00f284569bfde6ce083a4569c&scene=27#wechat_redirect)
+
+我们将为您分享最前沿的国际工控网络安全技术，国家相关政策法规解读及经典成功案例解析。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_b6b192e50c70" alt="" />
+
+---
+
+
 ### [信息安全国家工程研究中心](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5OTQ0NzY3Ng==)
 
-[:chart_with_upwards_trend:【2/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5OTQ0NzY3Ng==)
+[:chart_with_upwards_trend:【3/16/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5OTQ0NzY3Ng==)
 
 [:camera_flash:【2022-11-17 18:00:31】](https://mp.weixin.qq.com/s?__biz=MzU5OTQ0NzY3Ng==&mid=2247492641&idx=1&sn=5068cc64f2aaeac1ce7a91ebe530aa0c&chksm=feb66532c9c1ec24ae200325c78c8de65318bd2b975f77db976e44296287c098221727f7a8d3&scene=27#wechat_redirect)
 
@@ -68,7 +94,7 @@
 
 [:chart_with_upwards_trend:【0/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4ODU1MzAyNg==)
 
-[:camera_flash:【2022-11-18 11:15:50】](https://mp.weixin.qq.com/s?__biz=MzU4ODU1MzAyNg==&mid=2247507696&idx=1&sn=d80f4fc5cdc2fe74b94a83e04350b2c7&chksm=fdd990ddcaae19cb6e28bde5332fc10c411a71b5ecca6193fd23a16173249249005ebfb59ca0&scene=27&key=c88249d6eb3dd7a704c834ff091dd051a88e884cd1ef5d8fbef6bce8f7fbc3a1f36d8e6397dbd44113a25404cab89d8a621863ec7ba972217f75a66bc7b110cc8268a87aef5b7995a6e3c602be018d3a4667ce86d67e758879ad52c76bf88d07696b5a631f44d06166859b0932e445ab51925f64692ff720309003f9070ac348&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+Server+2016+x64&version=63070517&lang=zh_CN&session_us=gh_fbcaf351ddc1&exportkey=n_ChQIAhIQm16CPI3Xf5ckkpgSebi8LhLnAQIE97dBBAEAAAAAADG0KHEzkAgAAAAOpnltbLcz9gKNyK89dVj0%2BFLKKZuyyHKGecXKuukubxWzVDnRvTi1%2FK2wulwmIWEc5vESoYHGcXrZEJjKE9DWcijb9JiAT8zhRyagRVj6WA34VxxY5VEd0Oz6DJryR3RBoiEQbfWdaYYIaLI4%2FiJ65dj1MSe0b3ke8PaXy5Tl5HK2t898UMqjWkuuxNYvJkGEYK%2FOz2sjrTrF8IZ845qx%2BEEmVJOf38xhS27BLfym369v0w4OdOs9ym%2FP2oiBmhNde2Rxyj4O%2BfeD1oP3dPTEPw%3D%3D&acctmode=0&pass_ticket=6e09nBQsEQzT4p5xEvsBE6D&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-21 16:37:12】](https://mp.weixin.qq.com/s?__biz=MzU4ODU1MzAyNg==&mid=2247507704&idx=1&sn=23b679e476e864ba24fe7016c0436a0f&chksm=fdd990d5caae19c388778de34493762e568348c11cf8368b7b6cd18a2898a6aabbb06c96866c&scene=27#wechat_redirect)
 
 全面介绍网络安全相关知识、安全建设方案、分享网络安全行业法律法规及相关政策等内容，一个学习网络安全知识、技术、业务交流的全国性平台。
 
@@ -81,7 +107,7 @@
 
 [:chart_with_upwards_trend:【0/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1OTA1MzQzNA==)
 
-[:camera_flash:【2022-11-18 14:19:31】](https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651243156&idx=1&sn=1ebfabe092555f26f5808684c253f6a5&chksm=f18ca081c6fb29971c50b67a8a04d443b1a353fdeeea1b238c4db87ab88434e61dab53fa7dca&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-21 13:36:05】](https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651243161&idx=1&sn=8dba6c09522b496254ba1f95d0d90edd&chksm=f18ca08cc6fb299a642b3b44876a694947d70aa4044f521803771ab835869ac7f906e75d72a4&scene=27#wechat_redirect)
 
 关注益安在线，一站了解等级保护、工业互联网安全。专注网络安全人才培训，行业咨询、网络安全技术大赛服务。举办2017和2018中央企业网络安全技术大赛、“护网杯”2018网络安全防护赛，为行业提供人才赋能综合解决方案，输送实战型网安人才。
 
@@ -118,13 +144,26 @@
 
 ### [湖南金盾评估中心](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyNTI0ODcwMw==)
 
-[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyNTI0ODcwMw==)
+[:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyNTI0ODcwMw==)
 
 [:camera_flash:【2022-11-15 12:21:40】](https://mp.weixin.qq.com/s?__biz=MzIyNTI0ODcwMw==&mid=2662127456&idx=1&sn=1f2594f04c3f3dad2488e1c12943980e&chksm=f35ae3b0c42d6aa6f195b830a275c61baed05aa08cca02fbf53df7d5bd42ffe37929a72afab0&scene=27#wechat_redirect)
 
 提供行业安全资讯，打造专业安全服务平台。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_18727cdf9502" alt="" />
+
+---
+
+
+### [信科共创等保测评](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyNTIyMTU1Nw==)
+
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyNTIyMTU1Nw==)
+
+[:camera_flash:【2022-11-18 09:01:09】](https://mp.weixin.qq.com/s?__biz=MzIyNTIyMTU1Nw==&mid=2247484342&idx=1&sn=84fd9bd96ac5489f84492ea1d855ed05&chksm=e8024d6cdf75c47a8f6213c1fc841d4016b4a7aed5bd2f158fe63fb5b072520f1521ad8a4d1f&scene=27&key=0f1548ab6f0cc48801e228ad404ba5754cfa04d09ce857750b5dc13d08655f2652f72224b016bb57f886683c86f9a45598ba51909a19ada010de05c58c05f3220d7d6b5f7f502e8d0cccbe8245e79f5cf668968943029d32101379b5341e34dfd37f28e4750a3ecc79f3d12e7ddf692cfbf536ce41e6634753c6b7e233e66696&ascene=15&uin=MzgxODQ4MjMz&devicetype=Windows+Server+2016+x64&version=63070517&lang=zh_CN&session_us=gh_8ab0e346e1df&exportkey=n_ChQIAhIQJSq43yr%2BWV2wYdaFmK61cxLqAQIE97dBBAEAAAAAAEoGAWTLtyUAAAAOpnltbLcz9gKNyK89dVj0ryMcMCe2ooOOjKv6TiE8M7diNGbl%2B3b8NqdQsuRPUr3FB8NzNy%2BPCzQgaHmB3Z%2B79w8oesthi2GtmaKbXjouJOlUjtsEBCy46xH063f%2FZqaEdyPmjd%2FgezLL%2B7EAkoLPG0nMaleYLQTxd9d8PvVUcTw5%2FesarZMty6PZYzN3f%2BbBFwXmUk3f%2B95Wrpba6FUc0gvPiY9npUJifVoS09bqcExoi0hpDjiDvnQ5M8ayu3mkOkveFlH4enkdQZgDS%2F4MmU3Qjw%3D%3D&acctmode=0&pass_ticket=2A1HRF%2BczRF&scene=27#wechat_redirect)
+
+关于网络安全等级保护的知识、技术、业务的交流平台
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_9dcfc5864bcd" alt="" />
 
 ---
 
@@ -138,19 +177,6 @@
 聚焦工控安全，提供集政策标准、工具、论文等免费下载以及技术交流、互动、交友为一体的工控安全交流平台。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e41f6c29c07a" alt="" />
-
----
-
-
-### [威努特工控安全](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNTgyODU3NQ==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNTgyODU3NQ==)
-
-[:camera_flash:【2022-11-21 08:00:55】](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651091061&idx=1&sn=7af5994e5dea1f75bcff1ca5903e7e93&chksm=80e66ac5b791e3d317e2f8fea9ae388110a4a9c6d4973ced565ea87c827c1570b29f657d7698&scene=27#wechat_redirect)
-
-我们将为您分享最前沿的国际工控网络安全技术，国家相关政策法规解读及经典成功案例解析。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_b6b192e50c70" alt="" />
 
 ---
 
@@ -177,32 +203,6 @@
 (等)保(商)密(关)基ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤx7fx7f等级保护2.0测评交流，问题探究，最新标准分享，提供自建网盘分享资料
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4633a1748cc8" alt="" />
-
----
-
-
-### [汇能云安全](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNzAwOTQxMg==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNzAwOTQxMg==)
-
-[:camera_flash:【2022-11-17 10:08:31】](https://mp.weixin.qq.com/s?__biz=MzIwNzAwOTQxMg==&mid=2652246713&idx=1&sn=b31593e99b8ba8510f0980ffaf3af53d&chksm=8cfa5152bb8dd844a645b4742bd8177381f671ce101ada1c49ada0abae1ad27eecff1c3a0a04&scene=27#wechat_redirect)
-
-信息安全等保测评、信息安全服务；云卫士CDS-容灾备份、智能安全网关、智能网络管理产品支持服务；智云iSC-云平台、云服务技术支持服务；朗云iOT-物联网产品支持服务。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_5f81484d311e" alt="" />
-
----
-
-
-### [信科共创等保测评](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyNTIyMTU1Nw==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyNTIyMTU1Nw==)
-
-[:camera_flash:【2022-05-27 14:06:24】](https://mp.weixin.qq.com/s?__biz=MzIyNTIyMTU1Nw==&mid=2247484320&idx=1&sn=5f67039fe5ef7f2a1a876b33b4e5b5fb&chksm=e8024d7adf75c46c5c1d5f16c262746930940f86e183ebd3fdda8f0ac7076a1bd9b24bcaed03&scene=27&key=3820ae6439ecdd67d266d316413e486fc4453604c4bb2ff362d8db759f8ec930cb887c2d3c04d0673dd8db1d7da5c3805ea85a5921db1ad92144d064887274a87b1be329fca5f0527d1a0daf84c6a38ca3490f93b0743d6163d37f433bfb4b8c775118e43646aeb0973669878f6c05bdab684d4a21d07e3f9790384e051928a8&ascene=0&uin=NTY2NTA4NjQ%3D&devicetype=Windows+Server+2016+x64&version=6305002e&lang=zh_CN&exportkey=A6jHIPagOtRVPzGcihGa%2Fd4%3D&acctmode=0&pass_ticket=GUvH3uPQjNpC1voTcsjTiDh92yQAjit5rtLviKyEhf6u2gSUhqYo%2FD2K1hp1NEOI&wx_header=0&fontgear=2&scene=27#wechat_redirect)
-
-关于网络安全等级保护的知识、技术、业务的交流平台
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_9dcfc5864bcd" alt="" />
 
 ---
 
