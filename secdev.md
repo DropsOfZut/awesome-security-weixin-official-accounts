@@ -1,7 +1,7 @@
 
 ### [商密君](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
 
-[:chart_with_upwards_trend:【0/116/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
+[:chart_with_upwards_trend:【0/112/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
 
 [:camera_flash:【2022-11-22 18:03:46】](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247586741&idx=1&sn=4e10c3c7948a6555e24eafa5b595dcaa&chksm=ec5783eedb200af879e4ede8248399ab1167460c234323781eb9e8aea05ba9ef82c4f2c7fc6b&scene=27#wechat_redirect)
 
@@ -14,7 +14,7 @@
 
 ### [数世咨询](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
 
-[:chart_with_upwards_trend:【5/38/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
+[:chart_with_upwards_trend:【5/36/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
 
 [:camera_flash:【2022-11-21 23:30:46】](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247496217&idx=1&sn=2376694b1b3ba4238ac0aed1f6bc2c3d&chksm=c14480a4f63309b2521ae56b63258e6ca0a72d2547f6b4b0960cec9da258d77bb178bafe094c&scene=27#wechat_redirect)
 
@@ -40,7 +40,7 @@
 
 ### [深圳市网络与信息安全行业协会](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
 
-[:chart_with_upwards_trend:【0/24/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
+[:chart_with_upwards_trend:【0/23/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
 
 [:camera_flash:【2022-11-22 15:51:15】](https://mp.weixin.qq.com/s?__biz=MzU0Mzk0NDQyOA==&mid=2247504219&idx=1&sn=ca7897c0e9e8a6b73a484cf86b21dcbb&chksm=fb012ad8cc76a3ceb5be0fc040202612357d0fad26b5bd13b991afe8b7e78c91e4528a331f0e&scene=27#wechat_redirect)
 
@@ -129,19 +129,6 @@ vivo全新的安全品牌，有人文温度的科技新媒体，致力于让亿�
 ---
 
 
-### [FreeBuf安全咨询](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2MTAwNzg1Ng==)
-
-[:chart_with_upwards_trend:【1/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2MTAwNzg1Ng==)
-
-[:camera_flash:【2022-11-14 17:00:47】](https://mp.weixin.qq.com/s?__biz=Mzg2MTAwNzg1Ng==&mid=2247489575&idx=1&sn=6d1737b836313334d182a8efb855027f&chksm=ce1ce2b8f96b6baeea1d24a338178f7f0141df4c2f33ede53045f4c0345fe4be59bad69394ed&scene=27&key=8a0e174ffd98ef0f5bfbd0e6d9080a86164ff0159e825ecde2c6ea329bcaad8ac20e13aa7e768922b0b24abec381f29510f6ddc60d6bed6b833671d36ff5a2d420ef1f40a3428b5f08b1c0999e1d44b97ec06ee41a0a5aa51c981cc95be6e2bc464543566073a0a52720b5b094a73f68b1fd2a1bc6c1601f262266aa745b0928&ascene=15&uin=MzgxODQ4MjMz&devicetype=Windows+Server+2016+x64&version=63070517&lang=zh_CN&session_us=gh_1ce4b73f8c5f&exportkey=n_ChQIAhIQ6duy%2Fcv8lh7KBJmUpxinjhL5AQIE97dBBAEAAAAAAPvNL5razwwAAAAOpnltbLcz9gKNyK89dVj0S3NI9Ti%2FBCQ2nX%2FsT9ggtngIyDQxegXWeEj%2FaaDUH8utUd7aVcQBhG%2BwLq3DPyMyLEUu5qGu6Y5xKsnAqx2ixWKTPe9A4CHtGMARUDwnJUDjFRHqktgsAg1KNYvureWvxlHrRe7rwN7p7FKrzi2R36Sa48%2FjJ%2Fp0n1L6tedT7aeFrzMU71%2BSxrLEh2m9o31CxGI%2BInLwPVU5nVuX%2BWiZYo0NRVMoHVNAZXS8fefnP%2BSi%2F5s%2F9ip7ZwHSRIKtaVG7h5fava7neKbEkw4aI45OvoA6XQ%3D%3D&acctmode=0&p&scene=27#wechat_redirect)
-
-关注安全行业前沿动向、产品服务商用前景，洞悉商业市场和用户趋势，助力安全行业发展。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e18f20900200" alt="" />
-
----
-
-
 ### [薄说安全](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NzU3MzkyMg==)
 
 [:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NzU3MzkyMg==)
@@ -164,6 +151,19 @@ vivo全新的安全品牌，有人文温度的科技新媒体，致力于让亿�
 基于基本事实、基本常识和基本逻辑，致力网络安全及数字安全相关领域体系规划，提供行业领域的前沿理念和实践
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_119e00923f12" alt="" />
+
+---
+
+
+### [FreeBuf安全咨询](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2MTAwNzg1Ng==)
+
+[:chart_with_upwards_trend:【1/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2MTAwNzg1Ng==)
+
+[:camera_flash:【2022-11-14 17:00:47】](https://mp.weixin.qq.com/s?__biz=Mzg2MTAwNzg1Ng==&mid=2247489575&idx=1&sn=6d1737b836313334d182a8efb855027f&chksm=ce1ce2b8f96b6baeea1d24a338178f7f0141df4c2f33ede53045f4c0345fe4be59bad69394ed&scene=27&key=8a0e174ffd98ef0f5bfbd0e6d9080a86164ff0159e825ecde2c6ea329bcaad8ac20e13aa7e768922b0b24abec381f29510f6ddc60d6bed6b833671d36ff5a2d420ef1f40a3428b5f08b1c0999e1d44b97ec06ee41a0a5aa51c981cc95be6e2bc464543566073a0a52720b5b094a73f68b1fd2a1bc6c1601f262266aa745b0928&ascene=15&uin=MzgxODQ4MjMz&devicetype=Windows+Server+2016+x64&version=63070517&lang=zh_CN&session_us=gh_1ce4b73f8c5f&exportkey=n_ChQIAhIQ6duy%2Fcv8lh7KBJmUpxinjhL5AQIE97dBBAEAAAAAAPvNL5razwwAAAAOpnltbLcz9gKNyK89dVj0S3NI9Ti%2FBCQ2nX%2FsT9ggtngIyDQxegXWeEj%2FaaDUH8utUd7aVcQBhG%2BwLq3DPyMyLEUu5qGu6Y5xKsnAqx2ixWKTPe9A4CHtGMARUDwnJUDjFRHqktgsAg1KNYvureWvxlHrRe7rwN7p7FKrzi2R36Sa48%2FjJ%2Fp0n1L6tedT7aeFrzMU71%2BSxrLEh2m9o31CxGI%2BInLwPVU5nVuX%2BWiZYo0NRVMoHVNAZXS8fefnP%2BSi%2F5s%2F9ip7ZwHSRIKtaVG7h5fava7neKbEkw4aI45OvoA6XQ%3D%3D&acctmode=0&p&scene=27#wechat_redirect)
+
+关注安全行业前沿动向、产品服务商用前景，洞悉商业市场和用户趋势，助力安全行业发展。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e18f20900200" alt="" />
 
 ---
 

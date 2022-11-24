@@ -1,7 +1,7 @@
 
 ### [Linux中国](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ4MjYwMQ==)
 
-[:chart_with_upwards_trend:【100/110/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ4MjYwMQ==)
+[:chart_with_upwards_trend:【97/106/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ4MjYwMQ==)
 
 [:camera_flash:【2022-11-22 18:11:26】](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664670757&idx=3&sn=40231dfaf98e428a8e72143d717845dc&chksm=bdcf9d638ab814757eae45730852d967e9f3d98cbd89f4ff731465c3694dac916e69609af7e5&scene=27#wechat_redirect)
 
@@ -27,7 +27,7 @@
 
 ### [kali黑客笔记](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzIwNTY1OA==)
 
-[:chart_with_upwards_trend:【29/30/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzIwNTY1OA==)
+[:chart_with_upwards_trend:【28/29/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzIwNTY1OA==)
 
 [:camera_flash:【2022-11-22 08:33:06】](https://mp.weixin.qq.com/s?__biz=MzkxMzIwNTY1OA==&mid=2247492562&idx=1&sn=347c86c019efd8c4963c4aa9197f826c&chksm=c1039327f6741a312ccf95ac30cf2e25cef30d0750e0864806659f0c30db0d3623593396f9c9&scene=27#wechat_redirect)
 
@@ -40,7 +40,7 @@ kali论坛官方唯一公众号，主要发布过于小白学习Kali Linux相关
 
 ### [Docker中文社区](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1NzI5NDM4Mw==)
 
-[:chart_with_upwards_trend:【0/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1NzI5NDM4Mw==)
+[:chart_with_upwards_trend:【0/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1NzI5NDM4Mw==)
 
 [:camera_flash:【2022-11-18 08:00:57】](https://mp.weixin.qq.com/s?__biz=MzI1NzI5NDM4Mw==&mid=2247493985&idx=1&sn=6562eda33ce44172397005199c9c2251&chksm=ea1b0021dd6c89377a5aa790b8f3f5372f6fd69b90392fad177fa211ffea059f00e75e4d4573&scene=27#wechat_redirect)
 
