@@ -1,9 +1,9 @@
 
 ### [商密君](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
 
-[:chart_with_upwards_trend:【0/100/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
+[:chart_with_upwards_trend:【0/96/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
 
-[:camera_flash:【2022-11-26 17:36:22】](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247586970&idx=1&sn=eb1fe5568695525d1fdc0b2fd4ef3046&chksm=ec5784c1db200dd7e10bd10c73d690fe55cd9c76b42e656c9cdd50f3d1a62a689a2e152ec938&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-27 22:45:52】](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247587060&idx=1&sn=2276d373a1b61076ed017551c7e00f12&chksm=ec5784afdb200db9c637d4722ea0c6536326177d0484c74689f180d34f01456ace029c71c52c&scene=27#wechat_redirect)
 
 商密君是全国密码行业头部公众号，旨在宣传推广《密码法》，普及商用密码知识，解读密码政策，分享商用密码行业的最新动态，为密码产业产学研用做好宣传服务，连接密码全行业精英，推动密码技术在数字经济各行业的应用和创新。
 
@@ -14,7 +14,7 @@
 
 ### [全栈网络空间安全](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
 
-[:chart_with_upwards_trend:【0/38/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
+[:chart_with_upwards_trend:【0/36/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
 
 [:camera_flash:【2022-11-27 00:00:19】](https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247505431&idx=1&sn=73e940101c990e6ce1ddc5464eb7c20a&chksm=cf3d6adaf84ae3cc8ae046d34c4f8b8ca4b2af8c3d730b11b7347504b028f19c6016f079537e&scene=27#wechat_redirect)
 
@@ -27,7 +27,7 @@
 
 ### [数世咨询](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
 
-[:chart_with_upwards_trend:【2/33/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
+[:chart_with_upwards_trend:【1/32/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
 
 [:camera_flash:【2022-11-26 23:30:03】](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247496311&idx=1&sn=a53d9ec41d4978e55368a025bd692b28&chksm=c14480caf63309dc30f445da19d5d4962087bf32bf07c613a8154c4818c179a06d65704385ac&scene=27#wechat_redirect)
 
@@ -40,7 +40,7 @@
 
 ### [深圳市网络与信息安全行业协会](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
 
-[:chart_with_upwards_trend:【0/22/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
+[:chart_with_upwards_trend:【0/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
 
 [:camera_flash:【2022-11-22 15:51:15】](https://mp.weixin.qq.com/s?__biz=MzU0Mzk0NDQyOA==&mid=2247504219&idx=1&sn=ca7897c0e9e8a6b73a484cf86b21dcbb&chksm=fb012ad8cc76a3ceb5be0fc040202612357d0fad26b5bd13b991afe8b7e78c91e4528a331f0e&scene=27#wechat_redirect)
 
@@ -53,9 +53,9 @@
 
 ### [君哥的体历](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MjQ1NTA4MA==)
 
-[:chart_with_upwards_trend:【4/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MjQ1NTA4MA==)
+[:chart_with_upwards_trend:【4/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MjQ1NTA4MA==)
 
-[:camera_flash:【2022-11-14 15:48:12】](https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247489054&idx=1&sn=50733d0bf99cfc25ef81f254ab6ebfa8&chksm=ea4bbc59dd3c354f6030e3ea0bb8a91e57e3a1313dd2b9eb9e47d26e450aab602a85ae015f93&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-28 07:00:59】](https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247489147&idx=1&sn=e209027f22ec51f221ab50ece9f37129&chksm=ea4bbc3cdd3c352a515a19a05fb2f07f94948e4df0ab2707f49bc878cbeb9df2571ef710a648&scene=27#wechat_redirect)
 
 闲暇时间，逼迫自己，记录分享体验与经历，不求正确统一，但求真、善、美。
 
@@ -66,7 +66,7 @@
 
 ### [绿盟科技金融事业部](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2NDI5MTg4MA==)
 
-[:chart_with_upwards_trend:【0/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2NDI5MTg4MA==)
+[:chart_with_upwards_trend:【0/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2NDI5MTg4MA==)
 
 [:camera_flash:【2022-11-24 12:12:27】](https://mp.weixin.qq.com/s?__biz=MzI2NDI5MTg4MA==&mid=2247492465&idx=1&sn=caccff2ade25f4e57fd8bafa3e255986&chksm=eaac7036dddbf92046408b38abe549706c0fdba6716a38dde31bbbd708380707d207004952e9&scene=27#wechat_redirect)
 
@@ -107,7 +107,7 @@ vivo全新的安全品牌，有人文温度的科技新媒体，致力于让亿�
 
 [:chart_with_upwards_trend:【3/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3ODAzNjg5OA==)
 
-[:camera_flash:【2022-11-16 20:07:29】](https://mp.weixin.qq.com/s?__biz=Mzg3ODAzNjg5OA==&mid=2247485102&idx=1&sn=69cb1e60407de1d456a35d2157c64bb2&chksm=cf189463f86f1d75fe9d884c2e92d74401fea1411c1b384dba42446f22b1e73166028106a3b3&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-27 23:08:46】](https://mp.weixin.qq.com/s?__biz=Mzg3ODAzNjg5OA==&mid=2247485107&idx=1&sn=d8cb03675f7fa0dd39d6da1c11546dbf&chksm=cf18947ef86f1d6854c1d6d78c7d162d5bcd005318936174847298b38e8223afbd4834add791&scene=27#wechat_redirect)
 
 持续关注企业与信息安全建设，分享精选干货。
 
@@ -341,7 +341,7 @@ OWASP中国，SecZone互联网安全研究中心官方平台
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxNzUxNzA2NQ==)
 
-[:camera_flash:【2022-09-11 06:59:11】](https://mp.weixin.qq.com/s?__biz=MzIxNzUxNzA2NQ==&mid=2247494915&idx=1&sn=9a185bb4f19813af6182a95802e90d40&chksm=97fa3065a08db973b278f0e141a3c98f64b2eb850caa9864209233e5d6be6abf0d4534413197&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-27 15:29:54】](https://mp.weixin.qq.com/s?__biz=MzIxNzUxNzA2NQ==&mid=2247494981&idx=1&sn=4e6ef7993457cd573c65c36c5d5f7462&chksm=97fa3023a08db935bee040c5854855f40d97054d9b6af2d6bc171953f506acc89f1d360033f3&scene=27#wechat_redirect)
 
 零信任和安全架构传道者。专注于解析国外先进网络安全体系，含零信任、数据安全、美军安全体系等。帐号主体为柯善学博士，现任职360。当前，本订阅号只做原创。谢绝商务合作与宣传推广。谢谢关注！
 

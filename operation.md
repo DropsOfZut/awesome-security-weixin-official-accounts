@@ -1,9 +1,9 @@
 
 ### [Linux中国](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ4MjYwMQ==)
 
-[:chart_with_upwards_trend:【85/93/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ4MjYwMQ==)
+[:chart_with_upwards_trend:【82/90/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ4MjYwMQ==)
 
-[:camera_flash:【2022-11-26 16:25:47】](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664671103&idx=1&sn=7b3b2c714ea78242d1ec76781849747f&chksm=bdcf9c398ab8152f10d3d71cccdc34946e6d4002900a43039710b275fba1c2be1aeca0c27ece&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-27 17:30:22】](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664671183&idx=1&sn=2244f7c455092a7380618102bdaeb4f8&chksm=bdcf9c898ab8159fb1eb02c7318c41c93573e09b7941c1087552ab61e17b0bc49f1aebd82f91&scene=27#wechat_redirect)
 
 [Linux中国](https://linux.cn/)开源社区官方公众号。专注于开源技术研究、开源思想传播。
 
@@ -27,9 +27,9 @@
 
 ### [kali黑客笔记](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzIwNTY1OA==)
 
-[:chart_with_upwards_trend:【25/26/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzIwNTY1OA==)
+[:chart_with_upwards_trend:【24/25/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzIwNTY1OA==)
 
-[:camera_flash:【2022-11-22 08:33:06】](https://mp.weixin.qq.com/s?__biz=MzkxMzIwNTY1OA==&mid=2247492562&idx=1&sn=347c86c019efd8c4963c4aa9197f826c&chksm=c1039327f6741a312ccf95ac30cf2e25cef30d0750e0864806659f0c30db0d3623593396f9c9&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-27 08:30:25】](https://mp.weixin.qq.com/s?__biz=MzkxMzIwNTY1OA==&mid=2247492667&idx=1&sn=aa67ddf9e8847d75ef857e8b47cd01c7&chksm=c10394cef6741dd8830be89882f2362c806a899c64d10756d875911c891e64cfe46aece0674d&scene=27#wechat_redirect)
 
 kali论坛官方唯一公众号，主要发布过于小白学习Kali Linux相关安全学习知识。Debian Ubuntu Centos等操作系统的安全和运维。以及树莓派 ESP8266 DIY单片机等相关领域的文章，欢迎大家关注我！
 
@@ -51,6 +51,19 @@ Docker中文社区旨在为大家提供 Docker、Kubernetes 相关工具及前�
 ---
 
 
+### [云计算和网络安全技术实践](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3MjM5MDc2Nw==)
+
+[:chart_with_upwards_trend:【5/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3MjM5MDc2Nw==)
+
+[:camera_flash:【2022-11-27 16:12:10】](https://mp.weixin.qq.com/s?__biz=MzA3MjM5MDc2Nw==&mid=2650747280&idx=1&sn=2d08ff53a78ff058927830a6f4fc3a56&chksm=87149090b0631986cbe789ec9139fb324bb0e14603a21efdca4de169ad9f343343347253fd74&scene=27#wechat_redirect)
+
+史上最具参考性的云计算和网络安全技术实践博客。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_34d6b0cb5633" alt="" />
+
+---
+
+
 ### [网络运维渗透](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3MjMxODUwNg==)
 
 [:chart_with_upwards_trend:【2/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3MjMxODUwNg==)
@@ -60,19 +73,6 @@ Docker中文社区旨在为大家提供 Docker、Kubernetes 相关工具及前�
 漏洞挖掘、SRC、红蓝对抗、代码审计
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_304f5239b3b0" alt="" />
-
----
-
-
-### [云计算和网络安全技术实践](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3MjM5MDc2Nw==)
-
-[:chart_with_upwards_trend:【4/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3MjM5MDc2Nw==)
-
-[:camera_flash:【2022-11-20 18:43:10】](https://mp.weixin.qq.com/s?__biz=MzA3MjM5MDc2Nw==&mid=2650747264&idx=1&sn=967619cdde1b6d5d2651584b122021e6&chksm=87149080b06319969817f514d2f6dfd93d308c3e974704863d03a3718cb3a2ce7d2bfcce8e0b&scene=27#wechat_redirect)
-
-史上最具参考性的云计算和网络安全技术实践博客。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_34d6b0cb5633" alt="" />
 
 ---
 
@@ -107,7 +107,7 @@ Docker中文社区旨在为大家提供 Docker、Kubernetes 相关工具及前�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4Nzg5Nzc5OA==)
 
-[:camera_flash:【2022-11-22 07:10:11】](https://mp.weixin.qq.com/s?__biz=MzA4Nzg5Nzc5OA==&mid=2651726251&idx=1&sn=dcbae4f3cc32faa1f97ab90a38a6fa40&chksm=8bc8e202bcbf6b14dd6ea344664403b401eb5789ab5b796e3c234dcffee936beeb48cc274db0&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-28 07:10:42】](https://mp.weixin.qq.com/s?__biz=MzA4Nzg5Nzc5OA==&mid=2651726392&idx=1&sn=6b0b910f0acc4af49af6464d15f10cd5&chksm=8bc8e191bcbf688711c8ff7c9e28ef1a3a2321a951c6aa7125fa6896f3a84ef7b987eab5ec6d&scene=27#wechat_redirect)
 
 高效运维公众号由萧田国及朋友们维护，经常发布各种广为传播的优秀原创技术文章，关注运维转型，陪伴您的运维职业生涯，一起愉快滴发展。
 
