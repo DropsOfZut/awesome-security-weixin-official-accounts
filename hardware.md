@@ -1,9 +1,9 @@
 
 ### [IoVSecurity](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
 
-[:chart_with_upwards_trend:【0/84/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
+[:chart_with_upwards_trend:【0/90/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
 
-[:camera_flash:【2022-11-27 22:47:43】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247563705&idx=1&sn=604c5aec6e5fc4708437cfdd11c01ecf&chksm=fc03a973cb7420652b59857571002bf5941265044711a0aafa5f1181def41aa5071f263de463&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-28 13:56:13】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247563760&idx=1&sn=57a1d76eab3c9eeca0c282518c12d2fd&chksm=fc03a93acb74202c7a3038dcd9aa11a081f7ac3bc456f456a987e8ac41384aad05392cb6f039&scene=27#wechat_redirect)
 
 为智能网联汽车行业专业人士提供信息和网络安全技术、产品及服务等行业发展最新咨询
 
@@ -40,9 +40,9 @@
 
 ### [网络安全与取证研究](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTU3NTY0Nw==)
 
-[:chart_with_upwards_trend:【0/13/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTU3NTY0Nw==)
+[:chart_with_upwards_trend:【0/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTU3NTY0Nw==)
 
-[:camera_flash:【2022-11-27 10:19:37】](https://mp.weixin.qq.com/s?__biz=Mzg3NTU3NTY0Nw==&mid=2247485269&idx=1&sn=e7f79d7e9a86d2b9663e9967912099f3&chksm=cf3e2765f849ae73bccf5b947f48468555c1bae86521ff4a0150de7e23b28ccdbd49fc0c63bc&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-28 16:06:09】](https://mp.weixin.qq.com/s?__biz=Mzg3NTU3NTY0Nw==&mid=2247485273&idx=1&sn=935d58f90dd3ca7c05aaa14751c4ab12&chksm=cf3e2769f849ae7fa01b024042ef28275df25ec204a72bc392bf61891b6edefc5c76b4dedc2a&scene=27#wechat_redirect)
 
 旨于开展网络安全相关法律法规研究与电子数据取证技术研究，分享小知识、小技巧，共同学习提高，推进技术规范化建设。
 

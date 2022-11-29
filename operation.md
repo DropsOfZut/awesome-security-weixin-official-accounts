@@ -1,9 +1,9 @@
 
 ### [Linux中国](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ4MjYwMQ==)
 
-[:chart_with_upwards_trend:【82/90/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ4MjYwMQ==)
+[:chart_with_upwards_trend:【78/86/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ4MjYwMQ==)
 
-[:camera_flash:【2022-11-27 17:30:22】](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664671183&idx=1&sn=2244f7c455092a7380618102bdaeb4f8&chksm=bdcf9c898ab8159fb1eb02c7318c41c93573e09b7941c1087552ab61e17b0bc49f1aebd82f91&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-28 19:47:24】](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664671246&idx=1&sn=4374dd01444ea2c32722269dcec21d44&chksm=bdcf93488ab81a5e100f9471594caafe2a4ff50474088b1b6c72127fff405b0425a5066b59a5&scene=27#wechat_redirect)
 
 [Linux中国](https://linux.cn/)开源社区官方公众号。专注于开源技术研究、开源思想传播。
 
@@ -16,7 +16,7 @@
 
 [:chart_with_upwards_trend:【1/35/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NjE0NDc5OQ==)
 
-[:camera_flash:【2022-11-27 08:08:31】](https://mp.weixin.qq.com/s?__biz=Mzk0NjE0NDc5OQ==&mid=2247512694&idx=1&sn=30cf51ee18dfcc0537aef94bd120c72a&chksm=c3086106f47fe8109c9b1fc349636ff5535b474d386ddf1711885ee5c5d9a7cc0776001750ed&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-28 09:48:16】](https://mp.weixin.qq.com/s?__biz=Mzk0NjE0NDc5OQ==&mid=2247512777&idx=1&sn=d1037f19e8ed2e05ee407a9535802335&chksm=c30861b9f47fe8af1e617e2c6364bb70ab06c64ba314e93860e8096379781e0a8b9577fae4ba&scene=27#wechat_redirect)
 
 未知攻 焉知防 攻防兼备
 
@@ -27,9 +27,9 @@
 
 ### [kali黑客笔记](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzIwNTY1OA==)
 
-[:chart_with_upwards_trend:【24/25/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzIwNTY1OA==)
+[:chart_with_upwards_trend:【23/24/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzIwNTY1OA==)
 
-[:camera_flash:【2022-11-27 08:30:25】](https://mp.weixin.qq.com/s?__biz=MzkxMzIwNTY1OA==&mid=2247492667&idx=1&sn=aa67ddf9e8847d75ef857e8b47cd01c7&chksm=c10394cef6741dd8830be89882f2362c806a899c64d10756d875911c891e64cfe46aece0674d&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-29 08:00:22】](https://mp.weixin.qq.com/s?__biz=MzkxMzIwNTY1OA==&mid=2247492726&idx=1&sn=e2c66d96e467dbbb6416b5d5bda95f60&chksm=c1039483f6741d95cbdcaa0da61083a0d5b4ab7b0b2c9ca2477cd1265ec8e8c93f48e7ac459d&scene=27#wechat_redirect)
 
 kali论坛官方唯一公众号，主要发布过于小白学习Kali Linux相关安全学习知识。Debian Ubuntu Centos等操作系统的安全和运维。以及树莓派 ESP8266 DIY单片机等相关领域的文章，欢迎大家关注我！
 
@@ -107,7 +107,7 @@ Docker中文社区旨在为大家提供 Docker、Kubernetes 相关工具及前�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4Nzg5Nzc5OA==)
 
-[:camera_flash:【2022-11-28 07:10:42】](https://mp.weixin.qq.com/s?__biz=MzA4Nzg5Nzc5OA==&mid=2651726392&idx=1&sn=6b0b910f0acc4af49af6464d15f10cd5&chksm=8bc8e191bcbf688711c8ff7c9e28ef1a3a2321a951c6aa7125fa6896f3a84ef7b987eab5ec6d&scene=27#wechat_redirect)
+[:camera_flash:【2022-11-29 07:10:37】](https://mp.weixin.qq.com/s?__biz=MzA4Nzg5Nzc5OA==&mid=2651726404&idx=1&sn=f9c1382e19d079c0dbbe779b20c72a2f&chksm=8bc8e1edbcbf68fbce4453929dfcca311c4354b334a36fd91517244bbf781a2ea97793dff464&scene=27#wechat_redirect)
 
 高效运维公众号由萧田国及朋友们维护，经常发布各种广为传播的优秀原创技术文章，关注运维转型，陪伴您的运维职业生涯，一起愉快滴发展。
 
