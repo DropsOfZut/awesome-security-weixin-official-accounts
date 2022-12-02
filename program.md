@@ -1,9 +1,9 @@
 
 ### [编码安全研究](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NDY1MDc2Mg==)
 
-[:chart_with_upwards_trend:【0/35/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NDY1MDc2Mg==)
+[:chart_with_upwards_trend:【0/34/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NDY1MDc2Mg==)
 
-[:camera_flash:【2022-11-30 09:09:14】](https://mp.weixin.qq.com/s?__biz=Mzg2NDY1MDc2Mg==&mid=2247498015&idx=1&sn=8fc276ed31ceccdd8a6c2370e0544c22&chksm=ce64aa7af913236ca91cbfd97560c6d234e0d847713a5d8a750a2fbba1ba18bf70de21a20d8b&scene=27#wechat_redirect)
+[:camera_flash:【2022-12-01 09:09:04】](https://mp.weixin.qq.com/s?__biz=Mzg2NDY1MDc2Mg==&mid=2247498016&idx=1&sn=7c0ecb40cc5407fd04686139f2309301&chksm=ce64aa45f91323532f40149d0934d9a28979d4f908d631eec7f7e81fa47e7a308206dd2d7446&scene=27#wechat_redirect)
 
 专注于学习网络安全
 
@@ -12,28 +12,28 @@
 ---
 
 
-### [哔哩哔哩技术](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3Njc0NTgwMg==)
-
-[:chart_with_upwards_trend:【15/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3Njc0NTgwMg==)
-
-[:camera_flash:【2022-11-29 12:00:22】](https://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&mid=2247492165&idx=1&sn=4441057148a7fa523b77770d5c45dd71&chksm=cf2f2760f858ae768765219ffa0b2144c608a2bf8c8c6a6e34dae445adddb4314786fa519725&scene=27#wechat_redirect)
-
-提供B站相关技术的介绍和讲解
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_6a92a838f9e0" alt="" />
-
----
-
-
 ### [字节跳动技术团队](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
 
-[:chart_with_upwards_trend:【5/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
+[:chart_with_upwards_trend:【5/22/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
 
 [:camera_flash:【2022-11-30 12:00:10】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247500222&idx=1&sn=f68bda93d759159ebcf75b176f45de9b&chksm=e9d30a5cdea4834ad99b5768c38fbbd7c433f957b0a213cfbfdbd7b267c9536242db470b40a9&scene=27#wechat_redirect)
 
 字节跳动的技术实践分享
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_24231986c9c8" alt="" />
+
+---
+
+
+### [哔哩哔哩技术](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3Njc0NTgwMg==)
+
+[:chart_with_upwards_trend:【14/19/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3Njc0NTgwMg==)
+
+[:camera_flash:【2022-11-29 12:00:22】](https://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&mid=2247492165&idx=1&sn=4441057148a7fa523b77770d5c45dd71&chksm=cf2f2760f858ae768765219ffa0b2144c608a2bf8c8c6a6e34dae445adddb4314786fa519725&scene=27#wechat_redirect)
+
+提供B站相关技术的介绍和讲解
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_6a92a838f9e0" alt="" />
 
 ---
 
@@ -68,7 +68,7 @@
 
 [:chart_with_upwards_trend:【6/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
 
-[:camera_flash:【2022-11-29 18:00:29】](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649774686&idx=1&sn=312451ecfc9c23c02fe8c283e652e1de&chksm=beccc92589bb403318d51f34187b55497afa51a8f11f1e4c4c25df086d6b6321f3bb7051adb2&scene=27#wechat_redirect)
+[:camera_flash:【2022-12-01 18:00:21】](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649774760&idx=1&sn=794ccafe404c2c148b3ac2501fdf7af0&chksm=beccc9d389bb40c542f0aa2be1721f936954a5d295a821ce3b695b0d30ffa67cd5cd6f27eabc&scene=27#wechat_redirect)
 
 腾讯技术官方号。腾讯技术创新、前沿领域发布解读平台。
 
@@ -105,7 +105,7 @@
 
 ### [OPPO数智技术](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzE2MzY1OA==)
 
-[:chart_with_upwards_trend:【2/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzE2MzY1OA==)
+[:chart_with_upwards_trend:【1/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzE2MzY1OA==)
 
 [:camera_flash:【2022-11-18 20:00:17】](https://mp.weixin.qq.com/s?__biz=Mzg4MzE2MzY1OA==&mid=2247489592&idx=1&sn=3c98c27be109cff35b0273fe1238ff65&chksm=cf4acf5df83d464b475d277a4b0a5886542a3783219e86f30dc1d50b757d384f0bceef159ca0&scene=27#wechat_redirect)
 
@@ -129,6 +129,19 @@ OPPO在大数据、人工智能、云技术等领域的技术干货及技术活�
 ---
 
 
+### [安全学术圈](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
+
+[:chart_with_upwards_trend:【1/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
+
+[:camera_flash:【2022-11-24 13:15:36】](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247488268&idx=1&sn=92b8688c467a27a61e3a507bd86580d7&chksm=fe2eec87c9596591a7bbfa89fccda11af5913860b5ebab6d55365e5ad9233f9d9e05af6a7d88&scene=27#wechat_redirect)
+
+分享安全方面的论文写作、会议发表、基金申请方面的资料。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_cbda1fb027bf" alt="" />
+
+---
+
+
 ### [爱奇艺技术产品团队](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0MjczMjM2NA==)
 
 [:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0MjczMjM2NA==)
@@ -142,22 +155,9 @@ OPPO在大数据、人工智能、云技术等领域的技术干货及技术活�
 ---
 
 
-### [安全学术圈](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
-
-[:chart_with_upwards_trend:【1/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
-
-[:camera_flash:【2022-11-24 13:15:36】](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247488268&idx=1&sn=92b8688c467a27a61e3a507bd86580d7&chksm=fe2eec87c9596591a7bbfa89fccda11af5913860b5ebab6d55365e5ad9233f9d9e05af6a7d88&scene=27#wechat_redirect)
-
-分享安全方面的论文写作、会议发表、基金申请方面的资料。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_cbda1fb027bf" alt="" />
-
----
-
-
 ### [GobySec](http://wechat.doonsec.com/wechat_echarts/?biz=MzI4MzcwNTAzOQ==)
 
-[:chart_with_upwards_trend:【1/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI4MzcwNTAzOQ==)
+[:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI4MzcwNTAzOQ==)
 
 [:camera_flash:【2022-11-29 17:58:43】](https://mp.weixin.qq.com/s?__biz=MzI4MzcwNTAzOQ==&mid=2247521303&idx=1&sn=55d1e925f2794fa28c615895da1c59dd&chksm=eb847fb7dcf3f6a1e6999de13c9f22df9fb36ba309b47b208d6bc814518732d6537798f2bd85&scene=27#wechat_redirect)
 
@@ -203,19 +203,6 @@ OPPO在大数据、人工智能、云技术等领域的技术干货及技术活�
 本公众号由善于Web反反爬的林弟弟善于App逆向的猛狗哥哥赞助
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_fc6c78a6258d" alt="" />
-
----
-
-
-### [HaoDF技术团队](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxOTg4NDAxMg==)
-
-[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxOTg4NDAxMg==)
-
-[:camera_flash:【2022-11-01 18:30:47】](https://mp.weixin.qq.com/s?__biz=MzUxOTg4NDAxMg==&mid=2247484324&idx=1&sn=266efe666ffe212c7785602c900f415e&chksm=f9f39e27ce841731269d0313ec1a1f6d6c0cbe8826b73ccbf13d7b98155d63d73475cfd6ca4a&scene=27#wechat_redirect)
-
-好大夫在线技术实践与分享，欢迎大家一起交流！更欢迎加入我们，一起用“科技创造优质医疗”！
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a0f9bc95946e" alt="" />
 
 ---
 
@@ -502,6 +489,19 @@ Pinpoint，专业代码审计团队。感谢您的关注！
 逆向案例小笔记
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_84c656527267" alt="" />
+
+---
+
+
+### [HaoDF技术团队](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxOTg4NDAxMg==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxOTg4NDAxMg==)
+
+[:camera_flash:【2022-11-01 18:30:47】](https://mp.weixin.qq.com/s?__biz=MzUxOTg4NDAxMg==&mid=2247484324&idx=1&sn=266efe666ffe212c7785602c900f415e&chksm=f9f39e27ce841731269d0313ec1a1f6d6c0cbe8826b73ccbf13d7b98155d63d73475cfd6ca4a&scene=27#wechat_redirect)
+
+好大夫在线技术实践与分享，欢迎大家一起交流！更欢迎加入我们，一起用“科技创造优质医疗”！
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a0f9bc95946e" alt="" />
 
 ---
 
