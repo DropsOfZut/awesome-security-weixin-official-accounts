@@ -1,7 +1,7 @@
 
 ### [商密君](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
 
-[:chart_with_upwards_trend:【0/112/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
+[:chart_with_upwards_trend:【0/116/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
 
 [:camera_flash:【2022-12-04 19:16:12】](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247587558&idx=1&sn=3500ab3ffee3bac5de6b041ee30f7244&chksm=ec5786bddb200fabd88cb1cb0d364682157aee25ddb07af300e9486c36def974465673b20887&scene=27#wechat_redirect)
 
@@ -14,7 +14,7 @@
 
 ### [数世咨询](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
 
-[:chart_with_upwards_trend:【5/38/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
+[:chart_with_upwards_trend:【5/39/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
 
 [:camera_flash:【2022-12-04 23:30:53】](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247496389&idx=1&sn=327f9025ba8a7b989fd7c7f5fd351b4d&chksm=c1448078f633096edbf894dfc40798653abe5e07c4c17ff4863a2ea953c119f17a826c7881de&scene=27#wechat_redirect)
 
@@ -27,7 +27,7 @@
 
 ### [全栈网络空间安全](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
 
-[:chart_with_upwards_trend:【0/31/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
+[:chart_with_upwards_trend:【0/29/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
 
 [:camera_flash:【2022-12-02 18:55:19】](https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247505439&idx=1&sn=2e4efea80f8ef12c3184a26754c19dfb&chksm=cf3d6ad2f84ae3c4cf0404fc71b2026d2313a60aba3d8c2ecd47ffd7f4728297dda2444f274e&scene=27#wechat_redirect)
 
@@ -42,11 +42,24 @@
 
 [:chart_with_upwards_trend:【0/21/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
 
-[:camera_flash:【2022-12-01 15:48:59】](https://mp.weixin.qq.com/s?__biz=MzU0Mzk0NDQyOA==&mid=2247504452&idx=1&sn=ed1243d7d812a13b7f8d334b2e13e74c&chksm=fb0129c7cc76a0d1e6f06b96470e753ab0f47ac50f0fa7ae827820a581f6542d75168ce9f117&scene=27#wechat_redirect)
+[:camera_flash:【2022-12-05 15:32:04】](https://mp.weixin.qq.com/s?__biz=MzU0Mzk0NDQyOA==&mid=2247504495&idx=1&sn=da4bc3b133af8f91c472595c72b88c0a&chksm=fb0129eccc76a0fae435797a4021fbc938ea083e5f783c1df11478ff0136a16375d537ffc80e&scene=27#wechat_redirect)
 
 深圳市网络与信息安全行业协会（SNISA），是深圳市网络与信息安全行业的权威组织，是中国网络安全审查技术与认证中心（CCRC）在深圳唯一授权工作站，是经深圳市人力资源和社会保障局核准，开展网络空间安全工程技术专业职称评审工作的社会组织。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_650442d8cad4" alt="" />
+
+---
+
+
+### [君哥的体历](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MjQ1NTA4MA==)
+
+[:chart_with_upwards_trend:【6/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MjQ1NTA4MA==)
+
+[:camera_flash:【2022-12-06 07:10:15】](https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247489236&idx=1&sn=0ac032cb785f270322636355aa08ff18&chksm=ea4bbc93dd3c35855dc74a86935bf7a8f3078a8926ae737e77d7149eb95d2042d0a9ab9b894b&scene=27#wechat_redirect)
+
+闲暇时间，逼迫自己，记录分享体验与经历，不求正确统一，但求真、善、美。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_aa4d8db71365" alt="" />
 
 ---
 
@@ -64,24 +77,11 @@
 ---
 
 
-### [君哥的体历](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MjQ1NTA4MA==)
-
-[:chart_with_upwards_trend:【5/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MjQ1NTA4MA==)
-
-[:camera_flash:【2022-12-05 07:00:56】](https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247489223&idx=1&sn=ab58efc9534af60343acaf182539746e&chksm=ea4bbc80dd3c3596708ce2deac0c0e8b0aaf00b66caaeb49e21bc827795fbf641c9bd9c5510d&scene=27#wechat_redirect)
-
-闲暇时间，逼迫自己，记录分享体验与经历，不求正确统一，但求真、善、美。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_aa4d8db71365" alt="" />
-
----
-
-
 ### [绿盟科技金融事业部](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2NDI5MTg4MA==)
 
-[:chart_with_upwards_trend:【0/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2NDI5MTg4MA==)
+[:chart_with_upwards_trend:【0/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2NDI5MTg4MA==)
 
-[:camera_flash:【2022-12-01 19:07:39】](https://mp.weixin.qq.com/s?__biz=MzI2NDI5MTg4MA==&mid=2247492491&idx=1&sn=b0d2dc3debcb282691b3c5c844a9541c&chksm=eaac70ccdddbf9dae1fd764ce31a2d1d4a59cd02e11f23c3ba98ca8490608a2ddc5212fd0325&scene=27#wechat_redirect)
+[:camera_flash:【2022-12-05 09:25:02】](https://mp.weixin.qq.com/s?__biz=MzI2NDI5MTg4MA==&mid=2247492498&idx=1&sn=3c9df63fd54c12a1e221c8ce7e61de46&chksm=eaac70d5dddbf9c3e771056a9a6940eeabad6e4edcd881e7e7bcf0f11c3d8c61806798635385&scene=27#wechat_redirect)
 
 该账号由绿盟科技金融事业部维护，用于发布金融行业相关安全资讯等内容
 
