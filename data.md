@@ -1,9 +1,9 @@
 
 ### [谈数据](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1NzYwNTMzNw==)
 
-[:chart_with_upwards_trend:【1/36/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1NzYwNTMzNw==)
+[:chart_with_upwards_trend:【1/37/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1NzYwNTMzNw==)
 
-[:camera_flash:【2022-12-11 07:36:30】](https://mp.weixin.qq.com/s?__biz=MzI1NzYwNTMzNw==&mid=2247509001&idx=1&sn=ade07eb1d900d5b1f35081686bb84856&chksm=ea160fbfdd6186a923f2baa56639e97e0bd31401fdee6c1d2ba3dbdeea04563cf4f7e0864ef9&scene=27#wechat_redirect)
+[:camera_flash:【2022-12-12 07:30:37】](https://mp.weixin.qq.com/s?__biz=MzI1NzYwNTMzNw==&mid=2247509052&idx=1&sn=28592bdb654ea512f29e001a6db47a7e&chksm=ea160f8add61869c0d0f0d13e223337dc66816cf4298bbf7097b74637b98a4ca242a57757461&scene=27#wechat_redirect)
 
 聚焦数据治理，数字化转型，数据中台等领域专业知识总结和实战分享，做你身边最有价值的数据号！
 
@@ -14,7 +14,7 @@
 
 ### [数据安全与隐私计算](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNzM0NzA3Ng==)
 
-[:chart_with_upwards_trend:【0/31/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNzM0NzA3Ng==)
+[:chart_with_upwards_trend:【0/37/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNzM0NzA3Ng==)
 
 [:camera_flash:【2022-12-09 22:54:30】](https://mp.weixin.qq.com/s?__biz=MzkyNzM0NzA3Ng==&mid=2247499184&idx=1&sn=5330cf16a2ed0c620a6b290974596cea&chksm=c22bc55bf55c4c4d93e8edb0e27cb9eccf71688595475e46b245925d535be5f37834d31d86b5&scene=27#wechat_redirect)
 
@@ -40,7 +40,7 @@ www.pcachina.com
 
 ### [商业智能研究](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzg5MTI0OQ==)
 
-[:chart_with_upwards_trend:【0/19/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzg5MTI0OQ==)
+[:chart_with_upwards_trend:【0/18/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzg5MTI0OQ==)
 
 [:camera_flash:【2022-12-07 21:00:08】](https://mp.weixin.qq.com/s?__biz=MzIwMzg5MTI0OQ==&mid=2247512790&idx=1&sn=c64f7df62adfab6e94a9276069009e7d&chksm=96ca8588a1bd0c9eded0ba7dd08b37ab58171a29997dcae634633d454b1dc78b7a7d3a2d40ba&scene=27#wechat_redirect)
 
@@ -53,7 +53,7 @@ www.pcachina.com
 
 ### [杭州数据安全联盟](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyMjI2MDE2Mg==)
 
-[:chart_with_upwards_trend:【1/14/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyMjI2MDE2Mg==)
+[:chart_with_upwards_trend:【1/13/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyMjI2MDE2Mg==)
 
 [:camera_flash:【2022-12-09 19:52:26】](https://mp.weixin.qq.com/s?__biz=MzkyMjI2MDE2Mg==&mid=2247493199&idx=1&sn=308404cb7ca29ff13808737ed5c9cafc&chksm=c1f5a1e2f68228f472b8aaccdc41df81ee5af11399ecae5d4d4185299afbbcef7c936ebf11d1&scene=27#wechat_redirect)
 
@@ -66,7 +66,7 @@ www.pcachina.com
 
 ### [CCIA数据安全工作委员会](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNzI3MzAxOA==)
 
-[:chart_with_upwards_trend:【10/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNzI3MzAxOA==)
+[:chart_with_upwards_trend:【9/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNzI3MzAxOA==)
 
 [:camera_flash:【2022-12-07 08:30:22】](https://mp.weixin.qq.com/s?__biz=MzkyNzI3MzAxOA==&mid=2247501378&idx=1&sn=6b5f5a7dc84ee331dab61d8dcbdcecbd&chksm=c2281f17f55f960178370e5b3c9b484db0e5472e6850e1453659974babbea5bb60cd2ada112f&scene=27#wechat_redirect)
 
@@ -92,7 +92,7 @@ www.pcachina.com
 
 ### [中国数据安全产业网](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2OTczNjMwNQ==)
 
-[:chart_with_upwards_trend:【5/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2OTczNjMwNQ==)
+[:chart_with_upwards_trend:【5/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2OTczNjMwNQ==)
 
 [:camera_flash:【2022-12-08 17:40:17】](https://mp.weixin.qq.com/s?__biz=Mzg2OTczNjMwNQ==&mid=2247485439&idx=1&sn=4599a61d8ed80979c6195fca3052e9ce&chksm=ce99cde1f9ee44f782844222654e3b57cccabb85ba31e368ee70f0aaab708a2c82ffbdd4f7c6&scene=27#wechat_redirect)
 
