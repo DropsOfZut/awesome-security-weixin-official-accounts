@@ -1,13 +1,26 @@
 
 ### [NISL实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxMTEwOTA3OA==)
 
-[:chart_with_upwards_trend:【12/17/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxMTEwOTA3OA==)
+[:chart_with_upwards_trend:【11/15/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxMTEwOTA3OA==)
 
-[:camera_flash:【2022-12-14 17:00:13】](https://mp.weixin.qq.com/s?__biz=MzUxMTEwOTA3OA==&mid=2247484687&idx=1&sn=7151c6832d7919fcf9b97a8ab7405cd8&chksm=f979f7b6ce0e7ea05cedbae367396a79f67c02afbb9d1c21b829352ca509a9435d79115a4aa4&scene=27#wechat_redirect)
+[:camera_flash:【2022-12-16 18:35:02】](https://mp.weixin.qq.com/s?__biz=MzUxMTEwOTA3OA==&mid=2247484702&idx=1&sn=8b2a835d8afb17018c017ae7807df12b&chksm=f979f7a7ce0e7eb13738e79a3513925abafcba7097524bfccfb6ae032d510a7504797971dbba&scene=27#wechat_redirect)
 
 网络与信息安全实验室(NISL@THU)，专注于网络、系统、应用、人工智能安全教学与研究，在国际四大安全会议发表三十余篇论文，成果在业界产生了广泛影响力。孕育了蓝莲花、紫荆花等知名战队，发起了网安国际学术论坛InForSec。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_52677a4545d1" alt="" />
+
+---
+
+
+### [大学生网络安全尖锋训练营](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
+
+[:chart_with_upwards_trend:【0/13/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
+
+[:camera_flash:【2022-12-16 09:00:02】](https://mp.weixin.qq.com/s?__biz=MzUzODkwMDMxNA==&mid=2247505373&idx=1&sn=4582ca754c4aad4923f8951dadd3b86b&chksm=fad237e8cda5befe7ef11d8971f2cddac4e12983bda090cf2163243f09a4569c05ce67490e25&scene=27#wechat_redirect)
+
+百所高校、百家用人单位、百名尖锋导师，携手打造定制化人才培养模式，通过导师制职业规划和封闭式岗位实训，补足知识短板、提高实战能力，培养创新型、实用型网络安全尖锋人才。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_b54960a6ea07" alt="" />
 
 ---
 
@@ -38,6 +51,19 @@
 ---
 
 
+### [齐鲁师院网络安全社团](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MDU5NTA1MQ==)
+
+[:chart_with_upwards_trend:【0/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MDU5NTA1MQ==)
+
+[:camera_flash:【2022-12-15 17:08:48】](https://mp.weixin.qq.com/s?__biz=MzU3MDU5NTA1MQ==&mid=2247493591&idx=1&sn=b99035b23dd7437d642b91ff1927917f&chksm=fcefa453cb982d45d7123de9ac2c5bff8b2516fd2f3038f29a6d005fdf148babe53effd9dddf&scene=27#wechat_redirect)
+
+欢迎加入齐鲁师范学院网络安全社团
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0c9ae293eb8e" alt="" />
+
+---
+
+
 ### [山警网络空间安全实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Njc1OTYyNA==)
 
 [:chart_with_upwards_trend:【1/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Njc1OTYyNA==)
@@ -47,19 +73,6 @@
 山警网络空间安全实验室（简称：网安社）
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_544c8c38eeaf" alt="" />
-
----
-
-
-### [齐鲁师院网络安全社团](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MDU5NTA1MQ==)
-
-[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MDU5NTA1MQ==)
-
-[:camera_flash:【2022-12-15 17:08:48】](https://mp.weixin.qq.com/s?__biz=MzU3MDU5NTA1MQ==&mid=2247493591&idx=1&sn=b99035b23dd7437d642b91ff1927917f&chksm=fcefa453cb982d45d7123de9ac2c5bff8b2516fd2f3038f29a6d005fdf148babe53effd9dddf&scene=27#wechat_redirect)
-
-欢迎加入齐鲁师范学院网络安全社团
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0c9ae293eb8e" alt="" />
 
 ---
 
@@ -177,19 +190,6 @@
 网安学院拥有专业教学服务、就业指导，课程配套靶场实战平台（www.hetianlab.com），学员学完就练，切实提升实践动手能力；课程涵盖Web安全、软件安全、网络安全等网安各个相关方面。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a6ba8f92d07d" alt="" />
-
----
-
-
-### [大学生网络安全尖锋训练营](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
-
-[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
-
-[:camera_flash:【2022-12-15 09:00:22】](https://mp.weixin.qq.com/s?__biz=MzUzODkwMDMxNA==&mid=2247505368&idx=1&sn=164975a0afb9cf61b68ffd197c348706&chksm=fad237edcda5befb28ab3b0200d8259ac37889588e0f696075e972a10fdc34e2aaa701e2dc00&scene=27#wechat_redirect)
-
-百所高校、百家用人单位、百名尖锋导师，携手打造定制化人才培养模式，通过导师制职业规划和封闭式岗位实训，补足知识短板、提高实战能力，培养创新型、实用型网络安全尖锋人才。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_b54960a6ea07" alt="" />
 
 ---
 
