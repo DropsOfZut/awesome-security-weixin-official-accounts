@@ -1,9 +1,9 @@
 
 ### [IoVSecurity](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
 
-[:chart_with_upwards_trend:【0/87/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
+[:chart_with_upwards_trend:【0/84/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
 
-[:camera_flash:【2022-12-19 11:28:35】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247565596&idx=1&sn=429047bd1494c76cc1899bbfc59cd83d&chksm=fc0391d6cb7418c02648cd4f4c71f626eb7461e32fa9cf50a7d404ef9e0e807ae93865c61962&scene=27#wechat_redirect)
+[:camera_flash:【2022-12-20 14:45:36】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247565634&idx=1&sn=66193c05811eb14e73cd4c9674f78972&chksm=fc039188cb74189edaf872b66deff0f399af23d20b4b441178d656b644336bc3ec330e06e691&scene=27#wechat_redirect)
 
 为智能网联汽车行业专业人士提供信息和网络安全技术、产品及服务等行业发展最新咨询
 
@@ -14,9 +14,9 @@
 
 ### [网络安全与取证研究](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTU3NTY0Nw==)
 
-[:chart_with_upwards_trend:【0/29/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTU3NTY0Nw==)
+[:chart_with_upwards_trend:【0/28/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTU3NTY0Nw==)
 
-[:camera_flash:【2022-12-19 12:21:33】](https://mp.weixin.qq.com/s?__biz=Mzg3NTU3NTY0Nw==&mid=2247485373&idx=1&sn=0e1b43849e2382127f42e4625f89588b&chksm=cf3e278df849ae9bb1674a5a8c7364ac9d3a78bca7c65f3edb4cec22210f798f0f7042233d29&scene=27#wechat_redirect)
+[:camera_flash:【2022-12-20 11:29:55】](https://mp.weixin.qq.com/s?__biz=Mzg3NTU3NTY0Nw==&mid=2247485377&idx=1&sn=9e3e34bd32d5030e5ea5488c305e17b3&chksm=cf3e27f1f849aee751dc6b44153bd60fceffae58a0083f375e923851ca03656a11b5155b6fb3&scene=27#wechat_redirect)
 
 旨于开展网络安全相关法律法规研究与电子数据取证技术研究，分享小知识、小技巧，共同学习提高，推进技术规范化建设。
 
@@ -81,7 +81,7 @@
 
 [:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MzE3NzczNQ==)
 
-[:camera_flash:【2022-12-08 21:00:07】](https://mp.weixin.qq.com/s?__biz=MzI2MzE3NzczNQ==&mid=2650622745&idx=1&sn=01ea5200bb8f17e527716fc2a274d0a3&chksm=f2b63871c5c1b167f2b032d2838460c69e5d572f9d83654926ca477763d01f2f19a88cdfe052&scene=27#wechat_redirect)
+[:camera_flash:【2022-12-20 19:07:46】](https://mp.weixin.qq.com/s?__biz=MzI2MzE3NzczNQ==&mid=2650622799&idx=1&sn=d10e4b113dc6bdec20f06b322b48b3d3&chksm=f2b63827c5c1b1318b7c347b76a5c26c1e0ffbe2bc4eedfa65dc3e843f1bb041b5e54ebe3825&scene=27#wechat_redirect)
 
 最近公众号主要以视频为主，每周发布一个新的视频！内容主要围绕工业控制系统网络内容，主要涉及工控设备、协议解析及检测评估等方向。
 

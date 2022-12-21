@@ -14,7 +14,7 @@
 
 ### [看雪学苑](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTc2MDYxMw==)
 
-[:chart_with_upwards_trend:【27/91/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTc2MDYxMw==)
+[:chart_with_upwards_trend:【26/88/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTc2MDYxMw==)
 
 [:camera_flash:【2022-12-19 18:00:19】](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458488972&idx=1&sn=de0687bfa9fd03296e051372c3f38b65&chksm=b18ea00686f9291034706473da2cd2e85759dcedca31e322d4925ee5064a8a795b67d6acf2a1&scene=27#wechat_redirect)
 
