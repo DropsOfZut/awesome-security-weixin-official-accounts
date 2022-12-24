@@ -1,7 +1,7 @@
 
 ### [系统安全运维](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NjE0NDc5OQ==)
 
-[:chart_with_upwards_trend:【0/55/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NjE0NDc5OQ==)
+[:chart_with_upwards_trend:【0/53/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NjE0NDc5OQ==)
 
 [:camera_flash:【2022-12-22 08:08:51】](https://mp.weixin.qq.com/s?__biz=Mzk0NjE0NDc5OQ==&mid=2247513981&idx=1&sn=81d75887e86d8370c084c882c7912661&chksm=c308640df47fed1b3944f6b5a9c577f0bb156cd87205fff5847c6b5529f9fb8854c32117d1b4&scene=27#wechat_redirect)
 
@@ -14,9 +14,9 @@
 
 ### [kali黑客笔记](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzIwNTY1OA==)
 
-[:chart_with_upwards_trend:【26/26/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzIwNTY1OA==)
+[:chart_with_upwards_trend:【27/27/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzIwNTY1OA==)
 
-[:camera_flash:【2022-12-22 08:00:37】](https://mp.weixin.qq.com/s?__biz=MzkxMzIwNTY1OA==&mid=2247493388&idx=1&sn=1b3eda5dafd47a4627bc538a3f56d387&chksm=c10397f9f6741eefe7875b7cd92c60f0c71550ba2ad19858f33c462fea9366c87919a2425545&scene=27#wechat_redirect)
+[:camera_flash:【2022-12-24 08:00:17】](https://mp.weixin.qq.com/s?__biz=MzkxMzIwNTY1OA==&mid=2247493439&idx=1&sn=806b25f63889c218e436982961af84d6&chksm=c10397caf6741edc76ff1a62841c474e11c74ffc655909dbfbed37ae78aba20526f80bff9e91&scene=27#wechat_redirect)
 
 kali论坛官方唯一公众号，主要发布过于小白学习Kali Linux相关安全学习知识。Debian Ubuntu Centos等操作系统的安全和运维。以及树莓派 ESP8266 DIY单片机等相关领域的文章，欢迎大家关注我！
 
@@ -29,7 +29,7 @@ kali论坛官方唯一公众号，主要发布过于小白学习Kali Linux相关
 
 [:chart_with_upwards_trend:【0/15/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1NzI5NDM4Mw==)
 
-[:camera_flash:【2022-12-21 08:00:19】](https://mp.weixin.qq.com/s?__biz=MzI1NzI5NDM4Mw==&mid=2247494207&idx=1&sn=0e834aa50ee9b3d7d87033b02050349c&chksm=ea1b037fdd6c8a69eabdb991af32e15e8a50c32ba838e1b970af5a988921c55f49970c470893&scene=27#wechat_redirect)
+[:camera_flash:【2022-12-23 08:00:38】](https://mp.weixin.qq.com/s?__biz=MzI1NzI5NDM4Mw==&mid=2247494208&idx=1&sn=54a9853d834db1bbfab5527fed3efb05&chksm=ea1b0300dd6c8a16a8bc5a2998101e41891151e6ae42e3074cbd5246c2243e480619d58e3867&scene=27&key=82fe03f8af13bbb11071d1778fd942ef336d8dba9f64838b8aab4a92305a34f2f6af5aad073109dc1a8ea675d16e153972be9336a2eefea814f482cbe1a517055ed4cb0999986f5b8438afd81a598013221f82b554a0e34060ec9c384c5c0937f6d43d77b8be6157f6e0c8e9affcda20e8fa06ae8ea66ccb76e06eeeceb2f7cd&ascene=15&uin=MTA3Mzc3OTIzNQ%3D%3D&devicetype=Windows+Server+2016+x64&version=6308011a&lang=zh_CN&session_us=gh_a02c9d0e1990&exportkey=n_ChQIAhIQGmbNmXCktDCNQ0HpQBO0OBL5AQIE97dBBAEAAAAAALq9KCsSi0kAAAAOpnltbLcz9gKNyK89dVj0%2FpjVH2gvtPfvmynBK8O8gPoT4fc8D2Sj1aXk50M9tMM1Fe4nSbRm9Wgu%2BSQbZvUEb50DW9J0g%2Feva8TsiSVbYIfxJO2DongzPqAe6P9QJma9iG74AGjIKdl6o2aFKFxV3p8AQSiF4OUeiG8QLMk0UIjixsShis%2F3fm2CNStirl%2B2iXEg08S7LFJ2P2NEN1vhYYy9XgEUnoBvsfN6QD%2BaJHr%2B88woLymxxTXbVwUwL7%2Bwpv0DEDwZiUM3DGYhKLRKDbiB%2Bb6G5NaXVD1ZPJCSVmKYUA%3D%3D&acctmode=0&p&scene=27#wechat_redirect)
 
 Docker中文社区旨在为大家提供 Docker、Kubernetes 相关工具及前沿资讯信息，方便大家了解学习 Docker、Kubernetes 相关容器技术。官网：dockerworld.cn
 

@@ -1,9 +1,9 @@
 
 ### [谈数据](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1NzYwNTMzNw==)
 
-[:chart_with_upwards_trend:【0/32/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1NzYwNTMzNw==)
+[:chart_with_upwards_trend:【0/30/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1NzYwNTMzNw==)
 
-[:camera_flash:【2022-12-22 10:00:36】](https://mp.weixin.qq.com/s?__biz=MzI1NzYwNTMzNw==&mid=2247509236&idx=1&sn=1846cfda4f20a042de9f03cdd6a2c9cd&chksm=ea160f42dd6186545301b2ece0a2148d38444f31fe07286b4715837625f8819ef2203f8416eb&scene=27#wechat_redirect)
+[:camera_flash:【2022-12-24 07:38:58】](https://mp.weixin.qq.com/s?__biz=MzI1NzYwNTMzNw==&mid=2247509252&idx=1&sn=89dde93c260665d13c6767e30a5dcf2b&chksm=ea160eb2dd6187a4a3076ed868340b1d092a6ff9a65008dc43308b67e1ab85912ac6ed516abf&scene=27#wechat_redirect)
 
 聚焦数据治理，数字化转型，数据中台等领域专业知识总结和实战分享，做你身边最有价值的数据号！
 
@@ -14,7 +14,7 @@
 
 ### [数据安全与隐私计算](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNzM0NzA3Ng==)
 
-[:chart_with_upwards_trend:【0/28/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNzM0NzA3Ng==)
+[:chart_with_upwards_trend:【0/27/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNzM0NzA3Ng==)
 
 [:camera_flash:【2022-12-20 21:06:36】](https://mp.weixin.qq.com/s?__biz=MzkyNzM0NzA3Ng==&mid=2247499313&idx=1&sn=7568d47af9591e04c87a878d57585da8&chksm=c22bc6daf55c4fccd2f5beffbd0f2811610c33bcd287c53ec47cc85edd78bd9108df93686a89&scene=27#wechat_redirect)
 
@@ -27,7 +27,7 @@
 
 ### [网络安全与数据治理](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzODk1NzY5NA==)
 
-[:chart_with_upwards_trend:【1/18/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzODk1NzY5NA==)
+[:chart_with_upwards_trend:【1/16/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzODk1NzY5NA==)
 
 [:camera_flash:【2022-12-20 14:38:43】](https://mp.weixin.qq.com/s?__biz=MzIzODk1NzY5NA==&mid=2247493520&idx=1&sn=71ed06e8acd61ea23f6e152c87e804e5&chksm=e933c281de444b97be76a1553699ebd4d113b46d799beab21457cda3fada7e84dac7c742a236&scene=27#wechat_redirect)
 
@@ -40,7 +40,7 @@ www.pcachina.com
 
 ### [杭州数据安全联盟](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyMjI2MDE2Mg==)
 
-[:chart_with_upwards_trend:【1/17/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyMjI2MDE2Mg==)
+[:chart_with_upwards_trend:【1/15/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyMjI2MDE2Mg==)
 
 [:camera_flash:【2022-12-22 10:36:02】](https://mp.weixin.qq.com/s?__biz=MzkyMjI2MDE2Mg==&mid=2247493347&idx=1&sn=c0332cd3612ffe71feb4d78f81f47b4d&chksm=c1f5a14ef68228587f68a89796332bb7ab93b5743ddbc6171011e2b028c670706aa5ed589160&scene=27#wechat_redirect)
 
@@ -53,7 +53,7 @@ www.pcachina.com
 
 ### [商业智能研究](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzg5MTI0OQ==)
 
-[:chart_with_upwards_trend:【0/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzg5MTI0OQ==)
+[:chart_with_upwards_trend:【0/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzg5MTI0OQ==)
 
 [:camera_flash:【2022-12-21 21:00:34】](https://mp.weixin.qq.com/s?__biz=MzIwMzg5MTI0OQ==&mid=2247512874&idx=1&sn=80842143b4696a57ce7c8e7b3ba3c602&chksm=96ca8474a1bd0d62a1acb6906303694271209297c479b17e0cd43b725cd78925056b408fd946&scene=27#wechat_redirect)
 
@@ -64,15 +64,15 @@ www.pcachina.com
 ---
 
 
-### [大数据安全工程研究中心](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Nzg0NzUxOQ==)
+### [天锐数据安全](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5MTk0MzIzMQ==)
 
-[:chart_with_upwards_trend:【0/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Nzg0NzUxOQ==)
+[:chart_with_upwards_trend:【0/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5MTk0MzIzMQ==)
 
-[:camera_flash:【2022-12-22 15:59:09】](https://mp.weixin.qq.com/s?__biz=MjM5Nzg0NzUxOQ==&mid=2247484820&idx=1&sn=a8d7409d7c1b94b4bf969502905171b6&chksm=a6d28d2491a50432bd25ead6162c6fb6e721c1e8290ebe3ab117a40b69b842a22b0b4690451d&scene=27#wechat_redirect)
+[:camera_flash:【2022-12-12 16:58:55】](https://mp.weixin.qq.com/s?__biz=MjM5MTk0MzIzMQ==&mid=2652015527&idx=1&sn=4645900a6d578bb68e5d4f171b26e743&chksm=bd4bf4f78a3c7de1784b8d17287d16494db767b6052695eafab70eea66f164b5ac8386c9e841&scene=27#wechat_redirect)
 
-提供大数据安全设计咨询、实时推送前沿数据安全技术、解读数据安全标准；为政企单位提升信息安全意识，提供数据安全解决方案。
+可信赖的数据安全产品与服务提供商
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e09832f580ea" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a112d631fa8f" alt="" />
 
 ---
 
@@ -90,15 +90,15 @@ www.pcachina.com
 ---
 
 
-### [天锐数据安全](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5MTk0MzIzMQ==)
+### [数据安全共同体计划](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MDcxODc5NA==)
 
-[:chart_with_upwards_trend:【0/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5MTk0MzIzMQ==)
+[:chart_with_upwards_trend:【4/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MDcxODc5NA==)
 
-[:camera_flash:【2022-12-12 16:58:55】](https://mp.weixin.qq.com/s?__biz=MjM5MTk0MzIzMQ==&mid=2652015527&idx=1&sn=4645900a6d578bb68e5d4f171b26e743&chksm=bd4bf4f78a3c7de1784b8d17287d16494db767b6052695eafab70eea66f164b5ac8386c9e841&scene=27#wechat_redirect)
+[:camera_flash:【2022-12-23 08:30:02】](https://mp.weixin.qq.com/s?__biz=Mzg5MDcxODc5NA==&mid=2247487225&idx=1&sn=a04cf0c3a4767747661f8ebb63f10245&chksm=cfd911dcf8ae98ca1909188422f96b7808308b122ad634c81eaddf3816092543480790db4194&scene=27&key=81a3de90d40f41c9abd342881a591c66d229b4a3322745ce9a520981f19249eb6125d7ad91a5592d51dc66f4b661895247a6d4f0665f268e7a1bfe748e89b4596020994b0cffa99e6be4d5ab9d0e2c70bc368cd60862dbaad15c4aa21198a09dc57b3b47a58a5423f2f4b13f2f1ffbcec33b06418272678e0717ee961f7dbf78&ascene=15&uin=MTA3Mzc3OTIzNQ%3D%3D&devicetype=Windows+Server+2016+x64&version=6308011a&lang=zh_CN&session_us=gh_f64291c6fcef&exportkey=n_ChQIAhIQjxnu36fIt0WrXeouHAbDORL5AQIE97dBBAEAAAAAAHzaBoc0enEAAAAOpnltbLcz9gKNyK89dVj0akNMbO2iPrzHwgulePG9VxEv5NzXk%2F1SQTbW1HixoDymSGDOTNPfzzMj5REzyc0kZTM2p%2FrmtcB4pYepgVbCUIopYGzOM7m5Gjf9YAVxQYGMurF1gPlFvA5yIHbiuZZt5m00TMBL8DwLk2O%2FIFouEFK2d9Dl7mIwcrvc0aGW5wCMHh%2BYvdW9f4Z83kJftRTM6Ioklh4DRff%2F12aWh6O4I83qX7MJRW11jJRHUDouGpSD3iR%2FA7VIVl1D0btMs%2Bmq72RE5ILVIRcx2mWI1lUMeKrf8A%3D%3D&acctmode=0&pass_&scene=27#wechat_redirect)
 
-可信赖的数据安全产品与服务提供商
+“数据安全共同体计划”为了促进《数据安全法》《个人信息保护法》落地实施，推动数据开发利用和数据安全领域的技术推广和产业创新，致力于促进数据安全产业链各环节的交流与合作，推动数据安全政策、技术、人才多要素良性互动，构建数据安全产业生态共同体。
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a112d631fa8f" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_385b203e9e03" alt="" />
 
 ---
 
@@ -116,15 +116,15 @@ www.pcachina.com
 ---
 
 
-### [数据安全共同体计划](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MDcxODc5NA==)
+### [大数据安全工程研究中心](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Nzg0NzUxOQ==)
 
-[:chart_with_upwards_trend:【3/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MDcxODc5NA==)
+[:chart_with_upwards_trend:【0/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Nzg0NzUxOQ==)
 
-[:camera_flash:【2022-12-20 09:32:22】](https://mp.weixin.qq.com/s?__biz=Mzg5MDcxODc5NA==&mid=2247487213&idx=1&sn=e35db2d53dcce158539fe505ec6936b6&chksm=cfd911c8f8ae98de553f9c28ba879d8f65258dacb789d732d2905e2986d295d528fa14a2c8fc&scene=27#wechat_redirect)
+[:camera_flash:【2022-12-22 15:59:09】](https://mp.weixin.qq.com/s?__biz=MjM5Nzg0NzUxOQ==&mid=2247484820&idx=1&sn=a8d7409d7c1b94b4bf969502905171b6&chksm=a6d28d2491a50432bd25ead6162c6fb6e721c1e8290ebe3ab117a40b69b842a22b0b4690451d&scene=27#wechat_redirect)
 
-“数据安全共同体计划”为了促进《数据安全法》《个人信息保护法》落地实施，推动数据开发利用和数据安全领域的技术推广和产业创新，致力于促进数据安全产业链各环节的交流与合作，推动数据安全政策、技术、人才多要素良性互动，构建数据安全产业生态共同体。
+提供大数据安全设计咨询、实时推送前沿数据安全技术、解读数据安全标准；为政企单位提升信息安全意识，提供数据安全解决方案。
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_385b203e9e03" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e09832f580ea" alt="" />
 
 ---
 
@@ -144,7 +144,7 @@ www.pcachina.com
 
 ### [数安行](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5OTM0NTM2OQ==)
 
-[:chart_with_upwards_trend:【0/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5OTM0NTM2OQ==)
+[:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5OTM0NTM2OQ==)
 
 [:camera_flash:【2022-12-22 12:00:38】](https://mp.weixin.qq.com/s?__biz=Mzg5OTM0NTM2OQ==&mid=2247488576&idx=1&sn=17d46649d3b31c6ed95f3dae64eee160&chksm=c055eaf6f72263e0caf92ef56776bf449e1f17975a4061839112ee04968529453237e5cd007d&scene=27#wechat_redirect)
 
@@ -157,26 +157,13 @@ www.pcachina.com
 
 ### [中伦文德网络安全与数据合规](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxNDgyNTg0NQ==)
 
-[:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxNDgyNTg0NQ==)
+[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxNDgyNTg0NQ==)
 
 [:camera_flash:【2022-12-10 18:00:35】](https://mp.weixin.qq.com/s?__biz=MzIxNDgyNTg0NQ==&mid=2247490182&idx=1&sn=b23fe048e13b0ac4b9d24f8b699c3b82&chksm=97a0f49ca0d77d8a86f523bad42737a362424ff7979921a4a899303679fb43c706cc11101483&scene=27#wechat_redirect)
 
 中伦文德网络安全与数据合规专委会
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4b33f9a2e329" alt="" />
-
----
-
-
-### [安华金和](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3MTQwNTQxMg==)
-
-[:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3MTQwNTQxMg==)
-
-[:camera_flash:【2022-12-21 11:35:46】](https://mp.weixin.qq.com/s?__biz=MzA3MTQwNTQxMg==&mid=2650783742&idx=1&sn=1830120cccf66332674957602681a8cb&chksm=872505f5b0528ce34162baf7164bee2b4dcaee99e9d8bce6aa94e7bdf5a3e2cff32d02b520e0&scene=27#wechat_redirect)
-
-中国专业领先的数据安全产品、解决方案及咨询服务提供商。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_25eab0459e95" alt="" />
 
 ---
 
@@ -194,15 +181,28 @@ www.pcachina.com
 ---
 
 
-### [数据安全服务](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzMDM1MDgzNA==)
+### [安华金和](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3MTQwNTQxMg==)
 
-[:chart_with_upwards_trend:【2/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzMDM1MDgzNA==)
+[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3MTQwNTQxMg==)
 
-[:camera_flash:【2022-12-20 11:48:33】](https://mp.weixin.qq.com/s?__biz=MzIzMDM1MDgzNA==&mid=2247486457&idx=1&sn=b8621c7aac90b8f89e4d08e7789b3eea&chksm=e8b58164dfc20872d3de53c90ed90c0e1822b240d843115d1eadfd773a20d266318e7e1a67e2&scene=27#wechat_redirect)
+[:camera_flash:【2022-12-21 11:35:46】](https://mp.weixin.qq.com/s?__biz=MzA3MTQwNTQxMg==&mid=2650783742&idx=1&sn=1830120cccf66332674957602681a8cb&chksm=872505f5b0528ce34162baf7164bee2b4dcaee99e9d8bce6aa94e7bdf5a3e2cff32d02b520e0&scene=27#wechat_redirect)
 
-浙江省数据安全服务有限公司
+中国专业领先的数据安全产品、解决方案及咨询服务提供商。
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4b08a9c66ef8" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_25eab0459e95" alt="" />
+
+---
+
+
+### [全知科技](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0NDMxODY2Nw==)
+
+[:chart_with_upwards_trend:【3/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0NDMxODY2Nw==)
+
+[:camera_flash:【2022-12-22 15:49:19】](https://mp.weixin.qq.com/s?__biz=MzU0NDMxODY2Nw==&mid=2247518502&idx=1&sn=7fa351ba01cd641f0896f70ccba4e0ef&chksm=fb7f3c82cc08b5946db5c8e06a0cf63081573f3f49e9a92044953f58cefdc2b8123c80e8b824&scene=27#wechat_redirect)
+
+数据在流动，可见才安全
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0bd30f1b0430" alt="" />
 
 ---
 
@@ -233,15 +233,15 @@ www.pcachina.com
 ---
 
 
-### [全知科技](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0NDMxODY2Nw==)
+### [数据安全服务](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzMDM1MDgzNA==)
 
-[:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0NDMxODY2Nw==)
+[:chart_with_upwards_trend:【1/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzMDM1MDgzNA==)
 
-[:camera_flash:【2022-12-22 15:49:19】](https://mp.weixin.qq.com/s?__biz=MzU0NDMxODY2Nw==&mid=2247518502&idx=1&sn=7fa351ba01cd641f0896f70ccba4e0ef&chksm=fb7f3c82cc08b5946db5c8e06a0cf63081573f3f49e9a92044953f58cefdc2b8123c80e8b824&scene=27#wechat_redirect)
+[:camera_flash:【2022-12-20 11:48:33】](https://mp.weixin.qq.com/s?__biz=MzIzMDM1MDgzNA==&mid=2247486457&idx=1&sn=b8621c7aac90b8f89e4d08e7789b3eea&chksm=e8b58164dfc20872d3de53c90ed90c0e1822b240d843115d1eadfd773a20d266318e7e1a67e2&scene=27#wechat_redirect)
 
-数据在流动，可见才安全
+浙江省数据安全服务有限公司
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0bd30f1b0430" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4b08a9c66ef8" alt="" />
 
 ---
 
@@ -255,19 +255,6 @@ www.pcachina.com
 “哈工大（深圳）-奇安信数据安全研究院”（简称数据安全研究院）由哈尔滨工业大学(深圳)和奇安信集团联合成立。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_66f2d6fee2d3" alt="" />
-
----
-
-
-### [数据安全治理技术](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNzk2OTQ4MQ==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNzk2OTQ4MQ==)
-
-[:camera_flash:【2022-11-23 08:00:48】](https://mp.weixin.qq.com/s?__biz=MzAwNzk2OTQ4MQ==&mid=2247483799&idx=1&sn=db44917b8af9643bca83248665e943d9&chksm=9b774e31ac00c727cfb473c082fc51f0f004dddda752a4e0840d198f412dea84f4d7a4b2a9df&scene=27&key=1553f2842a312818948fae2bce881a1f52d9cb46f630e4faded84299d3739a7a6773806d89a573db1ba1856d56a46d231aac2fdadfc985e8e062cfe059a1b2ae9a99b0ad761e6371d8512f7a9386823d27706daef2fe8e39e40428cf9a1afaacecacc6f4e76f1120ecfbd825368fef7b02956a09284b07b546706aa793d0845f&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+Server+2016+x64&version=63070517&lang=zh_CN&session_us=gh_c29b8eca5b6e&exportkey=n_ChQIAhIQL57gBsDro31hZd0%2FHL71XBL4AQIE97dBBAEAAAAAAHQBGJdPvRQAAAAOpnltbLcz9gKNyK89dVj0tB7I75jnVskP5FY%2FeNzb54OAwB9%2FJllRDKtMKytmbFXfkOXnN14cng%2BH0IuoYCQeeqfT7s6A7qYecapkQS8nV4DaP5W15cLy8miRCUldFCDUNf9WcwcBUsSVLjbSj0Qp8qancQ0AMmX%2BCPilqWcggiWsi1%2Fp0EyYj0wJV5EySlOP%2FUDm1U5MNmDp%2BC3k2f%2BCy1Sdo%2BlHkllMJq43HFCRq9rgdxmMsGhG4a8QgMM%2B5eHSB62a4LByHIfxyl5kgWST8ps2yQ3Lgad3tH%2BlbkfKXbFc&acctmode=0&pass_tick&scene=27#wechat_redirect)
-
-聚焦数据安全治理，研究数据安全产品及相应技术实践
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_871cd2d145db" alt="" />
 
 ---
 
@@ -294,6 +281,19 @@ www.pcachina.com
 专注于数据安全治理实践，我们将定期与您分享数据安全治理等相关领域内的最佳实践思路与行业洞见，从而让您更好地了解数据安全的重要性。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_3553072b6cda" alt="" />
+
+---
+
+
+### [数据安全治理技术](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNzk2OTQ4MQ==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNzk2OTQ4MQ==)
+
+[:camera_flash:【2022-11-23 08:00:48】](https://mp.weixin.qq.com/s?__biz=MzAwNzk2OTQ4MQ==&mid=2247483799&idx=1&sn=db44917b8af9643bca83248665e943d9&chksm=9b774e31ac00c727cfb473c082fc51f0f004dddda752a4e0840d198f412dea84f4d7a4b2a9df&scene=27&key=1553f2842a312818948fae2bce881a1f52d9cb46f630e4faded84299d3739a7a6773806d89a573db1ba1856d56a46d231aac2fdadfc985e8e062cfe059a1b2ae9a99b0ad761e6371d8512f7a9386823d27706daef2fe8e39e40428cf9a1afaacecacc6f4e76f1120ecfbd825368fef7b02956a09284b07b546706aa793d0845f&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+Server+2016+x64&version=63070517&lang=zh_CN&session_us=gh_c29b8eca5b6e&exportkey=n_ChQIAhIQL57gBsDro31hZd0%2FHL71XBL4AQIE97dBBAEAAAAAAHQBGJdPvRQAAAAOpnltbLcz9gKNyK89dVj0tB7I75jnVskP5FY%2FeNzb54OAwB9%2FJllRDKtMKytmbFXfkOXnN14cng%2BH0IuoYCQeeqfT7s6A7qYecapkQS8nV4DaP5W15cLy8miRCUldFCDUNf9WcwcBUsSVLjbSj0Qp8qancQ0AMmX%2BCPilqWcggiWsi1%2Fp0EyYj0wJV5EySlOP%2FUDm1U5MNmDp%2BC3k2f%2BCy1Sdo%2BlHkllMJq43HFCRq9rgdxmMsGhG4a8QgMM%2B5eHSB62a4LByHIfxyl5kgWST8ps2yQ3Lgad3tH%2BlbkfKXbFc&acctmode=0&pass_tick&scene=27#wechat_redirect)
+
+聚焦数据安全治理，研究数据安全产品及相应技术实践
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_871cd2d145db" alt="" />
 
 ---
 
