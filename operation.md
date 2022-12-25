@@ -1,9 +1,9 @@
 
 ### [系统安全运维](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NjE0NDc5OQ==)
 
-[:chart_with_upwards_trend:【0/53/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NjE0NDc5OQ==)
+[:chart_with_upwards_trend:【0/51/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NjE0NDc5OQ==)
 
-[:camera_flash:【2022-12-22 08:08:51】](https://mp.weixin.qq.com/s?__biz=Mzk0NjE0NDc5OQ==&mid=2247513981&idx=1&sn=81d75887e86d8370c084c882c7912661&chksm=c308640df47fed1b3944f6b5a9c577f0bb156cd87205fff5847c6b5529f9fb8854c32117d1b4&scene=27#wechat_redirect)
+[:camera_flash:【2022-12-24 08:08:13】](https://mp.weixin.qq.com/s?__biz=Mzk0NjE0NDc5OQ==&mid=2247514194&idx=1&sn=498be90917da74332af4fb3ecf24caef&chksm=c3086b22f47fe234bab1f297306b3c891b4c9d0386c01bfc8637b04eddd4980190ae5a3fb30c&scene=27#wechat_redirect)
 
 未知攻 焉知防 攻防兼备
 
@@ -14,9 +14,9 @@
 
 ### [kali黑客笔记](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzIwNTY1OA==)
 
-[:chart_with_upwards_trend:【27/27/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzIwNTY1OA==)
+[:chart_with_upwards_trend:【26/26/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzIwNTY1OA==)
 
-[:camera_flash:【2022-12-24 08:00:17】](https://mp.weixin.qq.com/s?__biz=MzkxMzIwNTY1OA==&mid=2247493439&idx=1&sn=806b25f63889c218e436982961af84d6&chksm=c10397caf6741edc76ff1a62841c474e11c74ffc655909dbfbed37ae78aba20526f80bff9e91&scene=27#wechat_redirect)
+[:camera_flash:【2022-12-25 08:00:51】](https://mp.weixin.qq.com/s?__biz=MzkxMzIwNTY1OA==&mid=2247493461&idx=1&sn=e058f01478128915976e448cdeb2dcc8&chksm=c10397a0f6741eb68bca13c13ca0f27a97079dab44603aac295b791041f1798dd58bce782113&scene=27#wechat_redirect)
 
 kali论坛官方唯一公众号，主要发布过于小白学习Kali Linux相关安全学习知识。Debian Ubuntu Centos等操作系统的安全和运维。以及树莓派 ESP8266 DIY单片机等相关领域的文章，欢迎大家关注我！
 
@@ -40,7 +40,7 @@ Docker中文社区旨在为大家提供 Docker、Kubernetes 相关工具及前�
 
 ### [网络运维渗透](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3MjMxODUwNg==)
 
-[:chart_with_upwards_trend:【2/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3MjMxODUwNg==)
+[:chart_with_upwards_trend:【3/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3MjMxODUwNg==)
 
 [:camera_flash:【2022-12-18 20:37:24】](https://mp.weixin.qq.com/s?__biz=MzA3MjMxODUwNg==&mid=2247485676&idx=1&sn=8f8c6d2385d8083f1c84fdc5d8a3abe6&chksm=9f2163a9a856eabf8bf8f0c847cccaca56ee98f6534ef45c8aa54f33e6a8ce98599be78f17e8&scene=27#wechat_redirect)
 
