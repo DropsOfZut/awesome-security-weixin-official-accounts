@@ -1,26 +1,26 @@
 
-### [情报分析师](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3Mjc1MTkwOA==)
-
-[:chart_with_upwards_trend:【16/25/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3Mjc1MTkwOA==)
-
-[:camera_flash:【2022-12-25 10:59:59】](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650521516&idx=1&sn=4f5f6b7e09b2b8c7bfe027965bf8b735&chksm=871691e7b06118f1580032d9c648dae738c204c3badf17d2fa64ce4366ec7c536092e89cca50&scene=27#wechat_redirect)
-
-POLICE教授团队：聚焦情报与安全！关注情报动态，制定情报标准，开展情报培训，促进情报协作，传播情报文化，优化情报生态，共建情报分析师职业共同体。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e87ab103349e" alt="" />
-
----
-
-
 ### [丁爸情报分析师的工具箱](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MTE0NTE3Mw==)
 
-[:chart_with_upwards_trend:【15/25/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MTE0NTE3Mw==)
+[:chart_with_upwards_trend:【14/24/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MTE0NTE3Mw==)
 
 [:camera_flash:【2022-12-26 07:00:40】](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651134103&idx=1&sn=7c2e48ccad28550842595ad28c0132af&chksm=f1af6fadc6d8e6bb74210046a2199eb6a2588b7775622fea959e0ee05c2ba7aa36adc8ae5d54&scene=27#wechat_redirect)
 
 每天为大家精选各类情报分析相关的资源、工具、技巧和资讯，努力成为情报分析师必备的工具箱。外挂机器人“小丁丁”还能陪您聊天，给您查航班、查列车、查天气、查酒店、查美食、查股票、回答您的提问等等。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_5331cb469b82" alt="" />
+
+---
+
+
+### [情报分析师](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3Mjc1MTkwOA==)
+
+[:chart_with_upwards_trend:【15/23/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3Mjc1MTkwOA==)
+
+[:camera_flash:【2022-12-25 10:59:59】](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650521516&idx=1&sn=4f5f6b7e09b2b8c7bfe027965bf8b735&chksm=871691e7b06118f1580032d9c648dae738c204c3badf17d2fa64ce4366ec7c536092e89cca50&scene=27#wechat_redirect)
+
+POLICE教授团队：聚焦情报与安全！关注情报动态，制定情报标准，开展情报培训，促进情报协作，传播情报文化，优化情报生态，共建情报分析师职业共同体。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e87ab103349e" alt="" />
 
 ---
 

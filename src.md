@@ -415,19 +415,6 @@ BOSS直聘安全应急响应中心官方公众号
 ---
 
 
-### [快手安全应急响应中心](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MDg0MDc2MQ==)
-
-[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MDg0MDc2MQ==)
-
-[:camera_flash:【2022-12-21 12:40:15】](https://mp.weixin.qq.com/s?__biz=MzU5MDg0MDc2MQ==&mid=2247486008&idx=1&sn=9b5fe5c8ad8358812246a5a76848ea99&chksm=fe395ceec94ed5f87a18870b70172985220bea7d2a73296fdcd5b1c3ae2432412cfec1d40a6c&scene=27#wechat_redirect)
-
-https://security.kuaishou.com
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_99dfd622a012" alt="" />
-
----
-
-
 ### [银联安全应急响应中心](http://wechat.doonsec.com/wechat_echarts/?biz=MzI4Njc3NjczNg==)
 
 [:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI4Njc3NjczNg==)
@@ -541,6 +528,19 @@ https://security.kuaishou.com
 补天漏洞响应平台旨在建立企业与白帽子之间的桥梁，帮助企业建立SRC（安全应急响应中心），让企业安全，让白帽子获益，
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_2f60c48366cb" alt="" />
+
+---
+
+
+### [快手安全应急响应中心](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MDg0MDc2MQ==)
+
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MDg0MDc2MQ==)
+
+[:camera_flash:【2022-12-21 12:40:15】](https://mp.weixin.qq.com/s?__biz=MzU5MDg0MDc2MQ==&mid=2247486008&idx=1&sn=9b5fe5c8ad8358812246a5a76848ea99&chksm=fe395ceec94ed5f87a18870b70172985220bea7d2a73296fdcd5b1c3ae2432412cfec1d40a6c&scene=27#wechat_redirect)
+
+https://security.kuaishou.com
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_99dfd622a012" alt="" />
 
 ---
 

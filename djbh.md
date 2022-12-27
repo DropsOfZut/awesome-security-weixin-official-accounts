@@ -1,7 +1,7 @@
 
 ### [计算机与网络安全](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTk4MDE2MA==)
 
-[:chart_with_upwards_trend:【0/87/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTk4MDE2MA==)
+[:chart_with_upwards_trend:【0/85/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTk4MDE2MA==)
 
 [:camera_flash:【2022-12-26 07:31:10】](https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655187580&idx=1&sn=a8556ba739ad2e592e9717a6e06b0245&chksm=bc856f938bf2e68563146fb6454baa485ce0d016b330f0a4caea571ad793c4f64ecf5f34b634&scene=27#wechat_redirect)
 
@@ -14,7 +14,7 @@
 
 ### [祺印说信安](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5MzU5MzQzMA==)
 
-[:chart_with_upwards_trend:【51/80/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5MzU5MzQzMA==)
+[:chart_with_upwards_trend:【49/77/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5MzU5MzQzMA==)
 
 [:camera_flash:【2022-12-26 00:24:27】](https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652097579&idx=1&sn=037954c1675c43bdda233c059d5907bb&chksm=8bbce612bccb6f0412242e132141b0b1d3d97f68627e1f486e5ea29996c362a11c7c70a79262&scene=27&key=695dad186275d221295139c985e56f000958c4ff04d74b71ab18c7c08e0fe66fa995dbfdb8401c44f6a593dcfb49daab4207d42c606d936047c02f0a49cf9288ecde3e5d02e2535ec553d262fcf183df3d5fc8e7e043a0627f3cd25116f29e8d8fb3edf79619c3f39473d4005d5173bc16fdf2a1f9fba09a8e64fcded0add232&ascene=15&uin=MTA3Mzc3OTIzNQ%3D%3D&devicetype=Windows+Server+2016+x64&version=6308011a&lang=zh_CN&session_us=gh_5617c1b503e7&exportkey=n_ChQIAhIQfEO6lYLevZj04x%2F9etjeEhL5AQIE97dBBAEAAAAAABh9JsuKP8EAAAAOpnltbLcz9gKNyK89dVj0r11VE85vCOslyDiX9iYLfasTx7WGmB3C43xzF1S0Z3CaEWYiJna%2BflXTBbPlyN0DutbwbNHqTiW0bd8%2FJFX7wUpWH8gMWoPxnA%2BcblgqjQOaWt3IJunb4yhTd%2Bc9ubgIpAdJIcA2rpZfXLZK6Z4H1bpYHMF5vYVDIVsMPSqAsbnCTsq0Aq6QDfbAGQTZ2bw29dIng3In50WsefAUEhRsyQ33Em71ur74BrBjuiX0npFr8ixiGfAEGb0oxpJQ2keMsj7lgpg3G3s%2BhFvdF8xz3ytcjA%3D%3D&acctmode=0&pass_ti&scene=27#wechat_redirect)
 
@@ -27,7 +27,7 @@
 
 ### [河南等级保护测评](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NjY2MTI3Mg==)
 
-[:chart_with_upwards_trend:【43/68/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NjY2MTI3Mg==)
+[:chart_with_upwards_trend:【37/62/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NjY2MTI3Mg==)
 
 [:camera_flash:【2022-12-26 00:24:52】](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247488786&idx=1&sn=2c42961e4304afd151871f68afcd9ef1&chksm=ce4633e5f931baf3a297af9028758bf85c0f922987cb5a1131145bade99c29bae555a6270a4a&scene=27#wechat_redirect)
 
@@ -40,7 +40,7 @@
 
 ### [安全内参](http://wechat.doonsec.com/wechat_echarts/?biz=MzI4NDY2MDMwMw==)
 
-[:chart_with_upwards_trend:【0/48/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI4NDY2MDMwMw==)
+[:chart_with_upwards_trend:【0/47/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI4NDY2MDMwMw==)
 
 [:camera_flash:【2022-12-24 09:19:16】](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247507306&idx=1&sn=aacfca20e0bc82bf16d1285c7c98598c&chksm=ebfa9a4adc8d135c7b8b756981c23aecba7b8b0891073a22a1f09ab02d7c064d8506869a0eec&scene=27#wechat_redirect)
 
@@ -53,7 +53,7 @@
 
 ### [汇能云安全](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNzAwOTQxMg==)
 
-[:chart_with_upwards_trend:【0/21/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNzAwOTQxMg==)
+[:chart_with_upwards_trend:【0/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNzAwOTQxMg==)
 
 [:camera_flash:【2022-12-23 09:49:55】](https://mp.weixin.qq.com/s?__biz=MzIwNzAwOTQxMg==&mid=2652247537&idx=1&sn=aa8a415da912f6dabc4b90922154e35e&chksm=8cfa561abb8ddf0c95b8b5fcafd331ace97b300ed0e6b56302fd14f5e3b81e4991c0ecdd5a61&scene=27#wechat_redirect)
 
