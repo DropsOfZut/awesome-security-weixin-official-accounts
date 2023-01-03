@@ -103,19 +103,6 @@
 ---
 
 
-### [连天教育](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNTk2MDAwNA==)
-
-[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNTk2MDAwNA==)
-
-[:camera_flash:【2022-12-03 14:47:45】](https://mp.weixin.qq.com/s?__biz=MzIwNTk2MDAwNA==&mid=2247486094&idx=1&sn=af283eaa2008b52b206ec9e5b6157457&chksm=9729aca5a05e25b3d5e935524dd36a15f0796960887dc5157f882abc6f53b7cd3c1a592f3207&key=1553f2842a312818fee67dc08a6b32d12e78ce902f9aa19aee0c71e8e9f3179c485add61a8b587f1fa3e480ff2497e0a2c7fc278e92a0824c3b28960099c9a68a314b5f59b854c7fb4e49559e8a87dcfa57396c3afaecdc6e534d75639cdb38df8f0538924918a4ea89600a3130fabc2f78441b9560ebe7177c388d0273833b8&ascene=51&uin=NTY2NTA4NjQ%3D&devicetype=Windows+Server+2016+x64&version=63070517&lang=zh_CN&session_us=gh_9fe1a6f307b0&exportkey=n_ChQIAhIQYIVp6fr5rSkcop%2FGtu1eyhL4AQIE97dBBAEAAAAAAJKjCGwK8z0AAAAOpnltbLcz9gKNyK89dVj062JOmfu0KViwDGyqNpxrve6odxAPLSBezmzP4TSlNDZIN7B2CfeH2Hgd8ntURxrA9ecrlm9co9enwFYwtKrbLx6VEuH0ZOvV1afgomwvkVN0gqFd4HcYcyx09BDpisog%2BEQXh1yuEgUPCvjowWXaEpTLWmfXuZRH%2FVSX2Ck0slVcH4eOCvEjKqWdBWngqX1QYIwRiHAJbqTZrtFKyDxTtxu%2BZ0E5qTpBdAUOt2uZ2VNfu%2BAI2p01BrdVsPdZWWl49kPt%2FL%2FNVW%2B0oiLy50NfGXr%2B&acctmode=0&pass_ticket=%2Bp1Tt86Brt&scene=27#wechat_redirect)
-
-连天教育，是河南信安世纪科技有限公司旗下独立信息安全培训组织，主要面向国内外信息安全认证和职业技能培训，涉及CISP、CISM、CISSP、CISA、信息安全意识、风险评估、渗透测试、CTF竞赛、Web安全等。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_9fe1a6f307b0" alt="" />
-
----
-
-
 ### [合天网络安全](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyNzU3Mzg2NQ==)
 
 [:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyNzU3Mzg2NQ==)
@@ -168,24 +155,11 @@
 ---
 
 
-### [珠天PearlSky](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyODMyODMyOA==)
-
-[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyODMyODMyOA==)
-
-[:camera_flash:【2022-12-03 17:34:30】](https://mp.weixin.qq.com/s?__biz=MzkyODMyODMyOA==&mid=2247485890&idx=1&sn=fbc7ca88fe20fb8b1988c5533d96e82b&chksm=c21b3625f56cbf338144d4cf36826c07eb3a86845f3d7d8da2405eb89fa71b37e4cdff07d30c&scene=27#wechat_redirect)
-
-珠天PearlSky，意为珠科安全的一片天。珠天的队员都来自于珠海科技学院热爱钻研网络安全技术的同学。我们希望我们能够让更多人了解网络安全，更欢迎各位同学加入我们一起交流学习。本公众号会发布一些学习心得，经验总结等等一系列文章。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a4b0a923e487" alt="" />
-
----
-
-
 ### [复旦白泽战队](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
 
 [:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
 
-[:camera_flash:【2022-12-21 21:07:56】](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247486062&idx=1&sn=f697c14ebd39bd529e3f03fa5d649047&chksm=fdeb8e10ca9c0706933947c1eb01f7964a8df4b145b60f4935d7f719aa15bde8e5ba84db4e3d&scene=27#wechat_redirect)
+[:camera_flash:【2023-01-02 23:43:54】](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247486073&idx=1&sn=c04a071de4b7a52238eabc2193bc6062&chksm=fdeb8e07ca9c07111a2a52e98d346c46da3c75d0be6dbd77cb01908c18f30165f91f577aa9a8&scene=27#wechat_redirect)
 
 以复旦大学系统安全实验室学生为主成立的安全攻防战队，分享最新研究成果，交流系统安全攻防领域技巧。
 
@@ -506,6 +480,19 @@
 ---
 
 
+### [连天教育](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNTk2MDAwNA==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNTk2MDAwNA==)
+
+[:camera_flash:【2022-12-03 14:47:45】](https://mp.weixin.qq.com/s?__biz=MzIwNTk2MDAwNA==&mid=2247486094&idx=1&sn=af283eaa2008b52b206ec9e5b6157457&chksm=9729aca5a05e25b3d5e935524dd36a15f0796960887dc5157f882abc6f53b7cd3c1a592f3207&key=1553f2842a312818fee67dc08a6b32d12e78ce902f9aa19aee0c71e8e9f3179c485add61a8b587f1fa3e480ff2497e0a2c7fc278e92a0824c3b28960099c9a68a314b5f59b854c7fb4e49559e8a87dcfa57396c3afaecdc6e534d75639cdb38df8f0538924918a4ea89600a3130fabc2f78441b9560ebe7177c388d0273833b8&ascene=51&uin=NTY2NTA4NjQ%3D&devicetype=Windows+Server+2016+x64&version=63070517&lang=zh_CN&session_us=gh_9fe1a6f307b0&exportkey=n_ChQIAhIQYIVp6fr5rSkcop%2FGtu1eyhL4AQIE97dBBAEAAAAAAJKjCGwK8z0AAAAOpnltbLcz9gKNyK89dVj062JOmfu0KViwDGyqNpxrve6odxAPLSBezmzP4TSlNDZIN7B2CfeH2Hgd8ntURxrA9ecrlm9co9enwFYwtKrbLx6VEuH0ZOvV1afgomwvkVN0gqFd4HcYcyx09BDpisog%2BEQXh1yuEgUPCvjowWXaEpTLWmfXuZRH%2FVSX2Ck0slVcH4eOCvEjKqWdBWngqX1QYIwRiHAJbqTZrtFKyDxTtxu%2BZ0E5qTpBdAUOt2uZ2VNfu%2BAI2p01BrdVsPdZWWl49kPt%2FL%2FNVW%2B0oiLy50NfGXr%2B&acctmode=0&pass_ticket=%2Bp1Tt86Brt&scene=27#wechat_redirect)
+
+连天教育，是河南信安世纪科技有限公司旗下独立信息安全培训组织，主要面向国内外信息安全认证和职业技能培训，涉及CISP、CISM、CISSP、CISA、信息安全意识、风险评估、渗透测试、CTF竞赛、Web安全等。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_9fe1a6f307b0" alt="" />
+
+---
+
+
 ### [网安培训学院](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDYzMjAyNA==)
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDYzMjAyNA==)
@@ -658,6 +645,19 @@ Covteam工作室，成立于2005年。是以西华大学在校本科生研究生
 Birkenwald安全团队 --来自哈尔滨理工大学
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_78acfb2bfff7" alt="" />
+
+---
+
+
+### [珠天PearlSky](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyODMyODMyOA==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyODMyODMyOA==)
+
+[:camera_flash:【2022-12-03 17:34:30】](https://mp.weixin.qq.com/s?__biz=MzkyODMyODMyOA==&mid=2247485890&idx=1&sn=fbc7ca88fe20fb8b1988c5533d96e82b&chksm=c21b3625f56cbf338144d4cf36826c07eb3a86845f3d7d8da2405eb89fa71b37e4cdff07d30c&scene=27#wechat_redirect)
+
+珠天PearlSky，意为珠科安全的一片天。珠天的队员都来自于珠海科技学院热爱钻研网络安全技术的同学。我们希望我们能够让更多人了解网络安全，更欢迎各位同学加入我们一起交流学习。本公众号会发布一些学习心得，经验总结等等一系列文章。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a4b0a923e487" alt="" />
 
 ---
 
