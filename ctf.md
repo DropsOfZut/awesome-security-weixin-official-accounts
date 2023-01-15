@@ -1,7 +1,7 @@
 
 ### [XCTF联赛](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
 
-[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
+[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
 
 [:camera_flash:【2022-12-30 10:00:44】](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247511340&idx=1&sn=c7d845550ad1f5e4fe35c818d9838642&chksm=a6875f1691f0d6004f2eb7b75ced78562f4be37f32c0c50936d260c535de09ec6cf816bde182&scene=27#wechat_redirect)
 
@@ -27,7 +27,7 @@
 
 ### [寰宇卫士](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
 
-[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
 
 [:camera_flash:【2023-01-13 17:23:05】](https://mp.weixin.qq.com/s?__biz=MzIwMzU0NDY5OA==&mid=2247496082&idx=1&sn=8e41d45e91ec2dde108c112632ddc166&chksm=96cf7087a1b8f9910f8340bd2d83c26b1ca92973b4615d0467245c95eacb1afaf88066c99796&scene=27#wechat_redirect)
 

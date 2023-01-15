@@ -12,19 +12,6 @@
 ---
 
 
-### [大学生网络安全尖锋训练营](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
-
-[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
-
-[:camera_flash:【2023-01-10 09:00:20】](https://mp.weixin.qq.com/s?__biz=MzUzODkwMDMxNA==&mid=2247505586&idx=1&sn=b01b2ec3d81fc666af78a0631e778427&chksm=fad23487cda5bd91bb6056edc7b0fd4827a502d6eb34c1ccdaee4339479d0885687fca342589&scene=27#wechat_redirect)
-
-百所高校、百家用人单位、百名尖锋导师，携手打造定制化人才培养模式，通过导师制职业规划和封闭式岗位实训，补足知识短板、提高实战能力，培养创新型、实用型网络安全尖锋人才。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_b54960a6ea07" alt="" />
-
----
-
-
 ### [蚁景网安](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MTU2ODYwNw==)
 
 [:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MTU2ODYwNw==)
@@ -64,32 +51,6 @@
 ---
 
 
-### [启明星辰网络空间安全教育](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
-
-[:camera_flash:【2023-01-06 17:05:52】](https://mp.weixin.qq.com/s?__biz=MzUzNDg0NTc1NA==&mid=2247496373&idx=1&sn=ed7ee8225b77723d3b02b8dc74edccef&chksm=fa8c32e0cdfbbbf6c6cff7abbd42e17180d2658e06cbd03944cf40906a4306ee1bfad52eaa15&scene=27#wechat_redirect)
-
-启明星辰网络空间安全学院以国家网络安全事业发展为使命，依托启明星辰集团多年的技术沉淀及实践积累，提供网络安全人才体系构建与信息安全技术及能力提升教育培训，为建设网络强国提供有力的人才支撑。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_310250868fd4" alt="" />
-
----
-
-
-### [齐鲁师院网络安全社团](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MDU5NTA1MQ==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MDU5NTA1MQ==)
-
-[:camera_flash:【2023-01-01 00:01:52】](https://mp.weixin.qq.com/s?__biz=MzU3MDU5NTA1MQ==&mid=2247493672&idx=1&sn=02975b80095f1f318d2646d5ed0d3755&chksm=fcefabaccb9822ba27d958d6c23c157d37404d4deb300b62f3523db921ad3a6a263e296881b9&scene=27#wechat_redirect)
-
-欢迎加入齐鲁师范学院网络安全社团
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0c9ae293eb8e" alt="" />
-
----
-
-
 ### [河北网络安全高校联盟](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4ODUyMjYyNg==)
 
 [:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4ODUyMjYyNg==)
@@ -99,6 +60,19 @@
 河北网络安全高校联盟
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8937984657cd" alt="" />
+
+---
+
+
+### [大学生网络安全尖锋训练营](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
+
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
+
+[:camera_flash:【2023-01-10 09:00:20】](https://mp.weixin.qq.com/s?__biz=MzUzODkwMDMxNA==&mid=2247505586&idx=1&sn=b01b2ec3d81fc666af78a0631e778427&chksm=fad23487cda5bd91bb6056edc7b0fd4827a502d6eb34c1ccdaee4339479d0885687fca342589&scene=27#wechat_redirect)
+
+百所高校、百家用人单位、百名尖锋导师，携手打造定制化人才培养模式，通过导师制职业规划和封闭式岗位实训，补足知识短板、提高实战能力，培养创新型、实用型网络安全尖锋人才。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_b54960a6ea07" alt="" />
 
 ---
 
@@ -445,7 +419,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNTk2MDAwNA==)
 
-[:camera_flash:【2022-12-03 14:47:45】](https://mp.weixin.qq.com/s?__biz=MzIwNTk2MDAwNA==&mid=2247486094&idx=1&sn=af283eaa2008b52b206ec9e5b6157457&chksm=9729aca5a05e25b3d5e935524dd36a15f0796960887dc5157f882abc6f53b7cd3c1a592f3207&key=1553f2842a312818fee67dc08a6b32d12e78ce902f9aa19aee0c71e8e9f3179c485add61a8b587f1fa3e480ff2497e0a2c7fc278e92a0824c3b28960099c9a68a314b5f59b854c7fb4e49559e8a87dcfa57396c3afaecdc6e534d75639cdb38df8f0538924918a4ea89600a3130fabc2f78441b9560ebe7177c388d0273833b8&ascene=51&uin=NTY2NTA4NjQ%3D&devicetype=Windows+Server+2016+x64&version=63070517&lang=zh_CN&session_us=gh_9fe1a6f307b0&exportkey=n_ChQIAhIQYIVp6fr5rSkcop%2FGtu1eyhL4AQIE97dBBAEAAAAAAJKjCGwK8z0AAAAOpnltbLcz9gKNyK89dVj062JOmfu0KViwDGyqNpxrve6odxAPLSBezmzP4TSlNDZIN7B2CfeH2Hgd8ntURxrA9ecrlm9co9enwFYwtKrbLx6VEuH0ZOvV1afgomwvkVN0gqFd4HcYcyx09BDpisog%2BEQXh1yuEgUPCvjowWXaEpTLWmfXuZRH%2FVSX2Ck0slVcH4eOCvEjKqWdBWngqX1QYIwRiHAJbqTZrtFKyDxTtxu%2BZ0E5qTpBdAUOt2uZ2VNfu%2BAI2p01BrdVsPdZWWl49kPt%2FL%2FNVW%2B0oiLy50NfGXr%2B&acctmode=0&pass_ticket=%2Bp1Tt86Brt&scene=27#wechat_redirect)
+[:camera_flash:【2023-01-14 10:12:13】](https://mp.weixin.qq.com/s?__biz=MzIwNTk2MDAwNA==&mid=2247486148&idx=1&sn=9f80c385a9c4cb2b391337d94be460b7&chksm=9729acefa05e25f95886a87e227e9780ff55553eae9c380347eb0b3221a2a46df8c78cb1e650&key=5110bf18842d58614e6058525a2c2ce1aaabade489b2a19842d1d63a5e4bb6e09497453ba9a1a0360d9ed3fa56ca15ff0589ed94ff08d7759e421741507afbcc42c691ddd489b9ac0a2d4c5497b67204113eef08aa7ce76c88fd129677a634b4e361ae453f5ff2598d3a014a2503126c4bd2457c6161810e48ca4fd469c6f1c8&ascene=15&uin=MTA3Mzc3OTIzNQ%3D%3D&devicetype=Windows+Server+2016+x64&version=6308011a&lang=zh_CN&session_us=gh_9fe1a6f307b0&exportkey=n_ChQIAhIQ71TzMyRo8zwjO8Ss0DJ4WxL5AQIE97dBBAEAAAAAABTXMscK2SUAAAAOpnltbLcz9gKNyK89dVj0pGRQtdXKhChDs9Bs1GO6RgUYhaMbUK5Gf14AQfoW6P9E8PB2rjjUuJoIiOpN36JIzB6V3ed7%2FdeOyzeRVD8xU%2F2LxiSjhB5uupigjQi%2F47kBwsc245UcA%2BaTdZaKdswhueZHWSbUj2%2FcuhcnKmVC7JEsPUK8UJzZ6mtQXC1r1F8uEOAY9u4923z%2Fvi3NpHQFGjjGc6RBQ0czaXKcEb3Mroy4eQaHGEXUL84Y%2FFgBFvVvf7VF5IoKmSLakxj6gehUMifldlXYPsFAa0ew8XVlOX2VVg%3D%3D&acctmode=0&pass_ticket=zY&scene=27#wechat_redirect)
 
 连天教育，是河南信安世纪科技有限公司旗下独立信息安全培训组织，主要面向国内外信息安全认证和职业技能培训，涉及CISP、CISM、CISSP、CISA、信息安全意识、风险评估、渗透测试、CTF竞赛、Web安全等。
 
@@ -480,6 +454,19 @@
 ---
 
 
+### [启明星辰网络空间安全教育](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
+
+[:camera_flash:【2023-01-14 08:11:37】](https://mp.weixin.qq.com/s?__biz=MzUzNDg0NTc1NA==&mid=2247496579&idx=1&sn=588f59940c9edc76dd6c09c3330b7f0f&chksm=fa8c33d6cdfbbac018c96e50f8d2dc53fa0ef4260c370164971068c4749034bc148b165d698a&scene=27#wechat_redirect)
+
+启明星辰网络空间安全学院以国家网络安全事业发展为使命，依托启明星辰集团多年的技术沉淀及实践积累，提供网络安全人才体系构建与信息安全技术及能力提升教育培训，为建设网络强国提供有力的人才支撑。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_310250868fd4" alt="" />
+
+---
+
+
 ### [合天网络安全](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyNzU3Mzg2NQ==)
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyNzU3Mzg2NQ==)
@@ -489,6 +476,19 @@
 网安学院拥有专业教学服务、就业指导，课程配套靶场实战平台（www.hetianlab.com），学员学完就练，切实提升实践动手能力；课程涵盖Web安全、软件安全、网络安全等网安各个相关方面。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a6ba8f92d07d" alt="" />
+
+---
+
+
+### [齐鲁师院网络安全社团](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MDU5NTA1MQ==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MDU5NTA1MQ==)
+
+[:camera_flash:【2023-01-01 00:01:52】](https://mp.weixin.qq.com/s?__biz=MzU3MDU5NTA1MQ==&mid=2247493672&idx=1&sn=02975b80095f1f318d2646d5ed0d3755&chksm=fcefabaccb9822ba27d958d6c23c157d37404d4deb300b62f3523db921ad3a6a263e296881b9&scene=27#wechat_redirect)
+
+欢迎加入齐鲁师范学院网络安全社团
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0c9ae293eb8e" alt="" />
 
 ---
 
