@@ -1,7 +1,7 @@
 
 ### [NISL实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxMTEwOTA3OA==)
 
-[:chart_with_upwards_trend:【5/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxMTEwOTA3OA==)
+[:chart_with_upwards_trend:【4/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxMTEwOTA3OA==)
 
 [:camera_flash:【2023-01-13 16:59:59】](https://mp.weixin.qq.com/s?__biz=MzUxMTEwOTA3OA==&mid=2247484910&idx=1&sn=f8787d0850eeb43679bb2697ebb65af3&chksm=f979f757ce0e7e410fdcc047ee2e4ce39ebbe56681beae668a0e9a44b0fbc1a3c05d45a4875d&scene=27#wechat_redirect)
 
@@ -38,19 +38,6 @@
 ---
 
 
-### [谛听ditecting](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzQyOTU0Nw==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzQyOTU0Nw==)
-
-[:camera_flash:【2023-01-05 08:00:13】](https://mp.weixin.qq.com/s?__biz=MzU3MzQyOTU0Nw==&mid=2247488395&idx=1&sn=f201f2a3cc85bd9ea492a37a27d12eb7&chksm=fcc091cfcbb718d9f1d6a6cc8317e63b2ef82615d7bd072a1d03c55ab6f41f94597076fe414a&scene=27#wechat_redirect)
-
-东北大学“谛听”网络安全团队
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ce3e0df31e50" alt="" />
-
----
-
-
 ### [河北网络安全高校联盟](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4ODUyMjYyNg==)
 
 [:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4ODUyMjYyNg==)
@@ -60,19 +47,6 @@
 河北网络安全高校联盟
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8937984657cd" alt="" />
-
----
-
-
-### [大学生网络安全尖锋训练营](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
-
-[:camera_flash:【2023-01-10 09:00:20】](https://mp.weixin.qq.com/s?__biz=MzUzODkwMDMxNA==&mid=2247505586&idx=1&sn=b01b2ec3d81fc666af78a0631e778427&chksm=fad23487cda5bd91bb6056edc7b0fd4827a502d6eb34c1ccdaee4339479d0885687fca342589&scene=27#wechat_redirect)
-
-百所高校、百家用人单位、百名尖锋导师，携手打造定制化人才培养模式，通过导师制职业规划和封闭式岗位实训，补足知识短板、提高实战能力，培养创新型、实用型网络安全尖锋人才。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_b54960a6ea07" alt="" />
 
 ---
 
@@ -151,6 +125,19 @@
 湖南农业大学蝰蛇安全实验室
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_638eab2e92c7" alt="" />
+
+---
+
+
+### [谛听ditecting](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzQyOTU0Nw==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzQyOTU0Nw==)
+
+[:camera_flash:【2023-01-05 08:00:13】](https://mp.weixin.qq.com/s?__biz=MzU3MzQyOTU0Nw==&mid=2247488395&idx=1&sn=f201f2a3cc85bd9ea492a37a27d12eb7&chksm=fcc091cfcbb718d9f1d6a6cc8317e63b2ef82615d7bd072a1d03c55ab6f41f94597076fe414a&scene=27#wechat_redirect)
+
+东北大学“谛听”网络安全团队
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ce3e0df31e50" alt="" />
 
 ---
 
@@ -593,6 +580,19 @@ Covteam工作室，成立于2005年。是以西华大学在校本科生研究生
 中南极光网安Lab欢迎你的到来~Lets&#39;s hack something!
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e613df22a0fc" alt="" />
+
+---
+
+
+### [大学生网络安全尖锋训练营](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
+
+[:camera_flash:【2023-01-10 09:00:20】](https://mp.weixin.qq.com/s?__biz=MzUzODkwMDMxNA==&mid=2247505586&idx=1&sn=b01b2ec3d81fc666af78a0631e778427&chksm=fad23487cda5bd91bb6056edc7b0fd4827a502d6eb34c1ccdaee4339479d0885687fca342589&scene=27#wechat_redirect)
+
+百所高校、百家用人单位、百名尖锋导师，携手打造定制化人才培养模式，通过导师制职业规划和封闭式岗位实训，补足知识短板、提高实战能力，培养创新型、实用型网络安全尖锋人才。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_b54960a6ea07" alt="" />
 
 ---
 

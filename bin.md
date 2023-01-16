@@ -1,17 +1,4 @@
 
-### [FuzzWiki](http://wechat.doonsec.com/wechat_echarts/?biz=MzU1NTEzODc3MQ==)
-
-[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU1NTEzODc3MQ==)
-
-[:camera_flash:【2023-01-13 19:10:00】](https://mp.weixin.qq.com/s?__biz=MzU1NTEzODc3MQ==&mid=2247484903&idx=1&sn=56062e98c51af9e900d61759bf18f32e&chksm=fbd9ae5bccae274d620e6d0ddf127792a2e3fb51eea4e2dc75b2507aa026a096ef9913ef7f4b&scene=27#wechat_redirect)
-
-「FuzzWiki」致力于成为国内最专业的模糊测试技术论坛平台，专注于分享模糊测试领域前沿技术、深度文章、行业资讯、最新突破，为专家学者、从业者、相关行业安全人员和决策者构筑完善的知识图谱，提供交流模糊测试新技术、新知识、新工具的开放平台。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_fcf21e658324" alt="" />
-
----
-
-
 ### [吾爱破解论坛](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Mjc3MDM2Mw==)
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Mjc3MDM2Mw==)
@@ -73,6 +60,19 @@
 威胁狩猎，漏洞挖掘
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_02e64d74f88d" alt="" />
+
+---
+
+
+### [FuzzWiki](http://wechat.doonsec.com/wechat_echarts/?biz=MzU1NTEzODc3MQ==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU1NTEzODc3MQ==)
+
+[:camera_flash:【2023-01-13 19:10:00】](https://mp.weixin.qq.com/s?__biz=MzU1NTEzODc3MQ==&mid=2247484903&idx=1&sn=56062e98c51af9e900d61759bf18f32e&chksm=fbd9ae5bccae274d620e6d0ddf127792a2e3fb51eea4e2dc75b2507aa026a096ef9913ef7f4b&scene=27#wechat_redirect)
+
+「FuzzWiki」致力于成为国内最专业的模糊测试技术论坛平台，专注于分享模糊测试领域前沿技术、深度文章、行业资讯、最新突破，为专家学者、从业者、相关行业安全人员和决策者构筑完善的知识图谱，提供交流模糊测试新技术、新知识、新工具的开放平台。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_fcf21e658324" alt="" />
 
 ---
 
