@@ -1,4 +1,17 @@
 
+### [汇编语言](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxNDcwOTcwOQ==)
+
+[:chart_with_upwards_trend:【0/76/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxNDcwOTcwOQ==)
+
+[:camera_flash:【2023-01-15 20:12:15】](https://mp.weixin.qq.com/s?__biz=MzIxNDcwOTcwOQ==&mid=2247494463&idx=1&sn=42cd77fcd7831cf32619a19f7c2f2c14&chksm=97a1cf9da0d6468bbf1468c0ee1d26d65b84be91e138b9aeae6217526432988dacba69553b92&scene=27&key=eebd93953d7546633c0282efb4ddb0ba60dc2c894038dc84c02286954d545c411d0f7413d833e8dd87d62b2215bd94856416e3aafbb74cbeb214891225401007eb1b7830b120c03b92ab82bf91c792cb2bb3cb564166e459dbaae593bb3883663104336244635ebad5d3871705d57cba2178f4c14646eb7d5867a08c3cf63d58&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+10+x64&version=6307051f&lang=zh_CN&session_us=gh_019db3270380&exportkey=n_ChQIAhIQfnlkOnOk1vTpmFMeOdG%2F5hLuAQIE97dBBAEAAAAAAFgrI7YZHW8AAAAOpnltbLcz9gKNyK89dVj0t4%2Fzm5ayP8DbhPpLgmmUcQAQQAskNs1EbFoZfXQNuhS%2BHBwQjF6J0mJLi5FexiAVXNamA22FsJrEl0OboRP7XmHRJ8fhdTTKOjl%2FXTCyXCdWc76mGfD6YMxBwdCIDuXu1d3qPBz8QVYGJxAxJ33una7xPqOk3kUJIlG4rhNFp5%2FCTUHIS1xvA60TrwOugGxt8SPWOd1%2BQs5chYxKurvjsAJqTi%2B5zYF%2B5xSiVnsSzUWv8IMgP4BrwgyA62%2F5Fp9QHXBiSPv9J5w%3D&acctmode=0&pass_ticket=NH6DSWrkmtzDUBZJdSzL3U&scene=27#wechat_redirect)
+
+致力于汇编教程和逆向破解之路
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_86e8b32f4148" alt="" />
+
+---
+
+
 ### [吾爱破解论坛](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Mjc3MDM2Mw==)
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Mjc3MDM2Mw==)
@@ -216,19 +229,6 @@ pWn3d bY BiGSKidd3r&amp;FuzZer&amp;A2pter&amp;pWn3r rULe4Ker4pwn 65535 tim3s.
 二进制安全学习
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_92889635e9ef" alt="" />
-
----
-
-
-### [汇编语言](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxNDcwOTcwOQ==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxNDcwOTcwOQ==)
-
-[:camera_flash:【2022-12-13 12:23:45】](https://mp.weixin.qq.com/s?__biz=MzIxNDcwOTcwOQ==&mid=2247494163&idx=1&sn=7ec333404063dbf9112a2e22dedde957&chksm=97a1ceb1a0d647a75e0442984d7e2830f9c51405ac6ad391aac4b09baaeaf7a3e16075140f1c&scene=27&key=dcfaefbcf2ad6fcdb9aa428753a92a72141467714521d064d149e79544ab0d8ee86550048769693a6741b542cb064a72ae1e002067e2470f98ba212ce0535b2a8ebd39e27d59a512f03774b1f89225bdc01a9f9cdf57791747eac6c6a98896d09102770e0af1c6edee1c8516b5d07ab9eee5d18fa87e2422f43254fdef0a1b41&ascene=15&uin=MzgxODQ4MjMz&devicetype=Windows+Server+2016+x64&version=63070517&lang=zh_CN&session_us=gh_ed0f7fa0bfe0&exportkey=n_ChQIAhIQ1WvyvHTw9x8%2FTkf0enUxQxL5AQIE97dBBAEAAAAAAOpaKS31GooAAAAOpnltbLcz9gKNyK89dVj0ynR0M7HWQ%2FclNyd3uN5ywobNkjkidV%2Ft8p6jJ%2FtdHnQX3imeD1RsfLxRUAfJKA3JjMMp0BBAaBbOJaj%2B7KQ9HZq9lEvNQMMcExyhl0smQ8Cqzb7DR2YSjalWoeiHX4FffhnpSthN7wdR6VvqrGpHzsGFMgN%2BzpKaR7KMLHVzviZV2gGLUqXbc3H8%2FgMMzo4kajOE8FPG%2FZlRKHhJBF21rnMBaZym%2FwVGVAgoVTIAyo1igKZRJPkDZIwt%2BUMBoNCkZ6D0wocT3HZV2JBvAM4n1n1jJQ%3D%3D&acctmode=0&pass_ti&scene=27#wechat_redirect)
-
-致力于汇编教程和逆向破解之路
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_86e8b32f4148" alt="" />
 
 ---
 
