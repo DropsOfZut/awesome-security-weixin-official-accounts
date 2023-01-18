@@ -25,45 +25,6 @@ kali论坛官方唯一公众号，主要发布过于小白学习Kali Linux相关
 ---
 
 
-### [系统安全运维](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NjE0NDc5OQ==)
-
-[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NjE0NDc5OQ==)
-
-[:camera_flash:【2023-01-14 08:08:49】](https://mp.weixin.qq.com/s?__biz=Mzk0NjE0NDc5OQ==&mid=2247515633&idx=1&sn=f1c09c601b38365c77636e066efa2103&chksm=c3086e81f47fe797d4d2642173e69472e0941702c431179e70320bbb0e46f68fd0900fee0afb&scene=27#wechat_redirect)
-
-未知攻 焉知防 攻防兼备
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_2c298b630170" alt="" />
-
----
-
-
-### [云计算和网络安全技术实践](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3MjM5MDc2Nw==)
-
-[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3MjM5MDc2Nw==)
-
-[:camera_flash:【2023-01-08 20:48:16】](https://mp.weixin.qq.com/s?__biz=MzA3MjM5MDc2Nw==&mid=2650747366&idx=1&sn=0760da790b7c51699e277f86c74be01f&chksm=871490e6b06319f06345e54c98f9544510735e630fec0f6f815e58c580cec397db70cf68e9db&scene=27#wechat_redirect)
-
-史上最具参考性的云计算和网络安全技术实践博客。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_34d6b0cb5633" alt="" />
-
----
-
-
-### [网络运维渗透](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3MjMxODUwNg==)
-
-[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3MjMxODUwNg==)
-
-[:camera_flash:【2023-01-08 14:04:09】](https://mp.weixin.qq.com/s?__biz=MzA3MjMxODUwNg==&mid=2247485678&idx=1&sn=26ea86bf877a6c44ca27c514b3a23d42&chksm=9f2163aba856eabdea3c74e1fa8be22b906de3273a0f12954a8351c84602bf9f19a15389a69e&scene=27#wechat_redirect)
-
-漏洞挖掘、SRC、红蓝对抗、代码审计
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_304f5239b3b0" alt="" />
-
----
-
-
 ### [Linux学习](http://wechat.doonsec.com/wechat_echarts/?biz=MzI4MDEwNzAzNg==)
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI4MDEwNzAzNg==)
@@ -103,6 +64,19 @@ kali论坛官方唯一公众号，主要发布过于小白学习Kali Linux相关
 ---
 
 
+### [云计算和网络安全技术实践](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3MjM5MDc2Nw==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3MjM5MDc2Nw==)
+
+[:camera_flash:【2023-01-08 20:48:16】](https://mp.weixin.qq.com/s?__biz=MzA3MjM5MDc2Nw==&mid=2650747366&idx=1&sn=0760da790b7c51699e277f86c74be01f&chksm=871490e6b06319f06345e54c98f9544510735e630fec0f6f815e58c580cec397db70cf68e9db&scene=27#wechat_redirect)
+
+史上最具参考性的云计算和网络安全技术实践博客。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_34d6b0cb5633" alt="" />
+
+---
+
+
 ### [高效运维](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4Nzg5Nzc5OA==)
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4Nzg5Nzc5OA==)
@@ -125,6 +99,32 @@ kali论坛官方唯一公众号，主要发布过于小白学习Kali Linux相关
 BAT 技术专家分享开发、架构、运维相关干货！
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e6849e368b5f" alt="" />
+
+---
+
+
+### [系统安全运维](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NjE0NDc5OQ==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NjE0NDc5OQ==)
+
+[:camera_flash:【2023-01-14 08:08:49】](https://mp.weixin.qq.com/s?__biz=Mzk0NjE0NDc5OQ==&mid=2247515633&idx=1&sn=f1c09c601b38365c77636e066efa2103&chksm=c3086e81f47fe797d4d2642173e69472e0941702c431179e70320bbb0e46f68fd0900fee0afb&scene=27#wechat_redirect)
+
+未知攻 焉知防 攻防兼备
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_2c298b630170" alt="" />
+
+---
+
+
+### [网络运维渗透](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3MjMxODUwNg==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3MjMxODUwNg==)
+
+[:camera_flash:【2023-01-08 14:04:09】](https://mp.weixin.qq.com/s?__biz=MzA3MjMxODUwNg==&mid=2247485678&idx=1&sn=26ea86bf877a6c44ca27c514b3a23d42&chksm=9f2163aba856eabdea3c74e1fa8be22b906de3273a0f12954a8351c84602bf9f19a15389a69e&scene=27#wechat_redirect)
+
+漏洞挖掘、SRC、红蓝对抗、代码审计
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_304f5239b3b0" alt="" />
 
 ---
 

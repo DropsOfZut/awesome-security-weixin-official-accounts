@@ -1,7 +1,7 @@
 
 ### [哈拉少安全小队](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxNzkyOTgxMw==)
 
-[:chart_with_upwards_trend:【0/42/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxNzkyOTgxMw==)
+[:chart_with_upwards_trend:【0/39/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxNzkyOTgxMw==)
 
 [:camera_flash:【2023-01-15 19:26:43】](https://mp.weixin.qq.com/s?__biz=MzAxNzkyOTgxMw==&mid=2247490176&idx=1&sn=ccb562f0a66fa78e19d2c6eea2d62acd&chksm=9bdf59baaca8d0acbdf995c08047d70336dbfc110972eb2b23306e5073f66785458620148632&scene=27&key=eebd93953d754663966bda5559e633a85c98db4a7dfd1006d123621b6cdce68d6567f7952ca153b774ad681402771d3c73c6176cd19efca1e132fc7ebb1aa191f8b9186b504d57cce096ff7991a06a758bef1aa5545b6861162ee47144d88b94d2f9c83f88d4e0ed92506827d498f77c2a3eddab4f9980c9c447166478bb6d35&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+10+x64&version=6307051f&lang=zh_CN&session_us=gh_019db3270380&exportkey=n_ChQIAhIQRrjPwrjZzShxSvkfCQ%2BA2xLuAQIE97dBBAEAAAAAANaEDnqzpdEAAAAOpnltbLcz9gKNyK89dVj0YuAFLD%2F%2BfzTKKNU8aCzqsKelSQ890edXdZYUEfw1W56%2F9sidzUUS5I09fPf0rnX4ojxBZ1HEV9Kvg%2BZtDjkJ%2BJ7o2k5gygpwo259XHK9%2FbSoszA9yb09OCphNLEPhHN9H%2FCgsIoPRT%2BWQrk3JT%2BcT4Xxu74DAvDMA6YA0i2LyA9H5Vuvsm0bEUyO%2FOURjQ010fjfcxTo9KB352uICSSxrNZsiUIXTne4pgsMIOh0T6yO3Bqwe7QxaR%2FrmP2lctDNg2%2FfXCQml3w%3D&acctmode=0&pass_ticket=NH6DSWrkmtzDUB&scene=27#wechat_redirect)
 
@@ -14,7 +14,7 @@
 
 ### [乌雲安全](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwMjA5OTY5Ng==)
 
-[:chart_with_upwards_trend:【0/31/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwMjA5OTY5Ng==)
+[:chart_with_upwards_trend:【0/30/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwMjA5OTY5Ng==)
 
 [:camera_flash:【2023-01-16 09:00:01】](https://mp.weixin.qq.com/s?__biz=MzAwMjA5OTY5Ng==&mid=2247514638&idx=2&sn=958755843682432b6788a56ddf52519e&chksm=9acd6a91adbae387ba0834fd42ca53b77b073b0f3b35923f7a843ce58f7dfe89476d5cf24972&scene=27&key=5a04627bc19209eec7e61e281a5723f1f124aae6e90999527393133b30e0095d149a3e8cb789b009e87dd165109441910f222be0019195e854757c020eb346b492c8ad57839cde4a2f93b8853e931ced9e73f22f4472e76e3de73e272287b58abea8596090ba18f191d2c3b780a34b38a03111c2ea0586892f31561a8971cf5b&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+10+x64&version=6307051f&lang=zh_CN&session_us=gh_019db3270380&exportkey=n_ChQIAhIQ7bAsJu1gdgWvFt1yP8s0WxLuAQIE97dBBAEAAAAAALQnFqdMCdIAAAAOpnltbLcz9gKNyK89dVj0rwh2%2FyyD7M%2Fs2hhLdkwr%2BqcHOZFl%2BCcGanXVnOfv7zeXXtCf%2B8Z8nr5gFpJ9S0V2mbSvlk2Ylv6kuVbYVZ9Vs0eoqdlfhYKC7uQmIZSFalbr1hWNXzULrleGx6unb7ue%2FZRKdwnZ51jq7wAz%2FFOYyuPXtzqnEaR3X8sBZVXvaLp23dDll9r65QX3SvFmLk5ygV1dRJR%2Bs61ESNVSEhLHbPu%2FwUnKOgLHrVEqhcX2efU7BnofwTlotazfzYic%2BoRaBL70d5LqsWk%3D&acctmode=0&pass_ticket=NH6DSWrkmtzDUBZJdSzL&scene=27#wechat_redirect)
 
@@ -27,7 +27,7 @@
 
 ### [渗透安全团队](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNDAyNTY2NA==)
 
-[:chart_with_upwards_trend:【0/19/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNDAyNTY2NA==)
+[:chart_with_upwards_trend:【0/17/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNDAyNTY2NA==)
 
 [:camera_flash:【2023-01-15 23:00:17】](https://mp.weixin.qq.com/s?__biz=MzkxNDAyNTY2NA==&mid=2247496267&idx=1&sn=5f236d20737df83602d0e5662a54862b&chksm=c1760fe4f60186f2a50b5f764c2b08fdba59e08d349da712195e994400cb5b9889753c863754&scene=27#wechat_redirect)
 
@@ -79,7 +79,7 @@
 
 ### [安全研究GoSSIP](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5ODUxMzg0Ng==)
 
-[:chart_with_upwards_trend:【5/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5ODUxMzg0Ng==)
+[:chart_with_upwards_trend:【4/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5ODUxMzg0Ng==)
 
 [:camera_flash:【2023-01-13 22:24:35】](https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247493894&idx=1&sn=c6c9a9d2325ebc0613d3c894b714741a&chksm=c063c7dff7144ec9186f74d535a19cd67053b23665ff2751302641cd7a7231e39d9a7522674e&scene=27#wechat_redirect)
 
@@ -363,19 +363,6 @@ IRT(Industrial Red Team)作为国内以守护工控安全为目标的红队组�
 ---
 
 
-### [衡阳信安](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2NDY2OTU4Nw==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2NDY2OTU4Nw==)
-
-[:camera_flash:【2023-01-13 07:32:13】](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247506082&idx=1&sn=3d95bc9b118fb9b9a7c2e57a4da16c10&chksm=fc45e55ecb326c48d6f1e33bdb8b2d4c2590fab55a237d0692eb91eba3c91b5750e877cf81b9&scene=27#wechat_redirect)
-
-船山院士网络安全团队唯一公众号，为国之安全而奋斗，为信息安全而发声！
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_20e7cc213b82" alt="" />
-
----
-
-
 ### [寻云安全团队](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzMzEwNzIzNQ==)
 
 [:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzMzEwNzIzNQ==)
@@ -411,19 +398,6 @@ IRT(Industrial Red Team)作为国内以守护工控安全为目标的红队组�
 藐视权威和规则，专注技术创新。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_56a5e6c65275" alt="" />
-
----
-
-
-### [程序项目组](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2MzY2Mzg5Nw==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2MzY2Mzg5Nw==)
-
-[:camera_flash:【2022-12-17 12:20:27】](https://mp.weixin.qq.com/s?__biz=Mzg2MzY2Mzg5Nw==&mid=2247483933&idx=1&sn=a389a735a2ec3e0d784389c67330573c&chksm=ce74606bf903e97dbbd214438f5872323a2ab0c5c04673d6ace8ce627157e3bf591d95d0f3e9&scene=27&key=dd82e5566091e762097cf1ef6ed2420dfb0debb4b7b28721da63281c060e95c6890da50e90774e5ff6684e1c3ee212c8ccf7efd3c262a9e213b028c913b67d053d1979ddb6859232c31dae777b514665ea94fa3252050d3f721f384afd96fa70751db7b518e3b0a7480235cd7d39d1d878dba2290a9bbd6fd8d811a1e7ae8136&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+Server+2016+x64&version=63070517&lang=zh_CN&session_us=gh_2a7f52ddcd82&exportkey=n_ChQIAhIQ3C9c1moHuN7ejJRoXSPcaxL4AQIE97dBBAEAAAAAAOhwKaF9g9cAAAAOpnltbLcz9gKNyK89dVj0ZxQETAW%2Brou16wXiMqgPpbdx5SCmNvK8K%2BideKYB8FaVBWRB9wG0Uxx0Ky%2BapwmehWTAHa7UcDIKycPtQWDzEbN1e3Xect%2BaT0I7bWiQi6zRckLyLowh3GMq%2FIqDAZ7cb2SFExk1ujtjJOyYWrT1EnRM5Got0zgPxE6vCFEZddm%2Fo%2FptRgQ4guoYcDY80Zt7ijsE2ZL2vfp8Dz%2FaUEO4Eg2eonW%2BVjR0fobew0XqnHBWCmksrEqN42fz3bHnBJVYyHYRIIiv1gdKXHMFWkVyg1No&acctmode=0&pass_ticket=gVO&scene=27#wechat_redirect)
-
-我们负责计算机硬件软件维护和远程技术安装、软件开发测试，开发公众号小程序，我们会及时回复解答。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_2e79a3cd6844" alt="" />
 
 ---
 
@@ -1091,6 +1065,19 @@ Tencent A&amp;D Team 关注安全前沿攻防技术研究。
 ---
 
 
+### [衡阳信安](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2NDY2OTU4Nw==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2NDY2OTU4Nw==)
+
+[:camera_flash:【2023-01-13 07:32:13】](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247506082&idx=1&sn=3d95bc9b118fb9b9a7c2e57a4da16c10&chksm=fc45e55ecb326c48d6f1e33bdb8b2d4c2590fab55a237d0692eb91eba3c91b5750e877cf81b9&scene=27#wechat_redirect)
+
+船山院士网络安全团队唯一公众号，为国之安全而奋斗，为信息安全而发声！
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_20e7cc213b82" alt="" />
+
+---
+
+
 ### [开普勒安全团队](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NjEyNjY5OQ==)
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NjEyNjY5OQ==)
@@ -1607,6 +1594,19 @@ FCSQ安全团队官方账号
 桑奈安全团队，一个不至于关注安全的团队！
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8f1f1e857eb2" alt="" />
+
+---
+
+
+### [程序项目组](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2MzY2Mzg5Nw==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2MzY2Mzg5Nw==)
+
+[:camera_flash:【2022-12-17 12:20:27】](https://mp.weixin.qq.com/s?__biz=Mzg2MzY2Mzg5Nw==&mid=2247483933&idx=1&sn=a389a735a2ec3e0d784389c67330573c&chksm=ce74606bf903e97dbbd214438f5872323a2ab0c5c04673d6ace8ce627157e3bf591d95d0f3e9&scene=27&key=dd82e5566091e762097cf1ef6ed2420dfb0debb4b7b28721da63281c060e95c6890da50e90774e5ff6684e1c3ee212c8ccf7efd3c262a9e213b028c913b67d053d1979ddb6859232c31dae777b514665ea94fa3252050d3f721f384afd96fa70751db7b518e3b0a7480235cd7d39d1d878dba2290a9bbd6fd8d811a1e7ae8136&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+Server+2016+x64&version=63070517&lang=zh_CN&session_us=gh_2a7f52ddcd82&exportkey=n_ChQIAhIQ3C9c1moHuN7ejJRoXSPcaxL4AQIE97dBBAEAAAAAAOhwKaF9g9cAAAAOpnltbLcz9gKNyK89dVj0ZxQETAW%2Brou16wXiMqgPpbdx5SCmNvK8K%2BideKYB8FaVBWRB9wG0Uxx0Ky%2BapwmehWTAHa7UcDIKycPtQWDzEbN1e3Xect%2BaT0I7bWiQi6zRckLyLowh3GMq%2FIqDAZ7cb2SFExk1ujtjJOyYWrT1EnRM5Got0zgPxE6vCFEZddm%2Fo%2FptRgQ4guoYcDY80Zt7ijsE2ZL2vfp8Dz%2FaUEO4Eg2eonW%2BVjR0fobew0XqnHBWCmksrEqN42fz3bHnBJVYyHYRIIiv1gdKXHMFWkVyg1No&acctmode=0&pass_ticket=gVO&scene=27#wechat_redirect)
+
+我们负责计算机硬件软件维护和远程技术安装、软件开发测试，开发公众号小程序，我们会及时回复解答。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_2e79a3cd6844" alt="" />
 
 ---
 

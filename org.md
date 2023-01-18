@@ -142,19 +142,6 @@ SecIN安全技术社区是启明星辰云众可信旗下品牌，是一个由安
 ---
 
 
-### [赛宁网安](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4Mjk5NjU3MA==)
-
-[:chart_with_upwards_trend:【4/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4Mjk5NjU3MA==)
-
-[:camera_flash:【2023-01-12 15:23:31】](https://mp.weixin.qq.com/s?__biz=MzA4Mjk5NjU3MA==&mid=2455478589&idx=1&sn=ab10ff9633fa89b816b42194b2f49408&chksm=88523d08bf25b41e75bf554c6fa15c2e9e443017a672da0ed44cb69a168bc34e5eea4ab2707a&scene=27#wechat_redirect)
-
-关注“赛宁网安”公众号，及时获取赛宁网安最新的产品信息、技术分享、企业动态。赛宁网安，聚焦攻防实战，专注数字化靶场的攻防专家。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_512990c97e33" alt="" />
-
----
-
-
 ### [知道创宇](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NzA3Nzg2MA==)
 
 [:chart_with_upwards_trend:【5/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NzA3Nzg2MA==)
@@ -164,6 +151,19 @@ SecIN安全技术社区是启明星辰云众可信旗下品牌，是一个由安
 知道创宇是一家立足攻防一线，以“AI+安全大数据”为底层能力，为客户提供云防御、云监测、云测绘产品与服务的网络安全公司。未来，知道创宇将致力于为客户提供安全网络。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e99b34134b06" alt="" />
+
+---
+
+
+### [赛宁网安](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4Mjk5NjU3MA==)
+
+[:chart_with_upwards_trend:【4/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4Mjk5NjU3MA==)
+
+[:camera_flash:【2023-01-12 15:23:31】](https://mp.weixin.qq.com/s?__biz=MzA4Mjk5NjU3MA==&mid=2455478589&idx=1&sn=ab10ff9633fa89b816b42194b2f49408&chksm=88523d08bf25b41e75bf554c6fa15c2e9e443017a672da0ed44cb69a168bc34e5eea4ab2707a&scene=27#wechat_redirect)
+
+关注“赛宁网安”公众号，及时获取赛宁网安最新的产品信息、技术分享、企业动态。赛宁网安，聚焦攻防实战，专注数字化靶场的攻防专家。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_512990c97e33" alt="" />
 
 ---
 
