@@ -250,7 +250,7 @@ Seebug，原 Sebug 漏洞平台，洞悉漏洞，让你掌握第一手漏洞情�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3Mjc1MTkwOA==)
 
-[:camera_flash:【2023-01-22 12:13:35】](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650524312&idx=1&sn=8f61cf849fb79b1f4d62c99a8079d1dc&chksm=8716e4d3b0616dc52c12b9edb02282d0457d0eea4897340d3652cfc10cfb283c65c4e1139135&scene=27#wechat_redirect)
+[:camera_flash:【2023-01-23 12:17:48】](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650524361&idx=1&sn=a5dcc355be5244e6550b0a1c6ca1b4f7&chksm=8716e482b0616d941d10ac1a42a738c58481680f944954eb65e41d185104938907f9931605d4&scene=27#wechat_redirect)
 
 POLICE教授团队：聚焦情报与安全！关注情报动态，制定情报标准，开展情报培训，促进情报协作，传播情报文化，优化情报生态，共建情报分析师职业共同体。
 

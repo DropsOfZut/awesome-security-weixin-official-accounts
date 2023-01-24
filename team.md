@@ -14,7 +14,7 @@
 
 ### [乌雲安全](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwMjA5OTY5Ng==)
 
-[:chart_with_upwards_trend:【0/32/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwMjA5OTY5Ng==)
+[:chart_with_upwards_trend:【0/30/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwMjA5OTY5Ng==)
 
 [:camera_flash:【2023-01-20 11:21:00】](https://mp.weixin.qq.com/s?__biz=MzAwMjA5OTY5Ng==&mid=2247514831&idx=1&sn=bbe00e6dd27037c585dc302889887a82&chksm=9acd6a50adbae3468c4b6e8e7ade22523aaaf001f1f9b48cdf1a6ccb1a1a6b8adaf01f4e6f78&scene=27&key=8fff2c73291e81bb2fbcfd1a82f249dd19c3cba5e0d8708a65a9d1cf4106612b2165a90838d7f326e6f98f0f9ba7620e4ce073683d1fca6abdbdd16259fcae35f9bcba3501af798399a8c0ec6b805bf60aea18800897f2a01ae2183ee06b3fdd91f8974a5a768e2d830a45b21fb661490c9f5be9081add4d0568420b4a293d6e&ascene=15&uin=MTA3Mzc3OTIzNQ%3D%3D&devicetype=Windows+Server+2016+x64&version=6308011a&lang=zh_CN&session_us=gh_e782afe8b0f7&exportkey=n_ChQIAhIQdRTvO%2Bvx1u7dE%2BHgQkDO6hL5AQIE97dBBAEAAAAAAHhVLw8xBB4AAAAOpnltbLcz9gKNyK89dVj0wZYp776sZry6%2FO6grIf1DKIufGwuXM4LvIaynBr6swAwtRrWBVrzVLmS8NegFsbyx1d262LVnpdm1RSNjjTs3XPo85zO59hqmhGzTYyx60pbUveSICUJPGLvctdCJ9wLcERMuCHKfEVvPXroZXyo5EgXs1mZ8tytmqKX5eLy7aPB5dGmESasF86K8TcEIFsUFgsUEYuuIQCWFw0s4z79J%2FJ0sx03F4VUh7lGdf2GllrcZ6zObl1Rvio1bpcGwgXE9HIG%2BnwqFRll0pV%2Fb1nuhvYfrA%3D%3D&acctmode=0&pass_ti&scene=27#wechat_redirect)
 
@@ -40,7 +40,7 @@
 
 ### [洞见网安](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxNzg3NzMyNQ==)
 
-[:chart_with_upwards_trend:【0/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxNzg3NzMyNQ==)
+[:chart_with_upwards_trend:【0/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxNzg3NzMyNQ==)
 
 [:camera_flash:【2023-01-09 12:35:55】](https://mp.weixin.qq.com/s?__biz=MzAxNzg3NzMyNQ==&mid=2247486334&idx=1&sn=f87834d593f0359be84a42aafa5d9e57&chksm=9bdf9b5caca8124a311b3fcb04432e2d9517ce1e0cdca94383e7c427af7737d8d84d9c9dc099&scene=27#wechat_redirect)
 
@@ -64,19 +64,6 @@
 ---
 
 
-### [渗透安全团队](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNDAyNTY2NA==)
-
-[:chart_with_upwards_trend:【0/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNDAyNTY2NA==)
-
-[:camera_flash:【2023-01-22 21:44:32】](https://mp.weixin.qq.com/s?__biz=MzkxNDAyNTY2NA==&mid=2247496545&idx=1&sn=4ff307eb7514761ba969c3b350924fb5&chksm=c1760ecef60187d89de0d47d0a2c1b0cd379fb267911708a514e1f882ba423dbbbc5ee9fbbde&scene=27#wechat_redirect)
-
-十年磨一剑，出鞘必锋芒，致力于分享渗透思路、光怪陆离的技巧和渗透知识总结。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_49a54ff12ce6" alt="" />
-
----
-
-
 ### [ChaMd5安全团队](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzMTc1MjExOQ==)
 
 [:chart_with_upwards_trend:【7/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzMTc1MjExOQ==)
@@ -86,6 +73,19 @@
 一群不正经的老司机组成的史上最牛逼的安全团队。小二，来杯优乐美。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_edb85f9e73b5" alt="" />
+
+---
+
+
+### [渗透安全团队](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNDAyNTY2NA==)
+
+[:chart_with_upwards_trend:【0/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNDAyNTY2NA==)
+
+[:camera_flash:【2023-01-23 22:19:26】](https://mp.weixin.qq.com/s?__biz=MzkxNDAyNTY2NA==&mid=2247496585&idx=1&sn=b47b09d64d112d85420ef39722fe0bde&chksm=c1760e26f601873096c41aaaf04ecbb74138acdd4bc88642c789b51e400ac0e2b2a876bf7b4f&scene=27#wechat_redirect)
+
+十年磨一剑，出鞘必锋芒，致力于分享渗透思路、光怪陆离的技巧和渗透知识总结。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_49a54ff12ce6" alt="" />
 
 ---
 
@@ -281,19 +281,6 @@ G.O.S.S.I.P 软件安全研究组
 IRT(Industrial Red Team)作为国内以守护工控安全为目标的红队组织，团队成员主要来自众多企业内资深安全专家与工控安全研究员。从技术方向和技术深度都是以工控安全为主线，熟悉众多厂商PLC、DCS系统。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_335edbd0b3e2" alt="" />
-
----
-
-
-### [XyzC1ub](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMTgyMzU4NA==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMTgyMzU4NA==)
-
-[:camera_flash:【2022-05-15 09:08:44】](https://mp.weixin.qq.com/s?__biz=MzIwMTgyMzU4NA==&mid=2247484570&idx=1&sn=a0d14599e3d3e9b564f466bde7ced952&chksm=96e94095a19ec9832818783cbe69acbe15d5e321d35b6da097918aaba7926f9de15fcd9aa125&scene=27#wechat_redirect)
-
-爱生活,爱技术.
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_1eb25d489de8" alt="" />
 
 ---
 
@@ -1000,6 +987,19 @@ M78Sec安全团队，由一群热爱网络安全的小伙伴们组成。团队�
 ---
 
 
+### [XyzC1ub](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMTgyMzU4NA==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMTgyMzU4NA==)
+
+[:camera_flash:【2022-05-15 09:08:44】](https://mp.weixin.qq.com/s?__biz=MzIwMTgyMzU4NA==&mid=2247484570&idx=1&sn=a0d14599e3d3e9b564f466bde7ced952&chksm=96e94095a19ec9832818783cbe69acbe15d5e321d35b6da097918aaba7926f9de15fcd9aa125&scene=27#wechat_redirect)
+
+爱生活,爱技术.
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_1eb25d489de8" alt="" />
+
+---
+
+
 ### [web安全研究院](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxNjg0NzEzNQ==)
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxNjg0NzEzNQ==)
@@ -1082,7 +1082,7 @@ Tencent A&amp;D Team 关注安全前沿攻防技术研究。
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NjEyNjY5OQ==)
 
-[:camera_flash:【2023-01-21 19:17:45】](https://mp.weixin.qq.com/s?__biz=Mzk0NjEyNjY5OQ==&mid=2247487833&idx=1&sn=94d13c91aeb996bb68573184c565f39c&chksm=c30bbb5df47c324b8e9777adefae15b6320fd933b727b61d86e86a72b8e02422bd1d21e419e5&scene=27#wechat_redirect)
+[:camera_flash:【2023-01-24 00:57:20】](https://mp.weixin.qq.com/s?__biz=Mzk0NjEyNjY5OQ==&mid=2247487837&idx=1&sn=cfb95ddf8e302e9c196d1284108180b8&chksm=c30bbb59f47c324f4790f59126c0643098207645fb8daa49d79ad513a9c95f7032fdb3e2aff9&scene=27#wechat_redirect)
 
 开普勒安全团队秉着四项基本原则：互相尊重团队，互不攻击诽谤、合作共赢、共同提升安全技术。并自成立之初宣布永不商业化，纯民间团队。
 
