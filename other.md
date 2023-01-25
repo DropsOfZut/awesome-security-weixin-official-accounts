@@ -1,9 +1,9 @@
 
 ### [全球技术地图](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1OTExNDY1NQ==)
 
-[:chart_with_upwards_trend:【34/47/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1OTExNDY1NQ==)
+[:chart_with_upwards_trend:【36/48/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1OTExNDY1NQ==)
 
-[:camera_flash:【2023-01-22 17:00:12】](https://mp.weixin.qq.com/s?__biz=MzI1OTExNDY1NQ==&mid=2651600365&idx=1&sn=3ac280db0f916d687496fffd2b1ac0db&chksm=f185461dc6f2cf0be36b8ad5f11585b727995742c072acbc3dce9249250d4d41a01df7419be2&scene=27&key=5110bf18842d58614b15d9d7599d9351c0e38068ed4399f5569ed8a97634634197a6de94ae3df001bd2316344aee6da495a81d88e820c981876cd2e40e25aa77fa9f41becced45bd1136d86ed1ffe0a2097d2c5e5543629b0ca87d98c021943558c310f4405bac6de49ce9e90d6d2627616b8e40e9b30b71a1a39ffeb485e629&ascene=15&uin=MTA3Mzc3OTIzNQ%3D%3D&devicetype=Windows+Server+2016+x64&version=6308011a&lang=zh_CN&session_us=gh_37ba12d49c79&exportkey=n_ChQIAhIQ0%2BC1159iWsk9pB3pyYI6fBL5AQIE97dBBAEAAAAAAGzZDSc1wCsAAAAOpnltbLcz9gKNyK89dVj0HL5FrGMEzOaDDB%2FcOnx%2BR8r1A6gec%2FlgqRr1AOzqhC%2BruwrUHPTffRWsAGJHJp5Sc4uMoR0JIirvuxrrcJ%2BV7VsPe%2B6j3ZCHINVOyhZbMEDTdUlM4zTWvItubJNZ23ffjGjJTzo2KdXhN14d5EXWSDgSqHhnYNVGxtWEccCvzTfJxxx6p8Om0OI%2FHg%2F70rqia506%2FVlsgYjYVPH%2BK6H8bPtgfWMuOOYRT3Yh9pVk2iTveVY1Qcwwzw6W9IQun5848DGJTOjr1RKp1EjKAjjnOZAJIw%3D%3D&acctmode&scene=27#wechat_redirect)
+[:camera_flash:【2023-01-24 14:24:28】](https://mp.weixin.qq.com/s?__biz=MzI1OTExNDY1NQ==&mid=2651600410&idx=1&sn=5310ea810d024d8a967ee0f899f3a839&chksm=f18545eac6f2ccfcd9facccbdaee66cec2f22b0a5b0d09ff4cf9a1f94306d2aa1ce15f9e68e6&scene=27&key=acf03cad7378e32964e4c0407d8221015b4a6c3c43bd331fc4253411a3ff520609f09e83d0f687d78c14037aeb03c08bdef2863d6f77d881a8001ed8f1a32fac12adf3badeb901800f1992f9d43c7385b4bd0d89089e466264f98b9da6d19aa71befed3d77ad0aa176aa944347209419169d1118353fd6d7379be307de96337f&ascene=15&uin=MTA3Mzc3OTIzNQ%3D%3D&devicetype=Windows+Server+2016+x64&version=6308011a&lang=zh_CN&session_us=gh_7a5313573251&exportkey=n_ChQIAhIQm%2Bc%2FUN3IV1t1csMqpD4YZRL5AQIE97dBBAEAAAAAADRmNoMmLhoAAAAOpnltbLcz9gKNyK89dVj0iRtY8bz%2BOCbEvzhyGCvXqVkGr4Gb8Pr2Gvmc93iGe%2BLH92xxtt1Smnr4PPseoEJT5bpumUnDFmeyqi28%2F7izGToSGW0UKHRhARYMTulfikUsW6CEULZZhY7j1pifokar1CV8hO80ch4HVSU8AGF2ZyRvsoB4h7vWVvhqzbOSgOsLEcZKF2EtFOd5PlSPBzMBxr5jQqn6XtKkE2V9u%2FlV7UcyNXvx4bL7MBiuYceyXcTJyRdo97BBvhhRJ8qNZzkWuuJ4JlIHZd6NcNOFJBdpm14Djg%3D%3D&acctmode=0&pass_ti&scene=27#wechat_redirect)
 
 洞见前沿，引领未来。
 
@@ -77,19 +77,6 @@
 ---
 
 
-### [信安黑客技术](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2MDQzMjY4NQ==)
-
-[:chart_with_upwards_trend:【1/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2MDQzMjY4NQ==)
-
-[:camera_flash:【2023-01-23 14:00:23】](https://mp.weixin.qq.com/s?__biz=Mzg2MDQzMjY4NQ==&mid=2247489395&idx=1&sn=736d64bc6a9a984b8705224785c08869&chksm=ce272731f950ae276abe3b63a5e42721bb126a1a103908871b4ade9182c2dc89341a8b5754dc&scene=27#wechat_redirect)
-
-这里是全网的网安人员聚集地！分享神秘的黑客技术、工具资源和网络信息安全领域的相关技能 。每天自动更新和推送 。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4bf5e38200d2" alt="" />
-
----
-
-
 ### [浅黑科技](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0NDEwMTc1MA==)
 
 [:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0NDEwMTc1MA==)
@@ -99,6 +86,19 @@
 在未来面前，我们都是孩子。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_7d609102b53c" alt="" />
+
+---
+
+
+### [信安黑客技术](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2MDQzMjY4NQ==)
+
+[:chart_with_upwards_trend:【1/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2MDQzMjY4NQ==)
+
+[:camera_flash:【2023-01-24 14:00:35】](https://mp.weixin.qq.com/s?__biz=Mzg2MDQzMjY4NQ==&mid=2247489396&idx=1&sn=a6d26f70f134359cdd5396448637aac2&chksm=ce272736f950ae205f03425957cd1161eeca4e43632e3bc5837206991393197c2f6251fb7101&scene=27#wechat_redirect)
+
+这里是全网的网安人员聚集地！分享神秘的黑客技术、工具资源和网络信息安全领域的相关技能 。每天自动更新和推送 。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4bf5e38200d2" alt="" />
 
 ---
 
@@ -138,19 +138,6 @@
 专注安管平台、SIEM、SOC、SOAR、大数据安全分析、态势感知等平台类安全领域。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_48603b9bb05a" alt="" />
-
----
-
-
-### [安全孺子牛](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MDI0NTM2Nw==)
-
-[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MDI0NTM2Nw==)
-
-[:camera_flash:【2022-12-25 20:30:34】](https://mp.weixin.qq.com/s?__biz=MzI2MDI0NTM2Nw==&mid=2247489582&idx=1&sn=f2a280948483bf49be6ad34992a3f867&chksm=ea6dca36dd1a43206cab1e2cdf24a4aa90953ba91cef42d19ecf9069ab6956306d9fd2e75e50&scene=27#wechat_redirect)
-
-网络安全学习研究分享
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_2da522fdae7a" alt="" />
 
 ---
 
@@ -567,6 +554,19 @@ NOVA SEC  新星安全 萌新启蒙之路 愿大家都能成为最闪耀的星�
 分享渗透，安服方面的知识，从浅到深，循序渐进。在渗透的路上，让我们从学徒出发。   此公众号提供的任何工具仅供实验使用，如用于其它用途使用，本公众号概不承担任何责任。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_20d07d60856a" alt="" />
+
+---
+
+
+### [安全孺子牛](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MDI0NTM2Nw==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MDI0NTM2Nw==)
+
+[:camera_flash:【2022-12-25 20:30:34】](https://mp.weixin.qq.com/s?__biz=MzI2MDI0NTM2Nw==&mid=2247489582&idx=1&sn=f2a280948483bf49be6ad34992a3f867&chksm=ea6dca36dd1a43206cab1e2cdf24a4aa90953ba91cef42d19ecf9069ab6956306d9fd2e75e50&scene=27#wechat_redirect)
+
+网络安全学习研究分享
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_2da522fdae7a" alt="" />
 
 ---
 

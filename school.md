@@ -103,19 +103,6 @@
 ---
 
 
-### [河北网络安全高校联盟](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4ODUyMjYyNg==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4ODUyMjYyNg==)
-
-[:camera_flash:【2023-01-11 00:22:36】](https://mp.weixin.qq.com/s?__biz=Mzg4ODUyMjYyNg==&mid=2247486416&idx=1&sn=3214d431484edc329c9d9a9c3382e91c&chksm=cff8993df88f102b5c111c04bc1be755ed242f0853e9ce8effcc97ee00056a0a2f2f2e6ce262&scene=27#wechat_redirect)
-
-河北网络安全高校联盟
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8937984657cd" alt="" />
-
----
-
-
 ### [DROPS攻防训练营](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NjE0Mzk2OA==)
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NjE0Mzk2OA==)
@@ -471,7 +458,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
 
-[:camera_flash:【2023-01-24 07:30:17】](https://mp.weixin.qq.com/s?__biz=MzUzNDg0NTc1NA==&mid=2247496597&idx=1&sn=8bf1aa6f0024e8edfe5538a9722fdbba&chksm=fa8c33c0cdfbbad6db2d14898b4648d113e7d73c12124006ec8d5f48afd81f9f2ec54b8919b2&scene=27#wechat_redirect)
+[:camera_flash:【2023-01-25 07:30:58】](https://mp.weixin.qq.com/s?__biz=MzUzNDg0NTc1NA==&mid=2247496598&idx=1&sn=b7d8e5267610913b56604b6633db5974&chksm=fa8c33c3cdfbbad5e29c2926ac5413e4253fec350c928db119c01d904535479855804ece4fa0&scene=27#wechat_redirect)
 
 启明星辰网络空间安全学院以国家网络安全事业发展为使命，依托启明星辰集团多年的技术沉淀及实践积累，提供网络安全人才体系构建与信息安全技术及能力提升教育培训，为建设网络强国提供有力的人才支撑。
 
@@ -515,6 +502,19 @@ Covteam工作室，成立于2005年。是以西华大学在校本科生研究生
 安全技术研究及安全技术分享
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f5f71c9883af" alt="" />
+
+---
+
+
+### [河北网络安全高校联盟](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4ODUyMjYyNg==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4ODUyMjYyNg==)
+
+[:camera_flash:【2023-01-11 00:22:36】](https://mp.weixin.qq.com/s?__biz=Mzg4ODUyMjYyNg==&mid=2247486416&idx=1&sn=3214d431484edc329c9d9a9c3382e91c&chksm=cff8993df88f102b5c111c04bc1be755ed242f0853e9ce8effcc97ee00056a0a2f2f2e6ce262&scene=27#wechat_redirect)
+
+河北网络安全高校联盟
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8937984657cd" alt="" />
 
 ---
 
