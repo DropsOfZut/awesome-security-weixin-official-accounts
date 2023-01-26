@@ -14,7 +14,7 @@
 
 ### [中学生CTF](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzEwMTQ3NQ==)
 
-[:chart_with_upwards_trend:【6/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzEwMTQ3NQ==)
+[:chart_with_upwards_trend:【6/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzEwMTQ3NQ==)
 
 [:camera_flash:【2023-01-21 18:00:41】](https://mp.weixin.qq.com/s?__biz=MzU3MzEwMTQ3NQ==&mid=2247506265&idx=1&sn=8181d7ee04780309756cbdedd50cc242&chksm=fcc45d95cbb3d4834fbd153d3bb5d14d8f7e7e7ac496dcbc4acf2ec0335e6b0be3c72fc5ae00&scene=27#wechat_redirect)
 
