@@ -1,9 +1,9 @@
 
 ### [IoVSecurity](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
 
-[:chart_with_upwards_trend:【0/56/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
+[:chart_with_upwards_trend:【0/53/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
 
-[:camera_flash:【2023-01-26 16:52:34】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247568615&idx=1&sn=756d081c201a13e589cf06928dc72744&chksm=fc039c2dcb74153b41d5fb3fc56fb72e10016b9a20c6bacf2802f69da00ecc5fb0da3af19601&scene=27#wechat_redirect)
+[:camera_flash:【2023-01-27 17:14:37】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247568871&idx=2&sn=af8bca2be39cb3d418773122adfb0d57&chksm=fc039d2dcb74143bf6052168ef2b2182a4c0cd05fe7f850ff46a16042fe1a3aa4dfbc8fb9ddd&scene=27#wechat_redirect)
 
 为智能网联汽车行业专业人士提供信息和网络安全技术、产品及服务等行业发展最新咨询
 
