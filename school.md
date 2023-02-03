@@ -1,7 +1,7 @@
 
 ### [大学生网络安全尖锋训练营](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
 
-[:chart_with_upwards_trend:【0/13/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
+[:chart_with_upwards_trend:【0/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
 
 [:camera_flash:【2023-01-26 08:00:40】](https://mp.weixin.qq.com/s?__biz=MzUzODkwMDMxNA==&mid=2247506775&idx=1&sn=44a31249a38dbf51a04daabd08125338&chksm=fad23962cda5b074caebdc7606a0a4ed318adce375391ba392b8677d6b2faa78d87533946c40&scene=27#wechat_redirect)
 
@@ -27,9 +27,9 @@
 
 ### [浙大网安](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5NDczNDc4NA==)
 
-[:chart_with_upwards_trend:【0/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5NDczNDc4NA==)
+[:chart_with_upwards_trend:【0/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5NDczNDc4NA==)
 
-[:camera_flash:【2023-01-30 12:14:26】](https://mp.weixin.qq.com/s?__biz=Mzg5NDczNDc4NA==&mid=2247491390&idx=1&sn=05459ae63daf7ca9484b477f1b5c062c&chksm=c01a4791f76dce877719da183216f0c0bb3ba4ed7582181fb08b6d21d8578dbb155e818452b5&scene=27#wechat_redirect)
+[:camera_flash:【2023-02-02 19:00:29】](https://mp.weixin.qq.com/s?__biz=Mzg5NDczNDc4NA==&mid=2247491408&idx=1&sn=5f767e36c541113e1fdb44c8698ab42d&chksm=c01a47fff76dcee9bfdfe2f041b2a4f6e76c9f893105574ac1c96d413b96225fe19e1f2fd5da&scene=27#wechat_redirect)
 
 浙江大学网络空间安全学院/浙江大学网络空间安全研究中心
 
@@ -42,7 +42,7 @@
 
 [:chart_with_upwards_trend:【5/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxMTEwOTA3OA==)
 
-[:camera_flash:【2023-01-18 17:00:36】](https://mp.weixin.qq.com/s?__biz=MzUxMTEwOTA3OA==&mid=2247484923&idx=1&sn=5935cacf226acd81937e152bd5e7d174&chksm=f979f742ce0e7e54abbcae6fb7a0b4fada81b46b78d1c72051250bb90d1dfb66afa8f84471f1&scene=27#wechat_redirect)
+[:camera_flash:【2023-02-02 22:34:59】](https://mp.weixin.qq.com/s?__biz=MzUxMTEwOTA3OA==&mid=2247484940&idx=1&sn=4442e791135e9cc281884fe97d718199&chksm=f979f4b5ce0e7da3c0ef130f7eb42df8162fb81327857917b11a830fd2c489103df2d1715532&scene=27#wechat_redirect)
 
 网络与信息安全实验室(NISL@THU)，专注于网络、系统、应用、人工智能安全教学与研究，在国际四大安全会议发表三十余篇论文，成果在业界产生了广泛影响力。孕育了蓝莲花、紫荆花等知名战队，发起了网安国际学术论坛InForSec。
 
