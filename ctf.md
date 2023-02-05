@@ -14,9 +14,9 @@
 
 ### [中学生CTF](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzEwMTQ3NQ==)
 
-[:chart_with_upwards_trend:【6/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzEwMTQ3NQ==)
+[:chart_with_upwards_trend:【9/13/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzEwMTQ3NQ==)
 
-[:camera_flash:【2023-01-21 18:00:41】](https://mp.weixin.qq.com/s?__biz=MzU3MzEwMTQ3NQ==&mid=2247506265&idx=1&sn=8181d7ee04780309756cbdedd50cc242&chksm=fcc45d95cbb3d4834fbd153d3bb5d14d8f7e7e7ac496dcbc4acf2ec0335e6b0be3c72fc5ae00&scene=27#wechat_redirect)
+[:camera_flash:【2023-02-04 14:41:23】](https://mp.weixin.qq.com/s?__biz=MzU3MzEwMTQ3NQ==&mid=2247506352&idx=2&sn=b04f9233af78ae008fc415e396d8736c&chksm=fcc45d7ccbb3d46a3cc28009112ebea07b8aa86ba1b8ea5ec135d3baf8cea567eb16b1cdd30d&scene=27#wechat_redirect)
 
 青少年CTF（原名中学生CTF）帮助大家学习CTF竞赛，信息安全与网络技术。大家如果喜欢我们的视频讲解和教程可以加入我们的QQ群：797842833。快来和我们一起学习安全知识吧。
 
