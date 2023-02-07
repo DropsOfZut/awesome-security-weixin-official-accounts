@@ -1,9 +1,9 @@
 
 ### [数据安全与隐私计算](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNzM0NzA3Ng==)
 
-[:chart_with_upwards_trend:【0/30/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNzM0NzA3Ng==)
+[:chart_with_upwards_trend:【0/32/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNzM0NzA3Ng==)
 
-[:camera_flash:【2023-02-04 00:00:26】](https://mp.weixin.qq.com/s?__biz=MzkyNzM0NzA3Ng==&mid=2247499946&idx=2&sn=a584a961493a08183564d178969ca370&chksm=c22bf841f55c715769cf27ee295a1e013b721b766f157fe8d1ad9044d565066c3225b6d1341b&scene=27#wechat_redirect)
+[:camera_flash:【2023-02-06 23:09:38】](https://mp.weixin.qq.com/s?__biz=MzkyNzM0NzA3Ng==&mid=2247499965&idx=2&sn=d8d8c109e639689d508ba009ce478f1b&chksm=c22bf856f55c7140ec24d34fae5810b9339eecd4e59b954b6b71e16c56223e1b8d71a00558fb&scene=27#wechat_redirect)
 
 可隐数据实验室
 
@@ -14,9 +14,9 @@
 
 ### [谈数据](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1NzYwNTMzNw==)
 
-[:chart_with_upwards_trend:【1/26/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1NzYwNTMzNw==)
+[:chart_with_upwards_trend:【1/25/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1NzYwNTMzNw==)
 
-[:camera_flash:【2023-02-05 14:30:31】](https://mp.weixin.qq.com/s?__biz=MzI1NzYwNTMzNw==&mid=2247510052&idx=1&sn=c00c13215ef3a39f2ab90ea276180c6c&chksm=ea160392dd618a84e30be291dcd3ffa5ef4014df641620ced7fd0ac7bdbe3d6295b4061bb968&scene=27#wechat_redirect)
+[:camera_flash:【2023-02-07 07:30:12】](https://mp.weixin.qq.com/s?__biz=MzI1NzYwNTMzNw==&mid=2247510210&idx=1&sn=51adc3c0573931175c84542a6cc8223b&chksm=ea160374dd618a620e9edef11dc769c499290da257961e2e63382e63ccf148ee910fa0d40a5e&scene=27#wechat_redirect)
 
 聚焦数据治理，数字化转型，数据中台等领域专业知识总结和实战分享，做你身边最有价值的数据号！
 
@@ -29,7 +29,7 @@
 
 [:chart_with_upwards_trend:【13/19/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NjY3MDE3MA==)
 
-[:camera_flash:【2023-02-03 09:30:16】](https://mp.weixin.qq.com/s?__biz=Mzg3NjY3MDE3MA==&mid=2247487744&idx=1&sn=485f0e955e7bbe55dbf69791059877d0&chksm=cf2fecb5f85865a39cdbe718482a47f18315407e409321a7a21bfbe4411d7cbf2c0e40d82783&scene=27#wechat_redirect)
+[:camera_flash:【2023-02-06 10:29:02】](https://mp.weixin.qq.com/s?__biz=Mzg3NjY3MDE3MA==&mid=2247487764&idx=1&sn=f172afe26380ee4e5b073182fdda42ff&chksm=cf2feca1f85865b7d16cfffaaccc115c0bcc02dfb3432a776afcb830cbeedfe1a3746a4a8629&scene=27#wechat_redirect)
 
 围绕数据安全政策解读、数据安全标准建设、数据安全评估评测、数据安全咨询服务、数据安全人才培训认证等内容搭建数据安全交流平台，构建数据安全专业社群。
 
@@ -42,7 +42,7 @@
 
 [:chart_with_upwards_trend:【0/19/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzODk1NzY5NA==)
 
-[:camera_flash:【2023-02-03 14:03:40】](https://mp.weixin.qq.com/s?__biz=MzIzODk1NzY5NA==&mid=2247493833&idx=2&sn=40746d132a20ef95708527c4c38048eb&chksm=e933cdd8de4444ceda3f6398637fcce26acda9e21a0e488e27e9af5563e479ebd40c81c30265&scene=27&key=8fff2c73291e81bbfa388dbf3f8e01f0e102b48cad96a1890121cc2d2a21c266ea65c35bb48c41e5f358bcaf6396c53ca28afd5a7968fc1850263e10d15ad3f5797bb204b1e9fae609f5fb8b188981f38d36b219cc446a7de507bf73f27ae5d0d448d0b097e549bf050296846ceed5008cb116a207c98746ca592e2fc214a2f2&ascene=15&uin=MTA3Mzc3OTIzNQ%3D%3D&devicetype=Windows+10+x64&version=6308011a&lang=zh_CN&session_us=gh_2a7f52ddcd82&exportkey=n_ChQIAhIQg3BJOEPHfxEScF7ZoT8mrRLvAQIE97dBBAEAAAAAAOlxCHEZT%2F0AAAAOpnltbLcz9gKNyK89dVj0DJhsNR3IghqwdCDD2c9ulGtq5GydsxKNbyMPuif%2BFCLZHkW8%2FrQMTcQzp5FEtyxowrd0G3xoSk87n6syDGhro%2BZoTRubdeea2dBzsqmOc1Tkel7FzRfLP8PimW0mCS0EO5UtULdZLHABFQiuRC1YZ3jhnrMMXTud9UGpt85rUoFVdOJP9K8twPCcq508jQ0Y5QZJXj%2BSnqTEmNG%2BJLxO4S3l6CXRw3RUlJFdqDMWolXStaaRHl2BHfZE1g2ClxZTU2fCp124qKcI&acctmode=0&pass_ticket=kRN1m22giDukc6UjPIwj7API&scene=27#wechat_redirect)
+[:camera_flash:【2023-02-06 14:35:40】](https://mp.weixin.qq.com/s?__biz=MzIzODk1NzY5NA==&mid=2247493838&idx=1&sn=a1f6750d05f31fc7b640fece53979ae7&chksm=e933cddfde4444c93e1db180f7afb4caf7dd3a6c9412bd0a87d1b43e7ef5041d45f2b0d18264&scene=27#wechat_redirect)
 
 www.pcachina.com
 
@@ -55,7 +55,7 @@ www.pcachina.com
 
 [:chart_with_upwards_trend:【0/14/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyMjI2MDE2Mg==)
 
-[:camera_flash:【2023-02-03 21:47:24】](https://mp.weixin.qq.com/s?__biz=MzkyMjI2MDE2Mg==&mid=2247494555&idx=2&sn=bd99f45aac598f7763a76c1cd899eecc&chksm=c1f5ac36f68225201e3d7ca598a6dec664c7d098ad641bd5c69254e3e5129fe1f2424386c784&scene=27#wechat_redirect)
+[:camera_flash:【2023-02-06 19:12:11】](https://mp.weixin.qq.com/s?__biz=MzkyMjI2MDE2Mg==&mid=2247494572&idx=1&sn=d61173b9564f00dc1efb5298145677c3&chksm=c1f5ac01f68225173aae8c8bdfaf5b344f4eae78f99366d5affae0b2f32abba50b65cb109179&scene=27#wechat_redirect)
 
 杭州数据安全联盟是由杭州市数据资源管理局业务主管和指导的社会团体组织。本订阅号作为杭州数据安全联盟新闻宣传、资源发布和信息共享的公众平台，实时发布杭州数据安全相关信息，助力数智杭州发展。
 
@@ -94,7 +94,7 @@ www.pcachina.com
 
 [:chart_with_upwards_trend:【0/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Nzg0NzUxOQ==)
 
-[:camera_flash:【2023-01-30 20:00:26】](https://mp.weixin.qq.com/s?__biz=MjM5Nzg0NzUxOQ==&mid=2247485070&idx=1&sn=892c5b98abb899d561fed0c2fd980400&chksm=a6d28e3e91a50728b22cd4a1604eae6f9b80ffa86a1a631b2b8035d33b051428c30d7d4b77dc&scene=27#wechat_redirect)
+[:camera_flash:【2023-02-06 19:15:01】](https://mp.weixin.qq.com/s?__biz=MjM5Nzg0NzUxOQ==&mid=2247485075&idx=1&sn=235e28c3c1ae9bad5f977dc305b21d61&chksm=a6d28e2391a507359e4f9e16e6fa562a7015760bcae87ed34d4560c9e1cc5317be1baaf4907e&scene=27#wechat_redirect)
 
 提供大数据安全设计咨询、实时推送前沿数据安全技术、解读数据安全标准；为政企单位提升信息安全意识，提供数据安全解决方案。
 
@@ -107,7 +107,7 @@ www.pcachina.com
 
 [:chart_with_upwards_trend:【3/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MDcxODc5NA==)
 
-[:camera_flash:【2023-02-01 08:30:57】](https://mp.weixin.qq.com/s?__biz=Mzg5MDcxODc5NA==&mid=2247487480&idx=1&sn=8b03af6d5882e936ba2fb028248627ff&chksm=cfd910ddf8ae99cbcb06d9ae0266e4d37a2eb7209f627b4596868ac3858678d146aaaf569be7&scene=27#wechat_redirect)
+[:camera_flash:【2023-02-06 08:30:13】](https://mp.weixin.qq.com/s?__biz=Mzg5MDcxODc5NA==&mid=2247487560&idx=1&sn=45749614f5e8da8b73b8bd3c97642450&chksm=cfd90f6df8ae867b593ba65f410f0d89ae6b77c6ebf0d928f877cfd8dccc3b17c6cf4f084141&scene=27#wechat_redirect)
 
 “数据安全共同体计划”为了促进《数据安全法》《个人信息保护法》落地实施，推动数据开发利用和数据安全领域的技术推广和产业创新，致力于促进数据安全产业链各环节的交流与合作，推动数据安全政策、技术、人才多要素良性互动，构建数据安全产业生态共同体。
 
@@ -133,7 +133,7 @@ www.pcachina.com
 
 [:chart_with_upwards_trend:【0/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5MTk0MzIzMQ==)
 
-[:camera_flash:【2023-02-03 17:04:03】](https://mp.weixin.qq.com/s?__biz=MjM5MTk0MzIzMQ==&mid=2652015680&idx=1&sn=bde8a3582c5084b42e49e7ea79d3e5c8&chksm=bd4bf3108a3c7a06c3931968b1f46f11aeb4c84f648de01b3ae95bc047fe9fb86602cd1fd397&scene=27#wechat_redirect)
+[:camera_flash:【2023-02-06 13:35:54】](https://mp.weixin.qq.com/s?__biz=MjM5MTk0MzIzMQ==&mid=2652015690&idx=1&sn=2906863d0d312771598325be2ed5c42a&chksm=bd4bf31a8a3c7a0c8b48fffdbeaad38a5e1766cbecdf2ea762baa532b3d8dbaf1a6deab74737&scene=27#wechat_redirect)
 
 可信赖的数据安全产品与服务提供商
 
@@ -185,7 +185,7 @@ www.pcachina.com
 
 [:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzg5MTI0OQ==)
 
-[:camera_flash:【2023-02-03 21:00:43】](https://mp.weixin.qq.com/s?__biz=MzIwMzg5MTI0OQ==&mid=2247515427&idx=1&sn=e0cff8214d182b6b3e8fce0aa960eb2b&chksm=96ca8a7da1bd036bf9413536ac3e2077f908e34a0249dcb32ec57a2be0f4fcb653dffd106235&scene=27#wechat_redirect)
+[:camera_flash:【2023-02-06 21:00:09】](https://mp.weixin.qq.com/s?__biz=MzIwMzg5MTI0OQ==&mid=2247515813&idx=1&sn=7e2f401c808c6e1e817aa8d7c8715106&chksm=96ca89fba1bd00ed57c47d40e6cba2b4143904b5e04eba7c7ebd54972c826b38cf4967d54302&scene=27#wechat_redirect)
 
 专注于企业数据化应用、大数据BI技术和理论观点的研究，致力于让数据成为企业真正的生产力！帆软数据应用研究院旗下账号。
 
@@ -237,7 +237,7 @@ www.pcachina.com
 
 [:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MTgwMzA2MQ==)
 
-[:camera_flash:【2023-02-01 18:57:16】](https://mp.weixin.qq.com/s?__biz=Mzg4MTgwMzA2MQ==&mid=2247484115&idx=1&sn=63843bb18d963dfc1681766593975ce1&chksm=cf612889f816a19f5dbc1e0e59af424d17308d1cd4ad5680db381e7669d7ec4788ac0e19105b&scene=27#wechat_redirect)
+[:camera_flash:【2023-02-06 15:42:58】](https://mp.weixin.qq.com/s?__biz=Mzg4MTgwMzA2MQ==&mid=2247484142&idx=1&sn=92d7d745435cce74b416016ea2485895&chksm=cf6128b4f816a1a2566c28058e6ad99471143bfc002069407ca3c25dbbc2295e552519247c7f&scene=27#wechat_redirect)
 
 数据安全产业发展趋势，行业数字人才培训孵化。
 
