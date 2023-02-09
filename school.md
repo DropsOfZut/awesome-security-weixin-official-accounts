@@ -14,7 +14,7 @@
 
 ### [大学生网络安全尖锋训练营](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
 
-[:chart_with_upwards_trend:【0/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
+[:chart_with_upwards_trend:【0/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
 
 [:camera_flash:【2023-02-05 09:00:37】](https://mp.weixin.qq.com/s?__biz=MzUzODkwMDMxNA==&mid=2247506790&idx=1&sn=39156871319581de6d3b06dc1e79cf6e&chksm=fad23953cda5b04557bf0225f523469744930baa30551935b21395cf3ed77cd90bf108d7c7c2&scene=27#wechat_redirect)
 
@@ -27,7 +27,7 @@
 
 ### [浙大网安](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5NDczNDc4NA==)
 
-[:chart_with_upwards_trend:【0/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5NDczNDc4NA==)
+[:chart_with_upwards_trend:【0/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5NDczNDc4NA==)
 
 [:camera_flash:【2023-02-07 14:58:05】](https://mp.weixin.qq.com/s?__biz=Mzg5NDczNDc4NA==&mid=2247491415&idx=1&sn=74d81553a3a6ff52ca6357b210439523&chksm=c01a47f8f76dceee715474d2bf5e80aeade26ea78df84c8d6f8748f13d4847f64abcb16d213e&scene=27#wechat_redirect)
 
