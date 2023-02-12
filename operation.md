@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【0/42/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NjE0NDc5OQ==)
 
-[:camera_flash:【2023-02-10 08:08:52】](https://mp.weixin.qq.com/s?__biz=Mzk0NjE0NDc5OQ==&mid=2247516277&idx=1&sn=725ab31b59697ca6e2425e83d8eb573c&chksm=c3085305f47fda13276b2d341dd6c5a694ace4c8faccaf1447cf1b2910d55fdb083e3484a92f&scene=27#wechat_redirect)
+[:camera_flash:【2023-02-11 11:03:43】](https://mp.weixin.qq.com/s?__biz=Mzk0NjE0NDc5OQ==&mid=2247516295&idx=1&sn=c5b79461c9fc6eff047f84744f84b5f8&chksm=c30853f7f47fdae1d624aa0c51292439de161d308e1609c77eabe81a4a9809da3b806e65699a&scene=27#wechat_redirect)
 
 未知攻 焉知防 攻防兼备
 
@@ -14,9 +14,9 @@
 
 ### [kali黑客笔记](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzIwNTY1OA==)
 
-[:chart_with_upwards_trend:【19/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzIwNTY1OA==)
+[:chart_with_upwards_trend:【18/19/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzIwNTY1OA==)
 
-[:camera_flash:【2023-02-10 08:07:56】](https://mp.weixin.qq.com/s?__biz=MzkxMzIwNTY1OA==&mid=2247494292&idx=1&sn=ecaee46542d590bea1d416f55d8fd3e4&chksm=c1039a61f674137730928b3c251ee93fc820cafc46c57838ca905c7324ce18d1de83d51f0eb2&scene=27#wechat_redirect)
+[:camera_flash:【2023-02-11 08:53:19】](https://mp.weixin.qq.com/s?__biz=MzkxMzIwNTY1OA==&mid=2247494328&idx=1&sn=3b91e2742e943c356b3afbd9bca223ae&chksm=c1039a4df674135b72328f51b19499c977c139f143ffaddb9f3fcf032cd017a737d31d5f6f66&scene=27#wechat_redirect)
 
 kali论坛(bbskali.cn)官方公众号，主要发布关于Kali Linux相关文章。Debian Centos等操作系统的安全和运维。以及树莓派 ESP8266 DIY单片机等相关安全领域的文章。为各位网络安全爱好者提供优质学习平台。
 
