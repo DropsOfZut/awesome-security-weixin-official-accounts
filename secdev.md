@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【1/96/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
 
-[:camera_flash:【2023-02-17 15:35:16】](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247593006&idx=1&sn=af0af1069b525fb7890bf4f824978fee&chksm=ec577c75db20f5632102281b4f41acbdce7b2a87da8b25549af5ea7e649040e10d893e2d0e05&scene=27#wechat_redirect)
+[:camera_flash:【2023-02-18 15:53:23】](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247593064&idx=2&sn=d65bd03d2bce2c142093a7295dbdb2f2&chksm=ec577c33db20f525bd5e0983f13e7bbe5bf467d0d1efa968d194206fcecbddb0076a59405e5e&scene=27#wechat_redirect)
 
 商密君是全国密码行业头部公众号，旨在宣传推广《密码法》，普及商用密码知识，解读密码政策，分享商用密码行业的最新动态，为密码产业产学研用做好宣传服务，连接密码全行业精英，推动密码技术在数字经济各行业的应用和创新。
 
@@ -16,7 +16,7 @@
 
 [:chart_with_upwards_trend:【1/31/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
 
-[:camera_flash:【2023-02-17 23:30:33】](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247497204&idx=1&sn=9303e9640680d304ac329f3cf5175960&chksm=c1448749f6330e5f7f671dbd999a939a496f044dd72f893693c94ffea744abf29362e274691d&scene=27#wechat_redirect)
+[:camera_flash:【2023-02-18 23:30:30】](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247497214&idx=1&sn=9d70d170fd09b8439aaf5e595f9edf39&chksm=c1448743f6330e5517be26a0dc88ab69c2d6f3c0ec5c3379e40f6ff7829f098f05cd4e912f9e&scene=27#wechat_redirect)
 
 中国数字产业领域中立的第三方调研机构，提供网络安全行业的调查、研究与咨询服务。
 
@@ -27,26 +27,13 @@
 
 ### [深圳市网络与信息安全行业协会](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
 
-[:chart_with_upwards_trend:【3/16/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
+[:chart_with_upwards_trend:【2/15/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
 
-[:camera_flash:【2023-02-16 08:30:51】](https://mp.weixin.qq.com/s?__biz=MzU0Mzk0NDQyOA==&mid=2247505669&idx=1&sn=dd21d4411f74b1b9e9042e15ac3b6e77&chksm=fb012c86cc76a5905c6de752eb72d2cb6529fd4d43af3cb82e0a09d817979dd43ed738fc97e9&scene=27#wechat_redirect)
+[:camera_flash:【2023-02-18 09:00:46】](https://mp.weixin.qq.com/s?__biz=MzU0Mzk0NDQyOA==&mid=2247505691&idx=1&sn=cbdefd15bb61565b2affcf2a8a26e2e6&chksm=fb012c98cc76a58e9d0498949552a8789457b0326ae9d1233345fdf743f2504e37a8a0ec6404&scene=27#wechat_redirect)
 
 深圳市网络与信息安全行业协会（SNISA），是深圳市网络与信息安全行业的权威组织，是中国网络安全审查技术与认证中心（CCRC）在深圳唯一授权工作站，是经深圳市人力资源和社会保障局核准，开展网络空间安全工程技术专业职称评审工作的社会组织。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_650442d8cad4" alt="" />
-
----
-
-
-### [君哥的体历](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MjQ1NTA4MA==)
-
-[:chart_with_upwards_trend:【5/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MjQ1NTA4MA==)
-
-[:camera_flash:【2023-02-09 08:00:57】](https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247489375&idx=1&sn=a88ac5b88ca6b557199995ea39911945&chksm=ea4bbd18dd3c340e925e3e31883b049a4bcee66b292e73972dffb08cc42a43799591688e1077&scene=27#wechat_redirect)
-
-闲暇时间，逼迫自己，记录分享体验与经历，不求正确统一，但求真、善、美。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_aa4d8db71365" alt="" />
 
 ---
 
@@ -60,6 +47,19 @@
 网络安全事件预警体系、事件检测、应急处置、追踪溯源、安全运营、红蓝对抗、HW行动、AWD竞赛，以及站在审计师的角度评估信息系统建设的有效性、完备性、安全性等。 欢迎有想法、乐于分享的具备互联网分享精神的安全人交流学习。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_9774ce64d500" alt="" />
+
+---
+
+
+### [君哥的体历](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MjQ1NTA4MA==)
+
+[:chart_with_upwards_trend:【4/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MjQ1NTA4MA==)
+
+[:camera_flash:【2023-02-09 08:00:57】](https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247489375&idx=1&sn=a88ac5b88ca6b557199995ea39911945&chksm=ea4bbd18dd3c340e925e3e31883b049a4bcee66b292e73972dffb08cc42a43799591688e1077&scene=27#wechat_redirect)
+
+闲暇时间，逼迫自己，记录分享体验与经历，不求正确统一，但求真、善、美。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_aa4d8db71365" alt="" />
 
 ---
 
@@ -79,7 +79,7 @@
 
 ### [表图](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzOTI4NDQ3NA==)
 
-[:chart_with_upwards_trend:【3/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzOTI4NDQ3NA==)
+[:chart_with_upwards_trend:【4/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzOTI4NDQ3NA==)
 
 [:camera_flash:【2023-02-17 17:51:32】](https://mp.weixin.qq.com/s?__biz=MzUzOTI4NDQ3NA==&mid=2247484125&idx=1&sn=f3f431696e56ca076520389431659f33&chksm=facb8448cdbc0d5eb7874b15cd77f1e27d202feae3960a28964d3db4fa6654b9066143b2f8dd&scene=27#wechat_redirect)
 
@@ -116,19 +116,6 @@
 ---
 
 
-### [悬镜安全说](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwODc2NjgwMg==)
-
-[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwODc2NjgwMg==)
-
-[:camera_flash:【2023-01-21 19:36:10】](https://mp.weixin.qq.com/s?__biz=MzAwODc2NjgwMg==&mid=2649110078&idx=1&sn=e9d666fa2401f31414809ba2bb093265&chksm=837b4203b40ccb15f479a06f71246040e321e8d63141404cf26ff529372d38b088dd72f2fa8b&scene=27#wechat_redirect)
-
-悬镜安全，DevSecOps敏捷安全领导者，创始人子芽。专注于以代码疫苗技术为内核，通过原创专利级第三代DevSecOps智适应威胁管理体系，持续赋能数千家行业标杆用户，帮助其构筑起内生积极防御体系。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_7dd1a6c278da" alt="" />
-
----
-
-
 ### [网络安全观](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxNzUxNzA2NQ==)
 
 [:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxNzUxNzA2NQ==)
@@ -155,15 +142,15 @@ OWASP中国，SecZone互联网安全研究中心官方平台
 ---
 
 
-### [i安全梦](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxODY0NTYwMw==)
+### [悬镜安全说](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwODc2NjgwMg==)
 
-[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxODY0NTYwMw==)
+[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwODc2NjgwMg==)
 
-[:camera_flash:【2023-02-04 09:53:04】](https://mp.weixin.qq.com/s?__biz=MzAxODY0NTYwMw==&mid=2247485757&idx=1&sn=820ead8a15e087ee77d11b6c8ccbfcfc&chksm=9bd25e31aca5d727c6d6de31274bb429bd3fe466cac071cface32271e8f4a9628cbb6f592358&scene=27#wechat_redirect)
+[:camera_flash:【2023-01-21 19:36:10】](https://mp.weixin.qq.com/s?__biz=MzAwODc2NjgwMg==&mid=2649110078&idx=1&sn=e9d666fa2401f31414809ba2bb093265&chksm=837b4203b40ccb15f479a06f71246040e321e8d63141404cf26ff529372d38b088dd72f2fa8b&scene=27#wechat_redirect)
 
-共同探讨企业网信实践经验，解决企业网信建设最后一公里。
+悬镜安全，DevSecOps敏捷安全领导者，创始人子芽。专注于以代码疫苗技术为内核，通过原创专利级第三代DevSecOps智适应威胁管理体系，持续赋能数千家行业标杆用户，帮助其构筑起内生积极防御体系。
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e7945c695dd2" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_7dd1a6c278da" alt="" />
 
 ---
 
@@ -229,6 +216,19 @@ OWASP中国，SecZone互联网安全研究中心官方平台
 安全和运维不分家，要两手抓，两手硬。Security：安全建设哪有什么圣杯，无非是日拱一卒的心态和对解决问题的执拗。Operation：只要不断地解决根源问题，服务质量就一定会得到提升。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_390493bef72f" alt="" />
+
+---
+
+
+### [i安全梦](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxODY0NTYwMw==)
+
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxODY0NTYwMw==)
+
+[:camera_flash:【2023-02-04 09:53:04】](https://mp.weixin.qq.com/s?__biz=MzAxODY0NTYwMw==&mid=2247485757&idx=1&sn=820ead8a15e087ee77d11b6c8ccbfcfc&chksm=9bd25e31aca5d727c6d6de31274bb429bd3fe466cac071cface32271e8f4a9628cbb6f592358&scene=27#wechat_redirect)
+
+共同探讨企业网信实践经验，解决企业网信建设最后一公里。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e7945c695dd2" alt="" />
 
 ---
 
