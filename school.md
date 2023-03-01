@@ -1,9 +1,9 @@
 
 ### [启明星辰网络空间安全教育](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
 
-[:chart_with_upwards_trend:【0/13/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
+[:chart_with_upwards_trend:【0/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
 
-[:camera_flash:【2023-02-19 06:00:48】](https://mp.weixin.qq.com/s?__biz=MzUzNDg0NTc1NA==&mid=2247496855&idx=1&sn=72cddc2f373c057cd0958699ee5cb83e&chksm=fa8c34c2cdfbbdd4d0ab570ab703da34ad1e64a73217d5c1d799c618cac7d3323d99a4de4f4c&scene=27#wechat_redirect)
+[:camera_flash:【2023-02-24 16:30:21】](https://mp.weixin.qq.com/s?__biz=MzUzNDg0NTc1NA==&mid=2247496938&idx=1&sn=aeca949025bb2d3c1adf9e89d988c750&chksm=fa8c34bfcdfbbda911285063de3549aa0e7055bd0a4c0170b1863312696127b004e3f2763c41&scene=27#wechat_redirect)
 
 启明星辰网络空间安全学院以国家网络安全事业发展为使命，依托启明星辰集团多年的技术沉淀及实践积累，提供网络安全人才体系构建与信息安全技术及能力提升教育培训，为建设网络强国提供有力的人才支撑。
 
@@ -12,11 +12,24 @@
 ---
 
 
+### [合天网络安全](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyNzU3Mzg2NQ==)
+
+[:chart_with_upwards_trend:【0/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyNzU3Mzg2NQ==)
+
+[:camera_flash:【2023-02-21 17:30:13】](https://mp.weixin.qq.com/s?__biz=MzIyNzU3Mzg2NQ==&mid=2247486307&idx=1&sn=01f73ee3bf42aabd2f48f917f49d223c&chksm=e85e6265df29eb738e3886b3e8caf69930e65d2bac5368d9224bf5bb745af4808be071ae6a1f&scene=27&key=19dd869acb0b898aa8f327e996be7d732cc50ce00a1681660449bcfbec5b9da53da92d54a2238565be3468aff55cda3b7fe400027fd1f9922e8b91fcdc80c9d0ade4476f8d61aadb32e96f5fde8a9888d4061978d491b0c49e7f5c10a94d3464ecd89161249dc83419fa8661fd0f34e67439a55444a925f164eb01a2922ac9b3&ascene=15&uin=MTA3Mzc3OTIzNQ%3D%3D&devicetype=Windows+10+x64&version=6308011a&lang=zh_CN&session_us=gh_884fc3cf7c45&exportkey=n_ChQIAhIQdkRVgXMGFnFDi3DNd6ZnfxLvAQIE97dBBAEAAAAAAANjMEDVjSYAAAAOpnltbLcz9gKNyK89dVj0%2B0vhPvITP5fU14oUHAtwUmqOXHIwzSDTwEQGDQIvHg8xN0shNQvhOymp0iI%2FsSN%2FqN%2FPXbiDyNDHNi7c7SHrfZK9yFBY762BmAPA1O5jHHPSneUuMalTHL%2BY6nXu9U4LGyz8d0gw0zpH6p0wlfqtOQBGsIdcZwvCZAFQ%2B4Qx2%2BABiobYC3rWUs%2FfO66FQsC4yuRkckBzzYOX%2BWSrV7r%2Ffp8DdCHY1VDjiwU%2BP%2BjDJe9ka6N8ObRYMkkXU5K1CA4uvlC3dyDLFgey&acctmode=0&pass_ticket=xxdLNtg5ilEu&scene=27#wechat_redirect)
+
+网安学院拥有专业教学服务、就业指导，课程配套靶场实战平台（www.hetianlab.com），学员学完就练，切实提升实践动手能力；课程涵盖Web安全、软件安全、网络安全等网安各个相关方面。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a6ba8f92d07d" alt="" />
+
+---
+
+
 ### [大学生网络安全尖锋训练营](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
 
 [:chart_with_upwards_trend:【0/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
 
-[:camera_flash:【2023-02-19 08:00:33】](https://mp.weixin.qq.com/s?__biz=MzUzODkwMDMxNA==&mid=2247506814&idx=1&sn=d19924748b1494b736d8b44d2a99df35&chksm=fad2394bcda5b05d0a0a011c5c45bac3c508ddb2ad6eb59287448ab243971646978cbe198415&scene=27#wechat_redirect)
+[:camera_flash:【2023-02-23 08:00:37】](https://mp.weixin.qq.com/s?__biz=MzUzODkwMDMxNA==&mid=2247506847&idx=1&sn=f7a3aa8dd8b89a3903aae8d62f4e351c&chksm=fad239aacda5b0bc9fe3f1906eb7b92aa8f5b9b593980163d4e45e882b86fe1034401c35c36e&scene=27&key=b04207329504921769c0b0dcbc3c44fa88477aeb029ae0d564f9439121bb4d1c2d6d509eb22a5a9b4e79e116e23692db1fdd45c9e881d7a9eae92a1089ae89dfcf03e5cada974b0af912d251a6b419e0a424cb4ea2134cb2f3bab7e66b26a4d136fd6980ddb1f9bdb1a8fa7749e87a9616ae3a023e56e88ec2b1602c1c3e069d&ascene=15&uin=MzgxODQ4MjMz&devicetype=Windows+10+x64&version=6308011a&lang=zh_CN&session_us=gh_ff13bad322ea&countrycode=GY&exportkey=n_ChQIAhIQ4JYJHVJsRcViwzTBzJkNwxLvAQIE97dBBAEAAAAAAMOtK2hj6BUAAAAOpnltbLcz9gKNyK89dVj01YXk6EmkIXK1UTtzqw%2BJGlt9isO9QieanyvYPet7F06%2BnNWeVDgF%2B37d0WG12B0CUh3NT3i3nbda6FcqpujR8uamuuhCITVRkw5xVNWT%2BqdBb2BQxcRFi1yUB4hYMFCUDnpVBLf%2BNEgCJ51yeCPSztJgHiOxTRRkYWq%2B4e%2BCxuU1S6E808xKPZOLwxgReL0y4xnqBb06u0Jy4FB1TUTsBqs19izhW0KJ5%2FFiWSdejApVjzM56B4kBOw7aKmp5PZ1xwRcw%2BfBK0Lt&acctmode=0&pass_ticket=VWe9Y249%2B&scene=27#wechat_redirect)
 
 百所高校、百家用人单位、百名尖锋导师，携手打造定制化人才培养模式，通过导师制职业规划和封闭式岗位实训，补足知识短板、提高实战能力，培养创新型、实用型网络安全尖锋人才。
 
@@ -27,9 +40,9 @@
 
 ### [浙大网安](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5NDczNDc4NA==)
 
-[:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5NDczNDc4NA==)
+[:chart_with_upwards_trend:【0/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5NDczNDc4NA==)
 
-[:camera_flash:【2023-02-10 12:17:34】](https://mp.weixin.qq.com/s?__biz=Mzg5NDczNDc4NA==&mid=2247491502&idx=1&sn=f99c79f4776b12af7dd6177673e0a7c7&chksm=c01a4701f76dce177f1810ec4f7fead64682a43a86a9e788cb3b2998396b80c198e3b9362834&scene=27#wechat_redirect)
+[:camera_flash:【2023-02-20 14:20:15】](https://mp.weixin.qq.com/s?__biz=Mzg5NDczNDc4NA==&mid=2247491575&idx=1&sn=dd37eded25a469b7944d5f379efcc417&chksm=c01a4758f76dce4ee1ff9965e0f443f5823e1d72add4d8ced85e589e2f3570fcec2aa4afb72d&scene=27#wechat_redirect)
 
 浙江大学网络空间安全学院/浙江大学网络空间安全研究中心
 
@@ -40,9 +53,9 @@
 
 ### [NISL实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxMTEwOTA3OA==)
 
-[:chart_with_upwards_trend:【4/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxMTEwOTA3OA==)
+[:chart_with_upwards_trend:【5/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxMTEwOTA3OA==)
 
-[:camera_flash:【2023-02-17 17:00:35】](https://mp.weixin.qq.com/s?__biz=MzUxMTEwOTA3OA==&mid=2247484972&idx=1&sn=4e2b37d0abd48d594123b4b5d72143c2&chksm=f979f495ce0e7d8336183b5653d1ce5d2f221dc25e602a549c9b8aa70bec4550e42fe2b7b86c&scene=27&key=eebd93953d754663fcc961ea0a16e1cb5ef14c84713e98c69c50a34a98083a88dd33b304b53eb19e8c59f214ea42841bd9c432753d726dac7215f9c3ed6f831a1c06098ecf743242343bdcebc9ceeed3dfcf4e690c42d6e7ac3d72fc1cfb45e91e3df002c48e2c1c325292a1256fa40d96a54efcfe4d49c874a2c6820481882c&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+10+x64&version=6308011a&lang=zh_CN&session_us=gh_49a54ff12ce6&countrycode=AL&exportkey=n_ChQIAhIQfKV6gdwL3WUob%2BESD2z%2FrBLuAQIE97dBBAEAAAAAAPC7EQrkHmEAAAAOpnltbLcz9gKNyK89dVj0sYwdBk2aRIhkw8nPWiXGL4v7J8qRZgN0ITIFZt1WGZeP4z26Vt1prUt7qBDy1ZTU%2BN%2F9GVhRoZuZrKyUZIUdnB2ofavwXPztK%2Bx%2BhlTT5X4siBb%2FWB8qOiKVuiEplUrig7UfFFL4aewksf2FES00Vm%2FzImshvJkYRmVV3WGz5YqG2DiD2ckuzHiFDwgBhdZMHAcVXY7Vc0qkzKv7IzSoZUGZseZbv4ydFVn4EEKASBLX5rp6A8k4a3PKZH01SduSSXwIk50kWvI%3D&acctmode=0&pass_ticket=R4SbnhnYi&scene=27#wechat_redirect)
+[:camera_flash:【2023-02-23 17:25:02】](https://mp.weixin.qq.com/s?__biz=MzUxMTEwOTA3OA==&mid=2247484994&idx=1&sn=825726d9fbd2ef67a1035581764a504a&chksm=f979f4fbce0e7ded6a3602cf4ea7e0d5bc8041ca92014e485eb4d1de40f34d7b098aae4f25c8&scene=27&key=b04207329504921710153d207dbba6e0d9a0b1805b6f36849acdb8685644939475db81a6a5028910ce58dfe739769e8284bfd37eb17a525f706e5f091f56651e90abfd87cb7f011771a407fbd6d0ea0c2d954d592cc17e640b92d138ad8aeeaf02dbcce9b94b041e13ba396c043b503e81dba4b0321163bcf316fd26ea021492&ascene=15&uin=MzgxODQ4MjMz&devicetype=Windows+10+x64&version=6308011a&lang=zh_CN&session_us=gh_ff13bad322ea&countrycode=GY&exportkey=n_ChQIAhIQqH2HUN%2BowqOfskWp1CVaDRLvAQIE97dBBAEAAAAAAKmGGLMLHbgAAAAOpnltbLcz9gKNyK89dVj0wwJUpQu5K%2ByIMT1h7eKx32hwUnpppVeDsNIvDZo3F1VtbaqIvfd3hF0V%2FTgQaEiooD69sE0qknxAH%2FFLpynCrhnYbNTi%2B77xxq6udBo4x84xZ2%2B5n7P2cLZLzZ98fxkD8K6%2FE%2BIq22yXCM98ju%2BmZ1BLLqNTa7%2Fp0hIEICKm2HMiLNXjchxqJ%2FMKlPh33QqmwRMCE32rBdTnPlW0fGOPQJ%2FpiQDJ8%2F5wZ%2B1s37mSusVEE7%2BWdOu6y9nhLmW%2FCJwOuMGFH0HCYco1&acctmode=0&pass_tick&scene=27#wechat_redirect)
 
 网络与信息安全实验室(NISL@THU)，专注于网络、系统、应用、人工智能安全教学与研究，在国际四大安全会议发表三十余篇论文，成果在业界产生了广泛影响力。孕育了蓝莲花、紫荆花等知名战队，发起了网安国际学术论坛InForSec。
 
@@ -51,15 +64,41 @@
 ---
 
 
-### [合天网络安全](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyNzU3Mzg2NQ==)
+### [山警网络空间安全实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Njc1OTYyNA==)
 
-[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyNzU3Mzg2NQ==)
+[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Njc1OTYyNA==)
 
-[:camera_flash:【2023-02-14 17:37:36】](https://mp.weixin.qq.com/s?__biz=MzIyNzU3Mzg2NQ==&mid=2247486292&idx=1&sn=ec481f2df05428b0605938dea1923c74&chksm=e85e6252df29eb44bbf17811849692ec2f90848c6904b19ee74a48a5ea22ed5c8dd62b43345e&scene=27&key=6fb5539ecd6346b5d47a4865051caa3c975f8d3a00b5e70da7d920fa8dca45075473666f5584a56f618b151628232ae32fce5e8ed85cf402e44ae15e40e7926cbb064b8ee62a1c2631750c3c7c8ec96fc5cc84a3527076bd0b90e3f13ceedf0d2530e7a09365ec7e1fcf4d79d4b3b771ef3ce67faa2588c375f916a1925173fb&ascene=15&uin=MjM2NjMzNTUwNA%3D%3D&devicetype=Windows+10+x64&version=6308011a&lang=zh_CN&session_us=gh_f2303a075517&countrycode=BJ&exportkey=n_ChQIAhIQTVckZ1UwcRQm3RoIsZSEKBLvAQIE97dBBAEAAAAAANbwEU0mIQ0AAAAOpnltbLcz9gKNyK89dVj0ho5Z4sbdL38QkqRSyh1RYD6IrJOWk4USp10oaSJlS9%2Bym0nmSoVOPhdAR2ApXPZKOQa10EJXwROwZZ%2Bga1JXVXNoXLVvkrJie2Lnm6tdsVAZ1oBx5bG5lyLjPYW3mX0vFyhq%2FdDka3XGkKT9Xf4sorEZV03NXmctXBliiYtwEz547gGxjW8RGOLpDXRqWP%2FzInzSDgFg%2Bv%2F%2FPcKvwL%2B7Al%2B5Nnxd%2FgAnmHZn9WD2ONYtCpS5ghYZr7yD8Itp9XQzxTmIlA8do8ij&acctmode=0&pass_ticket=3&scene=27#wechat_redirect)
+[:camera_flash:【2023-02-21 16:11:21】](https://mp.weixin.qq.com/s?__biz=MjM5Njc1OTYyNA==&mid=2450785101&idx=1&sn=afa45d09fe88852ddcffa50491fedfdd&chksm=b104f26a86737b7ce595fd863b74646127c32cf3bf4e44fd45dcc4cd14e35e6291065ebff121&scene=27#wechat_redirect)
 
-网安学院拥有专业教学服务、就业指导，课程配套靶场实战平台（www.hetianlab.com），学员学完就练，切实提升实践动手能力；课程涵盖Web安全、软件安全、网络安全等网安各个相关方面。
+山警网络空间安全实验室（简称：网安社）
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a6ba8f92d07d" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_544c8c38eeaf" alt="" />
+
+---
+
+
+### [蚁景网安](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MTU2ODYwNw==)
+
+[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MTU2ODYwNw==)
+
+[:camera_flash:【2023-02-21 17:30:22】](https://mp.weixin.qq.com/s?__biz=Mzg5MTU2ODYwNw==&mid=2247486223&idx=1&sn=0b5f6388c8b1005e414f2635169ccb8e&chksm=cfca23bff8bdaaa9af8eca657c34301af08721869f844479a17afb75cb24566c084f2569824c&scene=27&key=c608e365f51b504a857588bf4d8813bb6fb77384030df310abc1576f559667aac3a7a316d633518669407aa64b81379f54c5363fb117833f248a827f08ad82d6905f9f3fe494facbb1e8848a55dd1769c16921e2dfbf569f85093a7a80ee68cb829cc29cf1d126d92c03f4b47d5cb688fd58e0cecaae319d110d409488652a75&ascene=15&uin=MTA3Mzc3OTIzNQ%3D%3D&devicetype=Windows+10+x64&version=6308011a&lang=zh_CN&session_us=gh_9592a645a5e2&exportkey=n_ChQIAhIQ%2Bpqp8v%2Bp8m71s9RF01i8DBLhAQIE97dBBAEAAAAAAKPtID3AcloAAAAOpnltbLcz9gKNyK89dVj0WnG44haSxhhUiL1b34878F5HN%2B6TXfSEuQsRSaOPaoSVfjzl2IjEdjzm2vVhZgQBqYzUccWZ%2FMQ33HyuIM0szpK%2Bag3pnwRwQ35Pg%2FrNj1HRHbBUpqQ59PMz7ZZ1Bb66Axga5zH3IlvL16HCHXLNOGzveNMmI%2FjRP9TrIMSNTpl1T%2FRbHqUnoGKTIZqqu3%2BQdMtc%2BoA82LZpx3Kb1bKhGyGlQ1drB2EmUbX%2B0o6ZOWyQb59WXD6Gm1ABLw%3D%3D&acctmode=0&pass_ticket=xxdLNtg5ilEu8JHKaAbDag6JWa&scene=27#wechat_redirect)
+
+分享网安干货技能，致力于实战网安技能人才培养
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_861ca8c2271b" alt="" />
+
+---
+
+
+### [谛听ditecting](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzQyOTU0Nw==)
+
+[:chart_with_upwards_trend:【1/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzQyOTU0Nw==)
+
+[:camera_flash:【2023-02-24 08:00:29】](https://mp.weixin.qq.com/s?__biz=MzU3MzQyOTU0Nw==&mid=2247488780&idx=1&sn=765e1a2907d7a0e2b9350ef8d17650de&chksm=fcc09748cbb71e5e98f88798aa1fa6bf6e95b56bd500f18637807f11cb41788a6e346f9d8371&scene=27#wechat_redirect)
+
+东北大学“谛听”网络安全团队
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ce3e0df31e50" alt="" />
 
 ---
 
@@ -77,54 +116,28 @@
 ---
 
 
-### [网安培训学院](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDYzMjAyNA==)
+### [蝰蛇信息安全实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NzgyNjUwNA==)
 
-[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDYzMjAyNA==)
+[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NzgyNjUwNA==)
 
-[:camera_flash:【2023-01-30 15:16:21】](https://mp.weixin.qq.com/s?__biz=Mzg3MDYzMjAyNA==&mid=2247484181&idx=1&sn=49a2ad653ea2be5148da2f5c603b790f&chksm=ce8b9c22f9fc1534a3a3f89ed3828f2d9e04269b329cf7dd75c4fd1c204eda3bc71512b122ab&scene=27&key=c31f59d5cc9183c5d9f8482f82dc50d80bc911cd0b773022dbe05951a1112d36d0e97fdadc536e19f6bc28955edce698104af064cfb96ff56cda66d8d2de5fb4ceac660707816412a97f39a15e37b8c9e95d38a3250592c09b04e6778f3770a1d02e90dbdbd790454bca078b7c73c047c562c6aaa4c32d296714edb70e14aa0f&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+10+x64&version=6308011a&lang=zh_CN&session_us=gh_9774ce64d500&exportkey=n_ChQIAhIQz18cc6luucanl%2BcRl2uRuBLuAQIE97dBBAEAAAAAAHGNCmVLmmMAAAAOpnltbLcz9gKNyK89dVj0NtU4yeJUqS1%2FrTpalrHB2m7jcajo016QM81ta%2FUvgXFSizIwsh4qm%2F1AMht6focnaHN8PzbmVUQTwagzAZG0L5h2K5i3RYKetRG5AFQz1hEee2DpfkyWddrOjogsUgRN1axIxjMVXwc5zh5gjgMJO1dvkx3tUIR2Q2aMaSpPZCHLhpv8CryLK2kMzpbSdnyNBBZX38mxAX%2FImjuc6JQdzYbaW6SC5cMCqVssBMgbS0YcZLukix2fy5rxN7GtKqwbUVlDK5qj4VY%3D&acctmode=0&pass_ticket=UNyyiJPVJURj7dlUaqmQbcnUdFX3iI&scene=27#wechat_redirect)
+[:camera_flash:【2023-02-28 22:24:38】](https://mp.weixin.qq.com/s?__biz=MzA3NzgyNjUwNA==&mid=2247489592&idx=1&sn=23dddc11192795c491b9e8a231292cc0&chksm=9f4d489fa83ac1897b0feabf59fa22d58482b152f1de3a2b62b90788585773464fbc4732398a&scene=27#wechat_redirect)
 
-深圳市网安计算机网络安全培训中心是深圳市计算机网络公共安全协会设立的下属培训机构。培训内容包括：CISP-PTE/PTS系列课程、CISP-IRE/IRS系列课程；网络攻防技术系列课程；网络安全等级保护及风险评估系列课程等网络安全相关课程。
+湖南农业大学蝰蛇安全实验室
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_94f04a96b1ca" alt="" />
-
----
-
-
-### [蚁景网安](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MTU2ODYwNw==)
-
-[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MTU2ODYwNw==)
-
-[:camera_flash:【2023-02-14 17:37:17】](https://mp.weixin.qq.com/s?__biz=Mzg5MTU2ODYwNw==&mid=2247486204&idx=1&sn=f90f3c8a856d06b7d84e4d132cb6a17c&chksm=cfca224cf8bdab5a7bd8d0b76e53f684753f298775504134458c612e083ed729930cd6691462&scene=27&key=ee3f87ad251c8b608d91c118275d080d559593e1beceaface0429a6ab1d6fbe733add9753c11708235fbbe1038e5982643837868df457cbbad8ad6f69ab075454b89821a552127e758822a3c596ce723542327582c227237cd586a74a712c47e0cf5ac65298a2482536bbe95433e1337932a173cca7b9b7b3bc6a6273d01f683&ascene=15&uin=MTA3Mzc3OTIzNQ%3D%3D&devicetype=Windows+10+x64&version=6308011a&lang=zh_CN&session_us=gh_ff923aef69f4&exportkey=n_ChQIAhIQX7P%2FD4MUARpm2wEVIfCO9hLvAQIE97dBBAEAAAAAAG4rCIRpzrsAAAAOpnltbLcz9gKNyK89dVj03158fvOZ4G0cktgl9Ntt2osMbFrYFokddkLliiXyKEFJJiEIepJ0bndYJzjmzZ1xIqKkTMbp9h4Be7wNMr%2Fzf4t8w49H5BB%2FsDmKb6D7KBeTURmFiU6xKeXtqkV79PoqZEDAe0SvRQMy7mst5h%2BI1omeIzJXVxt%2Fbri8eCjHKIKLK9TMiBR248izynCW24eETvDHv3wNV0ID7CllQMizS1raYO3isrf7IRe3mdBdcLPRaobZzfyH1LbH77hsxoDoDXmaKh%2B%2F8eLJ&acctmode=0&pass_ticket=GFXV5%2BixvUZZ0wR%2BCl&scene=27#wechat_redirect)
-
-分享网安干货技能，致力于实战网安技能人才培养
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_861ca8c2271b" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_638eab2e92c7" alt="" />
 
 ---
 
 
-### [谛听ditecting](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzQyOTU0Nw==)
+### [渭南师院网络信息安全社](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0MjI1NzY1NQ==)
 
-[:chart_with_upwards_trend:【1/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzQyOTU0Nw==)
+[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0MjI1NzY1NQ==)
 
-[:camera_flash:【2023-02-08 08:00:25】](https://mp.weixin.qq.com/s?__biz=MzU3MzQyOTU0Nw==&mid=2247488705&idx=1&sn=c90a3ffd9ca5481cee7f7341d83c5149&chksm=fcc09685cbb71f9375a9ae77eff4d535db7a170c2d19ea5210e40d31d06966684d7c4bd21064&scene=27#wechat_redirect)
+[:camera_flash:【2023-02-25 18:00:05】](https://mp.weixin.qq.com/s?__biz=Mzk0MjI1NzY1NQ==&mid=2247486121&idx=1&sn=47640ed3e0b4f86ab9a6b897b271aa90&chksm=c2c4ae31f5b32727f5ae1ebae089f978cda043fb26f097bd185610198827d7c7299c28e3976d&scene=27#wechat_redirect)
 
-东北大学“谛听”网络安全团队
+渭南师范学院网络信息安全协会官方账号，为您提供网络安全相关资讯与技术分享。
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ce3e0df31e50" alt="" />
-
----
-
-
-### [山警网络空间安全实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Njc1OTYyNA==)
-
-[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Njc1OTYyNA==)
-
-[:camera_flash:【2023-02-19 21:11:19】](https://mp.weixin.qq.com/s?__biz=MjM5Njc1OTYyNA==&mid=2450785041&idx=1&sn=adc2a69244b6f3eea56f81568feb27d0&chksm=b104f23686737b20e1c39104fb4489b0308af887d820bde79a52e700197fad5e8abb6783db41&scene=27#wechat_redirect)
-
-山警网络空间安全实验室（简称：网安社）
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_544c8c38eeaf" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f4e0f7548c2f" alt="" />
 
 ---
 
@@ -138,19 +151,6 @@
 本社团致力于向大家分享交流网络安全实践技术，主要以CTF竞赛、红蓝对抗、渗透测试、知识讲座等形式分享网络安全知识，培养网安人才，积极响应国家建设网络强国的号召，共筑网络安全防线。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ac1289a6ef60" alt="" />
-
----
-
-
-### [珠天PearlSky](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyODMyODMyOA==)
-
-[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyODMyODMyOA==)
-
-[:camera_flash:【2023-01-28 01:15:03】](https://mp.weixin.qq.com/s?__biz=MzkyODMyODMyOA==&mid=2247486006&idx=1&sn=670aa827a414aacdcfc6c419cda2095c&chksm=c21b35d1f56cbcc7a4d8e3838c3128d7947e2900e38433ca69b645c9ed3044b66d9d9179daac&scene=27#wechat_redirect)
-
-珠天PearlSky，意为珠科安全的一片天。珠天的队员都来自于珠海科技学院热爱钻研网络安全技术的同学。我们希望我们能够让更多人了解网络安全，更欢迎各位同学加入我们一起交流学习。本公众号会发布一些学习心得，经验总结等等一系列文章。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a4b0a923e487" alt="" />
 
 ---
 
@@ -181,6 +181,19 @@
 ---
 
 
+### [网安培训学院](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDYzMjAyNA==)
+
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDYzMjAyNA==)
+
+[:camera_flash:【2023-02-28 11:48:37】](https://mp.weixin.qq.com/s?__biz=Mzg3MDYzMjAyNA==&mid=2247484221&idx=1&sn=c5fed5b3f4c277c2982293649aa0194c&chksm=ce8b9c0af9fc151c7fa42c2f8f6d600b2db9adc6b5f9b2e5c6af6ceabd813a0bad4725e994fb&scene=27#wechat_redirect)
+
+深圳市网安计算机网络安全培训中心是深圳市计算机网络公共安全协会设立的下属培训机构。培训内容包括：CISP-PTE/PTS系列课程、CISP-IRE/IRS系列课程；网络攻防技术系列课程；网络安全等级保护及风险评估系列课程等网络安全相关课程。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_94f04a96b1ca" alt="" />
+
+---
+
+
 ### [绿盟科技网络安全学院](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzMjA4ODM0NA==)
 
 [:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzMjA4ODM0NA==)
@@ -198,7 +211,7 @@
 
 [:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MDU5NTA1MQ==)
 
-[:camera_flash:【2023-02-13 18:30:35】](https://mp.weixin.qq.com/s?__biz=MzU3MDU5NTA1MQ==&mid=2247493890&idx=1&sn=b29bd8a45a38a936d8725b68c42d4117&chksm=fcefaa86cb982390197d214e4a4f509aee3ed69191383bd6495f45ab4d20896cf96417d320f5&scene=27#wechat_redirect)
+[:camera_flash:【2023-02-24 17:17:41】](https://mp.weixin.qq.com/s?__biz=MzU3MDU5NTA1MQ==&mid=2247493950&idx=1&sn=0228ce781b2a26a53933b5efe48e0dd3&chksm=fcefaabacb9823acd1c8a57bd19c4536b8b989317c069b58c69ffa63ef925186ef8521b7b150&scene=27#wechat_redirect)
 
 欢迎加入齐鲁师范学院网络安全社团
 
@@ -224,7 +237,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5MjUwOTY4Ng==)
 
-[:camera_flash:【2022-09-22 12:14:51】](https://mp.weixin.qq.com/s?__biz=MzA5MjUwOTY4Ng==&mid=2651804756&idx=1&sn=1f895c91a124f0538ecf12f2fd63ece5&chksm=8b97f0cdbce079db9db7c3fff57328fc0ef29a2588bf597863c1050525b7d77d6f113d727faa&scene=27#wechat_redirect)
+[:camera_flash:【2023-02-26 18:39:17】](https://mp.weixin.qq.com/s?__biz=MzA5MjUwOTY4Ng==&mid=2651804798&idx=1&sn=99a4f4a539ce91d385f8bd97403b4c57&chksm=8b97f0e7bce079f13b86bb5a1c111a5ce6df253b839db01e418320f0d2b34fd174152596eab2&scene=27#wechat_redirect)
 
 清华大学学生网络安全技术协会信息推送和资源平台
 
@@ -242,19 +255,6 @@
 广东外语外贸大学网络安全实验室信息推送和资源平台
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8176da819e03" alt="" />
-
----
-
-
-### [蝰蛇信息安全实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NzgyNjUwNA==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NzgyNjUwNA==)
-
-[:camera_flash:【2022-12-06 20:47:22】](https://mp.weixin.qq.com/s?__biz=MzA3NzgyNjUwNA==&mid=2247489540&idx=1&sn=bc1c687aace6b34f7adf5a22a07f8bab&chksm=9f4d48a3a83ac1b5dee13e73912f6c5b6526bffa2e8ab84c5c6137dcda32559632780eb0b2a3&scene=27#wechat_redirect)
-
-湖南农业大学蝰蛇安全实验室
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_638eab2e92c7" alt="" />
 
 ---
 
@@ -398,19 +398,6 @@
 广东工业大学A&amp;D（攻击与防御）工作室
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_c375cb5a0589" alt="" />
-
----
-
-
-### [渭南师院网络信息安全社](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0MjI1NzY1NQ==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0MjI1NzY1NQ==)
-
-[:camera_flash:【2023-01-15 18:00:13】](https://mp.weixin.qq.com/s?__biz=Mzk0MjI1NzY1NQ==&mid=2247486056&idx=1&sn=98f070df53632c1d5ce6ca68c29b7ad8&chksm=c2c4aef0f5b327e69c961491120a97415e7dc9ea6bcae5bc292e7de834694e8dc462970c9bff&scene=27&key=8fff2c73291e81bbd46ab2f06e9e4a93aa38942fe534b51c81ca3cbd0c5b36412ddfe492a7cfef0003e8592535a3e29220d1376f614872973e5ddff04dc163cae5a7538d677c8833893c74d4afe41a9a06ad38ada842d4e61f829a6803e12ee15876b1d9e2aba9fc9d52092c777be6c1664716582468623d856ab1c8977ab037&ascene=15&uin=MTA3Mzc3OTIzNQ%3D%3D&devicetype=Windows+10+x64&version=6308011a&lang=zh_CN&session_us=gh_9f2ff8fee85c&exportkey=n_ChQIAhIQliTowR9jjDX%2BeL2hHXZAUBLsAQIE97dBBAEAAAAAAIhwCAgVqvcAAAAOpnltbLcz9gKNyK89dVj0miq8QsU7jh3MIi3yuk3gHs0VxhBALJ4Ym8qnv2tB%2BFbRXalbRR3Oca0dNpc5QxN2AEOr%2FgGpLlO%2B7uO4iuZLUIvPyyn%2B%2FCzNvBYvxuQ11GR0KLtBXC6M35FFVBiKkYf56FukxC0TVA%2BAYWhU8iW0ixxhq%2B2PjLiej9kAqyw3loyBi7WZZlX3dn52IukoUyO%2FxTchM%2BDMghqhOq7l8RP1cvwb7CHaj9g70C2Cc1cuZTdf%2Byt5tA%2Fp7gfJHZrHf8q75J0Z93X8&acctmode=0&pass_ticket=Gj6z%2BJIHsLFEyj&scene=27#wechat_redirect)
-
-渭南师范学院网络信息安全协会官方账号，为您提供网络安全相关资讯与技术分享。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f4e0f7548c2f" alt="" />
 
 ---
 
@@ -658,6 +645,19 @@ Covteam工作室，成立于2005年。是以西华大学在校本科生研究生
 Birkenwald安全团队 --来自哈尔滨理工大学
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_78acfb2bfff7" alt="" />
+
+---
+
+
+### [珠天PearlSky](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyODMyODMyOA==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyODMyODMyOA==)
+
+[:camera_flash:【2023-01-28 01:15:03】](https://mp.weixin.qq.com/s?__biz=MzkyODMyODMyOA==&mid=2247486006&idx=1&sn=670aa827a414aacdcfc6c419cda2095c&chksm=c21b35d1f56cbcc7a4d8e3838c3128d7947e2900e38433ca69b645c9ed3044b66d9d9179daac&scene=27#wechat_redirect)
+
+珠天PearlSky，意为珠科安全的一片天。珠天的队员都来自于珠海科技学院热爱钻研网络安全技术的同学。我们希望我们能够让更多人了解网络安全，更欢迎各位同学加入我们一起交流学习。本公众号会发布一些学习心得，经验总结等等一系列文章。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a4b0a923e487" alt="" />
 
 ---
 
