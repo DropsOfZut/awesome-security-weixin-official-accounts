@@ -1,7 +1,7 @@
 
 ### [数据安全与隐私计算](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNzM0NzA3Ng==)
 
-[:chart_with_upwards_trend:【0/35/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNzM0NzA3Ng==)
+[:chart_with_upwards_trend:【0/33/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNzM0NzA3Ng==)
 
 [:camera_flash:【2023-03-03 18:29:01】](https://mp.weixin.qq.com/s?__biz=MzkyNzM0NzA3Ng==&mid=2247500712&idx=1&sn=bbfbce41607de1fa14aac0d6e1ee12d3&chksm=c22bfb43f55c725514dd3dcc6d9ee268c4f7bd64551fe5f5e483018e07fa925e7c4f510fbedf&scene=27#wechat_redirect)
 
@@ -14,7 +14,7 @@
 
 ### [谈数据](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1NzYwNTMzNw==)
 
-[:chart_with_upwards_trend:【3/31/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1NzYwNTMzNw==)
+[:chart_with_upwards_trend:【3/30/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1NzYwNTMzNw==)
 
 [:camera_flash:【2023-03-04 07:38:44】](https://mp.weixin.qq.com/s?__biz=MzI1NzYwNTMzNw==&mid=2247511057&idx=1&sn=cdf6d22994f36c431e27c5c8b1151128&chksm=ea1607a7dd618eb1fa27eb63742fb80a5ce50c8d7c77afeabd254679be34ca61044ce49bacfe&scene=27#wechat_redirect)
 
@@ -27,26 +27,13 @@
 
 ### [网络安全与数据治理](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzODk1NzY5NA==)
 
-[:chart_with_upwards_trend:【1/18/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzODk1NzY5NA==)
+[:chart_with_upwards_trend:【1/15/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzODk1NzY5NA==)
 
 [:camera_flash:【2023-03-03 17:17:13】](https://mp.weixin.qq.com/s?__biz=MzIzODk1NzY5NA==&mid=2247494047&idx=1&sn=e8f250014533be3af1aa5312964f0159&chksm=e933cc8ede44459837ad6533bd112e9db619845227102f56f1440ea9fc3ff5987686cef034d4&scene=27#wechat_redirect)
 
 www.pcachina.com
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ddbdee0c5caf" alt="" />
-
----
-
-
-### [商业智能研究](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzg5MTI0OQ==)
-
-[:chart_with_upwards_trend:【5/15/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzg5MTI0OQ==)
-
-[:camera_flash:【2023-03-03 21:00:24】](https://mp.weixin.qq.com/s?__biz=MzIwMzg5MTI0OQ==&mid=2247518277&idx=1&sn=0fab55be8e76c950b9307cd3a10969d0&chksm=96cabf1ba1bd360d1cc0ad88e81b5978f2f890983ebc981a8f94ed088d9cc7330bf81451e9e5&scene=27#wechat_redirect)
-
-专注于企业数据化应用、大数据BI技术和理论观点的研究，致力于让数据成为企业真正的生产力！帆软数据应用研究院旗下账号。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_7c85d5aeb85d" alt="" />
 
 ---
 
@@ -64,9 +51,22 @@ www.pcachina.com
 ---
 
 
+### [商业智能研究](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzg5MTI0OQ==)
+
+[:chart_with_upwards_trend:【5/14/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzg5MTI0OQ==)
+
+[:camera_flash:【2023-03-03 21:00:24】](https://mp.weixin.qq.com/s?__biz=MzIwMzg5MTI0OQ==&mid=2247518277&idx=1&sn=0fab55be8e76c950b9307cd3a10969d0&chksm=96cabf1ba1bd360d1cc0ad88e81b5978f2f890983ebc981a8f94ed088d9cc7330bf81451e9e5&scene=27#wechat_redirect)
+
+专注于企业数据化应用、大数据BI技术和理论观点的研究，致力于让数据成为企业真正的生产力！帆软数据应用研究院旗下账号。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_7c85d5aeb85d" alt="" />
+
+---
+
+
 ### [数据安全推进计划](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NjY3MDE3MA==)
 
-[:chart_with_upwards_trend:【10/13/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NjY3MDE3MA==)
+[:chart_with_upwards_trend:【9/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NjY3MDE3MA==)
 
 [:camera_flash:【2023-03-03 11:18:26】](https://mp.weixin.qq.com/s?__biz=Mzg3NjY3MDE3MA==&mid=2247487984&idx=1&sn=1ae0742b267819bdc81be9dd7964100f&chksm=cf2fec45f8586553ee609de03ed0c883897f7345d31581e7688b9dea4e28d0221b5d32388bda&scene=27#wechat_redirect)
 
@@ -79,7 +79,7 @@ www.pcachina.com
 
 ### [杭州数据安全联盟](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyMjI2MDE2Mg==)
 
-[:chart_with_upwards_trend:【0/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyMjI2MDE2Mg==)
+[:chart_with_upwards_trend:【0/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyMjI2MDE2Mg==)
 
 [:camera_flash:【2023-03-03 17:30:57】](https://mp.weixin.qq.com/s?__biz=MzkyMjI2MDE2Mg==&mid=2247494937&idx=1&sn=402867aff56b35552295e3e43a6cd1c4&chksm=c1f5aab4f68223a229aa4c510117f2e4d052d93399182e3a431fc55adb027f7324c04af9a2bc&scene=27#wechat_redirect)
 
@@ -142,19 +142,6 @@ www.pcachina.com
 ---
 
 
-### [天锐数据安全](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5MTk0MzIzMQ==)
-
-[:chart_with_upwards_trend:【1/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5MTk0MzIzMQ==)
-
-[:camera_flash:【2023-02-28 17:37:45】](https://mp.weixin.qq.com/s?__biz=MjM5MTk0MzIzMQ==&mid=2652015748&idx=1&sn=34caf45d64f3abacc82609fc218530f9&chksm=bd4bf3d48a3c7ac239d8f2a9c3405a4df5795925c6864f11b43e9300e0d93f6875f79222842b&scene=27#wechat_redirect)
-
-可信赖的数据安全产品与服务提供商
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a112d631fa8f" alt="" />
-
----
-
-
 ### [大数据安全工程研究中心](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Nzg0NzUxOQ==)
 
 [:chart_with_upwards_trend:【0/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Nzg0NzUxOQ==)
@@ -181,9 +168,22 @@ www.pcachina.com
 ---
 
 
+### [天锐数据安全](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5MTk0MzIzMQ==)
+
+[:chart_with_upwards_trend:【1/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5MTk0MzIzMQ==)
+
+[:camera_flash:【2023-02-28 17:37:45】](https://mp.weixin.qq.com/s?__biz=MjM5MTk0MzIzMQ==&mid=2652015748&idx=1&sn=34caf45d64f3abacc82609fc218530f9&chksm=bd4bf3d48a3c7ac239d8f2a9c3405a4df5795925c6864f11b43e9300e0d93f6875f79222842b&scene=27#wechat_redirect)
+
+可信赖的数据安全产品与服务提供商
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a112d631fa8f" alt="" />
+
+---
+
+
 ### [中伦文德网络安全与数据合规](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxNDgyNTg0NQ==)
 
-[:chart_with_upwards_trend:【1/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxNDgyNTg0NQ==)
+[:chart_with_upwards_trend:【1/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxNDgyNTg0NQ==)
 
 [:camera_flash:【2023-02-28 21:16:31】](https://mp.weixin.qq.com/s?__biz=MzIxNDgyNTg0NQ==&mid=2247490317&idx=1&sn=f788d2577319a9a4accf83905d024554&chksm=97a0f517a0d77c0170471dd4ecc0f166841d5b9ab6c94bf70f03577734d1819045b9a7f871f6&scene=27#wechat_redirect)
 
