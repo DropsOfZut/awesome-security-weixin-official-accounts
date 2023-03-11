@@ -1,9 +1,9 @@
 
 ### [商密君](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
 
-[:chart_with_upwards_trend:【0/79/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
+[:chart_with_upwards_trend:【0/75/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
 
-[:camera_flash:【2023-03-09 15:42:57】](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247594453&idx=1&sn=24ce6b687429ee65673bec5758fe4f6f&chksm=ec57618edb20e898fe7ce96643bd84a08852c5ace27df5c6119d653fa40ed09d29937db892e5&scene=90&sessionid=1678347858&subscene=236&key=883cab9aa4cc6bab11801b3d9f5feaf88c5e097c65b73a412c98fbc28acc3ea065b02e3bbe76784452b6d3c23e746be95f532a2d24048eda6612a2242d540d5a325e2b57620e2ab418a2129a2e9775ec45a5096078cb32cd3c49eac52c7fe3049518ffe4f11b59fd292f1c157f5f8ef3ba6d159edc2d4e369a852b1320d760c5&ascene=7&uin=MjM2NjMzNTUwNA%3D%3D&devicetype=Windows+10+x64&version=6309001c&lang=zh_CN&countrycode=BJ&exportkey=n_ChQIAhIQy6vN%2BZcAsFFnBVdBINtsmBLgAQIE97dBBAEAAAAAAMeUBMxsAnIAAAAOpnltbLcz9gKNyK89dVj0VRFH5g7kHnIQ0bPTa%2B1ikwOQRW9K9HpmOVhkojrpvYbymhA5d0Cq2z5%2Bl8oEYz9k%2BnIng%2BwexfU3IafrftMtaoaht8nVhuQ4vZh68nyruPUTim2n10ESJ8ysEBrgHv%2B2xZIpNZEEDkFlmW%2BmhVW5HDKPeY%2FWx7LNlQv68sXsP6MD45M5vylylCv9f8kE8PcqPTZdo7g%2FtBP7m8Py%2FGKfisIv2ngqenXlmj9cskZBnQg9C3aWZ17EwlLS&acctmode=0&pass_ticket=bT5B0Iqdbuqo6UM&scene=27#wechat_redirect)
+[:camera_flash:【2023-03-10 14:45:24】](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247594515&idx=2&sn=fccf345110a26131cf385f8cb6e543b9&chksm=ec576248db20eb5e85f23f93dda9106bf4353f38e36d889ff65e8ad6e894755ed3545db4ba33&scene=27#wechat_redirect)
 
 商密君是全国密码行业头部公众号，旨在宣传推广《密码法》，普及商用密码知识，解读密码政策，分享商用密码行业的最新动态，为密码产业产学研用做好宣传服务，连接密码全行业精英，推动密码技术在数字经济各行业的应用和创新。
 
@@ -14,9 +14,9 @@
 
 ### [数世咨询](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
 
-[:chart_with_upwards_trend:【3/25/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
+[:chart_with_upwards_trend:【3/24/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
 
-[:camera_flash:【2023-03-09 23:30:56】](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247497459&idx=1&sn=00b4df01f67f44fb823f7f7af6a93961&chksm=c144844ef6330d587a63d1a99b147b3f2acd244272ec3426ecd754b2d0cc82741433807a5acd&scene=27#wechat_redirect)
+[:camera_flash:【2023-03-10 23:30:53】](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247497467&idx=1&sn=9221b1489407237667cd72984c1e0b11&chksm=c1448446f6330d50767baac12edd30d17116937fe8cee659ae5faaf81dc02879435f6887717c&scene=27#wechat_redirect)
 
 中国数字产业领域中立的第三方调研机构，提供网络安全行业的调查、研究与咨询服务。
 
@@ -29,7 +29,7 @@
 
 [:chart_with_upwards_trend:【1/16/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
 
-[:camera_flash:【2023-02-28 17:08:50】](https://mp.weixin.qq.com/s?__biz=MzU0Mzk0NDQyOA==&mid=2247505972&idx=1&sn=d26789d9db64aa70d200b66f5600d09f&chksm=fb0123b7cc76aaa14b3c648f64b63b995a2145167a60f25b99337ef6310a618d1c6d8bb4495d&scene=27#wechat_redirect)
+[:camera_flash:【2023-03-10 16:53:06】](https://mp.weixin.qq.com/s?__biz=MzU0Mzk0NDQyOA==&mid=2247506135&idx=1&sn=015334fb646404878d7305f7cbeb5919&chksm=fb012354cc76aa420f9199241614500b0a54c10eb37ee4ce4615abcbee9cd20c15a34e168f6a&scene=27#wechat_redirect)
 
 深圳市网络与信息安全行业协会（SNISA），是深圳市网络与信息安全行业的权威组织，是中国网络安全审查技术与认证中心（CCRC）在深圳唯一授权工作站，是经深圳市人力资源和社会保障局核准，开展网络空间安全工程技术专业职称评审工作的社会组织。
 
@@ -47,19 +47,6 @@
 网络安全事件预警体系、事件检测、应急处置、追踪溯源、安全运营、红蓝对抗、HW行动、AWD竞赛，以及站在审计师的角度评估信息系统建设的有效性、完备性、安全性等。 欢迎有想法、乐于分享的具备互联网分享精神的安全人交流学习。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_9774ce64d500" alt="" />
-
----
-
-
-### [君哥的体历](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MjQ1NTA4MA==)
-
-[:chart_with_upwards_trend:【3/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MjQ1NTA4MA==)
-
-[:camera_flash:【2023-02-22 11:40:12】](https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247489404&idx=1&sn=4adc4c6766f876a2a1fc0ec415581bf0&chksm=ea4bbd3bdd3c342dcbf1d033498926e308d4337b4f8dfdcd4e43530c61f3d7d723c8ef3c0b23&scene=27#wechat_redirect)
-
-闲暇时间，逼迫自己，记录分享体验与经历，不求正确统一，但求真、善、美。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_aa4d8db71365" alt="" />
 
 ---
 
@@ -86,6 +73,19 @@
 该账号由绿盟科技金融事业部维护，用于发布金融行业相关安全资讯等内容
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_de59bd871eb8" alt="" />
+
+---
+
+
+### [君哥的体历](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MjQ1NTA4MA==)
+
+[:chart_with_upwards_trend:【1/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MjQ1NTA4MA==)
+
+[:camera_flash:【2023-02-22 11:40:12】](https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247489404&idx=1&sn=4adc4c6766f876a2a1fc0ec415581bf0&chksm=ea4bbd3bdd3c342dcbf1d033498926e308d4337b4f8dfdcd4e43530c61f3d7d723c8ef3c0b23&scene=27#wechat_redirect)
+
+闲暇时间，逼迫自己，记录分享体验与经历，不求正确统一，但求真、善、美。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_aa4d8db71365" alt="" />
 
 ---
 
@@ -237,7 +237,7 @@ OWASP中国，SecZone互联网安全研究中心官方平台
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NzU3MzkyMg==)
 
-[:camera_flash:【2023-02-06 07:00:51】](https://mp.weixin.qq.com/s?__biz=Mzg2NzU3MzkyMg==&mid=2247484387&idx=1&sn=30c9586a173a43fd85ccfa85c137d2b9&chksm=ceb8ca2ef9cf4338e16f217ccc03d38e83d2d3a298b71a5de5553e1dfd31ede0ebfa4cffcece&scene=27#wechat_redirect)
+[:camera_flash:【2023-03-11 07:00:09】](https://mp.weixin.qq.com/s?__biz=Mzg2NzU3MzkyMg==&mid=2247484397&idx=1&sn=b7c0db9a40836d89f210a18620ea5789&chksm=ceb8ca20f9cf4336ea25cf49842af01795b95be3fb8b96a8f192bfa463c48f8eea931d35a7bb&scene=27#wechat_redirect)
 
 关于功能安全、信息安全、系统工程方法的工作感悟，资讯分享。
 
