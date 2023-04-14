@@ -1,9 +1,9 @@
 
 ### [看雪学苑](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTc2MDYxMw==)
 
-[:chart_with_upwards_trend:【1/26/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTc2MDYxMw==)
+[:chart_with_upwards_trend:【2/37/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTc2MDYxMw==)
 
-[:camera_flash:【2023-03-22 17:59:05】](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458499012&idx=1&sn=cc2bec22b8100661d3be4914e2cac64a&chksm=b18e874e86f90e58b02344269b99dc2f451d5f855c3288b328da9c9747640b3ccbfb7ba8d45b&scene=27#wechat_redirect)
+[:camera_flash:【2023-04-13 17:59:18】](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458501920&idx=1&sn=21104bc7823e9c882fc22cb0cd5b88af&chksm=b18ef3aa86f97abc18d4ca5b25be38309812ed2473e9b2f64277def7c1e6da92f26f0eea4431&scene=27#wechat_redirect)
 
 致力于移动与安全研究的开发者社区，看雪学院(kanxue.com)官方微信公众帐号。
 
@@ -12,24 +12,11 @@
 ---
 
 
-### [汇编语言](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxNDcwOTcwOQ==)
-
-[:chart_with_upwards_trend:【0/24/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxNDcwOTcwOQ==)
-
-[:camera_flash:【2023-02-25 22:30:21】](https://mp.weixin.qq.com/s?__biz=MzIxNDcwOTcwOQ==&mid=2247494913&idx=1&sn=e012da12acb51ebec63d6d2d1b272d12&chksm=97a1c9a3a0d640b538e9169f9793403f5265162f3ddc65e2fa3fc06b68b4774719ffa06630b2&scene=27&key=2e3209ecfdafe6c7c56f78b4c4725a4d55caa6857b8f492b06be73fbc129d423b9647844639ae19cd7569fc29c399f5c22c71f9e591abd9b8949b3ba05d7b2687aae475d0ac6edc059343b4a4e286f8eea26027c1e4e9026e43cb7702800f98fc14c4a3cd11525f1c75683760d8a4a6b06d9bce3ac5dc8c13d1a68f68d683952&ascene=15&uin=MzgxODQ4MjMz&devicetype=Windows+10+x64&version=6308011a&lang=zh_CN&session_us=gh_42598d7147f6&countrycode=GY&exportkey=n_ChQIAhIQVJheMCYSAVx0WMhgeqQH6xLvAQIE97dBBAEAAAAAAIISA4HrN5IAAAAOpnltbLcz9gKNyK89dVj0Jzi8ThRckTmI6f1s1GErk%2FgDkpgyir1G2LkPddKfFYZX8VgfPgWAOqT7c9DMRNhNmvRsOXGF8IQyzooB7vEORCEgcAZJgYqAOG%2FlmtkHF0gP7YgRxrK%2FhXKXH%2BS4nIlAEDmrYt6tRlfqjpWskfjpXT3rLW8KFlGRsP7q5OucEDaPsU1JGka0ooz5%2FZ9x1EH5ktAGu%2F20D7R7Yj3cxYYruUmMM42Z%2BcPMzn2KTi18FWI7yp8aWEEFF9TvROH4ie9Qta7ygW2FBdTn&acctmode=0&pass_ticket=Bqsam6Ojdm81SZf&scene=27#wechat_redirect)
-
-致力于汇编教程和逆向破解之路
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_86e8b32f4148" alt="" />
-
----
-
-
 ### [吾爱破解论坛](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Mjc3MDM2Mw==)
 
-[:chart_with_upwards_trend:【4/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Mjc3MDM2Mw==)
+[:chart_with_upwards_trend:【7/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Mjc3MDM2Mw==)
 
-[:camera_flash:【2023-03-17 16:08:16】](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651139161&idx=1&sn=43eb4207f911c89a75212cec5f78e192&chksm=bd50bc0d8a27351b69a1f9e3b9dc5411b7c306623a9a41f4ffeb280066075948c9d15cce9859&scene=27#wechat_redirect)
+[:camera_flash:【2023-04-13 14:20:57】](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651139477&idx=1&sn=ed516988a04cf77e32ba18a4861f43be&chksm=bd50bdc18a2734d7fbd4a5701a258f3d99b4e44bac936b3e9df8eabede916c19533d3d468ba8&scene=27#wechat_redirect)
 
 吾爱破解论坛致力于软件安全与病毒分析的前沿，丰富的技术版块交相辉映，由无数热衷于软件加密解密及反病毒爱好者共同维护，留给世界一抹值得百年回眸的惊艳，沉淀百年来计算机应用之精华与优雅，任岁月流转，低调而奢华的技术交流与探索却是亘古不变。
 
@@ -81,7 +68,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU1NTEzODc3MQ==)
 
-[:camera_flash:【2023-03-10 18:40:31】](https://mp.weixin.qq.com/s?__biz=MzU1NTEzODc3MQ==&mid=2247484999&idx=1&sn=ad09863a6f30359262dd5148f751bdbe&chksm=fbd9adfbccae24ed8986d7892a0834cc6737cf9987e27377f6dfa4a20c675a7d1c5dd10179e2&scene=27#wechat_redirect)
+[:camera_flash:【2023-03-31 18:01:30】](https://mp.weixin.qq.com/s?__biz=MzU1NTEzODc3MQ==&mid=2247485116&idx=1&sn=bead9147accf9135b20a99e4af97ef73&chksm=fbd9ad00ccae2416bb20dd11e1dfbb8a684b057e860234eb600e9bb89b8baf3b2ff813839316&scene=27#wechat_redirect)
 
 「FuzzWiki」致力于成为国内最专业的模糊测试技术论坛平台，专注于分享模糊测试领域前沿技术、深度文章、行业资讯、最新突破，为专家学者、从业者、相关行业安全人员和决策者构筑完善的知识图谱，提供交流模糊测试新技术、新知识、新工具的开放平台。
 
@@ -229,6 +216,19 @@ pWn3d bY BiGSKidd3r&amp;FuzZer&amp;A2pter&amp;pWn3r rULe4Ker4pwn 65535 tim3s.
 二进制安全学习
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_92889635e9ef" alt="" />
+
+---
+
+
+### [汇编语言](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxNDcwOTcwOQ==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxNDcwOTcwOQ==)
+
+[:camera_flash:【2023-02-25 22:30:21】](https://mp.weixin.qq.com/s?__biz=MzIxNDcwOTcwOQ==&mid=2247494913&idx=1&sn=e012da12acb51ebec63d6d2d1b272d12&chksm=97a1c9a3a0d640b538e9169f9793403f5265162f3ddc65e2fa3fc06b68b4774719ffa06630b2&scene=27&key=2e3209ecfdafe6c7c56f78b4c4725a4d55caa6857b8f492b06be73fbc129d423b9647844639ae19cd7569fc29c399f5c22c71f9e591abd9b8949b3ba05d7b2687aae475d0ac6edc059343b4a4e286f8eea26027c1e4e9026e43cb7702800f98fc14c4a3cd11525f1c75683760d8a4a6b06d9bce3ac5dc8c13d1a68f68d683952&ascene=15&uin=MzgxODQ4MjMz&devicetype=Windows+10+x64&version=6308011a&lang=zh_CN&session_us=gh_42598d7147f6&countrycode=GY&exportkey=n_ChQIAhIQVJheMCYSAVx0WMhgeqQH6xLvAQIE97dBBAEAAAAAAIISA4HrN5IAAAAOpnltbLcz9gKNyK89dVj0Jzi8ThRckTmI6f1s1GErk%2FgDkpgyir1G2LkPddKfFYZX8VgfPgWAOqT7c9DMRNhNmvRsOXGF8IQyzooB7vEORCEgcAZJgYqAOG%2FlmtkHF0gP7YgRxrK%2FhXKXH%2BS4nIlAEDmrYt6tRlfqjpWskfjpXT3rLW8KFlGRsP7q5OucEDaPsU1JGka0ooz5%2FZ9x1EH5ktAGu%2F20D7R7Yj3cxYYruUmMM42Z%2BcPMzn2KTi18FWI7yp8aWEEFF9TvROH4ie9Qta7ygW2FBdTn&acctmode=0&pass_ticket=Bqsam6Ojdm81SZf&scene=27#wechat_redirect)
+
+致力于汇编教程和逆向破解之路
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_86e8b32f4148" alt="" />
 
 ---
 
