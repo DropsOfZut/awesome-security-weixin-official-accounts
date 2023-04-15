@@ -1,13 +1,26 @@
 
 ### [中国信息安全](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5MzE5MDAzOA==)
 
-[:chart_with_upwards_trend:【9/74/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5MzE5MDAzOA==)
+[:chart_with_upwards_trend:【11/88/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5MzE5MDAzOA==)
 
 [:camera_flash:【2023-04-13 17:24:31】](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664181379&idx=1&sn=3393b668f7ba08e652a34e97b5e79c51&chksm=8b592c7abc2ea56c462dcc41cc81a64f7d825a3275b5f13ff901c2f0ab6baef5d08249298fa9&scene=27#wechat_redirect)
 
 《中国信息安全》杂志，介绍国内外最新网络安全动态，深度解读网络安全事件。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_df6e5fff90d7" alt="" />
+
+---
+
+
+### [网络安全和信息化](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5MzMwMDU5NQ==)
+
+[:chart_with_upwards_trend:【20/73/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5MzMwMDU5NQ==)
+
+[:camera_flash:【2023-04-14 16:36:55】](https://mp.weixin.qq.com/s?__biz=MjM5MzMwMDU5NQ==&mid=2649154804&idx=1&sn=d08c6898f4d9ac5a9b674b7ad0486339&chksm=be8b6de889fce4fea6d9ea6be07ef31d629178ee04b338418726fdd5ff039e4382d0755d6a69&scene=27#wechat_redirect)
+
+《网络安全和信息化》杂志官方所属，网络安全人员与IT运维人员的专业管理类经验、知识、资料，帮助用户提高网络安全能力建设和IT基础设施运营水平，提升IT管理人员工作能力。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4fd19b2e3fc6" alt="" />
 
 ---
 
@@ -25,15 +38,15 @@
 ---
 
 
-### [网络安全和信息化](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5MzMwMDU5NQ==)
+### [FreeBuf](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjA0NjgyMA==)
 
-[:chart_with_upwards_trend:【17/63/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5MzMwMDU5NQ==)
+[:chart_with_upwards_trend:【14/39/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjA0NjgyMA==)
 
-[:camera_flash:【2023-04-14 16:36:55】](https://mp.weixin.qq.com/s?__biz=MjM5MzMwMDU5NQ==&mid=2649154804&idx=1&sn=d08c6898f4d9ac5a9b674b7ad0486339&chksm=be8b6de889fce4fea6d9ea6be07ef31d629178ee04b338418726fdd5ff039e4382d0755d6a69&scene=27#wechat_redirect)
+[:camera_flash:【2023-04-13 18:52:53】](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651222123&idx=1&sn=3c6a254da6a73eff56be8fdbe4ed6be7&chksm=bd1de2e08a6a6bf65bb3e3e46c4b6a3bbe09196a910607d083724257a140776d95e0101a200e&scene=27#wechat_redirect)
 
-《网络安全和信息化》杂志官方所属，网络安全人员与IT运维人员的专业管理类经验、知识、资料，帮助用户提高网络安全能力建设和IT基础设施运营水平，提升IT管理人员工作能力。
+中国网络安全行业门户
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4fd19b2e3fc6" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_7524f20253aa" alt="" />
 
 ---
 
@@ -51,6 +64,19 @@
 ---
 
 
+### [安全牛](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Njc3NjM4MA==)
+
+[:chart_with_upwards_trend:【0/32/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Njc3NjM4MA==)
+
+[:camera_flash:【2023-04-13 11:32:10】](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651123536&idx=1&sn=36a20e250be5377495324350ce323a4c&chksm=bd145f838a63d6951135b20ea13b55d3dafa60464cb1707ba4e000bf4d27237feab6645b2cc1&scene=27#wechat_redirect)
+
+发现、挖掘与推荐、传播优秀的安全技术、产品，提升安全领域在全行业的价值，了解机构与企业的安全需求，一家真正懂安全的专业咨询机构，我们是安全牛！
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_cbab6d7b8e9b" alt="" />
+
+---
+
+
 ### [安全419](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyMDQ4OTkyMg==)
 
 [:chart_with_upwards_trend:【21/31/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyMDQ4OTkyMg==)
@@ -64,22 +90,9 @@
 ---
 
 
-### [安全牛](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Njc3NjM4MA==)
-
-[:chart_with_upwards_trend:【0/26/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Njc3NjM4MA==)
-
-[:camera_flash:【2023-04-13 11:32:10】](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651123536&idx=1&sn=36a20e250be5377495324350ce323a4c&chksm=bd145f838a63d6951135b20ea13b55d3dafa60464cb1707ba4e000bf4d27237feab6645b2cc1&scene=27#wechat_redirect)
-
-发现、挖掘与推荐、传播优秀的安全技术、产品，提升安全领域在全行业的价值，了解机构与企业的安全需求，一家真正懂安全的专业咨询机构，我们是安全牛！
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_cbab6d7b8e9b" alt="" />
-
----
-
-
 ### [安全客](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5ODA0NDE2MA==)
 
-[:chart_with_upwards_trend:【0/26/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5ODA0NDE2MA==)
+[:chart_with_upwards_trend:【0/30/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5ODA0NDE2MA==)
 
 [:camera_flash:【2023-04-14 11:22:16】](https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649784574&idx=1&sn=1938eee6ba959cfe696d5a98e689ba8d&chksm=8893b091bfe439877d03f61608cf86fe8d14b9131d56674ebc45980b669b22e135b38b97356e&scene=27#wechat_redirect)
 
@@ -170,7 +183,7 @@ E安全 | 全球网络安全资讯新传媒    新版门户站点：http://www.e
 
 ### [i春秋](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNTkyODI0OA==)
 
-[:chart_with_upwards_trend:【4/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNTkyODI0OA==)
+[:chart_with_upwards_trend:【4/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNTkyODI0OA==)
 
 [:camera_flash:【2023-04-13 11:35:23】](https://mp.weixin.qq.com/s?__biz=MzUzNTkyODI0OA==&mid=2247521660&idx=1&sn=ce6cb00d1b2298da734156a04e1155e8&chksm=fafcd9abcd8b50bdcb6b609eca7c96e48fe704b42390bdb5b4807ca62c1d16e26b22a5820ebd&scene=27#wechat_redirect)
 
@@ -268,19 +281,6 @@ GeekPwn，全球首个关注智能生活的安全极客大赛！我们在寻找�
 安全脉搏，有温度的安全自媒体；关注最新安全事件，分享独家技术文章；安全资讯、安全报告实时共享；官网www.secpulse.com。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_448dbe1f6d82" alt="" />
-
----
-
-
-### [FreeBuf](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjA0NjgyMA==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjA0NjgyMA==)
-
-[:camera_flash:【2023-04-13 18:52:53】](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651222123&idx=1&sn=3c6a254da6a73eff56be8fdbe4ed6be7&chksm=bd1de2e08a6a6bf65bb3e3e46c4b6a3bbe09196a910607d083724257a140776d95e0101a200e&scene=27#wechat_redirect)
-
-中国网络安全行业门户
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_7524f20253aa" alt="" />
 
 ---
 

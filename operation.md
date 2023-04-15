@@ -1,4 +1,30 @@
 
+### [系统安全运维](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NjE0NDc5OQ==)
+
+[:chart_with_upwards_trend:【0/21/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NjE0NDc5OQ==)
+
+[:camera_flash:【2023-04-14 08:08:04】](https://mp.weixin.qq.com/s?__biz=Mzk0NjE0NDc5OQ==&mid=2247520022&idx=1&sn=62aee9e55886a25988408d8c5d195306&chksm=c3085c66f47fd57060009767f55c76a7a4fa7e57a9c81b7eda9d7bc82aff165587a00360ca80&scene=27#wechat_redirect)
+
+未知攻 焉知防 攻防兼备
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_2c298b630170" alt="" />
+
+---
+
+
+### [kali黑客笔记](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzIwNTY1OA==)
+
+[:chart_with_upwards_trend:【6/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzIwNTY1OA==)
+
+[:camera_flash:【2023-04-14 09:45:28】](https://mp.weixin.qq.com/s?__biz=MzkxMzIwNTY1OA==&mid=2247495812&idx=1&sn=6d38f1ee8627f6cf026ffe19aa5cd613&chksm=c1038071f6740967b7d6112747551050189ecaa1a390fae546ca4522b6215ca0b8941ac44090&scene=27#wechat_redirect)
+
+发布关于kali相关文章。Debian Centos等操作系统的安全和运维。以及树莓派 ESP8266 DIY单片机等相关安全领域的文章。旨在掌握技术和原理的前提下，更好的保护自身网络安全。反对一切危害网络安全的行为，造成法律后果请自负。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_fbcaf351ddc1" alt="" />
+
+---
+
+
 ### [Docker中文社区](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1NzI5NDM4Mw==)
 
 [:chart_with_upwards_trend:【0/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1NzI5NDM4Mw==)
@@ -90,19 +116,6 @@ BAT 技术专家分享开发、架构、运维相关干货！
 ---
 
 
-### [系统安全运维](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NjE0NDc5OQ==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NjE0NDc5OQ==)
-
-[:camera_flash:【2023-04-14 08:08:04】](https://mp.weixin.qq.com/s?__biz=Mzk0NjE0NDc5OQ==&mid=2247520022&idx=1&sn=62aee9e55886a25988408d8c5d195306&chksm=c3085c66f47fd57060009767f55c76a7a4fa7e57a9c81b7eda9d7bc82aff165587a00360ca80&scene=27#wechat_redirect)
-
-未知攻 焉知防 攻防兼备
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_2c298b630170" alt="" />
-
----
-
-
 ### [网络运维渗透](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3MjMxODUwNg==)
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3MjMxODUwNg==)
@@ -112,19 +125,6 @@ BAT 技术专家分享开发、架构、运维相关干货！
 漏洞挖掘、SRC、红蓝对抗、代码审计
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_304f5239b3b0" alt="" />
-
----
-
-
-### [kali黑客笔记](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzIwNTY1OA==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzIwNTY1OA==)
-
-[:camera_flash:【2023-04-14 09:45:28】](https://mp.weixin.qq.com/s?__biz=MzkxMzIwNTY1OA==&mid=2247495812&idx=1&sn=6d38f1ee8627f6cf026ffe19aa5cd613&chksm=c1038071f6740967b7d6112747551050189ecaa1a390fae546ca4522b6215ca0b8941ac44090&scene=27#wechat_redirect)
-
-发布关于kali相关文章。Debian Centos等操作系统的安全和运维。以及树莓派 ESP8266 DIY单片机等相关安全领域的文章。旨在掌握技术和原理的前提下，更好的保护自身网络安全。反对一切危害网络安全的行为，造成法律后果请自负。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_fbcaf351ddc1" alt="" />
 
 ---
 

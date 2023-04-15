@@ -1,4 +1,17 @@
 
+### [商密君](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
+
+[:chart_with_upwards_trend:【0/39/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
+
+[:camera_flash:【2023-04-13 21:22:01】](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247597780&idx=1&sn=13c21ddd4108d2b90c9b5a60bb384ceb&chksm=ec576e8fdb20e799fbef6de53c0b212fbf7d9b0cce816d25696d8739d1c06efd533a01dd51b5&scene=27#wechat_redirect)
+
+商密君是全国密码行业头部公众号，旨在宣传推广《密码法》，普及商用密码知识，解读密码政策，分享商用密码行业的最新动态，为密码产业产学研用做好宣传服务，连接密码全行业精英，推动密码技术在数字经济各行业的应用和创新。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a02c9d0e1990" alt="" />
+
+---
+
+
 ### [数世咨询](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
 
 [:chart_with_upwards_trend:【1/13/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
@@ -125,19 +138,6 @@ OWASP中国，SecZone互联网安全研究中心官方平台
 闲暇时间，逼迫自己，记录分享体验与经历，不求正确统一，但求真、善、美。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_aa4d8db71365" alt="" />
-
----
-
-
-### [商密君](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
-
-[:camera_flash:【2023-04-13 21:22:01】](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247597780&idx=1&sn=13c21ddd4108d2b90c9b5a60bb384ceb&chksm=ec576e8fdb20e799fbef6de53c0b212fbf7d9b0cce816d25696d8739d1c06efd533a01dd51b5&scene=27#wechat_redirect)
-
-商密君是全国密码行业头部公众号，旨在宣传推广《密码法》，普及商用密码知识，解读密码政策，分享商用密码行业的最新动态，为密码产业产学研用做好宣传服务，连接密码全行业精英，推动密码技术在数字经济各行业的应用和创新。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a02c9d0e1990" alt="" />
 
 ---
 
