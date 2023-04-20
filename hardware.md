@@ -198,7 +198,7 @@ Power by Gh0xE9 Team, Just join us &lt;3; Gh0xE9 Team Welcomes universities and 
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
 
-[:camera_flash:【2023-04-18 22:08:49】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247579956&idx=1&sn=63886f8f6ac803a1a8f651460339a7d8&chksm=fc03e9fecb7460e83687e58b30dbad9fef3470e7c67d88c47997478b660ee6166dbae2896228&scene=27#wechat_redirect)
+[:camera_flash:【2023-04-19 21:48:53】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247580014&idx=1&sn=cb000ab380c121cb6d260f239b6fc1fd&chksm=fc03e9a4cb7460b231babbebdc95768cfc4dcc221388149e4fdabf6d29bbecc05f10e7a29286&scene=27#wechat_redirect)
 
 为智能网联汽车行业专业人士提供信息和网络安全技术、产品及服务等行业发展最新咨询
 
