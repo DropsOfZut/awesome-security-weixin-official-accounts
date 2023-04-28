@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【18/27/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3Mjc1MTkwOA==)
 
-[:camera_flash:【2023-04-25 11:16:06】](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650527841&idx=1&sn=f0bcd4c95618897f11b237502b7da500&chksm=8716f62ab0617f3cf854b7ebb6e85b925e1149a499efc4c26fa90b7cc2303d9369fa09c35348&scene=27#wechat_redirect)
+[:camera_flash:【2023-04-27 11:29:57】](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650527849&idx=1&sn=145a6feec4348014653983bb1c0a03c8&chksm=8716f622b0617f34b7a329511dde2767affdfd7f30f5ca1e9643dd0fcbe101b44a8b21889f2c&scene=27#wechat_redirect)
 
 刘硕教授团队：聚焦情报与安全！关注情报动态，开展情报培训，促进情报协作，传播情报文化，优化情报生态，共建情报分析师职业共同体。
 
@@ -16,7 +16,7 @@
 
 [:chart_with_upwards_trend:【15/17/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MTE0NTE3Mw==)
 
-[:camera_flash:【2023-04-26 12:44:27】](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651135929&idx=1&sn=88015526c01ca37bf78f0dbed693175f&chksm=f1af6883c6d8e1958cf40778e2c4676897b8cec4fbb1e4d1fabe11d948855b14068a1624d289&scene=27#wechat_redirect)
+[:camera_flash:【2023-04-27 09:48:21】](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651135966&idx=1&sn=f008db70f4b588e33357bcdce4f1faf5&chksm=f1af68e4c6d8e1f2262f3905c6ebb1d28a3379975e33e3a49aab3e7d3fa8ce6de171bda2974f&scene=27#wechat_redirect)
 
 每天为大家精选各类情报分析相关的资源、工具、技巧和资讯，努力成为情报分析师必备的工具箱。外挂机器人“小丁丁”还能陪您聊天，给您查航班、查列车、查天气、查酒店、查美食、查股票、回答您的提问等等。
 
@@ -29,7 +29,7 @@
 
 [:chart_with_upwards_trend:【3/14/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NjA0NjI5MQ==)
 
-[:camera_flash:【2023-04-26 08:36:17】](https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650176899&idx=1&sn=adb592912a8c768cf912b8c448ea8569&chksm=f448863fc33f0f29d7a236286b6eb72ccf6c678e840146c32eb2a61b761b7c1e4fc9a99edb2a&scene=27#wechat_redirect)
+[:camera_flash:【2023-04-27 15:10:40】](https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650176918&idx=1&sn=3704d56605a8d8e4d48e910a6c64b099&chksm=f448862ac33f0f3ca706b25a59b95e91a8650ca74f360b5cdc740967e27f4b1481c8cc4fdd64&scene=27#wechat_redirect)
 
 数字时代网络威胁应对专家
 
@@ -55,7 +55,7 @@
 
 [:chart_with_upwards_trend:【7/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MDc2MDA4OA==)
 
-[:camera_flash:【2023-04-21 09:40:31】](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247506151&idx=1&sn=f4cdaf84162bb5a7f7b7e3d45cd089bc&chksm=ea662f90dd11a68686e088883114b6f3e4a01151e784ae5bf69a3b45b5b9b0019fd272f97fb7&scene=27#wechat_redirect)
+[:camera_flash:【2023-04-27 18:00:52】](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247506169&idx=1&sn=2a3b1c1e9ae24e9901da5bf8304ede7f&chksm=ea662f8edd11a69868289b6875103ebc764b1ffe7543d49b11d06da34da33dcc8dafa36228f0&scene=27#wechat_redirect)
 
 威胁情报信息共享，事件预警通报，攻击事件分析报告，恶意软件分析报告
 
