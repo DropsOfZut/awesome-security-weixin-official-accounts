@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【18/27/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3Mjc1MTkwOA==)
 
-[:camera_flash:【2023-04-28 11:04:46】](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650527934&idx=1&sn=d0e99f4264894fbb9a046a31bb3321b9&chksm=8716f6f5b0617fe3952d4e8522cc7a68d65092c5b4965d5ae74c3fc1c09658529599a5356098&scene=27#wechat_redirect)
+[:camera_flash:【2023-04-29 13:09:46】](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650527952&idx=1&sn=0d28631a0de7a83428649ffdd5618539&chksm=8716f69bb0617f8da690c76b058c4ccf2c19e134b2f78d0b186e750bb8e2efbbcf14cd501f99&scene=27#wechat_redirect)
 
 刘硕教授团队：聚焦情报与安全！关注情报动态，开展情报培训，促进情报协作，传播情报文化，优化情报生态，共建情报分析师职业共同体。
 
@@ -16,7 +16,7 @@
 
 [:chart_with_upwards_trend:【15/17/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MTE0NTE3Mw==)
 
-[:camera_flash:【2023-04-27 09:48:21】](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651135966&idx=1&sn=f008db70f4b588e33357bcdce4f1faf5&chksm=f1af68e4c6d8e1f2262f3905c6ebb1d28a3379975e33e3a49aab3e7d3fa8ce6de171bda2974f&scene=27#wechat_redirect)
+[:camera_flash:【2023-04-29 22:16:50】](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651135988&idx=1&sn=c51bb511b98740c4fcb03a1abd63416d&chksm=f1af68cec6d8e1d8bfacad4376a7dbff7bc62b7acf93e486507988d6613f7536a1fac2576f09&scene=27#wechat_redirect)
 
 每天为大家精选各类情报分析相关的资源、工具、技巧和资讯，努力成为情报分析师必备的工具箱。外挂机器人“小丁丁”还能陪您聊天，给您查航班、查列车、查天气、查酒店、查美食、查股票、回答您的提问等等。
 
@@ -40,7 +40,7 @@
 
 ### [微步在线](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NjA0NjI5MQ==)
 
-[:chart_with_upwards_trend:【2/13/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NjA0NjI5MQ==)
+[:chart_with_upwards_trend:【1/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NjA0NjI5MQ==)
 
 [:camera_flash:【2023-04-28 08:36:57】](https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650176935&idx=1&sn=27992a45db582c3cc366e65d825c5437&chksm=f448861bc33f0f0db87fbf777c254d76d80605850c3501308a983ab3a31c4e0ee5a25b1d682d&scene=27#wechat_redirect)
 
