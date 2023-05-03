@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【0/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1NzYwNTMzNw==)
 
-[:camera_flash:【2023-05-01 07:31:04】](https://mp.weixin.qq.com/s?__biz=MzI1NzYwNTMzNw==&mid=2247512839&idx=1&sn=513fe0a948ba1cec78be1dc2f158c160&chksm=ea1618b1dd6191a746ccfece036b6358b76e06c1e062d67384ee61d377f51ce1dd0ed47a3a77&scene=27#wechat_redirect)
+[:camera_flash:【2023-05-03 07:30:10】](https://mp.weixin.qq.com/s?__biz=MzI1NzYwNTMzNw==&mid=2247512841&idx=1&sn=1295af84b118939ead816e86229fa94f&chksm=ea1618bfdd6191a90fac3c355b509c21895893ef096e1f6e3edd102b49a7753177e0b5c663ee&scene=27#wechat_redirect)
 
 聚焦数据治理，数字化转型，数据中台等领域专业知识总结和实战分享，做你身边最有价值的数据号！
 
@@ -55,7 +55,7 @@ www.pcachina.com
 
 [:chart_with_upwards_trend:【3/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzg5MTI0OQ==)
 
-[:camera_flash:【2023-04-28 21:00:24】](https://mp.weixin.qq.com/s?__biz=MzIwMzg5MTI0OQ==&mid=2247520305&idx=1&sn=2b52b724277567f97e6c0760814504b1&chksm=96caa76fa1bd2e79a145e6ccddb96ff2aa5d446b109fff662c0961085f0dafe22f9c963441d7&scene=27#wechat_redirect)
+[:camera_flash:【2023-05-02 21:00:16】](https://mp.weixin.qq.com/s?__biz=MzIwMzg5MTI0OQ==&mid=2247520306&idx=1&sn=5b74f66b46572c4441544f2d78480502&chksm=96caa76ca1bd2e7a589d29fa31c0efed1583d9e9918c88ab8d0b6388906d09292079ace244d6&scene=27#wechat_redirect)
 
 专注于企业数据化应用、大数据BI技术和理论观点的研究，致力于让数据成为企业真正的生产力！帆软数据应用研究院旗下账号。
 

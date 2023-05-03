@@ -14,7 +14,7 @@
 
 ### [安恒信息](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTE0MjQyMg==)
 
-[:chart_with_upwards_trend:【0/21/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTE0MjQyMg==)
+[:chart_with_upwards_trend:【0/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTE0MjQyMg==)
 
 [:camera_flash:【2023-04-30 12:29:18】](https://mp.weixin.qq.com/s?__biz=MjM5NTE0MjQyMg==&mid=2650569726&idx=1&sn=596bcb422640aeba7902a8f00bf9bc95&chksm=bef5d58789825c91ae6f76dc6cb77b6d0b82bc6a7702f7ab1a028f82edc3ccde77feea655a5d&scene=27#wechat_redirect)
 
