@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【0/21/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NjE0NDc5OQ==)
 
-[:camera_flash:【2023-05-03 08:08:28】](https://mp.weixin.qq.com/s?__biz=Mzk0NjE0NDc5OQ==&mid=2247520512&idx=1&sn=35b69a7a4119da88ffac8474327e2303&chksm=c3084270f47fcb664d3dfb1279a64913d842c1a7533972a3eaf7533dcdee10337570ffdf9540&scene=27#wechat_redirect)
+[:camera_flash:【2023-05-04 08:08:21】](https://mp.weixin.qq.com/s?__biz=Mzk0NjE0NDc5OQ==&mid=2247520513&idx=1&sn=814cc77f960a644d735770a21d80167b&chksm=c3084271f47fcb67caffcf370ce582ada2ecf7911db9d1cfb6965733beeb56497e54282c6b69&scene=27#wechat_redirect)
 
 未知攻 焉知防 攻防兼备
 
@@ -16,7 +16,7 @@
 
 [:chart_with_upwards_trend:【6/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzIwNTY1OA==)
 
-[:camera_flash:【2023-05-03 09:03:31】](https://mp.weixin.qq.com/s?__biz=MzkxMzIwNTY1OA==&mid=2247496128&idx=1&sn=abd51175d778eaf33d051c1314b83447&chksm=c1038135f6740823253cec6cc15deba44023fd2ccd41afc70a9415c69fa9dbecaf6c641dcf56&scene=27#wechat_redirect)
+[:camera_flash:【2023-05-04 08:02:12】](https://mp.weixin.qq.com/s?__biz=MzkxMzIwNTY1OA==&mid=2247496146&idx=1&sn=f78084f6239ce194800d4b039167ca18&chksm=c1038127f67408311f54a27a3490d6db04bd9da703a7e37157eaff55a1f5a9a70ffc4b9674ec&scene=27#wechat_redirect)
 
 发布关于kali相关文章。Debian Centos等操作系统的安全和运维。以及树莓派 ESP8266 DIY单片机等相关安全领域的文章。旨在掌握技术和原理的前提下，更好的保护自身网络安全。反对一切危害网络安全的行为，造成法律后果请自负。
 
