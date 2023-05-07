@@ -1,9 +1,9 @@
 
 ### [系统安全运维](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NjE0NDc5OQ==)
 
-[:chart_with_upwards_trend:【0/19/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NjE0NDc5OQ==)
+[:chart_with_upwards_trend:【0/17/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NjE0NDc5OQ==)
 
-[:camera_flash:【2023-05-05 08:08:56】](https://mp.weixin.qq.com/s?__biz=Mzk0NjE0NDc5OQ==&mid=2247520514&idx=1&sn=31bac607c8103162e50be7b3233eea50&chksm=c3084272f47fcb64e55a8f474fd304a3e48445db2c229c7437ea24bb668829426366ef9778ec&scene=27#wechat_redirect)
+[:camera_flash:【2023-05-06 08:08:12】](https://mp.weixin.qq.com/s?__biz=Mzk0NjE0NDc5OQ==&mid=2247520515&idx=1&sn=7acdb8c512035072e7747d81a1b6b723&chksm=c3084273f47fcb65429b918192423beec68d18bd3a3338363681f34439d366e190bb399f0771&scene=27#wechat_redirect)
 
 未知攻 焉知防 攻防兼备
 
@@ -14,9 +14,9 @@
 
 ### [kali黑客笔记](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzIwNTY1OA==)
 
-[:chart_with_upwards_trend:【6/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzIwNTY1OA==)
+[:chart_with_upwards_trend:【6/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzIwNTY1OA==)
 
-[:camera_flash:【2023-05-05 08:03:02】](https://mp.weixin.qq.com/s?__biz=MzkxMzIwNTY1OA==&mid=2247496163&idx=1&sn=a694367a2f8c651ff0e48d2ee0f37a6f&chksm=c1038116f6740800f12f9ee0f13166835da7872fed745529d0408200c824687d97f0c5f32eac&scene=27#wechat_redirect)
+[:camera_flash:【2023-05-06 10:29:41】](https://mp.weixin.qq.com/s?__biz=MzkxMzIwNTY1OA==&mid=2247496181&idx=1&sn=dc8a68bde3d92e33143028d661decb61&chksm=c1038100f67408162773ff342ac23e19207a2158bfbfdd3c2f2de3b54d990ad57fa523685853&scene=27#wechat_redirect)
 
 发布关于kali相关文章。Debian Centos等操作系统的安全和运维。以及树莓派 ESP8266 DIY单片机等相关安全领域的文章。旨在掌握技术和原理的前提下，更好的保护自身网络安全。反对一切危害网络安全的行为，造成法律后果请自负。
 
