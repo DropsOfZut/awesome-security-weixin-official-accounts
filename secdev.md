@@ -1,9 +1,9 @@
 
 ### [商密君](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
 
-[:chart_with_upwards_trend:【0/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
+[:chart_with_upwards_trend:【0/16/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
 
-[:camera_flash:【2023-05-08 23:29:53】](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247600254&idx=1&sn=98e067409cf71f1775b7b0f8c0242553&chksm=ec575825db20d13302ab29a786346d245b4206ea6660d98f30ec019057f1283155dbd2fc61ee&scene=27#wechat_redirect)
+[:camera_flash:【2023-05-09 22:27:30】](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247600348&idx=1&sn=a2321e5d793b11863583d5911e1d4d77&chksm=ec575887db20d191236c769f58a93c5a3ace08078ad9e19bb21d20c5b63ae17996a6bfdbf0b1&scene=27#wechat_redirect)
 
 商密君是全国密码行业头部公众号，旨在宣传推广《密码法》，普及商用密码知识，解读密码政策，分享商用密码行业的最新动态，为密码产业产学研用做好宣传服务，连接密码全行业精英，推动密码技术在数字经济各行业的应用和创新。
 
@@ -14,9 +14,9 @@
 
 ### [数世咨询](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
 
-[:chart_with_upwards_trend:【0/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
+[:chart_with_upwards_trend:【0/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
 
-[:camera_flash:【2023-05-07 23:30:14】](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247498034&idx=1&sn=73f3dae3240ad01f07dba5474b458ebf&chksm=c1448b8ff63302995fcf3353241870a1de3bd110e90c377c35b051cb600c8532fdd3604724f1&scene=27#wechat_redirect)
+[:camera_flash:【2023-05-09 23:30:34】](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247498041&idx=1&sn=37cfb7aa8c0b7fb05e15396e6029db8a&chksm=c1448b84f6330292b28f71b5a6f6c6ea25a8a79db28b93a9651bfd4d56e0e7b65e8a52cada06&scene=27#wechat_redirect)
 
 中国数字产业领域中立的第三方调研机构，提供网络安全行业的调查、研究与咨询服务。
 
@@ -27,13 +27,26 @@
 
 ### [掌控安全EDU](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
 
-[:chart_with_upwards_trend:【4/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
+[:chart_with_upwards_trend:【3/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
 
-[:camera_flash:【2023-05-08 12:02:58】](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247526336&idx=1&sn=68685b449b5339c11fae53008416760f&chksm=fa6b1eb1cd1c97a76c7a2fadfc8f1ae0a0ca1e974ba297a1c67aaa3800065604e44571eb6da6&scene=27#wechat_redirect)
+[:camera_flash:【2023-05-09 12:00:12】](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247526361&idx=1&sn=e1408d1180212ec16e712dd90143c813&chksm=fa6b1ea8cd1c97befa1748d4d6210674f2c0b9dd127cbb2d32a87ac4b74f0896cca7ccbecc6b&scene=27#wechat_redirect)
 
 安全教程\\高质量文章\\面试经验分享，尽在#掌控安全EDU#
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_c028a5199606" alt="" />
+
+---
+
+
+### [薄说安全](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NzU3MzkyMg==)
+
+[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NzU3MzkyMg==)
+
+[:camera_flash:【2023-05-05 07:06:43】](https://mp.weixin.qq.com/s?__biz=Mzg2NzU3MzkyMg==&mid=2247484411&idx=1&sn=8f9ac6e5921a3af58af4ca26449be299&chksm=ceb8ca36f9cf4320724d3bf9c9758f030e88e68b8ee8be7e5148696506911fc8ba096f522af3&scene=27#wechat_redirect)
+
+关于功能安全、信息安全、系统工程方法的工作感悟，资讯分享。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_956e8befd9f9" alt="" />
 
 ---
 
@@ -112,19 +125,6 @@ OWASP中国，SecZone互联网安全研究中心官方平台
 闲暇时间，逼迫自己，记录分享体验与经历，不求正确统一，但求真、善、美。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_aa4d8db71365" alt="" />
-
----
-
-
-### [薄说安全](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NzU3MzkyMg==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NzU3MzkyMg==)
-
-[:camera_flash:【2023-05-05 07:06:43】](https://mp.weixin.qq.com/s?__biz=Mzg2NzU3MzkyMg==&mid=2247484411&idx=1&sn=8f9ac6e5921a3af58af4ca26449be299&chksm=ceb8ca36f9cf4320724d3bf9c9758f030e88e68b8ee8be7e5148696506911fc8ba096f522af3&scene=27#wechat_redirect)
-
-关于功能安全、信息安全、系统工程方法的工作感悟，资讯分享。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_956e8befd9f9" alt="" />
 
 ---
 
@@ -354,7 +354,7 @@ vivo全新的安全品牌，有人文温度的科技新媒体，致力于让亿�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwODc2NjgwMg==)
 
-[:camera_flash:【2023-05-05 15:05:15】](https://mp.weixin.qq.com/s?__biz=MzAwODc2NjgwMg==&mid=2649110286&idx=1&sn=b2aec123b071d3601c0937453c23f519&chksm=837b4333b40cca255824c5db52095fc29f82aeb7e3fa0145781bb6b71fd6ca7d508514c3b29a&scene=27#wechat_redirect)
+[:camera_flash:【2023-05-09 15:00:17】](https://mp.weixin.qq.com/s?__biz=MzAwODc2NjgwMg==&mid=2649110373&idx=1&sn=65b37a168b80663111e0bf5c93b1390d&chksm=837b4358b40cca4ea5d5ce4174372e90ecc523f8738cc34c0cc879a2bdfb435df9e1a7cfe94a&scene=27#wechat_redirect)
 
 悬镜安全，DevSecOps敏捷安全领导者，创始人子芽。专注于以代码疫苗技术为内核，通过原创专利级第三代DevSecOps智适应威胁管理体系，持续赋能数千家行业标杆用户，帮助其构筑起内生积极防御体系。
 
