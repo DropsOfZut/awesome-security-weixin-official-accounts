@@ -1,9 +1,9 @@
 
 ### [商密君](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
 
-[:chart_with_upwards_trend:【0/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
+[:chart_with_upwards_trend:【0/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
 
-[:camera_flash:【2023-05-10 21:53:12】](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247600475&idx=1&sn=d2c18de81f53fb35e012e698d1d3324f&chksm=ec575900db20d016d4bb1970192448fecfa2ce3a54645ad447cafe5bde15d89dc2af8359f33a&scene=27#wechat_redirect)
+[:camera_flash:【2023-05-11 19:08:26】](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247600584&idx=1&sn=5e6f18b6089089c31b5a49b7c6ab313a&chksm=ec575993db20d085c136c955d2fe047ca6162f77ddedd9df550ab585c48b9d2b9791321ade57&scene=27#wechat_redirect)
 
 商密君是全国密码行业头部公众号，旨在宣传推广《密码法》，普及商用密码知识，解读密码政策，分享商用密码行业的最新动态，为密码产业产学研用做好宣传服务，连接密码全行业精英，推动密码技术在数字经济各行业的应用和创新。
 
@@ -14,26 +14,13 @@
 
 ### [数世咨询](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
 
-[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
+[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
 
-[:camera_flash:【2023-05-10 23:30:47】](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247498053&idx=1&sn=80c857b940b9b64ab3a2dd5f27d4a4c7&chksm=c1448bf8f63302ee170b29c4c92a3b75bbebf4cfe33f68c68aed0a11fd61b0d6e2cfc139ec03&scene=27#wechat_redirect)
+[:camera_flash:【2023-05-11 23:40:46】](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247498059&idx=1&sn=13317bd75484ea5c6bc42ca175ba4532&chksm=c1448bf6f63302e0640d3864741457d3d1eae47551a7f0e5ce216a53d260f1432196a9dabfec&scene=27#wechat_redirect)
 
 中国数字产业领域中立的第三方调研机构，提供网络安全行业的调查、研究与咨询服务。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_bacd64503774" alt="" />
-
----
-
-
-### [掌控安全EDU](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
-
-[:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
-
-[:camera_flash:【2023-05-10 12:04:35】](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247526388&idx=1&sn=3430734882b49384ea3e01cec413956b&chksm=fa6b1e85cd1c9793a056d4c4db4f684e590a9911b1ebee9bdb9a4fb7ef2e0b822e6937d75a4d&scene=27#wechat_redirect)
-
-安全教程\\高质量文章\\面试经验分享，尽在#掌控安全EDU#
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_c028a5199606" alt="" />
 
 ---
 
@@ -47,6 +34,19 @@
 关于功能安全、信息安全、系统工程方法的工作感悟，资讯分享。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_956e8befd9f9" alt="" />
+
+---
+
+
+### [掌控安全EDU](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
+
+[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
+
+[:camera_flash:【2023-05-11 12:04:24】](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247526454&idx=1&sn=758c13cd12d28acce0be526e8bc22911&chksm=fa6b1147cd1c98513fc8adbd9984237aeec2f4082b2525733882b22add159816d88dbad0dc7b&scene=27#wechat_redirect)
+
+安全教程\\高质量文章\\面试经验分享，尽在#掌控安全EDU#
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_c028a5199606" alt="" />
 
 ---
 
@@ -198,7 +198,7 @@ OWASP中国，SecZone互联网安全研究中心官方平台
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
 
-[:camera_flash:【2023-05-10 18:20:58】](https://mp.weixin.qq.com/s?__biz=MzU0Mzk0NDQyOA==&mid=2247507465&idx=1&sn=2565d6756afd287480b3cb954c40e775&chksm=fb01258acc76ac9c5b01c7a74472e6b544b792948deaca1367ee131ab4002a612de4c6569ca9&scene=27#wechat_redirect)
+[:camera_flash:【2023-05-11 19:20:16】](https://mp.weixin.qq.com/s?__biz=MzU0Mzk0NDQyOA==&mid=2247507481&idx=1&sn=3b8bb7497ecb7abd595c31f041871969&chksm=fb01259acc76ac8c82570b7a5fb6d9780fb86a559749c92cf9abfb8a0d5d2d07d0dbb2a9431e&scene=27#wechat_redirect)
 
 深圳市网络与信息安全行业协会（SNISA），是深圳市网络与信息安全行业的权威组织，是中国网络安全审查技术与认证中心（CCRC）在深圳唯一授权工作站，是经深圳市人力资源和社会保障局核准，开展网络空间安全工程技术专业职称评审工作的社会组织。
 
