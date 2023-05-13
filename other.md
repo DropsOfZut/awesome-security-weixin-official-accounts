@@ -14,7 +14,7 @@
 
 ### [全球技术地图](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1OTExNDY1NQ==)
 
-[:chart_with_upwards_trend:【2/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1OTExNDY1NQ==)
+[:chart_with_upwards_trend:【1/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1OTExNDY1NQ==)
 
 [:camera_flash:【2023-05-11 16:35:45】](https://mp.weixin.qq.com/s?__biz=MzI1OTExNDY1NQ==&mid=2651603274&idx=2&sn=23f5e0a67653bbfaf160a427050794ee&chksm=f18532bac6f2bbac47def45f51ee1cfb4b59b241d646920480a85717ac5e1352bc13da26115a&scene=27#wechat_redirect)
 
@@ -27,26 +27,13 @@
 
 ### [虚拟框架](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Njg5ODU2NA==)
 
-[:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Njg5ODU2NA==)
+[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Njg5ODU2NA==)
 
 [:camera_flash:【2023-05-11 20:01:23】](https://mp.weixin.qq.com/s?__biz=MjM5Njg5ODU2NA==&mid=2257501225&idx=1&sn=ec473b38ea71f9c581796926279724bc&chksm=a5982e4292efa75462f32efa3bb2cf7dd54c008ec3b10057045fcee97e00e81aa0519e4ba82a&scene=27#wechat_redirect)
 
 解锁 Android 手机黑科技！
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_39c8fb2fc8b4" alt="" />
-
----
-
-
-### [关注安全技术](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4MDMwMjQ3Mg==)
-
-[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4MDMwMjQ3Mg==)
-
-[:camera_flash:【2023-05-11 11:40:10】](https://mp.weixin.qq.com/s?__biz=MzA4MDMwMjQ3Mg==&mid=2651868585&idx=1&sn=28d3b08b42f997beb1d220df9972478c&chksm=8442b54eb3353c58856c826b847f2f0f3b81cb8a9317e927b0a78914e8e1f582854bb70f711a&scene=27#wechat_redirect)
-
-大自然的搬运工；知识库：https://www.heresecurity.wiki
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8fb652f29c63" alt="" />
 
 ---
 
@@ -60,6 +47,19 @@
 数字时代网安人才培养的践行者
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a824093cc3ce" alt="" />
+
+---
+
+
+### [关注安全技术](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4MDMwMjQ3Mg==)
+
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4MDMwMjQ3Mg==)
+
+[:camera_flash:【2023-05-11 11:40:10】](https://mp.weixin.qq.com/s?__biz=MzA4MDMwMjQ3Mg==&mid=2651868585&idx=1&sn=28d3b08b42f997beb1d220df9972478c&chksm=8442b54eb3353c58856c826b847f2f0f3b81cb8a9317e927b0a78914e8e1f582854bb70f711a&scene=27#wechat_redirect)
+
+大自然的搬运工；知识库：https://www.heresecurity.wiki
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8fb652f29c63" alt="" />
 
 ---
 
@@ -81,7 +81,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyMDEzMTA2MQ==)
 
-[:camera_flash:【2023-05-10 08:30:26】](https://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651164871&idx=1&sn=c93c13538e7851251caba931b5b713f8&chksm=8c218b5dbb56024b6a793fecd2e3b9175aefebee95617f706f6970accbc1c4dd649829488d34&scene=27#wechat_redirect)
+[:camera_flash:【2023-05-12 08:31:01】](https://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651164874&idx=1&sn=4467a45479c671a2d1bc78cc6b61c24b&chksm=8c218b50bb560246f5661213b04a4e2cdcc31984b1f4456ed8113a45741d4662db862ba7d731&scene=27#wechat_redirect)
 
 分享黑客技术和网络安全知识，让程序员了解黑客世界，学习黑客技术；普及上网和网络安全知识；帮助黑客、安全从业者、安全爱好者学习与成长。分享的所有技术和工具仅供学习之用。
 
@@ -549,7 +549,7 @@ NOVA SEC  新星安全 萌新启蒙之路 愿大家都能成为最闪耀的星�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5NzYxMjI5OA==)
 
-[:camera_flash:【2023-05-09 21:25:09】](https://mp.weixin.qq.com/s?__biz=Mzg5NzYxMjI5OA==&mid=2247485618&idx=1&sn=a7536311f7902329762711ca0eb50d8b&chksm=c06e67d7f719eec120d72ada75650456183345d9b029af12126e583c8ffd086337c23ff93592&scene=27#wechat_redirect)
+[:camera_flash:【2023-05-12 09:31:01】](https://mp.weixin.qq.com/s?__biz=Mzg5NzYxMjI5OA==&mid=2247485619&idx=1&sn=4249d8f56271a949b8903ae733fde8ad&chksm=c06e67d6f719eec026778c3813f145adc89fae324c8d3f851680d95f6b5648729a6a52d4c8e7&scene=27#wechat_redirect)
 
 致力于打造网络安全知识矩阵
 
@@ -588,7 +588,7 @@ NOVA SEC  新星安全 萌新启蒙之路 愿大家都能成为最闪耀的星�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MDk3NDc5Mg==)
 
-[:camera_flash:【2023-05-09 14:39:01】](https://mp.weixin.qq.com/s?__biz=MzI1MDk3NDc5Mg==&mid=2247484719&idx=1&sn=731a50cf71ff1c126c8da63dfe5e5fcf&chksm=e9fb4208de8ccb1e0ce356cd4f3c3a0fb9c2893327dee512b4a00aa3b696953ba74a52e205a3&scene=27#wechat_redirect)
+[:camera_flash:【2023-05-12 12:07:26】](https://mp.weixin.qq.com/s?__biz=MzI1MDk3NDc5Mg==&mid=2247484727&idx=1&sn=f4fd428ffa79c61400759be78b858b00&chksm=e9fb4210de8ccb0601cd325c366fae81b8274f22583cb95f1b450907f638dc1b2028835e2643&scene=27#wechat_redirect)
 
 审计，渗透，二进制，kali，分享圈子。
 
@@ -783,7 +783,7 @@ NOVA SEC  新星安全 萌新启蒙之路 愿大家都能成为最闪耀的星�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2MDQzMjY4NQ==)
 
-[:camera_flash:【2023-05-10 14:00:03】](https://mp.weixin.qq.com/s?__biz=Mzg2MDQzMjY4NQ==&mid=2247490592&idx=1&sn=8b0178940019d437d85e5bb00a2c019a&chksm=ce272c62f950a57436191c3ae7f53730c49da26f2e3916b2337c65ccf16b3b83317ee544043f&scene=27#wechat_redirect)
+[:camera_flash:【2023-05-12 14:00:51】](https://mp.weixin.qq.com/s?__biz=Mzg2MDQzMjY4NQ==&mid=2247490595&idx=1&sn=768615f33d3285d2f0fb3fea8a51a05c&chksm=ce272c61f950a5778bd517b8c1808c59393104eeafd4e1080605613f8cadf20d805e89668075&scene=27#wechat_redirect)
 
 这里是全网的网安人员聚集地！分享神秘的黑客技术、工具资源和网络信息安全领域的相关技能 。每天自动更新和推送 。
 
@@ -822,7 +822,7 @@ NOVA SEC  新星安全 萌新启蒙之路 愿大家都能成为最闪耀的星�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNzIxMjM3Mg==)
 
-[:camera_flash:【2023-05-11 13:40:11】](https://mp.weixin.qq.com/s?__biz=MzkyNzIxMjM3Mg==&mid=2247484806&idx=1&sn=f69f4d83612e64cfe23e6e2dcab5548a&chksm=c22a33bdf55dbaab1108a44d7a1622b8cd9ed7853956538d3abf4316e9e403006d4201cff509&scene=27#wechat_redirect)
+[:camera_flash:【2023-05-12 08:11:40】](https://mp.weixin.qq.com/s?__biz=MzkyNzIxMjM3Mg==&mid=2247484814&idx=1&sn=95f143e25898157b181c6813929d076e&chksm=c22a33b5f55dbaa3dcead62b62e59fda993e410820f1173782ac125b5349c17e2d6b1e815f1d&scene=27#wechat_redirect)
 
 专注安全研究、漏洞复现、代码审计等技术方向，有时会分享安全圈的资讯和职场分析！
 
