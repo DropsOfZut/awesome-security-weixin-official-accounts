@@ -1,17 +1,4 @@
 
-### [数据安全与取证](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyNzU0NjIyMg==)
-
-[:chart_with_upwards_trend:【1/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyNzU0NjIyMg==)
-
-[:camera_flash:【2023-05-08 09:32:03】](https://mp.weixin.qq.com/s?__biz=MzIyNzU0NjIyMg==&mid=2247487559&idx=1&sn=507f7cc8c4f2407195a2af8f55148ccb&chksm=e85ed546df295c5008e40f7a1f583c5f2e10b241d8a192d86aa4f7edebf41106720051ad4db1&scene=27#wechat_redirect)
-
-我们专注于电子取证技术的分享及司法鉴定实践的交流，涵盖了计算机取证、手机取证、电子物证、司法鉴定等众多领域，是电子取证公司与电子取证从业者交流学习的首选平台。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_336d761a246b" alt="" />
-
----
-
-
 ### [全频带阻塞干扰](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzMzE2OTQyNA==)
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzMzE2OTQyNA==)
@@ -99,6 +86,19 @@ Power by Gh0xE9 Team, Just join us &lt;3; Gh0xE9 Team Welcomes universities and 
 关注刑事证据科学前沿发展，传递电子物证技术最新趋势
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f624bd447b0f" alt="" />
+
+---
+
+
+### [数据安全与取证](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyNzU0NjIyMg==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyNzU0NjIyMg==)
+
+[:camera_flash:【2023-05-08 09:32:03】](https://mp.weixin.qq.com/s?__biz=MzIyNzU0NjIyMg==&mid=2247487559&idx=1&sn=507f7cc8c4f2407195a2af8f55148ccb&chksm=e85ed546df295c5008e40f7a1f583c5f2e10b241d8a192d86aa4f7edebf41106720051ad4db1&scene=27#wechat_redirect)
+
+我们专注于电子取证技术的分享及司法鉴定实践的交流，涵盖了计算机取证、手机取证、电子物证、司法鉴定等众多领域，是电子取证公司与电子取证从业者交流学习的首选平台。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_336d761a246b" alt="" />
 
 ---
 
