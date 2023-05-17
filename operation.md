@@ -1,7 +1,7 @@
 
 ### [系统安全运维](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NjE0NDc5OQ==)
 
-[:chart_with_upwards_trend:【0/48/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NjE0NDc5OQ==)
+[:chart_with_upwards_trend:【0/46/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NjE0NDc5OQ==)
 
 [:camera_flash:【2023-05-15 08:09:01】](https://mp.weixin.qq.com/s?__biz=Mzk0NjE0NDc5OQ==&mid=2247520524&idx=1&sn=7d9cb43367ff4f86676f31f93aa8b106&chksm=c308427cf47fcb6a9ce442057caafde7d22e5fe88a232e39d40f1a90f4c9d12848a4a283f600&scene=27#wechat_redirect)
 
@@ -14,7 +14,7 @@
 
 ### [kali黑客笔记](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzIwNTY1OA==)
 
-[:chart_with_upwards_trend:【16/19/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzIwNTY1OA==)
+[:chart_with_upwards_trend:【15/18/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzIwNTY1OA==)
 
 [:camera_flash:【2023-05-15 08:01:27】](https://mp.weixin.qq.com/s?__biz=MzkxMzIwNTY1OA==&mid=2247496260&idx=1&sn=5a0c8f73fe39b46fbe785e26ce033dfb&chksm=c10382b1f6740ba7ca355bd67e65ba041272cc89796460312d928d4e33bf586134a2ef8b4eee&scene=27#wechat_redirect)
 

@@ -1,9 +1,9 @@
 
 ### [启明星辰网络空间安全教育](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
 
-[:chart_with_upwards_trend:【3/18/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
+[:chart_with_upwards_trend:【1/13/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
 
-[:camera_flash:【2023-05-15 11:30:44】](https://mp.weixin.qq.com/s?__biz=MzUzNDg0NTc1NA==&mid=2247499984&idx=1&sn=a29b9de63fdff97b46c7ca516443ed3f&chksm=25ab8fa235f30a3a621d0a0c811fd0fa5ab34cbf0efd1669f828bf4287c807de9e720e090f4b&scene=27&key=83b5fef77f7308e133a487fbda0ff1cc2e5283fd204a4cd82afe215717937a0f448a0ad840f99e69dbc2f5efee3dc5c817403dd05b52a0d98270a49343976c244ce1430d32399ed5df2c09e1196010f1880a5acbfa6d6d5a37d6250cf528de4e04acc70a4ece4ca68d62dc80f8a4984adea6d28f5b15ecf4441f902aeb149cb1&ascene=15&uin=MzgxODQ4MjMz&devicetype=Windows+10+x64&version=63060012&lang=zh_CN&session_us=gh_dd8b72c1c127&countrycode=GY&exportkey=n_ChQIAhIQIryyGoB4icd5MCU0weQKfxLvAQIE97dBBAEAAAAAAEaPL97EtyoAAAAOpnltbLcz9gKNyK89dVj05%2FCmNOukeRiOgVHnvOuKLMLOjv52%2FuqTzss%2BM602MxFuWtdiuF%2FBGFprIDILjLE%2FIxw474l%2Bs0u2ygLXAhQCHXSjSdOXmWFAkflLFkb%2BYk9jWSvyRMlUtMGOoxxZq%2FYOJb%2BNnUUNJBqxJ1%2BApyPSwNCYH53hD1ktcGjZgIfqc295oeQ7GuGzc7D6geGXVxsHQW5FMb1XAdL1OaA5GTppxvjyYqKu3%2BU79CMdJgHq33EbLqJEiXBBC%2F6QeOh%2BYcXu9QrFP7nII2HI&acctmode=0&pass_ticket=GS5&scene=27#wechat_redirect)
+[:camera_flash:【2023-05-14 08:00:51】](https://mp.weixin.qq.com/s?__biz=MzUzNDg0NTc1NA==&mid=2247499961&idx=1&sn=88d695899d5668e6483f34d3f32d40c6&chksm=fa8c00eccdfb89fa7102d70ab91fe3cb4379a87f07ed41d39b025bf8a7b4bee2f0e40cb766c7&scene=27#wechat_redirect)
 
 启明星辰网络空间安全学院以国家网络安全事业发展为使命，依托启明星辰集团多年的技术沉淀及实践积累，提供网络安全人才体系构建与信息安全技术及能力提升教育培训，为建设网络强国提供有力的人才支撑。
 

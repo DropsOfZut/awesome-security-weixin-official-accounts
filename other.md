@@ -12,19 +12,6 @@
 ---
 
 
-### [白帽学子](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNzIxMjM3Mg==)
-
-[:chart_with_upwards_trend:【0/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNzIxMjM3Mg==)
-
-[:camera_flash:【2023-05-13 13:30:18】](https://mp.weixin.qq.com/s?__biz=MzkyNzIxMjM3Mg==&mid=2247484820&idx=1&sn=d7918573b6e8dc07f36690b64c966dd3&chksm=c22a33aff55dbab92d4bad2e9c1b3c2a385882ec24f2aae58a710cf6f7695d716c5f8a30985a&scene=27#wechat_redirect)
-
-专注安全研究、漏洞复现、代码审计等技术方向，有时会分享安全圈的资讯和职场分析！
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4bda7b44c1e3" alt="" />
-
----
-
-
 ### [小草培养创研中心](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxMDAwNzM3MQ==)
 
 [:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxMDAwNzM3MQ==)
@@ -34,19 +21,6 @@
 数字时代网安人才培养的践行者
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a824093cc3ce" alt="" />
-
----
-
-
-### [渗透测试教程](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3OTIwNDkzNQ==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3OTIwNDkzNQ==)
-
-[:camera_flash:【2023-04-18 17:22:33】](https://mp.weixin.qq.com/s?__biz=MzI3OTIwNDkzNQ==&mid=2651838532&idx=1&sn=86d0f19b01077fcd321c2dcc325ba656&chksm=f0b03d6cc7c7b47aa61792f3ebbdb76c3882e5891f368570714454bfe12f7cc93442cb951dd9&scene=27#wechat_redirect)
-
-只会分享安全技术文章，不会分享安全娱乐新闻。专注渗透测试、渗透自动化武器研发。记录分享学习路上的知识，祝你早日登上SRC英雄榜！
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_7e60f7442e6a" alt="" />
 
 ---
 
@@ -441,6 +415,19 @@ What is Security?
 ---
 
 
+### [渗透测试教程](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3OTIwNDkzNQ==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3OTIwNDkzNQ==)
+
+[:camera_flash:【2023-04-18 17:22:33】](https://mp.weixin.qq.com/s?__biz=MzI3OTIwNDkzNQ==&mid=2651838532&idx=1&sn=86d0f19b01077fcd321c2dcc325ba656&chksm=f0b03d6cc7c7b47aa61792f3ebbdb76c3882e5891f368570714454bfe12f7cc93442cb951dd9&scene=27#wechat_redirect)
+
+只会分享安全技术文章，不会分享安全娱乐新闻。专注渗透测试、渗透自动化武器研发。记录分享学习路上的知识，祝你早日登上SRC英雄榜！
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_7e60f7442e6a" alt="" />
+
+---
+
+
 ### [NOVASEC](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODU3ODA0MA==)
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODU3ODA0MA==)
@@ -827,6 +814,19 @@ NOVA SEC  新星安全 萌新启蒙之路 愿大家都能成为最闪耀的星�
 小资青年Ai4，有品味的青年公众号，在做资源分享的同时，也作为个人成长的记录！欢迎各位批评指正！
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_67ae989c4800" alt="" />
+
+---
+
+
+### [白帽学子](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNzIxMjM3Mg==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNzIxMjM3Mg==)
+
+[:camera_flash:【2023-05-13 13:30:18】](https://mp.weixin.qq.com/s?__biz=MzkyNzIxMjM3Mg==&mid=2247484820&idx=1&sn=d7918573b6e8dc07f36690b64c966dd3&chksm=c22a33aff55dbab92d4bad2e9c1b3c2a385882ec24f2aae58a710cf6f7695d716c5f8a30985a&scene=27#wechat_redirect)
+
+专注安全研究、漏洞复现、代码审计等技术方向，有时会分享安全圈的资讯和职场分析！
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4bda7b44c1e3" alt="" />
 
 ---
 
