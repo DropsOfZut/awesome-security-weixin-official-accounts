@@ -1,7 +1,7 @@
 
 ### [河南等级保护测评](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NjY2MTI3Mg==)
 
-[:chart_with_upwards_trend:【25/53/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NjY2MTI3Mg==)
+[:chart_with_upwards_trend:【24/51/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NjY2MTI3Mg==)
 
 [:camera_flash:【2023-05-15 00:00:15】](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247490079&idx=1&sn=d602c4998412c054da4e365cd4039d47&chksm=ce463ce8f931b5fe4f575ea6a1285e9fbccefc8ad3585e66afef5b7a46b975a650e0e59240c5&scene=27#wechat_redirect)
 
@@ -14,7 +14,7 @@
 
 ### [鼎信安全](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwOTc4MTE4Nw==)
 
-[:chart_with_upwards_trend:【0/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwOTc4MTE4Nw==)
+[:chart_with_upwards_trend:【0/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwOTc4MTE4Nw==)
 
 [:camera_flash:【2023-05-06 08:59:26】](https://mp.weixin.qq.com/s?__biz=MzIwOTc4MTE4Nw==&mid=2247495191&idx=1&sn=78aa8e4de59a8bd3c9bf02df2a1f5474&chksm=976c06bba01b8fad4e01fca8506a45d86cfac42b312acaa70305989bcfc50af888ece6a8673b&scene=27#wechat_redirect)
 
