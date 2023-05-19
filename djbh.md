@@ -1,7 +1,7 @@
 
 ### [河南等级保护测评](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NjY2MTI3Mg==)
 
-[:chart_with_upwards_trend:【24/51/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NjY2MTI3Mg==)
+[:chart_with_upwards_trend:【22/48/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NjY2MTI3Mg==)
 
 [:camera_flash:【2023-05-15 00:00:15】](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247490079&idx=1&sn=d602c4998412c054da4e365cd4039d47&chksm=ce463ce8f931b5fe4f575ea6a1285e9fbccefc8ad3585e66afef5b7a46b975a650e0e59240c5&scene=27#wechat_redirect)
 

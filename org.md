@@ -1,7 +1,7 @@
 
 ### [奇安信集团](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0NDk0NTAwMw==)
 
-[:chart_with_upwards_trend:【0/52/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0NDk0NTAwMw==)
+[:chart_with_upwards_trend:【0/50/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0NDk0NTAwMw==)
 
 [:camera_flash:【2023-05-15 18:05:23】](https://mp.weixin.qq.com/s?__biz=MzU0NDk0NTAwMw==&mid=2247591393&idx=1&sn=32804b4d4de4113e4f3f0a935bed595e&chksm=fb7743e5cc00caf37044066edf7ee2d7801e8cd9c19cee4cbcb27abfac6f5884722f687c0cf0&scene=27#wechat_redirect)
 
