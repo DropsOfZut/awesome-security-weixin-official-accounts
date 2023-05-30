@@ -1,9 +1,9 @@
 
 ### [商密君](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
 
-[:chart_with_upwards_trend:【0/75/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
+[:chart_with_upwards_trend:【0/71/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
 
-[:camera_flash:【2023-05-28 21:27:26】](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247601694&idx=1&sn=3ebe344d6d707b094e1312713285c94a&chksm=ec575e45db20d75301c46e8db3c66d86d821961394ed9a8a16760b499ee5a026837fd14610d2&scene=27#wechat_redirect)
+[:camera_flash:【2023-05-29 21:51:10】](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247601772&idx=1&sn=acdb9921f8f8812761010c44f2b515d7&chksm=ec575e37db20d7214c52d11b6fc7a4f58e231eded4131efeef64a6f10e418541e10a7d0aee9e&scene=27#wechat_redirect)
 
 商密君是全国密码行业头部公众号，旨在宣传推广《密码法》，普及商用密码知识，解读密码政策，分享商用密码行业的最新动态，为密码产业产学研用做好宣传服务，连接密码全行业精英，推动密码技术在数字经济各行业的应用和创新。
 
@@ -14,9 +14,9 @@
 
 ### [掌控安全EDU](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
 
-[:chart_with_upwards_trend:【21/21/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
+[:chart_with_upwards_trend:【20/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
 
-[:camera_flash:【2023-05-28 11:38:56】](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247527172&idx=1&sn=7f55dc8c11ee55c6732fd044e29a044d&chksm=fa6b1275cd1c9b633f83695b388981b5af4443d50d1559952147d821adaee0276c24a9349424&scene=27#wechat_redirect)
+[:camera_flash:【2023-05-29 11:35:32】](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247527201&idx=1&sn=765d4766b5b1a3fa1780937244b8b769&chksm=fa6b1250cd1c9b463644b797abe24801d744c1f9e5ea16f091b79bc04994e6a8407151d67d89&scene=27#wechat_redirect)
 
 安全教程\\高质量文章\\面试经验分享，尽在#掌控安全EDU#
 
@@ -38,19 +38,6 @@
 ---
 
 
-### [君哥的体历](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MjQ1NTA4MA==)
-
-[:chart_with_upwards_trend:【3/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MjQ1NTA4MA==)
-
-[:camera_flash:【2023-05-25 07:31:32】](https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247489705&idx=1&sn=ea251c3172cc3efc843649639d896d3a&chksm=ea4bb2eedd3c3bf815460a116f467600edd72e6a0b654e7702c42b1af5a464ab72fdedaabf35&scene=27#wechat_redirect)
-
-闲暇时间，逼迫自己，记录分享体验与经历，不求正确统一，但求真、善、美。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_aa4d8db71365" alt="" />
-
----
-
-
 ### [表图](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzOTI4NDQ3NA==)
 
 [:chart_with_upwards_trend:【6/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzOTI4NDQ3NA==)
@@ -60,6 +47,19 @@
 坚信少却更好，坚定元认知传播，坚持安全美学，拿个主题，讲300秒就够了。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_717c729949b7" alt="" />
+
+---
+
+
+### [君哥的体历](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MjQ1NTA4MA==)
+
+[:chart_with_upwards_trend:【2/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MjQ1NTA4MA==)
+
+[:camera_flash:【2023-05-25 07:31:32】](https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247489705&idx=1&sn=ea251c3172cc3efc843649639d896d3a&chksm=ea4bb2eedd3c3bf815460a116f467600edd72e6a0b654e7702c42b1af5a464ab72fdedaabf35&scene=27#wechat_redirect)
+
+闲暇时间，逼迫自己，记录分享体验与经历，不求正确统一，但求真、善、美。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_aa4d8db71365" alt="" />
 
 ---
 
@@ -198,7 +198,7 @@ OWASP中国，SecZone互联网安全研究中心官方平台
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
 
-[:camera_flash:【2023-05-27 23:30:04】](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247498245&idx=1&sn=5dc41a80330b7c3566203e38fac26b7f&chksm=c14488b8f63301ae5544d338dae65cb6f2328cada9e88bb98e4fbe56e210b6161868a7d3c6e9&scene=27#wechat_redirect)
+[:camera_flash:【2023-05-29 23:30:35】](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247498259&idx=1&sn=984e79666804baae4c21a8644d802f56&chksm=c14488aef63301b83e3a3148bbaa3c5456d0f67a8d8589fb733c433fac0c569e53b9e35330cb&scene=27#wechat_redirect)
 
 中国数字产业领域中立的第三方调研机构，提供网络安全行业的调查、研究与咨询服务。
 
