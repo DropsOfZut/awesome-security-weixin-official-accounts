@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【0/26/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NjA0NjI5MQ==)
 
-[:camera_flash:【2023-05-31 21:02:25】](https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650177356&idx=1&sn=dffb1ce5381cf2890c7b00046e6904a4&chksm=f44884f0c33f0de6ff7a495838e86622e984b61cf1781fd319e42a47f1b1f6b4fc6148a9aacf&scene=27#wechat_redirect)
+[:camera_flash:【2023-06-01 08:36:19】](https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650177357&idx=1&sn=24c34c999e34fe5424af0380ae4c801b&chksm=f44884f1c33f0de7a3734b6ba43e44470fbebce2f9dd409125e921ed2d3e16b6f2344739afb6&scene=27#wechat_redirect)
 
 数字时代网络威胁应对专家
 
@@ -79,7 +79,7 @@
 
 ### [信息时代的犯罪侦查](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxNTA4NDAwOQ==)
 
-[:chart_with_upwards_trend:【4/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxNTA4NDAwOQ==)
+[:chart_with_upwards_trend:【4/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxNTA4NDAwOQ==)
 
 [:camera_flash:【2023-05-22 15:35:05】](https://mp.weixin.qq.com/s?__biz=MzAxNTA4NDAwOQ==&mid=2650736828&idx=1&sn=9313b7f2a1b622d58f5692b73f6434e8&chksm=8382d83ab4f5512c8ed9c6355e9380c559d3c19486ec9e0696b26e1904ac63dfc7a6f0a4d35c&scene=27#wechat_redirect)
 
@@ -237,7 +237,7 @@ Seebug，原 Sebug 漏洞平台，洞悉漏洞，让你掌握第一手漏洞情�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3Mjc1MTkwOA==)
 
-[:camera_flash:【2023-05-31 12:39:45】](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650531396&idx=1&sn=0e6402b160c097b066489c41ea7b60a4&chksm=8716c80fb06141194dd47f887efbe43a0ee57b78802f135e8b4037bcc531d38bbc4cf387db5e&scene=27#wechat_redirect)
+[:camera_flash:【2023-06-01 10:16:09】](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650531459&idx=1&sn=b4c591a15608c763b2cc851f799067fb&chksm=8716c8c8b06141de0cda2189f63b65877bf00f67d67b962f0f3b9e96fccae0ca6c74ee9ee555&scene=27#wechat_redirect)
 
 刘硕教授团队：聚焦情报与安全！关注情报动态，开展情报培训，促进情报协作，传播情报文化，优化情报生态，共建情报分析师职业共同体。
 

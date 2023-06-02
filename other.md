@@ -1,7 +1,7 @@
 
 ### [全球技术地图](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1OTExNDY1NQ==)
 
-[:chart_with_upwards_trend:【19/47/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1OTExNDY1NQ==)
+[:chart_with_upwards_trend:【19/46/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1OTExNDY1NQ==)
 
 [:camera_flash:【2023-05-31 17:04:38】](https://mp.weixin.qq.com/s?__biz=MzI1OTExNDY1NQ==&mid=2651603823&idx=1&sn=ab9b3e8bfbd8978b2402e9d951f465fa&chksm=f185309fc6f2b98905ec8d3c687fd9b4bdcb20c8a3b7be610fe46a2dde180eaecb033f5f4493&scene=27#wechat_redirect)
 
@@ -55,7 +55,7 @@
 
 [:chart_with_upwards_trend:【9/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4ODYzMjU0NQ==)
 
-[:camera_flash:【2023-05-31 17:17:36】](https://mp.weixin.qq.com/s?__biz=MzA4ODYzMjU0NQ==&mid=2652313324&idx=1&sn=a4d9eba5542f274d2c68e9966fc8425d&chksm=8bc48b62bcb30274728b4a20b21adeb047b3bcf601c7e4788293fa1f71ed717263667a065011&scene=27#wechat_redirect)
+[:camera_flash:【2023-06-01 17:15:28】](https://mp.weixin.qq.com/s?__biz=MzA4ODYzMjU0NQ==&mid=2652313325&idx=1&sn=a95677a1833292418e67e0c7861a7b80&chksm=8bc48b63bcb302756bcaab7f3d1199f6dd9dae948a768f1f8bd7f273198c53d54d173c14199f&scene=27#wechat_redirect)
 
 网络安全研究国际学术论坛（InForSec），由活跃在安全学术圈的段海新教授、杨珉教授、韦韬博士、万涛博士等共同发起，在网络和系统安全领域建立一座沟通中国和国际、学术和工业、老师和学生的桥梁。
 

@@ -1,9 +1,9 @@
 
 ### [计算机与网络安全](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTk4MDE2MA==)
 
-[:chart_with_upwards_trend:【0/178/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTk4MDE2MA==)
+[:chart_with_upwards_trend:【0/176/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTk4MDE2MA==)
 
-[:camera_flash:【2023-05-31 07:32:19】](https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655200834&idx=1&sn=45f5e5d319c5603a5457d4ca7f5bd508&chksm=bc84bbad8bf332bb2aa001239143bd73ef69aba729eedce519316ab0f86affc2c46be9d9681c&scene=27#wechat_redirect)
+[:camera_flash:【2023-06-02 07:38:51】](https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655200946&idx=1&sn=c161324091d9ce61847b96fa503c5f21&chksm=bc84bb5d8bf3324b0ef77183f674e8c5f73b1079a7aa80f79ad8c2dcd946287241811b3dd36e&scene=27#wechat_redirect)
 
 帮助安全从业者、安全爱好者学习与成长。
 
@@ -14,7 +14,7 @@
 
 ### [祺印说信安](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5MzU5MzQzMA==)
 
-[:chart_with_upwards_trend:【46/67/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5MzU5MzQzMA==)
+[:chart_with_upwards_trend:【46/65/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5MzU5MzQzMA==)
 
 [:camera_flash:【2023-06-01 00:00:31】](https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652099967&idx=1&sn=55095c5306815b9fc45f28a427a02e80&chksm=8bbcff46bccb76505f23c59c8776c523555e830593cbcecfb37ce44a7b8705f76d0c243808cf&scene=27#wechat_redirect)
 
@@ -27,7 +27,7 @@
 
 ### [河南等级保护测评](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NjY2MTI3Mg==)
 
-[:chart_with_upwards_trend:【31/67/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NjY2MTI3Mg==)
+[:chart_with_upwards_trend:【30/65/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NjY2MTI3Mg==)
 
 [:camera_flash:【2023-06-01 00:01:08】](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247490232&idx=1&sn=1c77b771372bf5ec9be586f7a303678c&chksm=ce463c4ff931b5594d5d518ce0a5d36a3d3a89e67ff08a5b7ab11abe567a93be6a3a1cfeb8e0&scene=27#wechat_redirect)
 
@@ -172,7 +172,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNzAwOTQxMg==)
 
-[:camera_flash:【2023-05-31 10:16:37】](https://mp.weixin.qq.com/s?__biz=MzIwNzAwOTQxMg==&mid=2652248812&idx=1&sn=4ab303f931b35e94161a980ad9f7668f&chksm=8cfa5907bb8dd0115c6a4368db9161b62e6a80d2ac00ac8ebcb2c2e1573db880d1215cf4a9f6&scene=27#wechat_redirect)
+[:camera_flash:【2023-06-01 11:44:19】](https://mp.weixin.qq.com/s?__biz=MzIwNzAwOTQxMg==&mid=2652248824&idx=1&sn=bb433b75b1de198ece71e6a18b400d29&chksm=8cfa5913bb8dd005e481c97deb8eeeb11baca393cef222f0bdb2ba3c77e2c63b7ec4ade5bbdc&scene=27#wechat_redirect)
 
 信息安全等保测评、信息安全服务；云卫士CDS-容灾备份、智能安全网关、智能网络管理产品支持服务；智云iSC-云平台、云服务技术支持服务；朗云iOT-物联网产品支持服务。
 
