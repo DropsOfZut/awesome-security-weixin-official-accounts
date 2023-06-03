@@ -1,26 +1,13 @@
 
 ### [商密君](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
 
-[:chart_with_upwards_trend:【0/60/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
+[:chart_with_upwards_trend:【0/56/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
 
-[:camera_flash:【2023-06-01 17:37:13】](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247602094&idx=1&sn=a68d7800b22915ad7724df9fafff24bf&chksm=ec575ff5db20d6e35568265750b14c35f19449dc0eb799f6b8cd3614a4bb262b54e0585d7e4c&scene=27#wechat_redirect)
+[:camera_flash:【2023-06-02 14:06:33】](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247602168&idx=1&sn=b6bc0d2618c482b3373369261141385a&chksm=ec575fa3db20d6b5c0a7465dc55ec0fb6cbafa00426e544034cf6c4f47e899eb9acdc406598c&scene=27#wechat_redirect)
 
 商密君是全国密码行业头部公众号，旨在宣传推广《密码法》，普及商用密码知识，解读密码政策，分享商用密码行业的最新动态，为密码产业产学研用做好宣传服务，连接密码全行业精英，推动密码技术在数字经济各行业的应用和创新。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a02c9d0e1990" alt="" />
-
----
-
-
-### [掌控安全EDU](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
-
-[:chart_with_upwards_trend:【17/17/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
-
-[:camera_flash:【2023-06-01 12:00:02】](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247527266&idx=1&sn=30f8d84a1b2bb627d9a3c494fbe6e506&chksm=fa6b1213cd1c9b057d75354af12a52290c4e2ff7957a1f114291ffffe3482df028a12f1bd7aa&scene=27#wechat_redirect)
-
-安全教程\\高质量文章\\面试经验分享，尽在#掌控安全EDU#
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_c028a5199606" alt="" />
 
 ---
 
@@ -34,6 +21,19 @@
 中国数字产业领域中立的第三方调研机构，提供网络安全行业的调查、研究与咨询服务。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_bacd64503774" alt="" />
+
+---
+
+
+### [掌控安全EDU](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
+
+[:chart_with_upwards_trend:【16/16/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
+
+[:camera_flash:【2023-06-02 12:00:05】](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247527290&idx=1&sn=5ff3ee1e6b8c9fe5c57b9762b5c2020b&chksm=fa6b120bcd1c9b1d84f4302e525be20c52eaf463c4bcda445dd1d2047dfeb842543f03a27b70&scene=27#wechat_redirect)
+
+安全教程\\高质量文章\\面试经验分享，尽在#掌控安全EDU#
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_c028a5199606" alt="" />
 
 ---
 

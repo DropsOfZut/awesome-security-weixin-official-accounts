@@ -25,19 +25,6 @@
 ---
 
 
-### [IoT物联网技术](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
-
-[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
-
-[:camera_flash:【2023-05-05 19:24:43】](https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&mid=2454930546&idx=1&sn=a2e76cf7f360d07e94cf9023b90d1e19&chksm=b167093d8610802b9e812fb40dcac5c8c08293342cbeba64f7b969256c38b18db411336e0b41&scene=27#wechat_redirect)
-
-国内最大IoT物联网开发者社区，1000+行业资料分享；集结 AWS，阿里云，华为云，微软Azure，百度云 物联网专家；通信模组，物联网卡厂商；智能家居，工业制造，智慧城市解决方案商。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_5617c1b503e7" alt="" />
-
----
-
-
 ### [网络安全自学](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3NzQ3NzY4OA==)
 
 [:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3NzQ3NzY4OA==)
@@ -47,6 +34,19 @@
 网络安全自学交流，提高效率，少走弯路
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_1d8521f5d38e" alt="" />
+
+---
+
+
+### [IoT物联网技术](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
+
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
+
+[:camera_flash:【2023-05-05 19:24:43】](https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&mid=2454930546&idx=1&sn=a2e76cf7f360d07e94cf9023b90d1e19&chksm=b167093d8610802b9e812fb40dcac5c8c08293342cbeba64f7b969256c38b18db411336e0b41&scene=27#wechat_redirect)
+
+国内最大IoT物联网开发者社区，1000+行业资料分享；集结 AWS，阿里云，华为云，微软Azure，百度云 物联网专家；通信模组，物联网卡厂商；智能家居，工业制造，智慧城市解决方案商。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_5617c1b503e7" alt="" />
 
 ---
 
@@ -211,7 +211,7 @@ Power by Gh0xE9 Team, Just join us &lt;3; Gh0xE9 Team Welcomes universities and 
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
 
-[:camera_flash:【2023-06-01 22:05:10】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247582520&idx=1&sn=3abe8a10ed924c71aabe3a47b36458c5&chksm=fc03d3f2cb745ae42efa0f69c2c26dcdea1cbac63abc70733a0e9f3010acb08ccf9ff694d9b8&scene=27#wechat_redirect)
+[:camera_flash:【2023-06-02 22:58:53】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247582559&idx=1&sn=736ae9082cd75f8f9f95423cb54b1426&chksm=fc03d395cb745a83b49e542bc06e178099c614646e9a9d0e721e1f3aa108a2d72ee4f025aa96&scene=27#wechat_redirect)
 
 为智能网联汽车行业专业人士提供信息和网络安全技术、产品及服务等行业发展最新咨询
 

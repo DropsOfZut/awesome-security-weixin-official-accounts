@@ -1,9 +1,9 @@
 
 ### [计算机与网络安全](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTk4MDE2MA==)
 
-[:chart_with_upwards_trend:【0/176/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTk4MDE2MA==)
+[:chart_with_upwards_trend:【0/174/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTk4MDE2MA==)
 
-[:camera_flash:【2023-06-02 07:38:51】](https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655200946&idx=1&sn=c161324091d9ce61847b96fa503c5f21&chksm=bc84bb5d8bf3324b0ef77183f674e8c5f73b1079a7aa80f79ad8c2dcd946287241811b3dd36e&scene=27#wechat_redirect)
+[:camera_flash:【2023-06-03 08:03:08】](https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655201010&idx=1&sn=bbac72dbd1a787325abac57606c3b1ba&chksm=bc84bb1d8bf3320b3db72f639ae7d30d1fbf60debd537581c58184bfd69bcd40671a80f67a1a&scene=27#wechat_redirect)
 
 帮助安全从业者、安全爱好者学习与成长。
 
@@ -12,28 +12,28 @@
 ---
 
 
-### [祺印说信安](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5MzU5MzQzMA==)
-
-[:chart_with_upwards_trend:【46/65/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5MzU5MzQzMA==)
-
-[:camera_flash:【2023-06-01 00:00:31】](https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652099967&idx=1&sn=55095c5306815b9fc45f28a427a02e80&chksm=8bbcff46bccb76505f23c59c8776c523555e830593cbcecfb37ce44a7b8705f76d0c243808cf&scene=27#wechat_redirect)
-
-学习网络安全、说网络安全；共同致力于网络安全、网络安全等级保护。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_9c4aaf253255" alt="" />
-
----
-
-
 ### [河南等级保护测评](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NjY2MTI3Mg==)
 
-[:chart_with_upwards_trend:【30/65/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NjY2MTI3Mg==)
+[:chart_with_upwards_trend:【29/64/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NjY2MTI3Mg==)
 
 [:camera_flash:【2023-06-01 00:01:08】](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247490232&idx=1&sn=1c77b771372bf5ec9be586f7a303678c&chksm=ce463c4ff931b5594d5d518ce0a5d36a3d3a89e67ff08a5b7ab11abe567a93be6a3a1cfeb8e0&scene=27#wechat_redirect)
 
 做对用户有真实价值的网络安全服务，等级保护测评、风险评估、网络安全培训、网络安全咨询、网络安全合规。传播网络安全知识，分享网络安全政策，共建风清气正的网络安全氛围。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f87e87030547" alt="" />
+
+---
+
+
+### [祺印说信安](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5MzU5MzQzMA==)
+
+[:chart_with_upwards_trend:【46/63/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5MzU5MzQzMA==)
+
+[:camera_flash:【2023-06-01 00:00:31】](https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652099967&idx=1&sn=55095c5306815b9fc45f28a427a02e80&chksm=8bbcff46bccb76505f23c59c8776c523555e830593cbcecfb37ce44a7b8705f76d0c243808cf&scene=27#wechat_redirect)
+
+学习网络安全、说网络安全；共同致力于网络安全、网络安全等级保护。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_9c4aaf253255" alt="" />
 
 ---
 
@@ -172,7 +172,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNzAwOTQxMg==)
 
-[:camera_flash:【2023-06-01 11:44:19】](https://mp.weixin.qq.com/s?__biz=MzIwNzAwOTQxMg==&mid=2652248824&idx=1&sn=bb433b75b1de198ece71e6a18b400d29&chksm=8cfa5913bb8dd005e481c97deb8eeeb11baca393cef222f0bdb2ba3c77e2c63b7ec4ade5bbdc&scene=27#wechat_redirect)
+[:camera_flash:【2023-06-02 10:05:26】](https://mp.weixin.qq.com/s?__biz=MzIwNzAwOTQxMg==&mid=2652248829&idx=1&sn=009858ed0616babede0325cf7b17d8fc&chksm=8cfa5916bb8dd00045602d1e5446fa760db12e19e33083991732de2137538e0d33bd29cb7363&scene=27#wechat_redirect)
 
 信息安全等保测评、信息安全服务；云卫士CDS-容灾备份、智能安全网关、智能网络管理产品支持服务；智云iSC-云平台、云服务技术支持服务；朗云iOT-物联网产品支持服务。
 
