@@ -1,9 +1,9 @@
 
 ### [商密君](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
 
-[:chart_with_upwards_trend:【0/44/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
+[:chart_with_upwards_trend:【0/40/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
 
-[:camera_flash:【2023-06-05 16:34:23】](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247602372&idx=1&sn=2b687d8f5b184187e3cdb641d178c6b7&chksm=ec57409fdb20c9890f258a396c95cb8c2b1744f6cea12bef57000bd8130f48ed174f936a24aa&scene=27#wechat_redirect)
+[:camera_flash:【2023-06-06 14:29:46】](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247602433&idx=1&sn=c00b31d95c2afe00bc7fe9537173a2fa&chksm=ec57415adb20c84cac47d777dcf8efdd282ad7a57b69837a420f818203c8cf9176f9e410644b&scene=27#wechat_redirect)
 
 商密君是全国密码行业头部公众号，旨在宣传推广《密码法》，普及商用密码知识，解读密码政策，分享商用密码行业的最新动态，为密码产业产学研用做好宣传服务，连接密码全行业精英，推动密码技术在数字经济各行业的应用和创新。
 
@@ -40,9 +40,9 @@
 
 ### [掌控安全EDU](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
 
-[:chart_with_upwards_trend:【13/13/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
+[:chart_with_upwards_trend:【12/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
 
-[:camera_flash:【2023-06-05 11:22:26】](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247527645&idx=1&sn=ba6999b067e116107481104fdc5e0ff4&chksm=fa6b15accd1c9cbac8e94fc7301b5efa68d97947d9ecf84f2f7a0677c804ba8eb39bac1d39a3&scene=27#wechat_redirect)
+[:camera_flash:【2023-06-06 12:00:19】](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247527708&idx=1&sn=8bf23c077d932b07f1d2329dea6495bd&chksm=fa6b146dcd1c9d7b91a15cff11a06e78858a64269f573f4de007838898e826783afc337688e7&scene=27#wechat_redirect)
 
 安全教程\\高质量文章\\面试经验分享，尽在#掌控安全EDU#
 

@@ -25,19 +25,6 @@
 ---
 
 
-### [网络安全自学](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3NzQ3NzY4OA==)
-
-[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3NzQ3NzY4OA==)
-
-[:camera_flash:【2023-03-04 23:59:51】](https://mp.weixin.qq.com/s?__biz=MzI3NzQ3NzY4OA==&mid=2247483994&idx=1&sn=55a10929bb77937ffba451d152e1b197&chksm=eb64e20ddc136b1b48d482c11d611fb1b5919b3b53fd9e778603c65bd96ceeb3290919fdf90d&scene=27#wechat_redirect)
-
-网络安全自学交流，提高效率，少走弯路
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_1d8521f5d38e" alt="" />
-
----
-
-
 ### [全频带阻塞干扰](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzMzE2OTQyNA==)
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzMzE2OTQyNA==)
@@ -198,7 +185,7 @@ Power by Gh0xE9 Team, Just join us &lt;3; Gh0xE9 Team Welcomes universities and 
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
 
-[:camera_flash:【2023-06-05 22:32:51】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247582831&idx=1&sn=e1d51334cc0a2f43c4ff7d88905c499c&chksm=fc03d4a5cb745db32bcb53e08cd6cd83691903d2621a805566e4f3f16803947fb7bc2947d8a9&scene=27#wechat_redirect)
+[:camera_flash:【2023-06-06 22:33:13】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247582996&idx=1&sn=fb53a91a3cf51f164d061b3428798fee&chksm=fc03d5decb745cc81067d926cc3948dafae598542cb5829e4c48a341bd1d1f9b8ddf10e0fcc7&scene=27#wechat_redirect)
 
 为智能网联汽车行业专业人士提供信息和网络安全技术、产品及服务等行业发展最新咨询
 
@@ -281,6 +268,19 @@ Power by Gh0xE9 Team, Just join us &lt;3; Gh0xE9 Team Welcomes universities and 
 吉林省信睿网络官方公众号
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_18cae47da613" alt="" />
+
+---
+
+
+### [网络安全自学](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3NzQ3NzY4OA==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3NzQ3NzY4OA==)
+
+[:camera_flash:【2023-03-04 23:59:51】](https://mp.weixin.qq.com/s?__biz=MzI3NzQ3NzY4OA==&mid=2247483994&idx=1&sn=55a10929bb77937ffba451d152e1b197&chksm=eb64e20ddc136b1b48d482c11d611fb1b5919b3b53fd9e778603c65bd96ceeb3290919fdf90d&scene=27#wechat_redirect)
+
+网络安全自学交流，提高效率，少走弯路
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_1d8521f5d38e" alt="" />
 
 ---
 
