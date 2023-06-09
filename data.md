@@ -1,9 +1,9 @@
 
 ### [数据安全域](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNzM0NzA3Ng==)
 
-[:chart_with_upwards_trend:【0/37/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNzM0NzA3Ng==)
+[:chart_with_upwards_trend:【0/35/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNzM0NzA3Ng==)
 
-[:camera_flash:【2023-05-31 15:48:08】](https://mp.weixin.qq.com/s?__biz=MzkyNzM0NzA3Ng==&mid=2247508556&idx=1&sn=ed4011262a1c101c4c3385b9a4d37302&chksm=c22b9aa7f55c13b10410bbfe31e243bab19b1b502b84fac6dfbc216d0c94e4aa36e317781d5b&scene=27#wechat_redirect)
+[:camera_flash:【2023-06-08 17:24:11】](https://mp.weixin.qq.com/s?__biz=MzkyNzM0NzA3Ng==&mid=2247508945&idx=1&sn=b0f4b312c969300a841a470a4e8f4b97&chksm=c22b9b3af55c122c8ead7e2021f26e32d7151b01e5f19c217d452902df689394e6bb12e8ec80&scene=27#wechat_redirect)
 
 聚焦数据安全领域内最新产业动态信息，包含新闻资讯、政策文章、发展现状、趋势态势等。
 
@@ -14,7 +14,7 @@
 
 ### [谈数据](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1NzYwNTMzNw==)
 
-[:chart_with_upwards_trend:【1/28/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1NzYwNTMzNw==)
+[:chart_with_upwards_trend:【1/27/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1NzYwNTMzNw==)
 
 [:camera_flash:【2023-05-30 07:30:03】](https://mp.weixin.qq.com/s?__biz=MzI1NzYwNTMzNw==&mid=2247513750&idx=1&sn=557955cd12f0eaac981030da9f44809c&chksm=5009cc893b6044cce70195848ab87d8561b5ed825a663f029701754f449a78c7ecf3520d6fa6&scene=27&key=7cd14728e6fa64a2c70597e0234f5646814efc44cd0cf35621425e17bedc6699d0a822a508213f40cb56f3e3b96f251d605b93d40206422ebca705b76b7d9d83e59488c1661e1b4d77a8aa15ea233bd0550818839f6f9a261c3770aa9a3b667a5469d53a6e78a3d4fc0469359f66e050a1f47bc1dc5dcc28f01b8f630ce25b69&ascene=15&uin=MTI5ODM0MTMwNQ%3D%3D&devicetype=Windows+10+x64&version=63060012&lang=zh_CN&session_us=gh_c844687d05d6&exportkey=n_ChQIAhIQuDzgXPKYcdfi3jPi57vfdhLvAQIE97dBBAEAAAAAAG40IgOrZ4UAAAAOpnltbLcz9gKNyK89dVj0LQI%2Ft9xYm85p%2BQemyMyor7xYpEoHw9yURZp7vFOUUZy1lckgFCYULqeTjnBi36j%2FvjZhx9x8Rji%2BMQBPsEkGQjPH34vmLGvKw2Lq5pb1RlEWf91TfaRwsSQGhooWP9TCU6bj9y9DtMKyEh8opyhRmX4si2oh03t%2Fs2BSclUWN4Z5SB9q5REnsKBN1ztQOaCQ1UphOsnTO6SkMlmD2oOm3q0leISpJwt8jZTS%2BOJAcjYfeK0W%2BX2iveqi%2Fr2ZToVmxrdw0833VxKA&acctmode=0&pass_ticket=Y%2BRwtx%2FA%2FLffuK&scene=27#wechat_redirect)
 
@@ -27,26 +27,13 @@
 
 ### [商业智能研究](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzg5MTI0OQ==)
 
-[:chart_with_upwards_trend:【2/17/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzg5MTI0OQ==)
+[:chart_with_upwards_trend:【2/16/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzg5MTI0OQ==)
 
-[:camera_flash:【2023-05-31 21:00:48】](https://mp.weixin.qq.com/s?__biz=MzIwMzg5MTI0OQ==&mid=2247522234&idx=1&sn=c2895e29308ff3d5639b1f44e09427c7&chksm=96caa0e4a1bd29f2d1eca04367c9a0140f04cdcc48155fc7999635d42a4ca9e040aeb8df21d4&scene=27#wechat_redirect)
+[:camera_flash:【2023-06-08 21:21:48】](https://mp.weixin.qq.com/s?__biz=MzIwMzg5MTI0OQ==&mid=2247522947&idx=1&sn=b3c89eb4102a2998115f38e503939a61&chksm=96caaddda1bd24cb04355f02f10fc17d944649e6567118bd2c2778e080f0b8d41aacb9af8708&scene=27#wechat_redirect)
 
 专注于企业数据化应用、大数据BI技术和理论观点的研究，致力于让数据成为企业真正的生产力！帆软数据应用研究院旗下账号。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_7c85d5aeb85d" alt="" />
-
----
-
-
-### [杭州数据安全联盟](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyMjI2MDE2Mg==)
-
-[:chart_with_upwards_trend:【0/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyMjI2MDE2Mg==)
-
-[:camera_flash:【2023-05-31 17:05:44】](https://mp.weixin.qq.com/s?__biz=MzkyMjI2MDE2Mg==&mid=2247496855&idx=1&sn=32cf127067c937e528a09d9246bea690&chksm=c1f5b33af6823a2cbaa89fb348bbc1b24cd555104b78287473ac714cc35dc10325601c1a52f4&scene=27#wechat_redirect)
-
-杭州数据安全联盟是由杭州市数据资源管理局业务主管和指导的社会团体组织。本订阅号作为杭州数据安全联盟新闻宣传、资源发布和信息共享的公众平台，实时发布杭州数据安全相关信息，助力数智杭州发展。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4959e361d8ba" alt="" />
 
 ---
 
@@ -64,15 +51,15 @@
 ---
 
 
-### [数据安全共同体计划](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MDcxODc5NA==)
+### [杭州数据安全联盟](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyMjI2MDE2Mg==)
 
-[:chart_with_upwards_trend:【1/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MDcxODc5NA==)
+[:chart_with_upwards_trend:【0/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyMjI2MDE2Mg==)
 
-[:camera_flash:【2023-05-31 08:30:27】](https://mp.weixin.qq.com/s?__biz=Mzg5MDcxODc5NA==&mid=2247489097&idx=1&sn=d871808068d4a49c7860a02a30de75f4&chksm=cfd9096cf8ae807a9ff8c6013c017618012a233e15c530c55caec04e57410abe5c9c5c124908&scene=27#wechat_redirect)
+[:camera_flash:【2023-05-31 17:05:44】](https://mp.weixin.qq.com/s?__biz=MzkyMjI2MDE2Mg==&mid=2247496855&idx=1&sn=32cf127067c937e528a09d9246bea690&chksm=c1f5b33af6823a2cbaa89fb348bbc1b24cd555104b78287473ac714cc35dc10325601c1a52f4&scene=27#wechat_redirect)
 
-“数据安全共同体计划”为了促进《数据安全法》《个人信息保护法》落地实施，推动数据开发利用和数据安全领域的技术推广和产业创新，致力于促进数据安全产业链各环节的交流与合作，推动数据安全政策、技术、人才多要素良性互动，构建数据安全产业生态共同体。
+杭州数据安全联盟是由杭州市数据资源管理局业务主管和指导的社会团体组织。本订阅号作为杭州数据安全联盟新闻宣传、资源发布和信息共享的公众平台，实时发布杭州数据安全相关信息，助力数智杭州发展。
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_385b203e9e03" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4959e361d8ba" alt="" />
 
 ---
 
@@ -94,7 +81,7 @@
 
 [:chart_with_upwards_trend:【3/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2OTczNjMwNQ==)
 
-[:camera_flash:【2023-05-23 16:32:21】](https://mp.weixin.qq.com/s?__biz=Mzg2OTczNjMwNQ==&mid=2247486430&idx=1&sn=61ab7d21cc6626d1b40dbe1cc241f236&chksm=ce99c1c0f9ee48d629b9f68e2ee4f1fd0b4f7802412d27664552165867700d3d4d2b98469455&scene=27#wechat_redirect)
+[:camera_flash:【2023-06-08 17:11:22】](https://mp.weixin.qq.com/s?__biz=Mzg2OTczNjMwNQ==&mid=2247486438&idx=1&sn=c5ba9c0632371078262231184ec96aa5&chksm=ce99c1f8f9ee48ee8424807dae6b9cc8fa6173de9a4c3e52f37c147be28151acce8941a328f3&scene=27#wechat_redirect)
 
 发布国内数据安全产业动态信息，包含新闻资讯、政策文件、发展现状、趋势态势等。设置中国数据安全产业大会、数据安全产业发展成果展、数据安全创新大赛和数据安全产业培训等专栏，实时更新发布系列活动最新内容与进展。链接工信部数据安全相关公共服务平台。
 
@@ -112,6 +99,19 @@
 数据在流动，可见才安全
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0bd30f1b0430" alt="" />
+
+---
+
+
+### [数据安全共同体计划](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MDcxODc5NA==)
+
+[:chart_with_upwards_trend:【1/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MDcxODc5NA==)
+
+[:camera_flash:【2023-05-31 08:30:27】](https://mp.weixin.qq.com/s?__biz=Mzg5MDcxODc5NA==&mid=2247489097&idx=1&sn=d871808068d4a49c7860a02a30de75f4&chksm=cfd9096cf8ae807a9ff8c6013c017618012a233e15c530c55caec04e57410abe5c9c5c124908&scene=27#wechat_redirect)
+
+“数据安全共同体计划”为了促进《数据安全法》《个人信息保护法》落地实施，推动数据开发利用和数据安全领域的技术推广和产业创新，致力于促进数据安全产业链各环节的交流与合作，推动数据安全政策、技术、人才多要素良性互动，构建数据安全产业生态共同体。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_385b203e9e03" alt="" />
 
 ---
 
@@ -172,7 +172,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxNDgyNTg0NQ==)
 
-[:camera_flash:【2023-05-31 17:06:36】](https://mp.weixin.qq.com/s?__biz=MzIxNDgyNTg0NQ==&mid=2247491020&idx=1&sn=2cfebd2355dde69829becccd22b6a898&chksm=97a0f3d6a0d77ac0884b84d3f99b403bc81482b3b7aa61b7f9faed44aa9bc70a332dd19c74af&scene=27#wechat_redirect)
+[:camera_flash:【2023-06-08 18:03:29】](https://mp.weixin.qq.com/s?__biz=MzIxNDgyNTg0NQ==&mid=2247491071&idx=1&sn=5a881d65a8cdc4d9391b219124067882&chksm=97a0f3e5a0d77af3512a882f9d75a6bdf49ae193e2997d660cb2a334997bb5511f38145030d7&scene=27#wechat_redirect)
 
 中伦文德网络安全与数据合规专委会
 

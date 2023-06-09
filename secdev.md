@@ -1,9 +1,9 @@
 
 ### [商密君](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
 
-[:chart_with_upwards_trend:【0/36/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
+[:chart_with_upwards_trend:【0/32/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
 
-[:camera_flash:【2023-06-07 18:39:21】](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247602549&idx=1&sn=af143a600fff8c246f7eb0aec673d3b0&chksm=ec57412edb20c838257ff114c75be0588178684b9708cbbc9f3cbb63379596a8d5a40a97410a&scene=27#wechat_redirect)
+[:camera_flash:【2023-06-08 14:18:10】](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247602643&idx=1&sn=9cbc2f3002a2fab6f3cfca69e8262229&chksm=ec574188db20c89e0be37c5d800e8f6be053c89a5c42e8a1a1ef50b8530cf5d0ce320225a593&scene=27#wechat_redirect)
 
 商密君是全国密码行业头部公众号，旨在宣传推广《密码法》，普及商用密码知识，解读密码政策，分享商用密码行业的最新动态，为密码产业产学研用做好宣传服务，连接密码全行业精英，推动密码技术在数字经济各行业的应用和创新。
 
@@ -38,19 +38,6 @@
 ---
 
 
-### [掌控安全EDU](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
-
-[:chart_with_upwards_trend:【11/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
-
-[:camera_flash:【2023-06-07 13:26:21】](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247527798&idx=1&sn=a72784acde2197996642c8a0e6ec43e0&chksm=fa6b1407cd1c9d117338bc3841030c43dcaebb1c9488ae5890f417f6b6d1d39c31c8093bb406&scene=27#wechat_redirect)
-
-安全教程\\高质量文章\\面试经验分享，尽在#掌控安全EDU#
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_c028a5199606" alt="" />
-
----
-
-
 ### [全栈网络空间安全](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
 
 [:chart_with_upwards_trend:【0/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
@@ -64,28 +51,41 @@
 ---
 
 
-### [君哥的体历](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MjQ1NTA4MA==)
+### [掌控安全EDU](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
 
-[:chart_with_upwards_trend:【2/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MjQ1NTA4MA==)
+[:chart_with_upwards_trend:【10/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
 
-[:camera_flash:【2023-06-07 07:30:49】](https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247489732&idx=1&sn=b7e39b433635fa50c70ab0549960f838&chksm=ea4bb283dd3c3b957b7efccdbc6913426497a29038c9558f59e5fa9cbec99b6f735294592ea1&scene=27#wechat_redirect)
+[:camera_flash:【2023-06-08 12:00:33】](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247527823&idx=1&sn=4f08aef3d51da972becee54206885ad6&chksm=fa6b14fecd1c9de8de443eacc8bd30a5ee6464e961d706af477ea74ea1474b04a5ec3807710d&scene=27#wechat_redirect)
 
-闲暇时间，逼迫自己，记录分享体验与经历，不求正确统一，但求真、善、美。
+安全教程\\高质量文章\\面试经验分享，尽在#掌控安全EDU#
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_aa4d8db71365" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_c028a5199606" alt="" />
 
 ---
 
 
 ### [悬镜安全说](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwODc2NjgwMg==)
 
-[:chart_with_upwards_trend:【5/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwODc2NjgwMg==)
+[:chart_with_upwards_trend:【4/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwODc2NjgwMg==)
 
-[:camera_flash:【2023-05-26 20:57:44】](https://mp.weixin.qq.com/s?__biz=MzAwODc2NjgwMg==&mid=2649110964&idx=1&sn=a77ab08a51d3a8d18707dd3d4e86eb53&chksm=837b4d89b40cc49f874a45f9227421e171eda9972045fb10c593516647b443df511cd233a700&scene=27#wechat_redirect)
+[:camera_flash:【2023-06-08 20:02:40】](https://mp.weixin.qq.com/s?__biz=MzAwODc2NjgwMg==&mid=2649111062&idx=1&sn=8439f8acdb4605996bc21157e1815eaf&chksm=837b4e2bb40cc73d4751cf9e7b4827f5d9dc4dc50264e0439113e08c8f4389144a02d9a144b7&scene=27#wechat_redirect)
 
 悬镜安全，DevSecOps敏捷安全领导者，创始人子芽。专注于以代码疫苗技术为内核，通过原创专利级第三代DevSecOps智适应威胁管理体系，持续赋能数千家行业标杆用户，帮助其构筑起内生积极防御体系。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_7dd1a6c278da" alt="" />
+
+---
+
+
+### [君哥的体历](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MjQ1NTA4MA==)
+
+[:chart_with_upwards_trend:【2/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MjQ1NTA4MA==)
+
+[:camera_flash:【2023-06-07 07:30:49】](https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247489732&idx=1&sn=b7e39b433635fa50c70ab0549960f838&chksm=ea4bb283dd3c3b957b7efccdbc6913426497a29038c9558f59e5fa9cbec99b6f735294592ea1&scene=27#wechat_redirect)
+
+闲暇时间，逼迫自己，记录分享体验与经历，不求正确统一，但求真、善、美。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_aa4d8db71365" alt="" />
 
 ---
 
