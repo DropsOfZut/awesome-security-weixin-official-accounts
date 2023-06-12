@@ -1,7 +1,7 @@
 
 ### [启明星辰网络空间安全教育](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
 
-[:chart_with_upwards_trend:【2/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
+[:chart_with_upwards_trend:【2/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
 
 [:camera_flash:【2023-06-09 17:00:22】](https://mp.weixin.qq.com/s?__biz=MzUzNDg0NTc1NA==&mid=2247500524&idx=1&sn=6717095613d6b468b44b637bb4fcdff2&chksm=fa8c02b9cdfb8baf8037781b116860b3368f6945c145c46c3b18ff5a5b43a6363764087933d7&scene=27#wechat_redirect)
 
@@ -42,7 +42,7 @@
 
 [:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NjUzODYyNw==)
 
-[:camera_flash:【2023-05-30 20:05:31】](https://mp.weixin.qq.com/s?__biz=Mzg4NjUzODYyNw==&mid=2247484209&idx=1&sn=1676fdab18b20fa23f4cbec3ca8acc01&chksm=cf996bddf8eee2cb07f7ccf2d713057c8074ee79152b2debbe296045ecc1ec2f48dfc6677f07&scene=27#wechat_redirect)
+[:camera_flash:【2023-06-11 11:55:12】](https://mp.weixin.qq.com/s?__biz=Mzg4NjUzODYyNw==&mid=2247484253&idx=1&sn=75e0a51278dad1f4df0810f1a7c48b44&chksm=cf996bb1f8eee2a78015d708ea6cb3ff0666d0200a32290ac7951bdc60be4326763f1fc175a9&scene=27#wechat_redirect)
 
 南宁职业技术学院网络安全技术协会
 
