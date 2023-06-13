@@ -1,9 +1,9 @@
 
 ### [系统安全运维](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NjE0NDc5OQ==)
 
-[:chart_with_upwards_trend:【0/29/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NjE0NDc5OQ==)
+[:chart_with_upwards_trend:【0/27/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NjE0NDc5OQ==)
 
-[:camera_flash:【2023-06-12 08:08:59】](https://mp.weixin.qq.com/s?__biz=Mzk0NjE0NDc5OQ==&mid=2247520750&idx=1&sn=527c9c5bd7d65ffb026856940d27e574&chksm=c308429ef47fcb889a5a039f0e3bfbba62b8afaec5e3e5392750c4bb35c6a0f2f120828750e4&scene=27#wechat_redirect)
+[:camera_flash:【2023-06-13 08:08:06】](https://mp.weixin.qq.com/s?__biz=Mzk0NjE0NDc5OQ==&mid=2247520751&idx=1&sn=c3fea4c13e7e01b2825e7c28b6d4ad02&chksm=c308429ff47fcb899b5b62c508a35d71166554af4d4c3e8788feb6dec0a7776b93ad5460a6e7&scene=27#wechat_redirect)
 
 未知攻 焉知防 攻防兼备
 
@@ -29,7 +29,7 @@ Docker中文社区旨在为大家提供 Docker、Kubernetes 相关工具及前�
 
 [:chart_with_upwards_trend:【2/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzIwNTY1OA==)
 
-[:camera_flash:【2023-06-11 08:00:25】](https://mp.weixin.qq.com/s?__biz=MzkxMzIwNTY1OA==&mid=2247496606&idx=1&sn=ae7e05a03ac2729e53b1fa52a78e46ba&chksm=c103836bf6740a7d87bb51025fe64f44eee6e2ca75a2eb5de2e04dbbd2266e2200260e98b0d9&scene=27#wechat_redirect)
+[:camera_flash:【2023-06-12 11:04:15】](https://mp.weixin.qq.com/s?__biz=MzkxMzIwNTY1OA==&mid=2247496631&idx=1&sn=e6fdf3658568c5da8f68bb098d8c6e8c&chksm=c1038342f6740a54c7ee1f5f1c31f7f73f3aa6e7146e61e3df5b08700e1188e268724f582a68&scene=27#wechat_redirect)
 
 发布关于kali相关文章。Debian Centos等操作系统的安全和运维。以及树莓派 ESP8266 DIY单片机等相关安全领域的文章。旨在掌握技术和原理的前提下，更好的保护自身网络安全。反对一切危害网络安全的行为，造成法律后果请自负。
 
