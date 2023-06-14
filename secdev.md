@@ -1,22 +1,9 @@
 
-### [商密君](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
-
-[:chart_with_upwards_trend:【0/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
-
-[:camera_flash:【2023-06-12 17:58:25】](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247602947&idx=1&sn=f8ee5076011aa3bafb93cb2c728d8596&chksm=ec574358db20ca4ec76a4bb22db6ad0ca700d9ec4fe4a50ceb5138bac1c48b0a652c0aa0ca33&scene=27#wechat_redirect)
-
-商密君是全国密码行业头部公众号，旨在宣传推广《密码法》，普及商用密码知识，解读密码政策，分享商用密码行业的最新动态，为密码产业产学研用做好宣传服务，连接密码全行业精英，推动密码技术在数字经济各行业的应用和创新。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a02c9d0e1990" alt="" />
-
----
-
-
 ### [数世咨询](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
 
 [:chart_with_upwards_trend:【2/17/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
 
-[:camera_flash:【2023-06-12 19:01:05】](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247498414&idx=1&sn=d09c1bcb3849f24eb6b9f24530f464ab&chksm=c1448813f6330105e3f0b179cfb922f12ccb2490a9e0683f899225e05628f47f3940db488344&scene=27#wechat_redirect)
+[:camera_flash:【2023-06-13 17:01:05】](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247498443&idx=1&sn=92f6e8af6e3ac41fce8d543ed4b4383d&chksm=c1448876f633016050d402a4e5051aa09890468b218bc3be8b0142b3d8bb480e81e3122bc06f&scene=27#wechat_redirect)
 
 中国数字产业领域中立的第三方调研机构，提供网络安全行业的调查、研究与咨询服务。
 
@@ -25,11 +12,24 @@
 ---
 
 
+### [商密君](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
+
+[:chart_with_upwards_trend:【0/16/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
+
+[:camera_flash:【2023-06-13 19:52:33】](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247603060&idx=1&sn=9b868c106473b983e0ed3cbec2c727e3&chksm=ec57432fdb20ca39d515ccd32caa74b6293709a63943cd1b4f026e2302b842ad1a331e635a7a&scene=27#wechat_redirect)
+
+商密君是全国密码行业头部公众号，旨在宣传推广《密码法》，普及商用密码知识，解读密码政策，分享商用密码行业的最新动态，为密码产业产学研用做好宣传服务，连接密码全行业精英，推动密码技术在数字经济各行业的应用和创新。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a02c9d0e1990" alt="" />
+
+---
+
+
 ### [深圳市网络与信息安全行业协会](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
 
 [:chart_with_upwards_trend:【0/14/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
 
-[:camera_flash:【2023-06-12 22:19:43】](https://mp.weixin.qq.com/s?__biz=MzU0Mzk0NDQyOA==&mid=2247508554&idx=1&sn=78b7d94c2516ec26b33c11f255c15236&chksm=fb0159c9cc76d0df9c586a7d0d09b57c75a60706b5f502ff37384bfb3ce41a093b467493df88&scene=27#wechat_redirect)
+[:camera_flash:【2023-06-13 17:56:33】](https://mp.weixin.qq.com/s?__biz=MzU0Mzk0NDQyOA==&mid=2247508574&idx=1&sn=1739fa161f5e69dc1d29ac40a532f4ad&chksm=fb0159ddcc76d0cbfb4068f30659c2a5cdaf8f1dc2d2d4337062b780062fbaeec958c85c316a&scene=27#wechat_redirect)
 
 深圳市网络与信息安全行业协会（SNISA），是深圳市网络与信息安全行业的权威组织，是中国网络安全审查技术与认证中心（CCRC）在深圳唯一授权工作站，是经深圳市人力资源和社会保障局核准，开展网络空间安全工程技术专业职称评审工作的社会组织。
 
@@ -42,7 +42,7 @@
 
 [:chart_with_upwards_trend:【0/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
 
-[:camera_flash:【2023-06-13 00:00:48】](https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247507328&idx=1&sn=78ed2a3540d51693ba7f5f490b0c62e4&chksm=cf3d614df84ae85bf756881b46b6cdf3ef48e04eeab0b3f01f7b3012f864e82f81a591897918&scene=27#wechat_redirect)
+[:camera_flash:【2023-06-14 00:00:10】](https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247507374&idx=1&sn=d0798af8a6d78bf1088322cf2aa6efcc&chksm=cf3d6163f84ae875b08152aaa567b6ace2ee7f9cf591de21d45c5b7c818b4265ff8c44198cb9&scene=27#wechat_redirect)
 
 做一个会思考的全栈网络空间安全者
 
@@ -53,9 +53,9 @@
 
 ### [掌控安全EDU](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
 
-[:chart_with_upwards_trend:【6/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
+[:chart_with_upwards_trend:【5/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
 
-[:camera_flash:【2023-06-12 11:08:51】](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247528235&idx=1&sn=71bda5ea6aeecc6e02f0ec26a64f4740&chksm=fa6b165acd1c9f4c1bbbd153384a9b34be78c9c2c07ce77e952104c9253c07ef1679a216444b&scene=27#wechat_redirect)
+[:camera_flash:【2023-06-13 12:00:51】](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247528270&idx=1&sn=eb41d35071390665f982ff7d3f27312e&chksm=fa6b163fcd1c9f2929b13cc5e9de825d44a6ff7d5b258a1e2579d9515a828bb43e4a33daaff6&scene=27#wechat_redirect)
 
 安全教程\\高质量文章\\面试经验分享，尽在#掌控安全EDU#
 

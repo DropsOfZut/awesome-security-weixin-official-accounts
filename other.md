@@ -1,9 +1,9 @@
 
 ### [全球技术地图](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1OTExNDY1NQ==)
 
-[:chart_with_upwards_trend:【11/27/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1OTExNDY1NQ==)
+[:chart_with_upwards_trend:【11/26/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1OTExNDY1NQ==)
 
-[:camera_flash:【2023-06-12 17:04:09】](https://mp.weixin.qq.com/s?__biz=MzI1OTExNDY1NQ==&mid=2651604159&idx=1&sn=a4632c8d41355c1adf6989057ded48db&chksm=f185374fc6f2be59545a9ed2a16e6d0bd57d60015b92755db4f2327b8ec3270b5cd20c9a6d77&scene=27#wechat_redirect)
+[:camera_flash:【2023-06-13 17:08:16】](https://mp.weixin.qq.com/s?__biz=MzI1OTExNDY1NQ==&mid=2651604194&idx=1&sn=62a719b4e8a6c90159250b6255df6c38&chksm=f1853712c6f2be0445f7079a7d04423b5a74aacb7c93d72f7cf6c65a4d7daa8f1a1ac660eb0d&scene=27#wechat_redirect)
 
 洞见前沿，引领未来。
 
@@ -14,9 +14,9 @@
 
 ### [信安黑客技术](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2MDQzMjY4NQ==)
 
-[:chart_with_upwards_trend:【0/17/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2MDQzMjY4NQ==)
+[:chart_with_upwards_trend:【0/16/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2MDQzMjY4NQ==)
 
-[:camera_flash:【2023-06-12 14:00:47】](https://mp.weixin.qq.com/s?__biz=Mzg2MDQzMjY4NQ==&mid=2247491592&idx=1&sn=cb4a327f03d01a8ac6ddb2f4773087f6&chksm=ce24d04af953595c139c117f44f604daa18236bed61bb4bd2727b7baf703148d1bed0ace4bf9&scene=27#wechat_redirect)
+[:camera_flash:【2023-06-13 14:00:35】](https://mp.weixin.qq.com/s?__biz=Mzg2MDQzMjY4NQ==&mid=2247491603&idx=1&sn=93cb287d57a3c9a422864d7e31c3464c&chksm=ce24d051f95359474e6db6735144cd2d7d443d87a9012838b20d10157c17dea309bc573effa6&scene=27#wechat_redirect)
 
 这里是全网的网安人员聚集地！分享神秘的黑客技术、工具资源和网络信息安全领域的相关技能 。每天自动更新和推送 。
 
@@ -29,7 +29,7 @@
 
 [:chart_with_upwards_trend:【0/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNzIxMjM3Mg==)
 
-[:camera_flash:【2023-06-13 08:11:45】](https://mp.weixin.qq.com/s?__biz=MzkyNzIxMjM3Mg==&mid=2247485093&idx=1&sn=8723369e1df700872a5d1eeead1eaa4d&chksm=c22a309ef55db9881c695b77285536b2eb93d37b9eea75e6986ccb3db67f4852969a2cbd1987&scene=27#wechat_redirect)
+[:camera_flash:【2023-06-14 08:11:24】](https://mp.weixin.qq.com/s?__biz=MzkyNzIxMjM3Mg==&mid=2247485099&idx=1&sn=e1fa28a7719e2594765624ed93f640e9&chksm=c22a3090f55db986ab677497c7db0b16b13292e5235bbe580ba03a40db45e6aac034e2035c24&scene=27#wechat_redirect)
 
 专注安全研究、漏洞复现、代码审计等技术方向，有时会分享安全圈的资讯和职场分析！
 
@@ -42,7 +42,7 @@
 
 [:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwNTI4MTA1MQ==)
 
-[:camera_flash:【2023-06-12 14:04:53】](https://mp.weixin.qq.com/s?__biz=MzkwNTI4MTA1MQ==&mid=2247500594&idx=1&sn=802c512c09880d8969062118b905e34a&chksm=c0f8a846f78f215028f4cd2bda56a51e7009f5d24c19afa8f59e16584b48433f97b3bc8701c1&scene=27#wechat_redirect)
+[:camera_flash:【2023-06-13 16:15:56】](https://mp.weixin.qq.com/s?__biz=MzkwNTI4MTA1MQ==&mid=2247500599&idx=1&sn=60786ff8f6f6739bd3060e667b94a78b&chksm=c0f8a843f78f2155f5513f8f4ab568b03c5e89d089ddae5eebed512283c7293eeb7ff670d729&scene=27#wechat_redirect)
 
 安全服务
 
@@ -120,7 +120,7 @@ WgpSec 狼组安全团队由几位热爱网络安全的年轻人一同组成过�
 
 [:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4ODYzMjU0NQ==)
 
-[:camera_flash:【2023-06-09 18:52:58】](https://mp.weixin.qq.com/s?__biz=MzA4ODYzMjU0NQ==&mid=2652313478&idx=1&sn=25bf62b1112c2d19a20a0de3eae9cd13&chksm=8bc48a08bcb3031eeae19b49242ad8556d0e1b27c4ccce3d44d01333fef1b7d897d1f26f8a56&scene=27#wechat_redirect)
+[:camera_flash:【2023-06-13 17:30:41】](https://mp.weixin.qq.com/s?__biz=MzA4ODYzMjU0NQ==&mid=2652313482&idx=1&sn=362326302d6c59a7a5b3ece8889c03b6&chksm=8bc48a04bcb30312002a4ba7b7eaf42b44bc56f679304c79dcd68cf06b0cb24ab8775afad0f0&scene=27#wechat_redirect)
 
 网络安全研究国际学术论坛（InForSec），由活跃在安全学术圈的段海新教授、杨珉教授、韦韬博士、万涛博士等共同发起，在网络和系统安全领域建立一座沟通中国和国际、学术和工业、老师和学生的桥梁。
 
@@ -133,7 +133,7 @@ WgpSec 狼组安全团队由几位热爱网络安全的年轻人一同组成过�
 
 [:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MDk3NDc5Mg==)
 
-[:camera_flash:【2023-06-10 22:19:24】](https://mp.weixin.qq.com/s?__biz=MzI1MDk3NDc5Mg==&mid=2247484761&idx=1&sn=9af64d5c48a8dbcadfe6346557663137&chksm=e9fb427ede8ccb68bf18be090b7dddeb1519746b6fb2073e631df5daf5055ec1c9609f58f386&scene=27#wechat_redirect)
+[:camera_flash:【2023-06-13 12:03:39】](https://mp.weixin.qq.com/s?__biz=MzI1MDk3NDc5Mg==&mid=2247484768&idx=1&sn=8a397a0e3f97e905f943d6cd220ecdbc&chksm=e9fb4247de8ccb51ceb02f0a895f6fac2f7c6c2c05ca97fc9022e9d909309c5faf34d03bb50e&scene=27#wechat_redirect)
 
 审计，渗透，二进制，kali，分享圈子。
 
@@ -172,7 +172,7 @@ WgpSec 狼组安全团队由几位热爱网络安全的年轻人一同组成过�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyMDEzMTA2MQ==)
 
-[:camera_flash:【2023-06-10 16:03:04】](https://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651164992&idx=1&sn=83035549a306fad49d9bb484f3417c23&chksm=8c218adabb5603cc53a979697db13ba0778fe67de9581ff8d63a48f01ac56ff3fc1d0e717d7b&scene=27#wechat_redirect)
+[:camera_flash:【2023-06-13 10:28:00】](https://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651165028&idx=1&sn=73fc4fa402b62928234836fd90117088&chksm=8c218afebb5603e8a8150103724c997fad2c6c4fc88ea2d4f3e2f8fb4bac6277f608f1952423&scene=27#wechat_redirect)
 
 分享黑客技术和网络安全知识，让程序员了解黑客世界，学习黑客技术；普及上网和网络安全知识；帮助黑客、安全从业者、安全爱好者学习与成长。分享的所有技术和工具仅供学习之用。
 
@@ -601,7 +601,7 @@ NOVA SEC  新星安全 萌新启蒙之路 愿大家都能成为最闪耀的星�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwMDQwNTE5MA==)
 
-[:camera_flash:【2023-06-13 00:02:03】](https://mp.weixin.qq.com/s?__biz=MzAwMDQwNTE5MA==&mid=2650246752&idx=2&sn=3d4585e9e11328a21e474eed10275b09&chksm=82ea55c9b59ddcdf66fd816791bbc16cf29c7318f9926da43f3349cc5fd4bb8897944eaab059&scene=27#wechat_redirect)
+[:camera_flash:【2023-06-14 00:00:38】](https://mp.weixin.qq.com/s?__biz=MzAwMDQwNTE5MA==&mid=2650246756&idx=1&sn=37bf12daf370387b999570891ece5981&chksm=82ea55cdb59ddcdb78c30fc213d557eb2bb794315fb343453bb949472c253c1f9a80da271f59&scene=27#wechat_redirect)
 
 每天会发信息安全的事件文章，让大家了解更多信息安全知识和资讯。
 
