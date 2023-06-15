@@ -14,7 +14,7 @@
 
 ### [启明星辰网络空间安全教育](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
 
-[:chart_with_upwards_trend:【2/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
+[:chart_with_upwards_trend:【1/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
 
 [:camera_flash:【2023-06-13 17:06:42】](https://mp.weixin.qq.com/s?__biz=MzUzNDg0NTc1NA==&mid=2247500565&idx=1&sn=c3dd3842e944bec4a0681c399dcebe9c&chksm=fa8c0340cdfb8a566965280d46ac6eb6a5ce7b974e49edbb99c73c77e429a3994754e4845eea&scene=27#wechat_redirect)
 
@@ -107,7 +107,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
 
-[:camera_flash:【2023-06-13 20:15:42】](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247486547&idx=1&sn=3828683f251fe755b3840369b1049a61&chksm=fdeb882dca9c013bd6fc44d57ef3170fa2cb8b89f2c8c6ec7df8a878c8b9c33891a8aa65ffe9&scene=27#wechat_redirect)
+[:camera_flash:【2023-06-14 17:37:58】](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247486563&idx=1&sn=0deef9fed08fb3089bcfd87a252c295b&chksm=fdeb881dca9c010bf07ef84c48ba4f5241555fc470f47ca1efcf078f8710a95c85b152547693&scene=27#wechat_redirect)
 
 以复旦大学系统安全实验室学生为主成立的安全攻防战队，分享最新研究成果，交流系统安全攻防领域技巧。
 
@@ -237,7 +237,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM0MjA5OA==)
 
-[:camera_flash:【2022-11-26 18:45:56】](https://mp.weixin.qq.com/s?__biz=MzI5NTM0MjA5OA==&mid=2247484261&idx=1&sn=83806ec6a6945573a1fa26377423a1f9&chksm=ec545a18db23d30ed2675e9a555ce5d427590efeb7f3d417b064725ec465a001fcddb3663d2e&scene=27#wechat_redirect)
+[:camera_flash:【2023-06-01 02:19:10】](https://mp.weixin.qq.com/s?__biz=MzI5NTM0MjA5OA==&mid=2247484352&idx=1&sn=c9f5b9e54c676148a2e74ed2831fef80&chksm=ec545abddb23d3abaca3262a7983dbbb552f73079c6d5274c3216b639893252d88f7ef1cc85a&scene=27#wechat_redirect)
 
 发布信息安全技术及相关竞赛信息。
 
@@ -380,7 +380,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4MDgyNzU5Mg==)
 
-[:camera_flash:【2023-06-12 18:30:52】](https://mp.weixin.qq.com/s?__biz=MzU4MDgyNzU5Mg==&mid=2247484909&idx=1&sn=a7f1085bc5b5e3fe35696b6f7ad86e24&chksm=fd51a54aca262c5cf32a422bea5ebc046074cbabb24ffc2900954e09785eeb74721dc1c101cf&scene=27#wechat_redirect)
+[:camera_flash:【2023-06-14 09:00:31】](https://mp.weixin.qq.com/s?__biz=MzU4MDgyNzU5Mg==&mid=2247484916&idx=1&sn=5d9af93f1946e5538bdbf40125ef8ee8&chksm=fd51a553ca262c45e51c22854ebc10e946c47f5a25fa7b0fba6a981526db9df7ff90ddbda5f3&scene=27#wechat_redirect)
 
 集学习训练、竞赛实战为一体的网络安全在线能力提升平台
 
@@ -432,7 +432,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyNzU3Mzg2NQ==)
 
-[:camera_flash:【2023-02-21 17:30:13】](https://mp.weixin.qq.com/s?__biz=MzIyNzU3Mzg2NQ==&mid=2247486307&idx=1&sn=01f73ee3bf42aabd2f48f917f49d223c&chksm=e85e6265df29eb738e3886b3e8caf69930e65d2bac5368d9224bf5bb745af4808be071ae6a1f&scene=27&key=19dd869acb0b898aa8f327e996be7d732cc50ce00a1681660449bcfbec5b9da53da92d54a2238565be3468aff55cda3b7fe400027fd1f9922e8b91fcdc80c9d0ade4476f8d61aadb32e96f5fde8a9888d4061978d491b0c49e7f5c10a94d3464ecd89161249dc83419fa8661fd0f34e67439a55444a925f164eb01a2922ac9b3&ascene=15&uin=MTA3Mzc3OTIzNQ%3D%3D&devicetype=Windows+10+x64&version=6308011a&lang=zh_CN&session_us=gh_884fc3cf7c45&exportkey=n_ChQIAhIQdkRVgXMGFnFDi3DNd6ZnfxLvAQIE97dBBAEAAAAAAANjMEDVjSYAAAAOpnltbLcz9gKNyK89dVj0%2B0vhPvITP5fU14oUHAtwUmqOXHIwzSDTwEQGDQIvHg8xN0shNQvhOymp0iI%2FsSN%2FqN%2FPXbiDyNDHNi7c7SHrfZK9yFBY762BmAPA1O5jHHPSneUuMalTHL%2BY6nXu9U4LGyz8d0gw0zpH6p0wlfqtOQBGsIdcZwvCZAFQ%2B4Qx2%2BABiobYC3rWUs%2FfO66FQsC4yuRkckBzzYOX%2BWSrV7r%2Ffp8DdCHY1VDjiwU%2BP%2BjDJe9ka6N8ObRYMkkXU5K1CA4uvlC3dyDLFgey&acctmode=0&pass_ticket=xxdLNtg5ilEu&scene=27#wechat_redirect)
+[:camera_flash:【2023-06-13 17:30:15】](https://mp.weixin.qq.com/s?__biz=MzIyNzU3Mzg2NQ==&mid=2247486541&idx=1&sn=a1d163da6b51c5fc29d29d26025ee833&chksm=e85e654bdf29ec5d31ca964f25cb0f0e010083700af5f6c7adbe2492252c4b7754696da7f785&key=094fe642087a4fbe54d5bc0c64c93c24316b466afe7aa47d13584b7449b725dae1ce46576f487746aeaf961068a29d71b9866f9beffae14ccb226cc0d477d574121d8f13eb888251e5a05213ba14d058cbf6e6314bbe418b0d16590b1de3febf8f39b09e91873867dff46efb60ca224d717927e43a56b0447a685ef6003e0318&ascene=51&uin=NTY2NTA4NjQ%3D&devicetype=Windows+10+x64&version=63060012&lang=zh_CN&session_us=gh_a6ba8f92d07d&countrycode=AL&exportkey=n_ChQIAhIQdWfLDaDRptQfHroQ%2FL6swhLuAQIE97dBBAEAAAAAALvYCC3v0x8AAAAOpnltbLcz9gKNyK89dVj03kvz3q9O%2Fg%2BICu34o1XqfrGY6tWnkcZRRFuL9uS6vn1MJmcRFuvKfOhmaQl4AzpdM6IDR6I7CyI0Az5Djano6W5xLdzORWorPwXk3VaC2B%2BgcFQWmR6iFgrUTzbD6A0DmcbKVulF3N%2B3xalIRps1kaNwJZQb5q7RNIpNZNW6Yv6IhlKv48%2F4pfPyGseUWhE55eK%2FJatz9cy9StuXrWYV3ipNRlagm4uB5nibdMRJmItTQOS9hoacdojKQ0ZbxAHqgCO1v91yu10%3D&acctmode=0&pass_ticket=TWVLKy4Y%2F9OdKjwATU&scene=27#wechat_redirect)
 
 网安学院拥有专业教学服务、就业指导，课程配套靶场实战平台（www.hetianlab.com），学员学完就练，切实提升实践动手能力；课程涵盖Web安全、软件安全、网络安全等网安各个相关方面。
 
