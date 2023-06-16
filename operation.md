@@ -1,7 +1,7 @@
 
 ### [系统安全运维](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NjE0NDc5OQ==)
 
-[:chart_with_upwards_trend:【0/23/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NjE0NDc5OQ==)
+[:chart_with_upwards_trend:【0/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NjE0NDc5OQ==)
 
 [:camera_flash:【2023-06-15 08:08:06】](https://mp.weixin.qq.com/s?__biz=Mzk0NjE0NDc5OQ==&mid=2247520753&idx=1&sn=cdb428abf3e630e84e9c9361c157e549&chksm=c3084281f47fcb97e292e699ddbfffa41c33021898f30ab1d652b155f62f1b25a602b4e95ea2&scene=27#wechat_redirect)
 
@@ -25,19 +25,6 @@ Docker中文社区旨在为大家提供 Docker、Kubernetes 相关工具及前�
 ---
 
 
-### [kali黑客笔记](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzIwNTY1OA==)
-
-[:chart_with_upwards_trend:【2/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzIwNTY1OA==)
-
-[:camera_flash:【2023-06-14 11:00:40】](https://mp.weixin.qq.com/s?__biz=MzkxMzIwNTY1OA==&mid=2247496667&idx=1&sn=894bc7782a4ecd1b064fd5364683cb97&chksm=c103832ef6740a38ee3e4dad181c1bf0249716baa8c33d3d2eb8c079925ff76aaa5ed3c44ae8&scene=27#wechat_redirect)
-
-发布关于kali相关文章。Debian Centos等操作系统的安全和运维。以及树莓派 ESP8266 DIY单片机等相关安全领域的文章。旨在掌握技术和原理的前提下，更好的保护自身网络安全。反对一切危害网络安全的行为，造成法律后果请自负。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_fbcaf351ddc1" alt="" />
-
----
-
-
 ### [云计算和网络安全技术实践](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3MjM5MDc2Nw==)
 
 [:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3MjM5MDc2Nw==)
@@ -47,6 +34,19 @@ Docker中文社区旨在为大家提供 Docker、Kubernetes 相关工具及前�
 史上最具参考性的云计算和网络安全技术实践博客。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_34d6b0cb5633" alt="" />
+
+---
+
+
+### [kali黑客笔记](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzIwNTY1OA==)
+
+[:chart_with_upwards_trend:【1/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzIwNTY1OA==)
+
+[:camera_flash:【2023-06-15 12:32:33】](https://mp.weixin.qq.com/s?__biz=MzkxMzIwNTY1OA==&mid=2247496688&idx=1&sn=d42b39e228586c7afbdc1aa140de868c&chksm=c1038305f6740a138447b75bd7fcee107f78da9f419ecc360a7da30b56ff4e2d587f1489cd3b&scene=27#wechat_redirect)
+
+发布关于kali相关文章。Debian Centos等操作系统的安全和运维。以及树莓派 ESP8266 DIY单片机等相关安全领域的文章。旨在掌握技术和原理的前提下，更好的保护自身网络安全。反对一切危害网络安全的行为，造成法律后果请自负。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_fbcaf351ddc1" alt="" />
 
 ---
 

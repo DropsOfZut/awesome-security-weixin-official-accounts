@@ -12,24 +12,11 @@
 ---
 
 
-### [商密君](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
-
-[:chart_with_upwards_trend:【0/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
-
-[:camera_flash:【2023-06-14 23:06:46】](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247603142&idx=1&sn=a249a5e418d9a3004f3f23dcca1af940&chksm=ec57439ddb20ca8b776213528354ad011cc28196f0b0da83dd0f7dd129289a3186f469256e54&scene=27#wechat_redirect)
-
-商密君是全国密码行业头部公众号，旨在宣传推广《密码法》，普及商用密码知识，解读密码政策，分享商用密码行业的最新动态，为密码产业产学研用做好宣传服务，连接密码全行业精英，推动密码技术在数字经济各行业的应用和创新。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a02c9d0e1990" alt="" />
-
----
-
-
 ### [深圳市网络与信息安全行业协会](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
 
-[:chart_with_upwards_trend:【0/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
+[:chart_with_upwards_trend:【0/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
 
-[:camera_flash:【2023-06-14 12:06:33】](https://mp.weixin.qq.com/s?__biz=MzU0Mzk0NDQyOA==&mid=2247508716&idx=1&sn=99ca019faea6741a1763be04a350d63f&chksm=fb01596fcc76d0795a106e0b28b92b32133b429a26bd6388622300c9128eeeaf1f85bb0c744d&scene=27#wechat_redirect)
+[:camera_flash:【2023-06-15 18:03:40】](https://mp.weixin.qq.com/s?__biz=MzU0Mzk0NDQyOA==&mid=2247508839&idx=1&sn=276ba776713e04bd44f28e660b71a112&chksm=fb0158e4cc76d1f239625b27f4f3a21682bf455b774fed0f22d81581be6a3ede9f1ac32c7c4e&scene=27#wechat_redirect)
 
 深圳市网络与信息安全行业协会（SNISA），是深圳市网络与信息安全行业的权威组织，是中国网络安全审查技术与认证中心（CCRC）在深圳唯一授权工作站，是经深圳市人力资源和社会保障局核准，开展网络空间安全工程技术专业职称评审工作的社会组织。
 
@@ -42,7 +29,7 @@
 
 [:chart_with_upwards_trend:【0/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
 
-[:camera_flash:【2023-06-15 00:00:56】](https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247507393&idx=1&sn=7cedec9e343701042870ee80f5875d15&chksm=cf3d610cf84ae81a64386d8057c810977a520a7608684036cb11c34164a95ebbf4a2c20d0495&scene=27#wechat_redirect)
+[:camera_flash:【2023-06-16 02:24:53】](https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247507394&idx=1&sn=52b9772ebd6aae6ba4410b8ab2ae897d&chksm=cf3d610ff84ae81943a54cfa7a85d86987f0f7abb9aa708f4e4c42ab74730160ea4b4303983d&scene=27#wechat_redirect)
 
 做一个会思考的全栈网络空间安全者
 
@@ -51,9 +38,22 @@
 ---
 
 
+### [商密君](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
+
+[:chart_with_upwards_trend:【0/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
+
+[:camera_flash:【2023-06-15 20:53:43】](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247603273&idx=1&sn=d5a128f156e677b7234f0487e696f730&chksm=ec574412db20cd0400ec1192d9af13b31368727cf5c003f7ea6079a89042dad0830d92bab22c&scene=27#wechat_redirect)
+
+商密君是全国密码行业头部公众号，旨在宣传推广《密码法》，普及商用密码知识，解读密码政策，分享商用密码行业的最新动态，为密码产业产学研用做好宣传服务，连接密码全行业精英，推动密码技术在数字经济各行业的应用和创新。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a02c9d0e1990" alt="" />
+
+---
+
+
 ### [掌控安全EDU](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
 
-[:chart_with_upwards_trend:【4/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
+[:chart_with_upwards_trend:【3/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
 
 [:camera_flash:【2023-06-14 12:33:14】](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247528324&idx=1&sn=afae56a35bd6ee6229afd6ea5d4816d5&chksm=fa6b16f5cd1c9fe3ddc5efddbe987f955645070f52e8f1f17a1836e987d2ccaf2ff5973f59ad&scene=27#wechat_redirect)
 
@@ -81,7 +81,7 @@
 
 [:chart_with_upwards_trend:【1/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MjQ1NTA4MA==)
 
-[:camera_flash:【2023-06-13 08:01:35】](https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247489738&idx=1&sn=fc7a282762e7d5f4a852a667f257b9a0&chksm=ea4bb28ddd3c3b9bc850bc962e100311320455c6ceebf183d041fb47d77802d02d895840400d&scene=27#wechat_redirect)
+[:camera_flash:【2023-06-16 07:31:38】](https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247489748&idx=1&sn=3ff77fd43499d2458709fda59b10e368&chksm=ea4bb293dd3c3b8596bf2008f2eb95dda99c9987d2bf984d47a3883e24a1e4392c383d784575&scene=27#wechat_redirect)
 
 闲暇时间，逼迫自己，记录分享体验与经历，不求正确统一，但求真、善、美。
 
