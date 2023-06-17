@@ -25,19 +25,6 @@
 ---
 
 
-### [三叶草小组Syclover](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzOTg0NjYzNg==)
-
-[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzOTg0NjYzNg==)
-
-[:camera_flash:【2023-06-12 20:28:26】](https://mp.weixin.qq.com/s?__biz=MzIzOTg0NjYzNg==&mid=2247489043&idx=1&sn=870ab7c36ffd056e66228cff30ce825f&chksm=e9228390de550a869cf4ec8ed113c2a8121cd5d748ad0821e55ca7de6bd00ac40a7d20d808ed&scene=27#wechat_redirect)
-
-一个专注于网络空间安全的高校技术团队，成立于2005年3月，主要研究方向有渗透测试、逆向工程、移动安全、安全编程、漏洞利用等；公众号定期推送小组成员原创文章
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_962842f4917b" alt="" />
-
----
-
-
 ### [NCVTCSTA](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NjUzODYyNw==)
 
 [:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NjUzODYyNw==)
@@ -47,6 +34,19 @@
 南宁职业技术学院网络安全技术协会
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ce0885e25658" alt="" />
+
+---
+
+
+### [三叶草小组Syclover](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzOTg0NjYzNg==)
+
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzOTg0NjYzNg==)
+
+[:camera_flash:【2023-06-16 09:30:23】](https://mp.weixin.qq.com/s?__biz=MzIzOTg0NjYzNg==&mid=2247489115&idx=1&sn=7549f9fe72df8da2283f9090acbe9ddc&chksm=e92283d8de550aceba3eb37d69fda24250c94deefd88280472f11d04eeda37bfe68f93b5864a&scene=27#wechat_redirect)
+
+一个专注于网络空间安全的高校技术团队，成立于2005年3月，主要研究方向有渗透测试、逆向工程、移动安全、安全编程、漏洞利用等；公众号定期推送小组成员原创文章
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_962842f4917b" alt="" />
 
 ---
 
@@ -107,7 +107,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
 
-[:camera_flash:【2023-06-14 17:37:58】](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247486563&idx=1&sn=0deef9fed08fb3089bcfd87a252c295b&chksm=fdeb881dca9c010bf07ef84c48ba4f5241555fc470f47ca1efcf078f8710a95c85b152547693&scene=27#wechat_redirect)
+[:camera_flash:【2023-06-16 11:21:37】](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247486565&idx=1&sn=4b667ce860c4840bf268b89bf3b753a1&chksm=fdeb881bca9c010d332351a6528abf5da6b916233e10a6ea37343a0d7287c006f686e7864f1c&scene=27#wechat_redirect)
 
 以复旦大学系统安全实验室学生为主成立的安全攻防战队，分享最新研究成果，交流系统安全攻防领域技巧。
 
@@ -406,7 +406,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDYzMjAyNA==)
 
-[:camera_flash:【2023-04-27 14:37:44】](https://mp.weixin.qq.com/s?__biz=Mzg3MDYzMjAyNA==&mid=2247484397&idx=1&sn=3a966dc3837c917d61983f7fab9bd6a5&chksm=ce8b9cdaf9fc15cce63ec912487bfb640179677c866d689e918eab4929688b55911f7e451725&scene=27#wechat_redirect)
+[:camera_flash:【2023-06-16 17:38:18】](https://mp.weixin.qq.com/s?__biz=Mzg3MDYzMjAyNA==&mid=2247484436&idx=1&sn=d75cedb2226e6d4ed885002441dd1bb7&chksm=ce8b9b23f9fc1235d0bd72853fd0b87e4f821e9dfa4a9256cbc93b6ded7f8e1cf2fbe7207829&scene=27#wechat_redirect)
 
 深圳市网安计算机网络安全培训中心是深圳市计算机网络公共安全协会设立的下属培训机构。培训内容包括：CISP-PTE/PTS系列课程、CISP-IRE/IRS系列课程；网络攻防技术系列课程；网络安全等级保护及风险评估系列课程等网络安全相关课程。
 
