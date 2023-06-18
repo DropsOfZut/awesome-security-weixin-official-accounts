@@ -1,9 +1,9 @@
 
 ### [计算机与网络安全](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTk4MDE2MA==)
 
-[:chart_with_upwards_trend:【0/80/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTk4MDE2MA==)
+[:chart_with_upwards_trend:【0/72/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTk4MDE2MA==)
 
-[:camera_flash:【2023-06-16 08:02:38】](https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655202067&idx=1&sn=2afbca86422b5e6702b66e102da38c07&chksm=bc84b6fc8bf33fea1b2df56ed29b7f84d07b87aef5c10baf01022b25477aec82cc7c0d565d15&scene=27#wechat_redirect)
+[:camera_flash:【2023-06-17 10:02:19】](https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655202154&idx=1&sn=997f1a731588dedb8422203744af1add&chksm=bc84b6858bf33f9306cf1ca46bf14c64349f5779bf97c970027af9f154e989b5d58a8c346b97&scene=27#wechat_redirect)
 
 帮助安全从业者、安全爱好者学习与成长。
 
@@ -14,7 +14,7 @@
 
 ### [河南等级保护测评](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NjY2MTI3Mg==)
 
-[:chart_with_upwards_trend:【16/36/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NjY2MTI3Mg==)
+[:chart_with_upwards_trend:【16/34/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NjY2MTI3Mg==)
 
 [:camera_flash:【2023-06-17 00:00:09】](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247490434&idx=1&sn=9c2a5716041870a965749114dd314984&chksm=ce463d75f931b463910af46f0f0b538ef20f93bf8c8adf8678ff418996af7b72a74d381e0de9&scene=27#wechat_redirect)
 
@@ -27,7 +27,7 @@
 
 ### [祺印说信安](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5MzU5MzQzMA==)
 
-[:chart_with_upwards_trend:【22/31/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5MzU5MzQzMA==)
+[:chart_with_upwards_trend:【21/29/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5MzU5MzQzMA==)
 
 [:camera_flash:【2023-06-17 00:00:23】](https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652100232&idx=1&sn=b9b19fbf278b8a9876f219440e14338e&chksm=8bbcfcb1bccb75a7c68f52ae540612682ff570c638cdb92fe6e39bb94806e2b6caa5c5d13c74&scene=27#wechat_redirect)
 
@@ -40,7 +40,7 @@
 
 ### [威努特工控安全](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNTgyODU3NQ==)
 
-[:chart_with_upwards_trend:【6/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNTgyODU3NQ==)
+[:chart_with_upwards_trend:【5/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNTgyODU3NQ==)
 
 [:camera_flash:【2023-06-16 08:01:48】](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651097127&idx=1&sn=ec433d0dfb1982a523ea2580ca1dfd1d&chksm=80e69297b7911b81d1caf953caffe2fad6a5986649614c8dd7dde45c7214801e9552a080c1f2&scene=27#wechat_redirect)
 
@@ -53,7 +53,7 @@
 
 ### [e安在线](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1OTA1MzQzNA==)
 
-[:chart_with_upwards_trend:【0/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1OTA1MzQzNA==)
+[:chart_with_upwards_trend:【0/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1OTA1MzQzNA==)
 
 [:camera_flash:【2023-06-15 14:49:21】](https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651244153&idx=1&sn=2ce2de2f6b8fe920481f147fb75d5192&chksm=f18ca46cc6fb2d7a4efc046afe23167010226cc9577097e9e9e708fc850cbb65fde047624da3&scene=27#wechat_redirect)
 
@@ -66,7 +66,7 @@
 
 ### [信息安全国家工程研究中心](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5OTQ0NzY3Ng==)
 
-[:chart_with_upwards_trend:【3/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5OTQ0NzY3Ng==)
+[:chart_with_upwards_trend:【2/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5OTQ0NzY3Ng==)
 
 [:camera_flash:【2023-06-08 19:00:41】](https://mp.weixin.qq.com/s?__biz=MzU5OTQ0NzY3Ng==&mid=2247494104&idx=1&sn=17cd068d0c3f8e5b5e17657c7435c9dc&chksm=feb668cbc9c1e1ddab283967c92d12c53261de5943a472e96c85c67c89946532d443d3222d46&scene=27#wechat_redirect)
 
@@ -79,26 +79,13 @@
 
 ### [鼎信安全](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwOTc4MTE4Nw==)
 
-[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwOTc4MTE4Nw==)
+[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwOTc4MTE4Nw==)
 
 [:camera_flash:【2023-06-16 17:50:03】](https://mp.weixin.qq.com/s?__biz=MzIwOTc4MTE4Nw==&mid=2247495415&idx=1&sn=c5151acf445d075cb1f9f9045d5236dd&chksm=976c065ba01b8f4d854790d6cc8ea943810f94cd0c1be2d8d0b0360962c2bbedb92536778bf5&scene=27#wechat_redirect)
 
 鼎信安全是河南省管国资企业豫信电子科技集团旗下黄河科技集团控股子公司，专注于提供网络安全服务，是国内领先的信息安全等级测评机构。以合规检测类安全服务为核心，聚焦数据安全、安全检测、SaaS安全服务等方向，致力成为全国领先的网络安全服务商。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_47491f174fdf" alt="" />
-
----
-
-
-### [公安部网络安全等级保护中心](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3NTQwNDYyNA==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3NTQwNDYyNA==)
-
-[:camera_flash:【2023-05-18 10:59:17】](https://mp.weixin.qq.com/s?__biz=MzU3NTQwNDYyNA==&mid=2247486504&idx=1&sn=4ec576a14b50a7b171e3966625964371&chksm=fd22e317ca556a01090ae6a6e6ea911e6793c27e42ca9f1a8f6a08371cdfdef04fbbee719752&scene=27#wechat_redirect)
-
-国家等级保护制度核心机构
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f5f6bf3d09af" alt="" />
 
 ---
 
@@ -120,7 +107,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI4NDY2MDMwMw==)
 
-[:camera_flash:【2023-06-16 14:59:33】](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247508886&idx=1&sn=b64ea42452b9563ed2a41c07639e7619&chksm=ebfae4b6dc8d6da0b5fb987510077d7de02936fde682197ec766abd7fd75e5392f4d67a04137&scene=27#wechat_redirect)
+[:camera_flash:【2023-06-17 08:03:44】](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247508892&idx=1&sn=e6c6d17ff12ee7653d04fd6a7ea0c788&chksm=ebfae4bcdc8d6daae17f91331d0bdd16c53bf30f807f1cc3553b6c4eb0f7d9f988466a60d20f&scene=27#wechat_redirect)
 
 《安全内参》是专注于网络安全产业发展和行业应用的高端智库平台，致力于成为网络安全首席知识官。曾用名“互联网安全内参”。投稿&amp;合作请邮件联系 anquanneican#163.com
 
@@ -203,6 +190,19 @@
 测评整改、渗透测试、主机加固、风险评估、Hvv&amp;重保、系统集成
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_5a49c93db94e" alt="" />
+
+---
+
+
+### [公安部网络安全等级保护中心](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3NTQwNDYyNA==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3NTQwNDYyNA==)
+
+[:camera_flash:【2023-05-18 10:59:17】](https://mp.weixin.qq.com/s?__biz=MzU3NTQwNDYyNA==&mid=2247486504&idx=1&sn=4ec576a14b50a7b171e3966625964371&chksm=fd22e317ca556a01090ae6a6e6ea911e6793c27e42ca9f1a8f6a08371cdfdef04fbbee719752&scene=27#wechat_redirect)
+
+国家等级保护制度核心机构
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f5f6bf3d09af" alt="" />
 
 ---
 
