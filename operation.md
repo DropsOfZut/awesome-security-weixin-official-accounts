@@ -1,9 +1,9 @@
 
 ### [系统安全运维](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NjE0NDc5OQ==)
 
-[:chart_with_upwards_trend:【0/14/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NjE0NDc5OQ==)
+[:chart_with_upwards_trend:【0/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NjE0NDc5OQ==)
 
-[:camera_flash:【2023-06-16 08:08:52】](https://mp.weixin.qq.com/s?__biz=Mzk0NjE0NDc5OQ==&mid=2247520754&idx=1&sn=4463bc591bcaf404251698aeec376eed&chksm=c3084282f47fcb94f1ec22e5fad681039444f92079a28141176c7f9e7318d8f046cd6b58edba&scene=27#wechat_redirect)
+[:camera_flash:【2023-06-19 08:08:24】](https://mp.weixin.qq.com/s?__biz=Mzk0NjE0NDc5OQ==&mid=2247520756&idx=1&sn=ff17f60252a5b95ef8f94d9670b8d383&chksm=c3084284f47fcb929b672377bebda02f415637a35f2e8194cbaacb26a1ac4b40a4b5b065bba3&scene=27#wechat_redirect)
 
 未知攻 焉知防 攻防兼备
 
@@ -16,7 +16,7 @@
 
 [:chart_with_upwards_trend:【3/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1NzI5NDM4Mw==)
 
-[:camera_flash:【2023-06-16 08:03:05】](https://mp.weixin.qq.com/s?__biz=MzI1NzI5NDM4Mw==&mid=2247495315&idx=1&sn=2281491b1044ff8ff333c3b3a8902feb&chksm=ea1b07d3dd6c8ec50e61feff4ab2cde84afab2eed2e2b75b18a4f1ffc6f9e91717654f2df5a1&scene=27#wechat_redirect)
+[:camera_flash:【2023-06-19 08:00:56】](https://mp.weixin.qq.com/s?__biz=MzI1NzI5NDM4Mw==&mid=2247495316&idx=1&sn=ce10e71b17ea616d883fd5395999805a&chksm=ea1b07d4dd6c8ec219c5f8a74df5efb924c15e45ec888fd1965feca17902039407e04d5f303d&scene=27#wechat_redirect)
 
 Docker中文社区旨在为大家提供 Docker、Kubernetes 相关工具及前沿资讯信息，方便大家了解学习 Docker、Kubernetes 相关容器技术。官网：dockerworld.cn
 
@@ -29,7 +29,7 @@ Docker中文社区旨在为大家提供 Docker、Kubernetes 相关工具及前�
 
 [:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3MjM5MDc2Nw==)
 
-[:camera_flash:【2023-06-11 15:24:09】](https://mp.weixin.qq.com/s?__biz=MzA3MjM5MDc2Nw==&mid=2650747729&idx=1&sn=d410e0faf020a91870faa3f3543b2381&chksm=87149251b0631b478762bc0fa6da4d361ac8b5f8039b98b2f13719a959c686eb3db4de233b63&scene=27#wechat_redirect)
+[:camera_flash:【2023-06-18 10:52:21】](https://mp.weixin.qq.com/s?__biz=MzA3MjM5MDc2Nw==&mid=2650747741&idx=1&sn=1c9220f89839b10512bdc14d84174524&chksm=8714925db0631b4bc24e6ea3f66f02f0c185b6bc5117972b880a7360a02415945aa062a6dec2&scene=27#wechat_redirect)
 
 史上最具参考性的云计算和网络安全技术实践博客。
 
@@ -120,7 +120,7 @@ BAT 技术专家分享开发、架构、运维相关干货！
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzIwNTY1OA==)
 
-[:camera_flash:【2023-06-16 10:45:20】](https://mp.weixin.qq.com/s?__biz=MzkxMzIwNTY1OA==&mid=2247496718&idx=1&sn=bbb5bab529926c48b216bb701921228b&chksm=c10384fbf6740ded5c958c2a8a23a78fd7220f51eb7833bf6e4173834d0cf437e637918e8cea&scene=27#wechat_redirect)
+[:camera_flash:【2023-06-19 10:31:14】](https://mp.weixin.qq.com/s?__biz=MzkxMzIwNTY1OA==&mid=2247496739&idx=1&sn=b980b9e4570944cd2030571241163dea&chksm=c10384d6f6740dc02aec6a98f6be43ec4941f0f33b7069f351627627cede0f632283424547ff&scene=27#wechat_redirect)
 
 发布关于kali相关文章。Debian Centos等操作系统的安全和运维。以及树莓派 ESP8266 DIY单片机等相关安全领域的文章。旨在掌握技术和原理的前提下，更好的保护自身网络安全。反对一切危害网络安全的行为，造成法律后果请自负。
 
