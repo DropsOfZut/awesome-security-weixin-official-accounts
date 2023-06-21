@@ -1,17 +1,4 @@
 
-### [启明星辰网络空间安全教育](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
-
-[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
-
-[:camera_flash:【2023-06-18 07:00:37】](https://mp.weixin.qq.com/s?__biz=MzUzNDg0NTc1NA==&mid=2247500608&idx=1&sn=1e9d8324feb9dc771f48db0d2d8e27f1&chksm=fa8c0315cdfb8a03a9c61031ae406f5d2a64a3ca7f83416440144e5b9a7727aa01773f0af2a1&scene=27#wechat_redirect)
-
-启明星辰网络空间安全学院以国家网络安全事业发展为使命，依托启明星辰集团多年的技术沉淀及实践积累，提供网络安全人才体系构建与信息安全技术及能力提升教育培训，为建设网络强国提供有力的人才支撑。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_310250868fd4" alt="" />
-
----
-
-
 ### [浙大网安](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5NDczNDc4NA==)
 
 [:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5NDczNDc4NA==)
@@ -25,15 +12,15 @@
 ---
 
 
-### [NCVTCSTA](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NjUzODYyNw==)
+### [启明星辰网络空间安全教育](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
 
-[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NjUzODYyNw==)
+[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
 
-[:camera_flash:【2023-06-11 11:55:12】](https://mp.weixin.qq.com/s?__biz=Mzg4NjUzODYyNw==&mid=2247484253&idx=1&sn=75e0a51278dad1f4df0810f1a7c48b44&chksm=cf996bb1f8eee2a78015d708ea6cb3ff0666d0200a32290ac7951bdc60be4326763f1fc175a9&scene=27#wechat_redirect)
+[:camera_flash:【2023-06-20 16:50:16】](https://mp.weixin.qq.com/s?__biz=MzUzNDg0NTc1NA==&mid=2247500693&idx=1&sn=90c8b8d05e2bff2fa3089b3f011b6109&chksm=fa8c03c0cdfb8ad61e7ac986ec22d83607f0a3388e13ce52ef15c2b7ebbb4d05d7d11792e2ae&scene=27#wechat_redirect)
 
-南宁职业技术学院网络安全技术协会
+启明星辰网络空间安全学院以国家网络安全事业发展为使命，依托启明星辰集团多年的技术沉淀及实践积累，提供网络安全人才体系构建与信息安全技术及能力提升教育培训，为建设网络强国提供有力的人才支撑。
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ce0885e25658" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_310250868fd4" alt="" />
 
 ---
 
@@ -47,6 +34,19 @@
 一个专注于网络空间安全的高校技术团队，成立于2005年3月，主要研究方向有渗透测试、逆向工程、移动安全、安全编程、漏洞利用等；公众号定期推送小组成员原创文章
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_962842f4917b" alt="" />
+
+---
+
+
+### [NCVTCSTA](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NjUzODYyNw==)
+
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NjUzODYyNw==)
+
+[:camera_flash:【2023-06-11 11:55:12】](https://mp.weixin.qq.com/s?__biz=Mzg4NjUzODYyNw==&mid=2247484253&idx=1&sn=75e0a51278dad1f4df0810f1a7c48b44&chksm=cf996bb1f8eee2a78015d708ea6cb3ff0666d0200a32290ac7951bdc60be4326763f1fc175a9&scene=27#wechat_redirect)
+
+南宁职业技术学院网络安全技术协会
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ce0885e25658" alt="" />
 
 ---
 
@@ -263,7 +263,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3Njc3NDQ5OA==)
 
-[:camera_flash:【2023-06-10 18:31:10】](https://mp.weixin.qq.com/s?__biz=MzU3Njc3NDQ5OA==&mid=2247487270&idx=1&sn=bf15d85361db9d977116857c5f4e03dc&chksm=fd0f872bca780e3d49ab77d4a3878e772363326685eba4271b877707a3c82c3552662b374a8b&scene=27#wechat_redirect)
+[:camera_flash:【2023-06-21 00:00:45】](https://mp.weixin.qq.com/s?__biz=MzU3Njc3NDQ5OA==&mid=2247487288&idx=1&sn=130ba2d5113da2a92d5eaa492c52a564&chksm=fd0f8735ca780e23acefeb65ba1913c6bdf442cbabefa7b3fdf9b4c6a0ea49c0d983f4ed2af6&scene=27#wechat_redirect)
 
 广东工业大学A&amp;D（攻击与防御）工作室
 
@@ -380,7 +380,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4MDgyNzU5Mg==)
 
-[:camera_flash:【2023-06-14 09:00:31】](https://mp.weixin.qq.com/s?__biz=MzU4MDgyNzU5Mg==&mid=2247484916&idx=1&sn=5d9af93f1946e5538bdbf40125ef8ee8&chksm=fd51a553ca262c45e51c22854ebc10e946c47f5a25fa7b0fba6a981526db9df7ff90ddbda5f3&scene=27#wechat_redirect)
+[:camera_flash:【2023-06-20 10:07:02】](https://mp.weixin.qq.com/s?__biz=MzU4MDgyNzU5Mg==&mid=2247484932&idx=1&sn=6f2e03942a2933bc5b95371314837c75&chksm=fd51a6a3ca262fb5b062b712404b634ddafd9138fff2dafccb17be202c975cdae8b2df2c8b6c&scene=27#wechat_redirect)
 
 集学习训练、竞赛实战为一体的网络安全在线能力提升平台
 
@@ -406,7 +406,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDYzMjAyNA==)
 
-[:camera_flash:【2023-06-16 17:38:18】](https://mp.weixin.qq.com/s?__biz=Mzg3MDYzMjAyNA==&mid=2247484436&idx=1&sn=d75cedb2226e6d4ed885002441dd1bb7&chksm=ce8b9b23f9fc1235d0bd72853fd0b87e4f821e9dfa4a9256cbc93b6ded7f8e1cf2fbe7207829&scene=27#wechat_redirect)
+[:camera_flash:【2023-06-20 17:00:48】](https://mp.weixin.qq.com/s?__biz=Mzg3MDYzMjAyNA==&mid=2247484469&idx=1&sn=ad4f299d630d58dd04c90fbe916e919e&chksm=ce8b9b02f9fc121424265f3ccd131482b91c0940b5c0ed99e195ff1d3ee8eafde6f2ff398576&scene=27#wechat_redirect)
 
 深圳市网安计算机网络安全培训中心是深圳市计算机网络公共安全协会设立的下属培训机构。培训内容包括：CISP-PTE/PTS系列课程、CISP-IRE/IRS系列课程；网络攻防技术系列课程；网络安全等级保护及风险评估系列课程等网络安全相关课程。
 
