@@ -1,7 +1,7 @@
 
 ### [数世咨询](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
 
-[:chart_with_upwards_trend:【1/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
+[:chart_with_upwards_trend:【1/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
 
 [:camera_flash:【2023-06-21 12:15:08】](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247500019&idx=1&sn=8a4019f5ec886110da9f29b8112a3fa0&chksm=c144b24ef6333b588a55f6a2970e591f6e8fe94dcd925702c11a8649332a61f1dc24413c0911&scene=27#wechat_redirect)
 
@@ -60,19 +60,6 @@
 关注安全行业前沿动向、产品服务商用前景，洞悉商业市场和用户趋势，助力安全行业发展。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e18f20900200" alt="" />
-
----
-
-
-### [君哥的体历](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MjQ1NTA4MA==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MjQ1NTA4MA==)
-
-[:camera_flash:【2023-06-19 07:30:39】](https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247489749&idx=1&sn=a4dbc4da013145ea26a12ab04f52e249&chksm=ea4bb292dd3c3b84d50df3e17d44e4dd56446d134092e4529daff5fb657befcffc0e9915c568&scene=27#wechat_redirect)
-
-闲暇时间，逼迫自己，记录分享体验与经历，不求正确统一，但求真、善、美。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_aa4d8db71365" alt="" />
 
 ---
 
@@ -155,11 +142,24 @@ OWASP中国，SecZone互联网安全研究中心官方平台
 ---
 
 
+### [君哥的体历](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MjQ1NTA4MA==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MjQ1NTA4MA==)
+
+[:camera_flash:【2023-06-19 07:30:39】](https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247489749&idx=1&sn=a4dbc4da013145ea26a12ab04f52e249&chksm=ea4bb292dd3c3b84d50df3e17d44e4dd56446d134092e4529daff5fb657befcffc0e9915c568&scene=27#wechat_redirect)
+
+闲暇时间，逼迫自己，记录分享体验与经历，不求正确统一，但求真、善、美。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_aa4d8db71365" alt="" />
+
+---
+
+
 ### [商密君](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
 
-[:camera_flash:【2023-06-23 18:57:05】](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247603836&idx=1&sn=e1abe1e66c3d0e0b2f42afc046db4095&chksm=ec574627db20cf31e55dd1e932dc5244c8db55a8f505e4dbfc7fb35713bc6e3cfed060ad31f8&scene=27#wechat_redirect)
+[:camera_flash:【2023-06-24 19:06:07】](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247603959&idx=1&sn=4d86d103748fc034cf46fafebbd1d88e&chksm=ec5746acdb20cfba5a8f9acf41fe9e70d3a5db11c15cafab2163a9d4c3ef3e9abed55ec7648a&scene=27#wechat_redirect)
 
 商密君是全国密码行业头部公众号，旨在宣传推广《密码法》，普及商用密码知识，解读密码政策，分享商用密码行业的最新动态，为密码产业产学研用做好宣传服务，连接密码全行业精英，推动密码技术在数字经济各行业的应用和创新。
 
