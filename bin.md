@@ -1,13 +1,13 @@
 
-### [FuzzWiki](http://wechat.doonsec.com/wechat_echarts/?biz=MzU1NTEzODc3MQ==)
+### [RayTracing](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwMjk4MTU2NQ==)
 
-[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU1NTEzODc3MQ==)
+[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwMjk4MTU2NQ==)
 
-[:camera_flash:【2023-06-10 18:00:29】](https://mp.weixin.qq.com/s?__biz=MzU1NTEzODc3MQ==&mid=2247485985&idx=1&sn=a3b07cb82c5bb746da49d9d5dc86e3f9&chksm=fbd9a19dccae288ba8f0ca913e68fd8259966aaa2712178e706f0b3417930609f9126eeb11c5&scene=27#wechat_redirect)
+[:camera_flash:【2023-06-14 21:02:43】](https://mp.weixin.qq.com/s?__biz=MzAwMjk4MTU2NQ==&mid=2247483722&idx=1&sn=2749115d19c0f67317a22b20d7be2b8f&chksm=9ac36a98adb4e38e94f4665cc5f52103be0739ac91cfd212a5508b7f24cfc72659bb26e4f97a&scene=27#wechat_redirect)
 
-「FuzzWiki」致力于成为国内最专业的模糊测试技术论坛平台，专注于分享模糊测试领域前沿技术、深度文章、行业资讯、最新突破，为专家学者、从业者、相关行业安全人员和决策者构筑完善的知识图谱，提供交流模糊测试新技术、新知识、新工具的开放平台。
+主要分享自己在二进制方面的一些技术，比如程序分析，逆向，漏洞等，也会分享一些开发相关的东东
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_fcf21e658324" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_29fa961361a8" alt="" />
 
 ---
 
@@ -42,7 +42,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTc2MDYxMw==)
 
-[:camera_flash:【2023-06-24 17:59:10】](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458507967&idx=1&sn=5758af524e99ca6951203465d764ed92&chksm=b18eea3586f9632315e34f86bc993d450fbede4be9ce6ea78b4d4e2a312405f7cd0eb5ae22b9&scene=27#wechat_redirect)
+[:camera_flash:【2023-06-25 17:59:27】](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458508021&idx=1&sn=e329f44095083de2b23a7d9beaeeabae&chksm=b18eea7f86f96369d09aec05400e31ffe20bc3d10d620b6bf02e3f6d6b7311eb2b80ef0018e0&scene=27#wechat_redirect)
 
 致力于移动与安全研究的开发者社区，看雪学院(kanxue.com)官方微信公众帐号。
 
@@ -73,6 +73,19 @@
 威胁狩猎，漏洞挖掘
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_02e64d74f88d" alt="" />
+
+---
+
+
+### [FuzzWiki](http://wechat.doonsec.com/wechat_echarts/?biz=MzU1NTEzODc3MQ==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU1NTEzODc3MQ==)
+
+[:camera_flash:【2023-06-10 18:00:29】](https://mp.weixin.qq.com/s?__biz=MzU1NTEzODc3MQ==&mid=2247485985&idx=1&sn=a3b07cb82c5bb746da49d9d5dc86e3f9&chksm=fbd9a19dccae288ba8f0ca913e68fd8259966aaa2712178e706f0b3417930609f9126eeb11c5&scene=27#wechat_redirect)
+
+「FuzzWiki」致力于成为国内最专业的模糊测试技术论坛平台，专注于分享模糊测试领域前沿技术、深度文章、行业资讯、最新突破，为专家学者、从业者、相关行业安全人员和决策者构筑完善的知识图谱，提供交流模糊测试新技术、新知识、新工具的开放平台。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_fcf21e658324" alt="" />
 
 ---
 
@@ -229,19 +242,6 @@ pWn3d bY BiGSKidd3r&amp;FuzZer&amp;A2pter&amp;pWn3r rULe4Ker4pwn 65535 tim3s.
 致力于汇编教程和逆向破解之路
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_86e8b32f4148" alt="" />
-
----
-
-
-### [RayTracing](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwMjk4MTU2NQ==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwMjk4MTU2NQ==)
-
-[:camera_flash:【2023-06-14 21:02:43】](https://mp.weixin.qq.com/s?__biz=MzAwMjk4MTU2NQ==&mid=2247483722&idx=1&sn=2749115d19c0f67317a22b20d7be2b8f&chksm=9ac36a98adb4e38e94f4665cc5f52103be0739ac91cfd212a5508b7f24cfc72659bb26e4f97a&scene=27#wechat_redirect)
-
-主要分享自己在二进制方面的一些技术，比如程序分析，逆向，漏洞等，也会分享一些开发相关的东东
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_29fa961361a8" alt="" />
 
 ---
 
