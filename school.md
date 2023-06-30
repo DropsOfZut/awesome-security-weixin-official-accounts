@@ -25,19 +25,6 @@
 ---
 
 
-### [NCVTCSTA](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NjUzODYyNw==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NjUzODYyNw==)
-
-[:camera_flash:【2023-06-11 11:55:12】](https://mp.weixin.qq.com/s?__biz=Mzg4NjUzODYyNw==&mid=2247484253&idx=1&sn=75e0a51278dad1f4df0810f1a7c48b44&chksm=cf996bb1f8eee2a78015d708ea6cb3ff0666d0200a32290ac7951bdc60be4326763f1fc175a9&scene=27#wechat_redirect)
-
-南宁职业技术学院网络安全技术协会
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ce0885e25658" alt="" />
-
----
-
-
 ### [DROPS攻防训练营](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NjE0Mzk2OA==)
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NjE0Mzk2OA==)
@@ -216,6 +203,19 @@
 一个专注于网络空间安全的高校技术团队，成立于2005年3月，主要研究方向有渗透测试、逆向工程、移动安全、安全编程、漏洞利用等；公众号定期推送小组成员原创文章
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_962842f4917b" alt="" />
+
+---
+
+
+### [NCVTCSTA](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NjUzODYyNw==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NjUzODYyNw==)
+
+[:camera_flash:【2023-06-11 11:55:12】](https://mp.weixin.qq.com/s?__biz=Mzg4NjUzODYyNw==&mid=2247484253&idx=1&sn=75e0a51278dad1f4df0810f1a7c48b44&chksm=cf996bb1f8eee2a78015d708ea6cb3ff0666d0200a32290ac7951bdc60be4326763f1fc175a9&scene=27#wechat_redirect)
+
+南宁职业技术学院网络安全技术协会
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ce0885e25658" alt="" />
 
 ---
 
@@ -432,7 +432,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MDU5NTA1MQ==)
 
-[:camera_flash:【2023-05-30 20:36:00】](https://mp.weixin.qq.com/s?__biz=MzU3MDU5NTA1MQ==&mid=2247495844&idx=1&sn=9120ce24a15b6608d4d1cd23940ee736&chksm=fcefb320cb983a36bf96c2de24fe87a007602942846244c0fecbda22f9b07752697a8afea2b2&scene=27#wechat_redirect)
+[:camera_flash:【2023-06-04 22:15:25】](https://mp.weixin.qq.com/s?__biz=MzU3MDU5NTA1MQ==&mid=2247496101&idx=1&sn=c46dc207ee3cd470861d63c06814a940&chksm=fcefb221cb983b377d38822ae1db0ec5be3034a1c827145295b2bf34c8330bcc514ced6c2ecc&scene=27#wechat_redirect)
 
 欢迎加入齐鲁师范学院网络安全社团
 
@@ -575,7 +575,7 @@ Covteam工作室，成立于2005年。是以西华大学在校本科生研究生
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
 
-[:camera_flash:【2023-06-27 08:02:29】](https://mp.weixin.qq.com/s?__biz=MzUzODkwMDMxNA==&mid=2247516465&idx=1&sn=a329ea78472f0846ed213282f22afb8f&chksm=fad26304cda5ea12a0520402469a1f514ca0d70bb53b4c0a1267a3e2dfe9eaa4eb22dde1e57f&scene=27#wechat_redirect)
+[:camera_flash:【2023-06-29 08:00:38】](https://mp.weixin.qq.com/s?__biz=MzUzODkwMDMxNA==&mid=2247524061&idx=1&sn=2ea6cdd132fb119b8e2bea2f2b6c354f&chksm=fad27ce8cda5f5fe30dcdb26e0d8caed4f66f0bd1fa23e9af9b4df7f9389323afb271ec66f20&scene=27#wechat_redirect)
 
 百所高校、百家用人单位、百名尖锋导师，携手打造定制化人才培养模式，通过导师制职业规划和封闭式岗位实训，补足知识短板、提高实战能力，培养创新型、实用型网络安全尖锋人才。
 

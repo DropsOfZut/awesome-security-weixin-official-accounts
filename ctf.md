@@ -42,7 +42,7 @@ PTE小技巧
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5Njg1NzMyNw==)
 
-[:camera_flash:【2023-06-12 15:10:17】](https://mp.weixin.qq.com/s?__biz=MzU5Njg1NzMyNw==&mid=2247486795&idx=1&sn=d0faefc08e4280d3bb552fc826705ed4&chksm=fe5d15cbc92a9cddeffc0f0114ef3911060fc8095cc65c31432aa815d04f214ef91efd9cf4ed&scene=27#wechat_redirect)
+[:camera_flash:【2023-06-29 09:30:34】](https://mp.weixin.qq.com/s?__biz=MzU5Njg1NzMyNw==&mid=2247486812&idx=1&sn=502ef66f9c7f40cc49447338fa9295ee&chksm=fe5d15dcc92a9ccad5ccbf92e8e93e26c17e73319b00b35272f8cd0fcc711c2b3baa28d20910&scene=27#wechat_redirect)
 
 由奇安信集团、清华大学、蚂蚁集团主办，联合北京大学、中科院软件所、复旦大学、中山大学、山东大学、中国科技大学等30多个知名高校和研究机构共同举办的聚焦大数据安全分析的比赛。
 
