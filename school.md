@@ -354,7 +354,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4MDgyNzU5Mg==)
 
-[:camera_flash:【2023-06-20 10:07:02】](https://mp.weixin.qq.com/s?__biz=MzU4MDgyNzU5Mg==&mid=2247484932&idx=1&sn=6f2e03942a2933bc5b95371314837c75&chksm=fd51a6a3ca262fb5b062b712404b634ddafd9138fff2dafccb17be202c975cdae8b2df2c8b6c&scene=27#wechat_redirect)
+[:camera_flash:【2023-06-30 14:07:20】](https://mp.weixin.qq.com/s?__biz=MzU4MDgyNzU5Mg==&mid=2247484938&idx=1&sn=7b1320f7442fdf2103b270a5c2a86a43&chksm=fd51a6adca262fbb48127cc4e0e6ba5858793edac3e85df2bd09ef8c0dda7de488d3bbcd7797&scene=27#wechat_redirect)
 
 集学习训练、竞赛实战为一体的网络安全在线能力提升平台
 
@@ -406,7 +406,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
 
-[:camera_flash:【2023-06-28 16:20:51】](https://mp.weixin.qq.com/s?__biz=MzUzNDg0NTc1NA==&mid=2247500732&idx=1&sn=bdf5ead6b1ed62a7711593f655e94ee1&chksm=fa8c03e9cdfb8aff24e655a0352766d43eb5540e35d0c9ec11ce3346e150463c640f4a3829e2&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-01 07:03:27】](https://mp.weixin.qq.com/s?__biz=MzUzNDg0NTc1NA==&mid=2247500766&idx=1&sn=78472ce218f3a89e16e3d695e6bb39d3&chksm=fa8c038bcdfb8a9d8b8726f6953965566a0e2a6c1e8fb49d9c891220019c9ba3e28febac004a&scene=27#wechat_redirect)
 
 启明星辰网络空间安全学院以国家网络安全事业发展为使命，依托启明星辰集团多年的技术沉淀及实践积累，提供网络安全人才体系构建与信息安全技术及能力提升教育培训，为建设网络强国提供有力的人才支撑。
 
@@ -575,7 +575,7 @@ Covteam工作室，成立于2005年。是以西华大学在校本科生研究生
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
 
-[:camera_flash:【2023-06-29 08:00:38】](https://mp.weixin.qq.com/s?__biz=MzUzODkwMDMxNA==&mid=2247524061&idx=1&sn=2ea6cdd132fb119b8e2bea2f2b6c354f&chksm=fad27ce8cda5f5fe30dcdb26e0d8caed4f66f0bd1fa23e9af9b4df7f9389323afb271ec66f20&scene=27#wechat_redirect)
+[:camera_flash:【2023-06-30 08:02:55】](https://mp.weixin.qq.com/s?__biz=MzUzODkwMDMxNA==&mid=2247527199&idx=1&sn=e00c908abf30a0299946bad878186d55&chksm=fad2892acda5003c6f964d61e99c3f60b78ca5e8cd52cc1ac8e903458b4fddcc0a518f3e7ac9&scene=27#wechat_redirect)
 
 百所高校、百家用人单位、百名尖锋导师，携手打造定制化人才培养模式，通过导师制职业规划和封闭式岗位实训，补足知识短板、提高实战能力，培养创新型、实用型网络安全尖锋人才。
 

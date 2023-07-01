@@ -1,7 +1,7 @@
 
 ### [商密君](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
 
-[:chart_with_upwards_trend:【0/99/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
+[:chart_with_upwards_trend:【0/95/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
 
 [:camera_flash:【2023-06-29 13:50:22】](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247604325&idx=1&sn=6f7e38079244ff8f82e439c7b5e9beb0&chksm=ec57483edb20c12874bda60784a2e2fd52514befbeda50f3bd450de49106ba48364b305f74f0&scene=27#wechat_redirect)
 
@@ -14,26 +14,13 @@
 
 ### [君哥的体历](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MjQ1NTA4MA==)
 
-[:chart_with_upwards_trend:【5/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MjQ1NTA4MA==)
+[:chart_with_upwards_trend:【5/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MjQ1NTA4MA==)
 
 [:camera_flash:【2023-06-29 07:31:03】](https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247489794&idx=1&sn=6d5f96a3f5f90de896bf1a73657709e7&chksm=ea4bb345dd3c3a538e11c015016ed97bf6adf05fc0049792fe27a54e03f1c0938840ae668409&scene=27#wechat_redirect)
 
 闲暇时间，逼迫自己，记录分享体验与经历，不求正确统一，但求真、善、美。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_aa4d8db71365" alt="" />
-
----
-
-
-### [全栈网络空间安全](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
-
-[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
-
-[:camera_flash:【2023-06-29 08:56:07】](https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247507799&idx=1&sn=51fbbe73adca145b5e727ac0cd611006&chksm=cf3d639af84aea8c9972bc3a09bbc5d0e0d9dd792ddac383e328ba72571246815df1add51a44&scene=27#wechat_redirect)
-
-做一个会思考的全栈网络空间安全者
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_9774ce64d500" alt="" />
 
 ---
 
@@ -181,6 +168,19 @@ OWASP中国，SecZone互联网安全研究中心官方平台
 ---
 
 
+### [全栈网络空间安全](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
+
+[:camera_flash:【2023-06-29 08:56:07】](https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247507799&idx=1&sn=51fbbe73adca145b5e727ac0cd611006&chksm=cf3d639af84aea8c9972bc3a09bbc5d0e0d9dd792ddac383e328ba72571246815df1add51a44&scene=27#wechat_redirect)
+
+做一个会思考的全栈网络空间安全者
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_9774ce64d500" alt="" />
+
+---
+
+
 ### [表图](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzOTI4NDQ3NA==)
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzOTI4NDQ3NA==)
@@ -211,7 +211,7 @@ OWASP中国，SecZone互联网安全研究中心官方平台
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
 
-[:camera_flash:【2023-06-29 12:00:48】](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247528669&idx=1&sn=b92d8263832fb0f2bd999c910d629fbb&chksm=fa6b09accd1c80baf3d2d71b08f0ff263e8ebc99a925b10fdfea38c610eb339b95e0ec68da93&scene=27#wechat_redirect)
+[:camera_flash:【2023-06-30 12:00:08】](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247528683&idx=1&sn=7560d67bf172b94587b1555511780e06&chksm=fa6b099acd1c808c104a6a42211bfdfdc48a40ea5d2135d94564518f4e3244a64f3467eea45e&scene=27#wechat_redirect)
 
 安全教程\\高质量文章\\面试经验分享，尽在#掌控安全EDU#
 
@@ -237,7 +237,7 @@ OWASP中国，SecZone互联网安全研究中心官方平台
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
 
-[:camera_flash:【2023-06-29 11:57:13】](https://mp.weixin.qq.com/s?__biz=MzU0Mzk0NDQyOA==&mid=2247509016&idx=1&sn=58ce74a714dc86d69d582a305c2e1b07&chksm=fb015f9bcc76d68d793affad7c372323d557211491a80752a8e338be7aa755f0c70af4f28906&scene=27#wechat_redirect)
+[:camera_flash:【2023-06-30 17:41:58】](https://mp.weixin.qq.com/s?__biz=MzU0Mzk0NDQyOA==&mid=2247509027&idx=1&sn=eb4bc48c98b527c2c34b4da37ee9b62b&chksm=fb015fa0cc76d6b69ea8ab78bbf787f66d0b742f442bb540b8a3d87160942175c5a92320dec9&scene=27#wechat_redirect)
 
 深圳市网络与信息安全行业协会（SNISA），是深圳市网络与信息安全行业的权威组织，是中国网络安全审查技术与认证中心（CCRC）在深圳唯一授权工作站，是经深圳市人力资源和社会保障局核准，开展网络空间安全工程技术专业职称评审工作的社会组织。
 
@@ -354,7 +354,7 @@ OWASP中国，SecZone互联网安全研究中心官方平台
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwODc2NjgwMg==)
 
-[:camera_flash:【2023-06-09 20:25:47】](https://mp.weixin.qq.com/s?__biz=MzAwODc2NjgwMg==&mid=2649111086&idx=1&sn=e18e1302a238d26f2d1e6d181687e091&chksm=837b4e13b40cc70558e211bc9b7d9c751cf7e9389773ddaf0593764c80919c02042da606a599&scene=27#wechat_redirect)
+[:camera_flash:【2023-06-30 20:07:50】](https://mp.weixin.qq.com/s?__biz=MzAwODc2NjgwMg==&mid=2649111120&idx=1&sn=5c06233b3475c1d334e671bd648922f5&chksm=837b4e6db40cc77b1d9ed3c4a9951f656d2e66b0948601384e42eb9491dcebe3190e24c54a34&scene=27#wechat_redirect)
 
 悬镜安全，DevSecOps敏捷安全领导者，创始人子芽。专注于以代码疫苗技术为内核，通过原创专利级第三代DevSecOps智适应威胁管理体系，持续赋能数千家行业标杆用户，帮助其构筑起内生积极防御体系。
 
