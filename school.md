@@ -12,19 +12,6 @@
 ---
 
 
-### [浙商大信息安全小分队](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM0MjA5OA==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM0MjA5OA==)
-
-[:camera_flash:【2023-06-01 02:19:10】](https://mp.weixin.qq.com/s?__biz=MzI5NTM0MjA5OA==&mid=2247484352&idx=1&sn=c9f5b9e54c676148a2e74ed2831fef80&chksm=ec545abddb23d3abaca3262a7983dbbb552f73079c6d5274c3216b639893252d88f7ef1cc85a&scene=27#wechat_redirect)
-
-发布信息安全技术及相关竞赛信息。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_711d4ce1da87" alt="" />
-
----
-
-
 ### [DROPS攻防训练营](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NjE0Mzk2OA==)
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NjE0Mzk2OA==)
@@ -190,6 +177,19 @@
 安全学习记录
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_1b26e38d0253" alt="" />
+
+---
+
+
+### [浙商大信息安全小分队](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM0MjA5OA==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM0MjA5OA==)
+
+[:camera_flash:【2023-06-01 02:19:10】](https://mp.weixin.qq.com/s?__biz=MzI5NTM0MjA5OA==&mid=2247484352&idx=1&sn=c9f5b9e54c676148a2e74ed2831fef80&chksm=ec545abddb23d3abaca3262a7983dbbb552f73079c6d5274c3216b639893252d88f7ef1cc85a&scene=27#wechat_redirect)
+
+发布信息安全技术及相关竞赛信息。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_711d4ce1da87" alt="" />
 
 ---
 
@@ -575,7 +575,7 @@ Covteam工作室，成立于2005年。是以西华大学在校本科生研究生
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
 
-[:camera_flash:【2023-06-30 08:02:55】](https://mp.weixin.qq.com/s?__biz=MzUzODkwMDMxNA==&mid=2247527199&idx=1&sn=e00c908abf30a0299946bad878186d55&chksm=fad2892acda5003c6f964d61e99c3f60b78ca5e8cd52cc1ac8e903458b4fddcc0a518f3e7ac9&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-01 08:03:45】](https://mp.weixin.qq.com/s?__biz=MzUzODkwMDMxNA==&mid=2247527205&idx=1&sn=d56a1109b9296a1b74bb509f06bcc2e5&chksm=fad28910cda50006211acae69b3c6bcdc589856abdb7a3f4f6346913b7c4a4ecbc451396308d&scene=27#wechat_redirect)
 
 百所高校、百家用人单位、百名尖锋导师，携手打造定制化人才培养模式，通过导师制职业规划和封闭式岗位实训，补足知识短板、提高实战能力，培养创新型、实用型网络安全尖锋人才。
 
@@ -627,7 +627,7 @@ Covteam工作室，成立于2005年。是以西华大学在校本科生研究生
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5NDczNDc4NA==)
 
-[:camera_flash:【2023-06-28 10:22:37】](https://mp.weixin.qq.com/s?__biz=Mzg5NDczNDc4NA==&mid=2247493116&idx=1&sn=8e74fd8649a97b1f5ed0f38da765efdf&chksm=c019bd53f76e3445ad58d6435f443e0635e2d017f40afcf65d8db90dbb0d82783379c627a1e2&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-01 09:00:42】](https://mp.weixin.qq.com/s?__biz=Mzg5NDczNDc4NA==&mid=2247493133&idx=1&sn=1070d564b870192d00e72ee01282fecb&chksm=c019bea2f76e37b4dd952ac93bd5859f4cbb0baa11f5717a5cec34ac1a67c1b80931dbd75ad8&scene=27#wechat_redirect)
 
 浙江大学网络空间安全学院/浙江大学网络空间安全研究中心
 

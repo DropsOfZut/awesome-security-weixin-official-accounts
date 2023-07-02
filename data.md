@@ -1,7 +1,7 @@
 
 ### [安华金和](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3MTQwNTQxMg==)
 
-[:chart_with_upwards_trend:【1/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3MTQwNTQxMg==)
+[:chart_with_upwards_trend:【1/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3MTQwNTQxMg==)
 
 [:camera_flash:【2023-06-29 15:17:08】](https://mp.weixin.qq.com/s?__biz=MzA3MTQwNTQxMg==&mid=2650785100&idx=1&sn=fc88e010c477174a600cea88ca7bef55&chksm=87257f47b052f65139e22167d220f9c1b1e939da70a5d102d04be0335029eb8a604557fdd9a3&scene=27#wechat_redirect)
 
@@ -42,7 +42,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1NzYwNTMzNw==)
 
-[:camera_flash:【2023-06-30 07:30:36】](https://mp.weixin.qq.com/s?__biz=MzI1NzYwNTMzNw==&mid=2247514581&idx=1&sn=59a5ef198ea84835b74f25f898ceccaf&chksm=ea161263dd619b751e725a9dd8ec55a44b83cd27ffa7b27758fba846979b3c1c4e6d2d809419&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-02 07:30:12】](https://mp.weixin.qq.com/s?__biz=MzI1NzYwNTMzNw==&mid=2247514619&idx=1&sn=223e429af92afb9eaa6beb9eecd1f4b0&chksm=ea16124ddd619b5bc0d6c86fd02fa37e5208b4f47b4dd07cb2aabbceb8fbcc45a017239ae0ea&scene=27#wechat_redirect)
 
 聚焦数据治理，数字化转型，数据中台等领域专业知识总结和实战分享，做你身边最有价值的数据号！
 
@@ -185,7 +185,7 @@ www.pcachina.com
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNzQyMTEyMQ==)
 
-[:camera_flash:【2023-06-30 11:30:31】](https://mp.weixin.qq.com/s?__biz=MzIwNzQyMTEyMQ==&mid=2247487690&idx=1&sn=eb0d2fb08ee7d3a1d1e65c5830e8157f&chksm=9713fb64a06472728ffc8b17012f59b8d6b303d586ff486ce6690d961ca62133e93445baeac8&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-01 10:00:08】](https://mp.weixin.qq.com/s?__biz=MzIwNzQyMTEyMQ==&mid=2247487691&idx=1&sn=e67fe5bc3ef560333b77b9a5ce5f7bc7&chksm=9713fb65a06472737c15919c3b967c392c13084ab0d1ddfea4c05ab5b6d9688cde17806cd5a0&scene=27#wechat_redirect)
 
 聚焦数据安全与数据要素化，洞察行业趋向，提供专业解读，分享研究成果。
 
@@ -341,7 +341,7 @@ www.pcachina.com
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5OTM0NTM2OQ==)
 
-[:camera_flash:【2023-06-30 17:30:53】](https://mp.weixin.qq.com/s?__biz=Mzg5OTM0NTM2OQ==&mid=2247489840&idx=1&sn=1adb4c6d853f7d80f16894484c42ded6&chksm=c055e786f7226e90b367060883e42503be63575a58c16bc45bad2aadbd4f056bb8ee6a32cef0&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-01 08:02:20】](https://mp.weixin.qq.com/s?__biz=Mzg5OTM0NTM2OQ==&mid=2247489839&idx=1&sn=70d70305cb1f57d9a62285e0a839a9a9&chksm=c055e799f7226e8f0a7c98d3bcc0259ae899e87c2125d36d76ea7be05d85e40ac7229743f5ef&scene=27#wechat_redirect)
 
 数安行，专注数据运营安全，让数据安全地创造价值！
 

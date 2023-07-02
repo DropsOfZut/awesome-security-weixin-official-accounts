@@ -1,9 +1,9 @@
 
 ### [全球技术地图](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1OTExNDY1NQ==)
 
-[:chart_with_upwards_trend:【15/39/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1OTExNDY1NQ==)
+[:chart_with_upwards_trend:【14/37/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1OTExNDY1NQ==)
 
-[:camera_flash:【2023-06-30 17:05:40】](https://mp.weixin.qq.com/s?__biz=MzI1OTExNDY1NQ==&mid=2651604559&idx=1&sn=8f932d4f66d7531277a31d6079c7f930&chksm=f18535bfc6f2bca9cd9759e98c8f3e8bd2431f170372e72f546aadeab5410e361e0dafee6566&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-01 17:13:10】](https://mp.weixin.qq.com/s?__biz=MzI1OTExNDY1NQ==&mid=2651604576&idx=1&sn=bb574187e4d3562d47e615cc57b1cb52&chksm=f1853590c6f2bc8656bf3a51fb48858f1cc7153077203c66ae452d1a90c2f34e5dec3a9747e0&scene=27#wechat_redirect)
 
 洞见前沿，引领未来。
 
@@ -510,7 +510,7 @@ NOVA SEC  新星安全 萌新启蒙之路 愿大家都能成为最闪耀的星�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwMDQwNTE5MA==)
 
-[:camera_flash:【2023-07-01 00:00:50】](https://mp.weixin.qq.com/s?__biz=MzAwMDQwNTE5MA==&mid=2650246791&idx=1&sn=e2802e5e08a5ad1f421fbd73e457ddfa&chksm=82ea552eb59ddc38209a24111e925859ad0d590fc2cd61ea6eb6eada8b1677933f96c82033b6&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-02 00:00:02】](https://mp.weixin.qq.com/s?__biz=MzAwMDQwNTE5MA==&mid=2650246810&idx=1&sn=30532cbeac079dfb609c1c68e4eec526&chksm=82ea5533b59ddc250e544b767d1837a054b80a59803dd8be150760f364d77bf17a20eb176193&scene=27#wechat_redirect)
 
 每天会发信息安全的事件文章，让大家了解更多信息安全知识和资讯。
 
@@ -575,7 +575,7 @@ NOVA SEC  新星安全 萌新启蒙之路 愿大家都能成为最闪耀的星�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MDk3NDc5Mg==)
 
-[:camera_flash:【2023-06-25 21:05:25】](https://mp.weixin.qq.com/s?__biz=MzI1MDk3NDc5Mg==&mid=2247484839&idx=1&sn=6c164ebce91393b4dae98116cd0d6972&chksm=e9fb4280de8ccb96c43d80c3b049746c9bb75b63b3f7890ec70d92ecf0055b7fcf30ae4f7c5d&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-01 19:20:21】](https://mp.weixin.qq.com/s?__biz=MzI1MDk3NDc5Mg==&mid=2247484846&idx=1&sn=847c701f11ffb1c436c4c4133a696a89&chksm=e9fb4289de8ccb9fe58ad49cad9a79e10999abf7f0ea602c5833eccc1879529028cc980262cc&scene=27#wechat_redirect)
 
 审计，渗透，二进制，kali，分享圈子。
 
@@ -627,7 +627,7 @@ NOVA SEC  新星安全 萌新启蒙之路 愿大家都能成为最闪耀的星�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NjY4MDAyNQ==)
 
-[:camera_flash:【2023-06-30 14:25:15】](https://mp.weixin.qq.com/s?__biz=MzU4NjY4MDAyNQ==&mid=2247491824&idx=1&sn=d3e7587ac53bc6e30f35ae5f5098c3d0&chksm=fdf53346ca82ba5060d0f38da6d1f32c760ec91527dff44eb197ad2a54fe4be5bd7bd55f2943&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-01 09:17:59】](https://mp.weixin.qq.com/s?__biz=MzU4NjY4MDAyNQ==&mid=2247491847&idx=1&sn=487c939f2c95e3d13b57fc473dafb79e&chksm=fdf532b1ca82bba76935aec00abeafff11c039f93abfe0c46149c46e54a970cef26540116e5d&scene=27#wechat_redirect)
 
 嘉诚安全，您身边的安全专家
 
@@ -783,7 +783,7 @@ NOVA SEC  新星安全 萌新启蒙之路 愿大家都能成为最闪耀的星�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2MDQzMjY4NQ==)
 
-[:camera_flash:【2023-06-30 14:00:38】](https://mp.weixin.qq.com/s?__biz=Mzg2MDQzMjY4NQ==&mid=2247491643&idx=1&sn=6764603247698b344023d9a9a63c2136&chksm=ce24d079f953596f7cfe5a20ccddf9bd4905ea6fb020267b0b29de966a44e2448db8805f04a2&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-01 14:00:24】](https://mp.weixin.qq.com/s?__biz=Mzg2MDQzMjY4NQ==&mid=2247491644&idx=1&sn=f2b7983c817b29bb4e061874e93476da&chksm=ce24d07ef9535968f7a83862f69e7f2e6c5c69bc8a4e93ff65f5f5624fcb2eb7012c7783c3c8&scene=27#wechat_redirect)
 
 这里是全网的网安人员聚集地！分享神秘的黑客技术、工具资源和网络信息安全领域的相关技能 。每天自动更新和推送 。
 
@@ -835,7 +835,7 @@ NOVA SEC  新星安全 萌新启蒙之路 愿大家都能成为最闪耀的星�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyMjkzMzY4Ng==)
 
-[:camera_flash:【2023-05-16 21:30:48】](https://mp.weixin.qq.com/s?__biz=MzIyMjkzMzY4Ng==&mid=2247502094&idx=1&sn=f2d63049d5b2eba9b4ef7b572b2ae283&chksm=e8276ed7df50e7c152a71102dff8673fcef41bc92236436099d41ef68b5758e50793f122a531&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-01 09:00:52】](https://mp.weixin.qq.com/s?__biz=MzIyMjkzMzY4Ng==&mid=2247502119&idx=1&sn=e661a40d372e43e5fa0c8950651218cb&chksm=e8276efedf50e7e81c8ee825fdaac7a3291aff2f7b2d8b2500560691dcc351e64bf50b0388e4&scene=27#wechat_redirect)
 
 WgpSec 狼组安全团队由几位热爱网络安全的年轻人一同组成过去的几年内没来得及让团队发生有效且质的变化这一次，为了我们的slogan：打造信息安全乌托邦。前进！
 
