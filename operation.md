@@ -1,7 +1,7 @@
 
 ### [云计算和网络安全技术实践](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3MjM5MDc2Nw==)
 
-[:chart_with_upwards_trend:【4/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3MjM5MDc2Nw==)
+[:chart_with_upwards_trend:【3/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3MjM5MDc2Nw==)
 
 [:camera_flash:【2023-07-03 08:49:27】](https://mp.weixin.qq.com/s?__biz=MzA3MjM5MDc2Nw==&mid=2650747763&idx=1&sn=da669bb094ceb3a1ad06217c16b55cbb&chksm=87149273b0631b65c79a2fa67e6fa2fb035da766dd6edef705de51bd4aa9e68c955870683222&scene=27#wechat_redirect)
 
@@ -94,7 +94,7 @@ BAT 技术专家分享开发、架构、运维相关干货！
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NjE0NDc5OQ==)
 
-[:camera_flash:【2023-07-03 08:08:02】](https://mp.weixin.qq.com/s?__biz=Mzk0NjE0NDc5OQ==&mid=2247520767&idx=1&sn=204d061497bf755877550320c76b8647&chksm=c308428ff47fcb99831806421293433c43280d08006d1b5f0722875315b0a7f41c3ed2f6c87b&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-04 08:08:27】](https://mp.weixin.qq.com/s?__biz=Mzk0NjE0NDc5OQ==&mid=2247520769&idx=2&sn=05368c2916b356e868ec915f036f7c92&chksm=c3084171f47fc8675868fd1c0eb4c39f1c5fb61d4de15f5db85b0d196123a9e3f121678b84b9&scene=27#wechat_redirect)
 
 未知攻 焉知防 攻防兼备
 
@@ -120,7 +120,7 @@ BAT 技术专家分享开发、架构、运维相关干货！
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzIwNTY1OA==)
 
-[:camera_flash:【2023-07-03 09:17:45】](https://mp.weixin.qq.com/s?__biz=MzkxMzIwNTY1OA==&mid=2247497121&idx=1&sn=ce5cd0853f832f99c7dd99e369e08d8e&chksm=c1038554f6740c42c5c46be6a44d4da558aa01b782a4a7702d1a8569f834d07dde536a1e137b&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-04 08:03:24】](https://mp.weixin.qq.com/s?__biz=MzkxMzIwNTY1OA==&mid=2247497155&idx=1&sn=c0b4957174c20de140515a0c7bd963e5&chksm=c1038536f6740c207917bf99b2db03e45f7079bd4db54c374bca0fcb0ba987437ff528671fe0&scene=27#wechat_redirect)
 
 发布关于kali相关文章。Debian Centos等操作系统的安全和运维。以及树莓派 ESP8266 DIY单片机等相关安全领域的文章。旨在掌握技术和原理的前提下，更好的保护自身网络安全。反对一切危害网络安全的行为，造成法律后果请自负。
 
