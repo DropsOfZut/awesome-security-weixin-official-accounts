@@ -94,7 +94,7 @@ BAT 技术专家分享开发、架构、运维相关干货！
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NjE0NDc5OQ==)
 
-[:camera_flash:【2023-07-05 08:08:33】](https://mp.weixin.qq.com/s?__biz=Mzk0NjE0NDc5OQ==&mid=2247520770&idx=1&sn=0f5cd3beb8518200b772ed191dc3b80a&chksm=c3084172f47fc8645fcbd9e4f206abe8bab85bad83ef4ade5e717bb3e19a793e4c52da521280&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-06 08:08:44】](https://mp.weixin.qq.com/s?__biz=Mzk0NjE0NDc5OQ==&mid=2247520771&idx=1&sn=cb8a620f28bf3148f35daf931dfd263f&chksm=c3084173f47fc8659c041e0534fd11e362c118c3cb531ac58e4b45e91366c110439a11ad6e0d&scene=27#wechat_redirect)
 
 未知攻 焉知防 攻防兼备
 
@@ -120,7 +120,7 @@ BAT 技术专家分享开发、架构、运维相关干货！
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzIwNTY1OA==)
 
-[:camera_flash:【2023-07-04 08:03:24】](https://mp.weixin.qq.com/s?__biz=MzkxMzIwNTY1OA==&mid=2247497155&idx=1&sn=c0b4957174c20de140515a0c7bd963e5&chksm=c1038536f6740c207917bf99b2db03e45f7079bd4db54c374bca0fcb0ba987437ff528671fe0&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-06 18:19:19】](https://mp.weixin.qq.com/s?__biz=MzkxMzIwNTY1OA==&mid=2247497224&idx=1&sn=d81d018f558404ec0997d86d95aebd37&chksm=c10386fdf6740feb4419a48c7ccb1b1c006d0c25b4af34dc4502a6c77f96ebbd2b1e86b2e61d&scene=27#wechat_redirect)
 
 发布关于kali相关文章。Debian Centos等操作系统的安全和运维。以及树莓派 ESP8266 DIY单片机等相关安全领域的文章。旨在掌握技术和原理的前提下，更好的保护自身网络安全。反对一切危害网络安全的行为，造成法律后果请自负。
 

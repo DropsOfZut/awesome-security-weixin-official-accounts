@@ -1,7 +1,7 @@
 
 ### [商密君](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
 
-[:chart_with_upwards_trend:【0/75/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
+[:chart_with_upwards_trend:【0/72/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
 
 [:camera_flash:【2023-06-29 13:50:22】](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247604325&idx=1&sn=6f7e38079244ff8f82e439c7b5e9beb0&chksm=ec57483edb20c12874bda60784a2e2fd52514befbeda50f3bd450de49106ba48364b305f74f0&scene=27#wechat_redirect)
 
@@ -34,19 +34,6 @@
 网络安全创业者，CTO@星阑科技。浪漫世界，一起折腾！
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_6410a4e28c9e" alt="" />
-
----
-
-
-### [绿盟科技金融事业部](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2NDI5MTg4MA==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2NDI5MTg4MA==)
-
-[:camera_flash:【2023-06-06 13:56:57】](https://mp.weixin.qq.com/s?__biz=MzI2NDI5MTg4MA==&mid=2247492964&idx=1&sn=eceee497a91fd6bee58185132d5f7f2a&chksm=eaac7623dddbff355cce21bedb9582253ed411a315f571c95280ddfb9e1a9466f2e2729409ef&scene=27#wechat_redirect)
-
-该账号由绿盟科技金融事业部维护，用于发布金融行业相关安全资讯等内容
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_de59bd871eb8" alt="" />
 
 ---
 
@@ -211,7 +198,7 @@ OWASP中国，SecZone互联网安全研究中心官方平台
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
 
-[:camera_flash:【2023-07-05 12:00:14】](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247528876&idx=1&sn=46b34aa9b838cf192465d8997898dd32&chksm=fa6b08ddcd1c81cb01384ee5ec4df6d08e19dbb5497756bcce31c1ccc4602665326617f3e94b&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-06 14:13:50】](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247528950&idx=1&sn=2d02909476be43705d4d3c99b866ca95&chksm=fa6b0887cd1c81914474608e541f11a38cd4fd8722231ea42889a6b5349cc7355663b512c64d&scene=27#wechat_redirect)
 
 安全教程\\高质量文章\\面试经验分享，尽在#掌控安全EDU#
 
@@ -237,7 +224,7 @@ OWASP中国，SecZone互联网安全研究中心官方平台
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
 
-[:camera_flash:【2023-07-05 08:30:32】](https://mp.weixin.qq.com/s?__biz=MzU0Mzk0NDQyOA==&mid=2247509103&idx=1&sn=02cd1eaec64ddc3317218ecc939f30d0&chksm=fb015feccc76d6fab13f27409430441b4d8ebbd78d4772952d16334d8222f404b706650b04ee&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-06 10:00:38】](https://mp.weixin.qq.com/s?__biz=MzU0Mzk0NDQyOA==&mid=2247509188&idx=1&sn=ce2f60e50e234f409123daf52241182d&chksm=fb015f47cc76d6511725bca0b9702f83b0fe1c6a108e2676d8610ab72bfc3012e642d10ebeac&scene=27#wechat_redirect)
 
 深圳市网络与信息安全行业协会（SNISA），是深圳市网络与信息安全行业的权威组织，是中国网络安全审查技术与认证中心（CCRC）在深圳唯一授权工作站，是经深圳市人力资源和社会保障局核准，开展网络空间安全工程技术专业职称评审工作的社会组织。
 
@@ -307,6 +294,19 @@ OWASP中国，SecZone互联网安全研究中心官方平台
 随心所欲的树洞，网络安全，数据安全的随笔和心得。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_90820932a5f8" alt="" />
+
+---
+
+
+### [绿盟科技金融事业部](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2NDI5MTg4MA==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2NDI5MTg4MA==)
+
+[:camera_flash:【2023-06-06 13:56:57】](https://mp.weixin.qq.com/s?__biz=MzI2NDI5MTg4MA==&mid=2247492964&idx=1&sn=eceee497a91fd6bee58185132d5f7f2a&chksm=eaac7623dddbff355cce21bedb9582253ed411a315f571c95280ddfb9e1a9466f2e2729409ef&scene=27#wechat_redirect)
+
+该账号由绿盟科技金融事业部维护，用于发布金融行业相关安全资讯等内容
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_de59bd871eb8" alt="" />
 
 ---
 
