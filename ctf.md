@@ -120,7 +120,7 @@ CTF，从入门到放弃
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzEwMTQ3NQ==)
 
-[:camera_flash:【2023-07-08 15:53:15】](https://mp.weixin.qq.com/s?__biz=MzU3MzEwMTQ3NQ==&mid=2247506706&idx=1&sn=7a0e7acf1911190b36fd070c077d61fa&chksm=fcc45fdecbb3d6c8d51070ec3de969282215505d5931e501edccce068827ca267ab7e1123724&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-10 20:59:28】](https://mp.weixin.qq.com/s?__biz=MzU3MzEwMTQ3NQ==&mid=2247506734&idx=1&sn=f21f94ce41a1c46c934d2f4066c87d08&chksm=fcc45fe2cbb3d6f443073c47659d93142087e2b8a347c83f006c971453a036dbf64fcd2454e2&scene=27#wechat_redirect)
 
 青少年CTF（原名中学生CTF）帮助大家学习CTF竞赛，信息安全与网络技术。大家如果喜欢我们的视频讲解和教程可以加入我们的QQ群：797842833。快来和我们一起学习安全知识吧。
 
@@ -276,7 +276,7 @@ CTF协会
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjcxMTAwMQ==)
 
-[:camera_flash:【2023-06-22 10:11:09】](https://mp.weixin.qq.com/s?__biz=Mzg4MjcxMTAwMQ==&mid=2247487096&idx=1&sn=29ac832d9fe4863b322789347066c926&chksm=cf53cecef82447d8d3725d78337046383e57798a39e5cf82bf5f3fafa2c4045671b687b43ce0&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-08 16:13:32】](https://mp.weixin.qq.com/s?__biz=Mzg4MjcxMTAwMQ==&mid=2247487128&idx=1&sn=da719e804967ae3160f55cab3126d20c&chksm=cf53ce2ef8244738a09b2f5991ac92e620f57306866288b66f2be8af12cda4af7fc27962ce36&scene=27#wechat_redirect)
 
 山海关安全团队旗下CTF战队-Arr3stY0u公众号。
 
