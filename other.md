@@ -1,9 +1,9 @@
 
 ### [全球技术地图](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1OTExNDY1NQ==)
 
-[:chart_with_upwards_trend:【7/19/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1OTExNDY1NQ==)
+[:chart_with_upwards_trend:【6/17/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1OTExNDY1NQ==)
 
-[:camera_flash:【2023-07-12 17:34:51】](https://101.91.34.106/s?__biz=MzI1OTExNDY1NQ==&mid=2651604888&idx=1&sn=3e5ba41338736cf18ace1ac47f79a3c6&chksm=f1853468c6f2bd7e1bacb5794aaebf45a1d93161b6a46e086627aa35478aea2247b279129c70&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-13 17:35:00】](https://101.91.43.159/s?__biz=MzI1OTExNDY1NQ==&mid=2651604930&idx=1&sn=0ff51c98aa8165c479a81924e6607796&chksm=f1853432c6f2bd248a742ca9346e200db29b224314cf8d1feb3b90414d88d800602c9ff55e23&scene=27#wechat_redirect)
 
 洞见前沿，引领未来。
 
@@ -55,7 +55,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyMDEzMTA2MQ==)
 
-[:camera_flash:【2023-07-12 10:17:11】](https://240e:e1:a900:50::1d/s?__biz=MzIyMDEzMTA2MQ==&mid=2651165169&idx=1&sn=23ec159fbad72f414cb704d137c21671&chksm=8c218a6bbb56037d50fffab69212a1afc1490395cf76905139ca1d7f6d85c9cee75edc119edd&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-13 08:30:48】](https://101.91.43.159/s?__biz=MzIyMDEzMTA2MQ==&mid=2651165204&idx=1&sn=6e41eeb3b4f5f2e7df85ace692109376&chksm=8c21898ebb560098fd351f8bd0fa8bdaf560eea595a60a3eee95537223a24b2d900220b4926e&scene=27#wechat_redirect)
 
 分享黑客技术和网络安全知识，让程序员了解黑客世界，学习黑客技术；普及上网和网络安全知识；帮助黑客、安全从业者、安全爱好者学习与成长。分享的所有技术和工具仅供学习之用。
 
@@ -367,7 +367,7 @@ What is Security?
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxODM0NDU4MQ==)
 
-[:camera_flash:【2023-07-11 10:02:14】](https://101.91.34.106/s?__biz=MzIxODM0NDU4MQ==&mid=2247500126&idx=1&sn=b7661d5450e69500a8d2fb86fc5e68cd&chksm=97e97cb4a09ef5a273db5821dc6af3a923724d2a11716194335d7fc6c96fd2666a9e498f3a74&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-13 17:37:13】](https://101.91.43.159/s?__biz=MzIxODM0NDU4MQ==&mid=2247500133&idx=1&sn=4d1b450e8f540eebe95e9dd3db3a004e&chksm=97e97c8fa09ef599f35ad4f524232cb7a8ff4df936302835db694fce0568ef58933f91342d82&scene=27#wechat_redirect)
 
 立足本土实践和需求，放眼全球做法和经验，探寻网络空间安全之法道。
 
@@ -393,7 +393,7 @@ What is Security?
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNzk0NTkxNw==)
 
-[:camera_flash:【2023-07-10 18:45:17】](https://mp.weixin.qq.com/s?__biz=MzAwNzk0NTkxNw==&mid=2247486495&idx=1&sn=54d2380451a400a1461f6eb9bd0a0609&chksm=9b7727cdac00aedb64e6897e0f25ab762412d20e8a754b518e37fed3389aec020d4daa8dc30c&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-13 18:35:29】](https://101.91.43.159/s?__biz=MzAwNzk0NTkxNw==&mid=2247486500&idx=1&sn=2fd388183325fa818024d51787c1b1e7&chksm=9b7727f6ac00aee0a6528f16c3f54ec4f4119cbd5697052e81ec0110e8d3551acfdc9c84056b&scene=27#wechat_redirect)
 
 边界无限是国内提供全链路云安全防护产品和实战化攻防体系建设的新锐网络安全企业，致力于通过还原真实攻防来帮助政企客户构建更安全、更灵动的网络及更动态、更有价值的纵深防御体系。
 
@@ -614,7 +614,7 @@ NOVA SEC  新星安全 萌新启蒙之路 愿大家都能成为最闪耀的星�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwNTI4MTA1MQ==)
 
-[:camera_flash:【2023-07-12 14:06:53】](https://101.91.43.159/s?__biz=MzkwNTI4MTA1MQ==&mid=2247500695&idx=1&sn=d62ca5428011d4c02f438ca239ceac73&chksm=c0f8a8e3f78f21f55c98498fb99db2cfd180412ca623ddb0a843903f575b4973a779b31ffe12&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-13 10:03:04】](https://101.91.34.106/s?__biz=MzkwNTI4MTA1MQ==&mid=2247500700&idx=1&sn=763901a06cd1c3f4f88a5fb3cc0962f5&chksm=c0f8a8e8f78f21fe644b81b8f9bb33a6165b8f8c1d269110b64388847215457a3c4c9d6d1c4d&scene=27#wechat_redirect)
 
 安全服务
 
@@ -627,7 +627,7 @@ NOVA SEC  新星安全 萌新启蒙之路 愿大家都能成为最闪耀的星�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NjY4MDAyNQ==)
 
-[:camera_flash:【2023-07-12 16:17:58】](https://101.91.34.106/s?__biz=MzU4NjY4MDAyNQ==&mid=2247492036&idx=1&sn=7db9ed5947c0c12e17cd0b76369719d5&chksm=fdf53272ca82bb64c063916e4569ca89d554803f43efb0973a436e70d7f9be57306f225aba91&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-13 16:09:19】](https://101.91.34.106/s?__biz=MzU4NjY4MDAyNQ==&mid=2247492074&idx=1&sn=86c4d730540e0f86eaa4289b649851cc&chksm=fdf5325cca82bb4ac0db1f99db2fea4e6fccbbdaabd3e6931799d3ce895213cf180d07a8eea3&scene=27#wechat_redirect)
 
 嘉诚安全，您身边的安全专家
 
@@ -640,7 +640,7 @@ NOVA SEC  新星安全 萌新启蒙之路 愿大家都能成为最闪耀的星�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4ODYzMjU0NQ==)
 
-[:camera_flash:【2023-07-10 17:33:01】](https://mp.weixin.qq.com/s?__biz=MzA4ODYzMjU0NQ==&mid=2652313596&idx=1&sn=b0296cd6b6ed073f45d5a10a61087d15&chksm=8bc48a72bcb30364059308c670fdedbb6deabf695e3030eaca771a0cabc7a861fa66b1c47d4f&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-13 09:00:06】](https://101.91.43.159/s?__biz=MzA4ODYzMjU0NQ==&mid=2652313607&idx=1&sn=5ba27b1cd834a21c2a95914cf2d270ef&chksm=8bc48589bcb30c9fd41fb9f6188091ae5b5ba36291fede8bfa11084ca1e8615838feb0bf45f0&scene=27#wechat_redirect)
 
 网络安全研究国际学术论坛（InForSec），由活跃在安全学术圈的段海新教授、杨珉教授、韦韬博士、万涛博士等共同发起，在网络和系统安全领域建立一座沟通中国和国际、学术和工业、老师和学生的桥梁。
 
@@ -783,7 +783,7 @@ NOVA SEC  新星安全 萌新启蒙之路 愿大家都能成为最闪耀的星�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2MDQzMjY4NQ==)
 
-[:camera_flash:【2023-07-12 14:00:54】](https://101.91.43.159/s?__biz=Mzg2MDQzMjY4NQ==&mid=2247491663&idx=1&sn=9c52ff6b2c071498d6acf6bc5c2277ff&chksm=ce24d00df953591b1ac58e6f5445e3e30bda2c83383977979494014eecf96ac436cbec50816e&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-13 14:00:32】](https://101.91.43.159/s?__biz=Mzg2MDQzMjY4NQ==&mid=2247491664&idx=1&sn=3054f88ce8b919bff2bfa578cf2cd439&chksm=ce24d012f95359047e23bc1c68388c14943a560b87cd60cfbaeb8a54f3dd7238c6aeb4e99447&scene=27#wechat_redirect)
 
 这里是全网的网安人员聚集地！分享神秘的黑客技术、工具资源和网络信息安全领域的相关技能 。每天自动更新和推送 。
 
@@ -822,7 +822,7 @@ NOVA SEC  新星安全 萌新启蒙之路 愿大家都能成为最闪耀的星�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNzIxMjM3Mg==)
 
-[:camera_flash:【2023-07-12 08:11:07】](https://101.91.43.159/s?__biz=MzkyNzIxMjM3Mg==&mid=2247485297&idx=1&sn=30ae8c9cc13dad43efa6cada3f80d4c7&chksm=c22a314af55db85ce7c2a7f625a7a0bb71e612bbc73f2f7292154951c33b99fd7c79246998a2&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-14 08:11:41】](https://101.91.43.159/s?__biz=MzkyNzIxMjM3Mg==&mid=2247485314&idx=1&sn=d092e7c6783cec04fb24b1ba659578ae&chksm=c22a31b9f55db8afa9c72dba3ba3d43b3ba7751d33f61194be6a1a891d6179c6a14691403eef&scene=27#wechat_redirect)
 
 专注安全研究、漏洞复现、代码审计等技术方向，有时会分享安全圈的资讯和职场分析！
 
