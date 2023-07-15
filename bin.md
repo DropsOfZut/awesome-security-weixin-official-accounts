@@ -1,22 +1,9 @@
 
-### [RayTracing](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwMjk4MTU2NQ==)
-
-[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwMjk4MTU2NQ==)
-
-[:camera_flash:【2023-06-14 21:02:43】](https://mp.weixin.qq.com/s?__biz=MzAwMjk4MTU2NQ==&mid=2247483722&idx=1&sn=2749115d19c0f67317a22b20d7be2b8f&chksm=9ac36a98adb4e38e94f4665cc5f52103be0739ac91cfd212a5508b7f24cfc72659bb26e4f97a&scene=27#wechat_redirect)
-
-主要分享自己在二进制方面的一些技术，比如程序分析，逆向，漏洞等，也会分享一些开发相关的东东
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_29fa961361a8" alt="" />
-
----
-
-
 ### [吾爱破解论坛](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Mjc3MDM2Mw==)
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Mjc3MDM2Mw==)
 
-[:camera_flash:【2023-07-07 14:44:26】](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651139591&idx=1&sn=48242dfcc9b1f8ebb72aa05bc70ea851&chksm=bd50be538a273745654531324417054ec50bb6015d8cd0e5b3e951e5631164077a7674f908ed&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-14 16:03:33】](https://101.91.34.106/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651139598&idx=1&sn=b72ed22c83657ca6d09b50e09cc9e7ed&chksm=bd50be5a8a27374c334321fc5dce984a5530e3e203aacb3db3a0506158aa36bcdce7c3b03776&scene=27#wechat_redirect)
 
 吾爱破解论坛致力于软件安全与病毒分析的前沿，丰富的技术版块交相辉映，由无数热衷于软件加密解密及反病毒爱好者共同维护，留给世界一抹值得百年回眸的惊艳，沉淀百年来计算机应用之精华与优雅，任岁月流转，低调而奢华的技术交流与探索却是亘古不变。
 
@@ -42,7 +29,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTc2MDYxMw==)
 
-[:camera_flash:【2023-07-13 18:05:16】](https://101.91.34.106/s?__biz=MjM5NTc2MDYxMw==&mid=2458509525&idx=1&sn=a263670af6402c80f5dc11cd8cce0cb7&chksm=b18ed05f86f959490de1f220e52595c6f165c1337b43668d2ee8dc09b2cd9173b13a7bf1afa7&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-14 18:01:45】](https://101.91.34.106/s?__biz=MjM5NTc2MDYxMw==&mid=2458509554&idx=1&sn=212347a4f3010663a9532741c255ceb9&chksm=b18ed07886f9596e1d69228dca442eaa777c915b80f30f023149c36699d9fe72c0042c93230c&scene=27#wechat_redirect)
 
 致力于移动与安全研究的开发者社区，看雪学院(kanxue.com)官方微信公众帐号。
 
@@ -81,7 +68,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU1NTEzODc3MQ==)
 
-[:camera_flash:【2023-06-30 18:00:30】](https://mp.weixin.qq.com/s?__biz=MzU1NTEzODc3MQ==&mid=2247486036&idx=1&sn=66f92a28ed42ee0ec16da1ceea9b92eb&chksm=fbd9a1e8ccae28fe97e6781e1ac645e4edba955cb27b1a8cea471fa32bd10eef0ad558138f22&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-14 18:00:23】](https://101.91.34.106/s?__biz=MzU1NTEzODc3MQ==&mid=2247486052&idx=1&sn=09452da404e0b2c9352c22adb63e5575&chksm=fbd9a1d8ccae28ce88ae42a983e5d0f88843200cab0f1b9195b655ca6aafb1d7b4b560706bcc&scene=27#wechat_redirect)
 
 「FuzzWiki」致力于成为国内最专业的模糊测试技术论坛平台，专注于分享模糊测试领域前沿技术、深度文章、行业资讯、最新突破，为专家学者、从业者、相关行业安全人员和决策者构筑完善的知识图谱，提供交流模糊测试新技术、新知识、新工具的开放平台。
 
@@ -242,6 +229,19 @@ pWn3d bY BiGSKidd3r&amp;FuzZer&amp;A2pter&amp;pWn3r rULe4Ker4pwn 65535 tim3s.
 致力于汇编教程和逆向破解之路
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_86e8b32f4148" alt="" />
+
+---
+
+
+### [RayTracing](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwMjk4MTU2NQ==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwMjk4MTU2NQ==)
+
+[:camera_flash:【2023-06-14 21:02:43】](https://mp.weixin.qq.com/s?__biz=MzAwMjk4MTU2NQ==&mid=2247483722&idx=1&sn=2749115d19c0f67317a22b20d7be2b8f&chksm=9ac36a98adb4e38e94f4665cc5f52103be0739ac91cfd212a5508b7f24cfc72659bb26e4f97a&scene=27#wechat_redirect)
+
+主要分享自己在二进制方面的一些技术，比如程序分析，逆向，漏洞等，也会分享一些开发相关的东东
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_29fa961361a8" alt="" />
 
 ---
 
