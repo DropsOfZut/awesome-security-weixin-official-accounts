@@ -575,7 +575,7 @@ Covteam工作室，成立于2005年。是以西华大学在校本科生研究生
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
 
-[:camera_flash:【2023-07-07 08:00:13】](https://mp.weixin.qq.com/s?__biz=MzUzODkwMDMxNA==&mid=2247536237&idx=1&sn=37b615e1c9c81e19fe8649bb7c9ec9d3&chksm=fad2ac58cda5254e3e03307f606c35784327acdaa3f808cdf4fd6beab4139aea8dfa2f619da6&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-15 08:02:47】](https://101.91.34.106/s?__biz=MzUzODkwMDMxNA==&mid=2247549707&idx=1&sn=00e0239ee34e48978f9f7199e4aa8e7e&chksm=fad2e13ecda568283d1528190f4ca9d4350e68b09b5fb902af68c540463a7a4f66d20e82818d&scene=27#wechat_redirect)
 
 百所高校、百家用人单位、百名尖锋导师，携手打造定制化人才培养模式，通过导师制职业规划和封闭式岗位实训，补足知识短板、提高实战能力，培养创新型、实用型网络安全尖锋人才。
 

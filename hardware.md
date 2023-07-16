@@ -198,7 +198,7 @@ Power by Gh0xE9 Team, Just join us &lt;3; Gh0xE9 Team Welcomes universities and 
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
 
-[:camera_flash:【2023-07-14 23:27:56】](https://101.91.34.106/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247586210&idx=1&sn=708090b9b102be789f2ee832976fd591&chksm=fc03c168cb74487ef09c835e4266b83218b85be7771a52f2d6507c6c6f4e19627fa7f6709f8d&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-15 20:21:37】](https://101.91.34.106/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247586253&idx=1&sn=73f7458c0da295856b11424fd5b5dc11&chksm=fc03c107cb74481185387a2db414c7f0961ddf0c42a547416e35d62f340a3222c4b88b903eed&scene=27#wechat_redirect)
 
 为智能网联汽车行业专业人士提供信息和网络安全技术、产品及服务等行业发展最新咨询
 
@@ -289,7 +289,7 @@ Power by Gh0xE9 Team, Just join us &lt;3; Gh0xE9 Team Welcomes universities and 
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTU3NTY0Nw==)
 
-[:camera_flash:【2023-07-14 23:07:03】](https://101.91.43.159/s?__biz=Mzg3NTU3NTY0Nw==&mid=2247487557&idx=1&sn=f49fb71c68fe3c3d5fcb6ae75c20981d&chksm=cf3e3075f849b9632af67755d0a111d7298235fb6ba0563abba2928b5fcff61f6ed97ad40d02&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-15 23:06:01】](https://101.91.34.106/s?__biz=Mzg3NTU3NTY0Nw==&mid=2247487561&idx=1&sn=bad660a41a546ca78bba97dd491159d3&chksm=cf3e3079f849b96f856f4729f5ad96f88fea779f1b9ca8702a0e4168f4b79c92f20cc64818cf&scene=27#wechat_redirect)
 
 旨于开展网络安全相关法律法规研究与电子数据取证技术研究，分享小知识、小技巧，共同学习提高，推进技术规范化建设。
 
