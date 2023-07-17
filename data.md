@@ -25,24 +25,11 @@
 ---
 
 
-### [大数据安全工程研究中心](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Nzg0NzUxOQ==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Nzg0NzUxOQ==)
-
-[:camera_flash:【2023-07-12 09:21:57】](https://240e:e1:a900:50::1e/s?__biz=MjM5Nzg0NzUxOQ==&mid=2247486629&idx=1&sn=70582b681056647295411857ca0d7631&chksm=a6d2841591a50d0340402d29e9497e396d778dd4f23168445e81286e584d16f5d6039cf8595d&scene=27#wechat_redirect)
-
-提供大数据安全设计咨询、实时推送前沿数据安全技术、解读数据安全标准；为政企单位提升信息安全意识，提供数据安全解决方案。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e09832f580ea" alt="" />
-
----
-
-
 ### [谈数据](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1NzYwNTMzNw==)
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1NzYwNTMzNw==)
 
-[:camera_flash:【2023-07-15 07:30:56】](https://101.91.43.159/s?__biz=MzI1NzYwNTMzNw==&mid=2247515104&idx=1&sn=be473d14519127f6d06ac97bb3237877&chksm=ea161056dd619940531df631c88f975c1cd14f05cd696372a07b562d30b865f3dc14e86848a6&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-16 08:31:18】](https://101.91.43.159/s?__biz=MzI1NzYwNTMzNw==&mid=2247515105&idx=1&sn=27ed34b4cb4b8aa00c099ec0ec5f880f&chksm=ea161057dd6199413217128528f434b1bac2a54e49a8b44e08892a67875d948c521a3127a17e&scene=27#wechat_redirect)
 
 聚焦数据治理，数字化转型，数据中台等领域专业知识总结和实战分享，做你身边最有价值的数据号！
 
@@ -94,7 +81,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzODk1NzY5NA==)
 
-[:camera_flash:【2023-07-14 13:32:37】](https://101.91.34.106/s?__biz=MzIzODk1NzY5NA==&mid=2247494890&idx=1&sn=82f8a61aaa865312cd5aca71cb9ab1bc&chksm=e933c9fbde4440edde228311f5023fbdf43ad3c60826e77d331f6953a8bfb2687ef0c0396306&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-16 10:42:31】](https://101.91.34.106/s?__biz=MzIzODk1NzY5NA==&mid=2247494894&idx=1&sn=af7eb33f2e06ad9147145432365e082b&chksm=e933c9ffde4440e9fee40ee91a6eb93d6c30df059cbb44bd515324c3592a92e0e27afaa53f5c&scene=27#wechat_redirect)
 
 www.pcachina.com
 
@@ -177,6 +164,19 @@ www.pcachina.com
 发布国内数据安全产业动态信息，包含新闻资讯、政策文件、发展现状、趋势态势等。设置中国数据安全产业大会、数据安全产业发展成果展、数据安全创新大赛和数据安全产业培训等专栏，实时更新发布系列活动最新内容与进展。链接工信部数据安全相关公共服务平台。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a30bfee064c9" alt="" />
+
+---
+
+
+### [大数据安全工程研究中心](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Nzg0NzUxOQ==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Nzg0NzUxOQ==)
+
+[:camera_flash:【2023-07-12 09:21:57】](https://240e:e1:a900:50::1e/s?__biz=MjM5Nzg0NzUxOQ==&mid=2247486629&idx=1&sn=70582b681056647295411857ca0d7631&chksm=a6d2841591a50d0340402d29e9497e396d778dd4f23168445e81286e584d16f5d6039cf8595d&scene=27#wechat_redirect)
+
+提供大数据安全设计咨询、实时推送前沿数据安全技术、解读数据安全标准；为政企单位提升信息安全意识，提供数据安全解决方案。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e09832f580ea" alt="" />
 
 ---
 

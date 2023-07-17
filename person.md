@@ -1,9 +1,9 @@
 
 ### [Ots安全](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxMjYyMzkwOA==)
 
-[:chart_with_upwards_trend:【0/30/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxMjYyMzkwOA==)
+[:chart_with_upwards_trend:【0/26/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxMjYyMzkwOA==)
 
-[:camera_flash:【2023-07-15 00:00:34】](https://101.91.43.159/s?__biz=MzAxMjYyMzkwOA==&mid=2247500045&idx=1&sn=45e1abe7fc7c5ac05f0d3b2f08a4944d&chksm=9bad8846acda0150cd3a3b97f26750ca1eeacee1b58c664d70e76f316221d3be3d2dd87f0aa2&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-16 15:06:14】](https://101.91.34.106/s?__biz=MzAxMjYyMzkwOA==&mid=2247500055&idx=1&sn=76509c62590c32fa8bcf1c5ff9abfb1f&chksm=9bad885cacda014ac9ae34828568d643b06a40a4438de2d42c7fbedd24457303f1a48876d389&scene=27#wechat_redirect)
 
 持续发展共享方向：威胁情报、漏洞情报、恶意分析、渗透技术（工具）等，不会回复任何私信，感谢关注。
 
@@ -64,19 +64,6 @@ HACK学习，专注于互联网安全与黑客精神；渗透测试，社会工�
 ---
 
 
-### [乌鸦安全](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3NjA4MjMyMw==)
-
-[:chart_with_upwards_trend:【1/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3NjA4MjMyMw==)
-
-[:camera_flash:【2023-07-10 10:12:21】](https://mp.weixin.qq.com/s?__biz=MzI3NjA4MjMyMw==&mid=2647788511&idx=1&sn=2e1b838c23278e266fb9f698d75937a9&chksm=f35c5023c42bd935cdc6c0fde21a535891553c21a6a10fd2539bda3bcc6ac40179910adb91d2&scene=27#wechat_redirect)
-
-专注于网络安全技术分享，红蓝对抗技术、免杀、反制、内网漫游、安全研究。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4a54cc603caf" alt="" />
-
----
-
-
 ### [格格巫和蓝精灵](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NDg0ODkwMQ==)
 
 [:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NDg0ODkwMQ==)
@@ -94,7 +81,7 @@ HACK学习，专注于互联网安全与黑客精神；渗透测试，社会工�
 
 [:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3Njk2OTIzOQ==)
 
-[:camera_flash:【2023-07-10 06:06:35】](https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247485246&idx=1&sn=3b7f747b1b1ed9004daa7a36e1cf4dea&chksm=eb6c2546dc1bac50146ce88cc3e553da869e0891e7e52ac0c076f0f9afcc075564cda875e258&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-17 06:06:40】](https://101.91.43.159/s?__biz=MzI3Njk2OTIzOQ==&mid=2247485261&idx=1&sn=2b36b79cddc4ec47e1f19a15bbcde97c&chksm=eb6c2535dc1bac233d5ececec3b999072aa6327fb8f8957ad015d39e1a3d82c416527a5b25a3&scene=27#wechat_redirect)
 
 大大的世界，小小的人儿；喜欢夜的黑，更爱昼的白。因为热爱安全，所以想起该做些什么了？！公众号主要将不定期分享个人所见所闻所感，包括但不限于：安全测试、漏洞赏析、渗透技巧、企业安全
 
@@ -125,19 +112,6 @@ HACK学习，专注于互联网安全与黑客精神；渗透测试，社会工�
 网络安全自修室专注于打造网络安全学习平台，营造科学学习网络安全氛围，主要内容涵盖互联网安全学习路线和网络理论知识、靶机渗透测试、漏洞利用复现、社会工程学实战、Python黑客编程、学习资源分享、网络安全培训等
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_21e38c4b4ad1" alt="" />
-
----
-
-
-### [Aaron与安全的那些事](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3MTk4NTcyNw==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3MTk4NTcyNw==)
-
-[:camera_flash:【2023-06-28 12:00:15】](https://mp.weixin.qq.com/s?__biz=MzI3MTk4NTcyNw==&mid=2247485810&idx=1&sn=c8a506aa65bff9358428a0685957b502&chksm=eb383422dc4fbd3458b72e802a9af640de0ca5e65e91822235c8378e9fd6b1c52b790ba4cc63&scene=27#wechat_redirect)
-
-你得有“翻篇”这个重要的能力.如果总在那些已经无法改变的人和事上耿耿于怀.毫无意义地消耗自己.那人生只会进入无休止的恶循环.向前看.把精力用在珍惜当下眼前的人和事.有勇气让那些既定的事情翻篇.才会越来越幸福.
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_7730c4cf8f8a" alt="" />
 
 ---
 
@@ -211,7 +185,7 @@ HACK学习，专注于互联网安全与黑客精神；渗透测试，社会工�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0NDA5MDYyNA==)
 
-[:camera_flash:【2023-07-15 16:06:30】](https://101.91.43.159/s?__biz=MzI0NDA5MDYyNA==&mid=2648257151&idx=1&sn=096341c59dc9e6c9616dc90128198120&chksm=f14e8010c6390906c25079f823882853bcec98be91a37ce5535e9505e2d36e5a525ba0116592&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-16 14:21:31】](https://101.91.34.106/s?__biz=MzI0NDA5MDYyNA==&mid=2648257166&idx=1&sn=f2146bccf33862d4bde9be08c619ceb7&chksm=f14e80e1c63909f78ed04a1d4735c525939c1aea63bcb222bc7ff0fd8ea8107e772cac8b3045&scene=27#wechat_redirect)
 
 tombkeeper 的公众号
 
@@ -328,7 +302,7 @@ tombkeeper 的公众号
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyMTA0MjQ4NA==)
 
-[:camera_flash:【2023-07-15 00:00:19】](https://101.91.43.159/s?__biz=MzUyMTA0MjQ4NA==&mid=2247546189&idx=1&sn=46e97470ff9b223f5349c8d3e5669ffc&chksm=f9e35a16ce94d30056c4a7bb5fde10b6df469ea61a0dad5226ea4d3b1972cbf994c198801126&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-17 00:00:14】](https://101.91.43.159/s?__biz=MzUyMTA0MjQ4NA==&mid=2247546193&idx=1&sn=abebefb9c5002ae95ef64b145dcc6f7c&chksm=f9e35a0ace94d31c2e4c8f413228f6f354dcbd92a9daac6dc0d8050469fb773f652dcaa809fb&scene=27#wechat_redirect)
 
 每日发布安全资讯～
 
@@ -887,7 +861,7 @@ C/ASM程序员之闲言碎语
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU1Mjk3MDY1OA==)
 
-[:camera_flash:【2023-07-16 00:00:16】](https://101.91.43.159/s?__biz=MzU1Mjk3MDY1OA==&mid=2247505402&idx=1&sn=7ef60c5bad0dca20aa553b0f72124fef&chksm=fbfb6537cc8cec21fe634d4767f593a18d3ce15e9165a9c6fd9b2a7d12c469aa360b0c0bc25d&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-17 00:00:37】](https://101.91.34.106/s?__biz=MzU1Mjk3MDY1OA==&mid=2247505448&idx=3&sn=7fbb69135f379d2235a300eb45364d75&chksm=fbfb66e5cc8ceff3ff5d84fa2a25dd868ae1e3f8fbe6bf0a8adfd027491f3a8d004eb36b780c&scene=27#wechat_redirect)
 
 利刃信安攻防实验室是一家专注于提供网络安全解决方案的专业服务商。我们能够提供包括等保、软测试、密码评估、风险评估、渗透测试等项目合作服务。此外，我们还能够提供CISP、PTE、CISSP、PTS及其他各种网络安全证书培训考证服务。
 
@@ -965,7 +939,7 @@ C/ASM程序员之闲言碎语
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzIyMjYzNA==)
 
-[:camera_flash:【2023-07-14 08:30:49】](https://101.91.34.106/s?__biz=MzIwMzIyMjYzNA==&mid=2247510457&idx=1&sn=a032c55d3f76aebd2cde242a49164168&chksm=96d052bca1a7dbaa1adf1c52459f43725b0b43955e6726e9d743e2dff851803fece4220a7728&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-16 08:30:41】](https://101.91.43.159/s?__biz=MzIwMzIyMjYzNA==&mid=2247510473&idx=1&sn=2ca1ef0f0a9a036f18c28151506c23a5&chksm=96d052cca1a7dbdaa51a92eca5d17f158869317d860313e6b257678b74151cf5e36e3d130060&scene=27#wechat_redirect)
 
 HACK之道，专注于红队攻防、实战技巧、CTF比赛、安全开发、安全运维、安全架构等精华技术文章及渗透教程、安全工具的分享。
 
@@ -1160,7 +1134,7 @@ HACK之道，专注于红队攻防、实战技巧、CTF比赛、安全开发、�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5NTU2NjA1Mw==)
 
-[:camera_flash:【2023-07-15 06:02:39】](https://101.91.43.159/s?__biz=Mzg5NTU2NjA1Mw==&mid=2247489404&idx=1&sn=406f43f1a28fdc64d69c07ee56e3f295&chksm=c00f3ef6f778b7e033d8ef1372ab9b27d9d3bc62650016f17628e2c4d1d737f21d54ec0a85b7&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-16 08:00:11】](https://101.91.34.106/s?__biz=Mzg5NTU2NjA1Mw==&mid=2247489409&idx=1&sn=bcb9d2577770cd81d7c3f611acc8c741&chksm=c00f3e0bf778b71d62b9f7a722e3c318f91f0e77871d95a5e97b8c9649c52c0abd239bd650e3&scene=27#wechat_redirect)
 
 谢天谢地、不忘祖先、敬偎圣贤
 
@@ -1173,7 +1147,7 @@ HACK之道，专注于红队攻防、实战技巧、CTF比赛、安全开发、�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NDYwMDA1NA==)
 
-[:camera_flash:【2023-07-12 23:22:01】](https://101.91.43.159/s?__biz=Mzg2NDYwMDA1NA==&mid=2247531290&idx=1&sn=92ce4184ef9afcd91db229bea62af612&chksm=ce64d183f9135895251257f2283b83d9cb93eca3c67401d7216c2b06f2ab52ae3722bdfcb469&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-16 23:29:28】](https://101.91.34.106/s?__biz=Mzg2NDYwMDA1NA==&mid=2247531320&idx=1&sn=edcd1fc68d47c5ea73a9e22fade6ff41&chksm=ce64d1a1f91358b78adb32ff5fce8a69faf9ffc2786a6827d601035f2a5fb2c4ad16e742966a&scene=27#wechat_redirect)
 
 知黑、守白、弘红；白帽、大厂、安防、十年、一线、老兵。【分享】个人渗透实战、编程、CTF、挖SRC、红蓝攻防、逆向，代码审计之经历、经验。
 
@@ -1212,7 +1186,7 @@ HACK之道，专注于红队攻防、实战技巧、CTF比赛、安全开发、�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0MTIzNTgzMQ==)
 
-[:camera_flash:【2023-07-14 10:07:54】](https://101.91.43.159/s?__biz=Mzk0MTIzNTgzMQ==&mid=2247507961&idx=1&sn=a4b44b51ac0cfe2244b92c8395b383ba&chksm=c2d714e1f5a09df7db915ffaa4313d7269cd8bac0aa8aaf24480136f67e87e535e4244a1d8b5&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-16 13:00:02】](https://101.91.43.159/s?__biz=Mzk0MTIzNTgzMQ==&mid=2247507962&idx=1&sn=6157a68e0fa947f926769d65c14a5fcf&chksm=c2d714e2f5a09df4e6f89864b4583dd623aa9f36351089947d2115415c993da856336597346a&scene=27#wechat_redirect)
 
 知其黑，守其白。手握利剑，心系安全。主要研究方向包括：Web、内网、红蓝对抗、代码审计、安卓逆向、CTF。
 
@@ -1355,7 +1329,7 @@ explore, exploit, expose
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NTUwMzM1Ng==)
 
-[:camera_flash:【2023-07-14 08:30:18】](https://101.91.34.106/s?__biz=Mzg4NTUwMzM1Ng==&mid=2247505002&idx=1&sn=d222428d2ece03bfaf32d41ca291e777&chksm=cfa57079f8d2f96fafb02cc0bad8ccd4be74e205070c514421258d47633e7d757153e819ac4e&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-16 08:30:19】](https://101.91.43.159/s?__biz=Mzg4NTUwMzM1Ng==&mid=2247505068&idx=1&sn=6a10bcbbcf84d49242ef77198ae30ed7&chksm=cfa570bff8d2f9a95a562adaabc6f5b46a5a6760e1ea99edd7781089b786f315943b3bdf0c94&scene=27#wechat_redirect)
 
 一个不会编程、挖SRC、代码审计的安全爱好者，主要分享一些安全经验、渗透思路、奇淫技巧与知识总结。
 
@@ -1394,7 +1368,7 @@ explore, exploit, expose
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI4MDQ5MjY1Mg==)
 
-[:camera_flash:【2023-07-15 08:02:02】](https://101.91.43.159/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247510061&idx=1&sn=875798ac1309233a9d4b0ad8a89d407b&chksm=ebb5472edcc2ce3898d90fb7efbf6ff6b7718fae8f05ee80c445c0fe4c8caa1204766ac3e1e9&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-16 08:01:30】](https://101.91.34.106/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247510071&idx=1&sn=8b97c5c978a53c17224b01169196b8d6&chksm=ebb54734dcc2ce229c61bb27a2d6a130882f9e9e870e41fd4b3c3fbed503512c48fec972a1d6&scene=27#wechat_redirect)
 
 将一些好用的红队工具、蓝队工具及自己的学习笔记分享给大家。。。
 
@@ -1641,7 +1615,7 @@ CSDN博客专家，武大在读博士，北理硕士本科。专注于Python和�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5OTY2NjUxMw==)
 
-[:camera_flash:【2023-07-15 00:00:33】](https://101.91.43.159/s?__biz=Mzg5OTY2NjUxMw==&mid=2247508420&idx=1&sn=f6447deb253117dfe3ccb6a2be95547a&chksm=c04d26faf73aafecd8a428d2db1628d1e95c1d488e3e9ebf530232012d427e429d09521515f8&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-17 00:01:04】](https://101.91.43.159/s?__biz=Mzg5OTY2NjUxMw==&mid=2247508438&idx=2&sn=9a6d925f71161984437226dc662892bd&chksm=c04d26e8f73aaffee734dd8ec80aa549dfba29b640f9d137614916d0975713add571c1a7dcff&scene=27#wechat_redirect)
 
 每日一干货🙂
 
@@ -1706,7 +1680,7 @@ CSDN博客专家，武大在读博士，北理硕士本科。专注于Python和�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwNDI1NDUwMQ==)
 
-[:camera_flash:【2023-07-15 08:13:57】](https://101.91.43.159/s?__biz=MzkwNDI1NDUwMQ==&mid=2247486597&idx=1&sn=7f470c5c7d5d9ac0d5deab2f09fb5fd0&chksm=c08889cff7ff00d9ab4c421e272c790ab631ea4c7fac047d85ca11b491768995557ea9dc34eb&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-16 09:21:18】](https://101.91.43.159/s?__biz=MzkwNDI1NDUwMQ==&mid=2247486623&idx=1&sn=62cab5a528dba3a86357ade8967ba715&chksm=c08889d5f7ff00c35f93bcedbeb19ee89cc2f6b99c2b7fdb436ade404722271e7198de9e5548&scene=27#wechat_redirect)
 
 漏洞情报，漏洞靶场，漏洞复现，安全技术分享，开发技术交流。安全，开发两手抓！
 
@@ -1771,7 +1745,7 @@ CSDN博客专家，武大在读博士，北理硕士本科。专注于Python和�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2NzY5MzI5Ng==)
 
-[:camera_flash:【2023-07-14 08:30:31】](https://101.91.34.106/s?__biz=MzU2NzY5MzI5Ng==&mid=2247497649&idx=1&sn=a0bc5ac11154750e2ee5064b9d1f79b7&chksm=fc9bed2ecbec643866fb5ec1e363e4c64a687f1f952a522cd6e98ceeb34a455c50cfca7dfa30&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-16 08:30:53】](https://101.91.43.159/s?__biz=MzU2NzY5MzI5Ng==&mid=2247497650&idx=1&sn=be75cb0e0af30b485796f43a61357c3f&chksm=fc9bed2dcbec643b2600a2212b47f481a2a13dee5e67c53e26fbaea5114386be11768964e53e&scene=27#wechat_redirect)
 
 web安全入门、进阶技巧，红蓝攻防、应急响应、内网渗透、漏洞分析等技术文章分享，以及网络安全工具、视频教程及学习资料。
 
@@ -1953,7 +1927,7 @@ Red Team / Offensive Security
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyMDAwMjkzNg==)
 
-[:camera_flash:【2023-07-13 21:43:54】](https://101.91.43.159/s?__biz=MzIyMDAwMjkzNg==&mid=2247511554&idx=1&sn=238425b6e85bb1f5931ae80beb8ebcfc&chksm=97d04115a0a7c803d4148e6e803810a171b3249654e67316097c98534f63cb5f9ff445cbc6b7&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-16 21:54:20】](https://101.91.43.159/s?__biz=MzIyMDAwMjkzNg==&mid=2247511714&idx=1&sn=84722740df207ea684bd873c86c07b68&chksm=97d041b5a0a7c8a37b4feb40823a92a0e93ca64d18e963317df549921bf968b14edd4d2f7516&scene=27#wechat_redirect)
 
 致力于让小白也能学懂信息安全，分享一些自己信息安全方面的学习经验，让正在学习信息安全的人少走弯路！不定时推送一些学习路上会使用的工具和一些优质的学习资源。
 
@@ -1966,7 +1940,7 @@ Red Team / Offensive Security
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwNzEzMTg3MQ==)
 
-[:camera_flash:【2023-07-13 10:53:53】](https://101.91.43.159/s?__biz=MzkwNzEzMTg3MQ==&mid=2247486709&idx=1&sn=9e155f2eed0861c3e3ccde44ecfba043&chksm=c0dca245f7ab2b53fdc8c1c9a0d2c277afc103c04a44d497db00ab518fdc87739fb6ac9b6420&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-16 09:01:29】](https://101.91.43.159/s?__biz=MzkwNzEzMTg3MQ==&mid=2247486717&idx=1&sn=d1330fdf155791947c2f8d3b532dce46&chksm=c0dca24df7ab2b5bc62ad330a6f45f0557b6b4d05a17c98733037d80f8070ab400dd1645f550&scene=27#wechat_redirect)
 
 渗透测试,内网渗透,SRC漏洞分享,安全开发,安全武器库
 
@@ -2083,7 +2057,7 @@ VisActor 以叙事可视化为新的着力点，以智能可视化为目标，�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NzUzNzk1Mw==)
 
-[:camera_flash:【2023-07-13 07:50:45】](https://101.91.43.159/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247495652&idx=1&sn=86993fba4ff01b4abdfce1be3ee8fb79&chksm=ceb8aaaaf9cf23bc1b63d32bd300c8b09dc48e8c688b94dd82760f5aa40cfead986caec780e5&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-16 13:31:51】](https://101.91.43.159/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247495656&idx=1&sn=4bdbf0785d2a329d8bb7b6bb73878a01&chksm=ceb8aaa6f9cf23b01507e34c0b1d0321db1750a7c926d884dbf32797a241384e921ef5ede9e3&scene=27#wechat_redirect)
 
 移动安全(Android/iOS/鸿蒙)、车联网安全、Web安全、终端安全、隐私合规、数据安全、防作弊、溯源取证、软件安全开发等的技术研究、分享，安全服务、安全培训，创新安全产品的研发，为政企等用户提供安全解决方案(欢迎商务合作)！
 
@@ -2109,7 +2083,7 @@ VisActor 以叙事可视化为新的着力点，以智能可视化为目标，�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMzMwODg2Mw==)
 
-[:camera_flash:【2023-07-15 09:00:41】](https://101.91.43.159/s?__biz=MzkwMzMwODg2Mw==&mid=2247499725&idx=1&sn=e47d8c88266e175dcb955c8427a0ec6e&chksm=c09a8c9df7ed058ba300780e1a56505872dcd82c6eb22d6de9e7d610765159b9a6c75e08ace9&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-16 09:30:22】](https://101.91.34.106/s?__biz=MzkwMzMwODg2Mw==&mid=2247499731&idx=1&sn=ce6c7b0975bc9fa36b1809b5eccc9640&chksm=c09a8c83f7ed0595eec705db8e4660892b2254cd68de95c6117f45886f2d407c26bbf2870a52&scene=27#wechat_redirect)
 
 &quot;一个有趣的网络安全小平台&quot; 主攻WEB安全 | 内网渗透 | 红蓝对抗 | SRC | 安全资讯等内容分享，关注了解更多实用的安全小知识～
 
@@ -2166,6 +2140,19 @@ VisActor 以叙事可视化为新的着力点，以智能可视化为目标，�
 居世以安，居安思危，思则有备，有备无患
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e6e36167a7ad" alt="" />
+
+---
+
+
+### [乌鸦安全](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3NjA4MjMyMw==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3NjA4MjMyMw==)
+
+[:camera_flash:【2023-07-10 10:12:21】](https://mp.weixin.qq.com/s?__biz=MzI3NjA4MjMyMw==&mid=2647788511&idx=1&sn=2e1b838c23278e266fb9f698d75937a9&chksm=f35c5023c42bd935cdc6c0fde21a535891553c21a6a10fd2539bda3bcc6ac40179910adb91d2&scene=27#wechat_redirect)
+
+专注于网络安全技术分享，红蓝对抗技术、免杀、反制、内网漫游、安全研究。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4a54cc603caf" alt="" />
 
 ---
 
@@ -2551,7 +2538,7 @@ The quieter you become,the more you can hear :)
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzMTIzNTM0MA==)
 
-[:camera_flash:【2023-07-15 22:04:31】](https://101.91.34.106/s?__biz=MzIzMTIzNTM0MA==&mid=2247490879&idx=1&sn=71f6a815be8eb239a3c98576e678eb87&chksm=e8a6175cdfd19e4abf6f0948bc130d3f9e6c0e34c12edca11814dba734f9677f3ce333c4ecbb&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-16 22:46:43】](https://101.91.43.159/s?__biz=MzIzMTIzNTM0MA==&mid=2247490892&idx=1&sn=3936b3c049a512f600f4df209cba489a&chksm=e8a6172fdfd19e398d5178eb44d729728976be7cf81499429cc285e8ec4a10142f70d8ac0030&scene=27#wechat_redirect)
 
 作者主页: https://github.com/richard1230
 
@@ -2850,7 +2837,7 @@ Think, Try And Write
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2ODYxMzY3OQ==)
 
-[:camera_flash:【2023-07-15 20:57:23】](https://101.91.43.159/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247498992&idx=1&sn=9b9ef2c168f9ca5449d9f05df0534a57&chksm=ceab17b0f9dc9ea6c12fb516c2209c88d8123be90d6023d73ba81f9b2d88e0a0209407db5370&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-16 20:44:41】](https://101.91.43.159/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247498995&idx=1&sn=ec5428647fa40ea82dd938852a1574ff&chksm=ceab17b3f9dc9ea54592590f67aff4df275206c78e1f0cc3f5f3d51938668cd66c85f9f08f83&scene=27#wechat_redirect)
 
 From zero to one
 
@@ -2889,7 +2876,7 @@ From zero to one
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzMjI1NjI3Ng==)
 
-[:camera_flash:【2023-07-15 23:01:06】](https://101.91.34.106/s?__biz=MzkzMjI1NjI3Ng==&mid=2247486034&idx=1&sn=7f795e4b249e6450a6f4c1f012da7392&chksm=c25fc529f5284c3f3c85438b92c809ef413536e87942c15d52b7a16e9cb58f3a03fcbbe6f42c&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-16 22:46:20】](https://101.91.43.159/s?__biz=MzkzMjI1NjI3Ng==&mid=2247486061&idx=1&sn=6887d9b20f01fcf0ad3a7f13c90f23bc&chksm=c25fc516f5284c003e7822346eeecb81b2aec8dc8887cb4ed0be8c1ae2cb610c91a7fc917a9b&scene=27#wechat_redirect)
 
 ABC_123，2008年入行网络安全，某部委网络安保工作优秀个人，某市局特聘网络安全专家，某高校外聘讲师，希潭实验室创始人。Struts2检测工具及Weblogic T3/IIOP反序列化工具原创作者，擅长红队攻防，代码审计，内网渗透。
 
@@ -3097,7 +3084,7 @@ yield from self._thoughts
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NzU5Nzc2Mg==)
 
-[:camera_flash:【2023-06-27 21:36:24】](https://mp.weixin.qq.com/s?__biz=Mzg3NzU5Nzc2Mg==&mid=2247484222&idx=1&sn=3ea88acdcaa9109ea97ca693c87f9ca8&chksm=cf21c613f8564f050b5f667daac91edcc3fb9519e1d182e3d35ea1eadb52ac38ee2436148b73&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-16 19:30:52】](https://101.91.34.106/s?__biz=Mzg3NzU5Nzc2Mg==&mid=2247484224&idx=1&sn=49a275442c6f5c86ac9eda8e069ffe24&chksm=cf21c66df8564f7bab871f42207180b0b54fdbc2cad3bdde29f3cde8d6bdb2a90761f5210c1c&scene=27#wechat_redirect)
 
 23岁，来自酒精山的设计师。
 
@@ -3149,7 +3136,7 @@ Be a hacker of ideas.
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI4NTcxMjQ1MA==)
 
-[:camera_flash:【2023-07-15 12:15:04】](https://101.91.34.106/s?__biz=MzI4NTcxMjQ1MA==&mid=2247597442&idx=1&sn=649d852d34779bdbb0151fdbe8cec733&chksm=ebeb34afdc9cbdb959c7c19428f3678b712b47f781091dfd736fde4683aa7dfaeedc065d6d95&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-16 12:00:03】](https://101.91.34.106/s?__biz=MzI4NTcxMjQ1MA==&mid=2247597443&idx=1&sn=22c224139d0f80ed23e45d2140b0b8a8&chksm=ebeb34aedc9cbdb8b83bfbf0991e8dcb0f015551b2c365b012a95f48ce825bb5b5f39fc3a14b&scene=27#wechat_redirect)
 
 零基础也能学渗透！关注我，跟我一启开启渗透测试工程师成长计划.专注分享网络安全知识技能.
 
@@ -3604,7 +3591,7 @@ axib的研究记录
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwOTE5MDY5NA==)
 
-[:camera_flash:【2023-07-15 21:20:53】](https://101.91.34.106/s?__biz=MzkwOTE5MDY5NA==&mid=2247488179&idx=1&sn=482f832d711769a763d76c170c4da723&chksm=c13f21faf648a8ec514c2cb02a7145ca02fd364fac99edac32fab31d2bc99f4d6498d1eb6f82&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-16 18:58:13】](https://101.91.34.106/s?__biz=MzkwOTE5MDY5NA==&mid=2247488191&idx=1&sn=6f0635a14702f46711306bf0df89f9a3&chksm=c13f21f6f648a8e0f040c04afcaddcd6b30fa1e8887fa698b7139a49510f537235a877c98b11&scene=27#wechat_redirect)
 
 安全技术相关，作者主页https://github.com/haidragon。
 
@@ -3656,7 +3643,7 @@ axib的研究记录
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMDMwNDE2OQ==)
 
-[:camera_flash:【2023-07-15 23:33:07】](https://101.91.34.106/s?__biz=MzkxMDMwNDE2OQ==&mid=2247491638&idx=1&sn=4191a7977b12acd37639de25ec0a80e9&chksm=c12fd6f0f6585fe6c05ae8b7d3c7e3dd57635d0f3977ecd01d3572772cc780bdbbd63a05358c&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-16 18:14:41】](https://101.91.34.106/s?__biz=MzkxMDMwNDE2OQ==&mid=2247491694&idx=1&sn=e2d6be1a2a5f5490d47ad608612366c1&chksm=c12fd6a8f6585fbe53c67536905c3c90561254176aaf2b61d4fc77fd806af068d9a6044f5037&scene=27#wechat_redirect)
 
 渗透测试，应急响应，红蓝对抗，web渗透，漏洞挖掘，网络安全，信息安全
 
@@ -3786,7 +3773,7 @@ axib的研究记录
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3Mjc0MDQ2Nw==)
 
-[:camera_flash:【2023-07-04 23:14:42】](https://mp.weixin.qq.com/s?__biz=Mzg3Mjc0MDQ2Nw==&mid=2247492861&idx=1&sn=e8f152a16ba345e354b695abf8e4e040&chksm=cee807e1f99f8ef75fc6cd94283f426d2bab91bd46da8002df17cb687582b51c938ce1153148&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-16 23:37:18】](https://101.91.34.106/s?__biz=Mzg3Mjc0MDQ2Nw==&mid=2247492866&idx=1&sn=8c715dd67302c5076162a3b6f7d49aac&chksm=cee8061ef99f8f081e165a97df8d2485cccdfbc5042b5a232b72118fcac4fcbea44102e05aef&scene=27#wechat_redirect)
 
 白帽子程序员，网络安全、编程开发一线从业者；分享日常渗透测试、编程开发、红蓝对抗、CTF比赛、逆向，以及工作经历。努力做一名有价值输出的知识博主！
 
@@ -4072,7 +4059,7 @@ LoRexxar自运营公众号，分享Web安全、白盒代码审计、SDL、DevSec
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4OTI0MDk5MQ==)
 
-[:camera_flash:【2023-07-15 14:52:09】](https://101.91.34.106/s?__biz=Mzg4OTI0MDk5MQ==&mid=2247488521&idx=1&sn=9627bd9b48946e0113bae867744eb1de&chksm=cfefb8f9f89831efcd367335ab36916e8cf94cc942076c56f40dfe2d8f4bbf6c0d8349ca5c4b&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-17 00:11:39】](https://101.91.34.106/s?__biz=Mzg4OTI0MDk5MQ==&mid=2247488523&idx=1&sn=b55ab13731c77cf082b88727e6d8b69f&chksm=cfefb8fbf89831ed00be84d8688029786585219357dfa1537e491adde3d29a2cc4dc8436e1fb&scene=27#wechat_redirect)
 
 菜鸟也能飞
 
@@ -4090,6 +4077,19 @@ LoRexxar自运营公众号，分享Web安全、白盒代码审计、SDL、DevSec
 胡诌乱扯，皆成文章
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8e64cd57bc5e" alt="" />
+
+---
+
+
+### [Aaron与安全的那些事](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3MTk4NTcyNw==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3MTk4NTcyNw==)
+
+[:camera_flash:【2023-07-16 18:50:26】](https://101.91.34.106/s?__biz=MzI3MTk4NTcyNw==&mid=2247485838&idx=1&sn=8055043d6fd43485de741af3183a6726&chksm=eb3834dedc4fbdc8be59132d81b5c8d751e50da7f199b2fdcc9e7be2d7807aafa5b2a1237ae8&scene=27#wechat_redirect)
+
+你得有“翻篇”这个重要的能力.如果总在那些已经无法改变的人和事上耿耿于怀.毫无意义地消耗自己.那人生只会进入无休止的恶循环.向前看.把精力用在珍惜当下眼前的人和事.有勇气让那些既定的事情翻篇.才会越来越幸福.
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_7730c4cf8f8a" alt="" />
 
 ---
 
@@ -4358,7 +4358,7 @@ JAVA安全  安全攻防
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwODM3NjIxOQ==)
 
-[:camera_flash:【2023-07-15 14:13:11】](https://101.91.34.106/s?__biz=MzkwODM3NjIxOQ==&mid=2247494005&idx=1&sn=eab4fc66f140fbb746eea7ddd2a95f9b&chksm=c0c84881f7bfc197fa5404b9db740171accb30b0220554e07b9f8c0bcdd44ece24c2f0d1f962&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-16 23:02:31】](https://101.91.34.106/s?__biz=MzkwODM3NjIxOQ==&mid=2247494011&idx=1&sn=c989bbb2bd70074593cfe46a4e50e0ee&chksm=c0c8488ff7bfc19919fedd69aa4170bc9315af0e9e87dc70cb9143a2c3ac53bcf241997a940a&scene=27#wechat_redirect)
 
 关注红蓝对抗、Web安全、安全工具、渗透测试、物联网安全、安全开发、安全测评与优质内容分享
 
