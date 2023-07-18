@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
 
-[:camera_flash:【2023-07-14 10:00:20】](https://101.91.43.159/s?__biz=MjM5NDU3MjExNw==&mid=2247513290&idx=1&sn=57c7bedcb204a8dd16ddb80d7db74ac9&chksm=a68746f091f0cfe65e6ff8674a59dbf36f1ad9bd924c51129477b2177ad102512bcf3969b0b2&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-17 11:00:30】](https://101.91.34.106/s?__biz=MjM5NDU3MjExNw==&mid=2247513317&idx=1&sn=15d4f131c0969490f200bc93be5716b3&chksm=a68746df91f0cfc999b6e731cbcccd240324a8d218632221936f591c532a91e2dadc59517033&scene=27#wechat_redirect)
 
 国内最早、亚洲最大的网络攻防联赛。
 
@@ -120,7 +120,7 @@ CTF，从入门到放弃
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzEwMTQ3NQ==)
 
-[:camera_flash:【2023-07-10 20:59:28】](https://mp.weixin.qq.com/s?__biz=MzU3MzEwMTQ3NQ==&mid=2247506734&idx=1&sn=f21f94ce41a1c46c934d2f4066c87d08&chksm=fcc45fe2cbb3d6f443073c47659d93142087e2b8a347c83f006c971453a036dbf64fcd2454e2&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-13 22:00:10】](https://101.91.34.106/s?__biz=MzU3MzEwMTQ3NQ==&mid=2247506831&idx=1&sn=cf6708179531aa89773af902e7e85334&chksm=fcc45f43cbb3d655d930e9d5a73441cf76369cb31551776574b1985ff1be938128a4be83257e&scene=27#wechat_redirect)
 
 青少年CTF（原名中学生CTF）帮助大家学习CTF竞赛，信息安全与网络技术。大家如果喜欢我们的视频讲解和教程可以加入我们的QQ群：797842833。快来和我们一起学习安全知识吧。
 
