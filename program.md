@@ -1,17 +1,4 @@
 
-### [字节跳动技术团队](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
-
-[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
-
-[:camera_flash:【2023-07-13 12:02:50】](https://101.91.34.106/s?__biz=MzI1MzYzMjE0MQ==&mid=2247503379&idx=1&sn=1dabbe5c87b919350d7a90aab47c0eb1&chksm=e9d305f1dea48ce73944a90276dc9c81371bc78d848224395832b49c7f7e39f9e13c552efb82&scene=27#wechat_redirect)
-
-字节跳动的技术实践分享
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_24231986c9c8" alt="" />
-
----
-
-
 ### [进击的Coder](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzNzA4NDk3Nw==)
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzNzA4NDk3Nw==)
@@ -133,7 +120,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4ODg0NDkzOA==)
 
-[:camera_flash:【2023-07-18 09:00:29】](https://101.91.43.159/s?__biz=MzA4ODg0NDkzOA==&mid=2247508309&idx=1&sn=eea6fdd87356707d4ca37925625b7f3f&chksm=90211eb0a75697a6d16c846f824c5fa5e1c39ab3df86667157f7ae3d48801334ad5173e2e2a1&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-19 08:41:42】](https://101.91.43.159/s?__biz=MzA4ODg0NDkzOA==&mid=2247508352&idx=1&sn=7e06e0f92f434562f9df836170407abf&chksm=90211e65a7569773462beca56acc8a31930fa7f8bd94bfb23916b6eb0ee85f7048e720e544df&scene=27#wechat_redirect)
 
 最具规模和生命力的 Go 开发者社区
 
@@ -151,6 +138,19 @@
 该账号主要围绕智能化技术如何帮助企业提升网络安全水平展开，内容涉及机器学习、大数据处理等智能化技术在安全领域的实践经验分享，业界领先的产品和前沿趋势的解读分析等。通过分享、交流，推动安全智能的落地、应用。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_dc9b9a9fb2b2" alt="" />
+
+---
+
+
+### [字节跳动技术团队](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
+
+[:camera_flash:【2023-07-19 12:02:53】](https://101.91.43.159/s?__biz=MzI1MzYzMjE0MQ==&mid=2247503395&idx=1&sn=3000cdbe93bc45bee8d645db67b70fc9&chksm=e9d305c1dea48cd7480808b205a82666f652a7413876903eb91f986ff8b81d5420a9514b11ff&scene=27#wechat_redirect)
+
+字节跳动的技术实践分享
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_24231986c9c8" alt="" />
 
 ---
 

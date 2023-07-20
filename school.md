@@ -55,7 +55,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
 
-[:camera_flash:【2023-07-13 20:51:18】](https://101.91.34.106/s?__biz=MzU4NzUxOTI0OQ==&mid=2247486655&idx=1&sn=a0ea57348254d107e708005b689e654e&chksm=fdeb88c1ca9c01d799146fe112a6420b1f65861ffe84eb9d7e2508c42292fd46dda59a473fb9&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-19 17:20:40】](https://101.91.34.106/s?__biz=MzU4NzUxOTI0OQ==&mid=2247486676&idx=1&sn=165bcbb0dab7b15415ad59f7016856e0&chksm=fdeb88aaca9c01bc6bcde3511100de8686bacc16196e8e056c9ce433801985f0556df9d04d57&scene=27#wechat_redirect)
 
 以复旦大学系统安全实验室学生为主成立的安全攻防战队，分享最新研究成果，交流系统安全攻防领域技巧。
 
@@ -380,7 +380,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDYzMjAyNA==)
 
-[:camera_flash:【2023-06-20 17:00:48】](https://mp.weixin.qq.com/s?__biz=Mzg3MDYzMjAyNA==&mid=2247484469&idx=1&sn=ad4f299d630d58dd04c90fbe916e919e&chksm=ce8b9b02f9fc121424265f3ccd131482b91c0940b5c0ed99e195ff1d3ee8eafde6f2ff398576&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-19 17:30:40】](https://101.91.43.159/s?__biz=Mzg3MDYzMjAyNA==&mid=2247484504&idx=1&sn=00fb7b3a974fbc2d9c791a036315355c&chksm=ce8b9b6ff9fc1279d461283780ac36a6f7104730f4d112d4a732a7637d634e7882dc8e42aa8e&scene=27#wechat_redirect)
 
 深圳市网安计算机网络安全培训中心是深圳市计算机网络公共安全协会设立的下属培训机构。培训内容包括：CISP-PTE/PTS系列课程、CISP-IRE/IRS系列课程；网络攻防技术系列课程；网络安全等级保护及风险评估系列课程等网络安全相关课程。
 
@@ -406,7 +406,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
 
-[:camera_flash:【2023-07-18 11:22:31】](https://101.91.34.106/s?__biz=MzUzNDg0NTc1NA==&mid=2247501107&idx=1&sn=ac64bed032ebd31928a9fbaa45dac5a0&chksm=fa8c0566cdfb8c7081d0a683db952d74fd17c892dfcccdc2a76c56a63e1c50fe23d3ea97f0cd&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-19 16:30:57】](https://101.91.34.106/s?__biz=MzUzNDg0NTc1NA==&mid=2247501206&idx=1&sn=ffae5276dc3006ca86305670eb013614&chksm=fa8c05c3cdfb8cd581a20b72918b658048f94d1fc15e9b06104c61c118668f44b301145017da&scene=27#wechat_redirect)
 
 启明星辰网络空间安全学院以国家网络安全事业发展为使命，依托启明星辰集团多年的技术沉淀及实践积累，提供网络安全人才体系构建与信息安全技术及能力提升教育培训，为建设网络强国提供有力的人才支撑。
 
@@ -484,7 +484,7 @@ Covteam工作室，成立于2005年。是以西华大学在校本科生研究生
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4ODUyMjYyNg==)
 
-[:camera_flash:【2023-01-11 00:22:36】](https://mp.weixin.qq.com/s?__biz=Mzg4ODUyMjYyNg==&mid=2247486416&idx=1&sn=3214d431484edc329c9d9a9c3382e91c&chksm=cff8993df88f102b5c111c04bc1be755ed242f0853e9ce8effcc97ee00056a0a2f2f2e6ce262&scene=27#wechat_redirect)
+[:camera_flash:【2023-05-20 09:01:23】](https://101.91.43.159/s?__biz=Mzg4ODUyMjYyNg==&mid=2247486426&idx=1&sn=1492128b290450bef767b022d64cbfb6&chksm=cff89937f88f1021c1b1cb93571bf7d44b7f320958ed3e4e79eaa2656cd5ceee4d0e72410e37&scene=27#wechat_redirect)
 
 河北网络安全高校联盟
 
@@ -575,7 +575,7 @@ Covteam工作室，成立于2005年。是以西华大学在校本科生研究生
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
 
-[:camera_flash:【2023-07-18 08:00:08】](https://101.91.43.159/s?__biz=MzUzODkwMDMxNA==&mid=2247554431&idx=1&sn=ecd83b82f3b041c1e8eb8f71c9d165b5&chksm=fad2f74acda57e5cd1a26cae73aec325d1fa27d28fe853c51f1c448dd8f7c27bd9a6bc2c63ae&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-19 08:00:38】](https://101.91.34.106/s?__biz=MzUzODkwMDMxNA==&mid=2247555941&idx=1&sn=aacae690fc02419c3afdfe6456f2b14e&chksm=fad2f950cda57046f9266c04f216c73ad1ce357317dce8fd218df4c620bd4e6dd6b524c56497&scene=27#wechat_redirect)
 
 百所高校、百家用人单位、百名尖锋导师，携手打造定制化人才培养模式，通过导师制职业规划和封闭式岗位实训，补足知识短板、提高实战能力，培养创新型、实用型网络安全尖锋人才。
 
