@@ -1,22 +1,9 @@
 
-### [安华金和](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3MTQwNTQxMg==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3MTQwNTQxMg==)
-
-[:camera_flash:【2023-07-21 10:56:26】](https://101.91.34.106/s?__biz=MzA3MTQwNTQxMg==&mid=2650785328&idx=1&sn=2c1bf7aa02fc2c8380abe99aa8154720&chksm=87257c3bb052f52db8e449125681e7e1590c154f6c0ab27e1474149a619f90f6bc33f2d8aa92&scene=27#wechat_redirect)
-
-中国专业领先的数据安全产品、解决方案及咨询服务提供商。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_25eab0459e95" alt="" />
-
----
-
-
 ### [谈数据](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1NzYwNTMzNw==)
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1NzYwNTMzNw==)
 
-[:camera_flash:【2023-07-22 07:30:15】](https://101.91.34.106/s?__biz=MzI1NzYwNTMzNw==&mid=2247515145&idx=1&sn=37711db2c2fa393adf9267c42becd396&chksm=ea1617bfdd619ea9f4188746c43030a10e418e4dd9702873e350486c4ec1985f071a461c9dc1&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-23 07:35:14】](https://101.91.34.106/s?__biz=MzI1NzYwNTMzNw==&mid=2247515146&idx=1&sn=1d125fd4be08a6764c06e445b6e71727&chksm=ea1617bcdd619eaa6e112f367ee3db8b42e3e15064ab26ee3465f9d5ce34eb6bc18a514e8966&scene=27#wechat_redirect)
 
 聚焦数据治理，数字化转型，数据中台等领域专业知识总结和实战分享，做你身边最有价值的数据号！
 
@@ -185,7 +172,7 @@ www.pcachina.com
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNzQyMTEyMQ==)
 
-[:camera_flash:【2023-07-21 14:04:41】](https://101.91.43.159/s?__biz=MzIwNzQyMTEyMQ==&mid=2247487789&idx=1&sn=8ba585b057865680614db9e8f4b34182&chksm=9713fa83a0647395bdf820a0f7331a555b575b70fad53dc5e3b971283e5c595ef32ebfaeb1c4&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-22 10:00:37】](https://101.91.43.159/s?__biz=MzIwNzQyMTEyMQ==&mid=2247487788&idx=1&sn=2c4d3bf2a3f27d14144342774c4b7af2&chksm=9713fa82a06473948688565b2bbe8ebe7b36b38cfc8f74f5c50b33bf228ac09714019d6d5189&scene=27#wechat_redirect)
 
 聚焦数据安全与数据要素化，洞察行业趋向，提供专业解读，分享研究成果。
 
@@ -333,6 +320,19 @@ www.pcachina.com
 围绕数据安全政策解读、数据安全标准建设、数据安全评估评测、数据安全咨询服务、数据安全人才培训认证等内容搭建数据安全交流平台，构建数据安全专业社群。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_5e558917e916" alt="" />
+
+---
+
+
+### [安华金和](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3MTQwNTQxMg==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3MTQwNTQxMg==)
+
+[:camera_flash:【2023-07-21 10:56:26】](https://101.91.34.106/s?__biz=MzA3MTQwNTQxMg==&mid=2650785328&idx=1&sn=2c1bf7aa02fc2c8380abe99aa8154720&chksm=87257c3bb052f52db8e449125681e7e1590c154f6c0ab27e1474149a619f90f6bc33f2d8aa92&scene=27#wechat_redirect)
+
+中国专业领先的数据安全产品、解决方案及咨询服务提供商。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_25eab0459e95" alt="" />
 
 ---
 

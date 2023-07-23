@@ -380,7 +380,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDYzMjAyNA==)
 
-[:camera_flash:【2023-07-19 17:30:40】](https://101.91.43.159/s?__biz=Mzg3MDYzMjAyNA==&mid=2247484504&idx=1&sn=00fb7b3a974fbc2d9c791a036315355c&chksm=ce8b9b6ff9fc1279d461283780ac36a6f7104730f4d112d4a732a7637d634e7882dc8e42aa8e&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-22 09:00:40】](https://101.91.43.159/s?__biz=Mzg3MDYzMjAyNA==&mid=2247484541&idx=1&sn=ad583797e0d8e78bb48ff74b7d1d4d97&chksm=ce8b9b4af9fc125c7eb479bc87b6804ac4798e989ea031fe969bcc240c200d47572515efa249&scene=27#wechat_redirect)
 
 深圳市网安计算机网络安全培训中心是深圳市计算机网络公共安全协会设立的下属培训机构。培训内容包括：CISP-PTE/PTS系列课程、CISP-IRE/IRS系列课程；网络攻防技术系列课程；网络安全等级保护及风险评估系列课程等网络安全相关课程。
 
