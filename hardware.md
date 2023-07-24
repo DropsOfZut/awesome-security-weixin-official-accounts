@@ -1,17 +1,4 @@
 
-### [网络安全自学](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3NzQ3NzY4OA==)
-
-[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3NzQ3NzY4OA==)
-
-[:camera_flash:【2023-06-23 15:33:04】](https://mp.weixin.qq.com/s?__biz=MzI3NzQ3NzY4OA==&mid=2247484003&idx=1&sn=c2873b20c2b438b2348c2b78de5c08b4&chksm=eb64e234dc136b222e1dad06fd7c2916336ae51286d4e2e6fd9e32dcc37bd3a13b76f3483975&scene=27#wechat_redirect)
-
-网络安全自学交流，提高效率，少走弯路
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_1d8521f5d38e" alt="" />
-
----
-
-
 ### [全频带阻塞干扰](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzMzE2OTQyNA==)
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzMzE2OTQyNA==)
@@ -94,7 +81,7 @@ Power by Gh0xE9 Team, Just join us &lt;3; Gh0xE9 Team Welcomes universities and 
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNDcwMDgzMA==)
 
-[:camera_flash:【2023-07-15 07:13:48】](https://101.91.34.106/s?__biz=MzAwNDcwMDgzMA==&mid=2651045772&idx=3&sn=8946c8935b12133d1093fbe48ae5601d&chksm=80d0f07db7a7796ba7a217da616e8e6db33b5113babe40c8347aa670e88ede8f9f848b930eef&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-23 07:56:58】](https://101.91.34.106/s?__biz=MzAwNDcwMDgzMA==&mid=2651045833&idx=1&sn=c5d406114caf61739b1a1f99adda3f56&chksm=80d0f038b7a7792eb29fa6170dd1e9724b8f824ddc89a6082116eb6b4e15207419a744485313&scene=27#wechat_redirect)
 
 关注刑事证据科学前沿发展，传递电子物证技术最新趋势
 
@@ -198,7 +185,7 @@ Power by Gh0xE9 Team, Just join us &lt;3; Gh0xE9 Team Welcomes universities and 
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
 
-[:camera_flash:【2023-07-22 22:56:57】](https://101.91.34.106/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247586602&idx=3&sn=9db09c521242965ccb6726ddfa80a59c&chksm=fc03c3e0cb744af698d10a26fe45f8c2894675e5bfc1096eef2dbc4d066573b91554858c3de7&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-23 22:49:42】](https://101.91.34.106/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247586658&idx=1&sn=c33d427b0d637130d48187c2359fdb89&chksm=fc03c3a8cb744abe6aed5c6035576ca46ee164cd3d9ddf78b5bcf8d0b2d5da4707ed1c1bae0b&scene=27#wechat_redirect)
 
 为智能网联汽车行业专业人士提供信息和网络安全技术、产品及服务等行业发展最新咨询
 
@@ -224,7 +211,7 @@ Power by Gh0xE9 Team, Just join us &lt;3; Gh0xE9 Team Welcomes universities and 
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
 
-[:camera_flash:【2023-07-22 19:25:24】](https://101.91.43.159/s?__biz=MjM5OTA4MzA0MA==&mid=2454930831&idx=1&sn=69e9bc59b74b56acf42f5ea011df42c2&chksm=b16708c0861081d6e314cc82accb569d881b9fd0305a9f75ec34bc6e66b0f0e630e656399d86&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-23 19:28:25】](https://101.91.34.106/s?__biz=MjM5OTA4MzA0MA==&mid=2454930861&idx=1&sn=9ac271b1439cefbd20850627dd11fcd8&chksm=b16708e2861081f4b099dbfb75afc6e09549e5caedf6643707ef7ae41bce1a1c599b859ad0e8&scene=27#wechat_redirect)
 
 国内最大IoT物联网开发者社区，1000+行业资料分享；集结 AWS，阿里云，华为云，微软Azure，百度云 物联网专家；通信模组，物联网卡厂商；智能家居，工业制造，智慧城市解决方案商。
 
@@ -285,11 +272,24 @@ Power by Gh0xE9 Team, Just join us &lt;3; Gh0xE9 Team Welcomes universities and 
 ---
 
 
+### [网络安全自学](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3NzQ3NzY4OA==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3NzQ3NzY4OA==)
+
+[:camera_flash:【2023-06-23 15:33:04】](https://mp.weixin.qq.com/s?__biz=MzI3NzQ3NzY4OA==&mid=2247484003&idx=1&sn=c2873b20c2b438b2348c2b78de5c08b4&chksm=eb64e234dc136b222e1dad06fd7c2916336ae51286d4e2e6fd9e32dcc37bd3a13b76f3483975&scene=27#wechat_redirect)
+
+网络安全自学交流，提高效率，少走弯路
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_1d8521f5d38e" alt="" />
+
+---
+
+
 ### [网络安全与取证研究](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTU3NTY0Nw==)
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTU3NTY0Nw==)
 
-[:camera_flash:【2023-07-21 18:47:02】](https://101.91.43.159/s?__biz=Mzg3NTU3NTY0Nw==&mid=2247487618&idx=1&sn=9fddcb5c2480cf32db5fcdf7a92a67a9&chksm=cf3e30b2f849b9a4f9370cd46034e125eef65d9a621c5e7f1afd95c24e51448bd66898e212aa&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-23 19:27:39】](https://101.91.34.106/s?__biz=Mzg3NTU3NTY0Nw==&mid=2247487622&idx=1&sn=821178812df6aa701d7ad308280b26d2&chksm=cf3e30b6f849b9a06b4150be1e068d3b22026ed76af5a4e4d0e5982ce272f638d9a30ffa8d83&scene=27#wechat_redirect)
 
 旨于开展网络安全相关法律法规研究与电子数据取证技术研究，分享小知识、小技巧，共同学习提高，推进技术规范化建设。
 
@@ -328,7 +328,7 @@ Power by Gh0xE9 Team, Just join us &lt;3; Gh0xE9 Team Welcomes universities and 
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwNjM4NTg4OQ==)
 
-[:camera_flash:【2023-07-22 03:08:18】](https://101.91.43.159/s?__biz=MzkwNjM4NTg4OQ==&mid=2247488536&idx=1&sn=1a73b88aec54f9c0eea43ca32e077f9c&chksm=c0e81496f79f9d804cee28faa455f2ffb339ee5b37ad764856cd3e23e973942bf86c4ce8a2e2&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-23 20:28:13】](https://101.91.43.159/s?__biz=MzkwNjM4NTg4OQ==&mid=2247488561&idx=1&sn=888e70a29437a7c37f07dd718b9c483c&chksm=c0e814bff79f9da99176198d17341231ebb7412aeb0b8eed8337347fda7100689ba90449e82f&scene=27#wechat_redirect)
 
 学习卫星互联网，研究卫星通信安全！
 

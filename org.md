@@ -1,7 +1,7 @@
 
 ### [IMPERVA](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1OTYyOTUyOA==)
 
-[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1OTYyOTUyOA==)
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1OTYyOTUyOA==)
 
 [:camera_flash:【2023-07-21 09:00:38】](https://101.91.43.159/s?__biz=MzI1OTYyOTUyOA==&mid=2247486780&idx=1&sn=a5c1553588d7d249d5c13a29a904de20&chksm=ea77458bdd00cc9d8acb7807e25889998997dca447e99ec8b6601379587a31f12b5afc653fa7&scene=27#wechat_redirect)
 
@@ -185,7 +185,7 @@ Imperva是一家全球公认领先的应用数据安全及云安全供应商，�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTE0MjQyMg==)
 
-[:camera_flash:【2023-07-22 09:05:33】](https://101.91.34.106/s?__biz=MjM5NTE0MjQyMg==&mid=2650579915&idx=1&sn=7487e05640afbe35ff6d8346ec4918a2&chksm=bef50db2898284a477d30efea45c138cc49fc783ff5fccddd856d0ef505eb01ab8ff6e1ae95b&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-23 09:01:29】](https://101.91.34.106/s?__biz=MjM5NTE0MjQyMg==&mid=2650580091&idx=1&sn=518208b20054f36a2137ff07c2c8e9f9&chksm=bef50a0289828314c6a836d5b5d4625680691ce7bd333ad50a1bd8272ebebb893abd54247641&scene=27#wechat_redirect)
 
 杭州安恒信息技术股份有限公司（DBAPPSecurity），科创板：688023，全球网络安全创新500强。以自主可控的专利技术，提供Web应用安全、数据库安全、网站安全监测产品与服务、态势感知大数据中心及智慧城市云安全运营整体解决方案。
 
@@ -601,7 +601,7 @@ KCon 黑客大会，汇聚黑客的智慧。知道创宇出品，追求干货有
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NzE0NTIxMg==)
 
-[:camera_flash:【2023-07-20 16:00:18】](https://101.91.34.106/s?__biz=MjM5NzE0NTIxMg==&mid=2651128593&idx=1&sn=dd2ddec2ba0be5a210732d390db9f7d4&chksm=bd2fdc028a585514dda9f4b8e25dd5e42338e771137eddfe2223b6f4c01fdf42d27706e93de7&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-23 08:30:42】](https://101.91.34.106/s?__biz=MjM5NzE0NTIxMg==&mid=2651128715&idx=1&sn=4b464905cdf5793039a6d0ae204d36e5&chksm=bd2fdc988a58558eeead990ca668e08c4a1c22b2f1e0da5403138b9812ad5d7c1f0afdac7acd&scene=27#wechat_redirect)
 
 全球软件安全领跑者，运用领先技术提供专业可靠的服务，为全球政府、企业、开发者和消费者打造安全、稳固、可信的安全生态环境。梆梆安全致力于保护您的软件，让每个人都能自由地创造、分享和使用信息。
 

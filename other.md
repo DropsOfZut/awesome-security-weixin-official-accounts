@@ -1,9 +1,9 @@
 
 ### [全球技术地图](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1OTExNDY1NQ==)
 
-[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1OTExNDY1NQ==)
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1OTExNDY1NQ==)
 
-[:camera_flash:【2023-07-22 17:00:58】](https://101.91.43.159/s?__biz=MzI1OTExNDY1NQ==&mid=2651605195&idx=1&sn=8e90c612679c1290cdc8d5e1940bf05b&chksm=f1853b3bc6f2b22d7150a9a74c28367009aa52d5e5a3088929f0c98adfe8a2b50bcd93617aab&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-23 17:00:52】](https://101.91.34.106/s?__biz=MzI1OTExNDY1NQ==&mid=2651605211&idx=1&sn=7f057a4ac3fe628eab1dc00bc7d8f2e2&chksm=f1853b2bc6f2b23d6163837ef85531a69a28999236a44c11ee851ac520336dc36bfb3a2fd704&scene=27#wechat_redirect)
 
 洞见前沿，引领未来。
 
@@ -497,7 +497,7 @@ NOVA SEC  新星安全 萌新启蒙之路 愿大家都能成为最闪耀的星�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MDI0NTM2Nw==)
 
-[:camera_flash:【2023-06-04 21:31:01】](https://mp.weixin.qq.com/s?__biz=MzI2MDI0NTM2Nw==&mid=2247489952&idx=1&sn=f95ffde0272ee79e4c42198d4a30a04f&chksm=c1f6323e15d7d81e3e1b379f7cb195b1b2d784a3dc0491e7f5196483d01971262575c0dcdb4c&scene=27&key=4fb6fdc97ba2a460e7d6e1011d8857e47555167867ac3c7aae53a4e3760954885c822d272372c105b6349d49b48bda8b3d3731756445d4a2936cccc1fa60c198e4d31264ddbbb5c3ef493a71b1e7abeff1f96af573156683fbb1ff2581cb82308cdc994f794918828cace7b4099293867cecd71f26d9d83fef19d8915f904b7f&ascene=0&uin=MjM2NjMzNTUwNA%3D%3D&devicetype=Windows+10+x64&version=63090551&lang=zh_CN&countrycode=BJ&exportkey=n_ChQIAhIQUxFQ4yREO3ChVixy%2F%2BpryRLgAQIE97dBBAEAAAAAAB30LGPGhOcAAAAOpnltbLcz9gKNyK89dVj0FoLWmXcqdQ6ad1bMIJsIyrPSh65pIL2nYfrrlWrXEEaBSW0q0A0R%2FNMLQDsztCjAIRzesDnVAUCyp8OUWXKgLWz0XPQmvMN%2Ba8CSEbj%2FhpcKh6305apTdgpyrtmIgyXA8m5JGFlFrFLf5I%2FyFzZBA1Nk7ltXozARpDBH491hZF009WMzdb%2F5EIMvW7UXsxn7%2BtsN7wpRa8u8RuKnbPht%2BNN4EGxJSxeiduVVdmv1UkTfvtCYOqac1Yu5&acctmode=0&pass_ticket=lVvJdvs5tRnGa%2F5b1z3ddfH9cqIimYZL2xCBhekfhS8PAq79u&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-23 22:00:21】](https://101.91.43.159/s?__biz=MzI2MDI0NTM2Nw==&mid=2247490012&idx=1&sn=75750fb9f9a4a15c02597a748b69af69&chksm=ea6dcbc4dd1a42d2b56ab3f204c4c22251557a472274bc63b117dc1cc5b634f833ef897b4185&scene=27#wechat_redirect)
 
 网络安全学习研究分享
 
@@ -510,7 +510,7 @@ NOVA SEC  新星安全 萌新启蒙之路 愿大家都能成为最闪耀的星�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwMDQwNTE5MA==)
 
-[:camera_flash:【2023-07-23 00:00:04】](https://101.91.43.159/s?__biz=MzAwMDQwNTE5MA==&mid=2650246862&idx=1&sn=8234aad277f3d5aba4edce23627e5136&chksm=82ea5567b59ddc71bf862f4fb70ad82b3dd3b3490efbf3c44d83e363fd4c1e7b43ddc5347cac&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-24 00:00:41】](https://101.91.34.106/s?__biz=MzAwMDQwNTE5MA==&mid=2650246863&idx=1&sn=0aa719ecf306d148ef9d26692b68699d&chksm=82ea5566b59ddc7034320b9b1c75031591ae0c9d2174adc3d1c38512344da4afac7b6d5d0dfa&scene=27#wechat_redirect)
 
 每天会发信息安全的事件文章，让大家了解更多信息安全知识和资讯。
 
@@ -575,7 +575,7 @@ NOVA SEC  新星安全 萌新启蒙之路 愿大家都能成为最闪耀的星�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MDk3NDc5Mg==)
 
-[:camera_flash:【2023-07-21 18:46:00】](https://101.91.43.159/s?__biz=MzI1MDk3NDc5Mg==&mid=2247484888&idx=1&sn=b9884a01317855ec248b72fbef3b118f&chksm=e9fb42ffde8ccbe9f00f7579dba317ec6e9f4b0daa8c88d18c6069422a779cd39fd32706ee78&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-23 22:12:09】](https://101.91.34.106/s?__biz=MzI1MDk3NDc5Mg==&mid=2247484896&idx=1&sn=a013996cb43cd4793df76bec50962ae4&chksm=e9fb42c7de8ccbd1324e38fc519805ba31297176372a26af679781141edb1b1f317fffe0f5e2&scene=27#wechat_redirect)
 
 审计，渗透，二进制，kali，分享圈子。
 
@@ -718,7 +718,7 @@ NOVA SEC  新星安全 萌新启蒙之路 愿大家都能成为最闪耀的星�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMTI4MDI3NQ==)
 
-[:camera_flash:【2023-07-16 23:11:04】](https://101.91.43.159/s?__biz=MzkxMTI4MDI3NQ==&mid=2247484071&idx=1&sn=7870969984915b97b3c97f8a25c4c364&chksm=c11fd35bf6685a4db25510c12ea4bcd3de8e7501519fcc6da4387e758f2aff180cfb8a81c6ae&key=42e64e73470f56adf8ea95d735db9f7ef5b8fbbfa64ca73986004869d3d911bffe892959acf447a2f81173b56e383d2d1555d546f3ad0a105578396df578da74a493bfb79fc4474402e8a7f14303fc4e985e24aedb525ac2b08982fa0165c6117a79e9dc1de44dabff1c365823777b4e1a49d497b176da086f6b31fec437c27e&ascene=51&uin=MTI5ODM0MTMwNQ%3D%3D&devicetype=Windows+10+x64&version=63060012&lang=zh_CN&session_us=gh_099f3e462773&exportkey=n_ChQIAhIQT47yGo4l0wl5gDuU0%2B1afhLvAQIE97dBBAEAAAAAAKZWCzB6QToAAAAOpnltbLcz9gKNyK89dVj07OooUU0KnsPWxOzJa1ilBV4inRNRV8KJP%2FoWfiMy3i0LdQD%2FahMKkjQ71Yw7fTgReBGN9%2BTT2TNbcfT6PgGYWpmEd27kOj7GNnOgd9qkHLVdGn2cpjIsVqlaWyuOqa5SxRf9HjWzgcZnL8UIDfkr986IwbCKQ4f5OJqGP0jXXSofPxPZD7hoAbM1De6N2PIiRv%2Fmam%2BjDedYhPbMKSECaayRerkPWTDnSWpu5bQCAH7NZW1bYNPy36TJHYFuLw5iK%2F2sMPhgKkHm&acctmode=0&pass_ticket=r14enOL1%2BA8%2FF9saUHUJTUnV0FL3St&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-21 17:38:11】](https://101.91.34.106/s?__biz=MzkxMTI4MDI3NQ==&mid=2247484182&idx=1&sn=191a39179c78c21262f6e9f605b0e3aa&chksm=c11fd2eaf6685bfc6e21f56d2a2cf4a13885534a00487a4e96c4bed514afbecd9b8b67deca87&key=42e64e73470f56adf18c871ee167c52e2d244275aef6919ee1cfd7eac34c25388a2a575f3c75439d2b559657dd57a4819002e89f97fd521ca4c1a29aeeb2d44403eed06f584c9e0fb583be428283269ef46fa904cba4b8c705cbd3d4a49ffb6eebcd5020bec92383ace0b3b0c6e450f5c7e98ee3c51920aa6111814fa04170b4&ascene=51&uin=MTI5ODM0MTMwNQ%3D%3D&devicetype=Windows+10+x64&version=63060012&lang=zh_CN&session_us=gh_099f3e462773&exportkey=n_ChQIAhIQk%2FzjfWGEGzEqBEk3gjIlrBLvAQIE97dBBAEAAAAAAGOGNdiDJYMAAAAOpnltbLcz9gKNyK89dVj01%2BOHflqXtuWfUc96E2HbzlM5CfKS%2F2ub9i%2F3CDKITRyeuEoHgMEIwivrxzpHKRJFpocZTzzkkR7dTXPbuVzYAqb2Y7%2BGfRyEzdR5pAN2zIRIhm9GYNsmjpLm9TLy%2BhdC9EiBIMAAI7lcxkv8OH5k8ZkDEspSZzaLzNF5sjNiAG594HFDbaDCwkXGCZ3ycH41ijtbPyXxvoE04hO8EUFWmFpNpLYBeJwgvhcie5SHrgln6DUuuaO%2BytU3vRpjXE6GD3L6L1CfCmPL&acctmode=0&pass_ticket=7MeHWQdDt5vtETkKza0e%2Fg3FwyZ4kYBq&scene=27#wechat_redirect)
 
 赛博堡垒专注于为关键性基础设施构建基于硬件安全，固件安全，Linux内核安全以及密码工程的全链条的防护体系。
 
@@ -783,7 +783,7 @@ NOVA SEC  新星安全 萌新启蒙之路 愿大家都能成为最闪耀的星�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2MDQzMjY4NQ==)
 
-[:camera_flash:【2023-07-22 13:59:16】](https://101.91.43.159/s?__biz=Mzg2MDQzMjY4NQ==&mid=2247491673&idx=1&sn=71980c13d475d95521a6a69f86766549&chksm=ce24d01bf953590d089afd095957a4024256858a25a7d8d402a4a31a4db05beebddb27ac0d9f&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-23 13:59:16】](https://101.91.43.159/s?__biz=Mzg2MDQzMjY4NQ==&mid=2247491675&idx=1&sn=d9536868540c42f8d8b55d9c93ac0bfa&chksm=ce24d019f953590f4590dd66a917969409d1ef1064118e07b71664a8c43a17236836292eb24b&scene=27#wechat_redirect)
 
 这里是全网的网安人员聚集地！分享神秘的黑客技术、工具资源和网络信息安全领域的相关技能 。每天自动更新和推送 。
 
