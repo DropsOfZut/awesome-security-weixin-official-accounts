@@ -55,7 +55,7 @@ PTE小技巧
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzU0NDY5OA==)
 
-[:camera_flash:【2023-06-16 14:03:15】](https://mp.weixin.qq.com/s?__biz=MzIwMzU0NDY5OA==&mid=2247497260&idx=1&sn=7f71e6f2b39a168e53e8b04c0ec1f93e&chksm=96cf7739a1b8fe2f6f386caba14fa9256606c5ed52e27a58c0a9186117f2aed41be1eaa471db&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-24 14:54:19】](https://101.91.34.106/s?__biz=MzIwMzU0NDY5OA==&mid=2247497328&idx=1&sn=cd3214b5fdd5c2ba4270917ac3ea4171&chksm=96cf7765a1b8fe73ecee3c6d9f554aef44026e10cb15165a9064b1671106ec041b840439a389&scene=27#wechat_redirect)
 
 寰宇卫士综合安全咨询、安全服务、解决方案、认证培训、产品研发等信息安全多元化产业链为一体。
 
@@ -120,7 +120,7 @@ CTF，从入门到放弃
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzEwMTQ3NQ==)
 
-[:camera_flash:【2023-07-22 02:10:07】](https://101.91.43.159/s?__biz=MzU3MzEwMTQ3NQ==&mid=2247506884&idx=1&sn=a8a8e9a6c76b369b813974b899a798a2&chksm=fcc45f08cbb3d61e17dab342d674d297b083ca3832fd5a3ba77436864c9a9cf7d018e63aba63&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-24 12:21:55】](https://101.91.34.106/s?__biz=MzU3MzEwMTQ3NQ==&mid=2247506885&idx=1&sn=5004e5c1c75836e9d1603ee71978be47&chksm=fcc45f09cbb3d61fcfb1199dd7d238dad5f7b1c9f345485d83390194ac74125cd1cc95aa7b62&scene=27#wechat_redirect)
 
 青少年CTF（原名中学生CTF）帮助大家学习CTF竞赛，信息安全与网络技术。大家如果喜欢我们的视频讲解和教程可以加入我们的QQ群：797842833。快来和我们一起学习安全知识吧。
 

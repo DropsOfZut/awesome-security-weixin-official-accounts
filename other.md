@@ -1,17 +1,4 @@
 
-### [全球技术地图](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1OTExNDY1NQ==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1OTExNDY1NQ==)
-
-[:camera_flash:【2023-07-23 17:00:52】](https://101.91.34.106/s?__biz=MzI1OTExNDY1NQ==&mid=2651605211&idx=1&sn=7f057a4ac3fe628eab1dc00bc7d8f2e2&chksm=f1853b2bc6f2b23d6163837ef85531a69a28999236a44c11ee851ac520336dc36bfb3a2fd704&scene=27#wechat_redirect)
-
-洞见前沿，引领未来。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_66ccbb1db194" alt="" />
-
----
-
-
 ### [安全祖师爷](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyNTk1NDQ3Ng==)
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyNTk1NDQ3Ng==)
@@ -138,6 +125,19 @@ MS509为中国网安开展互联网攻防技术研究的专业团队，当前主
 正阳风控咨询，关注企业和个人风险管理
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_884945b85a98" alt="" />
+
+---
+
+
+### [全球技术地图](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1OTExNDY1NQ==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1OTExNDY1NQ==)
+
+[:camera_flash:【2023-07-24 17:02:53】](https://101.91.43.159/s?__biz=MzI1OTExNDY1NQ==&mid=2651605238&idx=1&sn=7583eddad44c5c5ab30ddf7d758880fc&chksm=f1853b06c6f2b210ac513005b5bc156c5bf9355816fab56e95a920ae9cfc9583fd45d9fb199f&scene=27#wechat_redirect)
+
+洞见前沿，引领未来。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_66ccbb1db194" alt="" />
 
 ---
 
@@ -497,7 +497,7 @@ NOVA SEC  新星安全 萌新启蒙之路 愿大家都能成为最闪耀的星�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MDI0NTM2Nw==)
 
-[:camera_flash:【2023-07-23 22:00:21】](https://101.91.43.159/s?__biz=MzI2MDI0NTM2Nw==&mid=2247490012&idx=1&sn=75750fb9f9a4a15c02597a748b69af69&chksm=ea6dcbc4dd1a42d2b56ab3f204c4c22251557a472274bc63b117dc1cc5b634f833ef897b4185&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-24 08:30:30】](https://101.91.43.159/s?__biz=MzI2MDI0NTM2Nw==&mid=2247490013&idx=1&sn=3341a63dfbad913d182cba5db40909b0&chksm=ea6dcbc5dd1a42d3850dddf2015c863a08512ff87f96b7025711722402eca0dce7cc79b784a7&scene=27#wechat_redirect)
 
 网络安全学习研究分享
 
@@ -510,7 +510,7 @@ NOVA SEC  新星安全 萌新启蒙之路 愿大家都能成为最闪耀的星�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwMDQwNTE5MA==)
 
-[:camera_flash:【2023-07-24 00:00:41】](https://101.91.34.106/s?__biz=MzAwMDQwNTE5MA==&mid=2650246863&idx=1&sn=0aa719ecf306d148ef9d26692b68699d&chksm=82ea5566b59ddc7034320b9b1c75031591ae0c9d2174adc3d1c38512344da4afac7b6d5d0dfa&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-25 00:00:07】](https://101.91.34.106/s?__biz=MzAwMDQwNTE5MA==&mid=2650246865&idx=1&sn=3716e708def4e1f8efeb1d136eab6dd8&chksm=82ea5578b59ddc6e8dcc03f7ae2fee61d94bde833b0777bb8c3ce885233c20b3929e0e116cab&scene=27#wechat_redirect)
 
 每天会发信息安全的事件文章，让大家了解更多信息安全知识和资讯。
 
@@ -614,7 +614,7 @@ NOVA SEC  新星安全 萌新启蒙之路 愿大家都能成为最闪耀的星�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwNTI4MTA1MQ==)
 
-[:camera_flash:【2023-07-21 15:52:17】](https://101.91.43.159/s?__biz=MzkwNTI4MTA1MQ==&mid=2247500715&idx=1&sn=3a87d997295203e47e2b98b4514b25ba&chksm=c0f8a8dff78f21c981f71ab8c8876421809a60fcba45d47fd0a227ac6675d67b9099fea7d1a2&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-24 16:37:04】](https://101.91.43.159/s?__biz=MzkwNTI4MTA1MQ==&mid=2247500720&idx=1&sn=d4acb5e74b98102afe39fd06a0d1e0c0&chksm=c0f8a8c4f78f21d296338666ba42be36e6e3bf805ba8cf704d99c617d162cb42aa912c000bfa&scene=27#wechat_redirect)
 
 安全服务
 
@@ -627,7 +627,7 @@ NOVA SEC  新星安全 萌新启蒙之路 愿大家都能成为最闪耀的星�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NjY4MDAyNQ==)
 
-[:camera_flash:【2023-07-21 16:50:32】](https://101.91.43.159/s?__biz=MzU4NjY4MDAyNQ==&mid=2247492160&idx=1&sn=1c74d9528e408362e7a6357c0ddb6ebb&chksm=fdf531f6ca82b8e0b3f837c8fd49c6c5480e2ee104cd5030dc79b864d4ea1a7fbc9778d70c10&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-24 16:39:12】](https://101.91.43.159/s?__biz=MzU4NjY4MDAyNQ==&mid=2247492167&idx=1&sn=a6715b27a43283d141e3e8cd0e432b7e&chksm=fdf531f1ca82b8e7d1e5b33e1515607daa4f0482b2e195bf5128bbaca7742102328441beae24&scene=27#wechat_redirect)
 
 嘉诚安全，您身边的安全专家
 
@@ -640,7 +640,7 @@ NOVA SEC  新星安全 萌新启蒙之路 愿大家都能成为最闪耀的星�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4ODYzMjU0NQ==)
 
-[:camera_flash:【2023-07-18 11:41:43】](https://101.91.34.106/s?__biz=MzA4ODYzMjU0NQ==&mid=2652313665&idx=1&sn=348244a5e342a418f5dbc30cd3bb3324&chksm=8bc485cfbcb30cd9e0d870294de24ca4acb2569c370ee861554eb713b2675bf6e752359e5d92&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-24 17:38:26】](https://101.91.34.106/s?__biz=MzA4ODYzMjU0NQ==&mid=2652313809&idx=1&sn=1be7759e9a1e10c8b9b95616916988d2&chksm=8bc4855fbcb30c499ca458d56af34b3d6e4deb06d8279d7afe93b46eb7e114ff8ab18d647299&scene=27#wechat_redirect)
 
 网络安全研究国际学术论坛（InForSec），由活跃在安全学术圈的段海新教授、杨珉教授、韦韬博士、万涛博士等共同发起，在网络和系统安全领域建立一座沟通中国和国际、学术和工业、老师和学生的桥梁。
 
@@ -822,7 +822,7 @@ NOVA SEC  新星安全 萌新启蒙之路 愿大家都能成为最闪耀的星�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNzIxMjM3Mg==)
 
-[:camera_flash:【2023-07-22 08:11:12】](https://101.91.43.159/s?__biz=MzkyNzIxMjM3Mg==&mid=2247485348&idx=1&sn=653147a28a2fc70d89046723d41e01a6&chksm=c22a319ff55db889acc3f1d70de4cf52d503ebab83c028da1faf055578e656747679f2a71795&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-25 08:11:45】](https://101.91.43.159/s?__biz=MzkyNzIxMjM3Mg==&mid=2247485359&idx=1&sn=6be239c670c9ac0c50fb0b24194efe2d&chksm=c22a3194f55db882d07c4fbdfca2a284d819f53c5b8f06a594496b1fbaed1cdcfc8a985a8acd&scene=27#wechat_redirect)
 
 专注安全研究、漏洞复现、代码审计等技术方向，有时会分享安全圈的资讯和职场分析！
 
