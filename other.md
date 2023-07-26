@@ -627,7 +627,7 @@ NOVA SEC  新星安全 萌新启蒙之路 愿大家都能成为最闪耀的星�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NjY4MDAyNQ==)
 
-[:camera_flash:【2023-07-24 16:39:12】](https://101.91.43.159/s?__biz=MzU4NjY4MDAyNQ==&mid=2247492167&idx=1&sn=a6715b27a43283d141e3e8cd0e432b7e&chksm=fdf531f1ca82b8e7d1e5b33e1515607daa4f0482b2e195bf5128bbaca7742102328441beae24&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-25 15:54:00】](https://101.91.43.159/s?__biz=MzU4NjY4MDAyNQ==&mid=2247492214&idx=1&sn=48c5be91694adf7bc519e947d2b91717&chksm=fdf531c0ca82b8d67d987adf7398c2c9531bcda15bfc5ed19f8b9686228084799cc646c85f93&scene=27#wechat_redirect)
 
 嘉诚安全，您身边的安全专家
 

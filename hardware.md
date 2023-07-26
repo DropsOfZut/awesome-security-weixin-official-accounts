@@ -289,7 +289,7 @@ Power by Gh0xE9 Team, Just join us &lt;3; Gh0xE9 Team Welcomes universities and 
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTU3NTY0Nw==)
 
-[:camera_flash:【2023-07-24 07:38:01】](https://101.91.43.159/s?__biz=Mzg3NTU3NTY0Nw==&mid=2247487626&idx=1&sn=6c65a908084cf59956059527603908d2&chksm=cf3e30baf849b9ac2b59141135257774bd7cee0d30005b56c0e0c3c3c32a4414454be56864b7&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-25 08:52:43】](https://101.91.34.106/s?__biz=Mzg3NTU3NTY0Nw==&mid=2247487643&idx=1&sn=34c4aedaea922da9280bbccd258c0a0f&chksm=cf3e30abf849b9bdcb0d93e1ceb9754e34c9bc20d0dece7baa6d0d1210a4c8f577a033bf5f4f&scene=27#wechat_redirect)
 
 旨于开展网络安全相关法律法规研究与电子数据取证技术研究，分享小知识、小技巧，共同学习提高，推进技术规范化建设。
 
