@@ -1,4 +1,17 @@
 
+### [深圳网安培训学院](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDYzMjAyNA==)
+
+[:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDYzMjAyNA==)
+
+[:camera_flash:【2023-07-27 16:06:05】](https://mp.weixin.qq.com/s?__biz=Mzg3MDYzMjAyNA==&mid=2247484595&idx=1&sn=4ef0c484de925d61de1f04ed2ae89c95&chksm=ce8b9b84f9fc1292fe7cc5ce7096b2bf547eac447399fc9b4ea418d05b13224233b4b9745e56&scene=27#wechat_redirect)
+
+深圳市网安计算机网络安全培训中心是由深圳市人力资源局备案的社会第三方培训机构。是受广东省人力资源和社会保障厅委托，开展“网络与信息安全管理员”职业技能等级认定工作的第三方社会评价机构。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_94f04a96b1ca" alt="" />
+
+---
+
+
 ### [DROPS攻防训练营](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NjE0Mzk2OA==)
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NjE0Mzk2OA==)
@@ -55,7 +68,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
 
-[:camera_flash:【2023-07-26 11:20:12】](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247486699&idx=1&sn=2109d0c0c2569ac38bc759c5456aac61&chksm=fdeb8895ca9c0183b1c1cc9c8159a3d14ec3f06ad37ba6933fed2e790abec69fee7124a070cc&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-27 20:05:38】](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247486709&idx=1&sn=3ba8550a583d2742eb096c96fece0b08&chksm=fdeb888bca9c019d2d53b1aed14537e8a60c9eecf6bb8c28a56980b3388d44ea764b3156c44c&scene=27#wechat_redirect)
 
 以复旦大学系统安全实验室学生为主成立的安全攻防战队，分享最新研究成果，交流系统安全攻防领域技巧。
 
@@ -146,7 +159,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Njc1OTYyNA==)
 
-[:camera_flash:【2023-07-24 13:56:44】](https://101.91.43.159/s?__biz=MjM5Njc1OTYyNA==&mid=2450785969&idx=1&sn=1d8244b52f9db17a10e1dd05a0441c4b&chksm=b104f79686737e80b2bc323e829797efa48e7d3eae224bbb8c25ae674089aea60c6688ef3090&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-27 20:15:53】](https://mp.weixin.qq.com/s?__biz=MjM5Njc1OTYyNA==&mid=2450786002&idx=1&sn=9bec3f8061c06d2cd63d86b1a9326f43&chksm=b104f7f586737ee39a79a2417924efce7e478aedf3051eac053d7b7e416f59cf762afa9039b7&scene=27#wechat_redirect)
 
 山警网络空间安全实验室（简称：网安社）
 
@@ -372,19 +385,6 @@
 连天教育，是河南信安世纪科技有限公司旗下独立信息安全培训组织，主要面向国内外信息安全认证和职业技能培训，涉及CISP、CISM、CISSP、CISA、信息安全意识、风险评估、渗透测试、CTF竞赛、Web安全等。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_9fe1a6f307b0" alt="" />
-
----
-
-
-### [网安培训学院](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDYzMjAyNA==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDYzMjAyNA==)
-
-[:camera_flash:【2023-07-25 17:31:05】](https://mp.weixin.qq.com/s?__biz=Mzg3MDYzMjAyNA==&mid=2247484574&idx=1&sn=387b8c9b8a31f78882b1d65f7095ba34&chksm=ce8b9ba9f9fc12bf1f9cc76f00f478f20abb126df45a4932eec3cd8276b7634f9135f7213cd3&scene=27#wechat_redirect)
-
-深圳市网安计算机网络安全培训中心是深圳市计算机网络公共安全协会设立的下属培训机构。培训内容包括：CISP-PTE/PTS系列课程、CISP-IRE/IRS系列课程；网络攻防技术系列课程；网络安全等级保护及风险评估系列课程等网络安全相关课程。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_94f04a96b1ca" alt="" />
 
 ---
 
@@ -627,7 +627,7 @@ Covteam工作室，成立于2005年。是以西华大学在校本科生研究生
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5NDczNDc4NA==)
 
-[:camera_flash:【2023-07-21 09:26:58】](https://101.91.34.106/s?__biz=Mzg5NDczNDc4NA==&mid=2247493370&idx=1&sn=472c3ec16f6ee3b0124cc7e9fd5b5fee&chksm=c019be55f76e374380a918eca9258dc6d939050676adf37d7e3443f0fb8a3b6bc56ebc11df2d&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-27 14:32:36】](https://mp.weixin.qq.com/s?__biz=Mzg5NDczNDc4NA==&mid=2247493377&idx=1&sn=e9ada70660c4db6fd6a7240919a155aa&chksm=c019bfaef76e36b880878e16e889d110f4b921e3a270ff02fe76b7684f9516c5955db400233c&scene=27#wechat_redirect)
 
 浙江大学网络空间安全学院/浙江大学网络空间安全研究中心
 
