@@ -1,9 +1,9 @@
 
 ### [网络安全与取证研究](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTU3NTY0Nw==)
 
-[:chart_with_upwards_trend:【0/28/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTU3NTY0Nw==)
+[:chart_with_upwards_trend:【0/27/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTU3NTY0Nw==)
 
-[:camera_flash:【2023-07-27 21:29:48】](https://mp.weixin.qq.com/s?__biz=Mzg3NTU3NTY0Nw==&mid=2247487651&idx=1&sn=17886d1bcf01731f3dd62e91e6c400c8&chksm=cf3e3093f849b9854e65915bc5718324cbe3514b88a5c321be227b4fb882d4f8f1240093754d&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-28 18:05:40】](https://mp.weixin.qq.com/s?__biz=Mzg3NTU3NTY0Nw==&mid=2247487661&idx=1&sn=7ae9973fc24cde0aa093d483d9285402&chksm=cf3e309df849b98bbd3afa86cde84e687626048a4fec348a72ed673417653d6b1a6fab9bddce&scene=27#wechat_redirect)
 
 旨于开展网络安全相关法律法规研究与电子数据取证技术研究，分享小知识、小技巧，共同学习提高，推进技术规范化建设。
 
@@ -94,7 +94,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNDcwMDgzMA==)
 
-[:camera_flash:【2023-07-23 07:56:58】](https://101.91.34.106/s?__biz=MzAwNDcwMDgzMA==&mid=2651045833&idx=1&sn=c5d406114caf61739b1a1f99adda3f56&chksm=80d0f038b7a7792eb29fa6170dd1e9724b8f824ddc89a6082116eb6b4e15207419a744485313&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-28 13:17:50】](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651045848&idx=1&sn=f165925dba6e27e50416401a435098f1&chksm=80d0f029b7a7793f000161ffeb61552e770b5cc5cc84a64aa94850b392e24706b0803edc200b&scene=27#wechat_redirect)
 
 关注刑事证据科学前沿发展，传递电子物证技术最新趋势
 
@@ -198,7 +198,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
 
-[:camera_flash:【2023-07-27 15:53:46】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247587037&idx=1&sn=1ea1e247b930b211341b36c554cfb6f2&chksm=fc03c417cb744d013d8dbf014421bc3c8e7eadf2ed22e352bcda7f3394ceb03e0a1f3beab0f1&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-28 17:54:15】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247587181&idx=1&sn=d2d7a11e0776341f970700a13088bf88&chksm=fc03c5a7cb744cb1f043461ce49b739146a352f6018b84fa44ebf5e7062cc1bcee324112bf18&scene=27#wechat_redirect)
 
 为智能网联汽车行业专业人士提供信息和网络安全技术、产品及服务等行业发展最新咨询
 

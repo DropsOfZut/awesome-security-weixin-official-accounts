@@ -1,7 +1,7 @@
 
 ### [系统安全运维](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NjE0NDc5OQ==)
 
-[:chart_with_upwards_trend:【0/52/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NjE0NDc5OQ==)
+[:chart_with_upwards_trend:【0/50/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NjE0NDc5OQ==)
 
 [:camera_flash:【2023-07-28 08:08:40】](https://mp.weixin.qq.com/s?__biz=Mzk0NjE0NDc5OQ==&mid=2247521006&idx=1&sn=b13580e81c37144c64d54f6ea00f7199&chksm=c308419ef47fc8886a1339ac26b058a1c1eabcebdaa0f2a8c0f1ef97b427109384e5f41bb0a3&scene=27#wechat_redirect)
 

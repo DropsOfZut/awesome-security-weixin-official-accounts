@@ -783,7 +783,7 @@ NOVA SEC  新星安全 萌新启蒙之路 愿大家都能成为最闪耀的星�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2MDQzMjY4NQ==)
 
-[:camera_flash:【2023-07-27 14:00:21】](https://mp.weixin.qq.com/s?__biz=Mzg2MDQzMjY4NQ==&mid=2247491676&idx=1&sn=f896d57de9855eec3fe1e2f172d115d8&chksm=ce24d01ef95359082eb73f43ae92efe5eebd583b4c587d3ecf1a9bdd4e0c32a76847e42286d8&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-28 14:00:26】](https://mp.weixin.qq.com/s?__biz=Mzg2MDQzMjY4NQ==&mid=2247491677&idx=1&sn=f21ae636c7b1292e6bd3b0695bbb15b5&chksm=ce24d01ff953590999e4a633324878b9b7846cc38d9aa8674abfc05a23dce0033c9b6651014d&scene=27#wechat_redirect)
 
 这里是全网的网安人员聚集地！分享神秘的黑客技术、工具资源和网络信息安全领域的相关技能 。每天自动更新和推送 。
 
