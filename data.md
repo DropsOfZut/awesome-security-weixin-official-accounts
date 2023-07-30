@@ -29,7 +29,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1NzYwNTMzNw==)
 
-[:camera_flash:【2023-07-27 20:15:52】](https://mp.weixin.qq.com/s?__biz=MzI1NzYwNTMzNw==&mid=2247515214&idx=1&sn=05a947f98c6f88aff13d30964154bb67&chksm=ea1617f8dd619eee4139528088f7e99f9fd578863c1a4db13555ac1183def7c167686db32189&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-29 08:56:08】](https://mp.weixin.qq.com/s?__biz=MzI1NzYwNTMzNw==&mid=2247515216&idx=1&sn=77e271806a44cf946d193f22f2f33abd&chksm=ea1617e6dd619ef0658507ff0811de6e359de1ebeefaab76e31fa4ad5b6a8e4e0483149a278e&scene=27#wechat_redirect)
 
 聚焦数据治理，数字化转型，数据中台等领域专业知识总结和实战分享，做你身边最有价值的数据号！
 
@@ -55,7 +55,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzg5MTI0OQ==)
 
-[:camera_flash:【2023-07-28 21:00:26】](https://mp.weixin.qq.com/s?__biz=MzIwMzg5MTI0OQ==&mid=2247525891&idx=1&sn=c32dd744197f6a82f084e8f19c56ee84&chksm=96ca515da1bdd84b47dbc11cfc3c235974351b1d6e77ac6f6d6582002e6f8b85e2acd2c3be5f&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-29 21:00:08】](https://mp.weixin.qq.com/s?__biz=MzIwMzg5MTI0OQ==&mid=2247525880&idx=1&sn=694e1c64034dd251ca9efede88613a0c&chksm=96ca52a6a1bddbb06ce3b4840cc698a20217f89c7446baa8b92fdde433ecafdbfcd7fd18d2f5&scene=27#wechat_redirect)
 
 专注于企业数据化应用、大数据BI技术和理论观点的研究，致力于让数据成为企业真正的生产力！帆软数据应用研究院旗下账号。
 
@@ -263,7 +263,7 @@ www.pcachina.com
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNzM0NzA3Ng==)
 
-[:camera_flash:【2023-07-27 17:18:08】](https://mp.weixin.qq.com/s?__biz=MzkyNzM0NzA3Ng==&mid=2247511923&idx=1&sn=802b230414ae53761281fb571a0ff16c&chksm=c22b9798f55c1e8e142c2f9970e6525a83262e65bd65ff881e0d3011d1311b0898f58214ce59&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-28 17:58:02】](https://mp.weixin.qq.com/s?__biz=MzkyNzM0NzA3Ng==&mid=2247512026&idx=2&sn=c6151e28a544755aada155babe71b39c&chksm=c22b9731f55c1e2708c3a4394ad0aa8898f6881fcdb894f71f2f71ec7c77d65be16d1fa67445&scene=27#wechat_redirect)
 
 聚焦数据安全领域内最新产业动态信息，包含新闻资讯、政策文章、发展现状、趋势态势等。
 

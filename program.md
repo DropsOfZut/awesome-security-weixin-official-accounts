@@ -341,7 +341,7 @@ Will的小屋
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
 
-[:camera_flash:【2023-07-20 18:00:39】](https://101.91.34.106/s?__biz=MjM5ODYwMjI2MA==&mid=2649779747&idx=1&sn=f121ee3b6626db0fcbb9fc53f30d05c2&chksm=beccfd5889bb744eb67226ff5a1b4f112e4b1673cc93248a1cad396fd96550782486cb7a9adb&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-25 18:01:19】](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649779830&idx=1&sn=80a117685170032fc5ea9820779f7f23&chksm=beccfd0d89bb741b2ec720db918a9cf0294d3aaf2560ebd8310ff708a82d8b5bbbce5bfec340&scene=27#wechat_redirect)
 
 腾讯技术官方号。腾讯技术创新、前沿领域发布解读平台。
 
@@ -497,7 +497,7 @@ FOFA是由华顺信安科技有限公司开发的一款网络空间资产搜索�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzI1MDg2Mg==)
 
-[:camera_flash:【2023-06-29 17:30:16】](https://mp.weixin.qq.com/s?__biz=MzIwMzI1MDg2Mg==&mid=2649943098&idx=1&sn=e2ff9ea0269c97926124bf6bc4a52e34&chksm=8ed401fbb9a388ede0b0fca62ff425b302c67bcde8429da7a1aca8d3e65f2bdafc8f3909d769&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-29 17:30:47】](https://mp.weixin.qq.com/s?__biz=MzIwMzI1MDg2Mg==&mid=2649943140&idx=1&sn=c5d3eef2bdd3dfab25b6c7f697f7fa0f&chksm=8ed401a5b9a388b3f9d784899da2439992ebbf0b87d5fd1141b51c575e3b8feee904c7c2a99b&scene=27#wechat_redirect)
 
 主营业务涵盖应用安全、系统安全、运维安全等，包括IT资产管理、智能攻击机器人、智能防御机器人、攻防实战演练支持、安全培训、课题和安全技术研究、产品研发及服务综合解决方案提供；其中，行业解决方案又包括电力行业、金融行业、军工行业、公检法等。
 

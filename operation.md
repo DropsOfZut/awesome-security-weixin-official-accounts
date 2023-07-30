@@ -1,7 +1,7 @@
 
 ### [系统安全运维](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NjE0NDc5OQ==)
 
-[:chart_with_upwards_trend:【0/50/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NjE0NDc5OQ==)
+[:chart_with_upwards_trend:【0/48/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NjE0NDc5OQ==)
 
 [:camera_flash:【2023-07-28 08:08:40】](https://mp.weixin.qq.com/s?__biz=Mzk0NjE0NDc5OQ==&mid=2247521006&idx=1&sn=b13580e81c37144c64d54f6ea00f7199&chksm=c308419ef47fc8886a1339ac26b058a1c1eabcebdaa0f2a8c0f1ef97b427109384e5f41bb0a3&scene=27#wechat_redirect)
 
@@ -120,7 +120,7 @@ BAT 技术专家分享开发、架构、运维相关干货！
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzIwNTY1OA==)
 
-[:camera_flash:【2023-07-27 11:04:38】](https://mp.weixin.qq.com/s?__biz=MzkxMzIwNTY1OA==&mid=2247497643&idx=1&sn=d2b6a4dcbdd0868c2f4237d7a7ed677e&chksm=c103875ef6740e48ef263658706b3b175cf73060e2e8cf7ff05149e4c65b8913c24dcff21451&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-29 09:30:26】](https://mp.weixin.qq.com/s?__biz=MzkxMzIwNTY1OA==&mid=2247497674&idx=1&sn=5410b7b002c08863a5dcc167d84fc783&chksm=c103873ff6740e29e4aaf1a4245b0025c063d417ff749df1ab9f7122205434a768146774f9d0&scene=27#wechat_redirect)
 
 发布关于kali相关文章。Debian Centos等操作系统的安全和运维。以及树莓派 ESP8266 DIY单片机等相关安全领域的文章。旨在掌握技术和原理的前提下，更好的保护自身网络安全。反对一切危害网络安全的行为，造成法律后果请自负。
 
