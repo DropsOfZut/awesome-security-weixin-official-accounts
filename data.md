@@ -12,28 +12,41 @@
 ---
 
 
+### [谈数据](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1NzYwNTMzNw==)
+
+[:chart_with_upwards_trend:【0/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1NzYwNTMzNw==)
+
+[:camera_flash:【2023-07-30 16:51:18】](https://mp.weixin.qq.com/s?__biz=MzI1NzYwNTMzNw==&mid=2247515217&idx=1&sn=8d2ffc2cd78f45e541941c622bb5ea66&chksm=ea1617e7dd619ef111dd65d2cdf89ee04a2afed244950e27dfe30d09791c2796ad22e854aadb&scene=27#wechat_redirect)
+
+聚焦数据治理，数字化转型，数据中台等领域专业知识总结和实战分享，做你身边最有价值的数据号！
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e1508c424fae" alt="" />
+
+---
+
+
+### [安华金和](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3MTQwNTQxMg==)
+
+[:chart_with_upwards_trend:【0/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3MTQwNTQxMg==)
+
+[:camera_flash:【2023-07-25 09:33:22】](https://101.91.34.106/s?__biz=MzA3MTQwNTQxMg==&mid=2650785353&idx=1&sn=2356598dd09c646ef9cffd6c7026a305&chksm=87257c42b052f5542f3deb2eb89991c791943b8e63aa19302f36db845849968bdca0c8234dea&scene=27#wechat_redirect)
+
+中国专业领先的数据安全产品、解决方案及咨询服务提供商。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_25eab0459e95" alt="" />
+
+---
+
+
 ### [CCIA数据安全工作委员会](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNzI3MzAxOA==)
 
-[:chart_with_upwards_trend:【4/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNzI3MzAxOA==)
+[:chart_with_upwards_trend:【4/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNzI3MzAxOA==)
 
 [:camera_flash:【2023-07-28 08:31:22】](https://mp.weixin.qq.com/s?__biz=MzkyNzI3MzAxOA==&mid=2247509386&idx=1&sn=373225b88b56165dfd4bb93f54d51ac7&chksm=c2287cdff55ff5c93abb66800e11e54c494798e89f6187c9675166ff0b03fb8a9b26726b5074&scene=27#wechat_redirect)
 
 围绕数据安全和个人信息保护，解读规则、推广标准、积淀实践、研究热点、沟通大众，以求真务实、科学中立的态度，做我国数据安全发展的观察者、记录者、倡导者。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_2b92aaea64ea" alt="" />
-
----
-
-
-### [谈数据](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1NzYwNTMzNw==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1NzYwNTMzNw==)
-
-[:camera_flash:【2023-07-29 08:56:08】](https://mp.weixin.qq.com/s?__biz=MzI1NzYwNTMzNw==&mid=2247515216&idx=1&sn=77e271806a44cf946d193f22f2f33abd&chksm=ea1617e6dd619ef0658507ff0811de6e359de1ebeefaab76e31fa4ad5b6a8e4e0483149a278e&scene=27#wechat_redirect)
-
-聚焦数据治理，数字化转型，数据中台等领域专业知识总结和实战分享，做你身边最有价值的数据号！
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e1508c424fae" alt="" />
 
 ---
 
@@ -324,24 +337,11 @@ www.pcachina.com
 ---
 
 
-### [安华金和](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3MTQwNTQxMg==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3MTQwNTQxMg==)
-
-[:camera_flash:【2023-07-25 09:33:22】](https://101.91.34.106/s?__biz=MzA3MTQwNTQxMg==&mid=2650785353&idx=1&sn=2356598dd09c646ef9cffd6c7026a305&chksm=87257c42b052f5542f3deb2eb89991c791943b8e63aa19302f36db845849968bdca0c8234dea&scene=27#wechat_redirect)
-
-中国专业领先的数据安全产品、解决方案及咨询服务提供商。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_25eab0459e95" alt="" />
-
----
-
-
 ### [数安行](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5OTM0NTM2OQ==)
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5OTM0NTM2OQ==)
 
-[:camera_flash:【2023-07-21 17:30:19】](https://101.91.43.159/s?__biz=Mzg5OTM0NTM2OQ==&mid=2247489915&idx=1&sn=9b2c597c71041d89b992c89b4f8cde26&chksm=c055e7cdf7226edb631e327867a8ac8abdb9c1900c98f94bbf844f82575e125e1ced021a1d68&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-28 16:59:04】](https://mp.weixin.qq.com/s?__biz=Mzg5OTM0NTM2OQ==&mid=2247489927&idx=1&sn=8708469ce6cb60763a1ad60a751962ea&chksm=c055e731f7226e2774c714748e2db33a1bb5ce5ed17742399b48a29b82cebdbaf8bbff1e493d&scene=27#wechat_redirect)
 
 数安行，专注数据运营安全，让数据安全地创造价值！
 
