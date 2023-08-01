@@ -12,6 +12,19 @@
 ---
 
 
+### [三叶草小组Syclover](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzOTg0NjYzNg==)
+
+[:chart_with_upwards_trend:【1/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzOTg0NjYzNg==)
+
+[:camera_flash:【2023-07-29 23:54:11】](https://mp.weixin.qq.com/s?__biz=MzIzOTg0NjYzNg==&mid=2247489254&idx=1&sn=67c6b84b84ff6ce30c861ee55159b23a&chksm=e9228365de550a739514c29406b238a38bd482a6916b08981eab70f70c8c2b3b50eee60322f8&scene=27#wechat_redirect)
+
+一个专注于网络空间安全的高校技术团队，成立于2005年3月，主要研究方向有渗透测试、逆向工程、移动安全、安全编程、漏洞利用等；公众号定期推送小组成员原创文章
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_962842f4917b" alt="" />
+
+---
+
+
 ### [DROPS攻防训练营](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NjE0Mzk2OA==)
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NjE0Mzk2OA==)
@@ -203,19 +216,6 @@
 发布信息安全技术及相关竞赛信息。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_711d4ce1da87" alt="" />
-
----
-
-
-### [三叶草小组Syclover](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzOTg0NjYzNg==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzOTg0NjYzNg==)
-
-[:camera_flash:【2023-07-29 23:54:11】](https://mp.weixin.qq.com/s?__biz=MzIzOTg0NjYzNg==&mid=2247489254&idx=1&sn=67c6b84b84ff6ce30c861ee55159b23a&chksm=e9228365de550a739514c29406b238a38bd482a6916b08981eab70f70c8c2b3b50eee60322f8&scene=27#wechat_redirect)
-
-一个专注于网络空间安全的高校技术团队，成立于2005年3月，主要研究方向有渗透测试、逆向工程、移动安全、安全编程、漏洞利用等；公众号定期推送小组成员原创文章
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_962842f4917b" alt="" />
 
 ---
 
@@ -627,7 +627,7 @@ Covteam工作室，成立于2005年。是以西华大学在校本科生研究生
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5NDczNDc4NA==)
 
-[:camera_flash:【2023-07-27 14:32:36】](https://mp.weixin.qq.com/s?__biz=Mzg5NDczNDc4NA==&mid=2247493377&idx=1&sn=e9ada70660c4db6fd6a7240919a155aa&chksm=c019bfaef76e36b880878e16e889d110f4b921e3a270ff02fe76b7684f9516c5955db400233c&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-31 11:31:04】](https://mp.weixin.qq.com/s?__biz=Mzg5NDczNDc4NA==&mid=2247493393&idx=1&sn=94c99cace60c768a96cb54e3a4742a6c&chksm=c019bfbef76e36a8be58e7093d6c6bf408d3a89066fcf976c16dd8b0cd43afaa2d11a3eff487&scene=27#wechat_redirect)
 
 浙江大学网络空间安全学院/浙江大学网络空间安全研究中心
 

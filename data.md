@@ -68,7 +68,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzg5MTI0OQ==)
 
-[:camera_flash:【2023-07-29 21:00:08】](https://mp.weixin.qq.com/s?__biz=MzIwMzg5MTI0OQ==&mid=2247525880&idx=1&sn=694e1c64034dd251ca9efede88613a0c&chksm=96ca52a6a1bddbb06ce3b4840cc698a20217f89c7446baa8b92fdde433ecafdbfcd7fd18d2f5&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-31 21:00:26】](https://mp.weixin.qq.com/s?__biz=MzIwMzg5MTI0OQ==&mid=2247525895&idx=1&sn=e24291575e6d00a4876bc347c90b771c&chksm=96ca5159a1bdd84f52c3c5f1d8894c44a6dec2794b5ceb3f6355f8e013200a44b6dc61e77ea2&scene=27#wechat_redirect)
 
 专注于企业数据化应用、大数据BI技术和理论观点的研究，致力于让数据成为企业真正的生产力！帆软数据应用研究院旗下账号。
 
@@ -107,7 +107,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzODk1NzY5NA==)
 
-[:camera_flash:【2023-07-28 18:51:55】](https://mp.weixin.qq.com/s?__biz=MzIzODk1NzY5NA==&mid=2247494926&idx=1&sn=2c3b8134ab68d0e0d1d087e238147a78&chksm=e933c81fde444109ee665e58a796fcd39c5b8f9948e0172491173ef0e13371c50ed6e0c9f98c&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-31 16:30:43】](https://mp.weixin.qq.com/s?__biz=MzIzODk1NzY5NA==&mid=2247494934&idx=1&sn=b76ec41b7adb68220c86dc43875c7097&chksm=e933c807de444111f4d8ad55b75299c26b1ab0a4db9d1dfe62e2b31f4868a69ce62e584f8611&scene=27#wechat_redirect)
 
 www.pcachina.com
 
@@ -146,7 +146,7 @@ www.pcachina.com
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5ODY5NDQyNw==)
 
-[:camera_flash:【2023-07-24 09:55:40】](https://101.91.34.106/s?__biz=Mzg5ODY5NDQyNw==&mid=2247486910&idx=1&sn=26c9a988adcbc9d3f654bfb370208a74&chksm=c05fe1caf72868dc3cdc2f086da535fcacff13115163351d6edcc1dc1d85985d2731340fb815&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-31 09:55:02】](https://mp.weixin.qq.com/s?__biz=Mzg5ODY5NDQyNw==&mid=2247486949&idx=1&sn=e3b35b9aaedb7123e76511d354af7d1c&chksm=c05fe191f72868875c44cbc515efa55211965ee5e6d30ff77cc9303e6fff8b7215ce354bfb54&scene=27#wechat_redirect)
 
 聚焦数据安全，资讯热点、行业研究、知识科普、前沿技术…尽在数据安全星球！
 
@@ -198,7 +198,7 @@ www.pcachina.com
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNzQyMTEyMQ==)
 
-[:camera_flash:【2023-07-28 13:17:26】](https://mp.weixin.qq.com/s?__biz=MzIwNzQyMTEyMQ==&mid=2247487819&idx=1&sn=a635db0de6c3527275326afcd3e4297b&chksm=9713fae5a06473f399635b7e626c412ba9e1ffc58c6d2e716183926059ff48893f11e6b79cc4&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-31 13:24:41】](https://mp.weixin.qq.com/s?__biz=MzIwNzQyMTEyMQ==&mid=2247487834&idx=1&sn=e630b7b9cb2ea173b34fce62a60af9e7&chksm=9713faf4a06473e267047d92001d8897662f83824082dca3feb106735c3cbfdd377739ff51a7&scene=27#wechat_redirect)
 
 聚焦数据安全与数据要素化，洞察行业趋向，提供专业解读，分享研究成果。
 
@@ -237,7 +237,7 @@ www.pcachina.com
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5MTk0MzIzMQ==)
 
-[:camera_flash:【2023-07-28 13:38:13】](https://mp.weixin.qq.com/s?__biz=MjM5MTk0MzIzMQ==&mid=2652016983&idx=2&sn=0e54eb92951f85958783ade6accc11ac&chksm=bd4bee078a3c6711a16c22645218dade555ccb37119709c52f7bae80bf0d1b2c29ea4edf7ce4&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-31 16:01:59】](https://mp.weixin.qq.com/s?__biz=MjM5MTk0MzIzMQ==&mid=2652017000&idx=1&sn=c5979f6897f3d15d52a8835588a450e8&chksm=bd4bee388a3c672e6a866b6b933cfd630dac0401d913a06c5b2d69a3b19674aaec07da660ad4&scene=27#wechat_redirect)
 
 可信赖的数据安全产品与服务提供商
 
@@ -276,7 +276,7 @@ www.pcachina.com
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNzM0NzA3Ng==)
 
-[:camera_flash:【2023-07-28 17:58:02】](https://mp.weixin.qq.com/s?__biz=MzkyNzM0NzA3Ng==&mid=2247512026&idx=2&sn=c6151e28a544755aada155babe71b39c&chksm=c22b9731f55c1e2708c3a4394ad0aa8898f6881fcdb894f71f2f71ec7c77d65be16d1fa67445&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-31 14:28:41】](https://mp.weixin.qq.com/s?__biz=MzkyNzM0NzA3Ng==&mid=2247512121&idx=1&sn=639f7fd73e89823d241cbab9dd898556&chksm=c22b88d2f55c01c4c625c545ad68dee5940167418d8bc6eb323f6d9a4c83f8ae3a2862c91fc4&scene=27#wechat_redirect)
 
 聚焦数据安全领域内最新产业动态信息，包含新闻资讯、政策文章、发展现状、趋势态势等。
 
