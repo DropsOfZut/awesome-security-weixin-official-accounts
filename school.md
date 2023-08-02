@@ -367,7 +367,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4MDgyNzU5Mg==)
 
-[:camera_flash:【2023-07-21 18:35:22】](https://101.91.43.159/s?__biz=MzU4MDgyNzU5Mg==&mid=2247485024&idx=1&sn=a0c27c578970be3b7eb064d903b2cc58&chksm=fd51a6c7ca262fd1d4b80ab36444bfd45692dde4e771fb476633979a3ee78197a49f1a5de3fc&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-30 16:50:59】](https://mp.weixin.qq.com/s?__biz=MzU4MDgyNzU5Mg==&mid=2247485033&idx=1&sn=d3fbc5d6daa90ccac6c9a9a68632ccc8&chksm=fd51a6ceca262fd8116e06ea6a492aac1be6a19768b3e9f8835d674c2d2eeb98413667db07fc&scene=27#wechat_redirect)
 
 集学习训练、竞赛实战为一体的网络安全在线能力提升平台
 
@@ -575,7 +575,7 @@ Covteam工作室，成立于2005年。是以西华大学在校本科生研究生
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
 
-[:camera_flash:【2023-07-28 08:00:33】](https://mp.weixin.qq.com/s?__biz=MzUzODkwMDMxNA==&mid=2247562866&idx=1&sn=e2e51d1986186d941072a3d224cc4acb&chksm=fad31447cda49d51f756e719cb37c7dea1927d3654bd156ddcce5dc5282c9c881566c91fbc9d&scene=27#wechat_redirect)
+[:camera_flash:【2023-08-01 09:00:36】](https://mp.weixin.qq.com/s?__biz=MzUzODkwMDMxNA==&mid=2247564163&idx=1&sn=1553c182e3bc733729d4ce270afd3c85&chksm=fad319b6cda490a09b0276ec716a30d309744cc3a6cb3b0d7cee793dd40af942a8e53b0f9f89&scene=27#wechat_redirect)
 
 百所高校、百家用人单位、百名尖锋导师，携手打造定制化人才培养模式，通过导师制职业规划和封闭式岗位实训，补足知识短板、提高实战能力，培养创新型、实用型网络安全尖锋人才。
 
