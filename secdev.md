@@ -1,9 +1,9 @@
 
 ### [商密君](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
 
-[:chart_with_upwards_trend:【0/100/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
+[:chart_with_upwards_trend:【0/96/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
 
-[:camera_flash:【2023-08-03 17:52:30】](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247607509&idx=4&sn=14cad1d56be4bc56a058dccd0f1e6e26&chksm=ec57348edb20bd9838e7b80628a9994a56cc22affb4b5dcb10fc67ce75997ad5ec115bb431b6&scene=27#wechat_redirect)
+[:camera_flash:【2023-08-04 21:40:13】](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247607557&idx=4&sn=849bfda4c0c1273b5185d769cee2bf59&chksm=ec57355edb20bc483c29b329d279ef65eaaa706adb6818a977f34838c7e8f5a7d04d47fa631c&scene=27#wechat_redirect)
 
 商密君是全国密码行业头部公众号，旨在宣传推广《密码法》，普及商用密码知识，解读密码政策，分享商用密码行业的最新动态，为密码产业产学研用做好宣传服务，连接密码全行业精英，推动密码技术在数字经济各行业的应用和创新。
 
