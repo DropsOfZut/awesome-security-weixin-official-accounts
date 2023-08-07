@@ -16,7 +16,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Mjc3MDM2Mw==)
 
-[:camera_flash:【2023-08-04 21:52:10】](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651139687&idx=1&sn=a1d0bae4ed82cefe1cfa7840b4e94428&chksm=bd50be338a2737257c06089daba268fffdc3f9c151e2ef2cd5f7f8fbab164af4ff8487b6c2de&scene=27#wechat_redirect)
+[:camera_flash:【2023-08-05 17:07:10】](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651139689&idx=1&sn=c237afa14b77542ee0db5cf4046b19e2&chksm=bd50be3d8a27372bde26da94acb6d4d78b602aa3f081b80dda32f10b12117a8806e4e0983dd3&scene=27#wechat_redirect)
 
 吾爱破解论坛致力于软件安全与病毒分析的前沿，丰富的技术版块交相辉映，由无数热衷于软件加密解密及反病毒爱好者共同维护，留给世界一抹值得百年回眸的惊艳，沉淀百年来计算机应用之精华与优雅，任岁月流转，低调而奢华的技术交流与探索却是亘古不变。
 

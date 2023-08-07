@@ -29,7 +29,7 @@
 
 [:chart_with_upwards_trend:【1/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4ODYzMjU0NQ==)
 
-[:camera_flash:【2023-08-02 19:05:55】](https://mp.weixin.qq.com/s?__biz=MzA4ODYzMjU0NQ==&mid=2652313875&idx=1&sn=088024b6856ac5cefb925f58306017dd&chksm=8bc4849dbcb30d8bb56ec55eceee7cf44a003a9d34a67df5535fd63da334026a384c3ee7c04c&scene=27#wechat_redirect)
+[:camera_flash:【2023-08-04 21:24:52】](https://mp.weixin.qq.com/s?__biz=MzA4ODYzMjU0NQ==&mid=2652313881&idx=1&sn=80ed24f5dcdedc449742d4dd9e47a154&chksm=8bc48497bcb30d811bcabb06c2a60c190ab8506666e7f611c34d9f7e6c772391072548223ff7&scene=27#wechat_redirect)
 
 网络安全研究国际学术论坛（InForSec），由活跃在安全学术圈的段海新教授、杨珉教授、韦韬博士、万涛博士等共同发起，在网络和系统安全领域建立一座沟通中国和国际、学术和工业、老师和学生的桥梁。
 
@@ -42,7 +42,7 @@
 
 [:chart_with_upwards_trend:【0/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MDk3NDc5Mg==)
 
-[:camera_flash:【2023-08-02 19:35:44】](https://mp.weixin.qq.com/s?__biz=MzI1MDk3NDc5Mg==&mid=2247484940&idx=1&sn=d34470e3d0c1175c82efc95083f46831&chksm=e9fb412bde8cc83d5840c6cb2ffe9a16d2d652e050aacf46cb3f3bf1adfa0ea9e042af7d7990&scene=27#wechat_redirect)
+[:camera_flash:【2023-08-05 08:24:58】](https://mp.weixin.qq.com/s?__biz=MzI1MDk3NDc5Mg==&mid=2247484946&idx=1&sn=152b02702d3559f92a0de36d460ef383&chksm=e9fb4135de8cc823673c066f0863036e291664c89fc7bcbb9da694b3fe861d73e19afd256773&scene=27#wechat_redirect)
 
 审计，渗透，二进制，kali，分享圈子。
 
@@ -614,7 +614,7 @@ NOVA SEC  新星安全 萌新启蒙之路 愿大家都能成为最闪耀的星�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2OTYzNTExNQ==)
 
-[:camera_flash:【2023-08-03 08:15:34】](https://mp.weixin.qq.com/s?__biz=Mzg2OTYzNTExNQ==&mid=2247484239&idx=1&sn=caee70d456e031589f543cab7a67962d&chksm=ce9b460bf9eccf1d3060ac33baa06bbaef13644668418fa873f5d81a3846b9acfae621b9aaaf&scene=27#wechat_redirect)
+[:camera_flash:【2023-08-06 10:30:23】](https://mp.weixin.qq.com/s?__biz=Mzg2OTYzNTExNQ==&mid=2247484262&idx=1&sn=40db27e311f7a3ca8aa0d0a4f5e2b0d5&chksm=ce9b4622f9eccf34c0ae7a0a98b3bc4fb2581185c8275bea1c92a4a40e48f3f8f958a9b85696&scene=27#wechat_redirect)
 
 公众号不定期分享一些web安全知识
 
@@ -679,7 +679,7 @@ NOVA SEC  新星安全 萌新启蒙之路 愿大家都能成为最闪耀的星�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2MjYxODY2Mw==)
 
-[:camera_flash:【2023-03-18 21:14:04】](https://mp.weixin.qq.com/s?__biz=Mzg2MjYxODY2Mw==&mid=2247484307&idx=1&sn=44071f6be2a58cd9167b4842b338f552&chksm=ce0456dbf973dfcdd2058ceb1dad2d3d992373be9fe239b4ac0bb7538d02ed0c0e810965f7cb&scene=27#wechat_redirect)
+[:camera_flash:【2023-08-05 14:52:20】](https://mp.weixin.qq.com/s?__biz=Mzg2MjYxODY2Mw==&mid=2247484309&idx=1&sn=069381e64ff95a1e1dd1621abe9e986a&chksm=ce0456ddf973dfcbaacc4f0150c4c6ab4604e5592f15bc45cbe7f773a0e33fe902e74a932fae&scene=27#wechat_redirect)
 
 定期分享渗透知识，渗透思路，漏洞研究及复现等文章
 
@@ -783,7 +783,7 @@ NOVA SEC  新星安全 萌新启蒙之路 愿大家都能成为最闪耀的星�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2MDQzMjY4NQ==)
 
-[:camera_flash:【2023-08-04 14:01:02】](https://mp.weixin.qq.com/s?__biz=Mzg2MDQzMjY4NQ==&mid=2247491688&idx=1&sn=54f46e29e3b3bd062ea1d7cb14baafe1&chksm=ce24d02af953593c6ea99a311618da9338e185390402796270907d61943f13b0ecda48653a46&scene=27#wechat_redirect)
+[:camera_flash:【2023-08-06 12:01:26】](https://mp.weixin.qq.com/s?__biz=Mzg2MDQzMjY4NQ==&mid=2247491692&idx=1&sn=07a421dcabe77a1adebfce29511bb5c3&chksm=ce24d02ef9535938bbe4a49f64ea7fbb6a1644f95a1d3b1a2a511d9670aba0d47d30c6c41496&scene=27#wechat_redirect)
 
 这里是全网的网安人员聚集地！分享神秘的黑客技术、工具资源和网络信息安全领域的相关技能 。每天自动更新和推送 。
 
