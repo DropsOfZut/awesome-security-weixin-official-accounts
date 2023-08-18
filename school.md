@@ -94,7 +94,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NzgyNjUwNA==)
 
-[:camera_flash:【2023-06-08 11:57:01】](https://mp.weixin.qq.com/s?__biz=MzA3NzgyNjUwNA==&mid=2247489712&idx=1&sn=f9c46bbfb6e30095075e033323d71a6a&chksm=9f4d4817a83ac1010f23b0a21672b021272ac6ea14ae732a4f0f892cdbc2b253cc2eedb286dd&scene=27#wechat_redirect)
+[:camera_flash:【2023-08-17 10:42:31】](https://mp.weixin.qq.com/s?__biz=MzA3NzgyNjUwNA==&mid=2247490191&idx=1&sn=928d61f392bb12a259fe05a8ff8f2bf0&chksm=9f4d4a28a83ac33e2a7480673e7c7f19fee8bb4639ba99dca9f754347b25865e4ee62c5767ce&scene=27#wechat_redirect)
 
 湖南农业大学蝰蛇安全实验室
 
