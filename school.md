@@ -1,7 +1,7 @@
 
 ### [深圳网安培训学院](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDYzMjAyNA==)
 
-[:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDYzMjAyNA==)
+[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDYzMjAyNA==)
 
 [:camera_flash:【2023-07-27 16:06:05】](https://mp.weixin.qq.com/s?__biz=Mzg3MDYzMjAyNA==&mid=2247484595&idx=1&sn=4ef0c484de925d61de1f04ed2ae89c95&chksm=ce8b9b84f9fc1292fe7cc5ce7096b2bf547eac447399fc9b4ea418d05b13224233b4b9745e56&scene=27#wechat_redirect)
 

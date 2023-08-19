@@ -12,9 +12,22 @@
 ---
 
 
+### [CCIA数据安全工作委员会](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNzI3MzAxOA==)
+
+[:chart_with_upwards_trend:【3/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNzI3MzAxOA==)
+
+[:camera_flash:【2023-08-16 08:30:04】](https://mp.weixin.qq.com/s?__biz=MzkyNzI3MzAxOA==&mid=2247511223&idx=1&sn=c812fa4fc9a13f26ce59e41b86a6ff61&chksm=c22875e2f55ffcf4520380d2267ab8393da7a1a3345f82ca45680fa710dfd6b195c623dea3cd&scene=27#wechat_redirect)
+
+围绕数据安全和个人信息保护，解读规则、推广标准、积淀实践、研究热点、沟通大众，以求真务实、科学中立的态度，做我国数据安全发展的观察者、记录者、倡导者。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_2b92aaea64ea" alt="" />
+
+---
+
+
 ### [杭州数据安全联盟](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyMjI2MDE2Mg==)
 
-[:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyMjI2MDE2Mg==)
+[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyMjI2MDE2Mg==)
 
 [:camera_flash:【2023-08-16 19:03:30】](https://mp.weixin.qq.com/s?__biz=MzkyMjI2MDE2Mg==&mid=2247499620&idx=1&sn=85e91c6706d8de594beefb5a33f9344a&chksm=c1f5b8c9f68231df441d68c2ac212ba4a8761fa3f5d7a548f2dab7531b579ab2f95313a3ae09&scene=27#wechat_redirect)
 
@@ -27,26 +40,13 @@
 
 ### [安华金和](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3MTQwNTQxMg==)
 
-[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3MTQwNTQxMg==)
+[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3MTQwNTQxMg==)
 
 [:camera_flash:【2023-08-16 09:43:27】](https://mp.weixin.qq.com/s?__biz=MzA3MTQwNTQxMg==&mid=2650785392&idx=1&sn=181a9f00d000303ea2f237f7173ae8a1&chksm=87257c7bb052f56d89edc73ca55cb538798567b8c3aa1bd80402390cf8ab2a6acd3fe3a196a9&scene=27#wechat_redirect)
 
 中国专业领先的数据安全产品、解决方案及咨询服务提供商。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_25eab0459e95" alt="" />
-
----
-
-
-### [CCIA数据安全工作委员会](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNzI3MzAxOA==)
-
-[:chart_with_upwards_trend:【3/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNzI3MzAxOA==)
-
-[:camera_flash:【2023-08-16 08:30:04】](https://mp.weixin.qq.com/s?__biz=MzkyNzI3MzAxOA==&mid=2247511223&idx=1&sn=c812fa4fc9a13f26ce59e41b86a6ff61&chksm=c22875e2f55ffcf4520380d2267ab8393da7a1a3345f82ca45680fa710dfd6b195c623dea3cd&scene=27#wechat_redirect)
-
-围绕数据安全和个人信息保护，解读规则、推广标准、积淀实践、研究热点、沟通大众，以求真务实、科学中立的态度，做我国数据安全发展的观察者、记录者、倡导者。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_2b92aaea64ea" alt="" />
 
 ---
 

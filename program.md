@@ -14,7 +14,7 @@
 
 ### [GoCN](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4ODg0NDkzOA==)
 
-[:chart_with_upwards_trend:【0/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4ODg0NDkzOA==)
+[:chart_with_upwards_trend:【0/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4ODg0NDkzOA==)
 
 [:camera_flash:【2023-08-04 08:00:40】](https://mp.weixin.qq.com/s?__biz=MzA4ODg0NDkzOA==&mid=2247508397&idx=1&sn=b9f0bf7b1bfffb1a165bb54d4b0ad554&chksm=90211e48a756975efbf4c424359af2862fd2524e255394d98b6773f8504db82e08374d071021&scene=27#wechat_redirect)
 
