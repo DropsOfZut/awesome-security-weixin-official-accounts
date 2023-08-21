@@ -1,7 +1,7 @@
 
 ### [全球技术地图](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1OTExNDY1NQ==)
 
-[:chart_with_upwards_trend:【7/16/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1OTExNDY1NQ==)
+[:chart_with_upwards_trend:【6/14/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1OTExNDY1NQ==)
 
 [:camera_flash:【2023-08-17 17:33:28】](https://mp.weixin.qq.com/s?__biz=MzI1OTExNDY1NQ==&mid=2651605941&idx=2&sn=077eb5a53a377764c1361b92b7d8f8d7&chksm=f1853845c6f2b153065c7bc915a073e29b6f6a1a6703330a649dd02fc187413fea60bd7b80ae&scene=27#wechat_redirect)
 
@@ -14,7 +14,7 @@
 
 ### [网络安全交流圈](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MDk3NDc5Mg==)
 
-[:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MDk3NDc5Mg==)
+[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MDk3NDc5Mg==)
 
 [:camera_flash:【2023-08-18 09:29:49】](https://mp.weixin.qq.com/s?__biz=MzI1MDk3NDc5Mg==&mid=2247485011&idx=1&sn=258acb3f514b5531982900b8edd3ad6d&chksm=e9fb4174de8cc862946b9cb5fb8d341d7b1d5bb6ccb28525236aeddb272906bb1dd7d5e4fad1&scene=27#wechat_redirect)
 
@@ -38,19 +38,6 @@
 ---
 
 
-### [黑客技术与网络安全](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyMDEzMTA2MQ==)
-
-[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyMDEzMTA2MQ==)
-
-[:camera_flash:【2023-08-14 08:30:41】](https://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651165356&idx=1&sn=41d5a4cefce6e21e37795ea15eb2d5f9&chksm=8c218936bb560020d92c8f5d4bead8e03815ee8d567107170d8ad4657a279511102bb758a35a&scene=27#wechat_redirect)
-
-分享黑客技术和网络安全知识，让程序员了解黑客世界，学习黑客技术；普及上网和网络安全知识；帮助黑客、安全从业者、安全爱好者学习与成长。分享的所有技术和工具仅供学习之用。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4ad27a83ff73" alt="" />
-
----
-
-
 ### [安全孺子牛](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MDI0NTM2Nw==)
 
 [:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MDI0NTM2Nw==)
@@ -64,15 +51,15 @@
 ---
 
 
-### [渗透测试教程](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3OTIwNDkzNQ==)
+### [黑客技术与网络安全](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyMDEzMTA2MQ==)
 
-[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3OTIwNDkzNQ==)
+[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyMDEzMTA2MQ==)
 
-[:camera_flash:【2023-08-09 09:30:29】](https://mp.weixin.qq.com/s?__biz=MzI3OTIwNDkzNQ==&mid=2651838692&idx=1&sn=fe4b73c260ecee0f66e6d5ed23ef9166&chksm=f0b03dccc7c7b4da34231dca72dae4200ee406ef85336e2ebaac7959ed4c6970f13829cbef31&scene=27#wechat_redirect)
+[:camera_flash:【2023-08-14 08:30:41】](https://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651165356&idx=1&sn=41d5a4cefce6e21e37795ea15eb2d5f9&chksm=8c218936bb560020d92c8f5d4bead8e03815ee8d567107170d8ad4657a279511102bb758a35a&scene=27#wechat_redirect)
 
-只会分享安全技术文章，不会分享安全娱乐新闻。专注渗透测试、渗透自动化武器研发。记录分享学习路上的知识，祝你早日登上SRC英雄榜！
+分享黑客技术和网络安全知识，让程序员了解黑客世界，学习黑客技术；普及上网和网络安全知识；帮助黑客、安全从业者、安全爱好者学习与成长。分享的所有技术和工具仅供学习之用。
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_7e60f7442e6a" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4ad27a83ff73" alt="" />
 
 ---
 
@@ -86,6 +73,19 @@
 边界无限是国内提供全链路云安全防护产品和实战化攻防体系建设的新锐网络安全企业，致力于通过还原真实攻防来帮助政企客户构建更安全、更灵动的网络及更动态、更有价值的纵深防御体系。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_346690001d2c" alt="" />
+
+---
+
+
+### [渗透测试教程](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3OTIwNDkzNQ==)
+
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3OTIwNDkzNQ==)
+
+[:camera_flash:【2023-08-09 09:30:29】](https://mp.weixin.qq.com/s?__biz=MzI3OTIwNDkzNQ==&mid=2651838692&idx=1&sn=fe4b73c260ecee0f66e6d5ed23ef9166&chksm=f0b03dccc7c7b4da34231dca72dae4200ee406ef85336e2ebaac7959ed4c6970f13829cbef31&scene=27#wechat_redirect)
+
+只会分享安全技术文章，不会分享安全娱乐新闻。专注渗透测试、渗透自动化武器研发。记录分享学习路上的知识，祝你早日登上SRC英雄榜！
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_7e60f7442e6a" alt="" />
 
 ---
 
@@ -978,7 +978,7 @@ HACK学习，专注于网络安全攻防与黑客精神，分享技术干货，�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyMTE0MDQ0OA==)
 
-[:camera_flash:【2023-08-16 20:33:02】](https://mp.weixin.qq.com/s?__biz=MzUyMTE0MDQ0OA==&mid=2247492681&idx=1&sn=5015c6959333a8c1324e78c49e55de3b&chksm=f9dd05c6ceaa8cd01703f3bc6b0e2d8964194f18042af76aec83a40935d9e716200b7dcfdba9&scene=27#wechat_redirect)
+[:camera_flash:【2023-08-20 15:02:56】](https://mp.weixin.qq.com/s?__biz=MzUyMTE0MDQ0OA==&mid=2247492723&idx=1&sn=db82f06dc0a95c2862b4a090d382e8f6&chksm=f9dd05fcceaa8ceaea2d9114553e7e6e93f158c3d951dc505ec64f874a64a02b523d6194471e&scene=27#wechat_redirect)
 
 寻麓信息旗下网络安全工作室成员，专注于计算机安全&amp;社会工程学，愿各位在此能有所收获
 
