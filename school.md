@@ -1,26 +1,39 @@
 
-### [深圳网安培训学院](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDYzMjAyNA==)
+### [大学生网络安全尖锋训练营](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
 
-[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDYzMjAyNA==)
+[:chart_with_upwards_trend:【0/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
 
-[:camera_flash:【2023-07-27 16:06:05】](https://mp.weixin.qq.com/s?__biz=Mzg3MDYzMjAyNA==&mid=2247484595&idx=1&sn=4ef0c484de925d61de1f04ed2ae89c95&chksm=ce8b9b84f9fc1292fe7cc5ce7096b2bf547eac447399fc9b4ea418d05b13224233b4b9745e56&scene=27#wechat_redirect)
+[:camera_flash:【2023-08-22 08:01:44】](https://mp.weixin.qq.com/s?__biz=MzUzODkwMDMxNA==&mid=2247566459&idx=1&sn=1f56e5d8ddcb661dc8e0cbd623b652f5&chksm=32607599dac53de0aa8e51ed2891faed2bd13f3d3e1cead08d3e0e3bbf6ead7ad0c5ac80535e&scene=27&key=8a6f979275f8c7c3eb7a6fe7a2729e738d8285b7f1daffd8f4b4ea57d97eeda3357d276187bfd88d9e9e8ff3a362e8795d75281d21ca6f18ffb3df88d010d8d495084ae08834ef7ff5a4ede33a2ff639b3292df221f3ba3c5dc952437194e390f33c8f1e17cd5a391ec358ea3a4cdd4ab1561baea8b28c0393b768f8e1c6a379&ascene=1&uin=MjM2NjMzNTUwNA%3D%3D&devicetype=Windows+10+x64&version=6309062b&lang=zh_CN&countrycode=BJ&exportkey=n_ChQIAhIQR7Pe%2FJlIiYa45YoNZWBNnhLgAQIE97dBBAEAAAAAAJTJOgMAmfMAAAAOpnltbLcz9gKNyK89dVj0yUMUcwoKs5OyxcI6%2Fqexn%2Bz9%2FkEfRSKJlKo5bVI%2FtMilaMQs1INtffBvi1zMkZQ0noQPo0bYNvPaoX7uxcwFE5i9DZbKXXJmwlAhnJL5WM5YIlorhqs9X48gLIGXrqqugfWWK1wL4yvo3CLu3mA4Cx2CrPRPdhsX2OeHoUPXTLeCQcrX5qrrqea2meob20Z5XD54Ttawn%2Bl0wPmSkaUNvKfRJOWDFFqi6m0W2BTlY8wF6jNlo37ZPJgU&acctmode=0&pass_ticket=EL8yF872TmdHPFXY0tuVfTj8CLsCrUqbTOzWYZxAJpaSCPXm82GhRLHS2LBOZm%2Fo&wx_header=1&scene=27#wechat_redirect)
 
-深圳市网安计算机网络安全培训中心是由深圳市人力资源局备案的社会第三方培训机构。是受广东省人力资源和社会保障厅委托，开展“网络与信息安全管理员”职业技能等级认定工作的第三方社会评价机构。
+百所高校、百家用人单位、百名尖锋导师，携手打造定制化人才培养模式，通过导师制职业规划和封闭式岗位实训，补足知识短板、提高实战能力，培养创新型、实用型网络安全尖锋人才。
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_94f04a96b1ca" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_b54960a6ea07" alt="" />
 
 ---
 
 
 ### [三叶草小组Syclover](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzOTg0NjYzNg==)
 
-[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzOTg0NjYzNg==)
+[:chart_with_upwards_trend:【1/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzOTg0NjYzNg==)
 
 [:camera_flash:【2023-08-15 16:41:00】](https://mp.weixin.qq.com/s?__biz=MzIzOTg0NjYzNg==&mid=2247489257&idx=1&sn=eabf44a2dc6df07284d4b1c9fe46eebc&chksm=e922836ade550a7cfc6254ebd8c6bc9877e177da6247df330a9461a3488e021407cb992d6a3a&scene=27#wechat_redirect)
 
 一个专注于网络空间安全的高校技术团队，成立于2005年3月，主要研究方向有渗透测试、逆向工程、移动安全、安全编程、漏洞利用等；公众号定期推送小组成员原创文章
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_962842f4917b" alt="" />
+
+---
+
+
+### [深圳网安培训学院](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDYzMjAyNA==)
+
+[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDYzMjAyNA==)
+
+[:camera_flash:【2023-07-27 16:06:05】](https://mp.weixin.qq.com/s?__biz=Mzg3MDYzMjAyNA==&mid=2247484595&idx=1&sn=4ef0c484de925d61de1f04ed2ae89c95&chksm=ce8b9b84f9fc1292fe7cc5ce7096b2bf547eac447399fc9b4ea418d05b13224233b4b9745e56&scene=27#wechat_redirect)
+
+深圳市网安计算机网络安全培训中心是由深圳市人力资源局备案的社会第三方培训机构。是受广东省人力资源和社会保障厅委托，开展“网络与信息安全管理员”职业技能等级认定工作的第三方社会评价机构。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_94f04a96b1ca" alt="" />
 
 ---
 
@@ -42,7 +55,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxNDU2ODg3Mw==)
 
-[:camera_flash:【2023-05-06 21:00:57】](https://mp.weixin.qq.com/s?__biz=MzIxNDU2ODg3Mw==&mid=2247485132&idx=1&sn=584a02a8c2925f6cc7786471f97c0760&chksm=97a4dc0aa0d3551c300787284795a6a0453ac88641e7ed9648c07bc91dba71ecdafe8a5399e8&scene=27#wechat_redirect)
+[:camera_flash:【2023-08-21 20:00:05】](https://mp.weixin.qq.com/s?__biz=MzIxNDU2ODg3Mw==&mid=2247485165&idx=1&sn=00ad7f775d56d04fc2422276d9638404&chksm=97a4dc2ba0d3553d2f886d7bc4b807ca9611b1c800f12fe553d56b00eed8e777cc2de76918cb&scene=27#wechat_redirect)
 
 杭州电子科技大学Vidar-Team (原信息安全协会HDUISA&amp;网络空间安全协会)  消息助手
 
@@ -406,7 +419,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
 
-[:camera_flash:【2023-08-09 10:41:38】](https://mp.weixin.qq.com/s?__biz=MzUzNDg0NTc1NA==&mid=2247501568&idx=1&sn=2012ffe2d867c945c0de4e14c16d39af&chksm=fa8c0755cdfb8e43e2d32f27d275acab7d89c844466e322e2dac58048397b76ff233bfc7ae05&scene=27#wechat_redirect)
+[:camera_flash:【2023-08-22 07:02:02】](https://mp.weixin.qq.com/s?__biz=MzUzNDg0NTc1NA==&mid=2247502104&idx=1&sn=79614586feec609333ce2161b5ed9047&chksm=fa8c094dcdfb805b1866f7f6df1db4be5e3c2004fa25d4f0a75e7545600df2f687dae0cff07d&scene=27#wechat_redirect)
 
 启明星辰网络空间安全学院以国家网络安全事业发展为使命，依托启明星辰集团多年的技术沉淀及实践积累，提供网络安全人才体系构建与信息安全技术及能力提升教育培训，为建设网络强国提供有力的人才支撑。
 
@@ -567,19 +580,6 @@ Covteam工作室，成立于2005年。是以西华大学在校本科生研究生
 网络与信息安全实验室(NISL@THU)，专注于网络、系统、应用、人工智能安全教学与研究，在国际四大安全会议发表三十余篇论文，成果在业界产生了广泛影响力。孕育了蓝莲花、紫荆花等知名战队，发起了网安国际学术论坛InForSec。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_52677a4545d1" alt="" />
-
----
-
-
-### [大学生网络安全尖锋训练营](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
-
-[:camera_flash:【2023-08-14 08:02:22】](https://mp.weixin.qq.com/s?__biz=MzUzODkwMDMxNA==&mid=2247565560&idx=1&sn=2c45bb8900aa3b4302e31c9673bdc959&chksm=fad322cdcda4abdb3187743cbf7b21ba53d7e5c27c39f74ae8f468dca394129f6f7c0bc41438&scene=27#wechat_redirect)
-
-百所高校、百家用人单位、百名尖锋导师，携手打造定制化人才培养模式，通过导师制职业规划和封闭式岗位实训，补足知识短板、提高实战能力，培养创新型、实用型网络安全尖锋人才。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_b54960a6ea07" alt="" />
 
 ---
 

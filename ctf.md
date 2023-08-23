@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
 
-[:camera_flash:【2023-08-03 10:05:16】](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247513723&idx=1&sn=dff4ba75d9d7762fb0496586e93d1378&chksm=a687444191f0cd575d10747c21575cfe59d545096306ee42a29842c0d4d727d7ee075957ee39&scene=27#wechat_redirect)
+[:camera_flash:【2023-08-18 17:09:30】](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247514445&idx=1&sn=5ce4db5f94d5490f0c77784e9bd532e0&chksm=a6874b7791f0c2613a43b9ffc02396c6757aef570a7608f03e2055b90f27cb4b3c1832b6b309&scene=27#wechat_redirect)
 
 国内最早、亚洲最大的网络攻防联赛。
 
@@ -276,7 +276,7 @@ CTF协会
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjcxMTAwMQ==)
 
-[:camera_flash:【2023-08-17 18:05:24】](https://mp.weixin.qq.com/s?__biz=Mzg4MjcxMTAwMQ==&mid=2247487395&idx=1&sn=cdb254a2b49a61b8c51ef585ae0d10b5&chksm=cf53cf15f8244603183e661d78414b793bc39babdf171251a2e7e6e7e6c3fb899bed0c18c94d&scene=27#wechat_redirect)
+[:camera_flash:【2023-08-22 09:08:00】](https://mp.weixin.qq.com/s?__biz=Mzg4MjcxMTAwMQ==&mid=2247487504&idx=1&sn=39bbef7cc3e3cc21d676aea78b27347f&chksm=cf53d0a6f82459b0c4e1c7f7b13419e5aa38c1cbaae8b0d8e1abe4adf35c52c118b0548ad320&scene=27#wechat_redirect)
 
 山海关安全团队旗下CTF战队-Arr3stY0u公众号。
 

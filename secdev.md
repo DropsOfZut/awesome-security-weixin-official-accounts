@@ -1,9 +1,9 @@
 
 ### [商密君](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
 
-[:chart_with_upwards_trend:【0/36/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
+[:chart_with_upwards_trend:【0/118/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
 
-[:camera_flash:【2023-08-18 00:00:52】](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247608881&idx=4&sn=e4ebe44d337de496ea55405a531938a7&chksm=ec573a6adb20b37cad7ee4a6137e208f8ef63ccaaaf6efea674ca8e2a177b6c5975f8c90a06f&scene=27#wechat_redirect)
+[:camera_flash:【2023-08-22 20:35:37】](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247609125&idx=4&sn=9470abf83ad4df9842f39cc694f38504&chksm=ec573b7edb20b268abfe339a136d5605584d60be54c69fbbc884c76b699964dcb2b194f7da27&scene=27#wechat_redirect)
 
 商密君是全国密码行业头部公众号，旨在宣传推广《密码法》，普及商用密码知识，解读密码政策，分享商用密码行业的最新动态，为密码产业产学研用做好宣传服务，连接密码全行业精英，推动密码技术在数字经济各行业的应用和创新。
 
@@ -12,11 +12,37 @@
 ---
 
 
+### [掌控安全EDU](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
+
+[:chart_with_upwards_trend:【27/32/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
+
+[:camera_flash:【2023-08-22 12:00:45】](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247530745&idx=1&sn=70d7cc15f1aa8831c671f0af2052acd9&chksm=fa6b0188cd1c889eec1e7fe0796a1495e1d44951bba81c46def544bf22190e77575ff0adcd9e&scene=27#wechat_redirect)
+
+安全教程\\高质量文章\\面试经验分享，尽在#掌控安全EDU#
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_c028a5199606" alt="" />
+
+---
+
+
+### [深圳市网络与信息安全行业协会](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
+
+[:chart_with_upwards_trend:【0/29/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
+
+[:camera_flash:【2023-08-21 17:58:38】](https://mp.weixin.qq.com/s?__biz=MzU0Mzk0NDQyOA==&mid=2247510185&idx=2&sn=f5a477ef5432870d236406304e98de18&chksm=0a1a67e57fb3428eae49a054d79ad28ca8d715cbbf73dca892a3eebc19d1269b3474cec6f6a6&scene=27&key=2b6c7f63d0283ed41e320c8ae8d2984b3801cf87877f618c853f7ca643a8e9de38131797bfd2e607b5557166c1320799c4638ea3fff72e3cb0ad9c5b6f9fb93a2e856442a8ee5c5d076614d2bbfdffeb1afef2b6ade8507ff3e8a658bb7a43fa734dd744539da84ae8bdbdab00fc5d7352714aa6e12311f34bfc096ce52c9b7c&ascene=15&uin=MzgxODQ4MjMz&devicetype=Windows+10+x64&version=63060012&lang=zh_CN&session_us=gh_7f9a41f11983&countrycode=GY&exportkey=n_ChQIAhIQggpIxtE2vFTwAHN9V%2FE3VxLvAQIE97dBBAEAAAAAADH0FJtFcn4AAAAOpnltbLcz9gKNyK89dVj0JLfoO3GB%2Fd2givmblaJJiNCnGbKU%2F2D75vYJzMm80EO7dCqP3WSSPRZEpS4hwvoAHa2jVpw7ov3j8Tlv%2FTESQRRKrMvnCKMPYG4UVc2vfDgQUw%2B4y12gJNuaeg%2BtepBUg0GXj9IBKL4JFgO4SVKdO33rwCralPry3yxeMcgzmfE1xTxVuh0tLWDesXnLfjhvR1o7e63crTlpNAnNt7W4r%2FqW7MBrHv5Pa03dyRwFbnJCIjBdIgjTrrvkpYUqxT6RHEL3ncwbjk8i&acctmode=0&pass_ticket=aj8xi31h48Lr2NWj0rCDQaSlLfW6Ban6SanaX78Axplw9sNYZhx5TwypGv45L%2B%2Bq&wx_header=0&fontgear=1&scene=27#wechat_redirect)
+
+深圳市网络与信息安全行业协会（SNISA），是深圳市网络与信息安全行业的权威组织，是中国网络安全审查技术与认证中心（CCRC）在深圳唯一授权工作站，是经深圳市人力资源和社会保障局核准，开展网络空间安全工程技术专业职称评审工作的社会组织。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_650442d8cad4" alt="" />
+
+---
+
+
 ### [数世咨询](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
 
 [:chart_with_upwards_trend:【1/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
 
-[:camera_flash:【2023-08-17 16:00:21】](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247502701&idx=1&sn=4a7d6bfa577f2037d5ca04ea8f299084&chksm=c144b9d0f63330c65de3361aee95464e5c0721233fed39de747f6ed4eba10b1c8364ab6363bc&scene=27#wechat_redirect)
+[:camera_flash:【2023-08-21 16:01:38】](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247502775&idx=1&sn=945b2c27760b4a6f7d7beff368a29cc3&chksm=c144b90af633301ca33d185d5e78ff9cf0049dd297d429ca340401d13b1c4fd626c53fd74604&scene=90&sessionid=1692605015&subscene=236&clicktime=1692606649&enterid=1692606649&key=5b02bfa3645292b70b18c0287e65b428ba809d1422cd3666eb2dfc9722968422164ac06e4cc256b01805d3f451d51ac9c6ba0db042ffa76c0cae515d1e8bd829fb82664a4912acd1ffa3968e5624b6e8b586b27e25c90dfcf05c5b1166e06f458e754ff25064c233c95cc9515866f1cab177e78f6e62558ca9fed8d2f818c9cd&ascene=0&uin=MjM2NjMzNTUwNA%3D%3D&devicetype=Windows+10+x64&version=6309062b&lang=zh_CN&countrycode=BJ&exportkey=n_ChQIAhIQGNxWs1vZGqB4JrAYL9rkZRLgAQIE97dBBAEAAAAAAKtSFh0ZVpoAAAAOpnltbLcz9gKNyK89dVj0FHYnNMvxvimhBhLMrquWhNcHMbTMUrxQFNSnTQQ5Z2qnj7Ye5M%2F77%2BTQeTyQvONuxeFA0%2BboZT3KYL61DXYSVJzqiaGvJhx3XK6%2F6JpnU2N44PLRVroVwLvVQm1QJ7EMkO5vY3tykUoKoASmIfmAfXrZVbzZmKa19JDMgHg4VvRvLmua8e1C4tzpIFJFZ06%2Bpk0bsR7WD%2B8FL1N1kGMH7NAEDPtClMHr0xx3%2FZPgqP4mi8jUzkx4K1W6&acctmode=0&pass_ticket=TQJJq4Kup0k7eTWmiIEHOkszkfs34o2zg3M%2BosiaVWu1ib%2B2InUa75WVDkP0IQ8l&wx_header=1&fasttmpl_type=0&fasttmpl_fullversion=6817439-zh_CN-zip&fasttmpl_flag=1&scene=27#wechat_redirect)
 
 中国数字产业领域中立的第三方调研机构，提供网络安全行业的调查、研究与咨询服务。
 
@@ -177,32 +203,6 @@ OWASP中国，SecZone互联网安全研究中心官方平台
 信息安全体系建设相关内容分享…不定时更新，可随时取关…
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_eaab7ac10752" alt="" />
-
----
-
-
-### [掌控安全EDU](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
-
-[:camera_flash:【2023-08-17 12:07:04】](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247530625&idx=1&sn=1bb461349a1a9c3ec1ac5ea669080d93&chksm=fa6b01f0cd1c88e6da5035e0b179c4e29559940438b03e99cc361e58acc334fb033f1a787564&scene=27#wechat_redirect)
-
-安全教程\\高质量文章\\面试经验分享，尽在#掌控安全EDU#
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_c028a5199606" alt="" />
-
----
-
-
-### [深圳市网络与信息安全行业协会](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
-
-[:camera_flash:【2023-08-07 17:40:24】](https://mp.weixin.qq.com/s?__biz=MzU0Mzk0NDQyOA==&mid=2247509905&idx=1&sn=405cbadf5fd1488a5cce8bbd83668b2f&chksm=fb015c12cc76d504e60abed2883db76059c3af113e6358281a62ae8cbd2814ff08a06bf01cc2&scene=27#wechat_redirect)
-
-深圳市网络与信息安全行业协会（SNISA），是深圳市网络与信息安全行业的权威组织，是中国网络安全审查技术与认证中心（CCRC）在深圳唯一授权工作站，是经深圳市人力资源和社会保障局核准，开展网络空间安全工程技术专业职称评审工作的社会组织。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_650442d8cad4" alt="" />
 
 ---
 
