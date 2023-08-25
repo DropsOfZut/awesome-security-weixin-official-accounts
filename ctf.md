@@ -276,7 +276,7 @@ CTF协会
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjcxMTAwMQ==)
 
-[:camera_flash:【2023-08-22 09:08:00】](https://mp.weixin.qq.com/s?__biz=Mzg4MjcxMTAwMQ==&mid=2247487504&idx=1&sn=39bbef7cc3e3cc21d676aea78b27347f&chksm=cf53d0a6f82459b0c4e1c7f7b13419e5aa38c1cbaae8b0d8e1abe4adf35c52c118b0548ad320&scene=27#wechat_redirect)
+[:camera_flash:【2023-08-23 09:25:16】](https://mp.weixin.qq.com/s?__biz=Mzg4MjcxMTAwMQ==&mid=2247487519&idx=2&sn=0ab21a9d639cacf3cefc9d4085ce7f26&chksm=cf53d0a9f82459bfe369339c9b22cd5f90488f9f01e038e5070b828c7fc55f5d0ddf9346f2d3&scene=27#wechat_redirect)
 
 山海关安全团队旗下CTF战队-Arr3stY0u公众号。
 
