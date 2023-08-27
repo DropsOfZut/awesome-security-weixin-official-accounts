@@ -68,7 +68,7 @@ PTE小技巧
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
 
-[:camera_flash:【2023-08-03 19:01:21】](https://mp.weixin.qq.com/s?__biz=MzkyNDA5NjgyMg==&mid=2247496546&idx=1&sn=e2c682bb35a791a2c0015599d8475284&chksm=c1d9b33bf6ae3a2d900ecac18ad8bf9c8c212a2d0793c7b047e6e487300d482194c7b06e003b&scene=27#wechat_redirect)
+[:camera_flash:【2023-08-23 18:35:13】](https://mp.weixin.qq.com/s?__biz=MzkyNDA5NjgyMg==&mid=2247496555&idx=1&sn=ad289fe52ad5b6af33ff35257943094c&chksm=c1d9b332f6ae3a24958815a26ce03da8d67fdd854606234516c0ef3807592139c19f0941565d&scene=27#wechat_redirect)
 
 春秋伽玛，为广大网络安全爱好者传递网络安全大赛相关赛事信息，提供优质的赛事服务平台
 
@@ -276,7 +276,7 @@ CTF协会
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjcxMTAwMQ==)
 
-[:camera_flash:【2023-08-23 09:25:16】](https://mp.weixin.qq.com/s?__biz=Mzg4MjcxMTAwMQ==&mid=2247487519&idx=2&sn=0ab21a9d639cacf3cefc9d4085ce7f26&chksm=cf53d0a9f82459bfe369339c9b22cd5f90488f9f01e038e5070b828c7fc55f5d0ddf9346f2d3&scene=27#wechat_redirect)
+[:camera_flash:【2023-08-26 12:00:18】](https://mp.weixin.qq.com/s?__biz=Mzg4MjcxMTAwMQ==&mid=2247487555&idx=1&sn=9afd5a837ce86710a5de13d5d64d2991&chksm=cf53d0f5f82459e37b9b7b9ed332bc751a30fd28607bcf7342a78ed473bae6e2dae9bbcaaa01&scene=27#wechat_redirect)
 
 山海关安全团队旗下CTF战队-Arr3stY0u公众号。
 
