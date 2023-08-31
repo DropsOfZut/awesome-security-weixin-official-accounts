@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【0/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
 
-[:camera_flash:【2023-08-28 08:00:51】](https://mp.weixin.qq.com/s?__biz=MzUzODkwMDMxNA==&mid=2247568486&idx=1&sn=c6e7a7376e09c4b75325bb4251c8fb06&chksm=fad32e53cda4a7457bdc5924d3c6904e86d4377f30d18fab1c1a940da1599186eab72b463c2a&scene=27#wechat_redirect)
+[:camera_flash:【2023-08-30 08:00:45】](https://mp.weixin.qq.com/s?__biz=MzUzODkwMDMxNA==&mid=2247568497&idx=1&sn=c2d851f68eba2bdb52c350dba08d70c7&chksm=fad32e44cda4a752821b03788b3418e1ca9e6555ec929c277c55a0d22d46b2bd8c2933d2ea68&scene=27#wechat_redirect)
 
 百所高校、百家用人单位、百名尖锋导师，携手打造定制化人才培养模式，通过导师制职业规划和封闭式岗位实训，补足知识短板、提高实战能力，培养创新型、实用型网络安全尖锋人才。
 
@@ -211,7 +211,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Njc1OTYyNA==)
 
-[:camera_flash:【2023-08-11 16:21:14】](https://mp.weixin.qq.com/s?__biz=MjM5Njc1OTYyNA==&mid=2450786249&idx=1&sn=fce122baba0832f4e48fda13c2d5c58d&chksm=b104f6ee86737ff8713471691cecf0f66ed0377724a4aba3fc44a2c64108fce7eac9a81c9f9e&scene=27#wechat_redirect)
+[:camera_flash:【2023-08-30 19:18:10】](https://mp.weixin.qq.com/s?__biz=MjM5Njc1OTYyNA==&mid=2450786375&idx=1&sn=fd575da9ceccb3c26b95706bdb6bf8e6&chksm=b104f96086737076d9a09c4c3829a01226e67cf7f77f0cbd8af8625404c953f27dbcb4ad197d&scene=27#wechat_redirect)
 
 山警网络空间安全实验室（简称：网安社）
 
@@ -523,7 +523,7 @@ Covteam工作室，成立于2005年。是以西华大学在校本科生研究生
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4ODUyMjYyNg==)
 
-[:camera_flash:【2023-05-20 09:01:23】](https://mp.weixin.qq.com/s?__biz=Mzg4ODUyMjYyNg==&mid=2247486426&idx=1&sn=1492128b290450bef767b022d64cbfb6&chksm=cff89937f88f1021c1b1cb93571bf7d44b7f320958ed3e4e79eaa2656cd5ceee4d0e72410e37&scene=27#wechat_redirect)
+[:camera_flash:【2023-08-09 09:12:27】](https://mp.weixin.qq.com/s?__biz=Mzg4ODUyMjYyNg==&mid=2247486443&idx=1&sn=c2d659d472d8c85445d8172f5be6d8d7&chksm=cff89906f88f10106d6bad934ac49ab8734464b1179391a019679518260340c4a435acf138d9&scene=27#wechat_redirect)
 
 河北网络安全高校联盟
 

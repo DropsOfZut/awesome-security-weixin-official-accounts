@@ -38,19 +38,6 @@
 ---
 
 
-### [腾讯技术工程](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
-
-[:chart_with_upwards_trend:【0/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
-
-[:camera_flash:【2023-08-24 18:00:41】](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649780138&idx=1&sn=9092639bc48e0101a09455c8c8eef12b&chksm=beccfcd189bb75c7ef3728561a72718d48300f68bbaf77aac03715708d575e89e795d4daaec0&scene=27#wechat_redirect)
-
-腾讯技术官方号。腾讯技术创新、前沿领域发布解读平台。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_d14465b5ce6c" alt="" />
-
----
-
-
 ### [字节跳动技术团队](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
 
 [:chart_with_upwards_trend:【3/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
@@ -77,9 +64,22 @@
 ---
 
 
+### [腾讯技术工程](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
+
+[:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
+
+[:camera_flash:【2023-08-29 18:01:08】](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649780346&idx=1&sn=e9c229f7fc78cd949598d245a5a2871f&chksm=becce30189bb6a174ca1cb7b0b26ba603105fa864b166b9edc4469df03b25b5cc325f5389df7&scene=27#wechat_redirect)
+
+腾讯技术官方号。腾讯技术创新、前沿领域发布解读平台。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_d14465b5ce6c" alt="" />
+
+---
+
+
 ### [GoCN](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4ODg0NDkzOA==)
 
-[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4ODg0NDkzOA==)
+[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4ODg0NDkzOA==)
 
 [:camera_flash:【2023-08-04 08:00:40】](https://mp.weixin.qq.com/s?__biz=MzA4ODg0NDkzOA==&mid=2247508397&idx=1&sn=b9f0bf7b1bfffb1a165bb54d4b0ad554&chksm=90211e48a756975efbf4c424359af2862fd2524e255394d98b6773f8504db82e08374d071021&scene=27#wechat_redirect)
 
@@ -92,7 +92,7 @@
 
 ### [编码安全研究](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NDY1MDc2Mg==)
 
-[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NDY1MDc2Mg==)
+[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NDY1MDc2Mg==)
 
 [:camera_flash:【2023-08-24 20:40:14】](https://mp.weixin.qq.com/s?__biz=Mzg2NDY1MDc2Mg==&mid=2247504018&idx=2&sn=1fcafef4b41251dcfcbaca3e9aa1748e&chksm=ce6483f7f9130ae1c3c2cf97761def2cbae5e75db816c9fde1d8312480404b317284e682a8a4&scene=27#wechat_redirect)
 
@@ -107,7 +107,7 @@
 
 [:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzI1MDg2Mg==)
 
-[:camera_flash:【2023-08-16 12:01:46】](https://mp.weixin.qq.com/s?__biz=MzIwMzI1MDg2Mg==&mid=2649943167&idx=1&sn=1833480a477f55d69c3e4f1b35ff596b&chksm=8ed401beb9a388a84d6560c54d88562eb4dc26e01a580ebc3b4cda08ba566a951a4c8521dc97&scene=27#wechat_redirect)
+[:camera_flash:【2023-08-29 17:29:02】](https://mp.weixin.qq.com/s?__biz=MzIwMzI1MDg2Mg==&mid=2649943185&idx=1&sn=2867815674a30ba7c34537744b98a788&chksm=8ed40150b9a38846cef50c0f154d2a49753d04d1116ce61f100b2e3e4d4cc5f39560ea41c0f6&scene=27#wechat_redirect)
 
 主营业务涵盖应用安全、系统安全、运维安全等，包括IT资产管理、智能攻击机器人、智能防御机器人、攻防实战演练支持、安全培训、课题和安全技术研究、产品研发及服务综合解决方案提供；其中，行业解决方案又包括电力行业、金融行业、军工行业、公检法等。
 
@@ -458,7 +458,7 @@ Pinpoint，专业代码审计团队。感谢您的关注！
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNzIwMzY4OQ==)
 
-[:camera_flash:【2023-07-05 14:30:46】](https://mp.weixin.qq.com/s?__biz=MzkyNzIwMzY4OQ==&mid=2247488746&idx=1&sn=609d1b23af414a7aea0149bf3a6377b5&chksm=c22afcecf55d75fab383e25ab4c977703f35638de2a71172238abb1563ed14bc4c58a3ea0746&scene=27#wechat_redirect)
+[:camera_flash:【2023-08-17 16:16:26】](https://mp.weixin.qq.com/s?__biz=MzkyNzIwMzY4OQ==&mid=2247488795&idx=1&sn=78191eec5247075aa8d5b54784078022&chksm=c22afd1df55d740b9250774074121e7d39e9dc9ed73f8dc7c7dbea7ed3b9f20fe02a4dd6e33f&scene=126&sessionid=1693373763&subscene=227&clicktime=1693373764&enterid=1693373764&key=42e64e73470f56adbe6aa8e71422b5cf99bf1f3061199d54f0501073d06d8f0de40f0611c5fab9848221ee29ef29d73853ca02e2e7143585db4f6f24eaa7446221a13b7b0427d6972089400aca73e1ce2840eaea0e6734ae48c46effe64ef212a3c6853cae2ecb1f8e21fb792246874676d05a8485defd3f360033184c06944d&ascene=7&uin=MTI5ODM0MTMwNQ%3D%3D&devicetype=Windows+10+x64&version=63060012&lang=zh_CN&exportkey=n_ChQIAhIQhRzgFuj6IG2rKlzO4k68txLgAQIE97dBBAEAAAAAAOMjNL2v0vwAAAAOpnltbLcz9gKNyK89dVj0ZKh6AQFWfJwkx%2FuPdRjs0wrBvU2asoFoxPBAlEiBzvbAq98mVEZtBTzGenNlhSCMC9kyADy2CAgmmut8wjJlueulzGa31Mg2hpTmQpTOawHZjMqvOGOH8vr%2BHk2aFIKa3JZMnQtL8E0DByrnLf9Oml%2FTRTIZVsihkT%2BmgM56NTAt%2FNRbhyHl028vcmDfSXy0ca3v4atmjQ6Wxl%2F2OmiFIUJt2GhEGxIY6uMh%2BOd41RH3nBblrk5WoszQ&acctmode=0&pass_ticket=NfjiuSXvmKFYTN92KjBS5l74bwjloNo0lDchQpMi7IFSB5v3lg6IY7PJrd9UvoY8&wx_header=0&fontgear=2&scene=27#wechat_redirect)
 
 FOFA是由华顺信安科技有限公司开发的一款网络空间资产搜索引擎。
 
