@@ -12,19 +12,6 @@ Docker中文社区旨在为大家提供 Docker、Kubernetes 相关工具及前�
 ---
 
 
-### [系统安全运维](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NjE0NDc5OQ==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NjE0NDc5OQ==)
-
-[:camera_flash:【2023-09-01 14:00:58】](https://mp.weixin.qq.com/s?__biz=Mzk0NjE0NDc5OQ==&mid=2247521634&idx=2&sn=1bc2c05b82fab81fbaae2329a70de17b&chksm=c3084612f47fcf043eb755241b0c76e4eb36a00dde746cd7aeef0db083f3afd6b77ab85edd8e&scene=27#wechat_redirect)
-
-未知攻 焉知防 攻防兼备
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_2c298b630170" alt="" />
-
----
-
-
 ### [Linux学习](http://wechat.doonsec.com/wechat_echarts/?biz=MzI4MDEwNzAzNg==)
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI4MDEwNzAzNg==)
@@ -103,6 +90,19 @@ BAT 技术专家分享开发、架构、运维相关干货！
 ---
 
 
+### [系统安全运维](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NjE0NDc5OQ==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NjE0NDc5OQ==)
+
+[:camera_flash:【2023-09-01 14:00:58】](https://mp.weixin.qq.com/s?__biz=Mzk0NjE0NDc5OQ==&mid=2247521634&idx=2&sn=1bc2c05b82fab81fbaae2329a70de17b&chksm=c3084612f47fcf043eb755241b0c76e4eb36a00dde746cd7aeef0db083f3afd6b77ab85edd8e&scene=27#wechat_redirect)
+
+未知攻 焉知防 攻防兼备
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_2c298b630170" alt="" />
+
+---
+
+
 ### [网络运维渗透](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3MjMxODUwNg==)
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3MjMxODUwNg==)
@@ -120,7 +120,7 @@ BAT 技术专家分享开发、架构、运维相关干货！
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzIwNTY1OA==)
 
-[:camera_flash:【2023-09-01 11:02:30】](https://mp.weixin.qq.com/s?__biz=MzkxMzIwNTY1OA==&mid=2247498869&idx=1&sn=9acb6c9104a171a9ec34fba39a827f1e&chksm=c1038c80f6740596c6bf0bf4f92e25e5924ea91b35b3240a7cab5c147059aaca2e05714e660e&scene=27#wechat_redirect)
+[:camera_flash:【2023-09-02 09:02:42】](https://mp.weixin.qq.com/s?__biz=MzkxMzIwNTY1OA==&mid=2247498897&idx=1&sn=5d9e2d8e53f5e765cba25ff047ca2e8a&chksm=c1038c64f67405726a8d32d98b48bb6c43dfdb81d6446a13dae6a79bd341849e3f97ac81fa2c&scene=27#wechat_redirect)
 
 发布关于kali相关文章。Debian Centos等操作系统的安全和运维。以及树莓派 ESP8266 DIY单片机等相关安全领域的文章。旨在掌握技术和原理的前提下，更好的保护自身网络安全。反对一切危害网络安全的行为，造成法律后果请自负。
 

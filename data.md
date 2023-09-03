@@ -27,7 +27,7 @@
 
 ### [数据安全与数据要素化研究](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNzQyMTEyMQ==)
 
-[:chart_with_upwards_trend:【0/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNzQyMTEyMQ==)
+[:chart_with_upwards_trend:【0/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNzQyMTEyMQ==)
 
 [:camera_flash:【2023-08-28 09:45:56】](https://mp.weixin.qq.com/s?__biz=MzIwNzQyMTEyMQ==&mid=2247487983&idx=1&sn=eb0bcb305274bca7afa513cf821f852b&chksm=9713fa41a0647357dc22d5340aeee150197940260c49fe4ff221d705550ead4af37f31d31f98&scene=27#wechat_redirect)
 
@@ -66,7 +66,7 @@
 
 ### [全知科技](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0NDMxODY2Nw==)
 
-[:chart_with_upwards_trend:【2/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0NDMxODY2Nw==)
+[:chart_with_upwards_trend:【1/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0NDMxODY2Nw==)
 
 [:camera_flash:【2023-09-01 17:40:02】](https://mp.weixin.qq.com/s?__biz=MzU0NDMxODY2Nw==&mid=2247520961&idx=1&sn=f2deaa8660ecbbd55cb14aaef4e90fec&chksm=fb7f2765cc08ae736ce7de56db1ad4aa546c555ed39c8b60d9b248d7ea9da4498deb47ecb838&scene=27#wechat_redirect)
 
