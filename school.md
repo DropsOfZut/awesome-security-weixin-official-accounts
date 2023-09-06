@@ -12,19 +12,6 @@
 ---
 
 
-### [深圳网安培训学院](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDYzMjAyNA==)
-
-[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDYzMjAyNA==)
-
-[:camera_flash:【2023-08-23 16:19:51】](https://mp.weixin.qq.com/s?__biz=Mzg3MDYzMjAyNA==&mid=2247484754&idx=1&sn=7df60abba44c94c982809397b1841b4b&chksm=2cf194ed007a8fc5ef74003f51cb286959d391e1178d953b6c88e8f0e6ae167ca6a5025e530a&scene=27&key=4b8e18db99a662cf94a1e7841f688f1aaefeb774b9de3fb4ef7dc55efa6b576a5a8a28de7814c3cbf8c776ca67df78bee0584d545870e2797018ed388232a7275ad9f78ff5450e94541cc89573cd554f5ae1423324fa08347faed8c0f89165fdf21e104345e0d4d5a7fd8bdadd84bc43ab665affb2f403247e56e8d4ea0cdbc0&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+10+x64&version=63060012&lang=zh_CN&session_us=gh_44aa364227ad&countrycode=AL&exportkey=n_ChQIAhIQc%2B%2F5refRa%2ButNwyL%2FzzvvBLuAQIE97dBBAEAAAAAAG9vFA6%2Bq%2BYAAAAOpnltbLcz9gKNyK89dVj07gD0a%2B8ezuaQQXeN5viDc%2F3NTL1Gjq%2FOqWdkz8i%2F0ILIL40CyPtAF8Mljkxpzc0GidR7uvBI9NTXUJUd07e17kjEahNviAPufVXOonMCDPzh%2Bk4XmXzfn8xIdD%2BQIKOgtXN%2BzmFxFd8OXSQdwEYPHxR2ubOz3q0N4Q5f5liMQSmS9CI1BRHDNhiGZ2fwuW1rtwuvC8UiQ7ngrLM%2F3%2FLHVnbKHoDM1VSohQx64M8PPuDEoUupkE8nH1%2FN9iD972JuedmKJikPXag%3D&acctmode=0&pass_ticket=X3fdhMdQgMPSA9CUB2kUW8ZYjr5dcpfvTfyoyopwfT8SGeIEcMH%2B5R%2B38l5viJpL&wx_header=0&fontgear=2&scene=27#wechat_redirect)
-
-深圳市网安计算机网络安全培训中心是由深圳市人力资源局备案的社会第三方培训机构。是受广东省人力资源和社会保障厅委托，开展“网络与信息安全管理员”职业技能等级认定工作的第三方社会评价机构。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_94f04a96b1ca" alt="" />
-
----
-
-
 ### [蚁景网安](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MTU2ODYwNw==)
 
 [:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MTU2ODYwNw==)
@@ -34,6 +21,19 @@
 分享网安干货技能，致力于实战网安技能人才培养
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_861ca8c2271b" alt="" />
+
+---
+
+
+### [深圳网安培训学院](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDYzMjAyNA==)
+
+[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDYzMjAyNA==)
+
+[:camera_flash:【2023-08-23 16:19:51】](https://mp.weixin.qq.com/s?__biz=Mzg3MDYzMjAyNA==&mid=2247484754&idx=1&sn=7df60abba44c94c982809397b1841b4b&chksm=2cf194ed007a8fc5ef74003f51cb286959d391e1178d953b6c88e8f0e6ae167ca6a5025e530a&scene=27&key=4b8e18db99a662cf94a1e7841f688f1aaefeb774b9de3fb4ef7dc55efa6b576a5a8a28de7814c3cbf8c776ca67df78bee0584d545870e2797018ed388232a7275ad9f78ff5450e94541cc89573cd554f5ae1423324fa08347faed8c0f89165fdf21e104345e0d4d5a7fd8bdadd84bc43ab665affb2f403247e56e8d4ea0cdbc0&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+10+x64&version=63060012&lang=zh_CN&session_us=gh_44aa364227ad&countrycode=AL&exportkey=n_ChQIAhIQc%2B%2F5refRa%2ButNwyL%2FzzvvBLuAQIE97dBBAEAAAAAAG9vFA6%2Bq%2BYAAAAOpnltbLcz9gKNyK89dVj07gD0a%2B8ezuaQQXeN5viDc%2F3NTL1Gjq%2FOqWdkz8i%2F0ILIL40CyPtAF8Mljkxpzc0GidR7uvBI9NTXUJUd07e17kjEahNviAPufVXOonMCDPzh%2Bk4XmXzfn8xIdD%2BQIKOgtXN%2BzmFxFd8OXSQdwEYPHxR2ubOz3q0N4Q5f5liMQSmS9CI1BRHDNhiGZ2fwuW1rtwuvC8UiQ7ngrLM%2F3%2FLHVnbKHoDM1VSohQx64M8PPuDEoUupkE8nH1%2FN9iD972JuedmKJikPXag%3D&acctmode=0&pass_ticket=X3fdhMdQgMPSA9CUB2kUW8ZYjr5dcpfvTfyoyopwfT8SGeIEcMH%2B5R%2B38l5viJpL&wx_header=0&fontgear=2&scene=27#wechat_redirect)
+
+深圳市网安计算机网络安全培训中心是由深圳市人力资源局备案的社会第三方培训机构。是受广东省人力资源和社会保障厅委托，开展“网络与信息安全管理员”职业技能等级认定工作的第三方社会评价机构。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_94f04a96b1ca" alt="" />
 
 ---
 
@@ -263,7 +263,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NjUzODYyNw==)
 
-[:camera_flash:【2023-06-11 11:55:12】](https://mp.weixin.qq.com/s?__biz=Mzg4NjUzODYyNw==&mid=2247484253&idx=1&sn=75e0a51278dad1f4df0810f1a7c48b44&chksm=cf996bb1f8eee2a78015d708ea6cb3ff0666d0200a32290ac7951bdc60be4326763f1fc175a9&scene=27#wechat_redirect)
+[:camera_flash:【2023-09-02 20:20:20】](https://mp.weixin.qq.com/s?__biz=Mzg4NjUzODYyNw==&mid=2247484575&idx=1&sn=364f8617b4293741972a3cac51fe0bae&chksm=cf996c73f8eee5656e8a936e30c8c7be6bdf7682c6aab4065b62723697b66a66cc2a4a7b4047&scene=27#wechat_redirect)
 
 南宁职业技术学院网络安全技术协会
 
@@ -315,7 +315,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDIyNTE0OQ==)
 
-[:camera_flash:【2023-09-02 15:16:41】](https://mp.weixin.qq.com/s?__biz=MzkyNDIyNTE0OQ==&mid=2247484689&idx=1&sn=a6c0c11de759df1214f403461561d269&chksm=c1d85e03f6afd7154a7b381451c7397a0cb89df7a795e85683d4c64c5b54fc9185fe67a8f7b5&scene=27#wechat_redirect)
+[:camera_flash:【2023-09-03 16:25:49】](https://mp.weixin.qq.com/s?__biz=MzkyNDIyNTE0OQ==&mid=2247484707&idx=1&sn=1e2f086773e898d1049bc8aed4cea358&chksm=c1d85e31f6afd727201ac6212e076e224ecef1f70c58eaf6fd414913093e26128273a66a36dc&scene=27#wechat_redirect)
 
 本社团致力于向大家分享交流网络安全实践技术，主要以CTF竞赛、红蓝对抗、渗透测试、知识讲座等形式分享网络安全知识，培养网安人才，积极响应国家建设网络强国的号召，共筑网络安全防线。
 
@@ -445,7 +445,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
 
-[:camera_flash:【2023-08-22 07:02:02】](https://mp.weixin.qq.com/s?__biz=MzUzNDg0NTc1NA==&mid=2247502104&idx=1&sn=79614586feec609333ce2161b5ed9047&chksm=fa8c094dcdfb805b1866f7f6df1db4be5e3c2004fa25d4f0a75e7545600df2f687dae0cff07d&scene=27#wechat_redirect)
+[:camera_flash:【2023-09-05 16:06:38】](https://mp.weixin.qq.com/s?__biz=MzUzNDg0NTc1NA==&mid=2247502466&idx=1&sn=3a836991295bc09b126612469154736e&chksm=fa8c0ad7cdfb83c1917fe0579eb12e8595272e0f6e2907fdbbc66c7b96d23809497269f212f9&scene=27#wechat_redirect)
 
 启明星辰网络空间安全学院以国家网络安全事业发展为使命，依托启明星辰集团多年的技术沉淀及实践积累，提供网络安全人才体系构建与信息安全技术及能力提升教育培训，为建设网络强国提供有力的人才支撑。
 
@@ -640,7 +640,7 @@ Covteam工作室，成立于2005年。是以西华大学在校本科生研究生
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5NDczNDc4NA==)
 
-[:camera_flash:【2023-07-31 11:31:04】](https://mp.weixin.qq.com/s?__biz=Mzg5NDczNDc4NA==&mid=2247493393&idx=1&sn=94c99cace60c768a96cb54e3a4742a6c&chksm=c019bfbef76e36a8be58e7093d6c6bf408d3a89066fcf976c16dd8b0cd43afaa2d11a3eff487&scene=27#wechat_redirect)
+[:camera_flash:【2023-08-29 18:42:22】](https://mp.weixin.qq.com/s?__biz=Mzg5NDczNDc4NA==&mid=2247493504&idx=1&sn=308ae203e889a0d52dedf52c235a7bac&chksm=c019bf2ff76e3639cce5943cf9ad6ead7fc394b8908272d04a383a414ae3335e57db714fe4af&scene=27#wechat_redirect)
 
 浙江大学网络空间安全学院/浙江大学网络空间安全研究中心
 
