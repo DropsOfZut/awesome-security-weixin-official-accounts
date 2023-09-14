@@ -1,26 +1,13 @@
 
 ### [大学生网络安全尖锋训练营](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
 
-[:chart_with_upwards_trend:【0/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
+[:chart_with_upwards_trend:【0/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
 
 [:camera_flash:【2023-09-12 08:01:01】](https://mp.weixin.qq.com/s?__biz=MzUzODkwMDMxNA==&mid=2247568671&idx=1&sn=ea3db2337cd0dbb3e05d265c3cb96664&chksm=fad32f2acda4a63c6adefef41bca4a97b08a964370a0d8c3b9c2451ece5a1269580bf25c5f6d&scene=27#wechat_redirect)
 
 百所高校、百家用人单位、百名尖锋导师，携手打造定制化人才培养模式，通过导师制职业规划和封闭式岗位实训，补足知识短板、提高实战能力，培养创新型、实用型网络安全尖锋人才。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_b54960a6ea07" alt="" />
-
----
-
-
-### [深圳网安培训学院](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDYzMjAyNA==)
-
-[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDYzMjAyNA==)
-
-[:camera_flash:【2023-09-08 14:53:49】](https://mp.weixin.qq.com/s?__biz=Mzg3MDYzMjAyNA==&mid=2247484795&idx=1&sn=d4b60cec9da7f2740d61b0340e123251&chksm=ce8b9a4cf9fc135a3da65933d08c1927d78a7df5b84c85e28769ab2216286e17b8234436a38f&scene=27#wechat_redirect)
-
-深圳市网安计算机网络安全培训中心是由深圳市人力资源局备案的社会第三方培训机构。是受广东省人力资源和社会保障厅委托，开展“网络与信息安全管理员”职业技能等级认定工作的第三方社会评价机构。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_94f04a96b1ca" alt="" />
 
 ---
 
@@ -34,6 +21,19 @@
 分享网安干货技能，致力于实战网安技能人才培养
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_861ca8c2271b" alt="" />
+
+---
+
+
+### [深圳网安培训学院](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDYzMjAyNA==)
+
+[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDYzMjAyNA==)
+
+[:camera_flash:【2023-09-08 14:53:49】](https://mp.weixin.qq.com/s?__biz=Mzg3MDYzMjAyNA==&mid=2247484795&idx=1&sn=d4b60cec9da7f2740d61b0340e123251&chksm=ce8b9a4cf9fc135a3da65933d08c1927d78a7df5b84c85e28769ab2216286e17b8234436a38f&scene=27#wechat_redirect)
+
+深圳市网安计算机网络安全培训中心是由深圳市人力资源局备案的社会第三方培训机构。是受广东省人力资源和社会保障厅委托，开展“网络与信息安全管理员”职业技能等级认定工作的第三方社会评价机构。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_94f04a96b1ca" alt="" />
 
 ---
 
@@ -146,7 +146,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzQyOTU0Nw==)
 
-[:camera_flash:【2023-08-08 08:00:07】](https://mp.weixin.qq.com/s?__biz=MzU3MzQyOTU0Nw==&mid=2247489476&idx=1&sn=2aea6526937119944b3547ad112f29c2&chksm=fcc09580cbb71c96929c4ab3bc2b4fcbd403d5cff3217a97dea685207a4014eabd5d1a0cdfdd&scene=27#wechat_redirect)
+[:camera_flash:【2023-09-07 08:00:31】](https://mp.weixin.qq.com/s?__biz=MzU3MzQyOTU0Nw==&mid=2247489520&idx=1&sn=79262cefb761eb8ef730e1ecd28314f9&chksm=fcc095b4cbb71ca207144671c963e1fbba66f0901b5370cb8b50e32212bd8e87af50c4844dcb&scene=27#wechat_redirect)
 
 东北大学“谛听”网络安全团队
 
@@ -211,7 +211,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Njc1OTYyNA==)
 
-[:camera_flash:【2023-09-12 14:24:27】](https://mp.weixin.qq.com/s?__biz=MjM5Njc1OTYyNA==&mid=2450786522&idx=1&sn=b05d4603b564465974424adc8c8a221a&chksm=b104f9fd867370ebe383a773110c669d20c803985d18095a3595c7c03e75b62c1096461b0a7a&scene=27#wechat_redirect)
+[:camera_flash:【2023-09-13 13:08:14】](https://mp.weixin.qq.com/s?__biz=MjM5Njc1OTYyNA==&mid=2450786539&idx=1&sn=fac11ab513d110df21f5a8cc5502b615&chksm=b104f9cc867370da89dabf3a6767d3b8b8443e5d96b805fe697cb8cd113c3e946fc499123493&scene=27#wechat_redirect)
 
 山警网络空间安全实验室（简称：网安社）
 
