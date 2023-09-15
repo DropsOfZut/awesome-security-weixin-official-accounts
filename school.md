@@ -1,26 +1,13 @@
 
 ### [大学生网络安全尖锋训练营](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
 
-[:chart_with_upwards_trend:【0/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
+[:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
 
-[:camera_flash:【2023-09-12 08:01:01】](https://mp.weixin.qq.com/s?__biz=MzUzODkwMDMxNA==&mid=2247568671&idx=1&sn=ea3db2337cd0dbb3e05d265c3cb96664&chksm=fad32f2acda4a63c6adefef41bca4a97b08a964370a0d8c3b9c2451ece5a1269580bf25c5f6d&scene=27#wechat_redirect)
+[:camera_flash:【2023-09-13 08:00:10】](https://mp.weixin.qq.com/s?__biz=MzUzODkwMDMxNA==&mid=2247568718&idx=1&sn=f1775fd31a4cc9dd6249c22247fd42ae&chksm=fad32f7bcda4a66d04189c621e2e5f81266fd2b09bdf100bb88bfc9b0388551f681da83052bc&scene=27#wechat_redirect)
 
 百所高校、百家用人单位、百名尖锋导师，携手打造定制化人才培养模式，通过导师制职业规划和封闭式岗位实训，补足知识短板、提高实战能力，培养创新型、实用型网络安全尖锋人才。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_b54960a6ea07" alt="" />
-
----
-
-
-### [蚁景网安](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MTU2ODYwNw==)
-
-[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MTU2ODYwNw==)
-
-[:camera_flash:【2023-08-22 17:10:03】](https://mp.weixin.qq.com/s?__biz=Mzg5MTU2ODYwNw==&mid=2247486561&idx=1&sn=914195408ffa9cd0f70cf6df9cd9a5a1&chksm=1cd56a3986bc7f3f6244b097d848b2f5d5b2aecef5252a81a550a07965b029e9b1c11a89c2ea&scene=27&key=24e036561734eb125e6e074614f39c62f25699b22090f8362baa5996b3dcb3cf08cf1386233c17db2c0abfebe7bccdf3df0a2ca0888f0e4d66115d548952c71b484aab45c4027bdac2afc1c8c3121cd35162c9921d27f1840ca0ceb056b98d98105f6d1848e81ff0d9a613bb743251cea214b8e0db899a4e2b7ead23108ccfe7&ascene=15&uin=MTI5ODM0MTMwNQ%3D%3D&devicetype=Windows+10+x64&version=63060012&lang=zh_CN&session_us=gh_469225414d82&exportkey=n_ChQIAhIQHz3E5hriJik0jj2Bscu08BLvAQIE97dBBAEAAAAAAIzRKQQ6hm4AAAAOpnltbLcz9gKNyK89dVj0J1qqtQ4ejXRuy%2BmEgvj2BeIEBKixPdXdTIXWCLDLIV96bQJW13UeRBnpnc6k7jIpSWgs7OIVaaxASdRrF%2FIKaU3XSkGoPX16QYb14IggEyPkzaAF1uZ%2FAVPRx8v%2FBiQX1%2Bz89YT59lxiZudXq5YzcVxtyCCsbcciDvhT4Q%2FW7pAuWPXTJVI0ZgBXyGMs8MKoyQfoMGmxNPVJ1M4x3kSfEpRMYUAs1nQ9PhRf%2BWVlEcJVlFxBiYXy%2Fan6hb47rzZ%2FofoRJnawMZcH&acctmode=0&pass_ticket=R7ty4VMBglDtif%2BuqnHOYB3of5bAu9DgselW1azirUSBMlLsGGYs7Ci92%2BDmwSUw&wx_header=0&fontgear=2&scene=27#wechat_redirect)
-
-分享网安干货技能，致力于实战网安技能人才培养
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_861ca8c2271b" alt="" />
 
 ---
 
@@ -38,19 +25,6 @@
 ---
 
 
-### [三叶草小组Syclover](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzOTg0NjYzNg==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzOTg0NjYzNg==)
-
-[:camera_flash:【2023-08-15 16:41:00】](https://mp.weixin.qq.com/s?__biz=MzIzOTg0NjYzNg==&mid=2247489257&idx=1&sn=eabf44a2dc6df07284d4b1c9fe46eebc&chksm=e922836ade550a7cfc6254ebd8c6bc9877e177da6247df330a9461a3488e021407cb992d6a3a&scene=27#wechat_redirect)
-
-一个专注于网络空间安全的高校技术团队，成立于2005年3月，主要研究方向有渗透测试、逆向工程、移动安全、安全编程、漏洞利用等；公众号定期推送小组成员原创文章
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_962842f4917b" alt="" />
-
----
-
-
 ### [杭师大网安](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MzA1MDIzMg==)
 
 [:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MzA1MDIzMg==)
@@ -60,6 +34,19 @@
 为了宣传杭州师范大学“网络与信息安全实验室”，提升大家网络与信息安全意识。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_cb6e613490cd" alt="" />
+
+---
+
+
+### [蚁景网安](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MTU2ODYwNw==)
+
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MTU2ODYwNw==)
+
+[:camera_flash:【2023-08-22 17:10:03】](https://mp.weixin.qq.com/s?__biz=Mzg5MTU2ODYwNw==&mid=2247486561&idx=1&sn=914195408ffa9cd0f70cf6df9cd9a5a1&chksm=1cd56a3986bc7f3f6244b097d848b2f5d5b2aecef5252a81a550a07965b029e9b1c11a89c2ea&scene=27&key=24e036561734eb125e6e074614f39c62f25699b22090f8362baa5996b3dcb3cf08cf1386233c17db2c0abfebe7bccdf3df0a2ca0888f0e4d66115d548952c71b484aab45c4027bdac2afc1c8c3121cd35162c9921d27f1840ca0ceb056b98d98105f6d1848e81ff0d9a613bb743251cea214b8e0db899a4e2b7ead23108ccfe7&ascene=15&uin=MTI5ODM0MTMwNQ%3D%3D&devicetype=Windows+10+x64&version=63060012&lang=zh_CN&session_us=gh_469225414d82&exportkey=n_ChQIAhIQHz3E5hriJik0jj2Bscu08BLvAQIE97dBBAEAAAAAAIzRKQQ6hm4AAAAOpnltbLcz9gKNyK89dVj0J1qqtQ4ejXRuy%2BmEgvj2BeIEBKixPdXdTIXWCLDLIV96bQJW13UeRBnpnc6k7jIpSWgs7OIVaaxASdRrF%2FIKaU3XSkGoPX16QYb14IggEyPkzaAF1uZ%2FAVPRx8v%2FBiQX1%2Bz89YT59lxiZudXq5YzcVxtyCCsbcciDvhT4Q%2FW7pAuWPXTJVI0ZgBXyGMs8MKoyQfoMGmxNPVJ1M4x3kSfEpRMYUAs1nQ9PhRf%2BWVlEcJVlFxBiYXy%2Fan6hb47rzZ%2FofoRJnawMZcH&acctmode=0&pass_ticket=R7ty4VMBglDtif%2BuqnHOYB3of5bAu9DgselW1azirUSBMlLsGGYs7Ci92%2BDmwSUw&wx_header=0&fontgear=2&scene=27#wechat_redirect)
+
+分享网安干货技能，致力于实战网安技能人才培养
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_861ca8c2271b" alt="" />
 
 ---
 
@@ -120,7 +107,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
 
-[:camera_flash:【2023-09-10 23:20:17】](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247486916&idx=1&sn=a020f55c195f370b49ba2933061f0ea7&chksm=fdeb89baca9c00acbeae321987c27e30e7d6d382f385fd607ae0880d17e193580c246ea9b312&scene=27#wechat_redirect)
+[:camera_flash:【2023-09-14 11:20:25】](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247486931&idx=1&sn=dd8a4df950f96f7edb65046298a50a0b&chksm=fdeb89adca9c00bb1c68446b372d90aaf7383e89f13b6ee70ece966987d1768ab1fe865db568&scene=27#wechat_redirect)
 
 以复旦大学系统安全实验室学生为主成立的安全攻防战队，分享最新研究成果，交流系统安全攻防领域技巧。
 
@@ -255,6 +242,19 @@
 发布信息安全技术及相关竞赛信息。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_711d4ce1da87" alt="" />
+
+---
+
+
+### [三叶草小组Syclover](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzOTg0NjYzNg==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzOTg0NjYzNg==)
+
+[:camera_flash:【2023-08-15 16:41:00】](https://mp.weixin.qq.com/s?__biz=MzIzOTg0NjYzNg==&mid=2247489257&idx=1&sn=eabf44a2dc6df07284d4b1c9fe46eebc&chksm=e922836ade550a7cfc6254ebd8c6bc9877e177da6247df330a9461a3488e021407cb992d6a3a&scene=27#wechat_redirect)
+
+一个专注于网络空间安全的高校技术团队，成立于2005年3月，主要研究方向有渗透测试、逆向工程、移动安全、安全编程、漏洞利用等；公众号定期推送小组成员原创文章
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_962842f4917b" alt="" />
 
 ---
 
@@ -640,7 +640,7 @@ Covteam工作室，成立于2005年。是以西华大学在校本科生研究生
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5NDczNDc4NA==)
 
-[:camera_flash:【2023-09-12 12:44:15】](https://mp.weixin.qq.com/s?__biz=Mzg5NDczNDc4NA==&mid=2247493624&idx=1&sn=a4de7e45d554701ab5f1d94bc001b9e4&chksm=c019bf57f76e36416b8e0c40b44b6ae6ab4fb01566e74214994abe57bd9d0ed0666a804e0c9b&scene=27#wechat_redirect)
+[:camera_flash:【2023-09-14 15:06:45】](https://mp.weixin.qq.com/s?__biz=Mzg5NDczNDc4NA==&mid=2247493633&idx=1&sn=c77c1c2c03c3b3e5cd149f4e1e9cb2bf&chksm=c019b0aef76e39b8f7022f3209e264772155cb098d78cf8c0210af74e637080c741ef5756a75&scene=27#wechat_redirect)
 
 浙江大学网络空间安全学院/浙江大学网络空间安全研究中心
 

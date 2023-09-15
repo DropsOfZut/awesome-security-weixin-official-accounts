@@ -1,9 +1,9 @@
 
 ### [网络安全与取证研究](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTU3NTY0Nw==)
 
-[:chart_with_upwards_trend:【0/14/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTU3NTY0Nw==)
+[:chart_with_upwards_trend:【0/13/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTU3NTY0Nw==)
 
-[:camera_flash:【2023-09-13 08:45:55】](https://mp.weixin.qq.com/s?__biz=Mzg3NTU3NTY0Nw==&mid=2247487916&idx=1&sn=5f04f5df46193aff3bb7c9803e5dad5c&chksm=cf3e319cf849b88a363a533473696364c22cc69797bcab18c5d85aae3d49e9ad75bd377d4b58&scene=27#wechat_redirect)
+[:camera_flash:【2023-09-14 09:35:05】](https://mp.weixin.qq.com/s?__biz=Mzg3NTU3NTY0Nw==&mid=2247487944&idx=1&sn=7adb3d3b229692ec22621bb95f694b47&chksm=cf3e31f8f849b8ee00b4537b573ee43ea446f55f1b1aa8cb2f36315fe51611a1b7db386f6b4f&scene=27#wechat_redirect)
 
 旨于开展网络安全相关法律法规研究与电子数据取证技术研究，分享小知识、小技巧，共同学习提高，推进技术规范化建设。
 
@@ -12,28 +12,28 @@
 ---
 
 
+### [IoT物联网技术](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
+
+[:chart_with_upwards_trend:【1/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
+
+[:camera_flash:【2023-09-14 19:26:52】](https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&mid=2454931377&idx=1&sn=8b5e16c8bb63f5d053e5c290341ac26b&chksm=b1670afe861083e8902e04594204bee06a3a33f6e24ffdeb37bd64b673df6ec5bda86b6f01cf&scene=27#wechat_redirect)
+
+云计算、物联网、大模型暗中观察小分队
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_5617c1b503e7" alt="" />
+
+---
+
+
 ### [电子物证](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNDcwMDgzMA==)
 
-[:chart_with_upwards_trend:【0/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNDcwMDgzMA==)
+[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNDcwMDgzMA==)
 
 [:camera_flash:【2023-09-11 12:07:29】](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651046002&idx=3&sn=b15cee45154ce8cffd909a90a6b3b288&chksm=80d08f83b7a70695126e1da5a5803cd64d22be32840ca09808f0c1c85e58f81a24936fbfb8c3&scene=27#wechat_redirect)
 
 关注刑事证据科学前沿发展，传递电子物证技术最新趋势
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f624bd447b0f" alt="" />
-
----
-
-
-### [IoT物联网技术](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
-
-[:chart_with_upwards_trend:【1/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
-
-[:camera_flash:【2023-09-13 19:27:22】](https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&mid=2454931374&idx=1&sn=3b5dd5f55f54711b45f78123ba1cb7b5&chksm=b1670ae1861083f776d44916a1f148460b4192f84a62b471488ffb8fc14a38b98ccc4374f859&scene=27#wechat_redirect)
-
-云计算、物联网、大模型暗中观察小分队
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_5617c1b503e7" alt="" />
 
 ---
 
@@ -211,7 +211,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
 
-[:camera_flash:【2023-09-13 21:06:20】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247590930&idx=3&sn=65c8952cb65d5b91159dc0bf43721460&chksm=fc0334d8cb74bdce77083ed667b838064b5f42eb30d0c921d9b0b2e88f5b38cf9e3c58415af6&scene=27#wechat_redirect)
+[:camera_flash:【2023-09-14 21:20:52】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247590986&idx=3&sn=ffc6d3995edabd511095ffb6136f9e4a&chksm=fc033480cb74bd96b7074dd21ba3c6fdc58666f2cb52356c3b631ee3191a79b7413b5a85b037&scene=27#wechat_redirect)
 
 为智能网联汽车行业专业人士提供信息和网络安全技术、产品及服务等行业发展最新咨询
 

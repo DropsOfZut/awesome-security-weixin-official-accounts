@@ -25,19 +25,6 @@ G.O.S.S.I.P 软件安全研究组
 ---
 
 
-### [飓风网络安全](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3NzMzNzE5Ng==)
-
-[:chart_with_upwards_trend:【0/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3NzMzNzE5Ng==)
-
-[:camera_flash:【2023-09-13 23:02:32】](https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247486629&idx=1&sn=4b59658b7d08e5a4c96ad327a3aae8f6&chksm=eb6689a6dc1100b0a2d31e4c60af34f16f4d1d672da8d393f6a69e94907113bdcb0b2cc86b45&scene=27#wechat_redirect)
-
-专注网络安全，成立于2016年;专注于研究安全服务，黑客技术、0day漏洞、提供服务器网站安全解决方案，数据库安全、服务器安全运维。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_183f818a07dc" alt="" />
-
----
-
-
 ### [ChaMd5安全团队](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzMTc1MjExOQ==)
 
 [:chart_with_upwards_trend:【6/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzMTc1MjExOQ==)
@@ -51,28 +38,28 @@ G.O.S.S.I.P 软件安全研究组
 ---
 
 
-### [CSJH网络安全团队](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDYyNzY0MA==)
+### [飓风网络安全](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3NzMzNzE5Ng==)
 
-[:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDYyNzY0MA==)
+[:chart_with_upwards_trend:【0/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3NzMzNzE5Ng==)
 
-[:camera_flash:【2023-09-10 09:48:46】](https://mp.weixin.qq.com/s?__biz=Mzg3MDYyNzY0MA==&mid=2247490361&idx=1&sn=249dcdfc23468e757232e6902fe8928a&chksm=ce8bbb6ef9fc327885a2402cc6f879c2369447be3bbd7d2cb3b7ed814d8d2be2b0a76b5924ad&scene=27#wechat_redirect)
+[:camera_flash:【2023-09-14 19:51:57】](https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247486637&idx=1&sn=f3396674e2999c5ec22690d1907d9e07&chksm=eb6689aedc1100b8f985e5eabd713e4d81f7d2dfc5497dcfb6664a7f97ea7b0162b15eeb5a3a&scene=27#wechat_redirect)
 
-网之鼎（上海）互联网技术有限公司旗下团队，hackingclub合作伙伴，阿里云代理商宗旨：自化器，己为零，术为一，己术成器，防攻破防，刺破黑暗，破万物，现黎明！
+专注网络安全，成立于2016年;专注于研究安全服务，黑客技术、0day漏洞、提供服务器网站安全解决方案，数据库安全、服务器安全运维。
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0ab09da1abc9" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_183f818a07dc" alt="" />
 
 ---
 
 
-### [GSDK安全团队](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzNTE0Mzc0OA==)
+### [CSJH网络安全团队](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDYyNzY0MA==)
 
-[:chart_with_upwards_trend:【1/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzNTE0Mzc0OA==)
+[:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDYyNzY0MA==)
 
-[:camera_flash:【2023-09-06 21:09:23】](https://mp.weixin.qq.com/s?__biz=MzIzNTE0Mzc0OA==&mid=2247485240&idx=1&sn=75f504cb64cb8036ddbcd3179f4025ea&chksm=e8ead013df9d590501e2daf09eedc0fd6b6320e0cf86accef2e7b46a4db7ccdbe1ae11d0f898&scene=27#wechat_redirect)
+[:camera_flash:【2023-09-14 20:22:44】](https://mp.weixin.qq.com/s?__biz=Mzg3MDYyNzY0MA==&mid=2247490384&idx=1&sn=2edf0eb671ce97b226740fedb2c89e14&chksm=ce8bbb07f9fc32110abd4d23cc9e8dd31f578fad3a933ef18204f2951f9434a5e9d475413c32&scene=27#wechat_redirect)
 
-致力于分享渗透测试、应急响应、红队修炼等知识总结
+网之鼎（上海）互联网技术有限公司旗下团队，hackingclub合作伙伴，阿里云代理商宗旨：自化器，己为零，术为一，己术成器，防攻破防，刺破黑暗，破万物，现黎明！
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_403a21e91f24" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0ab09da1abc9" alt="" />
 
 ---
 
@@ -86,19 +73,6 @@ G.O.S.S.I.P 软件安全研究组
 美创科技旗下第59号实验室，专注于数据安全技术领域研究，聚焦于安全防御理念、攻防技术、威胁情报等专业研究，进行知识产权转化并赋能于产品。累计向CNVD、CNNVD等平台提报数千个高质量原创漏洞，发明专利数十篇，团队著有《数据安全实践指南》
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f6daea98ded3" alt="" />
-
----
-
-
-### [洞见网安](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxNzg3NzMyNQ==)
-
-[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxNzg3NzMyNQ==)
-
-[:camera_flash:【2023-09-13 09:34:01】](https://mp.weixin.qq.com/s?__biz=MzAxNzg3NzMyNQ==&mid=2247486807&idx=1&sn=0ea862c57b8586c96077389a8bdf4878&chksm=9bdf9d75aca814639c6f84a51c20c0467b8c40fd4bb51cfbee985664487a0e66699b101957d5&scene=27#wechat_redirect)
-
-洞见网安，专注于网络空间测绘、漏洞研究、远程监测、漏洞预警
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0fc477a2a8b1" alt="" />
 
 ---
 
@@ -129,6 +103,19 @@ G.O.S.S.I.P 软件安全研究组
 ---
 
 
+### [GSDK安全团队](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzNTE0Mzc0OA==)
+
+[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzNTE0Mzc0OA==)
+
+[:camera_flash:【2023-09-06 21:09:23】](https://mp.weixin.qq.com/s?__biz=MzIzNTE0Mzc0OA==&mid=2247485240&idx=1&sn=75f504cb64cb8036ddbcd3179f4025ea&chksm=e8ead013df9d590501e2daf09eedc0fd6b6320e0cf86accef2e7b46a4db7ccdbe1ae11d0f898&scene=27#wechat_redirect)
+
+致力于分享渗透测试、应急响应、红队修炼等知识总结
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_403a21e91f24" alt="" />
+
+---
+
+
 ### [星盟安全](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3ODc2NTg1OA==)
 
 [:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3ODc2NTg1OA==)
@@ -142,6 +129,19 @@ G.O.S.S.I.P 软件安全研究组
 ---
 
 
+### [洞见网安](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxNzg3NzMyNQ==)
+
+[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxNzg3NzMyNQ==)
+
+[:camera_flash:【2023-09-14 08:37:42】](https://mp.weixin.qq.com/s?__biz=MzAxNzg3NzMyNQ==&mid=2247486809&idx=1&sn=896a71223c58595d5487ef1d4df595e1&chksm=9bdf9d7baca8146d9e62d73afb9eb9cecfe9f32f3354b4b61559ce8002819ae9c71cb6ec2b59&scene=27#wechat_redirect)
+
+洞见网安，专注于网络空间测绘、漏洞研究、远程监测、漏洞预警
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0fc477a2a8b1" alt="" />
+
+---
+
+
 ### [渊龙Sec安全团队](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NTY0MDg1Mg==)
 
 [:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NTY0MDg1Mg==)
@@ -151,19 +151,6 @@ G.O.S.S.I.P 软件安全研究组
 为国之安全而奋斗，为信息安全而发声！
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0e96305d2e41" alt="" />
-
----
-
-
-### [Qaseem安全团队](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MTcwNzU4Nw==)
-
-[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MTcwNzU4Nw==)
-
-[:camera_flash:【2023-08-15 23:18:35】](https://mp.weixin.qq.com/s?__biz=Mzg5MTcwNzU4Nw==&mid=2247485332&idx=1&sn=fac6d636c02f74c8936c7a0218d1acc5&chksm=cfc80e38f8bf872e43714b68a983194a245b812c7ea8b819bda3c99db1ea4656f17186ebacdf&scene=27#wechat_redirect)
-
-由多个大学生、安全行业人员组成。专注于网络安全分析，行业比赛等(Qaseem安全团队官方公众号)
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_32ad57ff2c27" alt="" />
 
 ---
 
@@ -367,7 +354,7 @@ Gcow是当前国内为数不多的民间网络信息安全研究团队之一。�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MTQwMzMxNA==)
 
-[:camera_flash:【2023-09-13 18:42:30】](https://mp.weixin.qq.com/s?__biz=MzU2MTQwMzMxNA==&mid=2247534483&idx=2&sn=dab63ad6d27c300dc9ca6a32b1b4c268&chksm=fc7b434ecb0cca58cc6f615e91c1f17e3b1a6866db3ec70eefcd873333e03c0cd2a5eaa79491&scene=27#wechat_redirect)
+[:camera_flash:【2023-09-14 15:20:56】](https://mp.weixin.qq.com/s?__biz=MzU2MTQwMzMxNA==&mid=2247534492&idx=1&sn=cb47d357c0b8ee6ff2f804307d49bdf8&chksm=fc7b4341cb0cca57aab21e96d15d23fc2423c618ab8d2386731ac50054c235d577cda493ed44&scene=27#wechat_redirect)
 
 安世加专注于网络安全⾏业，通过互联⽹平台、线下沙⻰、峰会、⼈才招聘等多种形式，致力于培养安全⼈才，提升⾏业的整体素质，助推安全⽣态圈的健康发展。
 
@@ -380,7 +367,7 @@ Gcow是当前国内为数不多的民间网络信息安全研究团队之一。�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwMzc2MDQ3NQ==)
 
-[:camera_flash:【2023-08-21 14:31:11】](https://mp.weixin.qq.com/s?__biz=MzAwMzc2MDQ3NQ==&mid=2247487328&idx=1&sn=75e4d44b5808aff45b417cd4dac7d52a&chksm=9b370754ac408e421da9f86e02c7785196584ec25574ef601ba5cf0045b8a01a0364f13d111d&scene=27#wechat_redirect)
+[:camera_flash:【2023-09-14 15:29:23】](https://mp.weixin.qq.com/s?__biz=MzAwMzc2MDQ3NQ==&mid=2247487331&idx=1&sn=ee435e818430c9353b245ed148f8565a&chksm=9b370757ac408e41d07ddaa9833c3e602737c19a52b2be70056b9e99996879426584b6dd2f0a&scene=27#wechat_redirect)
 
 WhITECat安全团队是起源实验室合作安全团队，主要致力于分享小组成员技术研究成果、最新的漏洞新闻、安全招聘以及其他安全相关内容。团队成员暂时由起源实验室核心成员、一线安全厂商、某研究院、漏洞盒子TOP10白帽子等人员组成。
 
@@ -1056,7 +1043,7 @@ Tencent A&amp;D Team 关注安全前沿攻防技术研究。
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNDAyNTY2NA==)
 
-[:camera_flash:【2023-09-13 22:28:37】](https://mp.weixin.qq.com/s?__biz=MzkxNDAyNTY2NA==&mid=2247509629&idx=2&sn=b685013f0ff3228cf42d125e20bfdf65&chksm=c1765bd2f601d2c43a59161a6712352fd93accc451cda99df904b98cef5591715701e2809488&scene=27#wechat_redirect)
+[:camera_flash:【2023-09-14 23:20:34】](https://mp.weixin.qq.com/s?__biz=MzkxNDAyNTY2NA==&mid=2247509653&idx=2&sn=974f417b83f14f59eeb382580c128134&chksm=c1765b3af601d22ce1c069db111b47a9408800c091d4a5bc0214f6b584f30d8fed137968eb70&scene=27#wechat_redirect)
 
 十年磨一剑，出鞘必锋芒，致力于分享渗透思路、光怪陆离的技巧和渗透知识总结。
 
@@ -1360,6 +1347,19 @@ Tencent A&amp;D Team 关注安全前沿攻防技术研究。
 谁说站着光里的才算英雄  --致在路上的我们
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_c92ae2e243f9" alt="" />
+
+---
+
+
+### [Qaseem安全团队](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MTcwNzU4Nw==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MTcwNzU4Nw==)
+
+[:camera_flash:【2023-08-15 23:18:35】](https://mp.weixin.qq.com/s?__biz=Mzg5MTcwNzU4Nw==&mid=2247485332&idx=1&sn=fac6d636c02f74c8936c7a0218d1acc5&chksm=cfc80e38f8bf872e43714b68a983194a245b812c7ea8b819bda3c99db1ea4656f17186ebacdf&scene=27#wechat_redirect)
+
+由多个大学生、安全行业人员组成。专注于网络安全分析，行业比赛等(Qaseem安全团队官方公众号)
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_32ad57ff2c27" alt="" />
 
 ---
 
@@ -2291,7 +2291,7 @@ PolarD&amp;N网络空间安全团队，成立于2017年，致力于昼夜不停�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwNjMyNzM1Nw==)
 
-[:camera_flash:【2023-07-19 09:21:01】](https://mp.weixin.qq.com/s?__biz=MzkwNjMyNzM1Nw==&mid=2247500897&idx=1&sn=7246ef032d27bd123cb53b0c967e042c&chksm=c0e8a033f79f2925447a115913fc5705285b3aa2d3850681e048509ebf9222aaea79da37e345&scene=27#wechat_redirect)
+[:camera_flash:【2023-09-14 22:53:17】](https://mp.weixin.qq.com/s?__biz=MzkwNjMyNzM1Nw==&mid=2247500954&idx=1&sn=95e97816125b76cfa671e17e2be9c6b3&chksm=c0e8a0c8f79f29de7e526847abcf7fc091b48d00490b1e3d45239b1feaaa874e3e6e2efca62c&scene=27#wechat_redirect)
 
 7bits安全团队
 
