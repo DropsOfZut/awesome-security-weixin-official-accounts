@@ -1,9 +1,9 @@
 
 ### [网络安全与取证研究](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTU3NTY0Nw==)
 
-[:chart_with_upwards_trend:【0/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTU3NTY0Nw==)
+[:chart_with_upwards_trend:【0/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTU3NTY0Nw==)
 
-[:camera_flash:【2023-09-15 07:11:34】](https://mp.weixin.qq.com/s?__biz=Mzg3NTU3NTY0Nw==&mid=2247487945&idx=1&sn=55b6b6d87b56a83c84bee4192e90411b&chksm=cf3e31f9f849b8ef49c960d7147ad1f7ea3843e65bd41ab0e3a2e1094d0d75ef7bfde2257e65&scene=27#wechat_redirect)
+[:camera_flash:【2023-09-16 21:39:04】](https://mp.weixin.qq.com/s?__biz=Mzg3NTU3NTY0Nw==&mid=2247487947&idx=1&sn=72a5881abc463223e80445bf5f7aa523&chksm=cf3e31fbf849b8ed7e302345178d28374bbc11718abf2edfb050a06bf3d1121766f06b0c209b&scene=27#wechat_redirect)
 
 旨于开展网络安全相关法律法规研究与电子数据取证技术研究，分享小知识、小技巧，共同学习提高，推进技术规范化建设。
 
@@ -16,7 +16,7 @@
 
 [:chart_with_upwards_trend:【1/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
 
-[:camera_flash:【2023-09-15 19:28:34】](https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&mid=2454931378&idx=1&sn=14e04b7b22f8a5dcb021130be34608b7&chksm=b1670afd861083eb7219fe24c057942bdea21a12a794c5a25c02b26eac4b9088ce6d78d267ff&scene=27#wechat_redirect)
+[:camera_flash:【2023-09-16 19:26:19】](https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&mid=2454931407&idx=1&sn=6904b60304c8b70da1345f67e7d23125&chksm=b1670a808610839608806d1ba59ea6975dece334ece37aa6be519aa2938413dabc88305656d3&scene=27#wechat_redirect)
 
 云计算、物联网、大模型暗中观察小分队
 
@@ -42,7 +42,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzMzE2OTQyNA==)
 
-[:camera_flash:【2023-08-30 12:01:12】](https://mp.weixin.qq.com/s?__biz=MzIzMzE2OTQyNA==&mid=2648956145&idx=1&sn=fff52d9582307d08584c70a916586cc5&chksm=f09ecb8ec7e9429887d1cc28c24f069b3eab68542f853eadb4fe33fde404141e7da19b92c62e&scene=27#wechat_redirect)
+[:camera_flash:【2023-09-16 12:44:04】](https://mp.weixin.qq.com/s?__biz=MzIzMzE2OTQyNA==&mid=2648956225&idx=1&sn=d9a8a118f21e94a71ddf482c455166ee&chksm=f09eca3ec7e94328574f8fda26a1b88ba029309e67f0e4130f397eaaabdeeaa2a57ddd44ba03&scene=27#wechat_redirect)
 
 坚持以非正常体位探寻未知信号。 国内商业安全、TSCM技术反窃密、隐私保护及物理安全领域前行者。持久关注通信安全、海外威胁情报、犯罪防御与群氓效应。
 
@@ -211,7 +211,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
 
-[:camera_flash:【2023-09-15 21:37:31】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247591042&idx=3&sn=f924f81b08918df235859eff9f2df720&chksm=fc033448cb74bd5ee79986b8a85bcb3bd4dcbd39973be9a6feb257ac307ec7819512c0a1ebbf&scene=27#wechat_redirect)
+[:camera_flash:【2023-09-16 21:50:10】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247591108&idx=3&sn=a3209cd42d0659fabf9bb82f66239846&chksm=fc03340ecb74bd180ad9e857ef96d9eff8438eeac503e1ae661f8c0497c61fd5ab30866873d5&scene=27#wechat_redirect)
 
 为智能网联汽车行业专业人士提供信息和网络安全技术、产品及服务等行业发展最新咨询
 

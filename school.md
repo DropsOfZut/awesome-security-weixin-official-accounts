@@ -1,7 +1,7 @@
 
 ### [大学生网络安全尖锋训练营](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
 
-[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
+[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
 
 [:camera_flash:【2023-09-15 08:00:07】](https://mp.weixin.qq.com/s?__biz=MzUzODkwMDMxNA==&mid=2247568721&idx=1&sn=a57e3c13720b64d608086827f8735b3c&chksm=fad32f64cda4a6722727aae1111f1195fbeb5008fea1afe21dd995df4121925567222311fd7a&scene=27#wechat_redirect)
 
