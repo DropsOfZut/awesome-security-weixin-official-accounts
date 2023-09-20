@@ -1,22 +1,9 @@
 
-### [大学生网络安全尖锋训练营](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
-
-[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
-
-[:camera_flash:【2023-09-15 08:00:07】](https://mp.weixin.qq.com/s?__biz=MzUzODkwMDMxNA==&mid=2247568721&idx=1&sn=a57e3c13720b64d608086827f8735b3c&chksm=fad32f64cda4a6722727aae1111f1195fbeb5008fea1afe21dd995df4121925567222311fd7a&scene=27#wechat_redirect)
-
-百所高校、百家用人单位、百名尖锋导师，携手打造定制化人才培养模式，通过导师制职业规划和封闭式岗位实训，补足知识短板、提高实战能力，培养创新型、实用型网络安全尖锋人才。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_b54960a6ea07" alt="" />
-
----
-
-
 ### [深圳网安培训学院](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDYzMjAyNA==)
 
 [:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDYzMjAyNA==)
 
-[:camera_flash:【2023-09-08 14:53:49】](https://mp.weixin.qq.com/s?__biz=Mzg3MDYzMjAyNA==&mid=2247484795&idx=1&sn=d4b60cec9da7f2740d61b0340e123251&chksm=ce8b9a4cf9fc135a3da65933d08c1927d78a7df5b84c85e28769ab2216286e17b8234436a38f&scene=27#wechat_redirect)
+[:camera_flash:【2023-09-15 17:17:00】](https://mp.weixin.qq.com/s?__biz=Mzg3MDYzMjAyNA==&mid=2247485101&idx=1&sn=5fbc45284380b610b55a4b2e0565e4d8&chksm=ce8b999af9fc108c3c534c12fc9484439f6a73e4b44cb3741ff9a6aa9616f5a0e232abd5374a&scene=27#wechat_redirect)
 
 深圳市网安计算机网络安全培训中心是由深圳市人力资源局备案的社会第三方培训机构。是受广东省人力资源和社会保障厅委托，开展“网络与信息安全管理员”职业技能等级认定工作的第三方社会评价机构。
 
@@ -25,15 +12,15 @@
 ---
 
 
-### [杭师大网安](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MzA1MDIzMg==)
+### [大学生网络安全尖锋训练营](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
 
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MzA1MDIzMg==)
+[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
 
-[:camera_flash:【2023-09-15 22:50:50】](https://mp.weixin.qq.com/s?__biz=Mzg5MzA1MDIzMg==&mid=2247494266&idx=1&sn=c42d1dc91a3728558c733362bf5b6b9e&chksm=c036666df741ef7b9961cca9bca582c52ca51257d8d53090f3e9526f39af48308dce18258d11&scene=27#wechat_redirect)
+[:camera_flash:【2023-09-20 08:00:57】](https://mp.weixin.qq.com/s?__biz=MzUzODkwMDMxNA==&mid=2247569651&idx=1&sn=c6b1a65742426d814a0bedfd6b23e819&chksm=fad332c6cda4bbd07de62b78db753bf36450b447676b1aea44c3b6968de00fcca0f9f052786c&scene=27#wechat_redirect)
 
-为了宣传杭州师范大学“网络与信息安全实验室”，提升大家网络与信息安全意识。
+百所高校、百家用人单位、百名尖锋导师，携手打造定制化人才培养模式，通过导师制职业规划和封闭式岗位实训，补足知识短板、提高实战能力，培养创新型、实用型网络安全尖锋人才。
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_cb6e613490cd" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_b54960a6ea07" alt="" />
 
 ---
 
@@ -68,7 +55,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxNDU2ODg3Mw==)
 
-[:camera_flash:【2023-09-14 20:02:08】](https://mp.weixin.qq.com/s?__biz=MzIxNDU2ODg3Mw==&mid=2247485515&idx=1&sn=e3fdbd94ed2d9ffff53b309f83c5fcd4&chksm=97a4d28da0d35b9bdbd08853f4beed47ccb9e912eb0fe3c7e7cc2ad782f58751400d2ec55007&scene=27#wechat_redirect)
+[:camera_flash:【2023-09-18 17:03:53】](https://mp.weixin.qq.com/s?__biz=MzIxNDU2ODg3Mw==&mid=2247485570&idx=1&sn=a143cf604e4ba28c520c45442fc883f1&chksm=97a4d244a0d35b52c9edb8556c436714444abec498f842b01e375e38c9c40771c218069e3610&scene=27#wechat_redirect)
 
 杭州电子科技大学Vidar-Team (原信息安全协会HDUISA&amp;网络空间安全协会)  消息助手
 
@@ -445,7 +432,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
 
-[:camera_flash:【2023-09-12 11:03:41】](https://mp.weixin.qq.com/s?__biz=MzUzNDg0NTc1NA==&mid=2247502718&idx=1&sn=7b7dfd088129102cdecd9101b30d7f04&chksm=fa8c0b2bcdfb823d535d61c721216ba558d9be6907a4830d8167b56029e0e87556cec2b890f0&scene=27#wechat_redirect)
+[:camera_flash:【2023-09-19 17:14:35】](https://mp.weixin.qq.com/s?__biz=MzUzNDg0NTc1NA==&mid=2247502841&idx=1&sn=1f3cdc17dec47e9bf4fc093b640c217f&chksm=fa8c0baccdfb82ba8834f2d8fb09fe25706324bf861b645cfa1f63ba5fa7233a0a382dc62988&scene=27#wechat_redirect)
 
 启明星辰网络空间安全学院以国家网络安全事业发展为使命，依托启明星辰集团多年的技术沉淀及实践积累，提供网络安全人才体系构建与信息安全技术及能力提升教育培训，为建设网络强国提供有力的人才支撑。
 
@@ -532,11 +519,24 @@ Covteam工作室，成立于2005年。是以西华大学在校本科生研究生
 ---
 
 
+### [杭师大网安](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MzA1MDIzMg==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MzA1MDIzMg==)
+
+[:camera_flash:【2023-09-15 22:50:50】](https://mp.weixin.qq.com/s?__biz=Mzg5MzA1MDIzMg==&mid=2247494266&idx=1&sn=c42d1dc91a3728558c733362bf5b6b9e&chksm=c036666df741ef7b9961cca9bca582c52ca51257d8d53090f3e9526f39af48308dce18258d11&scene=27#wechat_redirect)
+
+为了宣传杭州师范大学“网络与信息安全实验室”，提升大家网络与信息安全意识。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_cb6e613490cd" alt="" />
+
+---
+
+
 ### [网络攻防创新实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzNDcyMDM1MQ==)
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzNDcyMDM1MQ==)
 
-[:camera_flash:【2023-06-29 00:03:00】](https://mp.weixin.qq.com/s?__biz=MzIzNDcyMDM1MQ==&mid=2247483969&idx=1&sn=8d0987c9ae09a1f9969cb15dbdd6afd0&chksm=e8f35f71df84d66782d653a932c9098cebf80a9bea9adc9c24daccea86620850ea2a39c587d4&scene=27#wechat_redirect)
+[:camera_flash:【2023-09-19 13:36:27】](https://mp.weixin.qq.com/s?__biz=MzIzNDcyMDM1MQ==&mid=2247483983&idx=1&sn=312e2a4050811864aa9984cdca4a6f77&chksm=e8f35f7fdf84d6696d465940f5b0e9993909849d3ad4481f0c6235e8ca27b754b564217dae1c&scene=27#wechat_redirect)
 
 原名为网络安全学生社团，现名为网络攻防创新实验室
 
@@ -666,7 +666,7 @@ Birkenwald安全团队 --来自哈尔滨理工大学
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyODMyODMyOA==)
 
-[:camera_flash:【2023-08-21 23:16:21】](https://mp.weixin.qq.com/s?__biz=MzkyODMyODMyOA==&mid=2247487465&idx=1&sn=5704d2cfdc8fd899132299a0fa6a103f&chksm=c21b300ef56cb91893624fa62c93ac0127ffa8cb1df9e042afa67bec50f6abccc818ef76c9b1&scene=27#wechat_redirect)
+[:camera_flash:【2023-09-19 10:34:35】](https://mp.weixin.qq.com/s?__biz=MzkyODMyODMyOA==&mid=2247487483&idx=1&sn=49237b8193f81f6c96cdda3c1cbb078a&chksm=c21b301cf56cb90a7deefb059225f370af1759e997f4dfb2f7c37f6df5e7fa143cbd1da386d6&scene=27#wechat_redirect)
 
 珠天PearlSky，意为珠科安全的一片天。珠天的队员都来自于珠海科技学院热爱钻研网络安全技术的同学。我们希望我们能够让更多人了解网络安全，更欢迎各位同学加入我们一起交流学习。本公众号会发布一些学习心得，经验总结等等一系列文章。
 
