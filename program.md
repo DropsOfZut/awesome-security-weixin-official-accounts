@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【3/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzE1MTQzNw==)
 
-[:camera_flash:【2023-09-19 08:13:47】](https://mp.weixin.qq.com/s?__biz=Mzg4MzE1MTQzNw==&mid=2247488199&idx=1&sn=556afce677de9f5a9f1a22cf5a4b1f6b&chksm=cf4a95e5f83d1cf313f018cbe569ba796596e991ede2b3c9d2a25179760b3aa57607e4860152&scene=27#wechat_redirect)
+[:camera_flash:【2023-09-21 08:35:15】](https://mp.weixin.qq.com/s?__biz=Mzg4MzE1MTQzNw==&mid=2247488225&idx=1&sn=e554b4ae9945c4098dc905850ff19ee5&chksm=cf4a95c3f83d1cd5bb7522fe8be2ff6d192f63d1bf5e2be58bdc9af8ab90cec0acfdbce433fb&scene=27#wechat_redirect)
 
 北邮图数据挖掘与机器学习实验室
 
@@ -14,7 +14,7 @@
 
 ### [长亭百川云平台](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjgyNDIzOA==)
 
-[:chart_with_upwards_trend:【3/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjgyNDIzOA==)
+[:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjgyNDIzOA==)
 
 [:camera_flash:【2023-09-12 12:10:33】](https://mp.weixin.qq.com/s?__biz=Mzg4MjgyNDIzOA==&mid=2247509738&idx=1&sn=a5b4510c15b94ed7ed8e37bb45473957&chksm=cf5223abf825aabda85aba6a95f48129744e28dda2d30933070fe82a3ec5631cb3240079a70f&scene=27#wechat_redirect)
 
@@ -27,7 +27,7 @@
 
 ### [哔哩哔哩技术](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3Njc0NTgwMg==)
 
-[:chart_with_upwards_trend:【2/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3Njc0NTgwMg==)
+[:chart_with_upwards_trend:【1/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3Njc0NTgwMg==)
 
 [:camera_flash:【2023-09-19 12:01:02】](https://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&mid=2247496369&idx=1&sn=a62c1978761df47aba67fac02dc63865&chksm=cf2f3794f858be82fdb2a5d2253b739cfe8f6c384c37dd294d5288ecc3e409198a06200b4dca&scene=27#wechat_redirect)
 
@@ -42,7 +42,7 @@
 
 [:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNjU0NjAyNg==)
 
-[:camera_flash:【2023-09-14 17:37:15】](https://mp.weixin.qq.com/s?__biz=MzIwNjU0NjAyNg==&mid=2247487522&idx=1&sn=b2b96d91f1ef3f1d5bf5983919ff96bf&chksm=971ea527a0692c318b14b54807028f90ed06a7867792ecc3823f9b093091c5ea9b53ad898189&scene=27#wechat_redirect)
+[:camera_flash:【2023-09-21 15:38:03】](https://mp.weixin.qq.com/s?__biz=MzIwNjU0NjAyNg==&mid=2247487546&idx=1&sn=dfbe47f6df586273989c4fe7021ec1f4&chksm=971ea53fa0692c29d1fbdd071951fc49d597ae40631347cafdda06e167b0a72af890278820a0&scene=27#wechat_redirect)
 
 基于知道创宇14年来海量真实攻防数据积累，通过AI+安全大数据能力持续自生产、精粹和分析，实时输出高精准、高价值威胁情报，赋能于全场景安全建设体系。
 
@@ -94,7 +94,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
 
-[:camera_flash:【2023-09-19 15:27:49】](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247489565&idx=1&sn=9be857d430ea35237591c4f521c2f7b2&chksm=fe2ee796c9596e8043092e19d9105ce3b924a25ce39c24f0b62e45cec52172cbbd10a83a51d2&scene=27#wechat_redirect)
+[:camera_flash:【2023-09-21 23:53:46】](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247489595&idx=1&sn=f3067800cbbbe7f91cfea7199cf9bd77&chksm=fe2ee7b0c9596ea6b575bf97a57155b54f6052a21331f0b31d3a23c389f0bd8c2660672f8c13&scene=27#wechat_redirect)
 
 分享安全方面的论文写作、会议发表、基金申请方面的资料。
 
@@ -133,7 +133,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwODIxMjc4MQ==)
 
-[:camera_flash:【2023-07-05 23:14:24】](https://mp.weixin.qq.com/s?__biz=MzIwODIxMjc4MQ==&mid=2651004927&idx=1&sn=d6f01aea7878d52f556b7a08829ced18&chksm=8cf139bdbb86b0ab52e049af6fa5028778ed2466002b1f1de9db2b9a843be48b318f582f79cf&scene=27#wechat_redirect)
+[:camera_flash:【2023-09-21 11:35:17】](https://mp.weixin.qq.com/s?__biz=MzIwODIxMjc4MQ==&mid=2651004951&idx=1&sn=6447e68a4d5868740553349fdec20f9f&chksm=8cf10655bb868f430ad6aae5f5bdfb0b1e374229c2517549d75ee8e3d124086effab204a1083&scene=27#wechat_redirect)
 
 和七夜一起去探索人生的星辰大海，技术人并不只有技术，你要的人生成长与自由在这里
 
@@ -198,7 +198,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
 
-[:camera_flash:【2023-09-19 11:46:19】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247504060&idx=1&sn=34a389ac023e37562868cc2c92661bea&chksm=e9d31b5edea492483e3820b1ca29c8591178f75b630afd31587dc8147509c9348eb346c60df6&scene=27#wechat_redirect)
+[:camera_flash:【2023-09-21 21:57:46】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247504157&idx=1&sn=220f33823b834d5096558a0845148439&chksm=e9d31affdea493e94a5bd795582d40809b2e2874e2e11a611165e4899405a3e193d514759ef2&scene=27#wechat_redirect)
 
 字节跳动的技术实践分享
 
@@ -380,7 +380,7 @@ Will的小屋
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
 
-[:camera_flash:【2023-09-19 18:00:45】](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649780535&idx=1&sn=ac667bad65cafa7f5aac955440383ac0&chksm=becce24c89bb6b5a4059e107669b07775162fd59ef9b42d37719bdd5b576fa5f609eeb7cfe06&scene=27#wechat_redirect)
+[:camera_flash:【2023-09-21 18:00:29】](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649780536&idx=1&sn=782da0758950724badb6360b3d3de344&chksm=becce24389bb6b55a4881b631abe6ab4f9fe43ad55e485b79d019d6e2282c374831677a9814c&scene=27#wechat_redirect)
 
 腾讯技术官方号。腾讯技术创新、前沿领域发布解读平台。
 
@@ -510,7 +510,7 @@ OPPO 安第斯智能云（AndesBrain）是服务个人、家庭与开发者的�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzI1MDg2Mg==)
 
-[:camera_flash:【2023-09-07 18:35:35】](https://mp.weixin.qq.com/s?__biz=MzIwMzI1MDg2Mg==&mid=2649943318&idx=1&sn=36441c2caff07438c5669f6a9cc73b4b&chksm=8ed400d7b9a389c19a05bd5ce6c9d018c0574a790522b7bc188042b2cd2dc8c508d27f3ce40e&scene=27#wechat_redirect)
+[:camera_flash:【2023-09-21 17:30:50】](https://mp.weixin.qq.com/s?__biz=MzIwMzI1MDg2Mg==&mid=2649943322&idx=1&sn=56ab675c69bbd2640ceba7a09fa53fac&chksm=8ed400dbb9a389cd70c7339c3b3e055ae71c01829c51f3a711385edf8f1d688993f0573d83fa&scene=27#wechat_redirect)
 
 主营业务涵盖应用安全、系统安全、运维安全等，包括IT资产管理、智能攻击机器人、智能防御机器人、攻防实战演练支持、安全培训、课题和安全技术研究、产品研发及服务综合解决方案提供；其中，行业解决方案又包括电力行业、金融行业、军工行业、公检法等。
 
