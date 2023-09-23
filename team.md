@@ -1,9 +1,9 @@
 
 ### [安全研究GoSSIP](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5ODUxMzg0Ng==)
 
-[:chart_with_upwards_trend:【3/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5ODUxMzg0Ng==)
+[:chart_with_upwards_trend:【2/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5ODUxMzg0Ng==)
 
-[:camera_flash:【2023-09-20 20:23:18】](https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247496373&idx=1&sn=8168fa14c5cae1f534db354f15976164&chksm=c063dc6cf714557a450e0594185188511b5ed0dbab4c59100c06b1875001822a376ddbee9e95&scene=27#wechat_redirect)
+[:camera_flash:【2023-09-22 20:23:09】](https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247496376&idx=1&sn=8f039dc8271fdfc6181ab717d7ad3866&chksm=c063dc61f7145577d3899b980d2576a227b5b8a64008fa002ec88ed233ad0cafae6e23ae7426&scene=27#wechat_redirect)
 
 G.O.S.S.I.P 软件安全研究组
 
@@ -14,9 +14,9 @@ G.O.S.S.I.P 软件安全研究组
 
 ### [哈拉少安全小队](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxNzkyOTgxMw==)
 
-[:chart_with_upwards_trend:【1/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxNzkyOTgxMw==)
+[:chart_with_upwards_trend:【1/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxNzkyOTgxMw==)
 
-[:camera_flash:【2023-09-20 20:33:39】](https://mp.weixin.qq.com/s?__biz=MzAxNzkyOTgxMw==&mid=2247491451&idx=1&sn=551ce18d1cff6e9d9054047db5011fbb&chksm=9bdf5c41aca8d5578905ba0099b9be8bac76fe8fcb0f819df19be0a9e35fbf1ff8bad924165d&scene=27#wechat_redirect)
+[:camera_flash:【2023-09-22 21:03:30】](https://mp.weixin.qq.com/s?__biz=MzAxNzkyOTgxMw==&mid=2247491457&idx=1&sn=fec6720f88fd27d3745040e9007d1b82&chksm=9bdf5cbbaca8d5ad3eda7622b8d315c246345b35f90599309e4b380e12f2428d0c169f369589&scene=27#wechat_redirect)
 
 专注安全技术分享，涵盖web渗透，代码审计，内网/域渗透，poc/exp脚本开发，经常更新一些最新的漏洞复现，漏洞分析文章，内网渗透思路技巧、脱敏的实战文章、waf绕过技巧以及好文推荐等，未来着重点会在java安全相关分享。
 
@@ -29,7 +29,7 @@ G.O.S.S.I.P 软件安全研究组
 
 [:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0NDgxMzgxNA==)
 
-[:camera_flash:【2023-09-20 16:08:42】](https://mp.weixin.qq.com/s?__biz=MzI0NDgxMzgxNA==&mid=2247495309&idx=1&sn=151bcabe95d7dd56377a08a195d3dbdc&chksm=e95ab414de2d3d02c6fe4d621d3a7d28d960aadbd8594ae13a5f09b8d03356fcbcccf9eb5e54&scene=27#wechat_redirect)
+[:camera_flash:【2023-09-22 08:30:19】](https://mp.weixin.qq.com/s?__biz=MzI0NDgxMzgxNA==&mid=2247495320&idx=1&sn=dbe291a926ab5799a21bb173b8f9519a&chksm=e95ab401de2d3d175d163201719089192d1d7808be4e291942fcf2f6f22e96900830e0e7c395&scene=27#wechat_redirect)
 
 美创科技旗下第59号实验室，专注于数据安全技术领域研究，聚焦于安全防御理念、攻防技术、威胁情报等专业研究，进行知识产权转化并赋能于产品。累计向CNVD、CNNVD等平台提报数千个高质量原创漏洞，发明专利数十篇，团队著有《数据安全实践指南》
 
@@ -42,7 +42,7 @@ G.O.S.S.I.P 软件安全研究组
 
 [:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzNTE0Mzc0OA==)
 
-[:camera_flash:【2023-09-21 20:06:21】](https://mp.weixin.qq.com/s?__biz=MzIzNTE0Mzc0OA==&mid=2247485258&idx=1&sn=f80f6d4421df295b7d1da571c95dba50&chksm=e8ead061df9d5977b677bb33d80538ab10b81a3522582e626d18a5251be787087c9cac3df3df&scene=27#wechat_redirect)
+[:camera_flash:【2023-09-22 20:00:34】](https://mp.weixin.qq.com/s?__biz=MzIzNTE0Mzc0OA==&mid=2247485263&idx=1&sn=ce9b149e7a5451d31e993a7b6d5b78e6&chksm=e8ead064df9d5972bcaba75750ac801b632426c2424a0ec1323595243a175937c6f4b7534009&scene=27#wechat_redirect)
 
 致力于分享渗透测试、应急响应、红队修炼等知识总结
 
@@ -73,19 +73,6 @@ G.O.S.S.I.P 软件安全研究组
 天权信安，致力于网络安全攻防、内网渗透、代码审计、安全知识竞赛、CTF竞赛、网络安全竞赛承办、CTF培训、网安课程开发、安全运维、Linux技巧、HW、二进制安全、区块链安全、IOT安全、工控安全等技术干货分享。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8776d67ce67e" alt="" />
-
----
-
-
-### [CSJH网络安全团队](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDYyNzY0MA==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDYyNzY0MA==)
-
-[:camera_flash:【2023-09-16 20:06:57】](https://mp.weixin.qq.com/s?__biz=Mzg3MDYyNzY0MA==&mid=2247490393&idx=1&sn=ff7432a21acb2f50289f0a09b3e1b255&chksm=ce8bbb0ef9fc3218477e5d95c99b07c89319940435628325bff103dc0fcb8493f1d199286f54&scene=27#wechat_redirect)
-
-网之鼎（上海）互联网技术有限公司旗下团队，hackingclub合作伙伴，阿里云代理商宗旨：自化器，己为零，术为一，己术成器，防攻破防，刺破黑暗，破万物，现黎明！
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0ab09da1abc9" alt="" />
 
 ---
 
@@ -133,7 +120,7 @@ Tide安全团队以信安技术研究为目标，致力于分享高质量原创�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3NzMzNzE5Ng==)
 
-[:camera_flash:【2023-09-21 23:36:42】](https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247486686&idx=1&sn=376cecda7972bfb20d1766c6885f9f00&chksm=eb6689dddc1100cb20171e52c131c84def4162b797d9327dea765d554e728784bfd86ac38caf&scene=27#wechat_redirect)
+[:camera_flash:【2023-09-22 17:47:44】](https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247486704&idx=1&sn=2c831611c9d944950477d68263c00ab0&chksm=eb6689f3dc1100e53d8b4ab7654c82ecdc4a48cae9c51d750a8491d01b3dfd1d6b2c7ce7f459&scene=27#wechat_redirect)
 
 专注网络安全，成立于2016年;专注于研究安全服务，黑客技术、0day漏洞、提供服务器网站安全解决方案，数据库安全、服务器安全运维。
 
@@ -250,7 +237,7 @@ Tide安全团队以信安技术研究为目标，致力于分享高质量原创�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxNzg3NzMyNQ==)
 
-[:camera_flash:【2023-09-21 07:26:17】](https://mp.weixin.qq.com/s?__biz=MzAxNzg3NzMyNQ==&mid=2247486831&idx=1&sn=26133e1ec9809d5512f7ec3e25912eaa&chksm=9bdf9d4daca8145b2de4614db43db93290d5554be25ad7ce0537352caedf8d870acb853c593d&scene=27#wechat_redirect)
+[:camera_flash:【2023-09-22 07:52:51】](https://mp.weixin.qq.com/s?__biz=MzAxNzg3NzMyNQ==&mid=2247486833&idx=1&sn=e638b1fdb574f4bf13a7ef7faa1a7857&chksm=9bdf9d53aca81445bf9c907950ecc758de4643d83dc6ca96733f8bd2774481afc1c2207cff05&scene=27#wechat_redirect)
 
 洞见网安，专注于网络空间测绘、漏洞研究、远程监测、漏洞预警
 
@@ -406,7 +393,7 @@ T9Sec Team 是一个乐于分享、交流至上的安全团队，团队将不定
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0MzkzOTYzOQ==)
 
-[:camera_flash:【2023-09-20 19:06:50】](https://mp.weixin.qq.com/s?__biz=MzU0MzkzOTYzOQ==&mid=2247488031&idx=1&sn=7c72baf224c38ba257ebfbd1012b5692&chksm=fb029f47cc751651266c9969b4a114afb8f0fffe522fd749725b52565d9ba68937a81f09b3b1&scene=27#wechat_redirect)
+[:camera_flash:【2023-09-22 11:33:01】](https://mp.weixin.qq.com/s?__biz=MzU0MzkzOTYzOQ==&mid=2247488054&idx=1&sn=89c3b34d07118bc304a4e092d8fb76f5&chksm=fb029f6ecc751678de3fd645cbbc26b9cf427f70f07997f9c91254037bb3dcae58a91438cd20&scene=27#wechat_redirect)
 
 安全加固 渗透测试 众测 ctf 安全新领域研究
 
@@ -913,7 +900,7 @@ Tencent A&amp;D Team 关注安全前沿攻防技术研究。
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2NDY2OTU4Nw==)
 
-[:camera_flash:【2023-09-22 00:00:07】](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247509770&idx=1&sn=d854a5cf5b067a81f7ff7e78675dd72a&chksm=fc459af6cb3213e05746c211d3994556815e6fba973e312dc0b8620c21f954fb9c607775f12e&scene=27#wechat_redirect)
+[:camera_flash:【2023-09-23 00:00:09】](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247509779&idx=1&sn=cef0c9d38f6697f90ec18b98938d5bac&chksm=fc459aefcb3213f9a1f7271767e4ab86acd6fbbfdf17b2c1ef0d37b828c4b44f877238740ae6&scene=27#wechat_redirect)
 
 船山院士网络安全团队唯一公众号，为国之安全而奋斗，为信息安全而发声！
 
@@ -978,7 +965,7 @@ Tencent A&amp;D Team 关注安全前沿攻防技术研究。
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwMjA5OTY5Ng==)
 
-[:camera_flash:【2023-09-21 08:04:01】](https://mp.weixin.qq.com/s?__biz=MzAwMjA5OTY5Ng==&mid=2247519807&idx=1&sn=d790a7cb4cae3fcdbd9e8019c9b03cf9&chksm=9acd5ea0adbad7b6aedb30f5087d0d17ed4c490507e4d99718fdc9808ee2aa7047f4f15a0b02&scene=27#wechat_redirect)
+[:camera_flash:【2023-09-22 15:50:47】](https://mp.weixin.qq.com/s?__biz=MzAwMjA5OTY5Ng==&mid=2247519814&idx=1&sn=34df45c5e8acfaa66312e6d8d3664f47&chksm=9acd5ed9adbad7cf12b755f6c4f76b90600748ebac94681d92ed859bfb916f60887f18a11585&scene=27#wechat_redirect)
 
 乌雲安全，致力于网络安全攻防、内网渗透、代码审计、安卓逆向、CTF比赛、应急响应、安全运维、安全架构、linux技巧等技术干货分享。
 
@@ -1082,7 +1069,7 @@ Tencent A&amp;D Team 关注安全前沿攻防技术研究。
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyMTI0NjA3OA==)
 
-[:camera_flash:【2023-09-20 18:00:42】](https://mp.weixin.qq.com/s?__biz=MzkyMTI0NjA3OA==&mid=2247492358&idx=1&sn=2cc397b75069c3fec37bfe9a29beccbe&chksm=c1842317f6f3aa0110a2f7d8bcb30dddee81f6caa2a91858ebba49672d68277534fb7f083454&scene=27#wechat_redirect)
+[:camera_flash:【2023-09-22 18:02:00】](https://mp.weixin.qq.com/s?__biz=MzkyMTI0NjA3OA==&mid=2247492363&idx=1&sn=8bdbaa9d381ad0f3559a513752e246c9&chksm=c184231af6f3aa0cbc133b555cc98e4372b33968234f28589f2ba2e1767c3d281fab3ad10aca&scene=27#wechat_redirect)
 
 攻击对抗研究分享
 
@@ -1347,6 +1334,19 @@ Tencent A&amp;D Team 关注安全前沿攻防技术研究。
 由多个大学生、安全行业人员组成。专注于网络安全分析，行业比赛等(Qaseem安全团队官方公众号)
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_32ad57ff2c27" alt="" />
+
+---
+
+
+### [CSJH网络安全团队](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDYyNzY0MA==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDYyNzY0MA==)
+
+[:camera_flash:【2023-09-16 20:06:57】](https://mp.weixin.qq.com/s?__biz=Mzg3MDYyNzY0MA==&mid=2247490393&idx=1&sn=ff7432a21acb2f50289f0a09b3e1b255&chksm=ce8bbb0ef9fc3218477e5d95c99b07c89319940435628325bff103dc0fcb8493f1d199286f54&scene=27#wechat_redirect)
+
+网之鼎（上海）互联网技术有限公司旗下团队，hackingclub合作伙伴，阿里云代理商宗旨：自化器，己为零，术为一，己术成器，防攻破防，刺破黑暗，破万物，现黎明！
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0ab09da1abc9" alt="" />
 
 ---
 
@@ -2291,7 +2291,7 @@ PolarD&amp;N网络空间安全团队，成立于2017年，致力于昼夜不停�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4Njc1MTIzMw==)
 
-[:camera_flash:【2023-09-04 19:00:58】](https://mp.weixin.qq.com/s?__biz=Mzg4Njc1MTIzMw==&mid=2247485340&idx=1&sn=d2841beebb4ee2e6ac16ced385129ab4&chksm=cf95aef2f8e227e42d6498b4128f964125d03ad19cbc74214e19dc2569d70215e2e2eb21f86e&scene=27#wechat_redirect)
+[:camera_flash:【2023-09-22 19:30:06】](https://mp.weixin.qq.com/s?__biz=Mzg4Njc1MTIzMw==&mid=2247485345&idx=1&sn=c4fefd2ca127fe4e919612d3f78f4c4b&chksm=cf95aecff8e227d99cb73b1e47cb5b654e1e6dfe0b3465a5a3f77c6553c9fb905ac81c0d0436&scene=27#wechat_redirect)
 
 现团队提供以下支持：漏洞研究，安全咨询，技术分享，专栏作家培养等 如需联络，请联系0x6270
 
@@ -2369,7 +2369,7 @@ EchoSec安全团队专注于网络信息安全领域，不定期分享领域内�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzNzQyMDkxMQ==)
 
-[:camera_flash:【2023-09-12 10:22:00】](https://mp.weixin.qq.com/s?__biz=MzkzNzQyMDkxMQ==&mid=2247486917&idx=1&sn=c82b1e82916179aef2d9f601fda5367b&chksm=c28efcc5f5f975d3297085e5cdf1a8934c9323f9ea61ed55819b08e502f42e8f91f8179c6886&scene=27#wechat_redirect)
+[:camera_flash:【2023-09-22 19:07:53】](https://mp.weixin.qq.com/s?__biz=MzkzNzQyMDkxMQ==&mid=2247486919&idx=1&sn=c2747ff92cefff1965e9b4ec704f0e9d&chksm=c28efcc7f5f975d1d87a1bbe70be3cc930cf09dff19f0bdbc540f2f583811398e39f101c3281&scene=27#wechat_redirect)
 
 渗透测试，代码审计，CTF ，红蓝对抗，SRC
 

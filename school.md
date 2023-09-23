@@ -1,17 +1,4 @@
 
-### [深圳网安培训学院](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDYzMjAyNA==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDYzMjAyNA==)
-
-[:camera_flash:【2023-09-15 17:17:00】](https://mp.weixin.qq.com/s?__biz=Mzg3MDYzMjAyNA==&mid=2247485101&idx=1&sn=5fbc45284380b610b55a4b2e0565e4d8&chksm=ce8b999af9fc108c3c534c12fc9484439f6a73e4b44cb3741ff9a6aa9616f5a0e232abd5374a&scene=27#wechat_redirect)
-
-深圳市网安计算机网络安全培训中心是由深圳市人力资源局备案的社会第三方培训机构。是受广东省人力资源和社会保障厅委托，开展“网络与信息安全管理员”职业技能等级认定工作的第三方社会评价机构。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_94f04a96b1ca" alt="" />
-
----
-
-
 ### [DROPS攻防训练营](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NjE0Mzk2OA==)
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NjE0Mzk2OA==)
@@ -389,6 +376,19 @@
 ---
 
 
+### [深圳网安培训学院](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDYzMjAyNA==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDYzMjAyNA==)
+
+[:camera_flash:【2023-09-15 17:17:00】](https://mp.weixin.qq.com/s?__biz=Mzg3MDYzMjAyNA==&mid=2247485101&idx=1&sn=5fbc45284380b610b55a4b2e0565e4d8&chksm=ce8b999af9fc108c3c534c12fc9484439f6a73e4b44cb3741ff9a6aa9616f5a0e232abd5374a&scene=27#wechat_redirect)
+
+深圳市网安计算机网络安全培训中心是由深圳市人力资源局备案的社会第三方培训机构。是受广东省人力资源和社会保障厅委托，开展“网络与信息安全管理员”职业技能等级认定工作的第三方社会评价机构。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_94f04a96b1ca" alt="" />
+
+---
+
+
 ### [绿盟科技网络安全学院](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzMjA4ODM0NA==)
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzMjA4ODM0NA==)
@@ -406,7 +406,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
 
-[:camera_flash:【2023-09-21 15:11:22】](https://mp.weixin.qq.com/s?__biz=MzUzNDg0NTc1NA==&mid=2247502931&idx=1&sn=5c43814c53981af6a1be07a69c706223&chksm=fa8c0c06cdfb8510a04280074598f58cc24ce162a15c1527ee3cbe6b61ad03fb644ecd034208&scene=27#wechat_redirect)
+[:camera_flash:【2023-09-23 08:00:32】](https://mp.weixin.qq.com/s?__biz=MzUzNDg0NTc1NA==&mid=2247502932&idx=1&sn=e206adf8bef28f33ec888bbac50f99b7&chksm=fa8c0c01cdfb85176be4dd243b5ddabc67e89da4e61d095b5b78655e3b5e69d71b945a1b6a30&scene=27#wechat_redirect)
 
 启明星辰网络空间安全学院以国家网络安全事业发展为使命，依托启明星辰集团多年的技术沉淀及实践积累，提供网络安全人才体系构建与信息安全技术及能力提升教育培训，为建设网络强国提供有力的人才支撑。
 
@@ -588,7 +588,7 @@ Covteam工作室，成立于2005年。是以西华大学在校本科生研究生
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
 
-[:camera_flash:【2023-09-20 08:00:57】](https://mp.weixin.qq.com/s?__biz=MzUzODkwMDMxNA==&mid=2247569651&idx=1&sn=c6b1a65742426d814a0bedfd6b23e819&chksm=fad332c6cda4bbd07de62b78db753bf36450b447676b1aea44c3b6968de00fcca0f9f052786c&scene=27#wechat_redirect)
+[:camera_flash:【2023-09-22 08:00:05】](https://mp.weixin.qq.com/s?__biz=MzUzODkwMDMxNA==&mid=2247569740&idx=1&sn=590112f9e5729b6ed94b8513e1ec489a&chksm=fad33379cda4ba6fd34aad4552f707c4c383bc2b206744c3353a85740d7497cce5d5f53ba2a6&scene=27#wechat_redirect)
 
 百所高校、百家用人单位、百名尖锋导师，携手打造定制化人才培养模式，通过导师制职业规划和封闭式岗位实训，补足知识短板、提高实战能力，培养创新型、实用型网络安全尖锋人才。
 

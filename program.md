@@ -29,7 +29,7 @@
 
 [:chart_with_upwards_trend:【1/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3Njc0NTgwMg==)
 
-[:camera_flash:【2023-09-19 12:01:02】](https://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&mid=2247496369&idx=1&sn=a62c1978761df47aba67fac02dc63865&chksm=cf2f3794f858be82fdb2a5d2253b739cfe8f6c384c37dd294d5288ecc3e409198a06200b4dca&scene=27#wechat_redirect)
+[:camera_flash:【2023-09-22 12:00:31】](https://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&mid=2247496459&idx=1&sn=f3144d31fa8c2857c43caf2b2a2b76cf&chksm=cf2f362ef858bf382cba3a4908df1a34640db1c999f266a10b84a5dba37e4cb7a84fa63f2257&scene=27#wechat_redirect)
 
 提供B站相关技术的介绍和讲解
 
@@ -94,7 +94,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
 
-[:camera_flash:【2023-09-21 23:53:46】](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247489595&idx=1&sn=f3067800cbbbe7f91cfea7199cf9bd77&chksm=fe2ee7b0c9596ea6b575bf97a57155b54f6052a21331f0b31d3a23c389f0bd8c2660672f8c13&scene=27#wechat_redirect)
+[:camera_flash:【2023-09-22 18:32:35】](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247489608&idx=1&sn=aff1efae8e9d0733fb91dbc4d6568e5c&chksm=fe2ee7c3c9596ed58dea22a2c7f3efe938e322b3dad3668a8fdd3ad7b1833ccd3b208d3a4def&scene=27#wechat_redirect)
 
 分享安全方面的论文写作、会议发表、基金申请方面的资料。
 
@@ -146,7 +146,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ5MTI5OA==)
 
-[:camera_flash:【2023-09-07 20:02:53】](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651775019&idx=1&sn=04f8785fe978953ed3f1b7f84cdbc519&chksm=bd1239668a65b07075cb6290909246588ced95fd16900e83cad4268b65970326e1640006a04b&scene=0&xtrack=1&key=60da4d39056d42a54616599b5b815e9b147d1bc8af35b9e92eaca2d9945b0149cffe8f15adcd086e5299c769c62399531a4f80eb0bbf4c26a344e876fb82f9c700a8e90508643db22941435cf44cae38b43f78549f718317bb223925ad55a5eade80f2d70ab13c1439dac6ec283df982eca06ea4562d6aa518d71262185d0473&ascene=51&uin=MzgxODQ4MjMz&devicetype=Windows+10+x64&version=63060012&lang=zh_CN&session_us=gh_96d37a04e9bf&countrycode=GY&exportkey=n_ChQIAhIQnIjpye3dMBa9OiL0IW91rRLvAQIE97dBBAEAAAAAALHqFo9M26EAAAAOpnltbLcz9gKNyK89dVj0LRbV%2B3Gs4mmpe725apvy3fD6Fav9WM6d3awN5u5ZZ31HjGlUXxAzZqw5v4xLRgx41RnYwNiDLVAWSH4WwAS9gGwvqi5HH48Q9uqApugtLUKcvLwubvVr0R9yBlulXBiE1oGNIJywWLYBamf4pqICRpf5Sj1C%2BhdEofi1TEiVG1d3XPBQu2Ja%2BmFXQV3uG6zHefxFF0xLhumPDBCIEHAtU17%2F60d5DOrcIvTd9ZyZ7PACY1w%2Bs41u2vIP8Z2%2F0%2Fn5LOoRZZNhID8%2B&acctmode=0&pass_ticket=f7ssj3A2gyDtGAiH01plQYQxTsSYdu2kOkve%2BOJ8cEFtgvHF8SS0B1X%2B6fd4m%2BVH&wx_header=0&fontgear=1&scene=27#wechat_redirect)
+[:camera_flash:【2023-09-21 19:58:51】](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651775284&idx=1&sn=8489db207ab318deb26e237ef5ced55c&chksm=bd1238798a65b16ff392c806c54661befd001040aa307f93ec4835d18abc3ac35a2cf9c7cb24&scene=0&xtrack=1&key=79faf193ca39ac84691f67d0400e4c9afd6b9a5d0509c42f51e5fe2d94ff8c4ae526d07d59371ff599d1f5a5ded22973150f029cb582c667697fa2100a5b861cbc4bfe2e0fa39ed5045ab69a58f6a4b96f06f220cd974b52fb200692635943a6163e9eaa628289588bbd1e1c78537b167f19580004e7510d04e60cc0dceffca2&ascene=51&uin=MzgxODQ4MjMz&devicetype=Windows+10+x64&version=63060012&lang=zh_CN&session_us=gh_96d37a04e9bf&countrycode=GY&exportkey=n_ChQIAhIQrgOerztS57WvDuPy49CXdRLvAQIE97dBBAEAAAAAAEQuEFbj%2FMkAAAAOpnltbLcz9gKNyK89dVj0qikBfNTfwHMxeiZHyIjy4R0RZxyLYuq2RvRq7UNzKDZkNq3W7xO7Nd1N5KIjrUVaggDXlmGp5uU9R6SJ7VC2rYJP0yMsvENCqwpCON0oXJnUzh08k4Dcqh9znescJvV8SK1Q5iqtry27fNpCzMgPc7LM81PjGOhGdL7A7k9lVswZua%2BjCSYKsAWY1blYPS0oRSxe5gxiaNs5tva6kLTfNQc%2BtbruBCwAKHjLJMOjOf%2BKlM12X4ubj4sMAGSSCtO1qGykeCLezVS%2B&acctmode=0&pass_ticket=u%2BxyGvwzHfj0y6UMgYeoXMl5qQXVdlCd6ni6HvAiK%2B%2FCvyL9U2esjxbdjv%2BVi4lY&wx_header=0&fontgear=2&scene=27#wechat_redirect)
 
 10000+工程师，如何支撑中国领先的生活服务电子商务平台？数亿消费者、数百万商户、2000多个行业背后是哪些技术在支撑？这里是美团、大众点评、美团外卖、美团优选等技术团队对外交流的窗口。
 
@@ -159,7 +159,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0MjczMjM2NA==)
 
-[:camera_flash:【2023-09-15 12:00:19】](https://mp.weixin.qq.com/s?__biz=MzI0MjczMjM2NA==&mid=2247497574&idx=1&sn=db998c6901a27b53a2400cff5efe82d3&chksm=e9756b45de02e2537c5f8af8ffe905f9fa3b53f95ec0f308def0a6e96024e71246861665318b&scene=0&xtrack=1&key=094fe642087a4fbe3624e1f130fbaea1e167e2ba3bf5dbf0c808d6c5748a8750afafd9a82ab708c6767856295450e4ba8434c01e172f06801c752220fadc9ab6e41d9a634cd7810f354bac896faeb1010d574f97ddd4998cc40ab59e5aa7c04c1de94e79ae40722b8f4fd52cc8765905616ab273c8ed0897fae26d36b386d841&ascene=51&uin=NTY2NTA4NjQ%3D&devicetype=Windows+10+x64&version=63060012&lang=zh_CN&session_us=gh_aa1476c2ce41&countrycode=AL&exportkey=n_ChQIAhIQlf8hevKS7a%2F%2BHxoz1fyWjxLuAQIE97dBBAEAAAAAAMG5Fe2aaygAAAAOpnltbLcz9gKNyK89dVj0XYtpwIiJTVVuhcNE9aqiK%2BlBhA30c8Bv71qYiSs1m9Ou9yoAuCL%2FkjSC45nP7jXdwOkBwzV1qGWRo00Ayg%2Bs9XgA1ugOGE%2FLpYjqnTXLPEqWYG16kRtK7B093%2BABUDkfFarqAI8TzLV5gfZgqCDNriO3Lz7RJid353Ib5cAoLMOIf%2F6t9nSBoS6%2F%2FfbghWs2kF5LhlTB82Mu0x%2Btb4qfl12PDE%2BdsEjznSMMNt8BZy8gemnA35HbBtjxlLbijG3WpsxQ35QK%2BxY%3D&acctmode=0&pass_ticket=fTloDJc%2BFQSdedaHB2q7Sb%2F3btR4NP2akkNjlD7M7GlYhUew2KirmG7LRuBQOFSr&wx_header=0&fontgear=2&scene=27#wechat_redirect)
+[:camera_flash:【2023-09-22 12:03:48】](https://mp.weixin.qq.com/s?__biz=MzI0MjczMjM2NA==&mid=2247497591&idx=1&sn=2fa4f10fa52865e9c806e979da3d78d2&chksm=e9756b54de02e242d3b3ed280c5be4bf90d2ae9f46b0adadfff2f1f7a463818fcb92a290f248&scene=0&xtrack=1&key=2a83edf5b0c74434d2a31b8ea7d70794f061c4a3023794c2cad046f04954cc3587ad79ef7dc7b5072f1fe891c33ab7d77f7521672595c5eb5d88920c897a2ae8ae19ba45803d86a6ad8ca7e7f8b6a75508e56fb391bfb03d9484315b8f5d7686fb526f52dcb264112fc50fbb6ccbc8df0ef10ac44ee5c6a40581dfe89c334cda&ascene=51&uin=MzgxODQ4MjMz&devicetype=Windows+10+x64&version=63060012&lang=zh_CN&session_us=gh_aa1476c2ce41&countrycode=GY&exportkey=n_ChQIAhIQl0bFBUmx2aleXW0tfDHP4hLvAQIE97dBBAEAAAAAAHaVLZW1Ns0AAAAOpnltbLcz9gKNyK89dVj08Ow4xdbRqg0LnSRX3zPv224z%2B7ufstLcerQrUA96qDUzWZZFN8SQMxHpY%2FxCoXi8s6zMELS%2BTCJcndZiRm9gM%2Fiv7A8B7psRJcAO4LSbCe1OHEBflFqDsAET%2Box4bvV%2FxNo6X%2Brxam%2FEErs3fQZhoIV9xM2z%2FTebZw9Jvsk6DBIlO%2FdDhaYSWpEfdyfDBYXdWqnPhP4REtv0jZU1N0fD25OD2KoghrGkTwVsT26Dor4AmWK%2Bbr7NLB1W9DzondrOGQkIOjGIv5QU&acctmode=0&pass_ticket=t9%2FTe3KyT4ZrsIGOw6di0Lo1OyY4TRRAIi%2FmpTNrX8XDa4C5TC22QARL5cIC7KhC&wx_header=0&fontgear=2&scene=27#wechat_redirect)
 
 爱奇艺的技术产品团队
 
@@ -198,7 +198,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
 
-[:camera_flash:【2023-09-21 21:57:46】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247504157&idx=1&sn=220f33823b834d5096558a0845148439&chksm=e9d31affdea493e94a5bd795582d40809b2e2874e2e11a611165e4899405a3e193d514759ef2&scene=27#wechat_redirect)
+[:camera_flash:【2023-09-22 15:34:05】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247504257&idx=1&sn=9e102a63540a2c2e512c0b954dce1d4f&chksm=e9d31a63dea493750934910669bf24a90562635915df0d6db1ea4ab5a3c08213a2a211388e6a&scene=27#wechat_redirect)
 
 字节跳动的技术实践分享
 
