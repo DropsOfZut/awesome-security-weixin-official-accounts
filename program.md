@@ -1,26 +1,13 @@
 
 ### [北邮GAMMALab](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzE1MTQzNw==)
 
-[:chart_with_upwards_trend:【3/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzE1MTQzNw==)
+[:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzE1MTQzNw==)
 
-[:camera_flash:【2023-09-21 08:35:15】](https://mp.weixin.qq.com/s?__biz=Mzg4MzE1MTQzNw==&mid=2247488225&idx=1&sn=e554b4ae9945c4098dc905850ff19ee5&chksm=cf4a95c3f83d1cd5bb7522fe8be2ff6d192f63d1bf5e2be58bdc9af8ab90cec0acfdbce433fb&scene=27#wechat_redirect)
+[:camera_flash:【2023-09-23 08:23:47】](https://mp.weixin.qq.com/s?__biz=Mzg4MzE1MTQzNw==&mid=2247488231&idx=1&sn=e8083979e1fe2987174dd9b16050886e&chksm=cf4a95c5f83d1cd3cfb55011592c39c7a244cf6282394c5584653832652785b8011f17fce537&scene=27#wechat_redirect)
 
 北邮图数据挖掘与机器学习实验室
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_bc48147b67b6" alt="" />
-
----
-
-
-### [长亭百川云平台](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjgyNDIzOA==)
-
-[:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjgyNDIzOA==)
-
-[:camera_flash:【2023-09-12 12:10:33】](https://mp.weixin.qq.com/s?__biz=Mzg4MjgyNDIzOA==&mid=2247509738&idx=1&sn=a5b4510c15b94ed7ed8e37bb45473957&chksm=cf5223abf825aabda85aba6a95f48129744e28dda2d30933070fe82a3ec5631cb3240079a70f&scene=27#wechat_redirect)
-
-百川云平台（Rivers）是长亭面向企业开放的在线安全产品服务，包含了多个安全产品，如问脉容器安全产品，关山WebShell检测产品，牧云主机安全产品，以及其他第三方安全公司提供的安全产品等。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_b7b2cd336ce7" alt="" />
 
 ---
 
@@ -38,15 +25,15 @@
 ---
 
 
-### [创宇安全智脑](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNjU0NjAyNg==)
+### [长亭百川云平台](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjgyNDIzOA==)
 
-[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNjU0NjAyNg==)
+[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjgyNDIzOA==)
 
-[:camera_flash:【2023-09-21 15:38:03】](https://mp.weixin.qq.com/s?__biz=MzIwNjU0NjAyNg==&mid=2247487546&idx=1&sn=dfbe47f6df586273989c4fe7021ec1f4&chksm=971ea53fa0692c29d1fbdd071951fc49d597ae40631347cafdda06e167b0a72af890278820a0&scene=27#wechat_redirect)
+[:camera_flash:【2023-09-12 12:10:33】](https://mp.weixin.qq.com/s?__biz=Mzg4MjgyNDIzOA==&mid=2247509738&idx=1&sn=a5b4510c15b94ed7ed8e37bb45473957&chksm=cf5223abf825aabda85aba6a95f48129744e28dda2d30933070fe82a3ec5631cb3240079a70f&scene=27#wechat_redirect)
 
-基于知道创宇14年来海量真实攻防数据积累，通过AI+安全大数据能力持续自生产、精粹和分析，实时输出高精准、高价值威胁情报，赋能于全场景安全建设体系。
+百川云平台（Rivers）是长亭面向企业开放的在线安全产品服务，包含了多个安全产品，如问脉容器安全产品，关山WebShell检测产品，牧云主机安全产品，以及其他第三方安全公司提供的安全产品等。
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_dd8b72c1c127" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_b7b2cd336ce7" alt="" />
 
 ---
 
@@ -515,6 +502,19 @@ OPPO 安第斯智能云（AndesBrain）是服务个人、家庭与开发者的�
 主营业务涵盖应用安全、系统安全、运维安全等，包括IT资产管理、智能攻击机器人、智能防御机器人、攻防实战演练支持、安全培训、课题和安全技术研究、产品研发及服务综合解决方案提供；其中，行业解决方案又包括电力行业、金融行业、军工行业、公检法等。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_10621ea3bed3" alt="" />
+
+---
+
+
+### [创宇安全智脑](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNjU0NjAyNg==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNjU0NjAyNg==)
+
+[:camera_flash:【2023-09-21 15:38:03】](https://mp.weixin.qq.com/s?__biz=MzIwNjU0NjAyNg==&mid=2247487546&idx=1&sn=dfbe47f6df586273989c4fe7021ec1f4&chksm=971ea53fa0692c29d1fbdd071951fc49d597ae40631347cafdda06e167b0a72af890278820a0&scene=27#wechat_redirect)
+
+基于知道创宇14年来海量真实攻防数据积累，通过AI+安全大数据能力持续自生产、精粹和分析，实时输出高精准、高价值威胁情报，赋能于全场景安全建设体系。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_dd8b72c1c127" alt="" />
 
 ---
 

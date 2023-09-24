@@ -1,9 +1,9 @@
 
 ### [数据安全共同体计划](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MDcxODc5NA==)
 
-[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MDcxODc5NA==)
+[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MDcxODc5NA==)
 
-[:camera_flash:【2023-09-19 17:30:55】](https://mp.weixin.qq.com/s?__biz=Mzg5MDcxODc5NA==&mid=2247489418&idx=1&sn=73d8bd0a087d107a6e6fbb948468dd14&chksm=cfd908aff8ae81b9854252c6ebb86ed0419712f44fbef3b96ec960846175fb3b4bf331a78e95&scene=27#wechat_redirect)
+[:camera_flash:【2023-09-23 18:00:58】](https://mp.weixin.qq.com/s?__biz=Mzg5MDcxODc5NA==&mid=2247489432&idx=1&sn=a66917a951c8ab3d78f957ea52edcaed&chksm=cfd908bdf8ae81abc9f741151d7e57aa54d155a02129b4e19f8f0d88d62933dd8dfd14af60cb&scene=27#wechat_redirect)
 
 “数据安全共同体计划”为了促进《数据安全法》《个人信息保护法》落地实施，推动数据开发利用和数据安全领域的技术推广和产业创新，致力于促进数据安全产业链各环节的交流与合作，推动数据安全政策、技术、人才多要素良性互动，构建数据安全产业生态共同体。
 
@@ -289,7 +289,7 @@ www.pcachina.com
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNzI3MzAxOA==)
 
-[:camera_flash:【2023-09-17 16:26:49】](https://mp.weixin.qq.com/s?__biz=MzkyNzI3MzAxOA==&mid=2247512088&idx=1&sn=074ffd5a46b9045c18358d21dc4a8943&chksm=c228694df55fe05be26fb7fe215e8eea240e673640452009de8c575ae9161279eea85e506fab&scene=27#wechat_redirect)
+[:camera_flash:【2023-09-20 08:30:04】](https://mp.weixin.qq.com/s?__biz=MzkyNzI3MzAxOA==&mid=2247512089&idx=1&sn=e8596d983b51e66e41a3d2c98f06c0c3&chksm=c228694cf55fe05ad67d6547db475e57adfe0d6928c24904fdb4c3557a13512989a3ba948e35&scene=27#wechat_redirect)
 
 围绕数据安全和个人信息保护，解读规则、推广标准、积淀实践、研究热点、沟通大众，以求真务实、科学中立的态度，做我国数据安全发展的观察者、记录者、倡导者。
 
@@ -341,7 +341,7 @@ www.pcachina.com
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5OTM0NTM2OQ==)
 
-[:camera_flash:【2023-09-22 18:02:40】](https://mp.weixin.qq.com/s?__biz=Mzg5OTM0NTM2OQ==&mid=2247490212&idx=1&sn=b500d004861af19c1518f0f5b2dcc32e&chksm=c055e412f7226d04c3d4f6616523302725c1a08c045060a659e43121dbb65e85ebe661309ace&scene=27#wechat_redirect)
+[:camera_flash:【2023-09-23 09:00:47】](https://mp.weixin.qq.com/s?__biz=Mzg5OTM0NTM2OQ==&mid=2247490211&idx=1&sn=116aee30aa5f713aae8e3db93af96924&chksm=c055e415f7226d031aa464bdd8a65874dd81963ec9b3b126b1856bdbc6346f7e32863cca3f6b&scene=27#wechat_redirect)
 
 数安行，专注数据运营安全，让数据安全地创造价值！
 
