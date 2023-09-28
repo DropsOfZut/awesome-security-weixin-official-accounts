@@ -1,17 +1,4 @@
 
-### [网络安全与取证研究](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTU3NTY0Nw==)
-
-[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTU3NTY0Nw==)
-
-[:camera_flash:【2023-09-25 08:00:52】](https://mp.weixin.qq.com/s?__biz=Mzg3NTU3NTY0Nw==&mid=2247487982&idx=1&sn=4c1da39d32d2f5b791317bb145b08870&chksm=cf3e31def849b8c801b2532a88edb04dc0bd80dc1f9ef04ed2824f134e8c92dd355aac46450f&scene=27#wechat_redirect)
-
-旨于开展网络安全相关法律法规研究与电子数据取证技术研究，分享小知识、小技巧，共同学习提高，推进技术规范化建设。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0aa8f6bfaffd" alt="" />
-
----
-
-
 ### [全频带阻塞干扰](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzMzE2OTQyNA==)
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzMzE2OTQyNA==)
@@ -198,7 +185,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
 
-[:camera_flash:【2023-09-25 20:03:30】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247592083&idx=2&sn=7d2eee7d54bc0ced03a23c62f7d18062&chksm=fc033859cb74b14f7c90e9a3b6bcb8fe3b17eba6ab928785d0c9fffe066d0078accc5916e3f7&scene=27#wechat_redirect)
+[:camera_flash:【2023-09-26 13:59:03】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247592370&idx=3&sn=2c5e42fe384f854f347fd2a2dc863f85&chksm=fc033978cb74b06e357377b83aa079283f28d5689bb90601070cdd1bcb36955b27a9a13144bc&scene=27#wechat_redirect)
 
 为智能网联汽车行业专业人士提供信息和网络安全技术、产品及服务等行业发展最新咨询
 
@@ -211,7 +198,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzNjIwMzM5Nw==)
 
-[:camera_flash:【2023-08-31 21:45:25】](https://mp.weixin.qq.com/s?__biz=MzkzNjIwMzM5Nw==&mid=2247485914&idx=1&sn=71e7010f1158c417b6d3e3b87ca1415a&chksm=c2a30c30f5d485262d46b049ff6ebcdd29f5c2bc371511a48534bd54f296cc9de1b34e9cce1c&scene=27#wechat_redirect)
+[:camera_flash:【2023-09-26 20:30:58】](https://mp.weixin.qq.com/s?__biz=MzkzNjIwMzM5Nw==&mid=2247485922&idx=1&sn=366ef6ab2dae7155b08e04444ac1d38d&chksm=c2a30c08f5d4851e9e38b100a73f717936f6910b92d05e86372f9fb5370e5a586f65e44d8b9a&scene=27#wechat_redirect)
 
 未知攻，焉知防，专注于高级威胁研究与数字调查取证。
 
@@ -294,6 +281,19 @@
 网络安全自学交流，提高效率，少走弯路
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_1d8521f5d38e" alt="" />
+
+---
+
+
+### [网络安全与取证研究](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTU3NTY0Nw==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTU3NTY0Nw==)
+
+[:camera_flash:【2023-09-27 08:02:13】](https://mp.weixin.qq.com/s?__biz=Mzg3NTU3NTY0Nw==&mid=2247487998&idx=1&sn=3df5759f447d86946cde0364c5140e19&chksm=cf3e31cef849b8d8ea38f4a5337ac09edc380ab3e1b775874bf37645a24c2c17c7152588d0a3&scene=27#wechat_redirect)
+
+旨于开展网络安全相关法律法规研究与电子数据取证技术研究，分享小知识、小技巧，共同学习提高，推进技术规范化建设。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0aa8f6bfaffd" alt="" />
 
 ---
 
