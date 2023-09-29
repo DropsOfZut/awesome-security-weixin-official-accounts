@@ -1,17 +1,4 @@
 
-### [数据安全共同体计划](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MDcxODc5NA==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MDcxODc5NA==)
-
-[:camera_flash:【2023-09-24 18:00:20】](https://mp.weixin.qq.com/s?__biz=Mzg5MDcxODc5NA==&mid=2247489437&idx=1&sn=c71d76039a5ea4898f3b6344d9b20a95&chksm=cfd908b8f8ae81aebc30b6a9e33b14c55821ce6ba1c1af4bf72a9ad8b18a33e42d7e32a6c3db&scene=27#wechat_redirect)
-
-“数据安全共同体计划”为了促进《数据安全法》《个人信息保护法》落地实施，推动数据开发利用和数据安全领域的技术推广和产业创新，致力于促进数据安全产业链各环节的交流与合作，推动数据安全政策、技术、人才多要素良性互动，构建数据安全产业生态共同体。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_385b203e9e03" alt="" />
-
----
-
-
 ### [谈数据](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1NzYwNTMzNw==)
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1NzYwNTMzNw==)
@@ -268,6 +255,19 @@ www.pcachina.com
 聚焦数据安全领域内最新产业动态信息，包含新闻资讯、政策文章、发展现状、趋势态势等。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e078f72a9a06" alt="" />
+
+---
+
+
+### [数据安全共同体计划](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MDcxODc5NA==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MDcxODc5NA==)
+
+[:camera_flash:【2023-09-24 18:00:20】](https://mp.weixin.qq.com/s?__biz=Mzg5MDcxODc5NA==&mid=2247489437&idx=1&sn=c71d76039a5ea4898f3b6344d9b20a95&chksm=cfd908b8f8ae81aebc30b6a9e33b14c55821ce6ba1c1af4bf72a9ad8b18a33e42d7e32a6c3db&scene=27#wechat_redirect)
+
+“数据安全共同体计划”为了促进《数据安全法》《个人信息保护法》落地实施，推动数据开发利用和数据安全领域的技术推广和产业创新，致力于促进数据安全产业链各环节的交流与合作，推动数据安全政策、技术、人才多要素良性互动，构建数据安全产业生态共同体。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_385b203e9e03" alt="" />
 
 ---
 
