@@ -497,7 +497,7 @@ OPPO 安第斯智能云（AndesBrain）是服务个人、家庭与开发者的�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzI1MDg2Mg==)
 
-[:camera_flash:【2023-09-28 17:30:29】](https://mp.weixin.qq.com/s?__biz=MzIwMzI1MDg2Mg==&mid=2649943353&idx=1&sn=4de97dd70dcdec5eae496f5ac5207e51&chksm=8ed400f8b9a389ee5ea5f29229fb438df825483c22ef446c2aef6a49492ab42ffaea58223d7a&scene=27#wechat_redirect)
+[:camera_flash:【2023-09-21 17:30:50】](https://mp.weixin.qq.com/s?__biz=MzIwMzI1MDg2Mg==&mid=2649943322&idx=1&sn=56ab675c69bbd2640ceba7a09fa53fac&chksm=8ed400dbb9a389cd70c7339c3b3e055ae71c01829c51f3a711385edf8f1d688993f0573d83fa&scene=27#wechat_redirect)
 
 主营业务涵盖应用安全、系统安全、运维安全等，包括IT资产管理、智能攻击机器人、智能防御机器人、攻防实战演练支持、安全培训、课题和安全技术研究、产品研发及服务综合解决方案提供；其中，行业解决方案又包括电力行业、金融行业、军工行业、公检法等。
 
@@ -510,7 +510,7 @@ OPPO 安第斯智能云（AndesBrain）是服务个人、家庭与开发者的�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNjU0NjAyNg==)
 
-[:camera_flash:【2023-09-28 15:31:06】](https://mp.weixin.qq.com/s?__biz=MzIwNjU0NjAyNg==&mid=2247487569&idx=1&sn=e47d390576af267c05e608430e487263&chksm=971ea554a0692c42effcbed58b20344005ca64d25baceb1ee04def6db25155c612391d3f8f0f&scene=27#wechat_redirect)
+[:camera_flash:【2023-09-21 15:38:03】](https://mp.weixin.qq.com/s?__biz=MzIwNjU0NjAyNg==&mid=2247487546&idx=1&sn=dfbe47f6df586273989c4fe7021ec1f4&chksm=971ea53fa0692c29d1fbdd071951fc49d597ae40631347cafdda06e167b0a72af890278820a0&scene=27#wechat_redirect)
 
 基于知道创宇14年来海量真实攻防数据积累，通过AI+安全大数据能力持续自生产、精粹和分析，实时输出高精准、高价值威胁情报，赋能于全场景安全建设体系。
 
