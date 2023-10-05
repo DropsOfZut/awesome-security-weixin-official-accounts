@@ -172,7 +172,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTE0MjQyMg==)
 
-[:camera_flash:【2023-10-02 09:18:19】](https://mp.weixin.qq.com/s?__biz=MjM5NTE0MjQyMg==&mid=2650589365&idx=1&sn=82d48e08927fc7fc467a80d5e30af43f&chksm=bef566cc8982efda9da8cb7cb9dac73d90eb887895636618531df9cd30ad66a2b65245bf4a80&scene=27#wechat_redirect)
+[:camera_flash:【2023-10-04 13:51:30】](https://mp.weixin.qq.com/s?__biz=MjM5NTE0MjQyMg==&mid=2650589408&idx=1&sn=7645e4e63467daf0f8e52e9ccbb8419e&chksm=bef566998982ef8f09c21f26fdf5235534d7f2e386c19d7d201edb6edec12da430e8e7583e8b&scene=27#wechat_redirect)
 
 杭州安恒信息技术股份有限公司（DBAPPSecurity），科创板：688023，全球网络安全创新500强。以自主可控的专利技术，提供Web应用安全、数据库安全、网站安全监测产品与服务、态势感知大数据中心及智慧城市云安全运营整体解决方案。
 
