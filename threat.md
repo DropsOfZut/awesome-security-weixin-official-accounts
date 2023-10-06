@@ -172,7 +172,7 @@ Seebug，原 Sebug 漏洞平台，洞悉漏洞，让你掌握第一手漏洞情�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3Mjc1MTkwOA==)
 
-[:camera_flash:【2023-10-02 21:06:46】](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650539584&idx=3&sn=0e4f5ee4a1ed10b2ed602d259955d7df&chksm=8711280bb066a11d76b40d1aaa0ae9498ef0db3813f2a5e9c292c4f38e80371f13afc4973dbb&scene=27#wechat_redirect)
+[:camera_flash:【2023-10-05 14:45:27】](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650539711&idx=3&sn=67d3d113d9b54da60cd00387c6a0d574&chksm=871128f4b066a1e28e52e36995944494f4eeb96a7e4632a0fc303736399a7afa66e6aa63ce4e&scene=27#wechat_redirect)
 
 刘硕教授团队：聚焦情报与安全！关注情报动态，促进情报协作，传播情报文化，优化情报生态，共建情报分析师职业共同体。
 

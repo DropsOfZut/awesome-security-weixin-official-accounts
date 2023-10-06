@@ -133,7 +133,7 @@ www.pcachina.com
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyMTMwMzc1Mw==)
 
-[:camera_flash:【2023-06-22 17:05:54】](https://mp.weixin.qq.com/s?__biz=MzkyMTMwMzc1Mw==&mid=2247484867&idx=1&sn=11492de7e4f7e2e45730e0d692ad2cb8&chksm=c184ea65f6f36373226e65fd0e2303a1a6661d8762d27cada33e07d9e261ae638bfc8c43adc9&scene=27#wechat_redirect)
+[:camera_flash:【2023-09-29 10:15:06】](https://mp.weixin.qq.com/s?__biz=MzkyMTMwMzc1Mw==&mid=2247484872&idx=1&sn=025fc4c085a5bba9c8e7d62f8d3cb2fc&chksm=c184ea6ef6f363789b0434095a963be6ab7eb46ded5d24339bc73932fd594cec5827e4e32de9&scene=27#wechat_redirect)
 
 关注数字化发展中的数据安全问题，热点事件时评，数据安全政策法律法规分析，全球数据合规、个人信息保护立法动态，企业数据合规实践。
 

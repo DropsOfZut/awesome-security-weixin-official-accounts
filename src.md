@@ -406,7 +406,7 @@ VIPKID安全响应中心官方账号
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NDgxODU1MQ==)
 
-[:camera_flash:【2023-09-28 18:21:11】](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247499661&idx=3&sn=79fd2d0f4ba8cf2a1ca6770d1fe44ca6&chksm=fe79db15c90e52036d6708ce83975dccb2dc960bf0aec53e5baa1582560daf08891bd1ec1fcf&scene=27#wechat_redirect)
+[:camera_flash:【2023-10-05 21:23:09】](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247499667&idx=1&sn=34ffd286d7d5848306b8b35b69b4f63f&chksm=fe79db0bc90e521d2434776d7e71acc6310d82bcee73af08216ec90a6e9cbcd024c1fe0a05e3&scene=27#wechat_redirect)
 
 为企业级用户提供高危漏洞、重大安全事件安全风险通告和相关产品解决方案。
 
