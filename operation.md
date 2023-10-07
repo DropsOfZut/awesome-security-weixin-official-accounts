@@ -42,7 +42,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1NzI5NDM4Mw==)
 
-[:camera_flash:【2023-09-27 08:00:09】](https://mp.weixin.qq.com/s?__biz=MzI1NzI5NDM4Mw==&mid=2247496017&idx=1&sn=c1a6b8c0e7a93b66f33efc3181d54637&chksm=ea1b1811dd6c9107a5fb6d9fa8d1f973b2013d7cf13f531ada13e4d5f868244f0fa4bf7f275f&scene=27#wechat_redirect)
+[:camera_flash:【2023-10-07 08:00:28】](https://mp.weixin.qq.com/s?__biz=MzI1NzI5NDM4Mw==&mid=2247496019&idx=1&sn=ca14172b9b1a2df4cd77b58e37d9ddab&chksm=ea1b1813dd6c9105085fd812ad6455410617f9f7ae84201eff8e8923957ce782066528003088&scene=27#wechat_redirect)
 
 Docker中文社区旨在为大家提供 Docker、Kubernetes 相关工具及前沿资讯信息，方便大家了解学习 Docker、Kubernetes 相关容器技术。官网：dockerworld.cn
 

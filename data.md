@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1NzYwNTMzNw==)
 
-[:camera_flash:【2023-10-01 07:30:35】](https://mp.weixin.qq.com/s?__biz=MzI1NzYwNTMzNw==&mid=2247517567&idx=1&sn=6b97e286b5ceea475a7df121ac82dd48&chksm=ea162ec9dd61a7df753b6676ad5bef69fc8f294a61f2d15536513e3d5caa724490d944df7dff&scene=27#wechat_redirect)
+[:camera_flash:【2023-10-06 14:04:21】](https://mp.weixin.qq.com/s?__biz=MzI1NzYwNTMzNw==&mid=2247517931&idx=2&sn=09efa4c260daad1831310bb98904a4eb&chksm=ea162d5ddd61a44b32ac9c1690e267d473ebe7c80df02eb02ef3f039d1abb5612ed347cf248f&scene=27#wechat_redirect)
 
 聚焦数据治理，数字化转型，数据中台等领域专业知识总结和实战分享，做你身边最有价值的数据号！
 
