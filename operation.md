@@ -42,7 +42,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1NzI5NDM4Mw==)
 
-[:camera_flash:【2023-10-07 08:00:28】](https://mp.weixin.qq.com/s?__biz=MzI1NzI5NDM4Mw==&mid=2247496019&idx=1&sn=ca14172b9b1a2df4cd77b58e37d9ddab&chksm=ea1b1813dd6c9105085fd812ad6455410617f9f7ae84201eff8e8923957ce782066528003088&scene=27#wechat_redirect)
+[:camera_flash:【2023-10-11 08:02:50】](https://mp.weixin.qq.com/s?__biz=MzI1NzI5NDM4Mw==&mid=2247496036&idx=1&sn=b7c423e92c2c08c36ff38710ff100188&chksm=ea1b1824dd6c9132201723708b2c7e186eec118aab96053b82c0462e539ab4285c87dd63dd76&scene=27#wechat_redirect)
 
 Docker中文社区旨在为大家提供 Docker、Kubernetes 相关工具及前沿资讯信息，方便大家了解学习 Docker、Kubernetes 相关容器技术。官网：dockerworld.cn
 
@@ -55,7 +55,7 @@ Docker中文社区旨在为大家提供 Docker、Kubernetes 相关工具及前�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3MjM5MDc2Nw==)
 
-[:camera_flash:【2023-09-25 08:50:36】](https://mp.weixin.qq.com/s?__biz=MzA3MjM5MDc2Nw==&mid=2650747935&idx=1&sn=78cf609e48b69d311448abb967fe9458&chksm=8714951fb0631c0976abb4b098ffba5bc9137aff99d723fc67af2eacc4ac9c2a16e22599ed75&scene=27#wechat_redirect)
+[:camera_flash:【2023-10-08 09:12:40】](https://mp.weixin.qq.com/s?__biz=MzA3MjM5MDc2Nw==&mid=2650747956&idx=1&sn=6df92bf08023071f7eaf7ea807e571e0&chksm=87149534b0631c22bdfefb9c7f84ac87b339823e6ac1893a545b3e3bb4a265dfa7342d903385&scene=27#wechat_redirect)
 
 史上最具参考性的云计算和网络安全技术实践博客。
 
@@ -94,7 +94,7 @@ BAT 技术专家分享开发、架构、运维相关干货！
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NjE0NDc5OQ==)
 
-[:camera_flash:【2023-09-26 18:41:37】](https://mp.weixin.qq.com/s?__biz=Mzk0NjE0NDc5OQ==&mid=2247521853&idx=2&sn=057853ec8527bd447b65b07e02485f70&chksm=c308454df47fcc5b12497597f882d156a59dba0de984ee3f67110c70e7a68713636c4dfb15d0&scene=27#wechat_redirect)
+[:camera_flash:【2023-10-09 10:06:56】](https://mp.weixin.qq.com/s?__biz=Mzk0NjE0NDc5OQ==&mid=2247521964&idx=2&sn=2336c1dd06245ace84685ac369ad76c7&chksm=c30845dcf47fcccae7f77131df08128c8ac4045e0e3a8b79b44d8e2d189889bd6c49d10943a9&scene=27#wechat_redirect)
 
 未知攻 焉知防 攻防兼备
 
@@ -107,7 +107,7 @@ BAT 技术专家分享开发、架构、运维相关干货！
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3MjMxODUwNg==)
 
-[:camera_flash:【2023-10-02 20:26:55】](https://mp.weixin.qq.com/s?__biz=MzA3MjMxODUwNg==&mid=2247486101&idx=1&sn=053c28d8978f338840ee3e5a0677b21d&chksm=9f2161d0a856e8c68c130503c4e07871fe84aa744bb0f052adb3f8a800d3cd243b583228a434&scene=27#wechat_redirect)
+[:camera_flash:【2023-10-11 21:39:08】](https://mp.weixin.qq.com/s?__biz=MzA3MjMxODUwNg==&mid=2247486117&idx=1&sn=1ccfc8f46ff2b8367266d881df9d6aa6&chksm=9f2161e0a856e8f6f5c2ff5e2b27dc2bc79cc8d03886337fc71ef13d869c64aae1be7578c4c6&scene=27#wechat_redirect)
 
 漏洞挖掘、SRC、红蓝对抗、代码审计
 
@@ -120,7 +120,7 @@ BAT 技术专家分享开发、架构、运维相关干货！
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzIwNTY1OA==)
 
-[:camera_flash:【2023-10-06 08:02:11】](https://mp.weixin.qq.com/s?__biz=MzkxMzIwNTY1OA==&mid=2247499867&idx=1&sn=9fad0ceea7d56a97034dd7b2ada4a6cf&chksm=c103b0aef67439b829d3520a110c866e336fb6251940ecdd8301f9ea883c3d03e097be2f67ea&scene=27#wechat_redirect)
+[:camera_flash:【2023-10-12 11:50:29】](https://mp.weixin.qq.com/s?__biz=MzkxMzIwNTY1OA==&mid=2247500073&idx=1&sn=e2172e4fda312696fa62482d31e0d9fd&chksm=c103b1dcf67438ca9cdffbc98caa029248144d62f57ac932f6c2166edf6eaad592484d2c64fc&scene=27#wechat_redirect)
 
 发布关于kali相关文章。Debian Centos等操作系统的安全和运维。以及树莓派 ESP8266 DIY单片机等相关安全领域的文章。旨在掌握技术和原理的前提下，更好的保护自身网络安全。反对一切危害网络安全的行为，造成法律后果请自负。
 
