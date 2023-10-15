@@ -29,7 +29,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTc2MDYxMw==)
 
-[:camera_flash:【2023-10-12 17:59:47】](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458521718&idx=4&sn=82cf224fbe359be5827e9ed3a8917904&chksm=b18d20fc86faa9ea30b8b375ecc7508049fcda3168e0efc30d01ed9f8af3b59efe6a769457db&scene=27#wechat_redirect)
+[:camera_flash:【2023-10-14 17:59:25】](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458523106&idx=3&sn=94f2c25a389019b27952d50c27004ad6&chksm=b18d256886faac7e2bb0390e59514d37582484eed46d78a49f88a8df95b826172994948737b4&scene=27#wechat_redirect)
 
 致力于移动与安全研究的开发者社区，看雪学院(kanxue.com)官方微信公众帐号。
 
@@ -68,7 +68,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU1NTEzODc3MQ==)
 
-[:camera_flash:【2023-09-15 18:00:11】](https://mp.weixin.qq.com/s?__biz=MzU1NTEzODc3MQ==&mid=2247486084&idx=1&sn=8249dc1cc317253d817a83eb2390c40c&chksm=fbd9a138ccae282e43bcd7c890dfe7212f08b1bdaff2b7287756401b23e7858b68cbfc55a600&scene=27#wechat_redirect)
+[:camera_flash:【2023-10-13 22:35:21】](https://mp.weixin.qq.com/s?__biz=MzU1NTEzODc3MQ==&mid=2247486116&idx=1&sn=e53c0c36f934c194cda132a808111095&chksm=fbd9a118ccae280ebe777903d153727542bca7bb9ecf14dd6b3be9f08166e33115e1d6dd9a38&scene=27#wechat_redirect)
 
 「FuzzWiki」致力于成为国内最专业的模糊测试技术论坛平台，专注于分享模糊测试领域前沿技术、深度文章、行业资讯、最新突破，为专家学者、从业者、相关行业安全人员和决策者构筑完善的知识图谱，提供交流模糊测试新技术、新知识、新工具的开放平台。
 
@@ -185,7 +185,7 @@ pWn3d bY BiGSKidd3r&amp;FuzZer&amp;A2pter&amp;pWn3r rULe4Ker4pwn 65535 tim3s.
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MTY5MzQxMA==)
 
-[:camera_flash:【2023-10-05 10:17:45】](https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247484490&idx=1&sn=4088bd01935e6f265863bdd1be90c5e7&chksm=fcdd0447cbaa8d519a475767e3d8c8c1e708a075ec0da66400f6acc5acf40b40738e2eaee3d6&scene=27#wechat_redirect)
+[:camera_flash:【2023-10-13 10:14:32】](https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247484495&idx=1&sn=a86d213effc10bae659d08a8b60e5f1e&chksm=fcdd0442cbaa8d5471d25d3993351a5fa8cac7ee2d077022f1aa529a47cddbc45e4ef51c1ff0&scene=27#wechat_redirect)
 
 分享最前沿的软件安全与逆向分析技术与资讯。包括Windows、macOS、iOS、Android、Linux等平台。
 
