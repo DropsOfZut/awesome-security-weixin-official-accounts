@@ -16,7 +16,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxNDU2ODg3Mw==)
 
-[:camera_flash:【2023-10-12 16:43:01】](https://mp.weixin.qq.com/s?__biz=MzIxNDU2ODg3Mw==&mid=2247485620&idx=1&sn=44409b077f2432d2ef1778dcc2f2f51b&chksm=97a4d272a0d35b6455d5648d2f83c76585e894111b33fdd5c07451abc8b90099d36bd39d9554&scene=27#wechat_redirect)
+[:camera_flash:【2023-10-15 12:30:42】](https://mp.weixin.qq.com/s?__biz=MzIxNDU2ODg3Mw==&mid=2247485641&idx=1&sn=92749dd571881376725304a8b850f9b6&chksm=97a4d20fa0d35b1979328b88ab17ed273d1b333c557df8ad65fedabeeffc68b8fb92b9c85a26&scene=27#wechat_redirect)
 
 杭州电子科技大学Vidar-Team (原信息安全协会HDUISA&amp;网络空间安全协会)  消息助手
 
@@ -588,7 +588,7 @@ Covteam工作室，成立于2005年。是以西华大学在校本科生研究生
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
 
-[:camera_flash:【2023-10-12 08:00:48】](https://mp.weixin.qq.com/s?__biz=MzUzODkwMDMxNA==&mid=2247569976&idx=1&sn=f6f05a5fabce0b066cb5e3b51e4828f6&chksm=fad3300dcda4b91be6b266e450e5b6a1e355d1b79311e69024723eedd77f325529799bb131af&scene=27#wechat_redirect)
+[:camera_flash:【2023-10-16 08:01:29】](https://mp.weixin.qq.com/s?__biz=MzUzODkwMDMxNA==&mid=2247570170&idx=1&sn=a0ebb1d997784be79dc579c6bc20588e&chksm=fad330cfcda4b9d946a35ba31768d1ccde6df2bef5de53205ec5548299e32c42637d362b047b&scene=27#wechat_redirect)
 
 百所高校、百家用人单位、百名尖锋导师，携手打造定制化人才培养模式，通过导师制职业规划和封闭式岗位实训，补足知识短板、提高实战能力，培养创新型、实用型网络安全尖锋人才。
 
