@@ -29,7 +29,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzg5MTI0OQ==)
 
-[:camera_flash:【2023-10-12 21:01:01】](https://mp.weixin.qq.com/s?__biz=MzIwMzg5MTI0OQ==&mid=2247530408&idx=1&sn=22a99cca0a2655d1dc45d4f990f457d1&chksm=96ca40f6a1bdc9e00e0bc8bff338eee8ccb97328dbc3b27c0a74ae58798023dda438b65da9ae&scene=27#wechat_redirect)
+[:camera_flash:【2023-10-16 16:30:31】](https://mp.weixin.qq.com/s?__biz=MzIwMzg5MTI0OQ==&mid=2247530423&idx=1&sn=e3893d1d4490945abf8843f5f874b492&chksm=96ca40e9a1bdc9ff0c75e93439345826810ddb99ea041af00662e16b1125a453d698b9d69d35&scene=27#wechat_redirect)
 
 专注于企业数据化应用、大数据BI技术和理论观点的研究，致力于让数据成为企业真正的生产力！帆软数据应用研究院旗下账号。
 
@@ -55,7 +55,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNzk2OTQ4MQ==)
 
-[:camera_flash:【2023-10-14 08:30:12】](https://mp.weixin.qq.com/s?__biz=MzAwNzk2OTQ4MQ==&mid=2247484032&idx=1&sn=1552c88bac197084b92be1d186d18918&chksm=9b774d26ac00c430c50615168667623ad18131a761db2f31d8041b250ee096f8fa7bd08aa02f&scene=27#wechat_redirect)
+[:camera_flash:【2023-10-16 18:30:19】](https://mp.weixin.qq.com/s?__biz=MzAwNzk2OTQ4MQ==&mid=2247484037&idx=1&sn=88dc7888e55955999d13e6b0686adae3&chksm=9b774d23ac00c4353cd5f0d0f59e64e232f5887898b4a887bb8eb60d482a9e82fbafcc92fac8&scene=27#wechat_redirect)
 
 聚焦数据安全治理，研究数据安全产品及相应技术实践
 
@@ -172,7 +172,7 @@ www.pcachina.com
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNzQyMTEyMQ==)
 
-[:camera_flash:【2023-09-25 10:10:31】](https://mp.weixin.qq.com/s?__biz=MzIwNzQyMTEyMQ==&mid=2247488088&idx=1&sn=78a3a958bff170dd9c3477237487ffc2&chksm=9713f9f6a06470e009215a19aa2eebb08951fa70d542cd26189aace679b03a6b5424a1fd7dd1&scene=27#wechat_redirect)
+[:camera_flash:【2023-10-16 10:33:15】](https://mp.weixin.qq.com/s?__biz=MzIwNzQyMTEyMQ==&mid=2247488102&idx=1&sn=b69776c6f69d9d87c45850e144d90970&chksm=9713f9c8a06470de9d21e5a9221b8b1326d3ce09106238191c508219b4dda74c13e3d6a2fd36&scene=27#wechat_redirect)
 
 聚焦数据安全与数据要素化，洞察行业趋向，提供专业解读，分享研究成果。
 
@@ -211,7 +211,7 @@ www.pcachina.com
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5MTk0MzIzMQ==)
 
-[:camera_flash:【2023-10-12 11:36:49】](https://mp.weixin.qq.com/s?__biz=MjM5MTk0MzIzMQ==&mid=2652017697&idx=2&sn=727941ba3967b22b500bbe5a539441ee&chksm=bd4beb718a3c6267b78f4fc342ea110571cd72cb9c95b13950a9411938a09d7fad68fc07129a&scene=27#wechat_redirect)
+[:camera_flash:【2023-10-16 11:08:08】](https://mp.weixin.qq.com/s?__biz=MjM5MTk0MzIzMQ==&mid=2652017721&idx=3&sn=60c6f4241885ea6f5ba61ff69a721f8c&chksm=bd4beb698a3c627f2ce3d73b7990d3665d653609ba3dd8dccd4feba87637589007de779360d4&scene=27#wechat_redirect)
 
 可信赖的数据安全产品与服务提供商
 
@@ -250,7 +250,7 @@ www.pcachina.com
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNzM0NzA3Ng==)
 
-[:camera_flash:【2023-10-12 15:30:25】](https://mp.weixin.qq.com/s?__biz=MzkyNzM0NzA3Ng==&mid=2247517693&idx=2&sn=69d6d7f22b765855067b9938ce0cb38b&chksm=c22bbd16f55c3400fbc68b86191dc68508ec9b0543c42779e69a7baa4870c379d65a57f7c2be&scene=27#wechat_redirect)
+[:camera_flash:【2023-10-16 16:27:19】](https://mp.weixin.qq.com/s?__biz=MzkyNzM0NzA3Ng==&mid=2247517796&idx=2&sn=d95baa4e15b7ab1ecb21b5efa7b118b2&chksm=c22bbe8ff55c37996a32450005373ebeda08137aeb1bbc5fdaeaf27e6bf65e6b5fc3884c2e15&scene=27#wechat_redirect)
 
 聚焦数据安全领域内最新产业动态信息，包含新闻资讯、政策文章、发展现状、趋势态势等。
 
@@ -289,7 +289,7 @@ www.pcachina.com
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNzI3MzAxOA==)
 
-[:camera_flash:【2023-10-08 08:30:26】](https://mp.weixin.qq.com/s?__biz=MzkyNzI3MzAxOA==&mid=2247512246&idx=1&sn=eee697540561fdb0ceeba996018d013f&chksm=c22869e3f55fe0f5abca1de05a2e34e74877b56e08d2c40267b7ddce97f7476e634379c86723&scene=27#wechat_redirect)
+[:camera_flash:【2023-10-16 17:35:36】](https://mp.weixin.qq.com/s?__biz=MzkyNzI3MzAxOA==&mid=2247512266&idx=1&sn=eb04f800dcc7c72130c99fc624e7ad99&chksm=c228699ff55fe089f00455e8791c1f35678ac24aa452ea83741898e78a29e77b3b18a69da19c&scene=27#wechat_redirect)
 
 围绕数据安全和个人信息保护，解读规则、推广标准、积淀实践、研究热点、沟通大众，以求真务实、科学中立的态度，做我国数据安全发展的观察者、记录者、倡导者。
 
