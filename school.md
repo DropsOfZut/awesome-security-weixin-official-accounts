@@ -81,7 +81,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzQyOTU0Nw==)
 
-[:camera_flash:【2023-09-15 08:00:22】](https://mp.weixin.qq.com/s?__biz=MzU3MzQyOTU0Nw==&mid=2247489654&idx=1&sn=4be3311a2d25542687f7f504a04633fe&chksm=fcc09a32cbb713244cb6420805d7d3d9d191dc536ae407be5300f496184559afaa4453ad4aa6&scene=27#wechat_redirect)
+[:camera_flash:【2023-10-13 08:00:19】](https://mp.weixin.qq.com/s?__biz=MzU3MzQyOTU0Nw==&mid=2247489677&idx=1&sn=d4ee2ef838a921f4a4b48b7bd8fe3bc6&chksm=fcc09ac9cbb713df746b882f8ad45b9e1c5396da776a855d5d61beffd2c118290dd13ead34ed&scene=27#wechat_redirect)
 
 东北大学“谛听”网络安全团队
 
@@ -250,7 +250,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0MjI1NzY1NQ==)
 
-[:camera_flash:【2023-03-27 19:31:59】](https://mp.weixin.qq.com/s?__biz=Mzk0MjI1NzY1NQ==&mid=2247486313&idx=1&sn=3229e9d57d2895f218d5fc70b8bc8604&chksm=c2c4aff1f5b326e75e8994a91dfa54db378c61be908191d99ff2664c7c048f302793f310f48e&scene=27#wechat_redirect)
+[:camera_flash:【2023-10-17 22:00:44】](https://mp.weixin.qq.com/s?__biz=Mzk0MjI1NzY1NQ==&mid=2247486363&idx=1&sn=c533342ffa9e66ad038e6db6175ca029&chksm=c2c4af03f5b32615ab89168734ef41d947c59c6531fe6156c2945365005ea0c61e0ed32a341a&scene=27#wechat_redirect)
 
 渭南师范学院网络信息安全协会官方账号，为您提供网络安全相关资讯与技术分享。
 
@@ -406,7 +406,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
 
-[:camera_flash:【2023-10-01 07:02:45】](https://mp.weixin.qq.com/s?__biz=MzUzNDg0NTc1NA==&mid=2247503220&idx=1&sn=e8748c30b93c4df09fb2f4e069998891&chksm=fa8c0d21cdfb8437044b361d9a346c47ea9a54430c27b2cac0cb57c9b7c9f64baa518ef3c529&scene=27#wechat_redirect)
+[:camera_flash:【2023-10-17 18:14:08】](https://mp.weixin.qq.com/s?__biz=MzUzNDg0NTc1NA==&mid=2247503522&idx=1&sn=4300315c2f219f034ebd0bd2ac364555&chksm=fa8c0ef7cdfb87e1c2be9acf332dd164486f63a6c61c58498f573fd626ac6376a83a44b3a120&scene=27#wechat_redirect)
 
 启明星辰网络空间安全学院以国家网络安全事业发展为使命，依托启明星辰集团多年的技术沉淀及实践积累，提供网络安全人才体系构建与信息安全技术及能力提升教育培训，为建设网络强国提供有力的人才支撑。
 
@@ -419,7 +419,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyNzU3Mzg2NQ==)
 
-[:camera_flash:【2023-07-04 17:41:13】](https://mp.weixin.qq.com/s?__biz=MzIyNzU3Mzg2NQ==&mid=2247486600&idx=1&sn=7d8a475ebb64375b57b3597519be696c&chksm=e85e658edf29ec98c62b39711c7f17c053f9f5dd544cee3268d341b89265aa31bc4ab20607e6&key=debaf56e0df4198fd2bc4b4797e54920c6c1afa2195d8c0f1152154e0d6f882e43610d82300c826de073be41a634ee532114565fa42a1569e6686c12310b2237691a3ca559c458eb3f90be21b234d0ca1d9a738fef3be0dc41b9f4b5afc87d2a1d55378a1a381a43ed4011a2d81ab4eca03fb76b473a8393e397ffa3e1e3dfe3&ascene=51&uin=NTY2NTA4NjQ%3D&devicetype=Windows+10+x64&version=63060012&lang=zh_CN&session_us=gh_a6ba8f92d07d&countrycode=AL&exportkey=n_ChQIAhIQiDMTBqrR5WbzUrZSfsRf1RLuAQIE97dBBAEAAAAAAA5BObUEq1cAAAAOpnltbLcz9gKNyK89dVj0i5dE%2FAS9WAJk13APw8FvuRWYyE9rzZCFLx2LqIxzQ8x3tLHaOdBDO36zjvgouT%2FWuzNIC71IHRFIwHqtPcDY0U9qpfChvSD4l5TFhpfg3KrX2wAivh2dRq0cVNo8xUwlClPFoW5FMN38RmLf8VCy8HR%2BYEHoyrVVPoJzcx8oB7qmJOnEib3cIulNGx6ltCxt3CcFSpmgTUKc8c777zUCPgi5E9bcHx%2FN9L91HgYwYa34gzY4SHfOLBd7FdbLVSWdv%2B5NJqSHc8U%3D&acctmode=0&pass_ticket=bqjZq5MraMI2rFlV5%2FYaVE&scene=27#wechat_redirect)
+[:camera_flash:【2023-10-17 17:29:57】](https://mp.weixin.qq.com/s?__biz=MzIyNzU3Mzg2NQ==&mid=2247486819&idx=1&sn=f449fb3f50eda12421045dbd0fbb9207&chksm=e85e6465df29ed732469b69c1ff577e346c86b68af64d8167c92e0104366553b6e061a9ebbb1&scene=0&xtrack=1&key=debaf56e0df4198fdbabeb7dccf0c4f8508bb9174f0b70e501e5cca2be7fdfca02b9e403d542de651bc7eb6dd7f384c74f66fe29847a149bc3ffef02267abad0eb7002d5ee3ae1765c2c475dd93c9762fecbecaf284a0a5fd472f812c6cf96f9b730e30d2d8c24851219efcaf09d2ab3138cd34b42fdf6f11a0d0622ca882a9d&ascene=51&uin=NTY2NTA4NjQ%3D&devicetype=Windows+10+x64&version=63060012&lang=zh_CN&session_us=gh_a6ba8f92d07d&countrycode=AL&exportkey=n_ChQIAhIQr767%2BMyfiJWtps7v6lOfmBLuAQIE97dBBAEAAAAAABdZGr8cMW0AAAAOpnltbLcz9gKNyK89dVj0O6HPp7rOYtAtZGrsm8WbDJq%2BvrD54j5YSpvVTm6wn8b9BLTF4BZWXIfuuMpBeQ2iU%2BdY9kDjBpaTUCyzd2t%2BnF7gfzxeonus8tScKNQxvpwKrCYz48Kg7OgujgVxSTUybyTgNEv50sfznoJMInUpJedYUhIuPHKfis9hvnf2lqKl5iwml155UvzQvJnHcftjuRbS70Q%2B5eQpdHwmn5FS9%2FiIXfU03XPJvI550AB5e8XMGwmtZyET4duDDfXt3r%2BD4Pn3t6xWhR4%3D&acctmode=0&pass_ticket=oS7tqPf6b72k%2FEqhJ%2F%2FSxz%2FCyoT9VS0FO0y2ZTy2xQR8hfHV0LOnFbgwluo8DfQg&wx_header=0&fontgear=2&scene=27#wechat_redirect)
 
 网安学院拥有专业教学服务、就业指导，课程配套靶场实战平台（www.hetianlab.com），学员学完就练，切实提升实践动手能力；课程涵盖Web安全、软件安全、网络安全等网安各个相关方面。
 
@@ -588,7 +588,7 @@ Covteam工作室，成立于2005年。是以西华大学在校本科生研究生
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
 
-[:camera_flash:【2023-10-16 08:01:29】](https://mp.weixin.qq.com/s?__biz=MzUzODkwMDMxNA==&mid=2247570170&idx=1&sn=a0ebb1d997784be79dc579c6bc20588e&chksm=fad330cfcda4b9d946a35ba31768d1ccde6df2bef5de53205ec5548299e32c42637d362b047b&scene=27#wechat_redirect)
+[:camera_flash:【2023-10-17 08:00:02】](https://mp.weixin.qq.com/s?__biz=MzUzODkwMDMxNA==&mid=2247570185&idx=1&sn=53c3226dc8e37507d30a88eb5419f9cb&chksm=fad3313ccda4b82a3d52efc4336d3999a7105aadf1b295b91fc6a3d3d4f3b8fe81130912f436&scene=27#wechat_redirect)
 
 百所高校、百家用人单位、百名尖锋导师，携手打造定制化人才培养模式，通过导师制职业规划和封闭式岗位实训，补足知识短板、提高实战能力，培养创新型、实用型网络安全尖锋人才。
 

@@ -42,7 +42,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
 
-[:camera_flash:【2023-10-15 15:23:50】](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247489874&idx=1&sn=3813703202028038faaac620e7e13acf&chksm=fe2ee6d9c9596fcf07e7382aca3649808b41143a981a2633e571a9e3b61f6c1976901b167ec9&scene=27#wechat_redirect)
+[:camera_flash:【2023-10-17 21:47:46】](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247489884&idx=1&sn=d8b0d8f4ec0d3d8cbbf289aeff50ccea&chksm=fe2ee6d7c9596fc157e939fd22fc36a338f3c4f854fb7e023f522bf60a411beb3a52e4b664d8&scene=27#wechat_redirect)
 
 分享安全方面的论文写作、会议发表、基金申请方面的资料。
 
@@ -146,7 +146,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
 
-[:camera_flash:【2023-10-13 17:05:18】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247504369&idx=1&sn=1058d44630786ae24406c3ae5b2805f1&chksm=e9d31a13dea493054e5d82a4a60c8d621b25667cbdd8d4e7de7e8f641f0b369427bbe22a145a&scene=27#wechat_redirect)
+[:camera_flash:【2023-10-18 11:59:15】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247504397&idx=1&sn=1da33095ad447ac8d659410237f228be&chksm=e9d319efdea490f9f57f1b16d115c3ed806fabba3610a5e769fb18966ea4d73bdeffb91d7b30&scene=27#wechat_redirect)
 
 字节跳动的技术实践分享
 
@@ -159,7 +159,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI4MzcwNTAzOQ==)
 
-[:camera_flash:【2023-09-04 14:01:27】](https://mp.weixin.qq.com/s?__biz=MzI4MzcwNTAzOQ==&mid=2247529637&idx=1&sn=95d4f341231d495b34dfdb67d9a2bd6d&chksm=eb849f05dcf31613fa264f7e40a36b69e35099672f0cdaf0308236e3823e29d4f55733eb083c&scene=27#wechat_redirect)
+[:camera_flash:【2023-10-18 15:46:10】](https://mp.weixin.qq.com/s?__biz=MzI4MzcwNTAzOQ==&mid=2247534582&idx=1&sn=730e5f7f47faf0d441a8bd50a4a63242&chksm=eb84ac56dcf325401063008fcef6a43f6212ac53ad8fd1a3ea6984eb81481a7064fef5c1644b&scene=27#wechat_redirect)
 
 新一代网络安全测试工具，由赵武Zwell（Pangolin、FOFA作者）打造，能够针对一个目标企业梳理最全的攻击面信息，同时能进行高效、实战化漏洞扫描，并快速的从一个验证入口点，切换到横向。
 
@@ -328,7 +328,7 @@ Will的小屋
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
 
-[:camera_flash:【2023-10-13 18:00:20】](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649780827&idx=1&sn=8df3c18a03ec383a2d7a264a95817db4&chksm=becce12089bb68365089731eda59441b9ca98a2a0ea8f3caa9d584625437bae67c34655a689b&scene=27#wechat_redirect)
+[:camera_flash:【2023-10-17 18:00:20】](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649780829&idx=1&sn=38966662e832f573f4559bccb9dc70da&chksm=becce12689bb6830284f6e43563b6bf4ccf3c99644e7f407227ea9b5831f6a937d8e0815395e&scene=27#wechat_redirect)
 
 腾讯技术官方号。腾讯技术创新、前沿领域发布解读平台。
 
@@ -341,7 +341,7 @@ Will的小屋
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3Njc0NTgwMg==)
 
-[:camera_flash:【2023-10-13 12:00:52】](https://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&mid=2247496872&idx=1&sn=7647f520422d80760060e18a99163d13&chksm=cf2f318df858b89b7da28bad96e56672859fa867a731040e60bd2751592f6a13ae4f3e85df72&scene=27#wechat_redirect)
+[:camera_flash:【2023-10-17 12:00:08】](https://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&mid=2247496898&idx=1&sn=15908fe151bd4ad0605a304e5235365a&chksm=cf2f31e7f858b8f10c820e5d78ef92d7baefb2fd2cb949639c0af8b81518c20205054a2b55ab&scene=27#wechat_redirect)
 
 提供B站相关技术的介绍和讲解
 
@@ -380,7 +380,7 @@ Pinpoint，专业代码审计团队。感谢您的关注！
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NTcyMDc1Ng==)
 
-[:camera_flash:【2023-08-22 22:42:45】](https://mp.weixin.qq.com/s?__biz=MzU5NTcyMDc1Ng==&mid=2247485566&idx=1&sn=015faca0030022d7f94a4b2658d0be8c&chksm=fe6ce725c91b6e33414c7b71a1b4fced353c5ab2c60f5656c6639aa243a9aad7a0bce3d49c52&scene=27#wechat_redirect)
+[:camera_flash:【2023-10-17 09:15:06】](https://mp.weixin.qq.com/s?__biz=MzU5NTcyMDc1Ng==&mid=2247490767&idx=1&sn=277f678f31b6ea0bdfee065398678e27&chksm=fe6cf394c91b7a82da3445aa6715b314d068cc354aea43cc6646ed9bf5b3c7f9bfa98b42d557&scene=27#wechat_redirect)
 
 逆向案例小笔记
 
@@ -432,7 +432,7 @@ FOFA是由华顺信安科技有限公司开发的一款网络空间资产搜索�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzE2MzY1OA==)
 
-[:camera_flash:【2023-10-11 17:20:39】](https://mp.weixin.qq.com/s?__biz=Mzg4MzE2MzY1OA==&mid=2247494401&idx=1&sn=0bf0ec29323c723bcd7265c908099234&chksm=cf493c64f83eb57243031c411aa21e9c9e265dcda27b2469755d4997d16f3f26fa0b5cc80bba&scene=27#wechat_redirect)
+[:camera_flash:【2023-10-18 20:04:02】](https://mp.weixin.qq.com/s?__biz=Mzg4MzE2MzY1OA==&mid=2247496185&idx=1&sn=4e0da05f49f1a2dc7fc76821fa194166&chksm=cf49269cf83eaf8a0bdee6ecbd00dc889c8f62f251a0ba505599b206c2562b8da9b54754ccbc&scene=27#wechat_redirect)
 
 OPPO 安第斯智能云（AndesBrain）是服务个人、家庭与开发者的泛终端智能云，致力于“让终端更智能”。作为 OPPO 三大核心技术之一，安第斯智能云提供端云协同的数据存储与智能计算服务，是万物互融的“数智大脑”。
 
