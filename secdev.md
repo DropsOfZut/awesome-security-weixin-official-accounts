@@ -68,7 +68,7 @@ OWASP中国，SecZone互联网安全研究中心官方平台
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MjQ1NTA4MA==)
 
-[:camera_flash:【2023-10-14 16:08:14】](https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247490086&idx=1&sn=779a0c676bc3328ef3e6f005ddf0c263&chksm=ea4bb061dd3c3977d3dfb40b260edae0565672b59aa2c08175dbc2a891a1488dc7db295cd30b&scene=27#wechat_redirect)
+[:camera_flash:【2023-10-19 08:01:12】](https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247490098&idx=1&sn=d0fb2955918e0c239027a3a6131de6b6&chksm=ea4bb075dd3c39638ed63d08d6b62b5c488dbd1550aa074392bec90551a91d6500408d3e59eb&scene=27#wechat_redirect)
 
 闲暇时间，逼迫自己，记录分享体验与经历，不求正确统一，但求真、善、美。
 
@@ -81,7 +81,7 @@ OWASP中国，SecZone互联网安全研究中心官方平台
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
 
-[:camera_flash:【2023-10-17 18:01:11】](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247613985&idx=2&sn=88fcab881233a9f2050ac3d5b07970c7&chksm=ec572e7adb20a76c83a3b5c44c767db6703dc3da12b706d2070638f3b0238873bf5beaeeaf44&scene=27#wechat_redirect)
+[:camera_flash:【2023-10-19 20:30:28】](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247614101&idx=3&sn=3bbe0306bd8b8017421a4d8d4ff5de9d&chksm=ec572ecedb20a7d837aacd47c5fce0d96a57366285842bc019d43449a62cacf67ce341e3cf0c&scene=27#wechat_redirect)
 
 商密君是全国密码行业头部公众号，旨在宣传推广《密码法》，普及商用密码知识，解读密码政策，分享商用密码行业的最新动态，为密码产业产学研用做好宣传服务，连接密码全行业精英，推动密码技术在数字经济各行业的应用和创新。
 
@@ -172,7 +172,7 @@ OWASP中国，SecZone互联网安全研究中心官方平台
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
 
-[:camera_flash:【2023-10-18 12:13:41】](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247532376&idx=1&sn=0aabd7d236ea66481b443fe789af5def&chksm=fa6b0629cd1c8f3fd6ab9acf00c4f47eead94a318050d6343483983a6a3532acdc2df67c0f1e&scene=27#wechat_redirect)
+[:camera_flash:【2023-10-19 12:01:13】](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247532392&idx=1&sn=1f884bd2d5ac302cea5035937d418da5&chksm=fa6b0619cd1c8f0f76454c1493601e548039f11ee1107df00ebf6fefbd8890a11c7a1b0e9cca&scene=27#wechat_redirect)
 
 安全教程\\高质量文章\\面试经验分享，尽在#掌控安全EDU#
 
@@ -198,7 +198,7 @@ OWASP中国，SecZone互联网安全研究中心官方平台
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
 
-[:camera_flash:【2023-10-17 17:39:41】](https://mp.weixin.qq.com/s?__biz=MzU0Mzk0NDQyOA==&mid=2247511146&idx=1&sn=b6081e30aac2ac584415a4d33ee3ecd1&chksm=fb0157e9cc76deff945bbfcecd9fd7d1466bcc083eb840e196b743a7689622f71cf5f178aa93&scene=27#wechat_redirect)
+[:camera_flash:【2023-10-19 17:33:15】](https://mp.weixin.qq.com/s?__biz=MzU0Mzk0NDQyOA==&mid=2247511160&idx=2&sn=82c7b303a72d922045473d5cc532157b&chksm=fb0157fbcc76deed7443db1ff82a72eb9257dabc5b5f887b5dae8bf561eeda1b2272b7801ed0&scene=27#wechat_redirect)
 
 深圳市网络与信息安全行业协会（SNISA），是深圳市网络与信息安全行业的权威组织，是中国网络安全审查技术与认证中心（CCRC）在深圳唯一授权工作站，是经深圳市人力资源和社会保障局核准，开展网络空间安全工程技术专业职称评审工作的社会组织。
 

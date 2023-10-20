@@ -55,7 +55,7 @@ OPPO安全应急响应中心(OSRC)官方公众号。
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MjEzOTM3NA==)
 
-[:camera_flash:【2023-10-17 16:32:44】](https://mp.weixin.qq.com/s?__biz=MzU5MjEzOTM3NA==&mid=2247497281&idx=4&sn=20b02d693bddeba3fb9c619a22418ecb&chksm=fe26f340c9517a5695a8f74c314ba06b7d731970738bf75c74f76c14628d2e0b001ec0b58f9c&scene=27#wechat_redirect)
+[:camera_flash:【2023-10-19 17:38:34】](https://mp.weixin.qq.com/s?__biz=MzU5MjEzOTM3NA==&mid=2247497424&idx=2&sn=9b2f025326716db83c05ac08517c7bb9&chksm=fe26f3d1c9517ac7f0741e89cd974edfdded89a0ca73f1e8e4e196b6acc8986eb665fb259e87&scene=27#wechat_redirect)
 
 360CERT是360成立的针对重要网络安全事件进行快速预警、应急响应的安全协调中心
 
@@ -133,7 +133,7 @@ OPPO安全应急响应中心(OSRC)官方公众号。
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDYxOTA1NA==)
 
-[:camera_flash:【2023-10-17 14:58:21】](https://mp.weixin.qq.com/s?__biz=MzUzNDYxOTA1NA==&mid=2247540472&idx=3&sn=22f016087cd0855b8c879bc8c56d8774&chksm=fa93e839cde4612f50d08a845eea8c679db2cf330ba67948eae03b94c84b5f92f4165f3dd202&scene=27#wechat_redirect)
+[:camera_flash:【2023-10-19 16:25:17】](https://mp.weixin.qq.com/s?__biz=MzUzNDYxOTA1NA==&mid=2247540514&idx=3&sn=4da8363306fa46578d08d3a6d02d2d4c&chksm=fa93e9e3cde460f5c6e22252c1c69cde78161f216c5c3218fa86c6db306aa06eb7492f3295e2&scene=27#wechat_redirect)
 
 网络安全应急技术国家工程研究中心是由国家互联网应急中心运营的国家级研究中心。研究中心致力于工控物联网和数据跨境方面的基础理论研究、关键技术研发与实验验证，并为国家关键基础设施的安全建设和运行提供保障，为数据跨境安全提供监测和预警。
 
@@ -159,7 +159,7 @@ OPPO安全应急响应中心(OSRC)官方公众号。
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI4MzI4MDg1NA==)
 
-[:camera_flash:【2023-06-16 10:10:15】](https://mp.weixin.qq.com/s?__biz=MzI4MzI4MDg1NA==&mid=2247484721&idx=1&sn=de48bb85137901dfb383610a9f0b785a&chksm=eb8c5188dcfbd89ea19f7c70cd606235859524d153a1c7c32adbddb328c89084f29e67382167&key=98b23746bc435060599e54078b41561e8e3a5bb445553875537f820ce53e2e37a787c9be2a1317a6ae57eecb3cc24bb7ca3accca8a08357b89aa1222ed589ae43fc376510fe8a93d932775ec48920b8def212a8ac4f99d12f4c7239026646fa341522603121ab14c4a377591c3366f1672b4947515ba2813649e1818a6fb6284&ascene=51&uin=MzgxODQ4MjMz&devicetype=Windows+10+x64&version=63060012&lang=zh_CN&session_us=gh_2a87054fb185&countrycode=GY&exportkey=n_ChQIAhIQSmOP9bkE6uqsSg6xlrIElhLvAQIE97dBBAEAAAAAAEP4GAPXoGIAAAAOpnltbLcz9gKNyK89dVj0CnoOI2AmOtvvW19gUYPE2Zul9vcclZLzy6xBVHtGzUue4gHlYQSqQ%2FgYomFdnqcDdYlrPFP9OQcBux5x8qMOgYp8hdzeVEoNeuKLZIm9jey8qq1KgPaqvVVLojdzqzbRQianKLJE8kDoZZE44Qv9To22aCIi2hscBRrM7zz%2FDWHAAqULZwTDW1QoAfUd5CHWW0SyUjpOzszEA1u%2BNdGC71vEQ9Hl%2B1mTsPFZ7vVYtM9uXjWCF3PGpFMof%2Br5S2OsEhMouaKgF8cO&acctmode=0&pass_ticket=dEzHNsBppiUlIbIGjXP9GEla718s&scene=27#wechat_redirect)
+[:camera_flash:【2023-10-18 19:19:08】](https://mp.weixin.qq.com/s?__biz=MzI4MzI4MDg1NA==&mid=2247484838&idx=1&sn=c221af14fba8ba2b46934556df5ce32b&chksm=eb8c511fdcfbd809ab3fde146cdc32f681be6bbb08e524d0b32049f8f124d04912f754eeb36f&scene=0&xtrack=1&key=d842c29fb9ae087ad705bf94333aa6c6e20a75fef6bc94a6e5cd78926568fcc1ae60e3b0717491b7bf2eb64883d1fac5f8a3c3c48baf453a1d8418a07d2fd523c0e57e44f82883b27b5de1f1a3fcf0651890cfbf3d94406db2b052113394cf65e9baee704dcbde4e9a13887ec94bb2430149c48c0e23f5bf7280b76b43ea59df&ascene=51&uin=NTY2NTA4NjQ%3D&devicetype=Windows+10+x64&version=63060012&lang=zh_CN&session_us=gh_2a87054fb185&countrycode=AL&exportkey=n_ChQIAhIQYBA2I5viN7leVGQKYt8wexLuAQIE97dBBAEAAAAAAFZoEmYAn4AAAAAOpnltbLcz9gKNyK89dVj0E4xq%2BAeZHECjtu7cySg0VEYaXj5U5golAIq9vYEpoEFQyfywvaAKqMvToaFQwMBQpkoe84%2BVztE18nKmN95%2Bd09TMsqzGGpfknzFaY0YLCRGhj4nQEsXJDM0X1n7XbawK0yjKoASM6CLOI1sEDVWGU1JlOuC4ggYekN5A4yG%2BkrZn1w4AEFwzb%2BumywSwEHGubDVKUwzPSXfN2OwjkaiwDSmOc%2BlgUvf4J0hgOq172aANZeD%2FRkwdIvqsLdNl1HmrUo9oQFAOd0%3D&acctmode=0&pass_ticket=VoNGu0RgEGsAnlbgNXGzB5uwQyJufnXU8RikM7y8VyxWyIuTfP06YOCX5Gcz8rqR&wx_header=0&fontgear=2&scene=27#wechat_redirect)
 
 欢迎提交漏洞 https://sec.ly.com
 
@@ -198,7 +198,7 @@ OPPO安全应急响应中心(OSRC)官方公众号。
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3ODM2NTg2Mg==)
 
-[:camera_flash:【2023-10-16 17:52:39】](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247493968&idx=2&sn=6c5ad915f851d4bc27883eb7da15c69d&chksm=fd74d999ca03508f46ecd37d986e74c7c717dc2ba4f56fa17b28b070d151905ff43b79637df4&scene=27#wechat_redirect)
+[:camera_flash:【2023-10-19 15:00:45】](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247493972&idx=1&sn=db55a3b8c4e63da18df4942d321d23a4&chksm=fd74d99dca03508bc4246fd5fc5406eb6eb6c38067aeea80ecfa28fa73504a1228bb58e30ebc&scene=27#wechat_redirect)
 
 国家信息安全漏洞共享平台（China National Vulnerability Database）是由国家计算机网络应急技术处理协调中心联合重要信息系统单位、基础电信运营商、网络安全厂商、软件厂商和互联网企业建立的国家网络安全漏洞库。
 
@@ -211,7 +211,7 @@ OPPO安全应急响应中心(OSRC)官方公众号。
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMjcyNzA5Mw==)
 
-[:camera_flash:【2023-10-11 11:14:19】](https://mp.weixin.qq.com/s?__biz=MzIwMjcyNzA5Mw==&mid=2247492710&idx=1&sn=3e77227fef21759560a062221b89de35&chksm=96d8efbca1af66aa81f60e924af6c3de57a2348947dbb526cae373e6a0f18fbd174238723b8b&scene=0&xtrack=1&key=98b23746bc435060de72723485850eb144c40f3be257be730da2542d87e93fccd6f898b0b0e747dceeb0ae367847d80d9a5d69590e71a69906829bca4c0249ecc305011981181e918222534d246835fd865f5c42cc6a7198a4dc4b6bdde0c0703a45c651169861531ee5d6fd0d13dd3a0d5b434f5dada7bc5d22f26b31c2afd6&ascene=51&uin=MzgxODQ4MjMz&devicetype=Windows+10+x64&version=63060012&lang=zh_CN&session_us=gh_f58af6ae958a&countrycode=GY&exportkey=n_ChQIAhIQYseJZbplNj3uq2113SL6DxLvAQIE97dBBAEAAAAAAKDFA%2BehhBsAAAAOpnltbLcz9gKNyK89dVj0gprEfwL5aOD%2FrNvfQt8ORQ3TxIKAsayPaaBtDDiHRINJblIotwCz1JDsrCip4MWnr2jFzCwn8pFtwKMNqxVGEyxDXvPevYR7Fgda8YU0w1eL%2B%2FMWyn9YFLoVZ%2Bc5%2FG42xv4yXRiLI00gbNdIjmyWHePT6PmrYnDdMYzE1PEVj44A%2B8oLiHsmbcuQqFfO7O0o36lzVKmCb%2FOW5R3g7vbvXS7Q%2Fv5STkwTWr4jRiW33L4np7%2B4YPMsbW%2FRAh509%2F34nlTPJFzltNBN&acctmode=0&pass_ticket=ZVDwOaQMaZIvjV5fhHqD35Cg70H0sDUyX%2BVQvRiBZicbb3O7bYY80zD%2FB3ywI1Pu&wx_header=0&fontgear=2&scene=27#wechat_redirect)
+[:camera_flash:【2023-10-18 18:50:34】](https://mp.weixin.qq.com/s?__biz=MzIwMjcyNzA5Mw==&mid=2247493548&idx=1&sn=23999100bebb95cda947d466c259a05a&chksm=96d8ec76a1af6560f6fc5d7d6ecb8c5749e14da66122d355febdbfdf7872a74bbb88d4921771&scene=0&xtrack=1&key=21e4cf806f644e48b3ac5df0f9f815edcaaa54d6bbc67449d97500874227952262a3f28dc894137dc928bb3540d5856b985aeefb33c061df4a3ed355eb0e2402f7cd81d02e1f8e87571cc7fc11c32c8fbe19a3d81c09eb806f984f974285ffb7a44451a118222128cb794c5b61c9359aa8077b36d10e53c2ffccf49a144b9928&ascene=51&uin=NTY2NTA4NjQ%3D&devicetype=Windows+10+x64&version=63060012&lang=zh_CN&session_us=gh_f58af6ae958a&countrycode=AL&exportkey=n_ChQIAhIQFSSER02tCXSeyBcXRNJ%2F8BLuAQIE97dBBAEAAAAAAJ2OK5yVCAQAAAAOpnltbLcz9gKNyK89dVj05O9iiQKorxVTgUNrT3k0b8quS8JYeNX0PU3%2FSFkwWilGVWkwSYee6p9aPUxIHTZCiNrvKPYcwTpFFChmhDFdNTYQgmewljt0u56ZoB9tPnX3mQQe4oZMWteOJdcd%2F76oCo%2BLMIf62c56Da0M%2Bw%2BPU0X7lUzB%2BkKc3xAH21crcy7jXehh9%2BLBDSFZkG5uePl6vDmGtXu5umzey3UJr34M6dE9IoNk9duceRx2rr7KlQBTzPPleOU6p1is%2FnF4rg9EzedEXXZaY1k%3D&acctmode=0&pass_ticket=1%2BxIeyJGn0BqCRJC%2FDiPKlduDmabJ1jxPi874KTG3ffU8ANh8m%2BjUMhx5qJxijih&wx_header=0&fontgear=2&scene=27#wechat_redirect)
 
 斗象智能安全是斗象科技旗下产品品牌。打造以数据分析为基石，攻防实战引领的新一代智能安全产品解决方案。
 
@@ -263,7 +263,7 @@ VIPKID安全响应中心官方账号
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyMzAwMDEyNg==)
 
-[:camera_flash:【2023-10-17 14:58:06】](https://mp.weixin.qq.com/s?__biz=MzkyMzAwMDEyNg==&mid=2247540160&idx=3&sn=0d8146e08c422c12cdad8b0fe49d25db&chksm=c1e9d191f69e5887636b91863e2cfcc1e98fead8369b84aff631811c3f47f14b120ac7cb33fc&scene=27#wechat_redirect)
+[:camera_flash:【2023-10-19 16:25:25】](https://mp.weixin.qq.com/s?__biz=MzkyMzAwMDEyNg==&mid=2247540192&idx=3&sn=707bef6a1173e4026a00708ebe45e278&chksm=c1e9d1b1f69e58a7e5514c3c4ae8680408fb07c4b2cb0a7f73dc341d09616875a14b4c2ead02&scene=27#wechat_redirect)
 
 国家互联网应急中心下属机构，专门致力于国家关键信息基础设施的网络安全应急保障工作，开展相关领域的关键技术研究、安全事件通报与应急响应。
 
@@ -315,7 +315,7 @@ VIPKID安全响应中心官方账号
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5OTYwMTY5MA==)
 
-[:camera_flash:【2023-09-28 16:27:22】](https://mp.weixin.qq.com/s?__biz=Mzg5OTYwMTY5MA==&mid=2247504206&idx=1&sn=95bdae5c74184bc2dbbdc5d77830e2b4&chksm=c052553bf725dc2da284669d6880370ff30e57536e9bf652d69e20466d9a5ece37b5b04524b9&scene=27#wechat_redirect)
+[:camera_flash:【2023-10-19 11:22:06】](https://mp.weixin.qq.com/s?__biz=Mzg5OTYwMTY5MA==&mid=2247504211&idx=1&sn=33316856097694e4b5bfa19362f3b340&chksm=c0525526f725dc305448f8f74f6e8ada84deb2edb2b1a79ca8c5b2a3a2add8ecdacb6efa6a7c&scene=27#wechat_redirect)
 
 奇安信集团安全应急响应中心（QAXSRC）官方公众号
 
@@ -341,7 +341,7 @@ VIPKID安全响应中心官方账号
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4MzgwODc3Ng==)
 
-[:camera_flash:【2023-09-15 10:45:44】](https://mp.weixin.qq.com/s?__biz=MzU4MzgwODc3Ng==&mid=2247494876&idx=1&sn=e71f287533d41701d63379025d6991a0&chksm=fda1cebbcad647ad9ccd27246d7d430d0a6c753c1e8dd5ab18f962432e6d9da688dd0359baeb&scene=0&xtrack=1&key=4a31cc73eef27e0c6010422095648bde63d65cf47b135304798dfb5da03614eccb785ae9e52d61adc26672b2b76ed276c0e024fbb8b6fce5818b4fd5d8aa39af04fa0b21e6e20369a74ce27ee6b3462bb0fbd739d9a89aa877bc5010fe09947e1c38eec8da7d7dabff0e480614cff1c88419151bdd7b1d36ce417004e74aa546&ascene=51&uin=NTY2NTA4NjQ%3D&devicetype=Windows+10+x64&version=63060012&lang=zh_CN&session_us=gh_2f60c48366cb&countrycode=AL&exportkey=n_ChQIAhIQxdkKQPJsK445NdajV%2FsdARLuAQIE97dBBAEAAAAAAFEwCaVmkK4AAAAOpnltbLcz9gKNyK89dVj01QbbrA7sy4eGjSIWi4b09Tb5ImOAILldbF08fKlSz5B%2BPO8c1FwQ0n%2BUbCGSzQDaK8vHWB%2FaEd%2B7f9baUoW8FEYxqsgPazOFHfBIhGypt%2FAl%2BtNO4f0ZezXu9%2FK6W%2BP8SB3LgphPM66M1m%2BgywXzyc1Hgw5dXEmbnv%2Bs6kN%2BURZYnFINqN4kkHAC4sc%2B7b73OFRBDo03b%2Bc167Ymd1k8lMwbDmUR5AhsvgJI13KAkinhPnu40y3uF0YHstjmGSAywkw93fDD2y8%3D&acctmode=0&pass_ticket=2bK5BdodSmd4bJBbVydlvoF3D73f7X7aiGfVMgd9LgrWiB7FsWA012WfDM1mo%2F%2B3&wx_header=0&fontgear=2&scene=27#wechat_redirect)
+[:camera_flash:【2023-10-18 18:42:21】](https://mp.weixin.qq.com/s?__biz=MzU4MzgwODc3Ng==&mid=2247494968&idx=1&sn=df5824184083dc0058263e2499fce9af&chksm=fda1cf5fcad6464936bdb5bc298f567743fc3b2a36dd8167c6b2931675b17a2f646fdf8da6f8&scene=0&xtrack=1&key=47ecebb9f9a1a9abc93daa8986937e727af1e47e9644a5e4edbbb1b9097de5099602f9ce3e32e386ecf8aed9c759aacf6518c944a455dccfa771eb1631523aedfe19554916117eed9307ae4b3c3298aeb2b994316ab3dfcb17b32e8e98466b6eb100fe92f62e3ee8ec85f3ff756dbbc919edd95a50a7fb53a4fcbd62a3ab7b80&ascene=51&uin=NTY2NTA4NjQ%3D&devicetype=Windows+10+x64&version=63060012&lang=zh_CN&session_us=gh_2f60c48366cb&countrycode=AL&exportkey=n_ChQIAhIQ4XzPZHQ%2BVy4bhWXq98DVFhLuAQIE97dBBAEAAAAAAJdLIdiXux0AAAAOpnltbLcz9gKNyK89dVj0Q2U0zuXmcElf%2B2jFyDZaCLSe%2B7Ozt5zekWaavuBpg0SKvmckKVZ0Z9StrfiTLl%2BhZ6XNzLDR3jvTzcGcauM9KRCquT8kvEhAduF%2F313QtJs%2FzE2kgNedEELusTFw3V3ApUbfpTc1jlKbq4mwlWR2miCis82bAB0k7K9rqtRARd6SA9EU%2BmeFp4CwnDa2aqwcyhKACCy0dg7ST6w9hN2YjrhOl32RMPNAoYP7bRdTHnBlOsmizSiNFROh0bLUTySHSpITd4Jfg1U%3D&acctmode=0&pass_ticket=3Kstdjcz4KrPfho1p%2B31%2Bp6Vkvi1EpgqqYcFhporrreaJBalx5s%2B7SK72hA17NQ%2F&wx_header=0&fontgear=2&scene=27#wechat_redirect)
 
 补天漏洞响应平台旨在建立企业与白帽子之间的桥梁，帮助企业建立SRC（安全应急响应中心），让企业安全，让白帽子获益，
 
@@ -406,7 +406,7 @@ VIPKID安全响应中心官方账号
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NDgxODU1MQ==)
 
-[:camera_flash:【2023-10-18 06:30:53】](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247499833&idx=1&sn=b626e1d43c63898bece7b69780167e3d&chksm=fe79e4a1c90e6db734fc968efd0783cf3a8fc011fcc021a0fc93b3a65a40cb2dc1ca53673a5d&scene=27#wechat_redirect)
+[:camera_flash:【2023-10-19 13:35:34】](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247499851&idx=3&sn=a2bd3ef1a2d8afdbe3bf82bc5d64c9b6&chksm=fe79e4d3c90e6dc5dc774b16a02d9456b1506671e786dd6d8fab9c679395280b672265fbcbcb&scene=27#wechat_redirect)
 
 为企业级用户提供高危漏洞、重大安全事件安全风险通告和相关产品解决方案。
 
@@ -1264,7 +1264,7 @@ vivo安全应急响应中心（vivoSRC）官方
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMDE5NDg1MA==)
 
-[:camera_flash:【2023-09-26 16:26:38】](https://mp.weixin.qq.com/s?__biz=MzIwMDE5NDg1MA==&mid=2247493538&idx=1&sn=e4c92f5a73d874b47a7648f6c2605c9a&chksm=968249efa1f5c0f9a52310c963eb3791442178b8172d2fefac169636489f1488895b03cc7848&scene=0&xtrack=1&key=7cd14728e6fa64a2002fe1db9bacea9ad3bc4c0b1145f1497a2dbb08c390fd622a43b5cffb453908d8dabcdbf360241f1b2dcf9584210aa389f3b22452e2a214c8cd8bc2522d4307fb1ccb3fbb02f6490fce26c6fa5b1206958122b843c8cb6a248d881f223e63fbe4f958c19d66cd6eba4024f460eb00b93fd917d71932f90a&ascene=51&uin=MTI5ODM0MTMwNQ%3D%3D&devicetype=Windows+10+x64&version=63060012&lang=zh_CN&session_us=gh_7063e81bcfd9&exportkey=n_ChQIAhIQo2bo53gB8atgW0ENXGQpMxLvAQIE97dBBAEAAAAAAD9YKE2K0sgAAAAOpnltbLcz9gKNyK89dVj0K6RWGFraWbs29vyOueg1EBO91IW2L%2BsLYQ0PFqF%2BBKyK3bBYw3ftDQfksPSuQ41vaNfB4voz1cR5w4GI%2B7ADhwa8gcWmNbRUR465s62m1htsuimCQdtGEnfWUmZkTbnjBmqnucERHsrV16x0AO6tatZ%2F8w1FvSybSynyzT7l3ryBNbSUMy08cIMrt8YX1qmk0Pjg5CmOVyauZXrbl8oSd9IVsfo26Y2hR6WLB5BvjDCUfzegJKrqHTzyHSC7nt0W15T%2FtgzLN%2Bnn&acctmode=0&pass_ticket=CNjddC4%2FmPoPwprmxGUO3qu%2BS%2Bj89E%2B1hsZeq%2BPDif5y9esZUMyaWbhHeHajFrWy&wx_header=0&fontgear=2&scene=27#wechat_redirect)
+[:camera_flash:【2023-10-18 15:07:57】](https://mp.weixin.qq.com/s?__biz=MzIwMDE5NDg1MA==&mid=2247493545&idx=1&sn=0653a22d431c2e99e4bd8adef712d901&chksm=968249e4a1f5c0f2ca424d7fffcb258488bedc45a0b49f34be9e92f4643a52ebbf719498a5dd&scene=0&xtrack=1&key=47ecebb9f9a1a9abb6d9df6bde4410a9e9779229fd12e8faed9c9a5b1b288e55a15098c6d7d81cf0daac05bbf090e18e11f76a9ece73fc6e7d4ef24b387b29b9d970b93a157d3feb2c99e1285619e071cb2ec60778ea708d7ac862d5fc90199777ec7b716d099cd7394e20be08fad63cd64ea8e7cf387a25a13d8bbd7afc1201&ascene=51&uin=NTY2NTA4NjQ%3D&devicetype=Windows+10+x64&version=63060012&lang=zh_CN&session_us=gh_7063e81bcfd9&countrycode=AL&exportkey=n_ChQIAhIQYdpNs%2FzR2ypX7v88H28XIRLuAQIE97dBBAEAAAAAALvpJ3PpsRgAAAAOpnltbLcz9gKNyK89dVj0m6lTfiLYobeWTznBoa3MipY1swRJmNsOttww3UYsDck%2Br%2BeCaqUZs9rUGqsfh1QvURWkjOTvfSJs%2FGqTNwAOea4DOBTDy0ovGhkWjCvrv%2BDS02%2BsncJs2wsI29W7v6msE0FhuzZumlBRC3waMIKEteci%2FtwuDfoK9G5iecEe0ESCaZNFDmKvyy5%2FF5mUSFHEqG9dsSMd0lCN17%2Bmf%2F%2FmlnrZAn1rOLczarPQDL0UoE8KkBBYuQFfuZE%2FE0o3cQxLxuvUPjw%2BVLc%3D&acctmode=0&pass_ticket=fqURpvSf2E%2Bhy2OF3do606cYD%2B3sGhAntLA8Mm7hVFsHiUGC61L4vtNshKzF0jn5&wx_header=0&fontgear=2&scene=27#wechat_redirect)
 
 科大讯飞信息安全团队负责公司整体安全工作。期待与您共同守护亿万用户的信息安全，一同建设更加安全的美好世界！
 
