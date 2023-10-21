@@ -68,7 +68,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MzE3NzczNQ==)
 
-[:camera_flash:【2023-09-15 13:14:08】](https://mp.weixin.qq.com/s?__biz=MzI2MzE3NzczNQ==&mid=2650622920&idx=1&sn=4589f04e85e49b5b58c3e1c605b507e3&chksm=f2b638a0c5c1b1b63ad7122e6935968064fa37d712010ffed0472b3cbaa3e02c5e054b678557&scene=27#wechat_redirect)
+[:camera_flash:【2023-10-20 12:50:47】](https://mp.weixin.qq.com/s?__biz=MzI2MzE3NzczNQ==&mid=2650622939&idx=1&sn=ae813bc956a5451716fbcf18e5301420&chksm=f2b638b3c5c1b1a5ec9035267bc951bb63de6505defbb6515cea789d5be63ead0ce39d85a7ae&scene=27#wechat_redirect)
 
 最近公众号主要以视频为主，每周发布一个新的视频！内容主要围绕工业控制系统网络内容，主要涉及工控设备、协议解析及检测评估等方向。
 
@@ -94,7 +94,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyNzU0NjIyMg==)
 
-[:camera_flash:【2023-10-13 09:56:17】](https://mp.weixin.qq.com/s?__biz=MzIyNzU0NjIyMg==&mid=2247487978&idx=1&sn=404fd63f4d1afcc4972d3841a38a567f&chksm=e85ed4ebdf295dfdcded2cdfaf5bc187d2b633bbf42529ed769d719ed875345113f9efb74d5c&scene=27#wechat_redirect)
+[:camera_flash:【2023-10-20 09:41:16】](https://mp.weixin.qq.com/s?__biz=MzIyNzU0NjIyMg==&mid=2247488002&idx=1&sn=0ec85dfe7863bd8aea8f2141231ea74f&chksm=e85ed703df295e15c35ef2879e99438c45c0e04179236c49be85111d11f5c3c0bd3c02721edd&scene=27#wechat_redirect)
 
 我们专注于电子取证技术的分享及司法鉴定实践的交流，涵盖了计算机取证、手机取证、电子物证、司法鉴定等众多领域，是电子取证公司与电子取证从业者交流学习的首选平台。
 
@@ -185,7 +185,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
 
-[:camera_flash:【2023-10-19 20:50:22】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247594857&idx=2&sn=9989932dbedb8e093feb9162a52e15f9&chksm=fc0323a3cb74aab5fb78484715c4d520767eeb4f8e953b2ce7935d1fc789a13872ad0ed7d9b2&scene=27#wechat_redirect)
+[:camera_flash:【2023-10-20 14:12:51】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247594913&idx=3&sn=6092b21bca830a05a09ad49367f66da6&chksm=fc03236bcb74aa7d8765764fef73288a6723353b35ff2cf291fbcc4edf690ac3c5c4dd057897&scene=27#wechat_redirect)
 
 为智能网联汽车行业专业人士提供信息和网络安全技术、产品及服务等行业发展最新咨询
 
@@ -289,7 +289,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTU3NTY0Nw==)
 
-[:camera_flash:【2023-10-19 08:00:07】](https://mp.weixin.qq.com/s?__biz=Mzg3NTU3NTY0Nw==&mid=2247488076&idx=1&sn=f4135f7a12296d057c5e9cdba6612a9a&chksm=cf3e327cf849bb6a0e6d0136a2faae15989493478078238239cf3f82e6404002c5a8fa133e58&scene=27#wechat_redirect)
+[:camera_flash:【2023-10-20 08:00:12】](https://mp.weixin.qq.com/s?__biz=Mzg3NTU3NTY0Nw==&mid=2247488080&idx=1&sn=e675cc4900809de758f4cea0a1929923&chksm=cf3e3260f849bb765cea74a5c7653b1e17292df6d6dc0e3f9010a5d5862fa8be27d803b3bbea&scene=27#wechat_redirect)
 
 旨于开展网络安全相关法律法规研究与电子数据取证技术研究，分享小知识、小技巧，共同学习提高，推进技术规范化建设。
 
