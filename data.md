@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1NzYwNTMzNw==)
 
-[:camera_flash:【2023-10-20 07:50:44】](https://mp.weixin.qq.com/s?__biz=MzI1NzYwNTMzNw==&mid=2247518259&idx=1&sn=7654f464e17477752e70ac6208551c34&chksm=ea162385dd61aa9329f67772c93fcce7f7486b9b62ca63caf800704ed2d7b45d3ec747c82d28&scene=27#wechat_redirect)
+[:camera_flash:【2023-10-21 07:30:45】](https://mp.weixin.qq.com/s?__biz=MzI1NzYwNTMzNw==&mid=2247518260&idx=1&sn=bfc49c373a3f9ba0ed70aef0e91b1f1f&chksm=ea162382dd61aa9401d9960788770d70a8cc816c1fb4dfd3057e53fa24edeb57f4399a36fb3c&scene=27#wechat_redirect)
 
 聚焦数据治理，数字化转型，数据中台等领域专业知识总结和实战分享，做你身边最有价值的数据号！
 
@@ -29,7 +29,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzg5MTI0OQ==)
 
-[:camera_flash:【2023-10-19 21:00:34】](https://mp.weixin.qq.com/s?__biz=MzIwMzg5MTI0OQ==&mid=2247530658&idx=1&sn=018fbcb9ab7b1e74eb18f0c68969303f&chksm=96ca4ffca1bdc6ea30c61ae0bae32a3e02f3f65260891fc5019e799e61b400ba4c8f95083ff5&scene=27#wechat_redirect)
+[:camera_flash:【2023-10-20 11:45:25】](https://mp.weixin.qq.com/s?__biz=MzIwMzg5MTI0OQ==&mid=2247530661&idx=1&sn=2b02d563e24ca0a6e1637ba59842eb93&chksm=96ca4ffba1bdc6ed48fe1c5e6177481bc429d91c8bd4f1bd01e10324abf65b6da7c451a7a507&scene=27#wechat_redirect)
 
 专注于企业数据化应用、大数据BI技术和理论观点的研究，致力于让数据成为企业真正的生产力！帆软数据应用研究院旗下账号。
 
@@ -211,7 +211,7 @@ www.pcachina.com
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5MTk0MzIzMQ==)
 
-[:camera_flash:【2023-10-19 14:42:02】](https://mp.weixin.qq.com/s?__biz=MjM5MTk0MzIzMQ==&mid=2652017746&idx=2&sn=a8c3e5bfa1cea9cabf9ba6b276dda208&chksm=bd4beb028a3c6214e86017653600274689143fd65ad624443e73e907eb60cd3159441773858e&scene=27#wechat_redirect)
+[:camera_flash:【2023-10-20 16:22:56】](https://mp.weixin.qq.com/s?__biz=MjM5MTk0MzIzMQ==&mid=2652017761&idx=1&sn=7d1ed7f091caeda55916eb00675f90e0&chksm=bd4beb318a3c6227a741bbc65d848fea5cf420556ad9e1f5e6697a7011a2e15e0d885cda6f8d&scene=27#wechat_redirect)
 
 可信赖的数据安全产品与服务提供商
 

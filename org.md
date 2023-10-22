@@ -224,7 +224,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyMzczNzUyNQ==)
 
-[:camera_flash:【2023-10-19 13:56:10】](https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247518732&idx=3&sn=bf30dbd4c7dbf4b5182ec998ce886d9c&chksm=fa3acad6cd4d43c002ff3e64872205cd590d37d3858b50f01b10ddd083a8b6fd590fdf59a88c&scene=27#wechat_redirect)
+[:camera_flash:【2023-10-21 14:23:22】](https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247518788&idx=3&sn=fdf99dc90cf2511153d3c2b15ed432f3&chksm=fa3aca9ecd4d43889e14a9e272d05d1189f274f6e1d759e90964a7c19931ab7ed6ca28dff2dd&scene=27#wechat_redirect)
 
 邑安全//江门邑安科技有限公司运营的订阅号。第一时间了解全球安全资讯、研讨最新信息安全技术和提供本地信息安全沙龙！
 
