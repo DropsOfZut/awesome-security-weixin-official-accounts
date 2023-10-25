@@ -2,7 +2,7 @@
 # awesome-security-weixin-official-accounts
 网络安全类公众号推荐，点击分类详情可快速查看微信公众号二维码
 
-本项目共分为17大类，收集公众号1321个。
+本项目共分为18大类，收集公众号1321个。
 收集优质文章在[微信聚合平台](http://wechat.doonsec.com)展示。
 
 :chart_with_upwards_trend:【1/2/30】=【原创数量/发文数量/统计周期最近n天】
@@ -10,6 +10,7 @@
 :camera_flash:【2015.01.01 00:00:00】(http://wechat.doonsec.com) = 最近一次发文时间与文章
 
 - [目录分类]()
+	- [政策法规类](#政策法规类)
 	- [数据安全类](#数据安全类)
 	- [威胁情报类](#威胁情报类)
 	- [媒体社区类](#媒体社区类)
@@ -27,6 +28,13 @@
 	- [硬件安全类](#硬件安全类)
 	- [等级保护类](#等级保护类)
 	- [其他](#其他)
+
+
+---
+
+## [政策法规类](/policy.md)
+
+*法律法规、政策文件、相关要求、行业趋势*
 
 
 ---
@@ -173,7 +181,7 @@
 
 ## [安全建设类](/secdev.md)
 
-*企业建设、法律法规、安全解读与见解、风险控制*
+*企业建设、安全解读与见解、风险控制*
 * [OWASP](/secdev.md#OWASP) : OWASP中国，SecZone互联网安全研究中心官方平台  [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTk5NDMyMw==)
 * [安全乐观主义](/secdev.md#安全乐观主义) : 实践分享企业在建设安全开发生命周期各阶段及流程中的优秀实践，内容涉及代码审计、业界对标、系统工程化心得、国外资料分享，搭建应用安全交流平台。  [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5Mzg3NTUwNQ==)
 * [甲方安全建设](/secdev.md#甲方安全建设) : 甲方安全建设的点滴，共同学习，一起进步。 笔耕不辍也是对自我的督促。  [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0MDcyMTMxOQ==)
@@ -1260,7 +1268,7 @@
 
 ## [硬件安全类](/hardware.md)
 
-*路由器、工控、物联网、摄像头、无线电*
+*车联网、工控、物联网、路由器、摄像头、无线电*
 * [全频带阻塞干扰](/hardware.md#全频带阻塞干扰) : 坚持以非正常体位探寻未知信号。 国内商业安全、TSCM技术反窃密、隐私保护及物理安全领域前行者。持久关注通信安全、海外威胁情报、犯罪防御与群氓效应。  [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzMzE2OTQyNA==)
 * [物联网IoT安全](/hardware.md#物联网IoT安全) : 我们是一个专注于物联网IOT安全 固件逆向 近源攻击 硬件破解的公众号，与我们一起学习进步。  [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzMjcxMzg5Mg==)
 * [Gh0xE9](/hardware.md#Gh0xE9) : 做勾八安全，卷的要死  [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNTc5MTMyNg==)
