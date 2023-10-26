@@ -42,7 +42,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
 
-[:camera_flash:【2023-10-23 22:42:28】](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247489911&idx=1&sn=1d98c06262fb7cc74093898c768e259c&chksm=fe2ee6fcc9596fea63ef21e94ca97814d6725ac14f1fa5076bc4bba2641ae5a33179b5605b9f&scene=27#wechat_redirect)
+[:camera_flash:【2023-10-26 00:02:14】](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247489934&idx=1&sn=232b6e817648cea1b40011f8f2677362&chksm=fe2ee605c9596f134d5570745cfd818a946fe18b19c057e7e7dfc2ee9b4da8b0c3215535382a&scene=27#wechat_redirect)
 
 分享安全方面的论文写作、会议发表、基金申请方面的资料。
 
@@ -94,7 +94,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ5MTI5OA==)
 
-[:camera_flash:【2023-10-12 19:59:12】](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651775367&idx=1&sn=e08c7c4ded4f490803e50e14fb176d14&chksm=bd1238ca8a65b1dc01a03b70ae456f13ff9abbb79dad8c35fbe73afc2cbe730dae079760efe3&scene=0&xtrack=1&key=b6e74e278693a9f3f2c5d488c55d3f00b55c0e0fb218d42092b5eba5ad12709b7cfbfb03fa14215f53dfd86740706b5d5808fbd626688c3ed6f8330af5cd583b7dc94497e9b5079f0972583a74d5e9374879773ad5393cc4944ba9662ca7593e9eb1def58d8b8f087122794f841190143847f779f37593df6100645bcc026f5a&ascene=51&uin=MzgxODQ4MjMz&devicetype=Windows+10+x64&version=63060012&lang=zh_CN&session_us=gh_96d37a04e9bf&countrycode=GY&exportkey=n_ChQIAhIQK7looWXSUMcLiJHwf2io%2BhLvAQIE97dBBAEAAAAAAO7AGGI7yk0AAAAOpnltbLcz9gKNyK89dVj0Y1UCWYZYUy5LpvDg2IcJQPlseWb3DlCZXZmCwnwosImV1c28XupvTApmeJZqjFo1DLsNLeyJ6MWNrdl2fveWb0FXGx0EjJ%2Bp2nVj3DI0MXqmbEHz%2FxfUTHVxdchd9UYSBpWcKqmNjUlGJ1%2BtNUb5wbSpbeJigrC9WnGrCDQ4TQLCBUj4y3yEsgGBvCqtZyfZO3GdRYJFONZ4t%2FYSGYKK23F8fay3depk4bqLYR8KFIPF7rS3i%2BaJdg18t3Tq5Pvqvnn59xrcyz2k&acctmode=0&pass_ticket=6R4ChduXADiyWJgOnpUCf1iMQN%2FVJ1yATQgM8C4hHY3%2FDR5VH78eyM9wk7Zi%2B4FG&wx_header=0&fontgear=2&scene=27#wechat_redirect)
+[:camera_flash:【2023-10-24 19:58:26】](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651775523&idx=1&sn=a716759a3768b6afd7d83af5a3f0b76b&chksm=bd123b6e8a65b278e92ce7112f3553fe170a8710b46d8954472389a969f4ea933b530079ebdd&scene=0&xtrack=1&key=2a83edf5b0c74434288e8625d8b033c7eb9279f35f56e242d7cab4a3be4f7db19792f477d46598091dd174f3214f7cf8a36dfcf52d3a2618797c40e229328d55f93bbbd1a6b3abf7c6051e870718e765d79a3aa224082abae9d1768ccba793aaed49f33b9b984abc2d276561ceab2c78f8ddd2fb9d94bc87a16a93325bbd8cda&ascene=51&uin=MzgxODQ4MjMz&devicetype=Windows+10+x64&version=63060012&lang=zh_CN&session_us=gh_96d37a04e9bf&countrycode=GY&exportkey=n_ChQIAhIQPqTMRXz2tu4sfXM17zU0CRLvAQIE97dBBAEAAAAAALVMNnSRdc0AAAAOpnltbLcz9gKNyK89dVj0RDf6IaHkXs%2BAmDof8DlNh59n17iI20qEd8vEIutDaRbyxKByeNqez4C%2FMdH4sJWPuMIDGqRZEBYuRG3oKXt%2BM1AtrEIniKN%2FkCjMzdEF31qlopGw9W%2FH3KIlFLZkxsRbQYcpV1k4eZ%2Bu%2B2ZzsSZY3YZT0bIrTkOcxOrS8q2n5Ezph3DT0Ejl3J5aVY9zj1eJBCvhR9arGIRBwcFh9dEQNQP7FO1Zs0ZNwJTyOQN55p9Utz%2Fau7b8PuBFm7wtcD0Mkn1TpHeT3os5&acctmode=0&pass_ticket=L4ALED24NVjzn8T2mYtGybobrBQI6IJ76e0%2FBav8RJky%2B4vfKayI4SOipC0AJZ9f&wx_header=0&fontgear=2&scene=27#wechat_redirect)
 
 10000+工程师，如何支撑中国领先的生活服务电子商务平台？数亿消费者、数百万商户、2000多个行业背后是哪些技术在支撑？这里是美团、大众点评、美团外卖、美团优选等技术团队对外交流的窗口。
 
@@ -107,7 +107,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0MjczMjM2NA==)
 
-[:camera_flash:【2023-10-20 12:00:58】](https://mp.weixin.qq.com/s?__biz=MzI0MjczMjM2NA==&mid=2247497618&idx=1&sn=866141028f0af9fef9e6767e83098472&chksm=e9756bb1de02e2a7982dfb3bca0ccf3ecb190be08e068f592857902122ff1cdddaab8e3e506a&scene=0&xtrack=1&key=21e4cf806f644e48fc4389023ac33f756a6fdc272d72d858007c623769ef6d4fb8d842c54b2d4147bd80cd47a98984d22f46c96c3886d308618fdd071e342ed6f28b6913958e74ecb21af686e8483c61ad0211db202eaecc2968018ad1dbbf47aec4b4e26d1b79a217f36fe6919fb74f8e25c582b140b57a3cb4c4531bf5b4d8&ascene=51&uin=NTY2NTA4NjQ%3D&devicetype=Windows+10+x64&version=63060012&lang=zh_CN&session_us=gh_aa1476c2ce41&countrycode=AL&exportkey=n_ChQIAhIQbeAkms2TeSG3Wbnms4IL1RLuAQIE97dBBAEAAAAAADkDD7U8m2AAAAAOpnltbLcz9gKNyK89dVj0Iio4M0HwKb9GZjVKEC1skqHW6VY%2Bke7UYQ8ojCjl6v4%2BtppnX2k8Ojt7P2QSCM5z3T1lDp887h%2B%2F3rgxrlIyjK4pUYnJ0juoyhfA7eLxRDI7X%2FJ5MI6DJBvo539yP%2BihHlZY3wQ7p8YN9qfuNmvi9%2B5TMCFnWbaK4XAdN99ufgAwMrOTL1rLtd%2BjQmrNRc4tK6iGHBhEScrMSxL7NJSfHjrjS61jq1%2Fq8lZtTYABil8TSQeRtP8cu3Nqt2eN3JBYpl0R9flVWBs%3D&acctmode=0&pass_ticket=h9vsWL9Qif9OCQgCTSzyGQaDP42x0lj8q5jpnovQ8lpnwMGXJeJCSWPdecVtZ6lO&wx_header=0&fontgear=2&scene=27#wechat_redirect)
+[:camera_flash:【2023-10-24 18:37:02】](https://mp.weixin.qq.com/s?__biz=MzI0MjczMjM2NA==&mid=2247497625&idx=1&sn=8d0a211519922776e18bd9ab756ab35e&chksm=e9756bbade02e2ac17e3cc8450ff02122c44aa29282ed68fba7742feec3491769f252daa082e&scene=0&xtrack=1&key=b6e74e278693a9f3069d9c01c6ef27ef6c506f77d360489ba02f361ea3db7738c5e291f59519c376975142345d48e20e93fd0e90706f6417a25826bd628d5e7f550c08df30f83688a835eefdd96239a17ac5386e918226819728b93fdbcc4736c23d6c962c76d2b616e694bdd8113cbe13be6e6c51f55fe9ef8c0249f8c106c1&ascene=51&uin=MzgxODQ4MjMz&devicetype=Windows+10+x64&version=63060012&lang=zh_CN&session_us=gh_aa1476c2ce41&countrycode=GY&exportkey=n_ChQIAhIQS%2F6O9xzLPnfd6ASiSKB%2FhRLvAQIE97dBBAEAAAAAABqoAIB2Aw8AAAAOpnltbLcz9gKNyK89dVj0Er5SCd4Op6Npn%2FhqaSOV%2FOb%2B%2F4SogbOdXO7yNjaAzWQdWFj7ksHYfE08zGyYeI1kNLqGpunXnMS88BGaDYUUvsuLA7H7mv7XLfruQXZtIoZYplAByuwehfTEoQTWw9RqJohGjVUVbegrVyNh4NOxEMg1KlTjHUf5bO0LFdJD8EcrfJ8BvEBPqTraET8VwiHjwouHFNaScoFUlmqmO9X5GlGfuiUIyW7iZ27HJM%2F7Sr395MwCQ3YxPP2NAX6EYMBilfi%2BI9xyHW4e&acctmode=0&pass_ticket=HM%2B1G%2FWsriaEFiWV03p2dP0kM0B86gEXS5LT8AmZwMl0jVuSgv6%2B4dP85V7YzP98&wx_header=0&fontgear=2&scene=27#wechat_redirect)
 
 爱奇艺的技术产品团队
 
@@ -146,7 +146,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
 
-[:camera_flash:【2023-10-18 11:59:15】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247504397&idx=1&sn=1da33095ad447ac8d659410237f228be&chksm=e9d319efdea490f9f57f1b16d115c3ed806fabba3610a5e769fb18966ea4d73bdeffb91d7b30&scene=27#wechat_redirect)
+[:camera_flash:【2023-10-25 14:54:10】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247504512&idx=1&sn=5d19b649b8e6801b761f02646d9253e3&chksm=e9d31962dea490740860c281309a4572f9f3b5805789e62b2dc993220317c392a082232c77f2&scene=27#wechat_redirect)
 
 字节跳动的技术实践分享
 
@@ -237,7 +237,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NDY1MDc2Mg==)
 
-[:camera_flash:【2023-10-16 10:30:56】](https://mp.weixin.qq.com/s?__biz=Mzg2NDY1MDc2Mg==&mid=2247504059&idx=2&sn=2f4575c2a3b49ada7c6eded76f500b00&chksm=ce6483def9130ac8c384b72cd0ef6cda0e8d8cf72a5258ea087945e2652f6dc3b19425c77ffc&scene=27#wechat_redirect)
+[:camera_flash:【2023-10-25 10:21:05】](https://mp.weixin.qq.com/s?__biz=Mzg2NDY1MDc2Mg==&mid=2247504071&idx=2&sn=f63a6ab329a1bc842e742d132fdb274a&chksm=ce6483a2f9130ab4f299f10f6f2f0d9305b2dcb08ee2f4a9b966901ff1cfe0143ebfc6642716&scene=27#wechat_redirect)
 
 专注于学习网络安全
 
@@ -432,7 +432,7 @@ FOFA是由华顺信安科技有限公司开发的一款网络空间资产搜索�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzE2MzY1OA==)
 
-[:camera_flash:【2023-10-19 19:00:37】](https://mp.weixin.qq.com/s?__biz=Mzg4MzE2MzY1OA==&mid=2247496882&idx=1&sn=9cbecb3f9090c5391cf45f4a92ed1fff&chksm=cf4923d7f83eaac1e13468259355cdf69bbe477d02b8dddb70c3c5d37b08f56544a21f7446f1&scene=27#wechat_redirect)
+[:camera_flash:【2023-10-25 18:43:46】](https://mp.weixin.qq.com/s?__biz=Mzg4MzE2MzY1OA==&mid=2247497377&idx=1&sn=52da746fa81445507140278c309e271d&chksm=cf4921c4f83ea8d2f27113d869e0b6c0c897a94696325de89bfba210e735dc5d714973edc8e7&scene=27#wechat_redirect)
 
 OPPO 安第斯智能云（AndesBrain）是服务个人、家庭与开发者的泛终端智能云，致力于“让终端更智能”。作为 OPPO 三大核心技术之一，安第斯智能云提供端云协同的数据存储与智能计算服务，是万物互融的“数智大脑”。
 
@@ -497,7 +497,7 @@ OPPO 安第斯智能云（AndesBrain）是服务个人、家庭与开发者的�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzI1MDg2Mg==)
 
-[:camera_flash:【2023-10-18 17:30:23】](https://mp.weixin.qq.com/s?__biz=MzIwMzI1MDg2Mg==&mid=2649943417&idx=1&sn=28ae0a0ccec5eea0510ebae3073f52bc&chksm=8ed400b8b9a389ae41f8626962276ba5e7c7e54c5a04122d10515cf99e5a6c00fead6ed75d43&scene=27#wechat_redirect)
+[:camera_flash:【2023-10-25 17:31:02】](https://mp.weixin.qq.com/s?__biz=MzIwMzI1MDg2Mg==&mid=2649943578&idx=1&sn=5105eb80babaa5d3e2d009c75fb28582&chksm=8ed403dbb9a38acdbc50b1a3f8dfe38d0e10ac71e37a0e8b74280f487b53a3cfeabe263f5f10&scene=27#wechat_redirect)
 
 主营业务涵盖应用安全、系统安全、运维安全等，包括IT资产管理、智能攻击机器人、智能防御机器人、攻防实战演练支持、安全培训、课题和安全技术研究、产品研发及服务综合解决方案提供；其中，行业解决方案又包括电力行业、金融行业、军工行业、公检法等。
 

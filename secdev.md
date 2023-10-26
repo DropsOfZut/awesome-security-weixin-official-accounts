@@ -81,7 +81,7 @@ OWASP中国，SecZone互联网安全研究中心官方平台
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
 
-[:camera_flash:【2023-10-24 22:07:42】](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247614492&idx=4&sn=8022a2a433eae1014c7e12c8a9d81083&chksm=ec571047db209951469c5cdb36e0a71060aa1d22637348b8ac0c7fa1f542703718fd48d8f5e6&scene=27#wechat_redirect)
+[:camera_flash:【2023-10-25 21:56:09】](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247614618&idx=4&sn=27ac0b94e0c9af346864f1cd710484e1&chksm=ec5710c1db2099d7d04371804ca0c125169c2192460ad93a4d52de05fbadcc42bd836c2c4b5d&scene=27#wechat_redirect)
 
 商密君是全国密码行业头部公众号，旨在宣传推广《密码法》，普及商用密码知识，解读密码政策，分享商用密码行业的最新动态，为密码产业产学研用做好宣传服务，连接密码全行业精英，推动密码技术在数字经济各行业的应用和创新。
 
