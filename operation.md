@@ -42,7 +42,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1NzI5NDM4Mw==)
 
-[:camera_flash:【2023-10-25 08:00:16】](https://mp.weixin.qq.com/s?__biz=MzI1NzI5NDM4Mw==&mid=2247496178&idx=1&sn=29dc9b9b6c27e80eb2cb93d6c943f21a&chksm=ea1b18b2dd6c91a403c55bcea42296a738f860f168446bf5a1c781183fb80a8b4e3ded516689&scene=27#wechat_redirect)
+[:camera_flash:【2023-10-27 08:02:04】](https://mp.weixin.qq.com/s?__biz=MzI1NzI5NDM4Mw==&mid=2247496179&idx=1&sn=d6c2e2524049ac541ec77facdafea1d1&chksm=ea1b18b3dd6c91a57ccd2b6da54c00bddd529883302821ebb370dba0d7754c6f564901b1cdef&scene=27#wechat_redirect)
 
 Docker中文社区旨在为大家提供 Docker、Kubernetes 相关工具及前沿资讯信息，方便大家了解学习 Docker、Kubernetes 相关容器技术。官网：dockerworld.cn
 
@@ -120,7 +120,7 @@ BAT 技术专家分享开发、架构、运维相关干货！
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzIwNTY1OA==)
 
-[:camera_flash:【2023-10-25 08:01:33】](https://mp.weixin.qq.com/s?__biz=MzkxMzIwNTY1OA==&mid=2247500320&idx=1&sn=5263d94e42ffd6e384620b4fa179d227&chksm=c103b2d5f6743bc300b34b0c75d24d3819c343ea1d2a69de76da2bb832f01a6db042f0a087ce&scene=27#wechat_redirect)
+[:camera_flash:【2023-10-27 08:00:34】](https://mp.weixin.qq.com/s?__biz=MzkxMzIwNTY1OA==&mid=2247500371&idx=1&sn=b562a56d15e4bd1cdcb841c16c8515df&chksm=c103b2a6f6743bb0779fb7b3ccdf6c37f9c5421da88422e86d5eac07764a8fc9d3d9008f8519&scene=27#wechat_redirect)
 
 发布关于kali相关文章。Debian Centos等操作系统的安全和运维。以及树莓派 ESP8266 DIY单片机等相关安全领域的文章。旨在掌握技术和原理的前提下，更好的保护自身网络安全。反对一切危害网络安全的行为，造成法律后果请自负。
 

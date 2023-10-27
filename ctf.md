@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
 
-[:camera_flash:【2023-10-25 09:03:19】](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247514796&idx=1&sn=dee41459b311f95f80deafda67c14cfe&chksm=a687489691f0c180d7173a99286d2f7af50462447d76118a0df8f05a003c05fc50f60ebcde8d&scene=27#wechat_redirect)
+[:camera_flash:【2023-10-26 17:00:56】](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247514809&idx=1&sn=d30a4407eb73f8b9df0220940654b369&chksm=a687488391f0c1952c05b18f75e4773c466fd3def8a273f3f3a16bcbac5e0c6acda1a888ca6c&scene=27#wechat_redirect)
 
 国内最早、亚洲最大的网络攻防联赛。
 

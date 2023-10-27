@@ -614,7 +614,7 @@ Covteam工作室，成立于2005年。是以西华大学在校本科生研究生
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MzQ3MjE3Nw==)
 
-[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
+[:camera_flash:【2020-10-17 21:47:34】](https://mp.weixin.qq.com/s?__biz=Mzg5MzQ3MjE3Nw==&mid=2247484313&idx=1&sn=4e9bb96fd77635dd6ac1cf5779230e1e&chksm=c02f1f47f75896519561b5ae0f6a0234c5c4c21abf322474385e4000303f4adc90a583742af9&scene=27#wechat_redirect)
 
 在这里你能get到实验室最新资讯以及知识分享、每周授课预告 : )
 
