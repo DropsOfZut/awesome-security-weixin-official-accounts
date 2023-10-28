@@ -16,7 +16,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI4NDY2MDMwMw==)
 
-[:camera_flash:【2023-10-25 16:45:28】](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247510109&idx=1&sn=4831a052c626320188d963c5b3eb51ee&chksm=ebfaef7ddc8d666bacc265636b5c3e5bc19936c05bf38e8bbfb8683a42e202ae70822e4ca129&scene=27#wechat_redirect)
+[:camera_flash:【2023-10-27 16:01:48】](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247510132&idx=2&sn=4e6283376c92dba30a55d2e25e3fc88f&chksm=ebfaef54dc8d6642546ca507496d57120154b78027291bf5dea5944fe50925336d38c540800a&scene=27#wechat_redirect)
 
 《安全内参》是专注于网络安全产业发展和行业应用的高端智库平台，致力于成为网络安全首席知识官。曾用名“互联网安全内参”。投稿&amp;合作请邮件联系 anquanneican#163.com
 
@@ -81,7 +81,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5OTQ0NzY3Ng==)
 
-[:camera_flash:【2023-10-23 17:57:43】](https://mp.weixin.qq.com/s?__biz=MzU5OTQ0NzY3Ng==&mid=2247495198&idx=1&sn=38b4c855f5156c60c5dcf96facb1db2a&chksm=feb66f0dc9c1e61beea3e8810d4f87d86f2959eb629ab7331bcc99ab2314c372083555f8b60b&scene=27#wechat_redirect)
+[:camera_flash:【2023-10-26 18:03:53】](https://mp.weixin.qq.com/s?__biz=MzU5OTQ0NzY3Ng==&mid=2247495228&idx=1&sn=1bb49a03a0d72a978fdf2b019e66644e&chksm=feb66f2fc9c1e639402951e3c1b855e45020211d06551aa2a50a01a6c57c2259183a1f4fdd17&scene=27#wechat_redirect)
 
 由国家发改委于2004年批复、2012年授牌，法人实体为中科信息安全共性技术国家工程研究中心有限公司。在网络安全服务、体系建设等有丰富的技术研究和工程化经验。依托中科院信工所等科研单位，搭建国家网络安全工程化与产业化平台、产学研创新技术。
 
@@ -94,7 +94,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5MzU5MzQzMA==)
 
-[:camera_flash:【2023-10-27 00:00:25】](https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652102306&idx=3&sn=9317ae9dad05f705cd29525cb1d7a6c1&chksm=8bbcf49bbccb7d8d720fecd8c11c02faed151739278a0d3c282b8e505de37d42cb92f1aee35b&scene=27#wechat_redirect)
+[:camera_flash:【2023-10-28 00:00:45】](https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652102307&idx=3&sn=54e86ffa989eb71b086502992d2febb1&chksm=8bbcf49abccb7d8c415271c058f77424d06379f30d91d3294cc4582f3a952fe550c2e2c9da7b&scene=27#wechat_redirect)
 
 学习网络安全、说网络安全；共同致力于网络安全、网络安全等级保护。
 
@@ -107,7 +107,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NjY2MTI3Mg==)
 
-[:camera_flash:【2023-10-27 00:01:05】](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247492480&idx=2&sn=9b07a00d9d1b85d0c09d47e63011053f&chksm=ce45c577f9324c614a377869cf32ab293f6b88359fa24b4268ef8b1e1cf41548a61aa67374b8&scene=27#wechat_redirect)
+[:camera_flash:【2023-10-28 00:00:27】](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247492481&idx=2&sn=863fcc202da5e849d8472872664fcc64&chksm=ce45c576f9324c6085824026eb3f7afa71be61f3385f83c793f5077930b817836a1e0f8e68e4&scene=27#wechat_redirect)
 
 做对用户有真实价值的网络安全服务，等级保护测评、风险评估、网络安全培训、网络安全咨询、网络安全合规。传播网络安全知识，分享网络安全政策，共建风清气正的网络安全氛围。
 
@@ -120,7 +120,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNzAwOTQxMg==)
 
-[:camera_flash:【2023-10-26 10:16:22】](https://mp.weixin.qq.com/s?__biz=MzIwNzAwOTQxMg==&mid=2652249371&idx=1&sn=40a8e7085fade1182940768e9e5207d9&chksm=8cfa5ef0bb8dd7e6fce0d7d84e8918be7424822664b2034cfbf729348559032b60b0882cca83&scene=27#wechat_redirect)
+[:camera_flash:【2023-10-27 10:50:45】](https://mp.weixin.qq.com/s?__biz=MzIwNzAwOTQxMg==&mid=2652249385&idx=1&sn=fc7a148dcfc8c6531c850c320960567d&chksm=8cfa5ec2bb8dd7d46b63cf74fdd4deac8a5bfb16a223b4be6c1aa8832b05879da23ccb8f4ad7&scene=27#wechat_redirect)
 
 信息安全等保测评、信息安全服务；云卫士CDS-容灾备份、智能安全网关、智能网络管理产品支持服务；智云iSC-云平台、云服务技术支持服务；朗云iOT-物联网产品支持服务。
 
@@ -133,7 +133,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1OTA1MzQzNA==)
 
-[:camera_flash:【2023-10-25 09:39:31】](https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651244697&idx=1&sn=d0958b8cd36d89ad154b806a777e0410&chksm=f18caa8cc6fb239a02abd01100b47c1c600ddaecc66b3387483b750a2eaed920fd15d1c7fc39&scene=27#wechat_redirect)
+[:camera_flash:【2023-10-27 09:59:06】](https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651244704&idx=1&sn=355e15f1d9db06aa0cdd83f82f72b1d9&chksm=f18caab5c6fb23a34f1880f7f676da48f8889993e5cb20e638f3c811a29c6a47f2bdc2572cad&scene=27#wechat_redirect)
 
 关注益安在线，一站了解等级保护、工业互联网安全。专注网络安全人才培训，行业咨询、网络安全技术大赛服务。举办2017和2018中央企业网络安全技术大赛、“护网杯”2018网络安全防护赛，为行业提供人才赋能综合解决方案，输送实战型网安人才。
 

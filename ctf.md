@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
 
-[:camera_flash:【2023-10-26 17:00:56】](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247514809&idx=1&sn=d30a4407eb73f8b9df0220940654b369&chksm=a687488391f0c1952c05b18f75e4773c466fd3def8a273f3f3a16bcbac5e0c6acda1a888ca6c&scene=27#wechat_redirect)
+[:camera_flash:【2023-10-27 09:00:24】](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247514818&idx=1&sn=d183d87eece2fe498dbf632ef8b1935d&chksm=a68748f891f0c1eed77726d69cc6699d88699a25738fdb1067dd26b7b93e577742b089645d1a&scene=27#wechat_redirect)
 
 国内最早、亚洲最大的网络攻防联赛。
 
@@ -42,7 +42,7 @@ PTE小技巧
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5Njg1NzMyNw==)
 
-[:camera_flash:【2023-10-19 17:45:29】](https://mp.weixin.qq.com/s?__biz=MzU5Njg1NzMyNw==&mid=2247487348&idx=1&sn=267fb810be90510c23971269955775d0&chksm=fe5d17f4c92a9ee2eed1a8659235053abb4563b2a2a01d5056a46487f5d77c8bfa13aec49d32&scene=27#wechat_redirect)
+[:camera_flash:【2023-10-27 18:20:51】](https://mp.weixin.qq.com/s?__biz=MzU5Njg1NzMyNw==&mid=2247487402&idx=1&sn=0c409c88ff4694bc06fb10dd50be1034&chksm=fe5d172ac92a9e3cdeac20925c7a3dfd54e74f956daac60b3b6a01ef2afb0df17d554b7b3c3e&scene=27#wechat_redirect)
 
 由奇安信集团、清华大学、蚂蚁集团主办，联合北京大学、中科院软件所、复旦大学、中山大学、山东大学、中国科技大学等30多个知名高校和研究机构共同举办的聚焦大数据安全分析的比赛。
 

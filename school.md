@@ -263,7 +263,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDIyNTE0OQ==)
 
-[:camera_flash:【2023-10-12 12:39:14】](https://mp.weixin.qq.com/s?__biz=MzkyNDIyNTE0OQ==&mid=2247484776&idx=1&sn=6e89628b19259bd534f9806d905eab26&chksm=c1d85e7af6afd76c1d55e2ff5a89bd77e38f4bdea8a02b745d66adf0786d1c68c3b3362c5c60&scene=27#wechat_redirect)
+[:camera_flash:【2023-10-27 13:01:09】](https://mp.weixin.qq.com/s?__biz=MzkyNDIyNTE0OQ==&mid=2247484804&idx=1&sn=5871b8355ac37a97776a2278388cdb87&chksm=c1d85e96f6afd780564d7710a6943a91150c5d5a95b9b830cd1f360f57421c1728fc641313b4&scene=27#wechat_redirect)
 
 本社团致力于向大家分享交流网络安全实践技术，主要以CTF竞赛、红蓝对抗、渗透测试、知识讲座等形式分享网络安全知识，培养网安人才，积极响应国家建设网络强国的号召，共筑网络安全防线。
 
@@ -380,7 +380,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDYzMjAyNA==)
 
-[:camera_flash:【2023-10-11 17:26:28】](https://mp.weixin.qq.com/s?__biz=Mzg3MDYzMjAyNA==&mid=2247485165&idx=1&sn=8b589db69fd8ee8a5f884aad0a936191&chksm=ce8b99daf9fc10cc08f41fee685ade513cf1f826da47adfcf32f0c83900dd573093517022a23&scene=27#wechat_redirect)
+[:camera_flash:【2023-10-27 10:55:00】](https://mp.weixin.qq.com/s?__biz=Mzg3MDYzMjAyNA==&mid=2247485213&idx=1&sn=fc54233f2cdc291b8bc7d5a4507a85a7&chksm=ce8b982af9fc113cd2f1068137656799f9d072be0a6980d125d839f998403b2c6adc60466f99&scene=27#wechat_redirect)
 
 深圳市网安计算机网络安全培训中心是由深圳市人力资源局备案的社会第三方培训机构。是受广东省人力资源和社会保障厅委托，开展“网络与信息安全管理员”职业技能等级认定工作的第三方社会评价机构。
 
@@ -575,7 +575,7 @@ Covteam工作室，成立于2005年。是以西华大学在校本科生研究生
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxMTEwOTA3OA==)
 
-[:camera_flash:【2023-10-18 17:01:06】](https://mp.weixin.qq.com/s?__biz=MzUxMTEwOTA3OA==&mid=2247485483&idx=1&sn=62d843dadfd011831be728cce1f21dd1&chksm=f979fa92ce0e7384f0fcceac18180cc5b8c9fcba2ab1c34beb791ca74c725d61b96ed800d236&scene=27#wechat_redirect)
+[:camera_flash:【2023-10-25 15:04:16】](https://mp.weixin.qq.com/s?__biz=MzUxMTEwOTA3OA==&mid=2247485488&idx=1&sn=2a5ecfff0f39853360dcda9a5c15110d&chksm=f979fa89ce0e739f1e37542cb6783d75ffce603f903f5a5c5aa2845e89f6a42e0e0f8bd5376f&scene=27#wechat_redirect)
 
 网络与信息安全实验室(NISL@THU)，专注于网络、系统、应用、人工智能安全教学与研究，在国际四大安全会议发表三十余篇论文，成果在业界产生了广泛影响力。孕育了蓝莲花、紫荆花等知名战队，发起了网安国际学术论坛InForSec。
 
@@ -588,7 +588,7 @@ Covteam工作室，成立于2005年。是以西华大学在校本科生研究生
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
 
-[:camera_flash:【2023-10-24 08:00:22】](https://mp.weixin.qq.com/s?__biz=MzUzODkwMDMxNA==&mid=2247570665&idx=1&sn=c8196586f7229617e665a3177de907e1&chksm=fad336dccda4bfca562114ae31e7c128c513ff97b34295cdc6aa57e07881bfea9810f934f315&scene=27#wechat_redirect)
+[:camera_flash:【2023-10-27 09:00:25】](https://mp.weixin.qq.com/s?__biz=MzUzODkwMDMxNA==&mid=2247570818&idx=1&sn=9efcc9256968839015607b0de10c6441&chksm=fad337b7cda4bea1cc9f713a930ea2e0c90c4768f7a18d206bff1b7b9e6aa8332d42c03f8d75&scene=27#wechat_redirect)
 
 百所高校、百家用人单位、百名尖锋导师，携手打造定制化人才培养模式，通过导师制职业规划和封闭式岗位实训，补足知识短板、提高实战能力，培养创新型、实用型网络安全尖锋人才。
 
@@ -640,7 +640,7 @@ Covteam工作室，成立于2005年。是以西华大学在校本科生研究生
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5NDczNDc4NA==)
 
-[:camera_flash:【2023-09-26 11:05:35】](https://mp.weixin.qq.com/s?__biz=Mzg5NDczNDc4NA==&mid=2247493891&idx=1&sn=ae9dd5e5339a00097f662d6c5897ff64&chksm=c019b1acf76e38bafb88e15d824b43c1a204c369d172cc2340e8ac43e7effb5caf1c0dc00e97&scene=27#wechat_redirect)
+[:camera_flash:【2023-10-25 14:48:16】](https://mp.weixin.qq.com/s?__biz=Mzg5NDczNDc4NA==&mid=2247493940&idx=1&sn=de832f304b31ecf7326674a7982c73e6&chksm=c019b19bf76e388d819489b65408f9788d142a8a6f281b721bd26805cbdc68b6369c241b16c4&scene=27#wechat_redirect)
 
 浙江大学网络空间安全学院/浙江大学网络空间安全研究中心
 
