@@ -81,7 +81,7 @@ GeekPwn，全球首个关注智能生活的安全极客大赛！我们在寻找�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0MDY1MDU4MQ==)
 
-[:camera_flash:【2023-10-27 12:03:50】](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247570286&idx=2&sn=78d84f53e46604c23c468766ec1c9f70&chksm=e9140354de638a420754e6510850c9690b0781c979fb2e7d0a50e370a5e881313f43fe6448e2&scene=27#wechat_redirect)
+[:camera_flash:【2023-10-28 12:00:50】](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247570415&idx=2&sn=1845a98ac751b6d00b7c3311e5735116&chksm=e91403d5de638ac3200f3e9692e301ba45b31700ab82b2141f5432075f278777bf6ea2343aeb&scene=27#wechat_redirect)
 
 我们以客观、中立、数据为基础，鼓励读者独立思考，提供全面的网络安全行业资讯。
 
@@ -133,7 +133,7 @@ GeekPwn，全球首个关注智能生活的安全极客大赛！我们在寻找�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjA0NjgyMA==)
 
-[:camera_flash:【2023-10-27 19:07:52】](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651246568&idx=4&sn=021af5a27ab26ecf26001f9164a42465&chksm=bd1d5d638a6ad4753ce8b610cfb0bfc7a72aaf57b579a40f179c044a9833362a7d82d4be0a93&scene=27#wechat_redirect)
+[:camera_flash:【2023-10-28 09:30:35】](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651246596&idx=4&sn=b21260ef28462542a7868c46953781e9&chksm=bd1d428f8a6acb997b0bdf0179225188c235d5b0b4d6be3a1a7e70cdfef106466d2a386d5798&scene=27#wechat_redirect)
 
 中国网络安全行业门户
 
@@ -146,7 +146,7 @@ GeekPwn，全球首个关注智能生活的安全极客大赛！我们在寻找�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxMjE3ODU3MQ==)
 
-[:camera_flash:【2023-10-27 10:15:07】](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650580827&idx=4&sn=c44d7642689ec995e763a4ded6b41aa5&chksm=83bdc2bfb4ca4ba9da742cdcedc848b9243bac78fed82aab70110df011aa8bc8cc1ef1f72755&scene=27#wechat_redirect)
+[:camera_flash:【2023-10-28 09:51:56】](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650580839&idx=3&sn=a55086f7c3383b3b1b256d100a0e55e3&chksm=83bdc283b4ca4b95dbcc8e9fa8f1e44dd2f04359d3a6b5c8e57097950615d423387114087a02&scene=27#wechat_redirect)
 
 我们是网络世界的启明星，安全之路的垫脚石。
 
@@ -224,7 +224,7 @@ secquan.org汇聚新锐 共同进步
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMDk1MjMyMg==)
 
-[:camera_flash:【2023-10-25 19:40:38】](https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247491902&idx=1&sn=3156a452488dc12cfd9bab9680fc806e&chksm=96f7fe53a18077457d5e311d313429f507300f59d56a4a61e288aa610a2020550af42e88ebab&scene=27#wechat_redirect)
+[:camera_flash:【2023-10-28 22:14:17】](https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247491909&idx=1&sn=4fbd2f6736472ecc7d2f16575299dfb9&chksm=96f7fe28a180773e2e9726c165cda70d52cab0b16e02bdf7dd913066f392b56e9351a36f25f9&scene=27#wechat_redirect)
 
 长亭安全应急响应中心致力于发布最新的漏洞风险提示与威胁情报，专注于网络安全领域的研究和解决方案。
 
@@ -471,7 +471,7 @@ CNCERT风险评估与软硬件安全相关动态信息分享
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0MjE2Mjk3Ng==)
 
-[:camera_flash:【2023-10-27 09:30:15】](https://mp.weixin.qq.com/s?__biz=MzU0MjE2Mjk3Ng==&mid=2247486339&idx=1&sn=e27d881f27065c60f14bd5c2af87fe27&chksm=fb1fa2cccc682bdaa168f317179b224761194cf09cdf109e5643bfff5b7d5b828d817f45b7a1&scene=27#wechat_redirect)
+[:camera_flash:【2023-10-28 09:30:55】](https://mp.weixin.qq.com/s?__biz=MzU0MjE2Mjk3Ng==&mid=2247486341&idx=1&sn=c7c2008cb3fc29d925a0f19f0da387b1&chksm=fb1fa2cacc682bdc11e4f953b8e3901a75fce3d768e952b03dd389d3d83a43813f64ec6ded31&scene=27#wechat_redirect)
 
 网络安全态势感知与预警通报；互联网安全红、黑榜；互联网安全资产的分析与研究；互联网安全边界分析与风险扩散分析技术的倡导者。
 
@@ -562,7 +562,7 @@ RASP将主动防御能力“注入”到业务应用中，借助强大的应用�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3NjUzOTQ0NQ==)
 
-[:camera_flash:【2023-10-27 10:01:36】](https://mp.weixin.qq.com/s?__biz=MzI3NjUzOTQ0NQ==&mid=2247503877&idx=1&sn=2dc4de3d982f67a193d3f6fb4582d384&chksm=eb71615fdc06e849652ec4099a86cf798a8777d60dad76b5785fc706c53f4e38a0b71ad8e15e&scene=27#wechat_redirect)
+[:camera_flash:【2023-10-28 09:00:29】](https://mp.weixin.qq.com/s?__biz=MzI3NjUzOTQ0NQ==&mid=2247503919&idx=1&sn=4cb8d9dc4d5d064bcf440dd41a24feb1&chksm=eb716175dc06e8637d215a0d6700bd815069bb8c1fcd75406e9281bec32c61425712cd431a9e&scene=27#wechat_redirect)
 
 致力于网络安全材料汇总与分享，且是FREEBUF【网安知识大陆】安全标准部落领主，内容包括安全标准、安全建设、安全事件、前沿技术（零信任、信创、新基建等）相关内容，并与安全培训机构有强合作，笔者主要是从事过网络安全及ICT厂商。
 

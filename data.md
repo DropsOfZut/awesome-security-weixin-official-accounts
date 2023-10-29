@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1NzYwNTMzNw==)
 
-[:camera_flash:【2023-10-27 07:30:09】](https://mp.weixin.qq.com/s?__biz=MzI1NzYwNTMzNw==&mid=2247518425&idx=1&sn=5caf45e8bad4d69975380b607da2c38e&chksm=ea16236fdd61aa79a3859b961fd11e0177a6e68822d8ae2176aced3396e7b12ea0d66dce038f&scene=27#wechat_redirect)
+[:camera_flash:【2023-10-28 09:01:30】](https://mp.weixin.qq.com/s?__biz=MzI1NzYwNTMzNw==&mid=2247518442&idx=1&sn=28f545b346b4e74c0dab3d564c0be826&chksm=ea16235cdd61aa4ad3a70b1e7116fada02a6df4bb98d72268855f4afb57851c05f2a404036ef&scene=27#wechat_redirect)
 
 聚焦数据治理，数字化转型，数据中台等领域专业知识总结和实战分享，做你身边最有价值的数据号！
 
@@ -55,7 +55,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNzk2OTQ4MQ==)
 
-[:camera_flash:【2023-10-27 07:20:51】](https://mp.weixin.qq.com/s?__biz=MzAwNzk2OTQ4MQ==&mid=2247484148&idx=1&sn=0402c2156c1305108b46c19361d5c861&chksm=9b774d52ac00c44448853203263ded21ed3aae36b9c018e48213b61db28f28ebb8ac2e74cb31&scene=27#wechat_redirect)
+[:camera_flash:【2023-10-28 13:41:49】](https://mp.weixin.qq.com/s?__biz=MzAwNzk2OTQ4MQ==&mid=2247484161&idx=1&sn=ba86ce199eb2b09cf0af970332d666f7&chksm=9b774ca7ac00c5b11879b6c555044ce15c7cfd794e4e5ea17895f1eeb0564a994f08a4a4021c&scene=27#wechat_redirect)
 
 聚焦数据安全治理，研究数据安全产品及相应技术实践
 
@@ -68,7 +68,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzODk1NzY5NA==)
 
-[:camera_flash:【2023-10-25 13:36:05】](https://mp.weixin.qq.com/s?__biz=MzIzODk1NzY5NA==&mid=2247495542&idx=1&sn=5d66c159f79986299de25504ef705744&chksm=e933ca67de444371235ca3c6194345bb7864f047bb2233d70f562949f2ac485597e638c057b7&scene=27#wechat_redirect)
+[:camera_flash:【2023-10-26 13:26:45】](https://mp.weixin.qq.com/s?__biz=MzIzODk1NzY5NA==&mid=2247495547&idx=1&sn=d5f428fbc86e3ec144c40f93d56e6492&chksm=e933ca6ade44437cbbf63437996b2b79b2ac75fee66965afbffc878bfc8bae7e1f2ac1952fce&scene=27#wechat_redirect)
 
 www.pcachina.com
 
