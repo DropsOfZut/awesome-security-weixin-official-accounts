@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1NzYwNTMzNw==)
 
-[:camera_flash:【2023-10-28 09:01:30】](https://mp.weixin.qq.com/s?__biz=MzI1NzYwNTMzNw==&mid=2247518442&idx=1&sn=28f545b346b4e74c0dab3d564c0be826&chksm=ea16235cdd61aa4ad3a70b1e7116fada02a6df4bb98d72268855f4afb57851c05f2a404036ef&scene=27#wechat_redirect)
+[:camera_flash:【2023-10-29 07:30:57】](https://mp.weixin.qq.com/s?__biz=MzI1NzYwNTMzNw==&mid=2247518443&idx=1&sn=71944f233bd66a2e481bc642eeefedbf&chksm=ea16235ddd61aa4b7c6ed6d52a49e408e2bae4040f8c8d9b7b73f56abfb34b37997fdeafc4c7&scene=27#wechat_redirect)
 
 聚焦数据治理，数字化转型，数据中台等领域专业知识总结和实战分享，做你身边最有价值的数据号！
 
@@ -55,7 +55,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNzk2OTQ4MQ==)
 
-[:camera_flash:【2023-10-28 13:41:49】](https://mp.weixin.qq.com/s?__biz=MzAwNzk2OTQ4MQ==&mid=2247484161&idx=1&sn=ba86ce199eb2b09cf0af970332d666f7&chksm=9b774ca7ac00c5b11879b6c555044ce15c7cfd794e4e5ea17895f1eeb0564a994f08a4a4021c&scene=27#wechat_redirect)
+[:camera_flash:【2023-10-29 22:30:09】](https://mp.weixin.qq.com/s?__biz=MzAwNzk2OTQ4MQ==&mid=2247484168&idx=1&sn=ebb1a38b3ed01029e4b9e90b6f3c255e&chksm=9b774caeac00c5b80cec276eff07e31827f9dc401acfb295f1efef3444c31dc8e35395176e13&scene=27#wechat_redirect)
 
 聚焦数据安全治理，研究数据安全产品及相应技术实践
 

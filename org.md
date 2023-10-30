@@ -146,7 +146,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNDUyMjk4MQ==)
 
-[:camera_flash:【2023-10-17 08:58:22】](https://mp.weixin.qq.com/s?__biz=MzAwNDUyMjk4MQ==&mid=2454822572&idx=1&sn=ce073f001d2e463ad9228b1e52839d8e&chksm=8c8fa826bbf82130a0a794d2bbb8e7d7840b3f15dca3e4826796f34fa718f1280c16d6292b52&scene=27#wechat_redirect)
+[:camera_flash:【2023-10-29 17:45:29】](https://mp.weixin.qq.com/s?__biz=MzAwNDUyMjk4MQ==&mid=2454822619&idx=1&sn=03b81b2221815625ed0b8e81681f53e1&chksm=8c8fa851bbf82147d9f147489013b6cab27ad7b27c001318b8c4b5c7efea9ea0ea196b871c72&scene=27#wechat_redirect)
 
 永信至诚（股票代码：688244）网络和数据安全企业，在网络靶场和人才建设领域位于领军地位。首创“数字风洞”产品体系，跃迁式创新推动安全测试评估专业赛道发展。致力于为数字中国和网络强国建设提供高能效的安全保障和专有人才支撑，带给世界安全感。
 
@@ -172,7 +172,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTE0MjQyMg==)
 
-[:camera_flash:【2023-10-28 11:01:53】](https://mp.weixin.qq.com/s?__biz=MjM5NTE0MjQyMg==&mid=2650591404&idx=1&sn=d43637934749a28e1442e5f5ede2f81c&chksm=bef57ed58982f7c37656aaec5a38d4fdf9e982e6ffc2b91a8ed6e3dc3ca923cfc6a7c2c91d0f&scene=27#wechat_redirect)
+[:camera_flash:【2023-10-29 09:07:16】](https://mp.weixin.qq.com/s?__biz=MjM5NTE0MjQyMg==&mid=2650591491&idx=1&sn=754fa7d4145c4f5ac7c12f1575e73a56&chksm=bef57f7a8982f66c1de3d5c754c0b4a518b70860a4e17c61bcd758985e89cbe5a7f10d5cd810&scene=27#wechat_redirect)
 
 杭州安恒信息技术股份有限公司（DBAPPSecurity），科创板：688023，全球网络安全创新500强。以自主可控的专利技术，提供Web应用安全、数据库安全、网站安全监测产品与服务、态势感知大数据中心及智慧城市云安全运营整体解决方案。
 
