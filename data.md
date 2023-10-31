@@ -29,7 +29,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzg5MTI0OQ==)
 
-[:camera_flash:【2023-10-26 21:01:16】](https://mp.weixin.qq.com/s?__biz=MzIwMzg5MTI0OQ==&mid=2247530891&idx=1&sn=0308c94fb5268d2aeec8b87b8e37834c&chksm=96ca4ed5a1bdc7c3ae2ecb8cc17c4cb17d410180106c504e28977813e799c4275d9e019dcc30&scene=27#wechat_redirect)
+[:camera_flash:【2023-10-30 21:00:20】](https://mp.weixin.qq.com/s?__biz=MzIwMzg5MTI0OQ==&mid=2247530939&idx=1&sn=b2b01769579a52de76b7428e024896b8&chksm=96ca4ee5a1bdc7f3f87341c13c8231f1e56e8cf6e6b2798b0055a0986971795b4d580360846f&scene=27#wechat_redirect)
 
 专注于企业数据化应用、大数据BI技术和理论观点的研究，致力于让数据成为企业真正的生产力！帆软数据应用研究院旗下账号。
 
@@ -172,7 +172,7 @@ www.pcachina.com
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNzQyMTEyMQ==)
 
-[:camera_flash:【2023-10-16 10:33:15】](https://mp.weixin.qq.com/s?__biz=MzIwNzQyMTEyMQ==&mid=2247488102&idx=1&sn=b69776c6f69d9d87c45850e144d90970&chksm=9713f9c8a06470de9d21e5a9221b8b1326d3ce09106238191c508219b4dda74c13e3d6a2fd36&scene=27#wechat_redirect)
+[:camera_flash:【2023-10-30 10:11:06】](https://mp.weixin.qq.com/s?__biz=MzIwNzQyMTEyMQ==&mid=2247488150&idx=1&sn=2853cdd4180ee4b7c08f40c176e5eb72&chksm=9713f938a064702eadf6f4875be12ce9c93953cc1da8985704a903fd08651b477582f39a9e96&scene=27#wechat_redirect)
 
 聚焦数据安全与数据要素化，洞察行业趋向，提供专业解读，分享研究成果。
 
@@ -211,7 +211,7 @@ www.pcachina.com
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5MTk0MzIzMQ==)
 
-[:camera_flash:【2023-10-27 08:02:07】](https://mp.weixin.qq.com/s?__biz=MjM5MTk0MzIzMQ==&mid=2652017855&idx=3&sn=0b5b6a4f98abc0d960f9b7f813db5cab&chksm=bd4bebef8a3c62f97c3844b88ac399ff212faaebec60a4700faac9eece004dc536bdb5a96ebd&scene=27#wechat_redirect)
+[:camera_flash:【2023-10-30 08:30:34】](https://mp.weixin.qq.com/s?__biz=MjM5MTk0MzIzMQ==&mid=2652017863&idx=3&sn=9a103debe9fb1db9f333d8440f5b5166&chksm=bd4beb978a3c628154a9acdf959ee008c19492188c279f8c42dcd7b40baa1e1ac409f0e51eff&scene=27#wechat_redirect)
 
 可信赖的数据安全产品与服务提供商
 
@@ -289,7 +289,7 @@ www.pcachina.com
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNzI3MzAxOA==)
 
-[:camera_flash:【2023-10-16 17:35:36】](https://mp.weixin.qq.com/s?__biz=MzkyNzI3MzAxOA==&mid=2247512266&idx=1&sn=eb04f800dcc7c72130c99fc624e7ad99&chksm=c228699ff55fe089f00455e8791c1f35678ac24aa452ea83741898e78a29e77b3b18a69da19c&scene=27#wechat_redirect)
+[:camera_flash:【2023-10-26 17:04:32】](https://mp.weixin.qq.com/s?__biz=MzkyNzI3MzAxOA==&mid=2247512444&idx=1&sn=026b338e3cbd25a134ae04e122a9fc5b&chksm=c2286829f55fe13f4425e58a56b6506fb6f048e64cac6ccd70330f5c229d1189e9dc920fdd05&scene=27#wechat_redirect)
 
 围绕数据安全和个人信息保护，解读规则、推广标准、积淀实践、研究热点、沟通大众，以求真务实、科学中立的态度，做我国数据安全发展的观察者、记录者、倡导者。
 
@@ -328,7 +328,7 @@ www.pcachina.com
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3MTQwNTQxMg==)
 
-[:camera_flash:【2023-10-27 09:32:08】](https://mp.weixin.qq.com/s?__biz=MzA3MTQwNTQxMg==&mid=2650785598&idx=1&sn=cb9513c54623310188cd666d20ad73a5&chksm=87257d35b052f423b85dd91d9844c8d2118964ef80b31b74e1d8398e3de355ddd5241656b9e6&scene=27#wechat_redirect)
+[:camera_flash:【2023-10-30 14:22:23】](https://mp.weixin.qq.com/s?__biz=MzA3MTQwNTQxMg==&mid=2650785612&idx=1&sn=2de22fd6fd096b856725b259ecfdd74e&chksm=87257d47b052f451a47890d414934b810dc60b0fd8f8c102d6ca2b1cdab661a31f1e9bf09909&scene=27#wechat_redirect)
 
 中国专业领先的数据安全产品、解决方案及咨询服务提供商。
 
@@ -354,7 +354,7 @@ www.pcachina.com
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0NDMxODY2Nw==)
 
-[:camera_flash:【2023-10-24 16:30:34】](https://mp.weixin.qq.com/s?__biz=MzU0NDMxODY2Nw==&mid=2247521099&idx=1&sn=69ce7795b3d6e3f377c62e1427dbd242&chksm=fb7f26efcc08aff9e429fdf97b667892a0f8dc5f8645d1590f63de7eed4229e34f1787ba8f52&scene=27#wechat_redirect)
+[:camera_flash:【2023-10-26 17:20:26】](https://mp.weixin.qq.com/s?__biz=MzU0NDMxODY2Nw==&mid=2247521133&idx=1&sn=d49f596f337446aff68b77b6c2280d4f&chksm=fb7f26c9cc08afdf6bc2c72695e2d75d826846676926feb57b04af5fa18914e7426dbe02986a&scene=27#wechat_redirect)
 
 数据在流动，可见才安全
 
