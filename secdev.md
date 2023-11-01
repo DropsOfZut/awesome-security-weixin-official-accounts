@@ -68,7 +68,7 @@ OWASP中国，SecZone互联网安全研究中心官方平台
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MjQ1NTA4MA==)
 
-[:camera_flash:【2023-10-25 07:30:59】](https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247490117&idx=1&sn=f54b913c5690e7eae461c310f877b620&chksm=ea4bb002dd3c3914799ab6fac11af580a22dd56cbadbabed670a20e782dc142ca175517118e9&scene=27#wechat_redirect)
+[:camera_flash:【2023-10-31 07:31:00】](https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247490151&idx=1&sn=9272bfc80b93e0ce7ab39d731de5cf2b&chksm=ea4bb020dd3c3936f56612839626fb06d98d4ff40e8144555ff22f2a69b3ae011f2489654da4&scene=27#wechat_redirect)
 
 闲暇时间，逼迫自己，记录分享体验与经历，不求正确统一，但求真、善、美。
 
@@ -81,7 +81,7 @@ OWASP中国，SecZone互联网安全研究中心官方平台
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
 
-[:camera_flash:【2023-10-30 20:44:05】](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247615073&idx=4&sn=c0ea4c363dc7512929c5d39b21c1324b&chksm=ec57123adb209b2c4ec06210fddbffa3fea8a2c4c8e7525591747252ef6e29265d4976ac2c00&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-01 00:02:58】](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247615190&idx=2&sn=19375bf46e5451576b0e6f18abd3d7c3&chksm=ec57128ddb209b9b322c41345ef88eebf93462f05207709cb85f89279e21575a18ef0b9e549d&scene=27#wechat_redirect)
 
 商密君是全国密码行业头部公众号，旨在宣传推广《密码法》，普及商用密码知识，解读密码政策，分享商用密码行业的最新动态，为密码产业产学研用做好宣传服务，连接密码全行业精英，推动密码技术在数字经济各行业的应用和创新。
 
@@ -172,7 +172,7 @@ OWASP中国，SecZone互联网安全研究中心官方平台
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
 
-[:camera_flash:【2023-10-30 12:00:07】](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247532643&idx=2&sn=22b476a79f471c93de8cf892b897cf75&chksm=fa6b3912cd1cb00470b008305e5fd13cc13880b45242ea859d5cc4bcfb6f9623af52772cb1dd&scene=27#wechat_redirect)
+[:camera_flash:【2023-10-31 12:02:12】](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247532670&idx=2&sn=2c4045510c999fc76243b929f9e8f116&chksm=fa6b390fcd1cb01963f82a2521b7105d15ffd4abff009218223cd12f25e16225cdd4fa32776f&scene=27#wechat_redirect)
 
 安全教程\\高质量文章\\面试经验分享，尽在#掌控安全EDU#
 
@@ -198,7 +198,7 @@ OWASP中国，SecZone互联网安全研究中心官方平台
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
 
-[:camera_flash:【2023-10-30 17:42:13】](https://mp.weixin.qq.com/s?__biz=MzU0Mzk0NDQyOA==&mid=2247511305&idx=1&sn=75410a6fb401bc35dd1435ca41c06a4e&chksm=fb01568acc76df9cae7985ddf782e5c2bd7414abc6aac1c8e5d40a86567bc89dcf2a9295a8ae&scene=27#wechat_redirect)
+[:camera_flash:【2023-10-31 17:44:53】](https://mp.weixin.qq.com/s?__biz=MzU0Mzk0NDQyOA==&mid=2247511323&idx=1&sn=8cc8c78848d8f6bf5313d50b68e17ee4&chksm=fb015698cc76df8e6c4d1fe8032181f4b629abd3aec7c16aaf5d7e538c3a4be6496aaa191bd1&scene=27#wechat_redirect)
 
 深圳市网络与信息安全行业协会（SNISA），是深圳市网络与信息安全行业的权威组织，是中国网络安全审查技术与认证中心（CCRC）在深圳唯一授权工作站，是经深圳市人力资源和社会保障局核准，开展网络空间安全工程技术专业职称评审工作的社会组织。
 
@@ -341,7 +341,7 @@ vivo全新的安全品牌，有人文温度的科技新媒体，致力于让亿�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2MTAwNzg1Ng==)
 
-[:camera_flash:【2023-10-23 17:53:49】](https://mp.weixin.qq.com/s?__biz=Mzg2MTAwNzg1Ng==&mid=2247491399&idx=1&sn=c7cf497aed7e02aab4886aeba5e2fb41&chksm=ce1ce5d8f96b6cce774e37f50b3fe74bcfc27b0d84af4726c74f8373f1baa5f4f043beea8774&scene=0&xtrack=1&key=4b8e18db99a662cf64b0ff269ebd0b3c542e0e97407d0455c09b49b23e708dc236062dbbf8279e4bccbf3407d35eef7948d1ed4ec37f8bc4bddd916b6a04fc3f32f265279e8f3092aa62f62467c06ea193866d7abd305171dbf5c39c78d7735f0a6d9f599de16713e9258686b624093b4d09f6ea800d90732a24a64532665e57&ascene=51&uin=NTY2NTA4NjQ%3D&devicetype=Windows+10+x64&version=63060012&lang=zh_CN&session_us=gh_e18f20900200&countrycode=AL&exportkey=n_ChQIAhIQbnqGfMrHudFSqfNrvD0QgRLuAQIE97dBBAEAAAAAAJpCIxIvnUgAAAAOpnltbLcz9gKNyK89dVj0SS%2F1NtDjFFT%2BEiGPEjzP%2BOK84VRbyawDCncFZNdWoCTVuOWDXJAN8CGHnhOXHoGhX%2FMMlozjVnTrzJJho4avx5fJiNBpBUv2Erw%2BA%2B6bqXoj2wozeeHuT0dpPmrrOg%2FOmq1b5EY3Y5Ce0KiI2i8n0m4M3%2Bvi5l3AXA0ORrhYBfUC0SCf8wKPPmo8N9wgGhzGN7RuVvf3iQldP2iWHl2kcnaf3Dtf4QLcS%2FbGkTrxQL7eM5nAOrK5HxcrGRtqB9KHqtW9OAwq6rg%3D&acctmode=0&pass_ticket=Q1xsYkN2zCcWHR4R5vKTNJDp4AsnrqwAEBoeUH6lgV2c4ZdxR3vxaAElWKTvWQD8&wx_header=0&fontgear=2&scene=27#wechat_redirect)
+[:camera_flash:【2023-10-30 17:57:13】](https://mp.weixin.qq.com/s?__biz=Mzg2MTAwNzg1Ng==&mid=2247491428&idx=1&sn=199879a2a611daf3e398e97279c64107&chksm=ce1ce5fbf96b6ced8e0432ae9489cf5485d5778601e9bee03df3ada3af6906e45374c01795fb&scene=0&xtrack=1&key=16ff41fc38234ef8e67205d93b0d6e0f4d378c39024e95200d99e8f93644b95530df9383fc59279b5017c60f6a040c32825a0c11c1eaed3c4193b35dcfca2a6eab6e510b5939946ae80c330bd5c2bc024bf9124d60d3e5d4893233ec0b8b519a2ebb3fe6a0a31043786efa02ee0685ba2431501b5c29827595c6e99258209f84&ascene=51&uin=NTY2NTA4NjQ%3D&devicetype=Windows+10+x64&version=63060012&lang=zh_CN&session_us=gh_e18f20900200&countrycode=AL&exportkey=n_ChQIAhIQrwggvN1UrefCuL6o72BiDxLuAQIE97dBBAEAAAAAABSPC1awC%2BcAAAAOpnltbLcz9gKNyK89dVj0EEKqhSFRQAt1Y2oQLjKk%2Fu1jLrR4EU8sgxaPXlxA2cdsms6iXGoloFMbb1mqdQrBhIHY14NDnwHkzAlP1rNs%2BigSUQNj8IlCr%2BxJs5Ps5kVdppmNG1OX8bEG%2BR4sLF%2BG%2F7MQ9XJyMzJRx%2B%2FB4%2BcBY8kN1u4louWnvBMZEV0TqVsLMYBDlLlv4s3XrO%2F4RoM9DPkCJvR2zXkQgzBtkgyJ17It%2FenKsh5rE8uqPPsg%2FeOaD3rMPyjw9e1N%2FOIsvEMx7xAf22HeX5o%3D&acctmode=0&pass_ticket=ydhFrcEv6PrO3uwrW%2BXF75oEG8Fve6mk8x6AJZoOn9okJt2F4nr%2F2EYz2m7RVuQ6&wx_header=0&fontgear=2&scene=27#wechat_redirect)
 
 关注安全行业前沿动向、产品服务商用前景，洞悉商业市场和用户趋势，助力安全行业发展。
 

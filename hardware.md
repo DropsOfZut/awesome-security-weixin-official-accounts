@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzMzE2OTQyNA==)
 
-[:camera_flash:【2023-10-12 09:12:56】](https://mp.weixin.qq.com/s?__biz=MzIzMzE2OTQyNA==&mid=2648956390&idx=1&sn=947614c930bf32ecd0f745ca9453b130&chksm=f09eca99c7e9438ffef1aba973bc63ba2f713a0015bfe4dae14cafed653c7c539bbe22207685&scene=27#wechat_redirect)
+[:camera_flash:【2023-10-31 09:13:58】](https://mp.weixin.qq.com/s?__biz=MzIzMzE2OTQyNA==&mid=2648956484&idx=1&sn=07ae0ab62a6eb4e6c3e804384f4cc04f&chksm=f09ec93bc7e9402d8bc9c7be8ee46378c91e0b8074064b1da3220c2b9637c236ebd2b87f8cf5&scene=27#wechat_redirect)
 
 坚持以非正常体位探寻未知信号。 国内商业安全、TSCM技术反窃密、隐私保护及物理安全领域前行者。持久关注通信安全、海外威胁情报、犯罪防御与群氓效应。
 
@@ -185,7 +185,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
 
-[:camera_flash:【2023-10-30 20:24:14】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247595756&idx=3&sn=cbd1ba4dd9a490d0a0790fea15663071&chksm=fc032626cb74af302e9285e9215811a7f4cbc0a61fc5e5b6feb3cd50a496b111acbabc2d31db&scene=27#wechat_redirect)
+[:camera_flash:【2023-10-31 19:08:44】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247595941&idx=3&sn=c8fe707d7360ae3b0bcb0b5580c0d048&chksm=fc03276fcb74ae798fbe4a1937785cd51cba591be3e83731d8e7dc669fc66b6dfa764e71278d&scene=27#wechat_redirect)
 
 为智能网联汽车行业专业人士提供信息和网络安全技术、产品及服务等行业发展最新咨询
 
@@ -289,7 +289,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTU3NTY0Nw==)
 
-[:camera_flash:【2023-10-30 08:03:12】](https://mp.weixin.qq.com/s?__biz=Mzg3NTU3NTY0Nw==&mid=2247488141&idx=1&sn=9dbab5b2c818a234e88f8f93bfede047&chksm=cf3e32bdf849bbab7cdc05160adfd949cb86d13a1a30e378d9a4076f8439b27e7dc475c3a2db&scene=27#wechat_redirect)
+[:camera_flash:【2023-10-31 08:01:39】](https://mp.weixin.qq.com/s?__biz=Mzg3NTU3NTY0Nw==&mid=2247488143&idx=1&sn=cfd9caef9634af5477758dff9a0bdb49&chksm=cf3e32bff849bba96884052245e17f4602d96075c5446f188b8a93d8b68f398938aa4992083f&scene=27#wechat_redirect)
 
 旨于开展网络安全相关法律法规研究与电子数据取证技术研究，分享小知识、小技巧，共同学习提高，推进技术规范化建设。
 

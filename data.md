@@ -29,7 +29,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzg5MTI0OQ==)
 
-[:camera_flash:【2023-10-30 21:00:20】](https://mp.weixin.qq.com/s?__biz=MzIwMzg5MTI0OQ==&mid=2247530939&idx=1&sn=b2b01769579a52de76b7428e024896b8&chksm=96ca4ee5a1bdc7f3f87341c13c8231f1e56e8cf6e6b2798b0055a0986971795b4d580360846f&scene=27#wechat_redirect)
+[:camera_flash:【2023-10-31 21:01:09】](https://mp.weixin.qq.com/s?__biz=MzIwMzg5MTI0OQ==&mid=2247531034&idx=1&sn=267abe6c3834ce56685b048e07dd8b73&chksm=96ca4d44a1bdc4523552db9733c484d6d339ded67ae4d2f40a10d646f299d80f7d119baaee95&scene=27#wechat_redirect)
 
 专注于企业数据化应用、大数据BI技术和理论观点的研究，致力于让数据成为企业真正的生产力！帆软数据应用研究院旗下账号。
 
@@ -55,7 +55,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNzk2OTQ4MQ==)
 
-[:camera_flash:【2023-10-29 22:30:09】](https://mp.weixin.qq.com/s?__biz=MzAwNzk2OTQ4MQ==&mid=2247484168&idx=1&sn=ebb1a38b3ed01029e4b9e90b6f3c255e&chksm=9b774caeac00c5b80cec276eff07e31827f9dc401acfb295f1efef3444c31dc8e35395176e13&scene=27#wechat_redirect)
+[:camera_flash:【2023-10-31 18:21:46】](https://mp.weixin.qq.com/s?__biz=MzAwNzk2OTQ4MQ==&mid=2247484182&idx=1&sn=23668e1bfa79fa63b418c6ec70905e93&chksm=9b774cb0ac00c5a6b47a4f849a7c548c32365a90731878e9cff2cf6c20d2755251cd55a564e4&scene=27#wechat_redirect)
 
 聚焦数据安全治理，研究数据安全产品及相应技术实践
 
@@ -211,7 +211,7 @@ www.pcachina.com
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5MTk0MzIzMQ==)
 
-[:camera_flash:【2023-10-30 08:30:34】](https://mp.weixin.qq.com/s?__biz=MjM5MTk0MzIzMQ==&mid=2652017863&idx=3&sn=9a103debe9fb1db9f333d8440f5b5166&chksm=bd4beb978a3c628154a9acdf959ee008c19492188c279f8c42dcd7b40baa1e1ac409f0e51eff&scene=27#wechat_redirect)
+[:camera_flash:【2023-10-31 08:22:50】](https://mp.weixin.qq.com/s?__biz=MjM5MTk0MzIzMQ==&mid=2652017869&idx=2&sn=7de738cc4f40c9d86e89680f78fd61e4&chksm=bd4beb9d8a3c628b746b95d7d0552fa81bf7ec7a32b6a4650686e0b6de1e958804d41e4f1f8a&scene=27#wechat_redirect)
 
 可信赖的数据安全产品与服务提供商
 
