@@ -185,7 +185,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
 
-[:camera_flash:【2023-10-31 19:08:44】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247595941&idx=3&sn=c8fe707d7360ae3b0bcb0b5580c0d048&chksm=fc03276fcb74ae798fbe4a1937785cd51cba591be3e83731d8e7dc669fc66b6dfa764e71278d&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-01 20:46:08】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247596030&idx=3&sn=f30a9e695cd7be537b253b5ff11eb7c4&chksm=fc032734cb74ae228856f35728e0ae8dd0158c6370e3817b2c90171a26e9c92a645b9b0c9ff8&scene=27#wechat_redirect)
 
 为智能网联汽车行业专业人士提供信息和网络安全技术、产品及服务等行业发展最新咨询
 
@@ -328,7 +328,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwNjM4NTg4OQ==)
 
-[:camera_flash:【2023-10-28 10:06:10】](https://mp.weixin.qq.com/s?__biz=MzkwNjM4NTg4OQ==&mid=2247494014&idx=1&sn=01835e47d29002d18117eb844ad5490a&chksm=c0ebe9f0f79c60e602b904ca2ea59b854739ca2590b122735c247243909bfe2e182b54b20538&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-01 11:11:56】](https://mp.weixin.qq.com/s?__biz=MzkwNjM4NTg4OQ==&mid=2247494226&idx=1&sn=2988ac197721002aa8783574f3bc74cf&chksm=c0ebeadcf79c63ca509767ec5f9c7d27b8c651085f123f8d32788871f6f7874bc53e2811314f&scene=27#wechat_redirect)
 
 学习卫星互联网，研究卫星通信安全！
 
