@@ -68,7 +68,7 @@ OWASP中国，SecZone互联网安全研究中心官方平台
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MjQ1NTA4MA==)
 
-[:camera_flash:【2023-10-31 07:31:00】](https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247490151&idx=1&sn=9272bfc80b93e0ce7ab39d731de5cf2b&chksm=ea4bb020dd3c3936f56612839626fb06d98d4ff40e8144555ff22f2a69b3ae011f2489654da4&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-01 07:30:25】](https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247490153&idx=1&sn=7004a6e1635391349735deb0b4cce862&chksm=ea4bb02edd3c39382b30a9bc8d1dd9dbdb57510fcc648c578ae98e0df050df82fa6435eef409&scene=27#wechat_redirect)
 
 闲暇时间，逼迫自己，记录分享体验与经历，不求正确统一，但求真、善、美。
 
@@ -81,7 +81,7 @@ OWASP中国，SecZone互联网安全研究中心官方平台
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
 
-[:camera_flash:【2023-11-01 00:02:58】](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247615190&idx=2&sn=19375bf46e5451576b0e6f18abd3d7c3&chksm=ec57128ddb209b9b322c41345ef88eebf93462f05207709cb85f89279e21575a18ef0b9e549d&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-02 22:15:23】](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247615243&idx=4&sn=b44c908bb1fd84b7c8f0bdfea32ceab2&chksm=ec571350db209a468457137d005fa687b1afd321d64450a05ed6a67d4205cb06a881cd8a5acd&scene=27#wechat_redirect)
 
 商密君是全国密码行业头部公众号，旨在宣传推广《密码法》，普及商用密码知识，解读密码政策，分享商用密码行业的最新动态，为密码产业产学研用做好宣传服务，连接密码全行业精英，推动密码技术在数字经济各行业的应用和创新。
 
@@ -172,7 +172,7 @@ OWASP中国，SecZone互联网安全研究中心官方平台
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
 
-[:camera_flash:【2023-11-01 12:00:59】](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247532683&idx=1&sn=edf0c0ca2619e9fe9ad8e1ee14cd915f&chksm=fa6b39facd1cb0ece9b02b36b57931d45af7a6e91fbdffdd48a7bafd27729b6ca11502dd46c5&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-02 12:00:20】](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247532699&idx=1&sn=58ebe652c50b78f82a554334d234cd02&chksm=fa6b39eacd1cb0fc8ee3545135f26cd09dffa75acb1ce19b9bb778575486a365dc0ee8ec2170&scene=27#wechat_redirect)
 
 安全教程\\高质量文章\\面试经验分享，尽在#掌控安全EDU#
 
@@ -185,7 +185,7 @@ OWASP中国，SecZone互联网安全研究中心官方平台
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
 
-[:camera_flash:【2023-11-01 16:01:04】](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247504471&idx=2&sn=05ce6cf57c04e64faf85b44dd818b5ba&chksm=c144a0eaf63329fc30c7a425a0abd53dc713527031328233f4009bc9b57d4ae558b8209bea10&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-02 16:00:26】](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247504500&idx=2&sn=0469cb2bccdda3556fd03f07061b4098&chksm=c144a0c9f63329df1f781324146c8171e28b051fb18eccc74c7687204fc1994d54c5125334f9&scene=27#wechat_redirect)
 
 中国数字产业领域中立的第三方调研机构，提供网络安全行业的调查、研究与咨询服务。
 

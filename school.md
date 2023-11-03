@@ -510,7 +510,7 @@ Covteam工作室，成立于2005年。是以西华大学在校本科生研究生
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzNDcyMDM1MQ==)
 
-[:camera_flash:【2023-10-24 09:59:52】](https://mp.weixin.qq.com/s?__biz=MzIzNDcyMDM1MQ==&mid=2247483998&idx=1&sn=8ecd478655975c3384d3f9a91bf642ea&chksm=e8f35f6edf84d678c7687b453bfa9cd2c889046838f01561ab7d57480ce11be21b42e3c658fd&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-01 15:10:11】](https://mp.weixin.qq.com/s?__biz=MzIzNDcyMDM1MQ==&mid=2247484011&idx=1&sn=2023ab8cdaa12e9a287fbe809e41128f&chksm=e8f35f5bdf84d64dba90cbb953d74be08ae8f4c7c871e0ffc39b4cf3fda433ac63bea5269cf8&scene=27#wechat_redirect)
 
 原名为网络安全学生社团，现名为网络攻防创新实验室
 

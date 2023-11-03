@@ -120,7 +120,7 @@ CTF，从入门到放弃
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzEwMTQ3NQ==)
 
-[:camera_flash:【2023-10-28 11:07:57】](https://mp.weixin.qq.com/s?__biz=MzU3MzEwMTQ3NQ==&mid=2247507042&idx=1&sn=48e21edee1d85614fef8fcf3f9714928&chksm=fcc458aecbb3d1b8be37bac2be83c92b87f938dd14535040aeba44e715e511c868355dc982df&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-01 08:00:26】](https://mp.weixin.qq.com/s?__biz=MzU3MzEwMTQ3NQ==&mid=2247507073&idx=1&sn=d67978acdd3fe1f30d6d4ea0c4cebd04&chksm=fcc4584dcbb3d15b2df104ceee57f13f21fe43550f9253be0eee8b4a5007e566dbfa2572fbff&scene=27#wechat_redirect)
 
 青少年CTF（原名中学生CTF）帮助大家学习CTF竞赛，信息安全与网络技术。大家如果喜欢我们的视频讲解和教程可以加入我们的QQ群：797842833。快来和我们一起学习安全知识吧。
 
