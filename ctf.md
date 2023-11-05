@@ -29,7 +29,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NzY5NjgyNw==)
 
-[:camera_flash:【2023-10-24 08:02:39】](https://mp.weixin.qq.com/s?__biz=Mzg4NzY5NjgyNw==&mid=2247484674&idx=1&sn=e108a4bc58a5bb111304625c07dd8c42&chksm=cf8739d6f8f0b0c04ec52ddf0446124cd93c3f3e0735f75ec8c6a968e599ad1df7969115e04b&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-04 17:37:30】](https://mp.weixin.qq.com/s?__biz=Mzg4NzY5NjgyNw==&mid=2247484676&idx=1&sn=b5c90e578f9972a75532bb8b24bc020a&chksm=cf8739d0f8f0b0c6949ba08156df5fe66e0cac2d3336327908d20526a064a01c8a93aff400b6&scene=27#wechat_redirect)
 
 PTE小技巧
 
@@ -42,7 +42,7 @@ PTE小技巧
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5Njg1NzMyNw==)
 
-[:camera_flash:【2023-10-27 18:20:51】](https://mp.weixin.qq.com/s?__biz=MzU5Njg1NzMyNw==&mid=2247487402&idx=1&sn=0c409c88ff4694bc06fb10dd50be1034&chksm=fe5d172ac92a9e3cdeac20925c7a3dfd54e74f956daac60b3b6a01ef2afb0df17d554b7b3c3e&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-04 12:03:20】](https://mp.weixin.qq.com/s?__biz=MzU5Njg1NzMyNw==&mid=2247487466&idx=1&sn=67c31d6780e6dbf63856b0043429b4db&chksm=fe5d176ac92a9e7cd5835ba06d3c3a73b0433f862c29fa7ec455b1127808d6b9325607d2f420&scene=27#wechat_redirect)
 
 由奇安信集团、清华大学、蚂蚁集团主办，联合北京大学、中科院软件所、复旦大学、中山大学、山东大学、中国科技大学等30多个知名高校和研究机构共同举办的聚焦大数据安全分析的比赛。
 
@@ -68,7 +68,7 @@ PTE小技巧
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
 
-[:camera_flash:【2023-10-10 19:38:21】](https://mp.weixin.qq.com/s?__biz=MzkyNDA5NjgyMg==&mid=2247496589&idx=1&sn=a2010189891f17f85d5ce5ce55c9df78&chksm=c1d9b3d4f6ae3ac2b6c7f11d1c48c7adbc2c89c45e6299f86ede72b3d56935a84b73cb5f2a6e&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-03 18:51:21】](https://mp.weixin.qq.com/s?__biz=MzkyNDA5NjgyMg==&mid=2247496601&idx=1&sn=473c7e0bb4488c7d4d263d7e9201515a&chksm=c1d9b3c0f6ae3ad6a147161da00b42318aae01cf9f35ab6d3069b667bfba889eabf115ba9ac3&scene=27#wechat_redirect)
 
 春秋伽玛，为广大网络安全爱好者传递网络安全大赛相关赛事信息，提供优质的赛事服务平台
 

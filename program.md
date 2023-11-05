@@ -146,7 +146,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
 
-[:camera_flash:【2023-11-01 10:30:59】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247504575&idx=1&sn=3733174000a1c09ae8168a212ceaa9e1&chksm=e9d3195ddea4904ba064490651a203b76ca03947a83ecf653368b7fa58054e9995126bd6a256&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-03 10:30:22】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247504611&idx=1&sn=018a6b5397639754c761d71a960f434d&chksm=e9d31901dea49017f061f8db58141d7237841aba9a2f308179b44b25c52b068892f2a89cf583&scene=27#wechat_redirect)
 
 字节跳动的技术实践分享
 
@@ -159,7 +159,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI4MzcwNTAzOQ==)
 
-[:camera_flash:【2023-10-26 11:52:29】](https://mp.weixin.qq.com/s?__biz=MzI4MzcwNTAzOQ==&mid=2247535253&idx=1&sn=a63da635da47e36d7a285a69fff6f365&chksm=eb84a135dcf32823c3baa9ffe8764369b8ed1dbda68729cb451512fb86f09740320c78689cd8&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-03 12:04:13】](https://mp.weixin.qq.com/s?__biz=MzI4MzcwNTAzOQ==&mid=2247535559&idx=1&sn=fe740dada545636afdef120589048d4b&chksm=eb84a067dcf32971d9188072cf349eeb104785c6e787455338ffc6b3bd22637fe88afe0ba2c7&scene=27#wechat_redirect)
 
 新一代网络安全测试工具，由赵武Zwell（Pangolin、FOFA作者）打造，能够针对一个目标企业梳理最全的攻击面信息，同时能进行高效、实战化漏洞扫描，并快速的从一个验证入口点，切换到横向。
 
@@ -341,7 +341,7 @@ Will的小屋
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3Njc0NTgwMg==)
 
-[:camera_flash:【2023-11-01 12:00:39】](https://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&mid=2247497172&idx=1&sn=5fc45ab7262c95eaed37cd8371d7019f&chksm=cf2f30f1f858b9e7974f62df0e21ff8e89e34e0291e4437b66b3624b069926a49a5dcb8af94b&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-03 12:00:21】](https://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&mid=2247497226&idx=1&sn=5839668701a9842778151f55a6568d43&chksm=cf2f332ff858ba39957bf325cba11546ce322b9e89a7f2e3c3adeabf1fb5b36e92b02229dd64&scene=27#wechat_redirect)
 
 提供B站相关技术的介绍和讲解
 
