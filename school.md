@@ -55,7 +55,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
 
-[:camera_flash:【2023-11-04 12:01:02】](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247487766&idx=1&sn=3995b00d3b3496511e159bbe5a499a78&chksm=fdeb9568ca9c1c7eb80f005625b307496d502d98d09004b3b916cfb9ed0246b33ceb60c728a7&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-06 12:12:52】](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247487805&idx=1&sn=a1411050275bbe40e5312dfaffe63d09&chksm=fdeb9543ca9c1c55eb451edcb045ba4a42b00753430cf90f9fdc90906350407c24a557424f3b&scene=27#wechat_redirect)
 
 以复旦大学系统安全实验室学生为主成立的安全攻防战队，分享最新研究成果，交流系统安全攻防领域技巧。
 
@@ -250,7 +250,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0MjI1NzY1NQ==)
 
-[:camera_flash:【2023-10-17 22:00:44】](https://mp.weixin.qq.com/s?__biz=Mzk0MjI1NzY1NQ==&mid=2247486363&idx=1&sn=c533342ffa9e66ad038e6db6175ca029&chksm=c2c4af03f5b32615ab89168734ef41d947c59c6531fe6156c2945365005ea0c61e0ed32a341a&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-06 10:42:59】](https://mp.weixin.qq.com/s?__biz=Mzk0MjI1NzY1NQ==&mid=2247486543&idx=1&sn=ee3b86498c3d2cb60e12a09fe09b10f7&chksm=c2c4a8d7f5b321c1268e699ba4318234acd11a47bd20192d81f36051824b2f175d0eadf49c11&scene=27#wechat_redirect)
 
 渭南师范学院网络信息安全协会官方账号，为您提供网络安全相关资讯与技术分享。
 
@@ -380,7 +380,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDYzMjAyNA==)
 
-[:camera_flash:【2023-10-27 10:55:00】](https://mp.weixin.qq.com/s?__biz=Mzg3MDYzMjAyNA==&mid=2247485213&idx=1&sn=fc54233f2cdc291b8bc7d5a4507a85a7&chksm=ce8b982af9fc113cd2f1068137656799f9d072be0a6980d125d839f998403b2c6adc60466f99&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-07 10:23:16】](https://mp.weixin.qq.com/s?__biz=Mzg3MDYzMjAyNA==&mid=2247485275&idx=1&sn=0afd2061b5041d83e2a2b6bf3afed815&chksm=ce8b986cf9fc117adfc71f916c0306ffe8ccf0c988bd6569019fe168a6f700a892affc1591eb&scene=27#wechat_redirect)
 
 深圳市网安计算机网络安全培训中心是由深圳市人力资源局备案的社会第三方培训机构。是受广东省人力资源和社会保障厅委托，开展“网络与信息安全管理员”职业技能等级认定工作的第三方社会评价机构。
 

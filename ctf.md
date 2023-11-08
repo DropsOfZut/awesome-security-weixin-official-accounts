@@ -42,7 +42,7 @@ PTE小技巧
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5Njg1NzMyNw==)
 
-[:camera_flash:【2023-11-04 12:03:20】](https://mp.weixin.qq.com/s?__biz=MzU5Njg1NzMyNw==&mid=2247487466&idx=1&sn=67c31d6780e6dbf63856b0043429b4db&chksm=fe5d176ac92a9e7cd5835ba06d3c3a73b0433f862c29fa7ec455b1127808d6b9325607d2f420&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-06 11:31:06】](https://mp.weixin.qq.com/s?__biz=MzU5Njg1NzMyNw==&mid=2247487489&idx=1&sn=4faad5596a23437ddeda3b7561d17d5d&chksm=fe5d0881c92a81974a94cb39254022bc57ea5b72aa15dc58a4476b3a09a66c0db862ac1b98f9&scene=27#wechat_redirect)
 
 由奇安信集团、清华大学、蚂蚁集团主办，联合北京大学、中科院软件所、复旦大学、中山大学、山东大学、中国科技大学等30多个知名高校和研究机构共同举办的聚焦大数据安全分析的比赛。
 
@@ -68,7 +68,7 @@ PTE小技巧
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
 
-[:camera_flash:【2023-11-03 18:51:21】](https://mp.weixin.qq.com/s?__biz=MzkyNDA5NjgyMg==&mid=2247496601&idx=1&sn=473c7e0bb4488c7d4d263d7e9201515a&chksm=c1d9b3c0f6ae3ad6a147161da00b42318aae01cf9f35ab6d3069b667bfba889eabf115ba9ac3&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-06 19:41:03】](https://mp.weixin.qq.com/s?__biz=MzkyNDA5NjgyMg==&mid=2247496629&idx=1&sn=cb074f74b42783fb363ba665cf44b968&chksm=c1d9b3ecf6ae3afa48148093d8d955aea5f26359b1723cdd287d92b08eb0445d848c4d080ef3&scene=27#wechat_redirect)
 
 春秋伽玛，为广大网络安全爱好者传递网络安全大赛相关赛事信息，提供优质的赛事服务平台
 
