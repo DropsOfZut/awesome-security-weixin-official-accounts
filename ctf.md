@@ -42,7 +42,7 @@ PTE小技巧
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5Njg1NzMyNw==)
 
-[:camera_flash:【2023-11-11 11:30:20】](https://mp.weixin.qq.com/s?__biz=MzU5Njg1NzMyNw==&mid=2247487544&idx=1&sn=1014afe76fc9a130279047f8e44081c3&chksm=fe5d08b8c92a81aef6d9f9ec2a6dc9ee0163310cb307e1a4e655d5f9895dd1f0c5fdfbe5e7fd&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-13 18:32:20】](https://mp.weixin.qq.com/s?__biz=MzU5Njg1NzMyNw==&mid=2247487572&idx=1&sn=0927d3cf55fccd9e4444bd29fb01d055&chksm=fe5d08d4c92a81c23387893432b87ef7f4c7d3e060601aa0182a9861af5c19a76bf947dafcc9&scene=27#wechat_redirect)
 
 由奇安信集团、清华大学、蚂蚁集团主办，联合北京大学、中科院软件所、复旦大学、中山大学、山东大学、中国科技大学等30多个知名高校和研究机构共同举办的聚焦大数据安全分析的比赛。
 
@@ -68,7 +68,7 @@ PTE小技巧
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
 
-[:camera_flash:【2023-11-06 19:41:03】](https://mp.weixin.qq.com/s?__biz=MzkyNDA5NjgyMg==&mid=2247496629&idx=1&sn=cb074f74b42783fb363ba665cf44b968&chksm=c1d9b3ecf6ae3afa48148093d8d955aea5f26359b1723cdd287d92b08eb0445d848c4d080ef3&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-13 18:40:00】](https://mp.weixin.qq.com/s?__biz=MzkyNDA5NjgyMg==&mid=2247496684&idx=1&sn=3ef2c588d6fae9fdf2f72700fa8be5a0&chksm=c1d9b3b5f6ae3aa367ae61f6007a46596ad971afd78aec9fcc1414a59b785a72e1ad0dfff467&scene=27#wechat_redirect)
 
 春秋伽玛，为广大网络安全爱好者传递网络安全大赛相关赛事信息，提供优质的赛事服务平台
 
@@ -120,7 +120,7 @@ CTF，从入门到放弃
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzEwMTQ3NQ==)
 
-[:camera_flash:【2023-11-01 08:00:26】](https://mp.weixin.qq.com/s?__biz=MzU3MzEwMTQ3NQ==&mid=2247507073&idx=1&sn=d67978acdd3fe1f30d6d4ea0c4cebd04&chksm=fcc4584dcbb3d15b2df104ceee57f13f21fe43550f9253be0eee8b4a5007e566dbfa2572fbff&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-13 19:23:15】](https://mp.weixin.qq.com/s?__biz=MzU3MzEwMTQ3NQ==&mid=2247507085&idx=1&sn=bc43f98fe7d0d4e7133d6d4fd83b903e&chksm=fcc45841cbb3d1579e0b2eb0e7dbe77cf1ec57becf5bbd725acbeaadfe9a47ad45dbd8b6ee20&scene=27#wechat_redirect)
 
 青少年CTF（原名中学生CTF）帮助大家学习CTF竞赛，信息安全与网络技术。大家如果喜欢我们的视频讲解和教程可以加入我们的QQ群：797842833。快来和我们一起学习安全知识吧。
 
@@ -276,7 +276,7 @@ CTF协会
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjcxMTAwMQ==)
 
-[:camera_flash:【2023-11-08 12:25:47】](https://mp.weixin.qq.com/s?__biz=Mzg4MjcxMTAwMQ==&mid=2247487676&idx=1&sn=c687b6ee13aafc9d1fdb35ace3a7790c&chksm=cf53d00af824591c249d1071bd0021a56577b65af85019961102bb8ed5316e766d722a257119&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-13 13:34:26】](https://mp.weixin.qq.com/s?__biz=Mzg4MjcxMTAwMQ==&mid=2247487703&idx=1&sn=6bbcccbb8a8d4a33a08a9a7a09be5e1b&chksm=cf53d061f8245977f24d24929dd3ca01b432ef20b59c79df3fd2d7d554dcdb13baf72da298f9&scene=27#wechat_redirect)
 
 山海关安全团队公众号。
 

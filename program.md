@@ -42,7 +42,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
 
-[:camera_flash:【2023-11-07 14:04:01】](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247489957&idx=1&sn=0c7e2ef3b24da84cd3f34e72e32b15c4&chksm=fe2ee62ec9596f386948917a2ecc68d0e1ab630eff8521ad7e39ae61a2997d170293df27f6ba&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-14 00:01:46】](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247489978&idx=1&sn=f7bc2b7242ee898a225f607afd75cbcf&chksm=fe2ee631c9596f2732a6e70ac6e1c9214d1fc46ffbacaf019d488c604ba4f4d79cc19ab84297&scene=27#wechat_redirect)
 
 分享安全方面的论文写作、会议发表、基金申请方面的资料。
 
@@ -432,7 +432,7 @@ FOFA是由华顺信安科技有限公司开发的一款网络空间资产搜索�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzE2MzY1OA==)
 
-[:camera_flash:【2023-10-30 21:14:33】](https://mp.weixin.qq.com/s?__biz=Mzg4MzE2MzY1OA==&mid=2247497460&idx=1&sn=e47cee32370b4d5efb2e6148289b097d&chksm=cf492191f83ea88716ac5135befd2f902efbf7085aa661525be7cfed323bb967ad6bdc55ffb8&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-01 18:59:44】](https://mp.weixin.qq.com/s?__biz=Mzg4MzE2MzY1OA==&mid=2247497490&idx=1&sn=9b128e194786c190d5f278356536a76a&chksm=cf492077f83ea961f442c854512fd149c190a89989f9a7f1ca2688ecf6f70dbed1b05b7f9008&scene=27#wechat_redirect)
 
 OPPO 安第斯智能云（AndesBrain）是服务个人、家庭与开发者的泛终端智能云，致力于“让终端更智能”。作为 OPPO 三大核心技术之一，安第斯智能云提供端云协同的数据存储与智能计算服务，是万物互融的“数智大脑”。
 
@@ -445,7 +445,7 @@ OPPO 安第斯智能云（AndesBrain）是服务个人、家庭与开发者的�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzE1MTQzNw==)
 
-[:camera_flash:【2023-11-09 16:07:58】](https://mp.weixin.qq.com/s?__biz=Mzg4MzE1MTQzNw==&mid=2247488517&idx=1&sn=ea82e2e5478f48a95a574ef9f83839fe&chksm=cf4a9327f83d1a31523db57dbaa3bf10a985033febc26cefbfafb6dc7716f515a367f02b99a2&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-13 11:35:55】](https://mp.weixin.qq.com/s?__biz=Mzg4MzE1MTQzNw==&mid=2247488586&idx=1&sn=fc6944e436ce895e5efc6067de2d92c4&chksm=cf4a9368f83d1a7e2341fcef39b5b628144da80498a72a28dd6877dfb89de4cedb738e4f1534&scene=27#wechat_redirect)
 
 北邮图数据挖掘与机器学习实验室
 
