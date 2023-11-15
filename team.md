@@ -224,7 +224,7 @@ Gcow是当前国内为数不多的民间网络信息安全研究团队之一。�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MTQwMzMxNA==)
 
-[:camera_flash:【2023-11-13 19:15:28】](https://mp.weixin.qq.com/s?__biz=MzU2MTQwMzMxNA==&mid=2247535771&idx=2&sn=12806a88227b7e625f207e3ca7994390&chksm=fc7b4846cb0cc1509c26c18c23a6ec75401fdf8f3acbf26fbe2240c77a1a34d0dfa52f249a7c&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-14 19:00:20】](https://mp.weixin.qq.com/s?__biz=MzU2MTQwMzMxNA==&mid=2247535800&idx=2&sn=8b0899462c28e9f558446a5932a3465d&chksm=fc7b4865cb0cc173ffc59721a8ff3d0e476f0b9f4f1262a1c306b8be284dcd8f10e1d4382001&scene=27#wechat_redirect)
 
 安世加专注于网络安全⾏业，通过互联⽹平台、线下沙⻰、峰会、⼈才招聘等多种形式，致力于培养安全⼈才，提升⾏业的整体素质，助推安全⽣态圈的健康发展。
 
@@ -341,7 +341,7 @@ Penetration Testing &amp; Red Team &amp; Security
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxNzkyOTgxMw==)
 
-[:camera_flash:【2023-11-13 19:42:16】](https://mp.weixin.qq.com/s?__biz=MzAxNzkyOTgxMw==&mid=2247491663&idx=2&sn=115dc368d93ecb392c2b74135198077c&chksm=9bdca375acab2a6300783cfce3e41ddbb2b2e188d8c7671659cc43ff71f8f41e71d5aeed6cc4&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-14 19:50:40】](https://mp.weixin.qq.com/s?__biz=MzAxNzkyOTgxMw==&mid=2247491666&idx=1&sn=c1e83dcee0bd95f64961d933ec5cf21b&chksm=9bdca368acab2a7ef0d18ad4ceff573e0c020dc2359229d58d2c880e208ad1b09a792ab11537&scene=27#wechat_redirect)
 
 专注安全技术分享，涵盖web渗透，代码审计，内网/域渗透，poc/exp脚本开发，经常更新一些最新的漏洞复现，漏洞分析文章，内网渗透思路技巧、脱敏的实战文章、waf绕过技巧以及好文推荐等，未来着重点会在java安全相关分享。
 
@@ -406,7 +406,7 @@ Penetration Testing &amp; Red Team &amp; Security
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxOTk2Mjg1NA==)
 
-[:camera_flash:【2023-11-13 15:33:29】](https://mp.weixin.qq.com/s?__biz=MzIxOTk2Mjg1NA==&mid=2247487029&idx=1&sn=69e66c54dabf42f7aa5dd5cd200d83ce&chksm=97d202bca0a58baabaf40e25aecd011f212abc6bedd3f5c967bb9ca7497c4824f5f589c1e7c3&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-14 13:59:56】](https://mp.weixin.qq.com/s?__biz=MzIxOTk2Mjg1NA==&mid=2247487037&idx=1&sn=41468deda14032f78d22bdad990789eb&chksm=97d202b4a0a58ba253e7194d17e359f6406ca9090a2f5d96ab51e17fe2f18841e5fcf31875d2&scene=27#wechat_redirect)
 
 信息安全
 
@@ -835,7 +835,7 @@ Tencent A&amp;D Team 关注安全前沿攻防技术研究。
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2NDY2OTU4Nw==)
 
-[:camera_flash:【2023-11-14 00:00:49】](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247510666&idx=1&sn=5c0d8f5186e8ab67e417383671d40305&chksm=fc459776cb321e6053b68e18d2d16cb9fde053481183f9e9632f40b51df57869481e78f3959c&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-15 00:00:41】](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247510673&idx=1&sn=6a60b94b08eb92b95201b27eff57fad6&chksm=fc45976dcb321e7bd5182f78801091cb1092329df02fce367143beb0ba62e004c5477c4a6dbb&scene=27#wechat_redirect)
 
 船山院士网络安全团队唯一公众号，为国之安全而奋斗，为信息安全而发声！
 
@@ -1056,7 +1056,7 @@ Tencent A&amp;D Team 关注安全前沿攻防技术研究。
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5ODUxMzg0Ng==)
 
-[:camera_flash:【2023-11-10 20:12:58】](https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247496664&idx=1&sn=553268060f2760fb5434d715965c6eef&chksm=c063dd01f71454175fae11ac78fb05e640bc6c0947f3ee7581719fb8a04397a0c6cea6f46569&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-14 20:58:55】](https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247496683&idx=1&sn=7ac38c891f24e7d3f3b05fd44c904314&chksm=c063dd32f714542409cb5fdebb3bd72596931570bca6ac5ef309a40f082dd7d0afd82c293c05&scene=27#wechat_redirect)
 
 G.O.S.S.I.P 软件安全研究组
 
@@ -1615,7 +1615,7 @@ FCSQ安全团队官方账号
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzNTE0Mzc0OA==)
 
-[:camera_flash:【2023-11-13 20:04:13】](https://mp.weixin.qq.com/s?__biz=MzIzNTE0Mzc0OA==&mid=2247485398&idx=1&sn=ea61d6617230bf8ac5dd95fd3e9f67b2&chksm=e8ead0fddf9d59eb042449001b895cbd3a3ea87e69cffbb12013b084ebf5cb6b40568c4db251&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-14 20:24:51】](https://mp.weixin.qq.com/s?__biz=MzIzNTE0Mzc0OA==&mid=2247485435&idx=1&sn=54275bcd7855b5c161b108923b055906&chksm=e8ead0d0df9d59c6a6e927761d58784504b5617be1d582ed06b008dcb800821de1b4bf51a48d&scene=27#wechat_redirect)
 
 致力于分享渗透测试、应急响应、红队修炼等知识总结
 
@@ -1914,7 +1914,7 @@ VLab Team是墨云科技旗下的安全研究团队，专注于漏洞挖掘、�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4MjMzMjU3Mg==)
 
-[:camera_flash:【2023-10-27 16:33:03】](https://mp.weixin.qq.com/s?__biz=MzA4MjMzMjU3Mg==&mid=2247484324&idx=1&sn=5db9cd03c3a2c2192d7118f4745a9530&chksm=9f861d57a8f194410d0a585e67311d40fb285f0ac76e79a92676b31780b484f9a41e947a6d01&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-14 11:56:33】](https://mp.weixin.qq.com/s?__biz=MzA4MjMzMjU3Mg==&mid=2247484338&idx=1&sn=1e798489d0469a0f4cdba02c828d0321&chksm=9f861d41a8f1945751bf1e2e36db801be8e5ee28ef19973a7799fd35f03215816bc1563a1a6f&scene=27#wechat_redirect)
 
 网络安全技术交流、培训、咨询、红队测试
 
@@ -2382,7 +2382,7 @@ EchoSec安全团队专注于网络信息安全领域，不定期分享领域内�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3ODc2NTg1OA==)
 
-[:camera_flash:【2023-11-05 13:06:33】](https://mp.weixin.qq.com/s?__biz=MzU3ODc2NTg1OA==&mid=2247489126&idx=1&sn=8d75eab465fb11691f6ba90a1cb9ff28&chksm=fd71032bca068a3d80ad07f542edab9433859cf41c1f7637dfede93a3e51854621a5ca9ce405&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-14 14:46:54】](https://mp.weixin.qq.com/s?__biz=MzU3ODc2NTg1OA==&mid=2247489161&idx=1&sn=8536e61da08aa979e6335f92172c1484&chksm=fd7103c4ca068ad2b0b961adaa460fb152176f69ab5ded68ba9805c63fc721dd78e7ef087103&scene=27#wechat_redirect)
 
 星盟安全工作室---“VENI VIDI VICI”（我来，我见，我征服），我们的征途是星辰大海。从事各类安全研究，专注于知识分享。
 

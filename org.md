@@ -42,7 +42,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NzA3Nzg2MA==)
 
-[:camera_flash:【2023-11-13 18:16:21】](https://mp.weixin.qq.com/s?__biz=MjM5NzA3Nzg2MA==&mid=2649866735&idx=1&sn=43c6d793e266f29e2c7dc39cf6b1e39e&chksm=beda17e489ad9ef253248f53268efd21c0f45810cd31b9b5bed32bf4d28c78d5c8805fdb8f17&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-14 18:22:20】](https://mp.weixin.qq.com/s?__biz=MjM5NzA3Nzg2MA==&mid=2649866789&idx=1&sn=0c86a7afdb5bab0464289305b94c6dc7&chksm=beda142e89ad9d38503e2265a2c7eefb8de401456208c13622dd359acbec5cb5aefc4de75131&scene=27#wechat_redirect)
 
 知道创宇是一家立足攻防一线，以“AI+安全大数据”为底层能力，为客户提供云防御、云监测、云测绘产品与服务的网络安全公司。未来，知道创宇将致力于为客户提供安全网络。
 
@@ -94,7 +94,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2NzY5MDI3NQ==)
 
-[:camera_flash:【2023-11-13 19:00:11】](https://mp.weixin.qq.com/s?__biz=MzI2NzY5MDI3NQ==&mid=2247500526&idx=1&sn=e18a536e8d9a0c012eb638827d987a6e&chksm=eaf98aa2dd8e03b4a21c81d930bf86c4266ee8050ceea5d52a7d21a71eec7756fe6568f9b927&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-14 17:00:47】](https://mp.weixin.qq.com/s?__biz=MzI2NzY5MDI3NQ==&mid=2247500549&idx=1&sn=27fbbd3b760a20525a2b0ecb7df4a2fe&chksm=eaf98b49dd8e025f99ff1689297182156f07d75797348cdb36af57406865ef827136f6b2fd71&scene=27#wechat_redirect)
 
 补天漏洞响应平台旨在建立企业与白帽子之间的桥梁，帮助企业建立SRC（安全应急响应中心），让企业更安全，让白帽子获益。
 
@@ -133,7 +133,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyODYzNTU2OA==)
 
-[:camera_flash:【2023-11-13 17:01:13】](https://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247496158&idx=1&sn=f93e40d13b930494ec25483d3d2dee70&chksm=e84c5701df3bde17969ffc84e86630df321a06801ff19402404ad176f012d5bdf17024eab425&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-14 17:00:33】](https://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247496167&idx=1&sn=2bbbab0f82fdb006daf4e24e3ca09377&chksm=e84c5738df3bde2e091fcb0a471d04925b21e004dd0dddec9cf51f95b8072e4273a0ce8ac60e&scene=27#wechat_redirect)
 
 绿盟科技研究通讯-绿盟研究成果发布地，创新、孵化、布道，只玩最酷的安全技术
 
@@ -211,7 +211,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzMDUxNTE1Mw==)
 
-[:camera_flash:【2023-11-13 11:31:04】](https://mp.weixin.qq.com/s?__biz=MzUzMDUxNTE1Mw==&mid=2247502836&idx=1&sn=7912b58906d3ab1bec93464917db3bfb&chksm=fa521e4acd25975cb0e305ba4fb9cda7121e0711fba80cf6058e2503bcb7efc8dce6cc93f479&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-14 11:06:34】](https://mp.weixin.qq.com/s?__biz=MzUzMDUxNTE1Mw==&mid=2247502917&idx=1&sn=c70dc279f88cbb8a1f93935b98a5d578&chksm=fa5219fbcd2590ed26c0cdd92dab1a5fe236ab250da19d1bcb67563b208d1f304b75b5f12a0b&scene=27#wechat_redirect)
 
 山石安全技术研究院成立于2020年，是公司的信息安全智库与创新部门，旗下包括智能、应用、工控、信创和核心基础等五大实验室，输出原创漏洞、安全专利、原创文章、安全议题等研究成果，不断提供新的漏洞证书、致谢与编号
 
@@ -263,7 +263,7 @@ SecIN安全技术社区是启明星辰云众可信旗下品牌，是一个由安
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyMzE5NTQ3Ng==)
 
-[:camera_flash:【2023-11-13 18:38:41】](https://mp.weixin.qq.com/s?__biz=MzIyMzE5NTQ3Ng==&mid=2650626752&idx=1&sn=a1e9837aa550f847905ac1060d75743e&chksm=f02802fbc75f8bed826ceaca3a31e8c7f80f4bd4360c848fd4e914022276bf52243e2aa53f23&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-14 18:50:48】](https://mp.weixin.qq.com/s?__biz=MzIyMzE5NTQ3Ng==&mid=2650626815&idx=1&sn=4680e505abd4927fa3231010e1c47b1d&chksm=f02802c4c75f8bd21e33e86be8e212120b50c3a78ad66da0480e4a5bbb7bd0afafb97694fc14&scene=27#wechat_redirect)
 
 疯猫网络致力于网络安全和反病毒分析的前沿,同时是国内领先的IDC服务商。
 
@@ -315,7 +315,7 @@ SecIN安全技术社区是启明星辰云众可信旗下品牌，是一个由安
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNjc0MDA1NA==)
 
-[:camera_flash:【2023-11-06 10:01:47】](https://mp.weixin.qq.com/s?__biz=MzAwNjc0MDA1NA==&mid=2650139393&idx=1&sn=98b5e7bcacec97a6918a8afc79215a52&chksm=83098a38b47e032e067bcf8b3a00d88f25709e33cbc16353cf77075c3c97de167f416ea5bf37&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-14 10:03:50】](https://mp.weixin.qq.com/s?__biz=MzAwNjc0MDA1NA==&mid=2650139408&idx=1&sn=cfa1892dcc0446403839ae62eb763a80&chksm=83098a29b47e033f6604600f7b5d3ec2c90425616c977988feeb2a70929ec4978f787af4aa28&scene=27#wechat_redirect)
 
 汇全球之智，明安全之道。
 
@@ -406,7 +406,7 @@ KCon 黑客大会，汇聚黑客的智慧。知道创宇出品，追求干货有
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0NDk0NTAwMw==)
 
-[:camera_flash:【2023-11-13 18:42:43】](https://mp.weixin.qq.com/s?__biz=MzU0NDk0NTAwMw==&mid=2247601730&idx=3&sn=a08f0d54ed363e53c50d6778f5516a1e&chksm=fb776846cc00e1502ce83a6174b1a350dc16e5c372f97a687ab9175711875a32249c4391adee&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-14 18:35:21】](https://mp.weixin.qq.com/s?__biz=MzU0NDk0NTAwMw==&mid=2247601793&idx=4&sn=7280b3a7a28be7112bc5fc7691e41089&chksm=fb776885cc00e19371e44f759aa49740fcae2257ca1328fd34c01ddaabf73ad018ec3d6b02d7&scene=27#wechat_redirect)
 
 新一代网络安全领军者。
 
@@ -484,7 +484,7 @@ KCon 黑客大会，汇聚黑客的智慧。知道创宇出品，追求干货有
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NjU5MTIxMg==)
 
-[:camera_flash:【2023-11-10 16:30:27】](https://mp.weixin.qq.com/s?__biz=MzA3NjU5MTIxMg==&mid=2650573036&idx=1&sn=4c37d55c8c294a45b16056ecfb13ece3&chksm=8756d1efb02158f99867795ae3f9e65c61b90503a96af23ac20fa66adba6cfa826014e068c5a&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-14 16:00:45】](https://mp.weixin.qq.com/s?__biz=MzA3NjU5MTIxMg==&mid=2650573042&idx=1&sn=9cd9559320fc8619cd8aaac8cf121163&chksm=8756d1f1b02158e7f822b8f5ce6e0c192f48aadbd4a7995e16ce54c2a462f38a0dec6fe66274&scene=27#wechat_redirect)
 
 北京国舜科技股份有限公司，新一代场景化网络安全综合解决方案供应商代表，国家高新技术企业，以创新的技术研发、丰富的认证资质致力于为客户提供DEVSECOPS、XDR、Web应用安全、等保合规等领域的产品、服务和整体解决方案。
 
@@ -497,7 +497,7 @@ KCon 黑客大会，汇聚黑客的智慧。知道创宇出品，追求干货有
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU1OTc2MzE2Mg==)
 
-[:camera_flash:【2023-11-03 14:32:38】](https://mp.weixin.qq.com/s?__biz=MzU1OTc2MzE2Mg==&mid=2247488318&idx=1&sn=68ec5a196769e81b8b38c50b2f53b4ea&chksm=fc13088bcb64819d0094359bf6c16898d2823f61d76196e0d626e475634c0a2b0642d48c5c88&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-14 16:51:36】](https://mp.weixin.qq.com/s?__biz=MzU1OTc2MzE2Mg==&mid=2247488366&idx=1&sn=26e2d31c5e0f4a38d80a93e048fe830d&chksm=fc1308dbcb6481cd1c8e290ef3ea2ccec3f62cbbe86b29852faab81c7752b6122b117e51d870&scene=27#wechat_redirect)
 
 零时科技是专业的区块链安全解决方案提供商，公司团队专注于区块链生态基础设施安全研究，包括安全审计、资产安全、以及Web3.0安全攻防技术研究；  零时科技官网：https://noneage.com/
 
@@ -549,7 +549,7 @@ KCon 黑客大会，汇聚黑客的智慧。知道创宇出品，追求干货有
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1OTYyOTUyOA==)
 
-[:camera_flash:【2023-11-10 11:41:33】](https://mp.weixin.qq.com/s?__biz=MzI1OTYyOTUyOA==&mid=2247487177&idx=1&sn=a6e38fd71e34f6123cfabc720b870283&chksm=ea77467edd00cf68f716c4c5051517efe07445016d1c0307b947f7d847d17b23e311fb60a12a&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-14 11:30:18】](https://mp.weixin.qq.com/s?__biz=MzI1OTYyOTUyOA==&mid=2247487183&idx=1&sn=fdb60b8d102294efa3a5dd05fe47f30a&chksm=ea774678dd00cf6e7d6b9f8ad9148ab0b0aee67d90dffe1cdfe9ac7154680dcc661be039fe3d&scene=27#wechat_redirect)
 
 Imperva是一家全球公认领先的应用数据安全及云安全供应商，提供世界一流的数据、应用、API、云端安全解决方案。公司成立于2002年，总部位于美国加州红木海岸，在全球100多个国家拥有超过6000+直接客户和超过550+合作伙伴。
 

@@ -211,7 +211,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NjUzODYyNw==)
 
-[:camera_flash:【2023-10-21 22:08:42】](https://mp.weixin.qq.com/s?__biz=Mzg4NjUzODYyNw==&mid=2247484749&idx=1&sn=beab36afe4b4dd4fe65b46903fb5ceb7&chksm=cf996da1f8eee4b73266c0742d978f7749930aa8fd6ae2e3431e6c7cc4d1bf70cf75dc392dc4&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-14 08:56:41】](https://mp.weixin.qq.com/s?__biz=Mzg4NjUzODYyNw==&mid=2247484882&idx=1&sn=f0be6479da17a6e68a54697d5011c32f&chksm=cf996d3ef8eee428e78241effa0d00edbc9f7616ed9125a0b6c7619b35326c239dd6c8b50fbb&scene=27#wechat_redirect)
 
 南宁职业技术学院网络安全技术协会
 

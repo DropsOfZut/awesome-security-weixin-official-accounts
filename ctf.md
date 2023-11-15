@@ -42,7 +42,7 @@ PTE小技巧
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5Njg1NzMyNw==)
 
-[:camera_flash:【2023-11-13 18:32:20】](https://mp.weixin.qq.com/s?__biz=MzU5Njg1NzMyNw==&mid=2247487572&idx=1&sn=0927d3cf55fccd9e4444bd29fb01d055&chksm=fe5d08d4c92a81c23387893432b87ef7f4c7d3e060601aa0182a9861af5c19a76bf947dafcc9&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-14 18:53:09】](https://mp.weixin.qq.com/s?__biz=MzU5Njg1NzMyNw==&mid=2247487583&idx=1&sn=af85c04566b1d45b1583fa2851e08ae1&chksm=fe5d08dfc92a81c9251f8013fd1efd528afa9cfc96268fcb3e082a2cd33e669c86f278af9633&scene=27#wechat_redirect)
 
 由奇安信集团、清华大学、蚂蚁集团主办，联合北京大学、中科院软件所、复旦大学、中山大学、山东大学、中国科技大学等30多个知名高校和研究机构共同举办的聚焦大数据安全分析的比赛。
 
@@ -120,7 +120,7 @@ CTF，从入门到放弃
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzEwMTQ3NQ==)
 
-[:camera_flash:【2023-11-13 19:23:15】](https://mp.weixin.qq.com/s?__biz=MzU3MzEwMTQ3NQ==&mid=2247507085&idx=1&sn=bc43f98fe7d0d4e7133d6d4fd83b903e&chksm=fcc45841cbb3d1579e0b2eb0e7dbe77cf1ec57becf5bbd725acbeaadfe9a47ad45dbd8b6ee20&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-15 00:32:06】](https://mp.weixin.qq.com/s?__biz=MzU3MzEwMTQ3NQ==&mid=2247507108&idx=1&sn=3493f572d86b3ef33bb4cc303861703d&chksm=fcc45868cbb3d17e7e1913964eb814db7995ba6daf5bcda198f5bc62ae1ae5416adbd2967b78&scene=27#wechat_redirect)
 
 青少年CTF（原名中学生CTF）帮助大家学习CTF竞赛，信息安全与网络技术。大家如果喜欢我们的视频讲解和教程可以加入我们的QQ群：797842833。快来和我们一起学习安全知识吧。
 
