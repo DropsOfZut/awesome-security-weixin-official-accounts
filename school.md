@@ -55,7 +55,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
 
-[:camera_flash:【2023-11-13 18:15:09】](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247487957&idx=1&sn=4c75b63f85483151a8c1598caddb54b8&chksm=fdeb95abca9c1cbd4556cecbb2ff0602b082985ebb102ce9c8634276524b98bf291fd4955ead&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-15 19:16:57】](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247488041&idx=1&sn=fff1d0466a37bde99127a28d3739b65e&chksm=fdeb9657ca9c1f410db95b9dd777dbe7da72f902bacae0c945745a26b7fa0adcbdc723ae48c6&scene=27#wechat_redirect)
 
 以复旦大学系统安全实验室学生为主成立的安全攻防战队，分享最新研究成果，交流系统安全攻防领域技巧。
 
@@ -146,7 +146,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Njc1OTYyNA==)
 
-[:camera_flash:【2023-10-23 10:30:01】](https://mp.weixin.qq.com/s?__biz=MjM5Njc1OTYyNA==&mid=2450786565&idx=1&sn=ecd301d5f308bc7e4f5901f6187beb8e&chksm=b104f8228673713458801f4e84e0726a382df97bb09be1ae1750073b40483d9c79812ae35a38&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-14 20:52:05】](https://mp.weixin.qq.com/s?__biz=MjM5Njc1OTYyNA==&mid=2450786611&idx=1&sn=653af7dd8f10ad07e215488b6fa932d6&chksm=b104f8148673710217631d0b70c4aa0322377d015e8f1db99e79781929077c3e112f806b0835&scene=27#wechat_redirect)
 
 山警网络空间安全实验室（简称：网安社）
 
@@ -211,7 +211,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NjUzODYyNw==)
 
-[:camera_flash:【2023-11-14 08:56:41】](https://mp.weixin.qq.com/s?__biz=Mzg4NjUzODYyNw==&mid=2247484882&idx=1&sn=f0be6479da17a6e68a54697d5011c32f&chksm=cf996d3ef8eee428e78241effa0d00edbc9f7616ed9125a0b6c7619b35326c239dd6c8b50fbb&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-18 19:11:33】](https://mp.weixin.qq.com/s?__biz=Mzg4NjUzODYyNw==&mid=2247484972&idx=1&sn=ebfd0f058ddce962c1585b5fba6d7662&chksm=cf996ec0f8eee7d6be74898aadb86b19d2b3800ce7cfe9f369f678f3b0d6e970d4b35baa047b&scene=27#wechat_redirect)
 
 南宁职业技术学院网络安全技术协会
 
@@ -263,7 +263,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDIyNTE0OQ==)
 
-[:camera_flash:【2023-10-27 13:01:09】](https://mp.weixin.qq.com/s?__biz=MzkyNDIyNTE0OQ==&mid=2247484804&idx=1&sn=5871b8355ac37a97776a2278388cdb87&chksm=c1d85e96f6afd780564d7710a6943a91150c5d5a95b9b830cd1f360f57421c1728fc641313b4&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-18 10:25:26】](https://mp.weixin.qq.com/s?__biz=MzkyNDIyNTE0OQ==&mid=2247484816&idx=1&sn=cf24e248103c82d3cc3223d1d6108340&chksm=c1d85e82f6afd794d9d3dfe42537f62142296386b8228e5c3560c37e2546a4417c67776c3fd8&scene=27#wechat_redirect)
 
 本社团致力于向大家分享交流网络安全实践技术，主要以CTF竞赛、红蓝对抗、渗透测试、知识讲座等形式分享网络安全知识，培养网安人才，积极响应国家建设网络强国的号召，共筑网络安全防线。
 
@@ -406,7 +406,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
 
-[:camera_flash:【2023-11-13 17:00:26】](https://mp.weixin.qq.com/s?__biz=MzUzNDg0NTc1NA==&mid=2247504961&idx=1&sn=35447ee5f309b00cc2ed54fb86f7a536&chksm=fa8c1414cdfb9d02146bdeb2280b7049185c6fa09bf67e11d0ca3336a950b8c26d9463686774&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-18 10:30:27】](https://mp.weixin.qq.com/s?__biz=MzUzNDg0NTc1NA==&mid=2247505173&idx=1&sn=b231fb8d769c74fb07669920d176f88d&chksm=fa8c1540cdfb9c5616972c09e89f29d2cc3ee3b23701d4414f30f1787e8e47aab67d62707c94&scene=27#wechat_redirect)
 
 启明星辰网络空间安全学院以国家网络安全事业发展为使命，依托启明星辰集团多年的技术沉淀及实践积累，提供网络安全人才体系构建与信息安全技术及能力提升教育培训，为建设网络强国提供有力的人才支撑。
 
@@ -432,7 +432,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MDU5NTA1MQ==)
 
-[:camera_flash:【2023-10-25 20:41:22】](https://mp.weixin.qq.com/s?__biz=MzU3MDU5NTA1MQ==&mid=2247497085&idx=1&sn=c9e5002cb9edbd60cab77a45860e4f8a&chksm=fcefb6f9cb983fef1decc49c9922585f8e10354001911d2036821475c9e1a56ffb1c69020144&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-17 22:46:35】](https://mp.weixin.qq.com/s?__biz=MzU3MDU5NTA1MQ==&mid=2247497165&idx=1&sn=23aef761ab70b130116002cdb47b0c0e&chksm=fcefb649cb983f5fe56ea8d2d64a1ffda7ff61ecf63cba0bc7e601490296c0f4451e9bc434b0&scene=27#wechat_redirect)
 
 欢迎加入齐鲁师范学院网络安全社团
 
@@ -575,7 +575,7 @@ Covteam工作室，成立于2005年。是以西华大学在校本科生研究生
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxMTEwOTA3OA==)
 
-[:camera_flash:【2023-11-09 09:06:51】](https://mp.weixin.qq.com/s?__biz=MzUxMTEwOTA3OA==&mid=2247485512&idx=1&sn=9bcaf3e6a574f33b83a8af954ca04bdf&chksm=f979faf1ce0e73e773e8cb1e4121779d29366f3ad3660bb86927dbd22366a3f5adbc1a787eb4&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-15 17:00:53】](https://mp.weixin.qq.com/s?__biz=MzUxMTEwOTA3OA==&mid=2247485517&idx=1&sn=e0dfd5073c87f6d90096ce3aebcd3189&chksm=f979faf4ce0e73e213b338db2ff7966d0d07750bf50e578d9c18d38c82944142c940b914b022&scene=27#wechat_redirect)
 
 网络与信息安全实验室(NISL@THU)，专注于网络、系统、应用、人工智能安全教学与研究，在国际四大安全会议发表三十余篇论文，成果在业界产生了广泛影响力。孕育了蓝莲花、紫荆花等知名战队，发起了网安国际学术论坛InForSec。
 
@@ -588,7 +588,7 @@ Covteam工作室，成立于2005年。是以西华大学在校本科生研究生
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
 
-[:camera_flash:【2023-11-10 10:50:45】](https://mp.weixin.qq.com/s?__biz=MzUzODkwMDMxNA==&mid=2247571975&idx=1&sn=c8c85ed790be3277797a6b15f555fca2&chksm=fad33832cda4b124ddd00eaca662cc37f34e9397545d32d81f8032259249495027a3d84ad010&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-17 10:07:12】](https://mp.weixin.qq.com/s?__biz=MzUzODkwMDMxNA==&mid=2247572317&idx=1&sn=a76797c900e7968fc96b95ac7f703548&chksm=fad33968cda4b07efc7a7208112b6ce81b68a1f72eb8f881c9e4d2a87cc76d943bf46265514d&scene=27#wechat_redirect)
 
 百所高校、百家用人单位、百名尖锋导师，携手打造定制化人才培养模式，通过导师制职业规划和封闭式岗位实训，补足知识短板、提高实战能力，培养创新型、实用型网络安全尖锋人才。
 
@@ -640,7 +640,7 @@ Covteam工作室，成立于2005年。是以西华大学在校本科生研究生
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5NDczNDc4NA==)
 
-[:camera_flash:【2023-11-03 10:03:54】](https://mp.weixin.qq.com/s?__biz=Mzg5NDczNDc4NA==&mid=2247493956&idx=1&sn=1bfa67389ad0663cf01ec3a99e2c4e23&chksm=c019b1ebf76e38fdbe4ed0926c7ba5403f8f0468e6047c4bf780bb1205738caa199d85aea8b2&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-17 09:54:16】](https://mp.weixin.qq.com/s?__biz=Mzg5NDczNDc4NA==&mid=2247494185&idx=1&sn=9301da3d0696d9cb88b5f49d34a085b4&chksm=c019b286f76e3b901fa2071bd7c5ba34ff0f3d0588f457f13e123ae4c067ebfe1e0969d43212&scene=27#wechat_redirect)
 
 浙江大学网络空间安全学院/浙江大学网络空间安全研究中心
 

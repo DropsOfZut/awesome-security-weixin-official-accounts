@@ -42,7 +42,7 @@ PTE小技巧
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5Njg1NzMyNw==)
 
-[:camera_flash:【2023-11-14 18:53:09】](https://mp.weixin.qq.com/s?__biz=MzU5Njg1NzMyNw==&mid=2247487583&idx=1&sn=af85c04566b1d45b1583fa2851e08ae1&chksm=fe5d08dfc92a81c9251f8013fd1efd528afa9cfc96268fcb3e082a2cd33e669c86f278af9633&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-18 14:04:08】](https://mp.weixin.qq.com/s?__biz=MzU5Njg1NzMyNw==&mid=2247487623&idx=1&sn=b18500d3a56ce23d439cb924b87598fb&chksm=fe5d0807c92a81110d5b8c07dccbbc2a78b11aa67e9a7e5bcca745eb1977332b7669a093ac38&scene=27#wechat_redirect)
 
 由奇安信集团、清华大学、蚂蚁集团主办，联合北京大学、中科院软件所、复旦大学、中山大学、山东大学、中国科技大学等30多个知名高校和研究机构共同举办的聚焦大数据安全分析的比赛。
 
@@ -68,7 +68,7 @@ PTE小技巧
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
 
-[:camera_flash:【2023-11-13 18:40:00】](https://mp.weixin.qq.com/s?__biz=MzkyNDA5NjgyMg==&mid=2247496684&idx=1&sn=3ef2c588d6fae9fdf2f72700fa8be5a0&chksm=c1d9b3b5f6ae3aa367ae61f6007a46596ad971afd78aec9fcc1414a59b785a72e1ad0dfff467&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-17 18:19:58】](https://mp.weixin.qq.com/s?__biz=MzkyNDA5NjgyMg==&mid=2247496690&idx=1&sn=1c345245903011b8676b6ebe549a7669&chksm=c1d9b3abf6ae3abdcd9e4fada25fed7440f870a1f9352b1c7eed5fae807eb20c37c7e972ca6a&scene=27#wechat_redirect)
 
 春秋伽玛，为广大网络安全爱好者传递网络安全大赛相关赛事信息，提供优质的赛事服务平台
 
@@ -120,7 +120,7 @@ CTF，从入门到放弃
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzEwMTQ3NQ==)
 
-[:camera_flash:【2023-11-15 00:32:06】](https://mp.weixin.qq.com/s?__biz=MzU3MzEwMTQ3NQ==&mid=2247507108&idx=1&sn=3493f572d86b3ef33bb4cc303861703d&chksm=fcc45868cbb3d17e7e1913964eb814db7995ba6daf5bcda198f5bc62ae1ae5416adbd2967b78&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-16 10:38:30】](https://mp.weixin.qq.com/s?__biz=MzU3MzEwMTQ3NQ==&mid=2247507152&idx=2&sn=e51d92f62fd926b9f2b8ad74415be3e8&chksm=fcc4581ccbb3d10a7bc1d6bde33b4edc689073ec39e2ad3ea03067f48cdeefdd940a8c9e6b74&scene=27#wechat_redirect)
 
 青少年CTF（原名中学生CTF）帮助大家学习CTF竞赛，信息安全与网络技术。大家如果喜欢我们的视频讲解和教程可以加入我们的QQ群：797842833。快来和我们一起学习安全知识吧。
 

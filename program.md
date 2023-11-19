@@ -42,7 +42,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
 
-[:camera_flash:【2023-11-14 00:01:46】](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247489978&idx=1&sn=f7bc2b7242ee898a225f607afd75cbcf&chksm=fe2ee631c9596f2732a6e70ac6e1c9214d1fc46ffbacaf019d488c604ba4f4d79cc19ab84297&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-15 11:13:16】](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247489994&idx=1&sn=0bfb41528b63c1ab1f0cf1f81d034da9&chksm=fe2ee641c9596f578d899e82a1c0d92cefc96d7862cde74435c50e24aad9b3c910e9d436d9c4&scene=27#wechat_redirect)
 
 分享安全方面的论文写作、会议发表、基金申请方面的资料。
 
@@ -146,7 +146,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
 
-[:camera_flash:【2023-11-10 15:00:41】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247504716&idx=1&sn=d874066b281030c5c73eaae97a660341&chksm=e9d318aedea491b86c7c176c6f1d2f54975aa56fe57458fa6ac2f8995d4351d4ed36ee8476f6&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-17 12:01:09】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247504778&idx=1&sn=32504e7b8b7c2806c4797071a2fb537b&chksm=e9d31868dea4917e291b745b57b6f3cb6be9f95c411ea54a1b4997a18e84c2a1eaa82f4f8aa8&scene=27#wechat_redirect)
 
 字节跳动的技术实践分享
 
@@ -159,7 +159,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI4MzcwNTAzOQ==)
 
-[:camera_flash:【2023-11-03 12:04:13】](https://mp.weixin.qq.com/s?__biz=MzI4MzcwNTAzOQ==&mid=2247535559&idx=1&sn=fe740dada545636afdef120589048d4b&chksm=eb84a067dcf32971d9188072cf349eeb104785c6e787455338ffc6b3bd22637fe88afe0ba2c7&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-17 15:55:14】](https://mp.weixin.qq.com/s?__biz=MzI4MzcwNTAzOQ==&mid=2247536131&idx=1&sn=1dcb7105236e198b4e1140e49e437c63&chksm=eb84a5a3dcf32cb58325633570f7d7427d1d636df30ff1362aa369c91d98e6e96f3880c318e6&scene=27#wechat_redirect)
 
 新一代网络安全测试工具，由赵武Zwell（Pangolin、FOFA作者）打造，能够针对一个目标企业梳理最全的攻击面信息，同时能进行高效、实战化漏洞扫描，并快速的从一个验证入口点，切换到横向。
 
@@ -224,7 +224,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
 
-[:camera_flash:【2023-10-23 20:10:37】](https://mp.weixin.qq.com/s?__biz=MzU5NzQ3NzIwMA==&mid=2247483927&idx=1&sn=30c14953dac950322ad73de95544450f&chksm=fe539028c924193e6b65190ca677caf697de782276825d315eb3029a419886cf8ec881767d2f&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-18 17:38:37】](https://mp.weixin.qq.com/s?__biz=MzU5NzQ3NzIwMA==&mid=2247483942&idx=1&sn=75015b79b4a694700c1c8c896d30c67c&chksm=fe539019c924190fcb5dd50015f2a5b0e51ff7120649e8ec10b3d74878cea92a23484df51b55&scene=27#wechat_redirect)
 
 读书，写诗，假装自己是黑客。
 
@@ -237,7 +237,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NDY1MDc2Mg==)
 
-[:camera_flash:【2023-11-14 11:46:05】](https://mp.weixin.qq.com/s?__biz=Mzg2NDY1MDc2Mg==&mid=2247504160&idx=2&sn=c38e73d77e75e1c131b7d930294df191&chksm=ce648245f9130b5316bee6b4d2758d77521afa423f79cc9373588b77981755e5fa5d9e038a7a&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-17 09:09:28】](https://mp.weixin.qq.com/s?__biz=Mzg2NDY1MDc2Mg==&mid=2247504198&idx=1&sn=fb6372d26499bf9a371e7087caac67da&chksm=ce648223f9130b3586b335b4c067e8b929b70422cfe1c9e482d3649ad878a4cd0b74e1b95090&scene=27#wechat_redirect)
 
 专注于学习网络安全
 
@@ -328,7 +328,7 @@ Will的小屋
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
 
-[:camera_flash:【2023-11-10 18:00:29】](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649781064&idx=1&sn=707c117dea0d21e293eb8b76318be0e5&chksm=becce03389bb6925e29efdfd1f12234f265f61da5b8c0a0a15aaf5891c9d000c975fabdd6b8d&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-16 18:01:17】](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649781157&idx=1&sn=8b1dac1b2b7a13328571b3f66d87c721&chksm=becce0de89bb69c840af713d7e61fa125fc262c8c5ff4671821913d341c726cb393769283a31&scene=27#wechat_redirect)
 
 腾讯技术官方号。腾讯技术创新、前沿领域发布解读平台。
 
@@ -341,7 +341,7 @@ Will的小屋
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3Njc0NTgwMg==)
 
-[:camera_flash:【2023-11-14 12:01:08】](https://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&mid=2247497385&idx=1&sn=4732d7b5d077fe1afe2660d330e43ba6&chksm=cf2f338cf858ba9ae217c9f3644d2cb7bfda35131f3beaf5bab6dd0287257be9499063cbf0a0&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-17 12:00:57】](https://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&mid=2247497452&idx=1&sn=eb51b2ed9f0810d154cd1891845c26f1&chksm=cf2f33c9f858badf692afb57015e3dd0446bf603c7de0e7113354ad81abc9ae9c56f614ed027&scene=27#wechat_redirect)
 
 提供B站相关技术的介绍和讲解
 
@@ -432,7 +432,7 @@ FOFA是由华顺信安科技有限公司开发的一款网络空间资产搜索�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzE2MzY1OA==)
 
-[:camera_flash:【2023-11-01 18:59:44】](https://mp.weixin.qq.com/s?__biz=Mzg4MzE2MzY1OA==&mid=2247497490&idx=1&sn=9b128e194786c190d5f278356536a76a&chksm=cf492077f83ea961f442c854512fd149c190a89989f9a7f1ca2688ecf6f70dbed1b05b7f9008&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-16 14:11:33】](https://mp.weixin.qq.com/s?__biz=Mzg4MzE2MzY1OA==&mid=2247497547&idx=1&sn=07d2696f50253c4bc331ab747330d0cf&chksm=cf49202ef83ea938329a51af2ac2ae8cd9ed9f424a686aa713062516e16ec4d222d8d723327b&scene=27#wechat_redirect)
 
 OPPO 安第斯智能云（AndesBrain）是服务个人、家庭与开发者的泛终端智能云，致力于“让终端更智能”。作为 OPPO 三大核心技术之一，安第斯智能云提供端云协同的数据存储与智能计算服务，是万物互融的“数智大脑”。
 
@@ -510,7 +510,7 @@ OPPO 安第斯智能云（AndesBrain）是服务个人、家庭与开发者的�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNjU0NjAyNg==)
 
-[:camera_flash:【2023-11-02 15:31:50】](https://mp.weixin.qq.com/s?__biz=MzIwNjU0NjAyNg==&mid=2247487689&idx=1&sn=18789ec77305b602887eb9541d7ec8bc&chksm=971ea5cca0692cdac78168309544a9568836ca04baf8f53518978f61ef0d61a3b9119de4dc70&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-16 15:42:31】](https://mp.weixin.qq.com/s?__biz=MzIwNjU0NjAyNg==&mid=2247487737&idx=1&sn=193fea151db412cfca8ec90e1d8e48e6&chksm=971ea5fca0692cea28d58c213e6238bda8c0481cde145612e98562e62f39fa30f78b0820e76b&scene=27#wechat_redirect)
 
 基于知道创宇14年来海量真实攻防数据积累，通过AI+安全大数据能力持续自生产、精粹和分析，实时输出高精准、高价值威胁情报，赋能于全场景安全建设体系。
 

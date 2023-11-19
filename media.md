@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5MzMwMDU5NQ==)
 
-[:camera_flash:【2023-11-13 17:02:15】](https://mp.weixin.qq.com/s?__biz=MjM5MzMwMDU5NQ==&mid=2649159665&idx=3&sn=c75fc41993efebf5eac8a816be55f3bb&chksm=be8b7eed89fcf7fb91ea9f4fe45d65626a14261d70c55a6313219cea4c0dd1c48af6be6c1983&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-17 17:29:21】](https://mp.weixin.qq.com/s?__biz=MjM5MzMwMDU5NQ==&mid=2649159746&idx=2&sn=cc71c9f78a131ea5bad3c716ed71a2f8&chksm=be8b715e89fcf84839f61dc9af187ec06a57bd6113b6e748830d7c977e37fff6dc3cb6a78b07&scene=27#wechat_redirect)
 
 《网络安全和信息化》杂志官方所属，网络安全人员与IT运维人员的专业管理类经验、知识、资料，帮助用户提高网络安全能力建设和IT基础设施运营水平，提升IT管理人员工作能力。
 
@@ -16,7 +16,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNTkyODI0OA==)
 
-[:camera_flash:【2023-11-09 17:59:22】](https://mp.weixin.qq.com/s?__biz=MzUzNTkyODI0OA==&mid=2247524468&idx=1&sn=faffc48fb33f83f781d601fa74e87ff0&chksm=fafc2ca3cd8ba5b58a61416df5e327f57668823ca24713ae7b1b0cc63f763e13b470ef84be00&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-17 14:00:11】](https://mp.weixin.qq.com/s?__biz=MzUzNTkyODI0OA==&mid=2247524538&idx=1&sn=04263cfaf90581ecfa26ecf4361a3822&chksm=fafc2c6dcd8ba57bfb6ebbc704a4a52dd23f7e2080bd5d3187de84129d9b66cd7fe1c3bfd1e9&scene=27#wechat_redirect)
 
 八十余万注册用户的全国知名网络安全专业学习社区
 
@@ -81,7 +81,7 @@ GeekPwn，全球首个关注智能生活的安全极客大赛！我们在寻找�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0MDY1MDU4MQ==)
 
-[:camera_flash:【2023-11-13 12:01:04】](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247571054&idx=2&sn=ba85d057a665033b7fecacf5ff9f9380&chksm=e9140654de638f4230067507cb295d4f5ce63364dd8fc83817dd7bc1ec80d4fae87a4f54efd7&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-18 12:01:15】](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247571289&idx=2&sn=e74be21b66117da6f051559fbf34737c&chksm=e9140763de638e75e45fd67a5c63aef1f9b57b35dfbdeb7b140301c6110c127b904ffc6e1302&scene=27#wechat_redirect)
 
 我们以客观、中立、数据为基础，鼓励读者独立思考，提供全面的网络安全行业资讯。
 
@@ -107,7 +107,7 @@ GeekPwn，全球首个关注智能生活的安全极客大赛！我们在寻找�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNDE4Mzc1NA==)
 
-[:camera_flash:【2023-11-09 18:37:46】](https://mp.weixin.qq.com/s?__biz=MzAwNDE4Mzc1NA==&mid=2650847942&idx=1&sn=a4ebd72494bbf05c44d77e9b1431c4b7&chksm=80dbd963b7ac5075c5a415778277323fe3f5f6881944395ee0276ada0672ed70fcb7e003c0b3&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-17 12:33:46】](https://mp.weixin.qq.com/s?__biz=MzAwNDE4Mzc1NA==&mid=2650847999&idx=1&sn=e3c86f8eed1aac3a2a1629cbc914e709&chksm=80dbd95ab7ac504c4efd4255ffa1baa2d3de6f24a6b0d4b295213a2bcc0257810b394411a5ba&scene=27#wechat_redirect)
 
 青藤是中国云安全整体解决方案领军者。成立于2014年，主要聚焦关基领域安全建设，为政企客户提供新一代安全产品和服务，覆盖云安全、数据安全、供应链安全、流量安全等领域，目前为各行业1000+大型客户、800万+核心服务器提供稳定高效安全防护。
 
@@ -120,7 +120,7 @@ GeekPwn，全球首个关注智能生活的安全极客大赛！我们在寻找�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxNDM3NTM0NQ==)
 
-[:camera_flash:【2023-11-03 14:18:58】](https://mp.weixin.qq.com/s?__biz=MzAxNDM3NTM0NQ==&mid=2657045585&idx=1&sn=a94a3448a90081849e24941cca23b807&chksm=803fac8fb74825996e80de87f347fbb18979324065d2e53059080a8a7c34d5ead5d6e6f9e8a8&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-18 22:21:05】](https://mp.weixin.qq.com/s?__biz=MzAxNDM3NTM0NQ==&mid=2657045592&idx=1&sn=02fd1930c14646f21353b5e155c9a579&chksm=803fac86b7482590d437d9d03657cf011f7394ab3caff85891c8ffbfcf57c99f546c63d3609e&scene=27#wechat_redirect)
 
 安全脉搏，有温度的安全自媒体；关注最新安全事件，分享独家技术文章；安全资讯、安全报告实时共享；官网www.secpulse.com。
 
@@ -133,7 +133,7 @@ GeekPwn，全球首个关注智能生活的安全极客大赛！我们在寻找�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjA0NjgyMA==)
 
-[:camera_flash:【2023-11-14 18:54:18】](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651247966&idx=4&sn=5aacaf0d7a4724c1031d21f90f018e75&chksm=bd1d47d58a6acec3fe94c6acea4ab1a39d3c53a2a718406d67ce3cc06e9f16ccbe39aec31200&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-18 11:42:53】](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651248342&idx=4&sn=86f241c0718ab7ae6ee0adc03bb289cc&chksm=bd1d445d8a6acd4b1d57a42817416198af08b3a1d78d5a14e25a8cf564f67a52615dedcf8c9c&scene=27#wechat_redirect)
 
 中国网络安全行业门户
 
@@ -146,7 +146,7 @@ GeekPwn，全球首个关注智能生活的安全极客大赛！我们在寻找�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxMjE3ODU3MQ==)
 
-[:camera_flash:【2023-11-14 15:45:35】](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650582103&idx=4&sn=7290ef7d477611b633f5ef804801450b&chksm=83bdc9b3b4ca40a5b54abaf790df98e7bfa88fc7662b2a5dcd5d22890234471647c6eabb0cf2&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-19 07:56:23】](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650582287&idx=3&sn=86c9a66c5f21668c5c642f49e5357640&chksm=83bdc8ebb4ca41fdff6b5db4d94e82688a3f811b025963c3bdaad6b0f8868f09db4afb828bb9&scene=27#wechat_redirect)
 
 我们是网络世界的启明星，安全之路的垫脚石。
 
@@ -185,7 +185,7 @@ GeekPwn，全球首个关注智能生活的安全极客大赛！我们在寻找�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI4MDQ1MzQ0NA==)
 
-[:camera_flash:【2023-10-18 10:14:43】](https://mp.weixin.qq.com/s?__biz=MzI4MDQ1MzQ0NA==&mid=2247493276&idx=4&sn=af95496f886ca1f6216b3c0291a659e9&chksm=ebbaeeb7dccd67a1de743672ad1e7d0394759bff104db099aa3bbd1d62746a7b8f131e2f14d4&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-15 12:03:15】](https://mp.weixin.qq.com/s?__biz=MzI4MDQ1MzQ0NA==&mid=2247493309&idx=3&sn=9ca4b1f1e7eb9079c0f80491c3ac6bce&chksm=ebbaee96dccd6780b0429ac794ab66270070830c2540898887221fc69484d1aae31eb0614159&scene=27#wechat_redirect)
 
 V安全资讯是隶属于丝路安全团队（SRsec）旗下的一个以分享网络安全技术文稿和网络前端安全资讯的自媒体平台，在这里你可以学习别人的技术和心得，你也可以在这里分享你的学习成果和心得体会！我们期待着您的分享！
 
@@ -198,7 +198,7 @@ V安全资讯是隶属于丝路安全团队（SRsec）旗下的一个以分享�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Njc3NjM4MA==)
 
-[:camera_flash:【2023-11-14 13:38:20】](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651126428&idx=3&sn=c3f2fd245e263e70b5d936766b3111eb&chksm=bd144a4f8a63c359ff694c760c1e90d26af0591e36133b0640d777b83f5641f35cf1503664f1&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-17 12:24:17】](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651126510&idx=2&sn=568f1897dd047a134bbd1dffc6009938&chksm=bd144a3d8a63c32b3058a898666b6540c1c2cf37fed6a92629e6afeee0635bcc53bd3b940a63&scene=27#wechat_redirect)
 
 发现、挖掘与推荐、传播优秀的安全技术、产品，提升安全领域在全行业的价值，了解机构与企业的安全需求，一家真正懂安全的专业咨询机构，我们是安全牛！
 
@@ -224,7 +224,7 @@ secquan.org汇聚新锐 共同进步
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMDk1MjMyMg==)
 
-[:camera_flash:【2023-11-09 15:11:44】](https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247491943&idx=1&sn=4361fe3877c793edf25960b3cd9d8c04&chksm=96f7fe0aa180771ce61184a8fcbb3e7d19397cdc975c45a64abac49bb88ce1e642e62643788d&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-17 22:32:14】](https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247491964&idx=1&sn=2057f43e0f8da7b8e6fca5ad571597b7&chksm=96f7fe11a18077076a1db8a9803cd7d9804f169784b3492e14b2ec7c8274384ec6bf984f9cd4&scene=27#wechat_redirect)
 
 长亭安全应急响应中心致力于发布最新的漏洞风险提示与威胁情报，专注于网络安全领域的研究和解决方案。
 
@@ -237,7 +237,7 @@ secquan.org汇聚新锐 共同进步
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI4MjA1MzkyNA==)
 
-[:camera_flash:【2023-11-14 09:00:35】](https://mp.weixin.qq.com/s?__biz=MzI4MjA1MzkyNA==&mid=2655339862&idx=1&sn=3a87b7351dc9ab368d3787de9b23f899&chksm=f02e391dc759b00bbb072e6ddb0f9a2ab8b48fe08dccf93464f47f29ecd768de324bc46486b1&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-17 09:02:28】](https://mp.weixin.qq.com/s?__biz=MzI4MjA1MzkyNA==&mid=2655339910&idx=1&sn=b7ae40cbb0267de8f67a2489ab28e049&chksm=f02e39cdc759b0dbb63d7abd218021e09652f35f82c983c3839c46ede478b4eff7d36728bbc6&scene=27#wechat_redirect)
 
 E安全 | 全球网络安全资讯新传媒    新版门户站点：http://www.easyaq.com/
 
@@ -302,7 +302,7 @@ E安全 | 全球网络安全资讯新传媒    新版门户站点：http://www.e
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5MzE5MDAzOA==)
 
-[:camera_flash:【2023-11-13 18:57:03】](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664197299&idx=4&sn=d68752314328971caec106ff40249c5f&chksm=8b596e4abc2ee75c45707b4dcc7f48e2f6cdb258577fd293c9dfd13ddcde6d2e6055576e9512&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-17 17:34:22】](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664197659&idx=3&sn=43287401b41b3cde45304077be1a666b&chksm=8b596ce2bc2ee5f497fd85cff1a461e9d0843f1588a75040b38872808ac73a44d69bae9f6970&scene=27#wechat_redirect)
 
 《中国信息安全》杂志，介绍国内外最新网络安全动态，深度解读网络安全事件。
 
@@ -315,7 +315,7 @@ E安全 | 全球网络安全资讯新传媒    新版门户站点：http://www.e
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MjM4NDYxOQ==)
 
-[:camera_flash:【2023-11-03 09:35:41】](https://mp.weixin.qq.com/s?__biz=MzU2MjM4NDYxOQ==&mid=2247489146&idx=1&sn=a8e8f321a81ffee0cce3c2ece3a9c5e2&chksm=fc6b0dfecb1c84e8c1da08cfbe7e707ef8dd6c4261baf6cf876b5b91341568c1355ba7563c16&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-18 13:31:04】](https://mp.weixin.qq.com/s?__biz=MzU2MjM4NDYxOQ==&mid=2247489167&idx=1&sn=2dc8e3f12b557714edb0a7d66e82b862&chksm=fc6b0d0bcb1c841d7c676dde2d8cdb7c5f232196645c04429a1b770fc36da85874d6927b5f7e&scene=27#wechat_redirect)
 
 专注安全行业，分享最新安全技术及咨询.
 
@@ -328,7 +328,7 @@ E安全 | 全球网络安全资讯新传媒    新版门户站点：http://www.e
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxODg1MDMwOQ==)
 
-[:camera_flash:【2023-10-23 18:00:40】](https://mp.weixin.qq.com/s?__biz=MzAxODg1MDMwOQ==&mid=2247503354&idx=1&sn=31604540a7fba8c77402bb93553b2d3a&chksm=9bcd7a90acbaf386683b54093f1a9bcdf2e808364a4ccd77888e6d3e0bf3661b535755576f1d&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-17 18:00:13】](https://mp.weixin.qq.com/s?__biz=MzAxODg1MDMwOQ==&mid=2247503563&idx=1&sn=516f56c376b5a1b86607f8894ebfa846&chksm=9bcd79a1acbaf0b761efaa41bd99f2706b33be0aba7ab17b0a48880487c38c6a986718f1f9d5&scene=27#wechat_redirect)
 
 BUGBANK-行长叠报，最新的安全资讯/最全的黑客干货/最有料的业内伙伴，每时每刻连接热爱安全的你我。
 
@@ -367,7 +367,7 @@ T00ls，十年民间网络安全老牌社区，聚合安全领域最优秀的人
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxMDQzNTMyNg==)
 
-[:camera_flash:【2023-11-14 11:12:40】](https://mp.weixin.qq.com/s?__biz=MzUxMDQzNTMyNg==&mid=2247503358&idx=1&sn=8dead87b75d3010ae99f6e481cc185a5&chksm=f901876fce760e798c44f66555de20cf9028b480c2bc373da179087bd2fb4f4f44d3e6af1ef7&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-17 12:25:00】](https://mp.weixin.qq.com/s?__biz=MzUxMDQzNTMyNg==&mid=2247503381&idx=2&sn=22ffa7142f34b330e72ea755a5482d3f&chksm=f9018484ce760d92f510b5ac4f4a5628eae9ea67834ce859599dac86881a10509d0b0bb6eaf9&scene=27#wechat_redirect)
 
 信息安全那些事儿
 
@@ -380,7 +380,7 @@ T00ls，十年民间网络安全老牌社区，聚合安全领域最优秀的人
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzMzE4NDU1OQ==)
 
-[:camera_flash:【2023-11-14 19:01:21】](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652048459&idx=4&sn=dcc51ebce802c3f8369f000ee787ce4d&chksm=f36e200bc419a91d772dc073206e14eef12828aeeef9b9fe51e305e880b54dba06944506cfba&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-18 19:00:44】](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652048786&idx=4&sn=ff109633ee9fcf6c6d2bea344b67c5a9&chksm=f36e21d2c419a8c494b1d5c3faa4e4475e68120409503921f404a9a52e37b181cc7a6eba1227&scene=27#wechat_redirect)
 
 专注网络安全：网罗圈内热点事件，细说安全风云变幻！
 
@@ -432,7 +432,7 @@ CNCERT风险评估与软硬件安全相关动态信息分享
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2NTg4OTc5Nw==)
 
-[:camera_flash:【2023-11-14 22:46:26】](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247518122&idx=3&sn=4ac4f795d26156056bbc877f857e1849&chksm=ea94b6c0dde33fd6e3c55f56cd7383c1e10c4dee5386cd0e5b88c35027e2530c1c7e78e64b82&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-17 17:23:45】](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247518159&idx=2&sn=b54ed16993cd6811139690c4a436767e&chksm=ea94b6a5dde33fb34588cb467b49254472988636e95f6687a2df98b2030a936b35b451b513f7&scene=27#wechat_redirect)
 
 奇安信代码卫士是国内第一家专注于软件开发安全的产品线，产品涵盖代码安全缺陷检测、软件编码合规检测、开源组件溯源检测三大方向，分别解决软件开发过程中的安全缺陷和漏洞问题、编码合规性问题、开源组件安全管控问题。本订阅号提供国内外热点安全资讯。
 
@@ -471,7 +471,7 @@ CNCERT风险评估与软硬件安全相关动态信息分享
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0MjE2Mjk3Ng==)
 
-[:camera_flash:【2023-11-11 09:30:57】](https://mp.weixin.qq.com/s?__biz=MzU0MjE2Mjk3Ng==&mid=2247486365&idx=1&sn=685bb85478d3c3dc55ea21d6abdc3ec4&chksm=fb1fa2d2cc682bc45678fff19394e453fb217c81105e892361baa9c65aa4f97d729027a386ac&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-17 09:30:21】](https://mp.weixin.qq.com/s?__biz=MzU0MjE2Mjk3Ng==&mid=2247486375&idx=1&sn=c2029b863cbc23268fea12df616f9a00&chksm=fb1fa2e8cc682bfece0cb2973e06ff9e738e5b6fe2d501b040a9853fd83e331c3774c59533b8&scene=27#wechat_redirect)
 
 网络安全态势感知与预警通报；互联网安全红、黑榜；互联网安全资产的分析与研究；互联网安全边界分析与风险扩散分析技术的倡导者。
 
@@ -523,7 +523,7 @@ RASP将主动防御能力“注入”到业务应用中，借助强大的应用�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzMDE5MDI5Mg==)
 
-[:camera_flash:【2023-11-14 14:15:36】](https://mp.weixin.qq.com/s?__biz=MzkzMDE5MDI5Mg==&mid=2247504225&idx=2&sn=67703780ab47b7ceb6e91771969d6c66&chksm=c27c97daf50b1ecc8adb390882d515553060f68b03a8cc0b9788177c3e8149de7133ab91f643&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-17 21:19:29】](https://mp.weixin.qq.com/s?__biz=MzkzMDE5MDI5Mg==&mid=2247504414&idx=2&sn=fab4aa0a723571d481809f6283653877&chksm=c27c94a5f50b1db34cc6bac5559626b71abc81b70d17cf4e6f3f2576da8a7b886bf9e72dc840&scene=27#wechat_redirect)
 
 数说安全是专注于网络安全垂直领域的自媒体。我们以数据为基础，结合科学的方法论做行业研究。从企业经营、产品技术、市场营销、资本等多个维度进行深度商业分析，旨在升级认知，洞见趋势。我们希望您在这里，读懂安全！
 
@@ -536,7 +536,7 @@ RASP将主动防御能力“注入”到业务应用中，借助强大的应用�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzNjE5NjQ4Mw==)
 
-[:camera_flash:【2023-11-14 08:30:56】](https://mp.weixin.qq.com/s?__biz=MzkzNjE5NjQ4Mw==&mid=2247535353&idx=1&sn=398e3b0bf6d9643dcbbd6be347d92c89&chksm=c2a06a15f5d7e3032cb8cb08398306ad42d16803c2d3fdf8976ba13ba1c250c86a6d1630efa6&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-18 07:06:28】](https://mp.weixin.qq.com/s?__biz=MzkzNjE5NjQ4Mw==&mid=2247535444&idx=1&sn=4eb8546cbd71322cf7d0258b630058b0&chksm=c2a06bb8f5d7e2ae2963d4e3ed17e054fdccbf498a7cc54abc138ad9a19aa85a1d6af774bf73&scene=27#wechat_redirect)
 
 安全喵喵站，是斯元商业咨询旗下专注于网络安全行业的媒体平台，服务于关注安全行业发展、国内外商业资讯与市场态势的人群。
 
@@ -549,7 +549,7 @@ RASP将主动防御能力“注入”到业务应用中，借助强大的应用�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0NzE4ODk1Mw==)
 
-[:camera_flash:【2023-11-12 19:41:54】](https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652092487&idx=2&sn=016234efc3314772bbb58fab5a1944c7&chksm=f254c4f1c5234de7fdc4abe1bf31080c8c1c8b247b8f2f1da438205cdf3ffc7e01d09c836bd4&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-15 19:31:16】](https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652092489&idx=2&sn=66b653eb1bf7ea456fa0aab24e609506&chksm=f254c4ffc5234de914836a9e77561584d62d4f9a5567c9f9ee9eda0da54f3d21405a5752c57b&scene=27#wechat_redirect)
 
 网安百色，为百色网络信息安全保驾护航！
 
@@ -562,7 +562,7 @@ RASP将主动防御能力“注入”到业务应用中，借助强大的应用�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3NjUzOTQ0NQ==)
 
-[:camera_flash:【2023-11-13 18:30:57】](https://mp.weixin.qq.com/s?__biz=MzI3NjUzOTQ0NQ==&mid=2247504203&idx=1&sn=5c46b5cce5f7b5435f9f66849a3622e9&chksm=eb716011dc06e907983e1b0bccbd45b69b33c7bd258c36aafa81ec7bfb8c48d988d0c7fad87b&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-16 10:13:38】](https://mp.weixin.qq.com/s?__biz=MzI3NjUzOTQ0NQ==&mid=2247504350&idx=1&sn=ed7fa448d0d588763096934f315a7002&chksm=eb716084dc06e992bd332cc4683f95de4fc73884e8e4f8b69450731d6e4c9b0f68ad0c8c7db9&scene=27#wechat_redirect)
 
 致力于网络安全材料汇总与分享，且是FREEBUF【网安知识大陆】安全标准部落领主，内容包括安全标准、安全建设、安全事件、前沿技术（零信任、信创、新基建等）相关内容，并与安全培训机构有强合作，笔者主要是从事过网络安全及ICT厂商。
 
@@ -588,7 +588,7 @@ RASP将主动防御能力“注入”到业务应用中，借助强大的应用�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwMDgyNTQzMQ==)
 
-[:camera_flash:【2023-11-13 16:28:02】](https://mp.weixin.qq.com/s?__biz=MzAwMDgyNTQzMQ==&mid=2247537551&idx=1&sn=121987549de60c7dae14ef613da825fd&chksm=9ae112b7ad969ba1ccf6edc05ce36625b94fc3e62e04bbeb62b230bfb4031d548ca63ec02bd3&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-17 09:27:48】](https://mp.weixin.qq.com/s?__biz=MzAwMDgyNTQzMQ==&mid=2247538087&idx=1&sn=32aea2e2c470567a2aab00b9e75ada93&chksm=9ae1149fad969d89d68a3cdcf488801199eabc0e66a4c96a0dffe35c2fda544172ac01274123&scene=27#wechat_redirect)
 
 发布网络安全行业的热点资讯，对于网络安全服务的技术与案例呈现，安恒信息原创的安全服务彩虹架构应对网络黑客。
 
@@ -627,7 +627,7 @@ HackingClub是一个由中国网络安全爱好者自发组建的安全组织。
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyMDQ4OTkyMg==)
 
-[:camera_flash:【2023-11-14 17:06:15】](https://mp.weixin.qq.com/s?__biz=MzUyMDQ4OTkyMg==&mid=2247534685&idx=3&sn=eb0b313b2047ae94157042279c90260e&chksm=f9eb96f0ce9c1fe63e440a262c4f0fa1a02344467fb6f2a61c3345474ede0f2dd71c08d1a033&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-17 17:13:29】](https://mp.weixin.qq.com/s?__biz=MzUyMDQ4OTkyMg==&mid=2247534966&idx=3&sn=0d9e80e8bad5b795a05907fd8fdcafa9&chksm=f9eb97dbce9c1ecd06ecfdc7d0ecd23679513cf5f9502a635078d0b2421dcf73be8e5f74d70b&scene=27#wechat_redirect)
 
 安全419（www.anquan419.com）长期专注于观察网络安全行业内企业、产品、技术、人才的发展变化，坚持中立视角、客观报道，助力中国网络安全产业发展！
 
@@ -666,7 +666,7 @@ HackingClub是一个由中国网络安全爱好者自发组建的安全组织。
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODYyMDIzNw==)
 
-[:camera_flash:【2023-11-13 19:21:00】](https://mp.weixin.qq.com/s?__biz=MzUzODYyMDIzNw==&mid=2247506706&idx=2&sn=2c18c87afb5c0e4985324932960870d8&chksm=fad66330cda1ea2684339642d1e7a56f127e198af03ecc70053801852d64522863b6e3940082&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-17 14:31:16】](https://mp.weixin.qq.com/s?__biz=MzUzODYyMDIzNw==&mid=2247506754&idx=2&sn=94f8d40764eaf571d8170969b00afbe1&chksm=fad66360cda1ea76ca8f48b5b222c0978f0a1940f9d6ce5dc296c3bbdc62454e1203b24acf7d&scene=27#wechat_redirect)
 
 赛博研究院是面向全球数字化转型成立的上海市级民非机构，研究院专注数字经济、网络安全、数据治理、人工智能等领域的政策和产业研究，通过提供研究报告、决策咨询、产业规划、论坛会议、投资分析、数据服务等专业智库产品，助力政府和企业共建美好数字未来。
 
@@ -705,7 +705,7 @@ HackingClub是一个由中国网络安全爱好者自发组建的安全组织。
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyODM5NzQwNQ==)
 
-[:camera_flash:【2023-11-13 10:50:30】](https://mp.weixin.qq.com/s?__biz=MzkyODM5NzQwNQ==&mid=2247493628&idx=1&sn=6ffb9a13c12ad63e9013fa5494c99e27&chksm=c21bc6cef56c4fd890509ead9655002eda5c8ef67e4c957f0e04e626c5d1a9041e73d90a46c5&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-17 08:45:28】](https://mp.weixin.qq.com/s?__biz=MzkyODM5NzQwNQ==&mid=2247493671&idx=1&sn=95b49a02ca579f74ea68b3651fbbc3c1&chksm=c21bc915f56c40030cf016770e4a44081c74c4bad3c25e7cae985598a0bc8b41a8a31580053b&scene=27#wechat_redirect)
 
 独立思考，协奏成章。
 
@@ -718,7 +718,7 @@ HackingClub是一个由中国网络安全爱好者自发组建的安全组织。
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NzgyODEzNQ==)
 
-[:camera_flash:【2023-11-13 10:22:50】](https://mp.weixin.qq.com/s?__biz=Mzg4NzgyODEzNQ==&mid=2247485445&idx=1&sn=0120c2bba8fc31ec0dbbc8bb85d48283&chksm=cf8533cdf8f2badbeaffe347217b2f5ce31103751ae901932486e8d2ed8f86c4bc731778f8b7&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-17 17:05:09】](https://mp.weixin.qq.com/s?__biz=Mzg4NzgyODEzNQ==&mid=2247485537&idx=1&sn=434af95a6dbbfedb557769bad9dc6bcb&chksm=cf8533a9f8f2babfb98453d2a2fe920b2f0a8848536479d7944ff3b7871cb35bfca54ddb9d0f&scene=27#wechat_redirect)
 
 KK安全说
 
