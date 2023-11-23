@@ -68,7 +68,7 @@ PTE小技巧
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
 
-[:camera_flash:【2023-11-17 18:19:58】](https://mp.weixin.qq.com/s?__biz=MzkyNDA5NjgyMg==&mid=2247496690&idx=1&sn=1c345245903011b8676b6ebe549a7669&chksm=c1d9b3abf6ae3abdcd9e4fada25fed7440f870a1f9352b1c7eed5fae807eb20c37c7e972ca6a&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-20 17:36:56】](https://mp.weixin.qq.com/s?__biz=MzkyNDA5NjgyMg==&mid=2247496733&idx=1&sn=fa6e3bdc697be4dc3cc4c9aff860b708&chksm=c1d9b444f6ae3d5252707434c2515bdd9f0a760ab50e28f47aa8431ee832c314abd2e9776eb9&scene=27#wechat_redirect)
 
 春秋伽玛，为广大网络安全爱好者传递网络安全大赛相关赛事信息，提供优质的赛事服务平台
 
@@ -224,7 +224,7 @@ ctf技术交流。
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjY3NDQ2Ng==)
 
-[:camera_flash:【2023-04-18 10:19:15】](https://mp.weixin.qq.com/s?__biz=Mzg4MjY3NDQ2Ng==&mid=2247486413&idx=1&sn=72669437a6ad7f3cfc74bfdbe8309e8a&chksm=cf525580f825dc96eaf67f2280a8e4798ff550a837c0841f5b6e0b652511db758356395cc2e6&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-20 18:17:42】](https://mp.weixin.qq.com/s?__biz=Mzg4MjY3NDQ2Ng==&mid=2247486442&idx=1&sn=eb35b7d00e4cd58b1df0eab270bf5ad2&chksm=cf5255a7f825dcb1378ea79a0c7b6bb9427d81ab64094eb9390309babbe950e3a546139f65af&scene=27#wechat_redirect)
 
 强网竞赛是面向高等院校和国内信息安全企业的国家级赛事，旨在通过高对抗的竞技比赛，发现锻造网络安全领域优秀人才，提高国家网络安全保障能力，提升全民网络安全意识。
 
