@@ -16,7 +16,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYyMTM4MA==)
 
-[:camera_flash:【2023-11-23 17:46:41】](https://mp.weixin.qq.com/s?__biz=MjM5ODYyMTM4MA==&mid=2650445654&idx=2&sn=7f86de8c9270b816abbd5b79f135a951&chksm=bec9cefd89be47ebc41e681856de5f28381009d45718282cfbd6a8b0ea20b1e41c3ded28c940&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-24 18:08:31】](https://mp.weixin.qq.com/s?__biz=MjM5ODYyMTM4MA==&mid=2650445687&idx=2&sn=3c5efac99ca963bfc7869c66e5c24b15&chksm=bec9cedc89be47cab3186aa51c8d6263073a216ac724ddea5c02bf7ff3b34131c9f4bac0944b&scene=27#wechat_redirect)
 
 绿盟科技 官方微信
 
@@ -133,7 +133,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyODYzNTU2OA==)
 
-[:camera_flash:【2023-11-22 17:00:39】](https://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247496195&idx=1&sn=28250eaed50f02f9a4aecfa1a368fd4c&chksm=e84c54dcdf3bddca1c191f72dfd86c8f3c28cd6e0754fdb62ef6bbb7c61ca7c321a7f2aca075&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-25 13:02:39】](https://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247496246&idx=1&sn=7ee66574ad19adbf22127d495cbc49f7&chksm=e84c54e9df3bddff46568d5e20e8520fb24c7bb0bb56de4f1420983dc878f1778da11e197d4f&scene=27#wechat_redirect)
 
 绿盟科技研究通讯-绿盟研究成果发布地，创新、孵化、布道，只玩最酷的安全技术
 
@@ -172,7 +172,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTE0MjQyMg==)
 
-[:camera_flash:【2023-11-23 10:17:59】](https://mp.weixin.qq.com/s?__biz=MjM5NTE0MjQyMg==&mid=2650594555&idx=2&sn=0f3864a7fcef1a65b253f7a25379637c&chksm=bef572828982fb944dcf9a40270ebee32565c5b1b5b2599f07b5eb05fd884e7a726331cbc3c9&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-25 10:11:33】](https://mp.weixin.qq.com/s?__biz=MjM5NTE0MjQyMg==&mid=2650594792&idx=1&sn=fb0981ee418fc2cacae2c45cc3f1ad96&chksm=bef573918982fa8779d5d8ee2a31e64d8d3aa36eafa9b0095e59b2f28b1f14826cfb88a93e82&scene=27#wechat_redirect)
 
 杭州安恒信息技术股份有限公司（DBAPPSecurity），科创板：688023，全球网络安全创新500强。以自主可控的专利技术，提供Web应用安全、数据库安全、网站安全监测产品与服务、态势感知大数据中心及智慧城市云安全运营整体解决方案。
 
@@ -211,7 +211,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzMDUxNTE1Mw==)
 
-[:camera_flash:【2023-11-23 14:47:27】](https://mp.weixin.qq.com/s?__biz=MzUzMDUxNTE1Mw==&mid=2247503022&idx=1&sn=48f62de07b301f3db4c88674c6fa76b7&chksm=fa521910cd25900606eb30b4f3c71a6a3f0c99a11b0e7b62c98047796c337f75a81d1091141e&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-24 10:59:51】](https://mp.weixin.qq.com/s?__biz=MzUzMDUxNTE1Mw==&mid=2247503048&idx=1&sn=933dca25910a5c998bfa3cb01b415a64&chksm=fa521976cd2590602d280a9d6e4b6b97df867cd2d0df50ef9ce3a0d80594d2b97beafa04d6a0&scene=27#wechat_redirect)
 
 山石安全技术研究院成立于2020年，是公司的信息安全智库与创新部门，旗下包括智能、应用、工控、信创和核心基础等五大实验室，输出原创漏洞、安全专利、原创文章、安全议题等研究成果，不断提供新的漏洞证书、致谢与编号
 
@@ -289,7 +289,7 @@ SecIN安全技术社区是启明星辰云众可信旗下品牌，是一个由安
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxNTQxMjQyNg==)
 
-[:camera_flash:【2023-11-21 15:27:04】](https://mp.weixin.qq.com/s?__biz=MzIxNTQxMjQyNg==&mid=2247491833&idx=1&sn=20abac54d04b275959fe076e30dcd8ad&chksm=979a1b5ca0ed924ac899d24582a50de4a993860a455f2a2641198ca3e5fcb46a2d63fb1f7d3a&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-24 16:27:59】](https://mp.weixin.qq.com/s?__biz=MzIxNTQxMjQyNg==&mid=2247491856&idx=1&sn=77752126a1ceb63b5fefb82e918a107c&chksm=979a1ab5a0ed93a341c026f355a62dbc14cf496c8b67abfd6694e6c8f4311caaf92bed2bb01d&scene=27#wechat_redirect)
 
 广州锦行网络科技有限公司（简称“锦行科技”）成立于2014年3月，由国内多名顶尖信息安全专家联合创办，拥有数十名一线安全人才，致力于研究国内外最新核心攻防对抗技术及案例，提供基于攻击者视角的新型安全解决方案，帮助政府、企业保障信息资产安全。
 
@@ -315,7 +315,7 @@ SecIN安全技术社区是启明星辰云众可信旗下品牌，是一个由安
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNjc0MDA1NA==)
 
-[:camera_flash:【2023-11-14 10:03:50】](https://mp.weixin.qq.com/s?__biz=MzAwNjc0MDA1NA==&mid=2650139408&idx=1&sn=cfa1892dcc0446403839ae62eb763a80&chksm=83098a29b47e033f6604600f7b5d3ec2c90425616c977988feeb2a70929ec4978f787af4aa28&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-24 11:26:48】](https://mp.weixin.qq.com/s?__biz=MzAwNjc0MDA1NA==&mid=2650139482&idx=1&sn=c7b0a698af0b7ac32f07618c4e40d10e&chksm=83098a63b47e0375030cdef06522a80810e73850796946233b1d3d779b0bf138c800ba61a018&scene=27#wechat_redirect)
 
 汇全球之智，明安全之道。
 
@@ -380,7 +380,7 @@ KCon 黑客大会，汇聚黑客的智慧。知道创宇出品，追求干货有
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNTAxMjUwNw==)
 
-[:camera_flash:【2023-11-22 21:31:04】](https://mp.weixin.qq.com/s?__biz=MzAwNTAxMjUwNw==&mid=2650274622&idx=1&sn=0216909ed42da5dfb87f0504de6ba2ea&chksm=8320764ab457ff5cb053c74f897519ffb36aa549abed110dbecad821f330be6d9e50389544f2&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-24 18:26:31】](https://mp.weixin.qq.com/s?__biz=MzAwNTAxMjUwNw==&mid=2650274668&idx=2&sn=6a4120dc167e6d05fdc6f84c99f051f9&chksm=83207618b457ff0e0ea95386d5d05a044af82576e95f75eb913565169f40daf3453cc2e17653&scene=27#wechat_redirect)
 
 专注于网络空间安全领域，以“让网络空间更有序”为使命，为客户提供网络安全基础类、业务场景安全类、网络空间地图类安全产品及服务。
 
@@ -406,7 +406,7 @@ KCon 黑客大会，汇聚黑客的智慧。知道创宇出品，追求干货有
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0NDk0NTAwMw==)
 
-[:camera_flash:【2023-11-23 18:28:37】](https://mp.weixin.qq.com/s?__biz=MzU0NDk0NTAwMw==&mid=2247602217&idx=2&sn=8aa60442905e2d4c0ddf192dcda55e86&chksm=fb77762dcc00ff3ba92b635c037dec0a9f923489c47a269ac7fb9febdfd328bae5a1233e19e1&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-24 18:29:39】](https://mp.weixin.qq.com/s?__biz=MzU0NDk0NTAwMw==&mid=2247602247&idx=3&sn=fbdeaf39462ea16e648202839afd5f51&chksm=fb777643cc00ff55fcae105bb33d79bda5aac9f17f3b1509085429d412122f3f5fb661724e00&scene=27#wechat_redirect)
 
 新一代网络安全领军者。
 
@@ -471,7 +471,7 @@ KCon 黑客大会，汇聚黑客的智慧。知道创宇出品，追求干货有
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MjQ1OTkwMg==)
 
-[:camera_flash:【2023-10-07 12:35:33】](https://mp.weixin.qq.com/s?__biz=Mzg5MjQ1OTkwMg==&mid=2247484620&idx=1&sn=6dd78f8dd31d32d7711ddbe21e1b257e&chksm=c03c8addf74b03cb97f1fff73d4a7adf7582644449e963730109762f1cc7dcdc62b53e6bd7b0&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-25 19:58:16】](https://mp.weixin.qq.com/s?__biz=Mzg5MjQ1OTkwMg==&mid=2247484677&idx=1&sn=8551cada792f5945a054611bd4bc07b1&chksm=c03c8b14f74b0202fc894f2e5b937dfa4399bc8de9a6f55ff2771f3473b03fff71cfde0f3975&scene=27#wechat_redirect)
 
 新一代运行时应用防火墙:RASP ，轻量级部署、主动性防御，让企业拥有一面自己的盾牌🛡️不再是梦想 官网：https://www.jrasp.com
 
@@ -588,7 +588,7 @@ Imperva是一家全球公认领先的应用数据安全及云安全供应商，�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwODU5NzYxOA==)
 
-[:camera_flash:【2023-11-23 20:11:17】](https://mp.weixin.qq.com/s?__biz=MzAwODU5NzYxOA==&mid=2247502462&idx=2&sn=6e053109f1b117e6b9c45fc35d18b2af&chksm=9b6ef363ac197a753b1c394ec30ff24bd196b6447973d84e2dcfed23d556c8c68933a337037a&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-24 19:40:25】](https://mp.weixin.qq.com/s?__biz=MzAwODU5NzYxOA==&mid=2247502477&idx=1&sn=1d825936c303d3614fcf0383e174df22&chksm=9b6ef390ac197a86e79718fca0910e116f2e102367689cb3067d365d057ab3cec622529a984d&scene=27#wechat_redirect)
 
 华为安全公众平台，第一时间传递华为安全最新动态与前沿行业资讯。
 
@@ -601,7 +601,7 @@ Imperva是一家全球公认领先的应用数据安全及云安全供应商，�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NzE0NTIxMg==)
 
-[:camera_flash:【2023-11-22 08:30:59】](https://mp.weixin.qq.com/s?__biz=MjM5NzE0NTIxMg==&mid=2651130196&idx=1&sn=c5ccfc334712227b69d6345d97be5f4a&chksm=bd2fd6478a585f5104f6f497b8c085a453d6bb6d6de8b43e061b51b3962e3ea342b730bd24e0&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-24 16:00:41】](https://mp.weixin.qq.com/s?__biz=MjM5NzE0NTIxMg==&mid=2651130244&idx=2&sn=c47364a3fbfacadf0150757afa424c96&chksm=bd2fd6978a585f8139a2e0fcc7ad9186a366605f550572c7f7abbcb607751397c71f45945491&scene=27#wechat_redirect)
 
 全球软件安全领跑者，运用领先技术提供专业可靠的服务，为全球政府、企业、开发者和消费者打造安全、稳固、可信的安全生态环境。梆梆安全致力于保护您的软件，让每个人都能自由地创造、分享和使用信息。
 
@@ -640,7 +640,7 @@ Imperva是一家全球公认领先的应用数据安全及云安全供应商，�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4MTg0MDQ4Nw==)
 
-[:camera_flash:【2023-11-23 18:48:06】](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247567698&idx=2&sn=ffb64be50b6f94fb63fdb7d0e07271d0&chksm=9f8d595aa8fad04c1da90d92147fb6ebdfbe1a55ad053044a22f0ee739ede43122cb2b84fb9a&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-24 18:16:45】](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247567767&idx=2&sn=62bdde38db3536bc2cd6cbc6cc63e9db&chksm=9f8d599fa8fad089e71c3bcc1f8fe869b9f33143548f3a768c9cd6ec899cd78b41e4d0139591&scene=27#wechat_redirect)
 
 数字安全的领导者
 
