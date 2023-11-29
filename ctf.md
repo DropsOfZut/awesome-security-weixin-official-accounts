@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
 
-[:camera_flash:【2023-11-24 09:00:35】](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247514910&idx=1&sn=3d21d99616a1f74b66bf08928ffeee1a&chksm=a687492491f0c032e11fc550bded9cf41bf2f0f17fa017afad36f184ac2656f565c505cac17e&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-27 19:00:43】](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247514928&idx=1&sn=c57e9c679b346137e553b4995a5cbb92&chksm=a687490a91f0c01cd97a4c7e0b200a06000a6c991a107a405b05a892a54613bc8a4b8b023971&scene=27#wechat_redirect)
 
 国内最早、亚洲最大的网络攻防联赛。
 
@@ -42,7 +42,7 @@ PTE小技巧
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5Njg1NzMyNw==)
 
-[:camera_flash:【2023-11-18 14:04:08】](https://mp.weixin.qq.com/s?__biz=MzU5Njg1NzMyNw==&mid=2247487623&idx=1&sn=b18500d3a56ce23d439cb924b87598fb&chksm=fe5d0807c92a81110d5b8c07dccbbc2a78b11aa67e9a7e5bcca745eb1977332b7669a093ac38&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-23 15:54:00】](https://mp.weixin.qq.com/s?__biz=MzU5Njg1NzMyNw==&mid=2247487647&idx=1&sn=d6f813dd9eda01b2ebcb66c4a915f27b&chksm=fe5d081fc92a81093c7112ae24596e42e2219f783a87300ca4d1cd4ef56cf3fbcf9a2dccc87c&scene=27#wechat_redirect)
 
 由奇安信集团、清华大学、蚂蚁集团主办，联合北京大学、中科院软件所、复旦大学、中山大学、山东大学、中国科技大学等30多个知名高校和研究机构共同举办的聚焦大数据安全分析的比赛。
 
@@ -224,7 +224,7 @@ ctf技术交流。
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjY3NDQ2Ng==)
 
-[:camera_flash:【2023-11-20 18:17:42】](https://mp.weixin.qq.com/s?__biz=Mzg4MjY3NDQ2Ng==&mid=2247486442&idx=1&sn=eb35b7d00e4cd58b1df0eab270bf5ad2&chksm=cf5255a7f825dcb1378ea79a0c7b6bb9427d81ab64094eb9390309babbe950e3a546139f65af&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-27 17:06:07】](https://mp.weixin.qq.com/s?__biz=Mzg4MjY3NDQ2Ng==&mid=2247486493&idx=1&sn=78351c0193a981d18ef87ecbd6f2c6d8&chksm=cf525250f825db46250e4909edbe4335c33e66bc5969912f0a6e6867b9e5bde5fed223592d41&scene=27#wechat_redirect)
 
 强网竞赛是面向高等院校和国内信息安全企业的国家级赛事，旨在通过高对抗的竞技比赛，发现锻造网络安全领域优秀人才，提高国家网络安全保障能力，提升全民网络安全意识。
 

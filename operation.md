@@ -29,7 +29,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3MzYwNjQ3NA==)
 
-[:camera_flash:【2022-06-09 15:38:15】](https://mp.weixin.qq.com/s?__biz=MzA3MzYwNjQ3NA==&mid=2651301005&idx=1&sn=591c720a722d1091269049b822fa468b&chksm=84ff70a8b388f9beca2bbd95f4aa3fe7cb5fcb95b2b822a01b29b2a778b1a50d3ae19a0f9b3b&scene=27&key=3820ae6439ecdd67569d451dccff2df72725e4e22c34cf0a6ddd9a37045228bd9e958856d57127a3f0f2522acca0e50d1b9db03eea86dde0680fbf05e411e63a283bfecaed40196b0ed89737b29cc623c841187edc0bd2d4550f25978018b7b304803ce91e21d90c852d7aba839600f479f9b865321cb8c5435b0cd4edb5a8b0&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+Server+2016+x64&version=63060012&lang=zh_CN&session_us=gh_fc624022782d&exportkey=AxkXZwZaGn73CaYoM3ekAIk%3D&acctmode=0&pass_ticket=LY1K1kgm7M57xazR8DnzDx%2BiXiK1JFuyFgS5dcc8bbJqloaGfg67cPFCEdwYtoyz&wx_header=0&fontgear=2&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-27 11:20:50】](https://mp.weixin.qq.com/s?__biz=MzA3MzYwNjQ3NA==&mid=2651301013&idx=1&sn=5a26167b3410854ba895f216592df953&chksm=84ff70b0b388f9a6bee52e6543d6361fc722e19a311b7d608ce8c14bc47289a66cd93b0f24af&scene=27#wechat_redirect)
 
 互联网技术分享平台
 
@@ -42,7 +42,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1NzI5NDM4Mw==)
 
-[:camera_flash:【2023-11-22 08:01:51】](https://mp.weixin.qq.com/s?__biz=MzI1NzI5NDM4Mw==&mid=2247496323&idx=1&sn=c60e6278260557475911046878516bf8&chksm=ea1b1bc3dd6c92d57fbd99cb4ac1b49a429e8df9f4f5b916f2f7108fe4d24d4f207128eba8b1&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-27 08:01:04】](https://mp.weixin.qq.com/s?__biz=MzI1NzI5NDM4Mw==&mid=2247496325&idx=1&sn=c480494d01fe9695430f39662a0495a6&chksm=ea1b1bc5dd6c92d3fc17983e91b5a5907d4cf2ce6b5e880e2befe64a139c79a08c3af3816026&scene=27#wechat_redirect)
 
 Docker中文社区旨在为大家提供 Docker、Kubernetes 相关工具及前沿资讯信息，方便大家了解学习 Docker、Kubernetes 相关容器技术。官网：dockerworld.cn
 
@@ -55,7 +55,7 @@ Docker中文社区旨在为大家提供 Docker、Kubernetes 相关工具及前�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3MjM5MDc2Nw==)
 
-[:camera_flash:【2023-11-20 15:20:01】](https://mp.weixin.qq.com/s?__biz=MzA3MjM5MDc2Nw==&mid=2650748049&idx=1&sn=4ad84d7cd94130848c3eb34a96c2d73e&chksm=87149591b0631c87a36a3b93c9351ae3c65e1a91aecacf6750d2407df9d0090292be639023cd&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-27 08:49:15】](https://mp.weixin.qq.com/s?__biz=MzA3MjM5MDc2Nw==&mid=2650748069&idx=1&sn=406791529f0ef065192fc0eb28f690b2&chksm=871495a5b0631cb3629e792581a0f7e9a04252cb21c8fae289ed6bf96e88336621e1805444d6&scene=27#wechat_redirect)
 
 史上最具参考性的云计算和网络安全技术实践博客。
 
@@ -120,7 +120,7 @@ BAT 技术专家分享开发、架构、运维相关干货！
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzIwNTY1OA==)
 
-[:camera_flash:【2023-11-25 08:00:39】](https://mp.weixin.qq.com/s?__biz=MzkxMzIwNTY1OA==&mid=2247501492&idx=1&sn=cc555d976e06a1c2ec19ff7b04dce7da&chksm=c103b641f6743f570a0638f7b82645f40dc5521b84fa491bffd0e9d7a0a7009e40160431779c&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-28 08:19:10】](https://mp.weixin.qq.com/s?__biz=MzkxMzIwNTY1OA==&mid=2247501537&idx=1&sn=e86ec123158e5544abdfa20c42ac0fa6&chksm=c103b614f6743f0252328c7695817ffc21cfc8f270caccfa69edc6fe5c816546a0e6416dbd9b&scene=27#wechat_redirect)
 
 发布关于kali相关文章。Debian Centos等操作系统的安全和运维。以及树莓派 ESP8266 DIY单片机等相关安全领域的文章。旨在掌握技术和原理的前提下，更好的保护自身网络安全。反对一切危害网络安全的行为，造成法律后果请自负。
 

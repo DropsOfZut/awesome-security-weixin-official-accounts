@@ -224,7 +224,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
 
-[:camera_flash:【2023-11-25 09:38:16】](https://mp.weixin.qq.com/s?__biz=MzU5NzQ3NzIwMA==&mid=2247484016&idx=1&sn=ff98c4efc58d1d3925bd30ec4b790a03&chksm=fe53904fc9241959bf43f973d63367b6add7f5a5d79ce0c5a59b7a677d38ac1f99782e772113&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-26 11:39:14】](https://mp.weixin.qq.com/s?__biz=MzU5NzQ3NzIwMA==&mid=2247484038&idx=1&sn=f2aa2c36c2dd33bf363b6c558863c39e&chksm=fe5390b9c92419af438ebcc1fbb5d93399bf8cdc01aa0068ef24e11ee3219b2ceb1ed7274867&scene=27#wechat_redirect)
 
 读书，写诗，假装自己是黑客。
 
@@ -497,7 +497,7 @@ OPPO 安第斯智能云（AndesBrain）是服务个人、家庭与开发者的�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzI1MDg2Mg==)
 
-[:camera_flash:【2023-10-30 17:30:34】](https://mp.weixin.qq.com/s?__biz=MzIwMzI1MDg2Mg==&mid=2649943595&idx=1&sn=cdcb0bcaf9eb681f3e0e292990583504&chksm=8ed403eab9a38afc85e3f9994f5ed7456ef0881dfb285a751b9aef24016990f97acd38b7c483&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-27 17:30:20】](https://mp.weixin.qq.com/s?__biz=MzIwMzI1MDg2Mg==&mid=2649943605&idx=1&sn=7254bb0e0ebb0711f9defe503bd49077&chksm=8ed403f4b9a38ae2d00f16fa2f7fef0b7b9a20fe4db4c41390270adfd8fb141d108e6ac64ebf&scene=27#wechat_redirect)
 
 主营业务涵盖应用安全、系统安全、运维安全等，包括IT资产管理、智能攻击机器人、智能防御机器人、攻防实战演练支持、安全培训、课题和安全技术研究、产品研发及服务综合解决方案提供；其中，行业解决方案又包括电力行业、金融行业、军工行业、公检法等。
 
@@ -510,7 +510,7 @@ OPPO 安第斯智能云（AndesBrain）是服务个人、家庭与开发者的�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNjU0NjAyNg==)
 
-[:camera_flash:【2023-11-23 19:57:17】](https://mp.weixin.qq.com/s?__biz=MzIwNjU0NjAyNg==&mid=2247487755&idx=1&sn=0493a4ca092558adf58cb02c3bd6f685&chksm=971ea40ea0692d181bf70d61d0dc7877c2646c8a876615ce70fbc1188a70c088ccba7291a2c4&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-27 16:45:40】](https://mp.weixin.qq.com/s?__biz=MzIwNjU0NjAyNg==&mid=2247487765&idx=1&sn=98ef8c7dfc40760b8e51f8ca378e4bc1&chksm=971ea410a0692d0642834b4fdb73db8ac9c95ab12f63ca2448ce02000571779923e47c59a7a6&scene=27#wechat_redirect)
 
 基于知道创宇14年来海量真实攻防数据积累，通过AI+安全大数据能力持续自生产、精粹和分析，实时输出高精准、高价值威胁情报，赋能于全场景安全建设体系。
 
