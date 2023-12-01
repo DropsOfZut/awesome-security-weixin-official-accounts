@@ -211,7 +211,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NjUzODYyNw==)
 
-[:camera_flash:【2023-11-27 18:48:10】](https://mp.weixin.qq.com/s?__biz=Mzg4NjUzODYyNw==&mid=2247485124&idx=1&sn=3ca0e2b665431fc4bdf93f9b072fee0c&chksm=cf996e28f8eee73e9169fc47fb08b2b4ab62aaf46eb78f2576215fcb4b1c5c349838932b3877&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-29 22:13:17】](https://mp.weixin.qq.com/s?__biz=Mzg4NjUzODYyNw==&mid=2247485181&idx=1&sn=e88fd2785cf7a22a8afa9b9aed25a008&chksm=cf996e11f8eee70704042cae1638fb01d28c8d8f06f072a605e8992884a434f3b6ec8a83e824&scene=27#wechat_redirect)
 
 南宁职业技术学院网络安全技术协会
 
@@ -263,7 +263,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDIyNTE0OQ==)
 
-[:camera_flash:【2023-11-18 10:25:26】](https://mp.weixin.qq.com/s?__biz=MzkyNDIyNTE0OQ==&mid=2247484816&idx=1&sn=cf24e248103c82d3cc3223d1d6108340&chksm=c1d85e82f6afd794d9d3dfe42537f62142296386b8228e5c3560c37e2546a4417c67776c3fd8&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-28 16:26:54】](https://mp.weixin.qq.com/s?__biz=MzkyNDIyNTE0OQ==&mid=2247484821&idx=1&sn=2811eb791e3be8b98852838ec5bb3721&chksm=c1d85e87f6afd7913f422ae6c746e66ed47f57a396765b370404d791d67dcf3199904cae903a&scene=27#wechat_redirect)
 
 本社团致力于向大家分享交流网络安全实践技术，主要以CTF竞赛、红蓝对抗、渗透测试、知识讲座等形式分享网络安全知识，培养网安人才，积极响应国家建设网络强国的号召，共筑网络安全防线。
 
@@ -432,7 +432,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MDU5NTA1MQ==)
 
-[:camera_flash:【2023-11-26 20:42:40】](https://mp.weixin.qq.com/s?__biz=MzU3MDU5NTA1MQ==&mid=2247497266&idx=1&sn=0e88c4df4a1e749c6fb77e5a230b9ff2&chksm=fcefb5b6cb983ca06bc3cd0f8dd80f1bd78fe771600a5d163523011486e7f7b5791a24ca9d8c&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-28 22:27:58】](https://mp.weixin.qq.com/s?__biz=MzU3MDU5NTA1MQ==&mid=2247497366&idx=1&sn=8aa78b8984c730dbb98d1ab0bee443e3&chksm=fcefb512cb983c04ca3f1af152fbf8007f83aceda6100c15f4869a85366f248d568773df5b89&scene=27#wechat_redirect)
 
 欢迎加入齐鲁师范学院网络安全社团
 
@@ -575,7 +575,7 @@ Covteam工作室，成立于2005年。是以西华大学在校本科生研究生
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxMTEwOTA3OA==)
 
-[:camera_flash:【2023-11-15 17:00:53】](https://mp.weixin.qq.com/s?__biz=MzUxMTEwOTA3OA==&mid=2247485517&idx=1&sn=e0dfd5073c87f6d90096ce3aebcd3189&chksm=f979faf4ce0e73e213b338db2ff7966d0d07750bf50e578d9c18d38c82944142c940b914b022&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-29 17:00:31】](https://mp.weixin.qq.com/s?__biz=MzUxMTEwOTA3OA==&mid=2247485524&idx=1&sn=29914e5cf3d6330e8fc948bbc80df8c9&chksm=f979faedce0e73fbb4086001986ec72c9490a83f294795f624a3b1eaafaf190daf3f5a9499dc&scene=27#wechat_redirect)
 
 网络与信息安全实验室(NISL@THU)，专注于网络、系统、应用、人工智能安全教学与研究，在国际四大安全会议发表三十余篇论文，成果在业界产生了广泛影响力。孕育了蓝莲花、紫荆花等知名战队，发起了网安国际学术论坛InForSec。
 
@@ -588,7 +588,7 @@ Covteam工作室，成立于2005年。是以西华大学在校本科生研究生
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
 
-[:camera_flash:【2023-11-27 09:08:25】](https://mp.weixin.qq.com/s?__biz=MzUzODkwMDMxNA==&mid=2247572425&idx=1&sn=e65d037cb9199aecbe1908a234543c8c&chksm=fad339fccda4b0ea20420820dc3e2180c53da0d44db6d1c62fcd235f5d7ef6f80912e96d6f4a&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-29 08:00:23】](https://mp.weixin.qq.com/s?__biz=MzUzODkwMDMxNA==&mid=2247572534&idx=1&sn=efe14a123f653df4cc90c7b10a1c6640&chksm=fad33e03cda4b71555b77c75e4ae1158a52b5bd2104cac555690119c3281ef9d6718a7bc89f2&scene=27#wechat_redirect)
 
 百所高校、百家用人单位、百名尖锋导师，携手打造定制化人才培养模式，通过导师制职业规划和封闭式岗位实训，补足知识短板、提高实战能力，培养创新型、实用型网络安全尖锋人才。
 

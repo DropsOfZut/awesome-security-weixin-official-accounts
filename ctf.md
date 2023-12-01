@@ -120,7 +120,7 @@ CTF，从入门到放弃
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzEwMTQ3NQ==)
 
-[:camera_flash:【2023-11-16 10:38:30】](https://mp.weixin.qq.com/s?__biz=MzU3MzEwMTQ3NQ==&mid=2247507152&idx=2&sn=e51d92f62fd926b9f2b8ad74415be3e8&chksm=fcc4581ccbb3d10a7bc1d6bde33b4edc689073ec39e2ad3ea03067f48cdeefdd940a8c9e6b74&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-30 00:00:38】](https://mp.weixin.qq.com/s?__biz=MzU3MzEwMTQ3NQ==&mid=2247507216&idx=1&sn=041755d07a6b93449948d4a04a67f319&chksm=fcc459dccbb3d0cac8b481a9000612bd5e1b101b46726cae46570c3239806318fa7ee3131dd2&scene=27#wechat_redirect)
 
 青少年CTF（原名中学生CTF）帮助大家学习CTF竞赛，信息安全与网络技术。大家如果喜欢我们的视频讲解和教程可以加入我们的QQ群：797842833。快来和我们一起学习安全知识吧。
 
@@ -250,7 +250,7 @@ X是未知，更是无限，邀您一道创造、见证和实现X-Plan，北斗�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxNDk1ODUxMw==)
 
-[:camera_flash:【2023-10-19 10:10:06】](https://mp.weixin.qq.com/s?__biz=MzUxNDk1ODUxMw==&mid=2247486229&idx=1&sn=ad252ebda510a673d5abe9291e7bfd2d&chksm=f9bcbecbcecb37ddd8814a08d15038fc8ac867da2f44f970b8a36c344e3f118d1dd5486d4e92&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-28 11:32:40】](https://mp.weixin.qq.com/s?__biz=MzUxNDk1ODUxMw==&mid=2247486235&idx=1&sn=ffc56dd2fe919c29d54d869d652c9540&chksm=f9bcbec5cecb37d36e7d9c8ba8ba5b1f0208e6713565de0697df7c9de3482d41e25ecb5ba6a8&scene=27#wechat_redirect)
 
 CTF协会
 
