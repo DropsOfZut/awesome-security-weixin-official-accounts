@@ -42,7 +42,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
 
-[:camera_flash:【2023-11-15 11:13:16】](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247489994&idx=1&sn=0bfb41528b63c1ab1f0cf1f81d034da9&chksm=fe2ee641c9596f578d899e82a1c0d92cefc96d7862cde74435c50e24aad9b3c910e9d436d9c4&scene=27#wechat_redirect)
+[:camera_flash:【2023-12-01 12:23:49】](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247490001&idx=1&sn=56681022e46a6aa01a6b8fd566522906&chksm=fe2ee65ac9596f4c74aa67be67265ba8cbacf3e8e654f16bcd86498bfd5f64f7e99fcf188356&scene=27#wechat_redirect)
 
 分享安全方面的论文写作、会议发表、基金申请方面的资料。
 
@@ -146,7 +146,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
 
-[:camera_flash:【2023-11-29 18:41:52】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247504929&idx=1&sn=30af202393f347f0cbb3be868b76a40c&chksm=e9d31fc3dea496d5d3bf3479be6f79103800383aac5d93981345f54ea9a7f0ccad996054e57b&scene=27#wechat_redirect)
+[:camera_flash:【2023-12-01 11:03:36】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247504942&idx=1&sn=1630887251ced414cc6efc34085e0ce9&chksm=e9d31fccdea496da459fbbcf5e5f639dbc0c317299019ad40b9fba2bca7971b5a407c8677536&scene=27#wechat_redirect)
 
 字节跳动的技术实践分享
 
@@ -328,7 +328,7 @@ Will的小屋
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
 
-[:camera_flash:【2023-11-28 18:01:00】](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649781310&idx=1&sn=526341a5e131668264badadba143e162&chksm=becce74589bb6e538399df31ac164dcd24a4c38e564e2532111f9479a8dc3d63d558d8ab69a4&scene=27#wechat_redirect)
+[:camera_flash:【2023-12-01 18:01:15】](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649781331&idx=1&sn=0845ed72fe9aa0fee0a5f4ee1b9f9123&chksm=becce72889bb6e3efe6278267128022627d28c8852b2f65153ac2db93556d922f1f5363b3c09&scene=27#wechat_redirect)
 
 腾讯技术官方号。腾讯技术创新、前沿领域发布解读平台。
 
@@ -341,7 +341,7 @@ Will的小屋
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3Njc0NTgwMg==)
 
-[:camera_flash:【2023-11-28 12:01:01】](https://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&mid=2247497596&idx=1&sn=336b0f1c19d6314603f976d065dd6302&chksm=cf2f3259f858bb4ff0e846e4be2cda17d1f1d87d06ecd2eee710b7931084e2e7546bc05f593b&scene=27#wechat_redirect)
+[:camera_flash:【2023-12-01 12:02:52】](https://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&mid=2247497652&idx=1&sn=abfd3028ca872ebc9591bedb110e440d&chksm=cf2f3291f858bb87086f6ef2787740ac695f2085adf901b5db81e53f55c4ac4d949360553506&scene=27#wechat_redirect)
 
 提供B站相关技术的介绍和讲解
 
@@ -406,7 +406,7 @@ Pinpoint，专业代码审计团队。感谢您的关注！
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNzIwMzY4OQ==)
 
-[:camera_flash:【2023-11-22 15:11:19】](https://mp.weixin.qq.com/s?__biz=MzkyNzIwMzY4OQ==&mid=2247488902&idx=1&sn=338e959259d95e0e3b3dd16d9bc96e34&chksm=c22afd80f55d749673f314707367b814dd03b2bea6c35e7b2d48d627275972b823abd807cc4b&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-30 14:14:13】](https://mp.weixin.qq.com/s?__biz=MzkyNzIwMzY4OQ==&mid=2247489018&idx=1&sn=15581b419097c996c242b11e026cc725&chksm=c22afdfcf55d74ea91f35fe08baa9a94931d0c736337aa554ef26cec4bfdbcc921e6a8e1424b&scene=27#wechat_redirect)
 
 FOFA是由华顺信安科技有限公司开发的一款网络空间资产搜索引擎。
 
@@ -510,7 +510,7 @@ OPPO 安第斯智能云（AndesBrain）是服务个人、家庭与开发者的�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNjU0NjAyNg==)
 
-[:camera_flash:【2023-11-27 16:45:40】](https://mp.weixin.qq.com/s?__biz=MzIwNjU0NjAyNg==&mid=2247487765&idx=1&sn=98ef8c7dfc40760b8e51f8ca378e4bc1&chksm=971ea410a0692d0642834b4fdb73db8ac9c95ab12f63ca2448ce02000571779923e47c59a7a6&scene=27#wechat_redirect)
+[:camera_flash:【2023-12-01 10:27:18】](https://mp.weixin.qq.com/s?__biz=MzIwNjU0NjAyNg==&mid=2247487797&idx=1&sn=856667fb645922e1452095b535c484a7&chksm=971ea430a0692d263cef3ec21db94af7f8f403a5d17f660d8bc003e63bfdbe2b677e49d8b4c7&scene=27#wechat_redirect)
 
 基于知道创宇14年来海量真实攻防数据积累，通过AI+安全大数据能力持续自生产、精粹和分析，实时输出高精准、高价值威胁情报，赋能于全场景安全建设体系。
 

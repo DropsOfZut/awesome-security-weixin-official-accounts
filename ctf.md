@@ -42,7 +42,7 @@ PTE小技巧
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5Njg1NzMyNw==)
 
-[:camera_flash:【2023-11-23 15:54:00】](https://mp.weixin.qq.com/s?__biz=MzU5Njg1NzMyNw==&mid=2247487647&idx=1&sn=d6f813dd9eda01b2ebcb66c4a915f27b&chksm=fe5d081fc92a81093c7112ae24596e42e2219f783a87300ca4d1cd4ef56cf3fbcf9a2dccc87c&scene=27#wechat_redirect)
+[:camera_flash:【2023-11-29 16:12:46】](https://mp.weixin.qq.com/s?__biz=MzU5Njg1NzMyNw==&mid=2247487652&idx=1&sn=e0c31d4d4ddadb9dcc5ba582973c5dc0&chksm=fe5d0824c92a8132d239c235386b6fcc388be1d710c37adb4e7943a49deb8efdc9750339bdee&scene=27#wechat_redirect)
 
 由奇安信集团、清华大学、蚂蚁集团主办，联合北京大学、中科院软件所、复旦大学、中山大学、山东大学、中国科技大学等30多个知名高校和研究机构共同举办的聚焦大数据安全分析的比赛。
 
@@ -276,7 +276,7 @@ CTF协会
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjcxMTAwMQ==)
 
-[:camera_flash:【2023-11-25 18:36:42】](https://mp.weixin.qq.com/s?__biz=Mzg4MjcxMTAwMQ==&mid=2247487732&idx=1&sn=2d33dfbfe0175bd0e90559ec0d5758ab&chksm=cf53d042f824595425ad1c8282cd851f54cdd58ddaf5ab7d80b0639e32c05acd17d01595d9be&scene=27#wechat_redirect)
+[:camera_flash:【2023-12-01 20:58:05】](https://mp.weixin.qq.com/s?__biz=Mzg4MjcxMTAwMQ==&mid=2247487743&idx=1&sn=73d703fba99f758b7f6b32078938fd90&chksm=cf53d049f824595fcaec1556f79ffb10f2f9adab2825d2aa0f882a50c432f695dcddf4707263&scene=27#wechat_redirect)
 
 山海关安全团队公众号。
 
