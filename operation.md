@@ -42,7 +42,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1NzI5NDM4Mw==)
 
-[:camera_flash:【2023-11-29 08:01:51】](https://mp.weixin.qq.com/s?__biz=MzI1NzI5NDM4Mw==&mid=2247496326&idx=1&sn=5ab1a07616887d6f187a4a90561bbc6e&chksm=ea1b1bc6dd6c92d0210d85b15b7c85b2720500eb02a7311148383adeb4ed58a24ef9c0768353&scene=27#wechat_redirect)
+[:camera_flash:【2023-12-04 08:01:01】](https://mp.weixin.qq.com/s?__biz=MzI1NzI5NDM4Mw==&mid=2247496480&idx=1&sn=52a4fa35f38b416f82d182dcae837f1b&chksm=ea1b1a60dd6c9376461cb6b6a2d11832f52b4e9e406736c7e49e4c0b4c9fe343b5dd5e379327&scene=27#wechat_redirect)
 
 Docker中文社区旨在为大家提供 Docker、Kubernetes 相关工具及前沿资讯信息，方便大家了解学习 Docker、Kubernetes 相关容器技术。官网：dockerworld.cn
 
@@ -107,7 +107,7 @@ BAT 技术专家分享开发、架构、运维相关干货！
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3MjMxODUwNg==)
 
-[:camera_flash:【2023-11-25 14:14:57】](https://mp.weixin.qq.com/s?__biz=MzA3MjMxODUwNg==&mid=2247486277&idx=1&sn=3d1507a8c15b7d2ebaac64d6c319af59&chksm=9f216000a856e9163d16efab9a2872784b645fad5efd2a512791121420b0599cfd4dd7fff423&scene=27#wechat_redirect)
+[:camera_flash:【2023-12-03 19:27:57】](https://mp.weixin.qq.com/s?__biz=MzA3MjMxODUwNg==&mid=2247486280&idx=1&sn=dcfe471a8067e07778d8af8f09618b17&chksm=9f21600da856e91b1637f2aede5c31ec197219329621860d9deecb0ae16e7eef9b6a652c9348&scene=27#wechat_redirect)
 
 漏洞挖掘、SRC、红蓝对抗、代码审计
 
@@ -120,7 +120,7 @@ BAT 技术专家分享开发、架构、运维相关干货！
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzIwNTY1OA==)
 
-[:camera_flash:【2023-11-30 10:29:15】](https://mp.weixin.qq.com/s?__biz=MzkxMzIwNTY1OA==&mid=2247501620&idx=1&sn=0b6f59f0576a393cc48ef2d7e3acbd53&chksm=c103b7c1f6743ed7c45df644803b242d3183639d6a3841ebb20e4ef0713638d638f025ebd054&scene=27#wechat_redirect)
+[:camera_flash:【2023-12-03 08:43:48】](https://mp.weixin.qq.com/s?__biz=MzkxMzIwNTY1OA==&mid=2247501660&idx=1&sn=4b4099cb14efcf5e6fc9e702b60c3a23&chksm=c103b7a9f6743ebf2a43af7bdf32debf2c3b31c445cd53686e70d79f2ef7c9dea3ca6af1846a&scene=27#wechat_redirect)
 
 发布关于kali相关文章。Debian Centos等操作系统的安全和运维。以及树莓派 ESP8266 DIY单片机等相关安全领域的文章。旨在掌握技术和原理的前提下，更好的保护自身网络安全。反对一切危害网络安全的行为，造成法律后果请自负。
 
