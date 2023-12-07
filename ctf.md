@@ -42,7 +42,7 @@ PTE小技巧
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5Njg1NzMyNw==)
 
-[:camera_flash:【2023-11-29 16:12:46】](https://mp.weixin.qq.com/s?__biz=MzU5Njg1NzMyNw==&mid=2247487652&idx=1&sn=e0c31d4d4ddadb9dcc5ba582973c5dc0&chksm=fe5d0824c92a8132d239c235386b6fcc388be1d710c37adb4e7943a49deb8efdc9750339bdee&scene=27#wechat_redirect)
+[:camera_flash:【2023-12-05 17:47:40】](https://mp.weixin.qq.com/s?__biz=MzU5Njg1NzMyNw==&mid=2247487701&idx=1&sn=688146ee953daca964f07294086804f9&chksm=fe5d0855c92a81433594693f4a28364b6cb719a7dc3536020e5651203339fd612b58b25e8d00&scene=27#wechat_redirect)
 
 由奇安信集团、清华大学、蚂蚁集团主办，联合北京大学、中科院软件所、复旦大学、中山大学、山东大学、中国科技大学等30多个知名高校和研究机构共同举办的聚焦大数据安全分析的比赛。
 
@@ -68,7 +68,7 @@ PTE小技巧
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
 
-[:camera_flash:【2023-11-23 10:13:56】](https://mp.weixin.qq.com/s?__biz=MzkyNDA5NjgyMg==&mid=2247496740&idx=1&sn=968fa999be2f72363bbd0110e03396c3&chksm=c1d9b47df6ae3d6b9123a2b5b84fd4485da5a9e63c43f2150e029a39e4cf69dbf55102df2eb7&scene=27#wechat_redirect)
+[:camera_flash:【2023-12-05 18:30:46】](https://mp.weixin.qq.com/s?__biz=MzkyNDA5NjgyMg==&mid=2247496755&idx=1&sn=46925aecc0b2d01c067287d07e4c9beb&chksm=c1d9b46af6ae3d7c564db8e1a853c7a9dd8d6821dc378b9037f8d57079663e23905cf826e5cf&scene=27#wechat_redirect)
 
 春秋伽玛，为广大网络安全爱好者传递网络安全大赛相关赛事信息，提供优质的赛事服务平台
 
@@ -276,7 +276,7 @@ CTF协会
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjcxMTAwMQ==)
 
-[:camera_flash:【2023-12-01 20:58:05】](https://mp.weixin.qq.com/s?__biz=Mzg4MjcxMTAwMQ==&mid=2247487743&idx=1&sn=73d703fba99f758b7f6b32078938fd90&chksm=cf53d049f824595fcaec1556f79ffb10f2f9adab2825d2aa0f882a50c432f695dcddf4707263&scene=27#wechat_redirect)
+[:camera_flash:【2023-12-04 11:49:30】](https://mp.weixin.qq.com/s?__biz=Mzg4MjcxMTAwMQ==&mid=2247487754&idx=1&sn=bd18730b1ce8dd8f1bc531f70436f67a&chksm=cf53d1bcf82458aa17a6e2013993b5aa74ea681c96ca9f9f6bda30be744fb5ba0dde03658f43&scene=27#wechat_redirect)
 
 山海关安全团队公众号。
 

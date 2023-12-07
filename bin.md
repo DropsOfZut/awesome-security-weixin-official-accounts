@@ -29,7 +29,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTc2MDYxMw==)
 
-[:camera_flash:【2023-12-03 18:00:00】](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458530040&idx=2&sn=e3d0ebbb7ad05e2e630c65918c17f09e&chksm=b18d007286fa89641c59f2d072566b8eec9f6b29d54b58dee015de47d8f2f910cc362aa8f57c&scene=27#wechat_redirect)
+[:camera_flash:【2023-12-05 18:10:41】](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458530209&idx=2&sn=ca9d480468caed7f8a26c3703d7f050e&chksm=b18d012b86fa883d1ade69b3abeb39c215f800a9bacd99df7fa6355f3ed7353e06fab537cbdb&scene=27#wechat_redirect)
 
 致力于移动与安全研究的开发者社区，看雪学院(kanxue.com)官方微信公众帐号。
 
@@ -68,7 +68,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU1NTEzODc3MQ==)
 
-[:camera_flash:【2023-11-28 18:01:45】](https://mp.weixin.qq.com/s?__biz=MzU1NTEzODc3MQ==&mid=2247486137&idx=1&sn=978e4a99aad4bb5c79b5f75736fb4fdf&chksm=fbd9a105ccae2813706dae66a5c82d1feb6f790c6bf59ea7b2f7313340436cfd87c6472e614c&scene=27#wechat_redirect)
+[:camera_flash:【2023-12-05 18:00:37】](https://mp.weixin.qq.com/s?__biz=MzU1NTEzODc3MQ==&mid=2247486165&idx=1&sn=7c9577f76d832515dbc662e4dcc25efb&chksm=fbd9a169ccae287faa9756acc61aa485f095cf36fa76d6970313d1ad45dd535a67d395154116&scene=27#wechat_redirect)
 
 「FuzzWiki」致力于成为国内最专业的模糊测试技术论坛平台，专注于分享模糊测试领域前沿技术、深度文章、行业资讯、最新突破，为专家学者、从业者、相关行业安全人员和决策者构筑完善的知识图谱，提供交流模糊测试新技术、新知识、新工具的开放平台。
 
