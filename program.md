@@ -94,7 +94,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ5MTI5OA==)
 
-[:camera_flash:【2023-11-09 19:58:25】](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651775601&idx=1&sn=d4f15d46dd8e926333403922eaad8901&chksm=bd123b3c8a65b22a814b8e8d911b5b33364172922004af35cb3dafd51c8b1d8964c4d1e4d98f&scene=0&xtrack=1&key=60da4d39056d42a587be720af982320a724dfb022e4272edbf32591cf4a5e0d72898b4e99195cb1b1672883ae4a50e2152e2a0b5ac32cd250dc1480703684bb0174cf5472db748bb8557b3a7f8649bcd7af0dd54a12e04d6bf22374413b922db2ad6afac25e34de9d572ef41fbd4960b75726f0bd98765ae54495a87267fec27&ascene=51&uin=MzgxODQ4MjMz&devicetype=Windows+10+x64&version=63060012&lang=zh_CN&session_us=gh_96d37a04e9bf&countrycode=GY&exportkey=n_ChQIAhIQFMvitzDT49dQEVUy2qpg8BLvAQIE97dBBAEAAAAAAN3JDPVJ2OAAAAAOpnltbLcz9gKNyK89dVj0I%2F09aG3Et0qgI%2F59nMPcHQBe8oZJROTcktIOPL0ijmjHYo6NOoYJEMuQ3RfNCCZX8e79XxK50snIgsMefpmNaDNB6M1Uf67JTDGxvMNU5kuT79MwPLlJP2VjiDL2FZUzm4AjoLcECz8y1gpI0BiG7LG8bGkmdrDGkLRMJGFZa%2FMHJ5LkFvZgD5MBhVME%2BYHGT1aFDXRvYygaJhzcNpADpC%2BDdNwwVB1TP%2FsyDDQ6aQJ2oARQ28ycGY0Pdfsa4S%2BnQlpoxV76VbLp&acctmode=0&pass_ticket=W21LCVPZKyMsU2cN42BUY%2FrJjKe2JUwes7wJxyuOexmtAm58CH64iB1flchFGuF6cVzE0EGsHrTyoAZXWLxSlw%3D%3D&wx_header=0&fontgear=2&scene=27#wechat_redirect)
+[:camera_flash:【2023-12-04 19:58:31】](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651776055&idx=1&sn=2937f34dcd329657c4896fde1dd2d0b3&chksm=bd123d7a8a65b46cdb09e229a691ac58a59006285dde909f63a8668f706190d53a382898652e&scene=0&xtrack=1&key=2902f013f58190ec825fa1a69022d69a578be9dc0b911f0f858ae31788cc805022dc0bda46aadd0733313fd813dc2103d04f1b74006bbe19fd3f970918db0e265213cd684e2665917bba6ecaa509108e8ed802689e95f598f8199863787ba460ea8ae661b12f21a053996c194f2202a934207d0f38c4c736442d337371cbead7&ascene=51&uin=NTY2NTA4NjQ%3D&devicetype=Windows+10+x64&version=63060012&lang=zh_CN&session_us=gh_96d37a04e9bf&countrycode=AL&exportkey=n_ChQIAhIQTuCL4MizBqy5ot4VHRng3hLuAQIE97dBBAEAAAAAAC0HIZIJqYYAAAAOpnltbLcz9gKNyK89dVj05I4KyCH9AsnhWqrd2Lu6AG1PFhVxLnaDRWn6ehYQNYQJ0zC3kUMusPPJpCvhQmO7nBHkpiLA222wF5tUBiJwVR4Q1L%2Fxh2KBsSQfYLnqSQBKRw2ozPR%2FWQ%2ByxjJAFL4JtfCaLyI%2BDD3gPF4DDUJnzBlyVlTc98PPpaQmXYXzmYhr77t9Bv1G21SBG0FfGB3DoxA9wP50jvWdrKjCsi3dKDGsVc58qhOrcNyF8m50GG8UDTCge%2BC%2BXh3ps7YxM1PExIml1yRRS3c%3D&acctmode=0&pass_ticket=ubwC4nmBwt6WPbxWvDwRlJERC1s6Uh1XN8YQUbpY6vhrTuhXdPwhZVM5YRA9b3aeDWVinBdEjgR85U34VOmTPQ%3D%3D&wx_header=0&fontgear=2&scene=27#wechat_redirect)
 
 10000+工程师，如何支撑中国领先的生活服务电子商务平台？数亿消费者、数百万商户、2000多个行业背后是哪些技术在支撑？这里是美团、大众点评、美团外卖、美团优选等技术团队对外交流的窗口。
 
@@ -146,7 +146,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
 
-[:camera_flash:【2023-12-04 17:10:16】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247504948&idx=1&sn=1adfb8c0849e9ca0a51dd002fbe46c87&chksm=e9d31fd6dea496c0bd5d11ea8a6b344f196d3de2474d04edec92af2d9b650acbc04a20cf169d&scene=27#wechat_redirect)
+[:camera_flash:【2023-12-07 15:00:58】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247504961&idx=1&sn=7b18777d68deed05c9c1712f42851953&chksm=e86b7ccc013c924f904dbd35be8695f4533878eb12cb6d3224636054529a9cce5c0426a6340d&scene=27#wechat_redirect)
 
 字节跳动的技术实践分享
 
@@ -406,7 +406,7 @@ Pinpoint，专业代码审计团队。感谢您的关注！
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNzIwMzY4OQ==)
 
-[:camera_flash:【2023-11-30 14:14:13】](https://mp.weixin.qq.com/s?__biz=MzkyNzIwMzY4OQ==&mid=2247489018&idx=1&sn=15581b419097c996c242b11e026cc725&chksm=c22afdfcf55d74ea91f35fe08baa9a94931d0c736337aa554ef26cec4bfdbcc921e6a8e1424b&scene=27#wechat_redirect)
+[:camera_flash:【2023-12-07 10:00:48】](https://mp.weixin.qq.com/s?__biz=MzkyNzIwMzY4OQ==&mid=2247489073&idx=1&sn=4c11df2355a00b7b2e5fb29bb443fbf9&chksm=c3160ae5c61e0ed42f26c906a0838a71df5c27d8f377cdc1b15f2144be9eee4c24b8eac637ba&scene=27#wechat_redirect)
 
 FOFA是由华顺信安科技有限公司开发的一款网络空间资产搜索引擎。
 
@@ -458,7 +458,7 @@ OPPO 安第斯智能云（AndesBrain）是服务个人、家庭与开发者的�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwODMxMjcyMQ==)
 
-[:camera_flash:【2023-11-22 10:05:34】](https://mp.weixin.qq.com/s?__biz=MzkwODMxMjcyMQ==&mid=2247487140&idx=1&sn=16977751ebb2520cd5d5c92c4956826e&chksm=c0caa75af7bd2e4caab12cf67103e31c57a3ff378450055b9e25b9132368e348e74789134277&scene=0&xtrack=1&key=8dc8eeef5704357d156abb860a966f214b0fbb1d9d229028cf26b44ea8812774075fc5cbab18c409b2270f948e2f080ebc621aeaef158850c2c9823e66128c65bf89027af34b6748d5ecda6a7e67d5336136136a80ae57bd822c4ebb372ea3284a577bb367b036271bd3e86af61ebac9187d45a7de812e9eda223036ba14ad76&ascene=51&uin=MzgxODQ4MjMz&devicetype=Windows+10+x64&version=63060012&lang=zh_CN&session_us=gh_9701d03894ec&countrycode=GY&exportkey=n_ChQIAhIQVcOWBTdhGxE14r7XR1XDvBLvAQIE97dBBAEAAAAAAPe9F%2F7W%2BYUAAAAOpnltbLcz9gKNyK89dVj0DwPWNave5tIMUbtp%2FjNKvjCaENQ%2F2cSiY3WnZNsLUsDakdU2kt5R2oNurGGhuQGa%2Bsgtyo6zY%2BTqFeCZPfS8SWSBjV76hZHFyRrAXjQZMaQpFqsBX2HAhZagjM8pKuMnYpO9yG1s%2BEdnziqD2EzSR3mkixrHozJbejCeaLmCzbLazbUjHshHzao2B6tmJQQMurtbpALvbx0wEJs7waOvHD%2B%2FxhyeY2b3t6ZLEasB7mtGx3Ya1ymNR1J1qxsbmX%2Bdxfu7rKbV1D3V&acctmode=0&pass_ticket=dtzuLM9RULO%2BXAPYgONQ9Of6sSdK3t1rT5QspXwUgqWwndRxZS0qhY7cwP%2FE9OxyN6vPC8f4K8ESoGkhZhMEYQ%3D%3D&wx_header=0&fontgear=2&scene=27#wechat_redirect)
+[:camera_flash:【2023-12-07 10:00:25】](https://mp.weixin.qq.com/s?__biz=MzkwODMxMjcyMQ==&mid=2247487158&idx=1&sn=209e65b8ad11f10d4bb6030c19ef6897&chksm=c0caa748f7bd2e5e6ce8d7660fb106665e5f81ff0615078ce1931c6ceea65462a11ae83dbb20&scene=0&xtrack=1&key=2afcba43be03400068999fbe5abfc44275b713f979af0ed4413eb3851618beaabaee4138479f93812ebe9efb523f7ff077eb4f832ff829a22f695a03c54352b6c25ae02e7f59e8b7da3b5dcc969c2b7d792a8f7debb0842d38f478179367bd6d87107598a7a1546d97fdc0c90c7454acfbe537793d7eacff88393cbc32d6ede6&ascene=51&uin=NTY2NTA4NjQ%3D&devicetype=Windows+10+x64&version=63060012&lang=zh_CN&session_us=gh_9701d03894ec&countrycode=AL&exportkey=n_ChQIAhIQt3YJfvzzcGk2Pff6ZqHXbRLuAQIE97dBBAEAAAAAAHYVKXU5l7oAAAAOpnltbLcz9gKNyK89dVj0kYv9NtABrbzLOqypAOlxYOycLTa8hUG8306T%2FrRoH4OhyJMCFULU5gFdfIBS9xu%2BacTYjsxCIv7lCieJbs4AQfhrFKXCP%2BWusaaX2psfFC23E683EaiVE0hxqlTV8ibbB0QsLET0BYouUiTkZ%2Bvcn60xAcBx7MxREF%2B6eUNFOfhRmaRDlbievYUT4%2Fl1w6H1lmHTahNh0yJ%2Fs6Y%2BXK3Ya6L4EE1IPMxJ91Iox%2FzQqDmtsgYi%2BTUtrMdUPcXQgCSE%2Bq6O8ts71VE%3D&acctmode=0&pass_ticket=ubwC4nmBwt6WPbxWvDwRlJERC1s6Uh1XN8YQUbpY6vi%2FR25%2Fos418vtX%2BZbp3W4S9xR1jM7VMpW2qWhgz3RJ%2FA%3D%3D&wx_header=0&fontgear=2&scene=27#wechat_redirect)
 
 守护隐私，即刻开始
 
@@ -497,7 +497,7 @@ OPPO 安第斯智能云（AndesBrain）是服务个人、家庭与开发者的�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzI1MDg2Mg==)
 
-[:camera_flash:【2023-11-27 17:30:20】](https://mp.weixin.qq.com/s?__biz=MzIwMzI1MDg2Mg==&mid=2649943605&idx=1&sn=7254bb0e0ebb0711f9defe503bd49077&chksm=8ed403f4b9a38ae2d00f16fa2f7fef0b7b9a20fe4db4c41390270adfd8fb141d108e6ac64ebf&scene=27#wechat_redirect)
+[:camera_flash:【2023-12-06 17:30:10】](https://mp.weixin.qq.com/s?__biz=MzIwMzI1MDg2Mg==&mid=2649943626&idx=1&sn=02ccec93d6ba2f97979b5a721408e574&chksm=8f1b87a3f0d09f1723318256280a8448e6b765863b159d3d1350c1db51f99801f96a1b750bcd&scene=27#wechat_redirect)
 
 主营业务涵盖应用安全、系统安全、运维安全等，包括IT资产管理、智能攻击机器人、智能防御机器人、攻防实战演练支持、安全培训、课题和安全技术研究、产品研发及服务综合解决方案提供；其中，行业解决方案又包括电力行业、金融行业、军工行业、公检法等。
 
@@ -510,7 +510,7 @@ OPPO 安第斯智能云（AndesBrain）是服务个人、家庭与开发者的�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNjU0NjAyNg==)
 
-[:camera_flash:【2023-12-01 10:27:18】](https://mp.weixin.qq.com/s?__biz=MzIwNjU0NjAyNg==&mid=2247487797&idx=1&sn=856667fb645922e1452095b535c484a7&chksm=971ea430a0692d263cef3ec21db94af7f8f403a5d17f660d8bc003e63bfdbe2b677e49d8b4c7&scene=27#wechat_redirect)
+[:camera_flash:【2023-12-07 18:21:12】](https://mp.weixin.qq.com/s?__biz=MzIwNjU0NjAyNg==&mid=2247487866&idx=1&sn=f2db4aaa436a3f6e6abac91f0428b21c&chksm=96d7512d25f96086dc5a572cf40164649cf8785d109b3c384ce9798378d4275a3d27bc790276&scene=27#wechat_redirect)
 
 基于知道创宇14年来海量真实攻防数据积累，通过AI+安全大数据能力持续自生产、精粹和分析，实时输出高精准、高价值威胁情报，赋能于全场景安全建设体系。
 
