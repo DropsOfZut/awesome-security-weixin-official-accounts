@@ -42,7 +42,7 @@ PTE小技巧
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5Njg1NzMyNw==)
 
-[:camera_flash:【2023-12-07 11:45:29】](https://mp.weixin.qq.com/s?__biz=MzU5Njg1NzMyNw==&mid=2247487722&idx=1&sn=131a01e88b9b43405ecc860bc78dfcb2&chksm=ffe5825ede0df687459ba1dbfd68a6e2221d46557694a2cc1b2b115908536b9e468a4e3df918&scene=27#wechat_redirect)
+[:camera_flash:【2023-12-09 12:00:58】](https://mp.weixin.qq.com/s?__biz=MzU5Njg1NzMyNw==&mid=2247487861&idx=1&sn=884aef0a9217f3fba1bb011244121666&chksm=ffafa0eed4c5bf366085b404c4aeb1a3258d87becd74e74bd48543f09d494a7424030c9bf0ea&scene=27#wechat_redirect)
 
 由奇安信集团、清华大学、蚂蚁集团主办，联合北京大学、中科院软件所、复旦大学、中山大学、山东大学、中国科技大学等30多个知名高校和研究机构共同举办的聚焦大数据安全分析的比赛。
 
@@ -224,7 +224,7 @@ ctf技术交流。
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjY3NDQ2Ng==)
 
-[:camera_flash:【2023-11-27 17:06:07】](https://mp.weixin.qq.com/s?__biz=Mzg4MjY3NDQ2Ng==&mid=2247486493&idx=1&sn=78351c0193a981d18ef87ecbd6f2c6d8&chksm=cf525250f825db46250e4909edbe4335c33e66bc5969912f0a6e6867b9e5bde5fed223592d41&scene=27#wechat_redirect)
+[:camera_flash:【2023-12-09 13:45:55】](https://mp.weixin.qq.com/s?__biz=Mzg4MjY3NDQ2Ng==&mid=2247486518&idx=1&sn=5ae891f790b027910a6720d5d9e7b0ff&chksm=ce729666d16769dc257da26a9fbd0cc52c9ca598ce522d0679eaf98b615ae5e0d040286db289&scene=27#wechat_redirect)
 
 强网竞赛是面向高等院校和国内信息安全企业的国家级赛事，旨在通过高对抗的竞技比赛，发现锻造网络安全领域优秀人才，提高国家网络安全保障能力，提升全民网络安全意识。
 
