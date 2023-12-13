@@ -55,7 +55,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
 
-[:camera_flash:【2023-12-09 22:55:59】](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247488165&idx=1&sn=1add29a2ecf2e13a97a9fee286e45f0e&chksm=fce8457a2db233597bcc918e9b5229e047ce77d378d2872ba84d7f55a77d28a83c42eac5dfa6&scene=27#wechat_redirect)
+[:camera_flash:【2023-12-10 22:05:07】](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247488185&idx=1&sn=9b58581f350b12d96812968fc10eaa9f&chksm=fc46918fad73b80fa798537fb4b84ae925b429c23f32a472fddb5dbb31d8c57109974a80d494&scene=27#wechat_redirect)
 
 以复旦大学系统安全实验室学生为主成立的安全攻防战队，分享最新研究成果，交流系统安全攻防领域技巧。
 
@@ -68,7 +68,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NzgyNjUwNA==)
 
-[:camera_flash:【2023-12-04 12:32:45】](https://mp.weixin.qq.com/s?__biz=MzA3NzgyNjUwNA==&mid=2247491055&idx=1&sn=9fd9ce31545a4e514ad29a08c7395253&chksm=9f4d4d48a83ac45e8b139e4f0d2ef86697e87e178f35ceca4798fb179d9e5e420e5765518b50&scene=27#wechat_redirect)
+[:camera_flash:【2023-12-11 17:32:53】](https://mp.weixin.qq.com/s?__biz=MzA3NzgyNjUwNA==&mid=2247491058&idx=1&sn=65ac2a8753446ab2d4f439c3cf792228&chksm=9e139b228c8b25055c2584f3ede2172e59c76bfd0190ecacce428edf09d87255b73aa3bd3528&scene=27#wechat_redirect)
 
 湖南农业大学蝰蛇安全实验室
 
@@ -419,7 +419,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyNzU3Mzg2NQ==)
 
-[:camera_flash:【2023-10-23 17:35:20】](https://mp.weixin.qq.com/s?__biz=MzIyNzU3Mzg2NQ==&mid=2247486830&idx=1&sn=ce57dd70a5f3e5045b36c8174b999c97&chksm=e85e6468df29ed7ea2da373dc67f687134f7e44126dada3b6dab385761d19484823cf479d5a1&scene=0&xtrack=1&key=d842c29fb9ae087a29885d4d5968a8c5a32e0f918152f568e3b9972123c8ab4d9ee4ad1b4a76eafcfa9328ada3dee3ecf500707d9b2c1013002c2927a13af22e06d71b29fa9f6a1ee797bd3cbf3b2ce27407610b61291a6936c84e21ffe92629fa3cf96198a3cb3de9b4ed72cdf4e6855266c5f882e2a01faf7fe53af53fc6ac&ascene=51&uin=NTY2NTA4NjQ%3D&devicetype=Windows+10+x64&version=63060012&lang=zh_CN&session_us=gh_a6ba8f92d07d&countrycode=AL&exportkey=n_ChQIAhIQGcqidJWZTe2QGdnj%2BNaglRLuAQIE97dBBAEAAAAAAA56AkKJMzcAAAAOpnltbLcz9gKNyK89dVj0yBIqHgFy93Vnbr8dwoyffGBe%2B0JknhUCwNq5V%2BZLFm7%2BdKoqHgb0oQgysh%2F0VOgfWBrF68oQzCncTnvUOLjJ8%2FxuYC59veg7Z4DDmH0BkTZp0Vedkmrodbg6gU%2FyUYMs4SUep%2FSHHswM7rLeqdGdgNuPYaiPrdMH7GHY7EjgTgCtO8x73Gn7GZfDoNklkAh0rTNZYyqQ4tL6NNLupHoP9tmR22M0zcTWL3Fhl3j%2BqmSrn0KBWHlkLfxlmnTbcneyUdWLdftKoKQ%3D&acctmode=0&pass_ticket=T%2FA61VDUwmVVNcg54gDXtRMIBP%2BIcHmmBc3tEeH9kNETyANr%2FuPlkSzEnxnQcA30&wx_header=0&fontgear=2&scene=27#wechat_redirect)
+[:camera_flash:【2023-12-11 17:32:35】](https://mp.weixin.qq.com/s?__biz=MzIyNzU3Mzg2NQ==&mid=2247486919&idx=1&sn=843a303ca671d0562e05c2c82964ba87&chksm=e85e64c1df29edd7177a679088adad446de83b8350b00582538d7006fae9bc7b7c1064e38f12&scene=0&xtrack=1&key=2902f013f58190ec7893afd3584f73c0d0da46a345465868fcf85b7a511029d47703db52992a6181d7e3e38c7f4fb8ecbf343e385274ac2bb88d591ea61f23a5f44de3bf28b7db621a2f6af3435644bdb3bef6a6769fef0d074789c43170860c84969528beac956dd0e8eb2c9783d90eacaa94bc289704231d414a23676de3a3&ascene=51&uin=NTY2NTA4NjQ%3D&devicetype=Windows+10+x64&version=63060012&lang=zh_CN&session_us=gh_a6ba8f92d07d&countrycode=AL&exportkey=n_ChQIAhIQhnpBGa%2B2sQiaW5j%2F7XoJzRLuAQIE97dBBAEAAAAAAGFfN7coD7oAAAAOpnltbLcz9gKNyK89dVj0y2oouFJuSDo1H6NcR7bVvacbPs33AxgtHKrWvYwYW29ArDTWzcMFtSO%2Bou2exTbyyESMrdng7Um%2BCJetmOOJHqvXYkysRsRY2edAv9%2BnfEHddt54352HhP4tpRhDoRQXR7jk%2FPx9eg%2FT%2B%2FFuJ8XLni0StdT%2FdpdZPJYYm0ggLpV7CjltZcYOPkEHTl2Z52HU%2FJJ%2FWQAW1o5rAtygoW2yQO4UgDWfH4pBYe65mDHgAVOuZTepSfvt6c2sRHoWUuelclwd9VDZmEQ%3D&acctmode=0&pass_ticket=BgbSwfNd1zjhOeNndgM%2B837PER3yDFOkOKAtIBgfwnWnVWH2mJNcBRP5nMG0TQZ%2B4tdxZ754iL%2BD4RISSUr3lA%3D%3D&wx_header=0&fontgear=2&scene=27#wechat_redirect)
 
 网安学院拥有专业教学服务、就业指导，课程配套靶场实战平台（www.hetianlab.com），学员学完就练，切实提升实践动手能力；课程涵盖Web安全、软件安全、网络安全等网安各个相关方面。
 
@@ -484,7 +484,7 @@ Covteam工作室，成立于2005年。是以西华大学在校本科生研究生
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4ODUyMjYyNg==)
 
-[:camera_flash:【2023-08-09 09:12:27】](https://mp.weixin.qq.com/s?__biz=Mzg4ODUyMjYyNg==&mid=2247486443&idx=1&sn=c2d659d472d8c85445d8172f5be6d8d7&chksm=cff89906f88f10106d6bad934ac49ab8734464b1179391a019679518260340c4a435acf138d9&scene=27#wechat_redirect)
+[:camera_flash:【2023-12-11 10:48:34】](https://mp.weixin.qq.com/s?__biz=Mzg4ODUyMjYyNg==&mid=2247486479&idx=1&sn=b40a217e09a0605594a593759c3c9186&chksm=ced05d3c3bb5117c814cd330ae9dbfd1d73467e1f98168daa5dafdb4df54106c1f4ddfa59e69&scene=27#wechat_redirect)
 
 河北网络安全高校联盟
 
