@@ -42,7 +42,7 @@ PTE小技巧
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5Njg1NzMyNw==)
 
-[:camera_flash:【2023-12-09 12:00:58】](https://mp.weixin.qq.com/s?__biz=MzU5Njg1NzMyNw==&mid=2247487861&idx=1&sn=884aef0a9217f3fba1bb011244121666&chksm=ffafa0eed4c5bf366085b404c4aeb1a3258d87becd74e74bd48543f09d494a7424030c9bf0ea&scene=27#wechat_redirect)
+[:camera_flash:【2023-12-14 14:30:46】](https://mp.weixin.qq.com/s?__biz=MzU5Njg1NzMyNw==&mid=2247487892&idx=1&sn=396100cea332954708d2f5d5d8af011c&chksm=ffb79cbac598ad7a5f3a4162aa7f1f6516babfe8348710efb295f4be2b97e2884bef45e57ca6&scene=27#wechat_redirect)
 
 由奇安信集团、清华大学、蚂蚁集团主办，联合北京大学、中科院软件所、复旦大学、中山大学、山东大学、中国科技大学等30多个知名高校和研究机构共同举办的聚焦大数据安全分析的比赛。
 
@@ -224,7 +224,7 @@ ctf技术交流。
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjY3NDQ2Ng==)
 
-[:camera_flash:【2023-12-09 13:45:55】](https://mp.weixin.qq.com/s?__biz=Mzg4MjY3NDQ2Ng==&mid=2247486518&idx=1&sn=5ae891f790b027910a6720d5d9e7b0ff&chksm=ce729666d16769dc257da26a9fbd0cc52c9ca598ce522d0679eaf98b615ae5e0d040286db289&scene=27#wechat_redirect)
+[:camera_flash:【2023-12-15 16:25:18】](https://mp.weixin.qq.com/s?__biz=Mzg4MjY3NDQ2Ng==&mid=2247486578&idx=3&sn=9ea2d4e1f197111b1d2893335f0b8ccd&chksm=ceb34f7b9f1f4de9ab25ca64deea67888eea014d7c8201c0aefaef7efa3f43a08f4f2d15c834&scene=27#wechat_redirect)
 
 强网竞赛是面向高等院校和国内信息安全企业的国家级赛事，旨在通过高对抗的竞技比赛，发现锻造网络安全领域优秀人才，提高国家网络安全保障能力，提升全民网络安全意识。
 
@@ -276,7 +276,7 @@ CTF协会
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjcxMTAwMQ==)
 
-[:camera_flash:【2023-12-11 15:29:31】](https://mp.weixin.qq.com/s?__biz=Mzg4MjcxMTAwMQ==&mid=2247487776&idx=1&sn=c76ea0576a0aa3590f1af6a5027be008&chksm=ce3ce12a7b813fc581ee3367d3a36fcbb4304b2ecea641c1c996679613cb09c984fce5b087c5&scene=27#wechat_redirect)
+[:camera_flash:【2023-12-15 12:10:42】](https://mp.weixin.qq.com/s?__biz=Mzg4MjcxMTAwMQ==&mid=2247487820&idx=1&sn=db4e6bce0f3239c08f301442a95e94b4&chksm=cec4bd446f13e8594eaa56d5b909c6cf61d7bea83e6a0b22b16f94b119af244a7ac9b16c99b9&scene=27#wechat_redirect)
 
 山海关安全团队公众号。
 
