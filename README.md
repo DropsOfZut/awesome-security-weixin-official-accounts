@@ -860,7 +860,7 @@
 * [有价值炮灰](/person.md#有价值炮灰) : explore, exploit, expose  [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3MzU1MDQwOA==)
 * [小白学IT](/person.md#小白学IT) : 主要分享渗透测试，漏洞复现，漏洞预警，渗透实战，应急响应等安全相关的文章，偶尔也会发表自己的感想，欢迎大家关注！  [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxNDg3ODY2MQ==)
 * [风炫安全](/person.md#风炫安全) : 专注网络安全、Web3领域知识分享，全网知识库:evalshell.com  [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI4MTQxMjExMw==)
-* [维度之眼](/person.md#维度之眼) : 干点自己喜欢的，何必在意别人的眼光。  [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5MDA2NDcxNw==)
+* [数字暗影](/person.md#数字暗影) : 追一些好玩的热点，让摸鱼的工作时间度过的更快  [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5MDA2NDcxNw==)
 * [攻防有道](/person.md#攻防有道) : 分享平日所学，供自己和朋友们学习查阅。  [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NTU0Nzk5MQ==)
 * [骨哥说事](/person.md#骨哥说事) : 关注信息安全趋势，发布国内外网络安全事件，不定期发布对热点事件的个人见解。  [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Mzc4MzUzMQ==)
 * [饿猫的小黑屋](/person.md#饿猫的小黑屋) : 渗透测试 | 红蓝对抗 | 漏洞挖掘 | 内网渗透 | 随缘更新  [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NDU4OTQ1NA==)
