@@ -42,7 +42,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
 
-[:camera_flash:【2023-12-19 19:24:45】](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247490036&idx=1&sn=1c7e2282dee4dfbdc272dbf5c5998ca7&chksm=ff91eedc16ccd2b6a27f392e2e7d143f6fe7ffe03c5a0a532712d5794ec1728c34627818d4ff&scene=27#wechat_redirect)
+[:camera_flash:【2023-12-20 07:50:16】](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247490044&idx=1&sn=3a0cd39c83b2b5594940ecc5bf40158e&chksm=ff17e6abf3f94084f86a777e0d8acce60767f6840b43fe13c598aec3f1f2930a378b2565ae7c&scene=27#wechat_redirect)
 
 分享安全方面的论文写作、会议发表、基金申请方面的资料。
 
@@ -94,7 +94,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ5MTI5OA==)
 
-[:camera_flash:【2023-12-04 19:58:31】](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651776055&idx=1&sn=2937f34dcd329657c4896fde1dd2d0b3&chksm=bd123d7a8a65b46cdb09e229a691ac58a59006285dde909f63a8668f706190d53a382898652e&scene=0&xtrack=1&key=2902f013f58190ec825fa1a69022d69a578be9dc0b911f0f858ae31788cc805022dc0bda46aadd0733313fd813dc2103d04f1b74006bbe19fd3f970918db0e265213cd684e2665917bba6ecaa509108e8ed802689e95f598f8199863787ba460ea8ae661b12f21a053996c194f2202a934207d0f38c4c736442d337371cbead7&ascene=51&uin=NTY2NTA4NjQ%3D&devicetype=Windows+10+x64&version=63060012&lang=zh_CN&session_us=gh_96d37a04e9bf&countrycode=AL&exportkey=n_ChQIAhIQTuCL4MizBqy5ot4VHRng3hLuAQIE97dBBAEAAAAAAC0HIZIJqYYAAAAOpnltbLcz9gKNyK89dVj05I4KyCH9AsnhWqrd2Lu6AG1PFhVxLnaDRWn6ehYQNYQJ0zC3kUMusPPJpCvhQmO7nBHkpiLA222wF5tUBiJwVR4Q1L%2Fxh2KBsSQfYLnqSQBKRw2ozPR%2FWQ%2ByxjJAFL4JtfCaLyI%2BDD3gPF4DDUJnzBlyVlTc98PPpaQmXYXzmYhr77t9Bv1G21SBG0FfGB3DoxA9wP50jvWdrKjCsi3dKDGsVc58qhOrcNyF8m50GG8UDTCge%2BC%2BXh3ps7YxM1PExIml1yRRS3c%3D&acctmode=0&pass_ticket=ubwC4nmBwt6WPbxWvDwRlJERC1s6Uh1XN8YQUbpY6vhrTuhXdPwhZVM5YRA9b3aeDWVinBdEjgR85U34VOmTPQ%3D%3D&wx_header=0&fontgear=2&scene=27#wechat_redirect)
+[:camera_flash:【2023-12-21 19:58:20】](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651776395&idx=1&sn=90ca856ff6d6cd5ec2d326ae4c5bb259&chksm=bc73107f8c98c13b9b3cf47bb3c3bffa6ddff47f127c6972ffd95880f3d6bc77e9b2b7b6ed51&scene=0&xtrack=1&key=1afad7311c1000c668a01c9d6608510c280053b340c53ffca28e1403dbda8762cba9e3d3c524ceb6fabeaa59ac1b9a70a02310eef4ec02a7f3ba24ae522fbabb703934f53bf1d7b314256c137b7a366505df349c484e8c8ab764370eb7ec1b068cac3deaae96f2ea913e9d7061e8146eaa34cefb604849c977514bb4ac82d2d1&ascene=51&uin=MzgxODQ4MjMz&devicetype=Windows+10+x64&version=63060012&lang=zh_CN&session_us=gh_96d37a04e9bf&countrycode=GY&exportkey=n_ChQIAhIQ3MLbwGUrkwMMsE70iAOVdhLvAQIE97dBBAEAAAAAAONaFGSiSYEAAAAOpnltbLcz9gKNyK89dVj0Uldzvlb5ewcqWxO9ItCYhYdJBsp%2FicZDSA5atsNryZcrQHkrnujWb1ctSuYU6hAfP%2B10FomlyS7%2BECGpxevvFLwTbQ4Se7RMEr0uUZcXDK5dQVvic61wvGwAMEszDcKK%2FUy0yVO1EjyVBarhgQ1fbZopzfCmGq1is5i2ITuD2eoIFmSkV0HerTYQ9EOpofZpYjSaMbY9%2Ffz5OossWbxYoqKnyL9wmlvjFZX%2Bdv5jXfHpnDc0%2F4fcJ4hpS0NgBfKxb%2BsVTVgBGPqi&acctmode=0&pass_ticket=jJ9A1laIWt9dj9QSqu1q7nbDZyS2BL3YdgKO9h65CGUnphMYEpgUSEW1RcAsBiHXkhOo1Not8HMzjPcyCDVCvg%3D%3D&wx_header=0&fontgear=2&scene=27#wechat_redirect)
 
 10000+工程师，如何支撑中国领先的生活服务电子商务平台？数亿消费者、数百万商户、2000多个行业背后是哪些技术在支撑？这里是美团、大众点评、美团外卖、美团优选等技术团队对外交流的窗口。
 
