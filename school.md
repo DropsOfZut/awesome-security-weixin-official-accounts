@@ -380,7 +380,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDYzMjAyNA==)
 
-[:camera_flash:【2023-12-06 16:17:46】](https://mp.weixin.qq.com/s?__biz=Mzg3MDYzMjAyNA==&mid=2247485365&idx=1&sn=264a581dbf0f06dd7963558ca605870d&chksm=cf4afa4d6d75e43d0f745297cfc3ce9ef2ea4c57db6df081a77347a77f231fc28e44c32d3a31&scene=27#wechat_redirect)
+[:camera_flash:【2023-12-23 09:00:55】](https://mp.weixin.qq.com/s?__biz=Mzg3MDYzMjAyNA==&mid=2247485444&idx=1&sn=a28648868caea63e838f6d63c4b8d8aa&chksm=cf12458f4cc338fa7fe7a94e522b0b874d3c9c3642b8f0cddcd8330ee0ab4ce3b545697cd8c8&scene=27#wechat_redirect)
 
 深圳市网安计算机网络安全培训中心是由深圳市人力资源局备案的社会第三方培训机构。是受广东省人力资源和社会保障厅委托，开展“网络与信息安全管理员”职业技能等级认定工作的第三方社会评价机构。
 
@@ -497,7 +497,7 @@ Covteam工作室，成立于2005年。是以西华大学在校本科生研究生
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MzA1MDIzMg==)
 
-[:camera_flash:【2023-11-21 14:17:48】](https://mp.weixin.qq.com/s?__biz=Mzg5MzA1MDIzMg==&mid=2247494830&idx=1&sn=9672f189970a9935fb21666850f478fb&chksm=c03660b9f741e9af3f9e250de0196bde2a1b1c8ad1294fa439962c19120d969d6a2badadea67&scene=27#wechat_redirect)
+[:camera_flash:【2023-12-22 14:58:01】](https://mp.weixin.qq.com/s?__biz=Mzg5MzA1MDIzMg==&mid=2247494898&idx=1&sn=096d9049e0e8a0da232dc259329dd859&chksm=c15edaa7cb1dc5591b0e81512c794bb291aa5452159851693bad4be1f833a28c276f652b4e92&scene=27#wechat_redirect)
 
 为了宣传杭州师范大学“网络与信息安全实验室”，提升大家网络与信息安全意识。
 
@@ -588,7 +588,7 @@ Covteam工作室，成立于2005年。是以西华大学在校本科生研究生
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
 
-[:camera_flash:【2023-12-07 08:01:10】](https://mp.weixin.qq.com/s?__biz=MzUzODkwMDMxNA==&mid=2247574751&idx=1&sn=31d272748394d0fa8bad904962e1106a&chksm=fbf3796167d1d8d2f62facb5950f61e217733075d8d89bcb098e88385ba0c83ab0e800ac3c6a&scene=27#wechat_redirect)
+[:camera_flash:【2023-12-22 08:01:23】](https://mp.weixin.qq.com/s?__biz=MzUzODkwMDMxNA==&mid=2247574759&idx=1&sn=3ee8c051112098c054d5ccbe7d636040&chksm=fba4ee144e2228231c4fc689c3232b239f7c3df09e85d023dc332f73d1e93812e538be65011c&scene=27#wechat_redirect)
 
 百所高校、百家用人单位、百名尖锋导师，携手打造定制化人才培养模式，通过导师制职业规划和封闭式岗位实训，补足知识短板、提高实战能力，培养创新型、实用型网络安全尖锋人才。
 

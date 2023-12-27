@@ -1466,6 +1466,11 @@
 * [vcex](/other.md#vcex) : vcex.co  [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI4MDIwOTMzNw==)
 * [特大牛](/other.md#特大牛) : 每日IT B2B领域最新资讯！项目、方案、产品、公司！  [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NDcyMjM0Nw==)
 * [不知名安全团队](/other.md#不知名安全团队) : 专注于分享网络安全。  [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3Mzc1MzIzOA==)
+* [黑猫安全](/other.md#黑猫安全) : 黑猫安全让你了解更多内幕  [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3OTc0NDcyNQ==)
+* [Xiaoyu安全服务](/other.md#Xiaoyu安全服务) : 分享交流网络安全技术  [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMzQyNjg1Ng==)
+* [A11Safe](/other.md#A11Safe) : 知其然，更知其所以然  [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDM5OTU1NA==)
+* [珞珈大数据](/other.md#珞珈大数据) : 武汉大学数据科学与智能应用实验室致力于研究知识图谱、数字金融、大数据分析相关理论与技术，实现领域大数据的智能管理、分析与服务应用。  [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI4OTY2MzAzMA==)
+* [冰蚕实验室](/other.md#冰蚕实验室) : 从第三视角看菠菜和韭菜的故事。  [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMTIxNTU1MQ==)
 
 ## Contribution
 
