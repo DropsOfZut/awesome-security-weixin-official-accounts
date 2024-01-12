@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Mjc3MDM2Mw==)
 
-[:camera_flash:【2023-12-18 10:54:23】](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651139922&idx=1&sn=5d1d409776da8f0b2d9a0d5b74148775&chksm=bca5234c726f0bc3356c484fa12956ee81546ff6335efa442e93d67527f996ec53d9bbf6ccf3&scene=27#wechat_redirect)
+[:camera_flash:【2024-01-08 16:08:18】](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651139953&idx=1&sn=392b621b5c42f180eee404a49280aff4&chksm=bc2b9520555c7583f49884dd9cbfed78491d843b64498e170e86a880850b0d00c8ec645823d9&scene=27#wechat_redirect)
 
 吾爱破解论坛致力于软件安全与病毒分析的前沿，丰富的技术版块交相辉映，由无数热衷于软件加密解密及反病毒爱好者共同维护，留给世界一抹值得百年回眸的惊艳，沉淀百年来计算机应用之精华与优雅，任岁月流转，低调而奢华的技术交流与探索却是亘古不变。
 
@@ -29,7 +29,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTc2MDYxMw==)
 
-[:camera_flash:【2023-12-22 17:59:24】](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458532489&idx=4&sn=12de0ae11d119f9ea1647da21bdb8e27&chksm=b0fdb42fc37a9a667228085eeeb4551aac52b6df2685b08d85fc58712daf427618f3f0f61caa&scene=27#wechat_redirect)
+[:camera_flash:【2024-01-10 17:59:51】](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458534610&idx=3&sn=4268cef2bc27622d4500f20ab34f261b&chksm=b02a3fd4942b0cc3cbafde380ed0460c22db7e8b88de9e14fd8ae06a343c02d7067f5819bb29&scene=27#wechat_redirect)
 
 致力于移动与安全研究的开发者社区，看雪学院(kanxue.com)官方微信公众帐号。
 
@@ -55,7 +55,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4OTk0NDMzOA==)
 
-[:camera_flash:【2023-12-13 19:23:01】](https://mp.weixin.qq.com/s?__biz=MzU4OTk0NDMzOA==&mid=2247484091&idx=1&sn=985a4f29552433d6454e59e3651c0cc4&chksm=fcd8ea4823536a825e0ff3957c0ed17dfd5e20ced85f975351d608154b5a63716a4571a34eae&scene=27#wechat_redirect)
+[:camera_flash:【2024-01-10 18:03:39】](https://mp.weixin.qq.com/s?__biz=MzU4OTk0NDMzOA==&mid=2247484104&idx=1&sn=fed3cbb391c74377527a79ceb86b54f4&chksm=fc45dc7d5ec51de4ea81f95ee82ffd14da3c3c99e50820bd13e5de0432cd034365acebf1a846&scene=27#wechat_redirect)
 
 威胁狩猎，漏洞挖掘
 
@@ -68,7 +68,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU1NTEzODc3MQ==)
 
-[:camera_flash:【2023-12-21 18:00:22】](https://mp.weixin.qq.com/s?__biz=MzU1NTEzODc3MQ==&mid=2247486198&idx=1&sn=bee3fb7d1f178e98d4a7cd4fc8b21701&chksm=faa96be5936b5c719a887ea04c121c5eb962dad2383666e3486de9e5bd36473e0cd54e383663&scene=27#wechat_redirect)
+[:camera_flash:【2023-12-29 18:00:56】](https://mp.weixin.qq.com/s?__biz=MzU1NTEzODc3MQ==&mid=2247486204&idx=1&sn=a26a7c71230ac5c4f0bd493e1ac246d6&chksm=fa6b2ef3fc63972632bc5489ec0cc2d27a3ab8dbe5d5bd39e853d14e6b814416baa3d8a9936e&scene=27#wechat_redirect)
 
 「FuzzWiki」致力于成为国内最专业的模糊测试技术论坛平台，专注于分享模糊测试领域前沿技术、深度文章、行业资讯、最新突破，为专家学者、从业者、相关行业安全人员和决策者构筑完善的知识图谱，提供交流模糊测试新技术、新知识、新工具的开放平台。
 
@@ -185,7 +185,7 @@ pWn3d bY BiGSKidd3r&amp;FuzZer&amp;A2pter&amp;pWn3r rULe4Ker4pwn 65535 tim3s.
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MTY5MzQxMA==)
 
-[:camera_flash:【2023-12-15 15:25:08】](https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247484556&idx=1&sn=56248074602db9e291df29d11fb99e0e&chksm=fdb7168755f268a4170d7396617cc9baeb1f9350c0ba9f43aecf270ece592d58ddb0727e7144&scene=27#wechat_redirect)
+[:camera_flash:【2024-01-05 22:02:39】](https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247484570&idx=1&sn=ee22d85039d2888d1fdab7dd349935ee&chksm=fd8d9859e60d523c013c36d71e5d9a3d86cd093ef09342333fcd8f8f5d0fc68b6620e8c5d7ea&scene=27#wechat_redirect)
 
 分享最前沿的软件安全与逆向分析技术与资讯。包括Windows、macOS、iOS、Android、Linux等平台。
 
@@ -237,7 +237,7 @@ pWn3d bY BiGSKidd3r&amp;FuzZer&amp;A2pter&amp;pWn3r rULe4Ker4pwn 65535 tim3s.
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwMjk4MTU2NQ==)
 
-[:camera_flash:【2023-06-14 21:02:43】](https://mp.weixin.qq.com/s?__biz=MzAwMjk4MTU2NQ==&mid=2247483722&idx=1&sn=2749115d19c0f67317a22b20d7be2b8f&chksm=9ac36a98adb4e38e94f4665cc5f52103be0739ac91cfd212a5508b7f24cfc72659bb26e4f97a&scene=27#wechat_redirect)
+[:camera_flash:【2023-12-31 22:17:27】](https://mp.weixin.qq.com/s?__biz=MzAwMjk4MTU2NQ==&mid=2247483727&idx=1&sn=00d1022908ad3ce1e5657b366c2661ca&chksm=9b6812100643e4fff4383bf499661b6cb95fd01d30214179d339713ff9a558108024f8b161ca&scene=27#wechat_redirect)
 
 主要分享自己在二进制方面的一些技术，比如程序分析，逆向，漏洞等，也会分享一些开发相关的东东
 

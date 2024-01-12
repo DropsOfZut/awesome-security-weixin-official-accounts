@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzMzE2OTQyNA==)
 
-[:camera_flash:【2023-12-12 08:36:00】](https://mp.weixin.qq.com/s?__biz=MzIzMzE2OTQyNA==&mid=2648956671&idx=1&sn=d63ee70d1ce8911389f77942c8463370&chksm=f1c35e95a5f1764584e0f20931b61a6668f846381564210d430c808774b954694a0db60ca107&scene=27#wechat_redirect)
+[:camera_flash:【2024-01-03 08:40:52】](https://mp.weixin.qq.com/s?__biz=MzIzMzE2OTQyNA==&mid=2648956761&idx=1&sn=590f259d950019608144b96728d96a04&chksm=f19c6d54a20b84d08d425995a8917c6d34c1b4a0c2770e7c299cb2a49c21286505f3c898878e&scene=27#wechat_redirect)
 
 坚持以非正常体位探寻未知信号。 国内商业安全、TSCM技术反窃密、隐私保护及物理安全领域前行者。持久关注通信安全、海外威胁情报、犯罪防御与群氓效应。
 
@@ -81,7 +81,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNDcwMDgzMA==)
 
-[:camera_flash:【2023-12-22 07:27:47】](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651046741&idx=2&sn=78becfb90f4d770ce4736fecaf1640e3&chksm=8107965a5418aa80421d8b9a96b2fcacd745c48e6cc5847303bcd5cc64fe02326236389a1a20&scene=27#wechat_redirect)
+[:camera_flash:【2024-01-08 08:52:20】](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651046817&idx=2&sn=19e47da34c9bb23ee888f16934ff8827&chksm=815bb2cc266ae5c7e196b835fba50ba664323fc9937626957f25ec7e9b019934d4e16906e2f7&scene=27#wechat_redirect)
 
 关注刑事证据科学前沿发展，传递电子物证技术最新趋势
 
@@ -94,7 +94,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyNzU0NjIyMg==)
 
-[:camera_flash:【2023-12-22 13:51:25】](https://mp.weixin.qq.com/s?__biz=MzIyNzU0NjIyMg==&mid=2247488143&idx=1&sn=4f20ec96efab7d7fa8d9d07dc498e3c0&chksm=e974b8c03a814059d5cffe51d2c071fd816dbcf6518dcaa6e7a4668b7d6a9ba6aa4b9f726ed0&scene=27#wechat_redirect)
+[:camera_flash:【2024-01-05 10:07:02】](https://mp.weixin.qq.com/s?__biz=MzIyNzU0NjIyMg==&mid=2247488177&idx=1&sn=46c6eda81e6232f69709238e16829618&chksm=e9535760b7558b010d47b5fc652bb39dd9dfbcf75e2390344bdc783e32a5e83d9bfa6ac13fbd&scene=27#wechat_redirect)
 
 我们专注于电子取证技术的分享及司法鉴定实践的交流，涵盖了计算机取证、手机取证、电子物证、司法鉴定等众多领域，是电子取证公司与电子取证从业者交流学习的首选平台。
 
@@ -107,7 +107,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwMTMzMDUwNg==)
 
-[:camera_flash:【2023-12-21 07:00:15】](https://mp.weixin.qq.com/s?__biz=MzAwMTMzMDUwNg==&mid=2650887969&idx=1&sn=b7537b3e05651c74e6b07b1e370998a1&chksm=80a77bcb9e66425c0d21b3d8cc677b32a4fb7644f0b509e54ac1da6192b246570860439fefbc&scene=27#wechat_redirect)
+[:camera_flash:【2024-01-10 00:00:08】](https://mp.weixin.qq.com/s?__biz=MzAwMTMzMDUwNg==&mid=2650888017&idx=1&sn=e9870c8557b7a30892df7637430e2a03&chksm=80796a17d14b1f84f8bcc17c5aef0ff73fd73e31fc395c450fba79b46a328e2a4e1586c2471a&scene=27#wechat_redirect)
 
 关注电子数据取证与网络犯罪调查
 
@@ -185,7 +185,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
 
-[:camera_flash:【2023-12-22 21:37:17】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247599633&idx=3&sn=cc16b155a0239e118cc7cc652e3c508b&chksm=fd2aa060665280cfcdc5fedada555b583c0aa815432d1c570b568b9ba4f59ee321ebeb1e0130&scene=27#wechat_redirect)
+[:camera_flash:【2024-01-10 13:21:18】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247600582&idx=2&sn=df8fcb585ad26aaa730eacd05a9e9191&chksm=fd2d175c149a60690d2055e17da459e77b9c30b6bd7e3d2f5acfe8f0c364a0ec8fd96453473c&scene=27#wechat_redirect)
 
 为智能网联汽车行业专业人士提供信息和网络安全技术、产品及服务等行业发展最新咨询
 
@@ -198,7 +198,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzNjIwMzM5Nw==)
 
-[:camera_flash:【2023-12-18 20:30:49】](https://mp.weixin.qq.com/s?__biz=MzkzNjIwMzM5Nw==&mid=2247487602&idx=1&sn=ec067f3264dbaf14fae23455201b9f55&chksm=c3263ec5e5b1e52498bc8fc13ba939009189f4ad682bcbd901244557709e449c1ab1707bfdeb&scene=27#wechat_redirect)
+[:camera_flash:【2023-12-28 20:30:47】](https://mp.weixin.qq.com/s?__biz=MzkzNjIwMzM5Nw==&mid=2247487637&idx=1&sn=46f54466d5e911ec081a19c306179189&chksm=c3395eed22dbf5ca9949126698963bc5201f7edd6dbacecff89cae6a9b59fed5a4b9b440a844&scene=27#wechat_redirect)
 
 未知攻，焉知防，专注于高级威胁研究与数字调查取证。
 
@@ -211,7 +211,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
 
-[:camera_flash:【2023-12-25 19:27:37】](https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&mid=2454931948&idx=1&sn=b6caf4cce3a64f8d6a4bf8b5f913e44b&chksm=b069dce2e28677b9a2c004dbca58ce8e76b667bce266e049abae0344db5d87bb1a3307fac893&scene=27#wechat_redirect)
+[:camera_flash:【2024-01-10 19:30:11】](https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&mid=2454932227&idx=1&sn=c469e7c0eac9469006a6bef156003401&chksm=b052e514bbd38cf3c2d33655b91fd1dd3e5163e692c3a0bb38d423da923c2532106b24872d65&scene=27#wechat_redirect)
 
 云计算、物联网、大模型暗中观察小分队
 
@@ -289,7 +289,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTU3NTY0Nw==)
 
-[:camera_flash:【2023-12-25 08:00:40】](https://mp.weixin.qq.com/s?__biz=Mzg3NTU3NTY0Nw==&mid=2247488399&idx=1&sn=6bf54d53f87ebdf50963cc40eb8041f5&chksm=cede29940ae22fab16b2e9f851ea0da9f53fab18f207e2a6c4c6dc796f511b87477d2ea0fea1&scene=27#wechat_redirect)
+[:camera_flash:【2024-01-08 08:00:36】](https://mp.weixin.qq.com/s?__biz=Mzg3NTU3NTY0Nw==&mid=2247488439&idx=1&sn=c715f85346559c84d8e65f5e515d3a31&chksm=ce2cfeeeab771310746fa9970fdaba99cf715dd46ad1f7a29b35744c48189e1357fe87952de9&scene=27#wechat_redirect)
 
 旨于开展网络安全相关法律法规研究与电子数据取证技术研究，分享小知识、小技巧，共同学习提高，推进技术规范化建设。
 

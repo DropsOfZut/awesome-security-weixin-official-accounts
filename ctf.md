@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
 
-[:camera_flash:【2023-11-27 19:00:43】](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247514928&idx=1&sn=c57e9c679b346137e553b4995a5cbb92&chksm=a687490a91f0c01cd97a4c7e0b200a06000a6c991a107a405b05a892a54613bc8a4b8b023971&scene=27#wechat_redirect)
+[:camera_flash:【2024-01-04 18:03:58】](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247514948&idx=1&sn=56a53ec5cd8605b64dbe005ea9e5c808&chksm=a775dc037aff11316ca9b468be6f9bbe505f357e55b2a902fae1f1d67b46ab9312e1146f5a70&scene=27#wechat_redirect)
 
 国内最早、亚洲最大的网络攻防联赛。
 
@@ -16,7 +16,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2OTUzMzg3Ng==)
 
-[:camera_flash:【2023-03-15 18:20:45】](https://mp.weixin.qq.com/s?__biz=MzI2OTUzMzg3Ng==&mid=2247501413&idx=3&sn=652b24d4dbe04cfe0b21b0893a97f246&chksm=737a0a911a8b510be6ab7c0dae265be48773c285c6d5207f3f4c0fcc20778bb8b9345b650c1a&scene=27&key=98b23746bc435060df8a55f28843d482f23bde5fff7d69be07e6eee3e9362584c4fef6defc216c121c087880dea8679f621df76014f42d5f31a91e96ea5a2e3505e8dd164a5a6bb1e5a1f885bd0c6221c137e79689221eb0818972dac9d4eff05e11158dd65bd59b86b75edebb75820138eb45929b14d35bf5b3ccd974b771f5&ascene=15&uin=MzgxODQ4MjMz&devicetype=Windows+10+x64&version=63060012&lang=zh_CN&session_us=gh_66ccbb1db194&countrycode=GY&exportkey=n_ChQIAhIQD8H4TCslKE5rPoJ4Kglr7xLvAQIE97dBBAEAAAAAADfyB2%2BOYw8AAAAOpnltbLcz9gKNyK89dVj0GW6ZZqcPNpVJhfhQRix2mn1eLiWKcyYDpK0vBPJ%2F2yzjvfkBq50ypMGm537TN52Wx0dCzd1LYY2e61Sbbcfn2Q1FfDacto4OkcNJPnrBq2pILRMGqT7b5pewqoBspWRXDQPeWf%2BmsfO2hwJIjRZEgaAzlM02Uvf4M%2Fl8wafiR79bGD09qYv7GXA9%2FHYfWoJe4Pf4R3R4mN1HafvbqTGZxfc3NMW02b4HRkrJ7I%2BBnC6ThaadU1WY7qAFdMUh7hbdV9NkFx6PFKEY&acctmode=0&pass_ticket=Hoqzs5dUYcUmxS4Kq&scene=27#wechat_redirect)
+[:camera_flash:【2023-12-29 17:00:12】](https://mp.weixin.qq.com/s?__biz=MzI2OTUzMzg3Ng==&mid=2247501418&idx=1&sn=b0a2da3a3c97ba02b9939ea06ecd3c8d&chksm=ebdeb3fbd5ab0a8cad1984c2780a8ad5dbfa2e0b6c930c70c9c7630636a9b9fe0c4e8da5f807&scene=0&xtrack=1&key=2902f013f58190ec3e4d795bb5ec68699118d44fb20c259119e701d36e14e5f48823bad95966011d7ff36265e5b3ca32c9dad1447f178566df2916ad7f24bbb2bd36d0f73bd7b13626b8da6aeea39e006a05c7701d5d752ab64d01f9efd8b7df399c18d12e38016779bb38838c0ba574976ba47184d82fde5aee6c5ce72d89c2&ascene=51&uin=NTY2NTA4NjQ%3D&devicetype=Windows+10+x64&version=63060012&lang=zh_CN&session_us=gh_2e9e965bad75&countrycode=AL&exportkey=n_ChQIAhIQAHp47D4WK1W8%2FRI9oLRzgxLuAQIE97dBBAEAAAAAAFVXJnqVEvkAAAAOpnltbLcz9gKNyK89dVj0LiRuvK39a%2BX4C02VKcQrukzqScnKh4Fn8ni1ffSAkOK0EV3W5ezGzSC3GbbSkuu0PSRaFiyY%2Fv5N71gNE8RfeLx19XON%2FKNDdFwgb0IgNg7pAqSHsZQU60ZnW8%2Fw%2F9OsE3DF0vH%2ByU3yCzhGSSluw7MfCUSa%2B2P3hHCJolJ4TBBOSDGdqv32jwq9nILA9YT5lsJkMB4%2FoLV34IBoMc6ZiIPgss2idMl7gIqqQqsUyOPT3Mk5z7eGagSFxrueNNfq8AE36IpJ%2B0g%3D&acctmode=0&pass_ticket=64BJUqZjFtQYxnAvhN3sH%2B1pHtJw4OHB5aZ0xACR%2BCJisvMDaPq8xfPuGAwkQIYSOQK%2BuZvJkrw582Kf3NzuXw%3D%3D&wx_header=0&fontgear=2&scene=27#wechat_redirect)
 
 1990年，哈勃望远镜（Hubble Space Telescope）发射升空，开启了人类对宇宙空间的崭新探索。 现在，Pwnhub的出现，将引领那些对网络安全感兴趣的人们探索“0 1”世界中的无限奥秘。
 
@@ -42,7 +42,7 @@ PTE小技巧
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5Njg1NzMyNw==)
 
-[:camera_flash:【2023-12-14 14:30:46】](https://mp.weixin.qq.com/s?__biz=MzU5Njg1NzMyNw==&mid=2247487892&idx=1&sn=396100cea332954708d2f5d5d8af011c&chksm=ffb79cbac598ad7a5f3a4162aa7f1f6516babfe8348710efb295f4be2b97e2884bef45e57ca6&scene=27#wechat_redirect)
+[:camera_flash:【2024-01-01 11:38:32】](https://mp.weixin.qq.com/s?__biz=MzU5Njg1NzMyNw==&mid=2247487898&idx=1&sn=434fc6f5bc919ea8c4f837fa20115c4d&chksm=ffce51fdd87e4f4ac90c42b29cdb8e20a695c3b6a80a3fc033774d6ede785e78b25bd7ee3317&scene=27#wechat_redirect)
 
 由奇安信集团、清华大学、蚂蚁集团主办，联合北京大学、中科院软件所、复旦大学、中山大学、山东大学、中国科技大学等30多个知名高校和研究机构共同举办的聚焦大数据安全分析的比赛。
 
@@ -68,7 +68,7 @@ PTE小技巧
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
 
-[:camera_flash:【2023-12-05 18:30:46】](https://mp.weixin.qq.com/s?__biz=MzkyNDA5NjgyMg==&mid=2247496755&idx=1&sn=46925aecc0b2d01c067287d07e4c9beb&chksm=c1d9b46af6ae3d7c564db8e1a853c7a9dd8d6821dc378b9037f8d57079663e23905cf826e5cf&scene=27#wechat_redirect)
+[:camera_flash:【2023-12-26 18:01:20】](https://mp.weixin.qq.com/s?__biz=MzkyNDA5NjgyMg==&mid=2247496820&idx=1&sn=f32e6422f41e73b2793b389c466ae580&chksm=c02b73d73beb6a3abb3ec4fecc962cb0ef145a69754002dc41c5b04a31cc2367a37bd5e94247&scene=27#wechat_redirect)
 
 春秋伽玛，为广大网络安全爱好者传递网络安全大赛相关赛事信息，提供优质的赛事服务平台
 
@@ -120,7 +120,7 @@ CTF，从入门到放弃
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzEwMTQ3NQ==)
 
-[:camera_flash:【2023-11-30 00:00:38】](https://mp.weixin.qq.com/s?__biz=MzU3MzEwMTQ3NQ==&mid=2247507216&idx=1&sn=041755d07a6b93449948d4a04a67f319&chksm=fcc459dccbb3d0cac8b481a9000612bd5e1b101b46726cae46570c3239806318fa7ee3131dd2&scene=27#wechat_redirect)
+[:camera_flash:【2023-12-27 21:41:08】](https://mp.weixin.qq.com/s?__biz=MzU3MzEwMTQ3NQ==&mid=2247507250&idx=1&sn=06f30dbd93525186b03dc389c988366a&chksm=fd2c1f129d9332d684942ee1d2d5c77377c07e686b2ef0f2bbe1f2e596893d08d6801459cbdb&scene=27#wechat_redirect)
 
 青少年CTF（原名中学生CTF）帮助大家学习CTF竞赛，信息安全与网络技术。大家如果喜欢我们的视频讲解和教程可以加入我们的QQ群：797842833。快来和我们一起学习安全知识吧。
 
@@ -224,7 +224,7 @@ ctf技术交流。
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjY3NDQ2Ng==)
 
-[:camera_flash:【2023-12-17 22:52:06】](https://mp.weixin.qq.com/s?__biz=Mzg4MjY3NDQ2Ng==&mid=2247486779&idx=1&sn=e692978254c6815ce6664f4ee452c0a5&chksm=ce74c63287c3a59e2c6dc31b195211c1c78b0048fb6d7d0dabf75d38158806c6318292eff121&scene=27#wechat_redirect)
+[:camera_flash:【2024-01-05 19:33:30】](https://mp.weixin.qq.com/s?__biz=Mzg4MjY3NDQ2Ng==&mid=2247486796&idx=1&sn=15442678d111506e2843e114ef003653&chksm=cebd4bffcaa03bffb0dbdbc8620304a4a729b43657df79f95699d90b4b863f8948f3f34475c5&scene=27#wechat_redirect)
 
 强网竞赛是面向高等院校和国内信息安全企业的国家级赛事，旨在通过高对抗的竞技比赛，发现锻造网络安全领域优秀人才，提高国家网络安全保障能力，提升全民网络安全意识。
 
