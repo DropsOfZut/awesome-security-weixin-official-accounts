@@ -120,7 +120,7 @@ BAT 技术专家分享开发、架构、运维相关干货！
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzIwNTY1OA==)
 
-[:camera_flash:【2024-01-11 08:03:43】](https://mp.weixin.qq.com/s?__biz=MzkxMzIwNTY1OA==&mid=2247502513&idx=1&sn=a54523993cda1f5f76021abd301797d3&chksm=c065d42c9ae11b568bc6b8f5cfb2ce43d5778bd6afb14b1b786570e9d83c24296cbcd47a4760&scene=27#wechat_redirect)
+[:camera_flash:【2024-01-14 08:02:28】](https://mp.weixin.qq.com/s?__biz=MzkxMzIwNTY1OA==&mid=2247502668&idx=1&sn=c5607dafab86adc33d6cdfacf348081e&chksm=c0c9111cca915986b8c5a653f9f80a14e7cd36497b9ef7917f9201436b2e8fc9a5dd288b4de1&scene=27#wechat_redirect)
 
 发布关于kali相关文章。Debian Centos等操作系统的安全和运维。以及树莓派 ESP8266 DIY单片机等相关安全领域的文章。旨在掌握技术和原理的前提下，更好的保护自身网络安全。反对一切危害网络安全的行为，造成法律后果请自负。
 

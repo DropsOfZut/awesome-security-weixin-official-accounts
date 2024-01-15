@@ -172,7 +172,7 @@ Seebug，原 Sebug 漏洞平台，洞悉漏洞，让你掌握第一手漏洞情�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3Mjc1MTkwOA==)
 
-[:camera_flash:【2024-01-11 20:20:56】](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650543895&idx=1&sn=2ea69027db8c7109ad8b2df5ab8c1b28&chksm=8685d639cbe96abaeae9743fcbae08aad6436f35e04a760030e1920bd236cf5244c54916ea8c&scene=27#wechat_redirect)
+[:camera_flash:【2024-01-14 08:56:33】](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650544072&idx=1&sn=a8961bbb1ab64d12edd05cb49b6ed249&chksm=860e68fbb413c3d67a126b48f9554a15261f0aca0abd8805dff5f6b05897bdcd1a2d396bc01f&scene=27#wechat_redirect)
 
 刘硕教授团队：聚焦情报与安全！关注情报动态，促进情报协作，传播情报文化，优化情报生态，共建情报分析师职业共同体。
 
@@ -393,7 +393,7 @@ Seebug，原 Sebug 漏洞平台，洞悉漏洞，让你掌握第一手漏洞情�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxNTA4NDAwOQ==)
 
-[:camera_flash:【2023-10-11 15:15:52】](https://mp.weixin.qq.com/s?__biz=MzAxNTA4NDAwOQ==&mid=2650736895&idx=1&sn=270bf1a7adb0f89ca299a36b0c70927f&chksm=8382d879b4f5516f8bbcf1f4c85cb6cca245cb3e76cec4b5d215414a8aecc734007c1197723c&scene=27#wechat_redirect)
+[:camera_flash:【2024-01-13 22:04:31】](https://mp.weixin.qq.com/s?__biz=MzAxNTA4NDAwOQ==&mid=2650736904&idx=1&sn=21aa687a3d86201d7d79401d1c44df3d&chksm=8298a5abc985ca2734568ab6b9ad0789f1b1006a89a7f12a15ee6248d4a8784475ec318325b2&scene=27#wechat_redirect)
 
 一切行为皆有犯罪的可能性，而在信息时代，这一过程变得更加复杂或者隐晦了。本号致力于传播打击和预防犯罪的手段、方法、理念，并希望能够推动侦查犯罪的机制变革，而这需要了解方方面面的信息。
 

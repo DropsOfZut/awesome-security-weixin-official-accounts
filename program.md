@@ -146,7 +146,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
 
-[:camera_flash:【2024-01-10 11:30:57】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247505341&idx=1&sn=4f1d6123aeba859e4fc9abed258b2951&chksm=e807e8dd55f620c16e5c87a6f786753831f7444a6854d87a532cdeb47e6433656af5b52e777e&scene=27#wechat_redirect)
+[:camera_flash:【2024-01-12 17:46:35】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247505360&idx=1&sn=83bd83a5912e027200e1eddf207dfb5d&chksm=e82bcd6e5e70f7602a224d2e6c1a9962f464a5c7362ab598556eb80f95efc596af20e2b503dc&scene=27#wechat_redirect)
 
 字节跳动的技术实践分享
 
@@ -497,7 +497,7 @@ OPPO 安第斯智能云（AndesBrain）是服务个人、家庭与开发者的�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzI1MDg2Mg==)
 
-[:camera_flash:【2024-01-05 17:30:44】](https://mp.weixin.qq.com/s?__biz=MzIwMzI1MDg2Mg==&mid=2649943723&idx=1&sn=bff8e30e958e7ac1afd72ce5cc4b3a6a&chksm=8ff5f039b14d01c8c8862825fddeae43694d0b467050fa11e690949ec26862e188016822ae9d&scene=27#wechat_redirect)
+[:camera_flash:【2024-01-12 17:30:27】](https://mp.weixin.qq.com/s?__biz=MzIwMzI1MDg2Mg==&mid=2649943739&idx=1&sn=1c84f9e2623838b64864b19b3dbd5e85&chksm=8f74026ac6600f5531e0af2d694d358baff1976a87e3557a83fde11dd653d2a3f0d67530dac8&scene=27#wechat_redirect)
 
 主营业务涵盖应用安全、系统安全、运维安全等，包括IT资产管理、智能攻击机器人、智能防御机器人、攻防实战演练支持、安全培训、课题和安全技术研究、产品研发及服务综合解决方案提供；其中，行业解决方案又包括电力行业、金融行业、军工行业、公检法等。
 
