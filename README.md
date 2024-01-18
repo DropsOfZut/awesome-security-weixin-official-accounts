@@ -1326,7 +1326,7 @@
 ## [其他](/other.md)
 
 *杂项*
-* [安天集团](/other.md#安天集团) : 安天是引领威胁检测与防御能力发展的网络安全国家队，依托自主先进核心技术与安全理念，致力为战略客户和关键基础设施提供整体安全解决方案。安天产品和服务为客户构建端点防护、边界防护、流量监测、导流捕获、深度分析、应急处置等基础能力。  [:chart_with_upwards_trend:【0/29/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5MTA3Nzk4MQ==)
+* [安天集团](/other.md#安天集团) : 安天是引领威胁检测与防御能力发展的网络安全国家队，依托自主先进核心技术与安全理念，致力为战略客户和关键基础设施提供整体安全解决方案。安天产品和服务为客户构建端点防护、边界防护、流量监测、导流捕获、深度分析、应急处置等基础能力。  [:chart_with_upwards_trend:【0/27/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5MTA3Nzk4MQ==)
 * [安全祖师爷](/other.md#安全祖师爷) : 官网:www.secshi.com。国内领先的互联网安全媒体，WEB安全爱好者们交流与分享安全技术的最佳平台！这里聚集了XSS牛、SQL牛、提权牛、WEB牛、开发牛、运维牛，公众号定期分享安全教程及相关工具。与其在别处仰望 不如在这里并肩！  [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyNTk1NDQ3Ng==)
 * [黑客技术与网络安全](/other.md#黑客技术与网络安全) : 分享黑客技术和网络安全知识，让程序员了解黑客世界，学习黑客技术；普及上网和网络安全知识；帮助黑客、安全从业者、安全爱好者学习与成长。分享的所有技术和工具仅供学习之用。  [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyMDEzMTA2MQ==)
 * [APT攻击](/other.md#APT攻击) : 研究网络开源最新技术  [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5ODExMDc1NQ==)

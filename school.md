@@ -263,7 +263,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDIyNTE0OQ==)
 
-[:camera_flash:【2023-11-28 16:26:54】](https://mp.weixin.qq.com/s?__biz=MzkyNDIyNTE0OQ==&mid=2247484821&idx=1&sn=2811eb791e3be8b98852838ec5bb3721&chksm=c1d85e87f6afd7913f422ae6c746e66ed47f57a396765b370404d791d67dcf3199904cae903a&scene=27#wechat_redirect)
+[:camera_flash:【2024-01-16 11:34:52】](https://mp.weixin.qq.com/s?__biz=MzkyNDIyNTE0OQ==&mid=2247484828&idx=1&sn=ddc1102eb4fe6cac0d8c1df1cb953800&chksm=c082dbcb2d8649149835fed20abc72dc32b2daf3a4db8c6b907b67e18268f7405f2152b55264&scene=27&key=a2847c972f830c419f541ec936b841a0a74bd3ecc1f4f0b9a52b01c631484a18bd840d3a10f2f0816e89ce8b0d38e53519623e3f0fa3528466c847f0c4226ea235c1a1cfb8495e6109a90f39f05366f96b35cff3f6246fc313f78cb2abc9fcffc49e799444ebd0ebea1f6c6dfd92af6ceb031213914807d94426142ce8560434&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+10+x64&version=63060012&lang=zh_CN&session_us=gh_fb242c15300f&countrycode=AL&exportkey=n_ChQIAhIQR8iUlWaDJYbJ2h6yZHI%2BqhLuAQIE97dBBAEAAAAAAHFBEas4wOIAAAAOpnltbLcz9gKNyK89dVj09KmK0pEbDecwP9cRZwJsdsmwMJMFQgXO3KJvRLwM7EjBVgaTTUg7i%2FasPp%2BVGdcjRao2SF1izFzlFsNgKYKhoR0e3gSW1Ptx0eZExUJtPQCeeJ%2FqbWlkApKeVZG5RYLfsRddWVymOihO4LkpRkr6Etz8eQkqAO4iLOcEGMLoJElwk%2FJb6okXh50H4EceO2B0cE7MXtPXyMdYGIKucNXb1weG31MUVYl5FX9Koy87g8%2FQOhnL5fiyqkRRgEMbN0zUebGy96BRkXo%3D&acctmode=0&pass_ticket=iZb%2Bo%2B8VVs2J2uDlzDU8yKpcg6W8W23NyO9IrBs4SHp4o%2BJOQPEQyZFoOtbmj7Qx31fakA70U9JVIBFkiDDWdQ%3D%3D&wx_header=0&fontgear=2&scene=27#wechat_redirect)
 
 本社团致力于向大家分享交流网络安全实践技术，主要以CTF竞赛、红蓝对抗、渗透测试、知识讲座等形式分享网络安全知识，培养网安人才，积极响应国家建设网络强国的号召，共筑网络安全防线。
 
@@ -315,7 +315,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMzAyMDAwMQ==)
 
-[:camera_flash:【2022-08-15 17:00:45】](https://mp.weixin.qq.com/s?__biz=MzkwMzAyMDAwMQ==&mid=2247503419&idx=1&sn=0ba82da600c5c748b6967ca6d21982a5&chksm=c09e22b5f7e9aba3ce2d6b886a742a63f079dedc97665dc8b82ec45a6a3b39fd6290147d1ca7&scene=27#wechat_redirect)
+[:camera_flash:【2022-08-15 17:00:45】](https://mp.weixin.qq.com/s?__biz=MzkwMzAyMDAwMQ==&mid=2247503419&idx=2&sn=25fc2f960168a1fbb23a3601a49c3401&chksm=c09e22b5f7e9aba39860320fcfae014f660d4ac53e2ea5dee17b3c388176cb2b554e6be17680&scene=27#wechat_redirect)
 
 网络安全服务、技术特训、技术咨询、渗透测试服务
 

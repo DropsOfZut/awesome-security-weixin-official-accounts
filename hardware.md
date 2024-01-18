@@ -55,7 +55,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxODA3NDc3NA==)
 
-[:camera_flash:【2023-08-28 10:47:56】](https://mp.weixin.qq.com/s?__biz=MzAxODA3NDc3NA==&mid=2247485445&idx=1&sn=bb06ac570ab65d114e7945244f0b0a51&chksm=9bda95fcacad1cea7196826e36b07a06a8541fd67a0f56d95fe4288f646716bb2af3bee3276e&scene=27#wechat_redirect)
+[:camera_flash:【2024-01-16 16:58:30】](https://mp.weixin.qq.com/s?__biz=MzAxODA3NDc3NA==&mid=2247485527&idx=1&sn=09abfd68f1af5981b6cb928d0849ae48&chksm=9a86b03255a08b64ed11c215d4b6349916d9ad9b1f69631d39fd85988d2b299920d2593e5cd8&scene=27&key=a2847c972f830c41eb84faed04c6f28a184a221f9cb29efdb48bb7e6ccc276d49fc0b1427780a81e041c67aae198576893817e908e10a4c1c9893ef9ee0ae154f83e422ddffacc2308750ac202beb9a434720fba56484b7a6631811d4414ca509de0b3476cbe49ef5c8d1ec2c58e5bf00302de12a70900976a61bb11a0fab515&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+10+x64&version=63060012&lang=zh_CN&session_us=gh_e87ab103349e&countrycode=AL&exportkey=n_ChQIAhIQECsRIj8f2SK0IQYeCy8NshLuAQIE97dBBAEAAAAAALltKgp1sJsAAAAOpnltbLcz9gKNyK89dVj0IlWwXwuktFUEbKFsTRIlIT%2B2Lse1qnZ5M5XCiOnAyL1yzvQXkHv291LvfXwUgRbVyj9sgNYre1nO02KA1cPiC6cn61paUDLIR6gUdBGAIGpZfY8A7Ff6cBJchBYxzgVgmtE6Sbzs%2FNH%2FX1L7PC%2FiMKS8lR2sqTm0Vr5eZUsBPpBxopPk6ZuM3P96m6jcwHTvhxD9s%2Fjvj7I3sttqqvzs61WYyCmvG9LHxBcgSYFL9wz6ZKkg%2F2SJnU0ygbd2E1mxa9G4%2B40SFfQ%3D&acctmode=0&pass_ticket=iZb%2Bo%2B8VVs2J2uDlzDU8yKpcg6W8W23NyO9IrBs4SHoXKk9MdqwSu%2FTi1BOcicBVNZFmrNfGV3%2BYRVxUaXDkRQ%3D%3D&wx_header=0&fontgear=2&scene=27#wechat_redirect)
 
 电子取证及可信应用湖北省协同创新中心（培育）的订阅号。介绍和宣传法庭科学中的电子数据取证（Digital Forensics）涉及的科学知识、技术实践和创新应用，推动电子数据取证的普及和发展。
 
@@ -81,7 +81,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNDcwMDgzMA==)
 
-[:camera_flash:【2024-01-08 08:52:20】](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651046817&idx=2&sn=19e47da34c9bb23ee888f16934ff8827&chksm=815bb2cc266ae5c7e196b835fba50ba664323fc9937626957f25ec7e9b019934d4e16906e2f7&scene=27#wechat_redirect)
+[:camera_flash:【2024-01-15 08:35:37】](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651046836&idx=2&sn=168af8dc455f6332fca84ee0c81fffb2&chksm=81c68367ddd33b151aa7ecd7b729afb6efee365bbf5a3a42064b10ec184e0e0e008163ff1e68&scene=27#wechat_redirect)
 
 关注刑事证据科学前沿发展，传递电子物证技术最新趋势
 
@@ -107,7 +107,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwMTMzMDUwNg==)
 
-[:camera_flash:【2024-01-10 00:00:08】](https://mp.weixin.qq.com/s?__biz=MzAwMTMzMDUwNg==&mid=2650888017&idx=1&sn=e9870c8557b7a30892df7637430e2a03&chksm=80796a17d14b1f84f8bcc17c5aef0ff73fd73e31fc395c450fba79b46a328e2a4e1586c2471a&scene=27#wechat_redirect)
+[:camera_flash:【2024-01-16 19:05:35】](https://mp.weixin.qq.com/s?__biz=MzAwMTMzMDUwNg==&mid=2650888036&idx=1&sn=b5bd87e9c2e9e26557dded5bc86e0002&chksm=807c989816a51082bc26eb548105d0ac335d93cbbb78d53c15255d5849bd2d36233f7ab29acb&scene=27&key=a2847c972f830c41debc214d131f2877ef0ed0ac850a6bda316f28f8a4ea9cd8e11dcc7e9799ebca314ba5bcd8f76ced0689ca46de8b52a644a09ce0f8e9140197d1978825276374c8d3cacf157d7e76b17d3a63bbb81b888471a0a30898330f0b0ea21dd0a622dbb063536a71c20b2ce2a3146b9b14678230145e87794c460a&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+10+x64&version=63060012&lang=zh_CN&session_us=gh_a0a0d53ebf98&countrycode=AL&exportkey=n_ChQIAhIQyP9KJJN70jMEkveRMx3MoBLuAQIE97dBBAEAAAAAANyKACDs%2FnwAAAAOpnltbLcz9gKNyK89dVj0fJ9Zk%2Bm8jS4pCOgTX2UMBfRMXT0UYAAM%2FHl7hz9lDCdxeOz9nZKeR1NKFe8VBOP88WUuMlGZ5YqsveGNo7DCPWjK8zJTQywjWaHZFvsehGwoW%2BbvuTQ3dt8Lweso8W54Kfh1TUfiQ1UXUeKsw3XYUkr3YprrrGEQXciWe6DZnsJfLmdQLENvDGx0R%2B8cHG3IQsBeIouQEdNMllSBB1vp59iIOYg12XFlSGRNeu141qx3GbrfMhNgwyh3pVFVA9%2BetjNOahsLZXc%3D&acctmode=0&pass_ticket=iZb%2Bo%2B8VVs2J2uDlzDU8yKpcg6W8W23NyO9IrBs4SHq7cG%2Fz%2Fmv42u8jd7LKF%2Fr7qPL6lOKlbBGH8R547ZDD%2FA%3D%3D&wx_header=0&fontgear=2&scene=27#wechat_redirect)
 
 关注电子数据取证与网络犯罪调查
 
@@ -185,7 +185,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
 
-[:camera_flash:【2024-01-13 20:46:37】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247600717&idx=3&sn=f69bb59e186e530ea1c4bb562e2e3334&chksm=fd3603cf79e52b10a7f17bb4355b5efac4d11d1ff1c2104ddc36c64f6b2d148f81850491bc44&scene=27#wechat_redirect)
+[:camera_flash:【2024-01-16 18:12:43】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247600739&idx=2&sn=5f7897b9a17e630d7db3864912e19ed8&chksm=fd83738d4fae8fae27be53fa5178f0df6185c12a47912e2adeb1160b7e845895109c3ba2bbdf&scene=27&key=3424de9124a510c9cb02af85073e23bb5717b92e60ad35ca57399d464108d49f3089496ca2e6379da07ac1dfbe8a97e55e2be92222ee5f3e6dabf353c777251186a641cc4d05a78e6f42092ab17ed162d383c7ace8b6b59f174a3e84ff8562f121be1e82caff3e27fa2549ebcaa05f2417944649f9aebf57a268578dc5d64ef2&ascene=0&uin=MjM2NjMzNTUwNA%3D%3D&devicetype=Windows+10+x64&version=63060012&lang=zh_CN&countrycode=BJ&exportkey=n_ChQIAhIQye%2BZNVobjjRHoX1xC4AP1xLgAQIE97dBBAEAAAAAAKPKM6eZmcQAAAAOpnltbLcz9gKNyK89dVj0JDW2ArYiA44mL8kcJn79qBnhhhrDBw1K%2FxAlQderXtQ%2Byqw5E%2FldmR8DgkLL8Xq%2BuA9jSpoXAmRJBleAF3fgkCnWKMAbLLpdonBSJbdjmHZZcc%2FfpeKqBKlIsiBvNEhsMBx9bA3WzLhyNZOtIWenHmNm4SW8N51Nfs09MTZJ3mTKzqGD%2FLgEoPyA7M36YCZ9r2GYV8TqiT0RKbd6sHygQaCXGPyvW9cKThhw3ecbzEpw5tgjOLJKtTGf&acctmode=0&pass_ticket=bkeL0TANgPy4V%2BsegbBfbHqbE5yN%2FuXezGDA2PFziBe5%2BUXhJbflvR0id73aIdz6Y31acz8D1NWeWjjxYi8PcA%3D%3D&wx_header=0&fontgear=2&scene=27#wechat_redirect)
 
 为智能网联汽车行业专业人士提供信息和网络安全技术、产品及服务等行业发展最新咨询
 
@@ -211,7 +211,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
 
-[:camera_flash:【2024-01-13 19:26:48】](https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&mid=2454932269&idx=1&sn=733fc906b8c18b84515530a0c1e63db9&chksm=b01d76086e614a2a36fbf5226e095fb995c00f785f9086571c56a27ba659c011bb6b8d7301d0&scene=27#wechat_redirect)
+[:camera_flash:【2024-01-16 08:27:12】](https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&mid=2454932294&idx=1&sn=ff9a00873a54e5310c3c02d247d32bbd&chksm=b0b8b7cbb123808e73ce932368232002193c3a0086028f0b855253aaff4447c384b132790dcf&scene=27&key=200f9e9e1b7be3f42ab487285dcf20cdd1826283b78127ebd7a12276d43cb52b196e0c7ef8308fb1b3360383ad672d9e32b972f64416adb9c69cde4437f1149e5f1eee88fdd4bd74e51e0b5f17989e186717c551bfeb0ec6bb3ddab0b17081fd419cd359c6ccc8afc038818fcac1e3acf7b8d17cf61e039d352886ae275e0e2b&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+10+x64&version=63060012&lang=zh_CN&session_us=gh_3a954a025f10&countrycode=AL&exportkey=n_ChQIAhIQ6%2Fnt%2BYnjoekwVgF%2BKuUFWxLuAQIE97dBBAEAAAAAAHxjNCQLamgAAAAOpnltbLcz9gKNyK89dVj03WwozQIeiJIR87s7vOu6PUfhDOAzlSnJhDr6NzlNbFt6RuSyy604YZSD%2BCfjILcTQMvU1WUVOeFnP%2FsznBEF8bouYZqGl8Du6jrDrU%2BwXd0CSpqS8nVgetTJ0IApBzGcqVx087i%2Fu2%2Fq2M4ZTd0hv1sMuV5XVydlbMETbvMGNV8cVdvXKMsZNfh%2BdCmwE1A2cileXyrvISpvXrf%2Fw%2BwCeu6qiVuZhBebjgHbeXZ%2BTAupTxzO4LqPzDNQpKqycG9W7X5xqcXsLM0%3D&acctmode=0&pass_ticket=iZb%2Bo%2B8VVs2J2uDlzDU8yKpcg6W8W23NyO9IrBs4SHriLlpOIbOrwIoaQAdq2fWjkMcigloqUOSDlaGHwXxKbQ%3D%3D&wx_header=0&fontgear=2&scene=27#wechat_redirect)
 
 云计算、物联网、大模型暗中观察小分队
 
