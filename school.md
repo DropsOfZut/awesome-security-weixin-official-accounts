@@ -55,7 +55,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
 
-[:camera_flash:【2024-01-06 17:20:11】](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247488476&idx=1&sn=1458a03970a69cd2efca802ebb01841b&chksm=fcf0fe65ea1e14f8f1c81dcba372571b93994d6d4f17512b74ed8e99f0466c8c41ce381f94d6&scene=27#wechat_redirect)
+[:camera_flash:【2024-01-13 17:00:41】](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247488690&idx=1&sn=f0752c9ca26b71877b0b7133d0009e6e&chksm=fcbd246850758eb898aaea1f806526b28a9523a780b150e746fee05849a485e4e42906e21192&scene=27#wechat_redirect)
 
 以复旦大学系统安全实验室学生为主成立的安全攻防战队，分享最新研究成果，交流系统安全攻防领域技巧。
 
@@ -81,7 +81,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzQyOTU0Nw==)
 
-[:camera_flash:【2024-01-06 08:00:27】](https://mp.weixin.qq.com/s?__biz=MzU3MzQyOTU0Nw==&mid=2247490407&idx=1&sn=6ecd5f7f168623fc38555d2b20756f3c&chksm=fdd1fd77abe66b54f8173afa4181a89b53bab8307345c85b7857b58b4f2d1ce89add99c6a5ec&scene=27#wechat_redirect)
+[:camera_flash:【2024-01-18 08:00:28】](https://mp.weixin.qq.com/s?__biz=MzU3MzQyOTU0Nw==&mid=2247490573&idx=1&sn=d629feafaadbbd85045574aca09afea9&chksm=fdd19b6f994422103c2c0432e082f5959905214854d4a345a37cc589d0140defd72e1c125594&scene=27&key=04097cc0b59880fc9409c3cc6172cdc0622d2f15acaf3046d1c5da6afcb6b224209dd679ddb4587835eff3049807c23b785bfc5e4d79238bb7929498ce677aa1e5a4869271ed0cfe161cfe8b56030d9e160768ee095e8455774c51f51b0302159120c27b703f23147786a1a0167e4f2330c4b3660163405659f7b702904a5e44&ascene=15&uin=MjM2NjMzNTUwNA%3D%3D&devicetype=Windows+10+x64&version=63060012&lang=zh_CN&session_us=gh_4fd19b2e3fc6&countrycode=BJ&exportkey=n_ChQIAhIQv%2FsNnIMtaJRBGy0ZGNln3RLvAQIE97dBBAEAAAAAABd5E1ZclPUAAAAOpnltbLcz9gKNyK89dVj0H%2Fj4JLe1KtAeeMSZolptf%2FfEE0GYSITtXPPafjOIiENrGXgIJlC0q3jUadDOljo5gUaOyt%2BRODwSD7y8ZyDkhXIKMRskXmfPGpDLaXvgQMy6q1CtQs5EWYIuFimtXfHd%2B03jyvfHAzfpKOy6SHNkFb%2FXD5FzpHTz61QRfME4uSfnie7605%2FFb3cvHl19nHvJ0Egm5zLMet7ckJ1EU0ngEPdkGa%2BZsqICA5zTK%2FqVGe13DNhsShodvbvWnoqWdB%2FAlBeXd2Tk9KpT&acctmode=0&pass_ticket=9v53DHKt0x0DSmTcla3bYOz1n0CLr3gFHXy%2BJuYlm3lm7sYlhCAFiQHt57YJs9ohwN3WT37%2BFHX4%2F%2B8CFeIHYQ%3D%3D&wx_header=0&fontgear=2&scene=27#wechat_redirect)
 
 东北大学“谛听”网络安全团队
 
@@ -315,7 +315,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMzAyMDAwMQ==)
 
-[:camera_flash:【2022-08-15 17:00:45】](https://mp.weixin.qq.com/s?__biz=MzkwMzAyMDAwMQ==&mid=2247503419&idx=2&sn=25fc2f960168a1fbb23a3601a49c3401&chksm=c09e22b5f7e9aba39860320fcfae014f660d4ac53e2ea5dee17b3c388176cb2b554e6be17680&scene=27#wechat_redirect)
+[:camera_flash:【2022-08-15 17:00:45】](https://mp.weixin.qq.com/s?__biz=MzkwMzAyMDAwMQ==&mid=2247503419&idx=1&sn=0ba82da600c5c748b6967ca6d21982a5&chksm=c09e22b5f7e9aba3ce2d6b886a742a63f079dedc97665dc8b82ec45a6a3b39fd6290147d1ca7&scene=27#wechat_redirect)
 
 网络安全服务、技术特训、技术咨询、渗透测试服务
 
@@ -406,7 +406,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
 
-[:camera_flash:【2024-01-11 11:02:38】](https://mp.weixin.qq.com/s?__biz=MzUzNDg0NTc1NA==&mid=2247505882&idx=1&sn=9b81d5c84e51f9b49bfb1a6637bb9ca6&chksm=fbec8ae5499b89988b935295a980b4d6a3aefd245a5262f68e973809f06253d9b57f80c045c7&scene=27#wechat_redirect)
+[:camera_flash:【2024-01-20 07:00:54】](https://mp.weixin.qq.com/s?__biz=MzUzNDg0NTc1NA==&mid=2247505945&idx=1&sn=2a35732fa56694061a87d826d88cfbac&chksm=fb61d71417d01fe80f3265df67c99c3f1ba5bd6855c630cdb8627bf65ad7490f7ff5ce77ea8b&scene=27#wechat_redirect)
 
 启明星辰网络空间安全学院以国家网络安全事业发展为使命，依托启明星辰集团多年的技术沉淀及实践积累，提供网络安全人才体系构建与信息安全技术及能力提升教育培训，为建设网络强国提供有力的人才支撑。
 
@@ -588,7 +588,7 @@ Covteam工作室，成立于2005年。是以西华大学在校本科生研究生
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
 
-[:camera_flash:【2024-01-06 08:00:41】](https://mp.weixin.qq.com/s?__biz=MzUzODkwMDMxNA==&mid=2247574772&idx=1&sn=f8e979263b9be8c5b62d79e354771abb&chksm=fbdc73609accc5b6c87c005144fc782dc9d2d7b43477fb6a164545087c159aa68b4b52d1e692&scene=27#wechat_redirect)
+[:camera_flash:【2024-01-20 08:00:08】](https://mp.weixin.qq.com/s?__biz=MzUzODkwMDMxNA==&mid=2247574784&idx=1&sn=5f398b9c2b14b015a8337e812d80c06a&chksm=fbbd4bd28cf8b9630930e71aa7775cc583b8dc4a53e73d2a231d799be8dc7de2fba2281209c3&scene=27#wechat_redirect)
 
 百所高校、百家用人单位、百名尖锋导师，携手打造定制化人才培养模式，通过导师制职业规划和封闭式岗位实训，补足知识短板、提高实战能力，培养创新型、实用型网络安全尖锋人才。
 
@@ -640,7 +640,7 @@ Covteam工作室，成立于2005年。是以西华大学在校本科生研究生
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5NDczNDc4NA==)
 
-[:camera_flash:【2024-01-02 11:49:44】](https://mp.weixin.qq.com/s?__biz=Mzg5NDczNDc4NA==&mid=2247494496&idx=1&sn=38caa9b922a3f38aed0d6c2e761fbaf0&chksm=c19bb1dc8e376e86a683e8aa63b3d22e3fbf098d66e925a551c0212c96992cbb319c8926b33c&scene=27#wechat_redirect)
+[:camera_flash:【2024-01-20 19:13:48】](https://mp.weixin.qq.com/s?__biz=Mzg5NDczNDc4NA==&mid=2247494531&idx=1&sn=41e2f4972a1850f5a0e178e876276ece&chksm=c1d95e74bda920a2b26685a074530b2aec0f655995521e0a98789a0fb7dd925277b1d9f2a31d&scene=27#wechat_redirect)
 
 浙江大学网络空间安全学院/浙江大学网络空间安全研究中心
 
