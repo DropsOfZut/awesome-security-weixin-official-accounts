@@ -585,7 +585,7 @@
 ## [安全实验室类](/web.md)
 
 *安全实验室、安全研究、web漏洞*
-* [合天网安实验室](/web.md#合天网安实验室) : 为广大信息安全爱好者提供有价值的文章推送服务！  [:chart_with_upwards_trend:【5/31/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5MTYxNjQxOA==)
+* [合天网安实验室](/web.md#合天网安实验室) : 为广大信息安全爱好者提供有价值的文章推送服务！  [:chart_with_upwards_trend:【5/29/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5MTYxNjQxOA==)
 * [山丘安全攻防实验室](/web.md#山丘安全攻防实验室) : 越过山丘，才发现无人等候。  [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MjIyNjY3MA==)
 * [腾讯安全联合实验室](/web.md#腾讯安全联合实验室) : 联合实验室致力于前沿安全技术探索和产业化应用实践。研究覆盖5G安全、物联网/车联网安全、安全大数据、AI安全、云安全、反病毒及反勒索、卫星安全等领域。  [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1NzM0MTMzMg==)
 * [腾讯玄武实验室](/web.md#腾讯玄武实验室) : 腾讯玄武实验室官方微信公众号  [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5NDYyNDI0MA==)
