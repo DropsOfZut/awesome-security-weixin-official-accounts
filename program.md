@@ -42,7 +42,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
 
-[:camera_flash:【2024-01-24 10:32:29】](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247490302&idx=1&sn=942b0ef6f9ee3eb39960aa3545cff534&chksm=ff04749f2668649da3e9e8ab579552666952cf1e041ebec6595709508dae809f1f3c72cc584a&scene=27#wechat_redirect)
+[:camera_flash:【2024-01-26 09:55:09】](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247490329&idx=1&sn=a0592a351def4e55a18e3cc1df97d606&chksm=ffbd2cb61f3245a0d6e2d9ee4ba4421ac89f3f4ad0411c22bd274e606e5447085b977df4afb0&scene=27&key=fb4f774344962fc810a916a56ea66502c0278ac4a0dff3ef3d9967547c9663ccccbf05324196466fc4c0e5402acaf2f437f87898aa415d32a09273b8bc0966d43e817ca2e7f3052ab92d75f5a794ed6f0aaee32b611befdf391c3fe28a6b60d2a418f75b9d3d8d31b25e9a23369e5448aac48d21784bb045e61cf203909d76a7&ascene=0&uin=MzgxODQ4MjMz&devicetype=Windows+10+x64&version=63090819&lang=zh_CN&countrycode=GY&exportkey=n_ChQIAhIQxjMEhTkMB7kvwsMgcLhNVhLgAQIE97dBBAEAAAAAAK63OBUWZN8AAAAOpnltbLcz9gKNyK89dVj0om67uGIJLxQrrwFim6leonYvN9smSRjL0PCxY8Kv5srxHUorINjdK2DHIzLyNyo8a9EkIUzH3qTAa0c4sn%2BeA0AuBOn45jfBzm18z0%2FcDR0YF1AwY%2BEsq6w4D7fZUTntrB7qiGDwA%2FCfqFTiaS5avt3iGZUf1ZylgEbjnD4wHLnJkt0mloHBuhKDjjM0FopPpvD2ez7xHeBax1q%2Fzr1XY6L0Onl9%2BtmWRkDJ12WMBlJLIqHp1aGhlq8R&acctmode=0&pass_ticket=MQbLNrcAheTuRe5Ys85ursCbq7XXnmllaMHuO2B3QoAtPtEnpzCWisFqlRdHOQ3TluaVBqw%2BIZCdyz2nvGTHlg%3D%3D&wx_header=1&scene=27#wechat_redirect)
 
 分享安全方面的论文写作、会议发表、基金申请方面的资料。
 
@@ -146,7 +146,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
 
-[:camera_flash:【2024-01-24 16:01:25】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247505469&idx=1&sn=8ece52e9ee0bd9a2778f28880962359b&chksm=e8b47f60830f1f6c7eaa16dab4d833b34e5b111e2caa51e670cc15fbb486af35a952d7b47d57&scene=27#wechat_redirect)
+[:camera_flash:【2024-01-26 10:30:14】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247505534&idx=1&sn=1105cbc1db60598ee2db4081b22a1819&chksm=e8b53efc5beb27e9017a4a6c1ed2922a7eb475a8a79b6c31e042744fe1bb52bfb121bb43cbfc&scene=27&key=fb4f774344962fc8829703ff7af8be1473bcb22ae6014e9f848570cd8376d3c64bd5b399131f6656421f84ed66db371d460307170ac9b18085f6a54e4d76bb747ac0ba27ff182575ad99dd75a1f5d38be798502f9998c099e7c51095ffefb72fea9cd5a49e5b524e70d6c210245d947bd87515c18bfb71db30af203e42ba6974&ascene=0&uin=MzgxODQ4MjMz&devicetype=Windows+10+x64&version=63090819&lang=zh_CN&countrycode=GY&exportkey=n_ChQIAhIQP8slQIRtIcT2yYIzzPgAqxLgAQIE97dBBAEAAAAAALD%2FLQm%2Fw8wAAAAOpnltbLcz9gKNyK89dVj0UfpKp6gfb%2FeQH5yZ5r1ajP%2BVvoTPzz1QT6u%2FFbtY0XYDHeot1GTW2VinNbrJMGOpq4SMZr1lgLJKfk9o9xzclhJV%2FW8uqsCY%2BakroTXqftx6Zw4O9s7KGfjp48x%2FoH0vG7LHGqzMx03dPAJmGyGa9GPruRyjbHfql1GOZY50Ep%2FsLuSiWrZdLXXqEchIUIfWNVpE4pdhNEfs1BjhGx2BrrbFtTgjiheX%2FVLq3fuVtAMI%2F9Yh1EXhdDRj&acctmode=0&pass_ticket=MQbLNrcAheTuRe5Ys85ursCbq7XXnmllaMHuO2B3QoDmKP4ww5IddXOtnHmeJIHXFL30eWN0qWJzu2COOmTUuQ%3D%3D&wx_header=1&scene=27#wechat_redirect)
 
 字节跳动的技术实践分享
 
@@ -328,7 +328,7 @@ Will的小屋
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
 
-[:camera_flash:【2024-01-25 18:00:55】](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649782411&idx=1&sn=e358754da75d7480caa10cfab795efce&chksm=bf1e476fea7842387fc3c51260975b87169645802ce23aa636c755b990fcf90b086f3e7be246&scene=27&key=5f77d834834efca1606938e9af54fa89fc13b2206feac92bc5a6b5691c5b46be301b129cf64a48570b0d580ce5161f7e6d9caa3f9792e0a817d0295e56d7df2da712e8cd15a5a684e0449f58cd7a3a05b4edd992186158aba75c8c30762fbb54949c7379aa1ad253f6a5471949d883d16cf03f22cfbc2562a455e7dd64605ed3&ascene=0&uin=MzgxODQ4MjMz&devicetype=Windows+10+x64&version=63090819&lang=zh_CN&countrycode=GY&exportkey=n_ChQIAhIQ4XSUoZKB96gLYGmkEc9D6hLTAQIE97dBBAEAAAAAAIV4A7w58NwAAAAOpnltbLcz9gKNyK89dVj0ME0yDB69Y1RrpCNnLtJ6%2BXz0agrfNftZPWwqfvJuKyzs%2B2eDAO4sIDulemn1PTS7ZI8w8P8gPOfAosyfI924214QvgDHQ2%2Bok7yPWbOtpGdO3hpNnyU4AKi7ht62keLiB143Hb%2BS%2F26naL8oFRS8%2F4nq%2FGSvVUUAWZq0edNiETGbzFVyNi8dOG0Icl683D0TE%2F0zelfzl4F9DW2%2B0XlBjLLvlZhBWGb17zcZndg%3D&acctmode=0&pass_ticket=MQbLNrcAheTuRe5Ys85ursCbq7XXnmllaMHuO2B3QoDu3Qj1C2cxPW6YV3CfRXoxkkyeousc59HoGgZxz4I1qg%3D%3D&wx_header=1&scene=27#wechat_redirect)
+[:camera_flash:【2024-01-26 18:00:55】](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649782423&idx=1&sn=42e36f8c421d8b5f2bfe7a48ce165a2c&chksm=bf34e41ed39ec49c6e31b8dc8d5c4af057213bd51f74c3d3cde70f80eec19a0346ee9ce2b075&scene=27#wechat_redirect)
 
 腾讯技术官方号。腾讯技术创新、前沿领域发布解读平台。
 
@@ -341,7 +341,7 @@ Will的小屋
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3Njc0NTgwMg==)
 
-[:camera_flash:【2024-01-23 12:03:10】](https://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&mid=2247498234&idx=1&sn=ef1ca695f585c4dccbf40abb22c27f49&chksm=ce703652c0d36fa4a4a3dcc7316228a8bec41c959c6555bf73564a73b9b83c5f5642785f57e3&scene=27#wechat_redirect)
+[:camera_flash:【2024-01-26 12:00:22】](https://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&mid=2247498252&idx=1&sn=540a2bfdf2a0b162e54c7c15967fd71b&chksm=ce8a32eb7042089d4ae61c84e24359539493376364ce4a026a6af0139a80504db5f61ade14b3&scene=27&key=200f9e9e1b7be3f4b7dd74faadced3b238fa15600aeb263e19bdb2662aa20f7ccbf7ceae90f2162e9baf21ed15bdc12275dc69d88c0d7e3a3f4be30a7570fba0bcc032cd21aba863901a6cd6679812914f673469c3425875081adf3c30228256aa5615c75d70e163a429a3fdedec79c44893d898a587d1567b8a8dccbd65dae9&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+10+x64&version=63060012&lang=zh_CN&session_us=gh_cf325e4d8d77&countrycode=AL&exportkey=n_ChQIAhIQ1cAUoLtUFyNFPd3RZ1PxThLuAQIE97dBBAEAAAAAAJ9dAI0tBboAAAAOpnltbLcz9gKNyK89dVj0Ks%2BtfVCyXiHKepIvWzt4JUG8g%2FMWzdzw11ZsavfvT4zGZAMP7BH8JuZ54cDW1sZwHwMSoBw1lniUb4jCFUopIzFUevTdN19fqn8A2Zdk5PBWX2WOWa37nwbGKVaxWBu8m3DQcYcrSKMC6id7ngdmfm1jkGoc2DKSXCh9ppRPygHquk5FaOwHNqjE%2FLI4hqjSD4ViS6pnscYDxn%2FwD1ieYg%2FXlCnlezi6W2dFh7abK7HdqnO9ZMQPanevtyADyw7301xnz1nEUmk%3D&acctmode=0&pass_ticket=YlKfRLdT%2FPJtmyUqFtOg5WhVa5I%2BMtlg0ulZWu5I7b3CA0pONa8%2BM%2FzvFkafci2AqsbQ%2BMel0DbDXhaPEVOoqg%3D%3D&wx_header=0&fontgear=2&scene=27#wechat_redirect)
 
 提供B站相关技术的介绍和讲解
 
@@ -497,7 +497,7 @@ OPPO 安第斯智能云（AndesBrain）是服务个人、家庭与开发者的�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzI1MDg2Mg==)
 
-[:camera_flash:【2024-01-19 18:06:25】](https://mp.weixin.qq.com/s?__biz=MzIwMzI1MDg2Mg==&mid=2649943753&idx=1&sn=73387157c9dadc06555611f1d201a34f&chksm=8fc8122d4fc116362f058bc91e6019c52c4c4fd4b26221d20dcd1fdfb5d765b0d50ed41a92e8&scene=27&key=0ec55ebf8384f6266fa070c90834b06d9d0a4ef3edf4982ed8db29788b401fc9c5fa3b0684c2eb39de3030297f795a5e11bdb04d28f8a5901fb1e18bf207baacc5ee850c7d8d3e1c233cccf2bae82906bffdebe00f2f3b4c45f547a5c105b95fa00d9d53a45d45713d6cefc726399aac6eaec5cd3d1271e1dc0fd2b199b85e36&ascene=1&uin=MjM2NjMzNTUwNA%3D%3D&devicetype=Windows+10+x64&version=63060012&lang=zh_CN&countrycode=BJ&exportkey=n_ChQIAhIQfiRgtIdZq4hnR%2FCk%2FrrCyxLwAQIE97dBBAEAAAAAAB%2BEOtO2JgEAAAAOpnltbLcz9gKNyK89dVj0CfkNpH%2BoxjR83gVCkdwU9ILZ3V96f0wnAmB4LQ4%2BjDdhA%2BISy5j5erlrO25BobW7ghZHBpzpXt1dGBwNrAwAVjJYRP189za9mIghHfkLoCLcFDwDU%2F9Adag%2BVH73ausMhEToWYmZyxkXkJX7D7Jfd8vdsEiTT%2BZO34CMU%2BzNjBipHbWbrkvSqhSQtPJLc4EPe4XDHMFQSoHRR812R7HIKawPkPyQbYsJ3UzoUtosMb9TLHt5M42Du1rCQB0oD1scNtm4scCwfvctOg%3D%3D&acctmode=0&pass_ticket=JOUlW%2BRjhKmOIdKXl7EZHKnVN6k0ptxtsljgH1%2FgxAuRzST5FSCqTTMGt0aA9ZVvp2e1U3YcPGA0QV3tuhSAmw%3D%3D&wx_header=0&fontgear=2&scene=27#wechat_redirect)
+[:camera_flash:【2024-01-26 18:05:50】](https://mp.weixin.qq.com/s?__biz=MzIwMzI1MDg2Mg==&mid=2649943790&idx=1&sn=e66a90b814c4ef71448858e739e37fcf&chksm=8f5e668ccbc6b75292de56a39d1363715e4b2126d34204b7552ed751eab8afd85832899d33d0&scene=27#wechat_redirect)
 
 主营业务涵盖应用安全、系统安全、运维安全等，包括IT资产管理、智能攻击机器人、智能防御机器人、攻防实战演练支持、安全培训、课题和安全技术研究、产品研发及服务综合解决方案提供；其中，行业解决方案又包括电力行业、金融行业、军工行业、公检法等。
 

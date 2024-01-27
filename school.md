@@ -380,7 +380,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDYzMjAyNA==)
 
-[:camera_flash:【2024-01-01 09:01:04】](https://mp.weixin.qq.com/s?__biz=Mzg3MDYzMjAyNA==&mid=2247485450&idx=1&sn=f7157531a7d0166b3804f65085b8458b&chksm=cf8b74c3434c18cbb5b9157ee7adb4df7f37f2dd4523a5540870abd70b7baa48b2985150e03b&scene=27#wechat_redirect)
+[:camera_flash:【2024-01-26 14:31:52】](https://mp.weixin.qq.com/s?__biz=Mzg3MDYzMjAyNA==&mid=2247485469&idx=1&sn=2f7d126cb67c1149be5134cf1bebed0e&chksm=cf23f448100cf0bdf9d670182ee0216e586826dc0f683ce3534de6d0179681df88af5350825a&scene=27#wechat_redirect)
 
 深圳市网安计算机网络安全培训中心是由深圳市人力资源局备案的社会第三方培训机构。是受广东省人力资源和社会保障厅委托，开展“网络与信息安全管理员”职业技能等级认定工作的第三方社会评价机构。
 

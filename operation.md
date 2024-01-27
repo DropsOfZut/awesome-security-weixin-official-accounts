@@ -120,7 +120,7 @@ BAT 技术专家分享开发、架构、运维相关干货！
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzIwNTY1OA==)
 
-[:camera_flash:【2024-01-25 08:02:41】](https://mp.weixin.qq.com/s?__biz=MzkxMzIwNTY1OA==&mid=2247502883&idx=1&sn=ce3ac8b325b88405144ff92d5b63b167&chksm=c01f8c3178f4df5d8ef99ed7db1d66f5bfa4fcfa463f426723b450a027659e53c3a227bb8704&scene=27&key=a2847c972f830c4159470e3874364e3a3fde47d950ecc9d820be69aa407833e12d8e32c0d8bc27d87e715256642810acbc7ac27d57e98761aaee4df5e3492634d5f82d1e3c1170f17b275d53ffc9c547f81f73e95447cc6a8a1ead5e985d114e70c03344c30bf6f3e60fb80c337ba72cf10d252de6e5d19c8ed591b0d5d62b97&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+10+x64&version=63060012&lang=zh_CN&session_us=gh_b6b192e50c70&countrycode=AL&exportkey=n_ChQIAhIQ6rqNRn6%2FOtAd1G2xRcACehLuAQIE97dBBAEAAAAAAIN1JI%2BV%2FPAAAAAOpnltbLcz9gKNyK89dVj05%2F48P2dYhz0iU1Onic5OHF2H2HV3WrOWZJuV9Y4L7oV4UfXR%2FhCegL3Vy3PxHu540Y%2F0iHtANeg03%2BenJn%2BoQNjbGX6941zXxkycI3xM44MjeF9%2BgbBtiaZU1pgpZ9AjLHk4c%2Fzldwqh3y8lXEcOSNtZX6PBD0CJ%2Fdwyv0OCB2tPW5llv155n4bhYlsFm8vb2QBy1GB1y5zKn85PQ6poNvNIJl6J5LX%2BhrlFWmHfdOav4V3Icp2BjR%2BM3m2DJPOY0zAgChWIc8g%3D&acctmode=0&pass_ticket=YlKfRLdT%2FPJtmyUqFtOg5WhVa5I%2BMtlg0ulZWu5I7b0My1ePJ%2BNbcpVPqTZZUsrHnRptP0eaFZuIbi6iCx5Y8Q%3D%3D&wx_header=0&fontgear=2&scene=27#wechat_redirect)
+[:camera_flash:【2024-01-27 08:03:11】](https://mp.weixin.qq.com/s?__biz=MzkxMzIwNTY1OA==&mid=2247502933&idx=1&sn=4aef3eef2069c7a4c2eec46cfae66bb2&chksm=c0b0ca018ed61fa0a76abc613313af387a85f0aa964868a654bc7e4bad57c07ed00f40ee7d99&scene=27#wechat_redirect)
 
 发布关于kali相关文章。Debian Centos等操作系统的安全和运维。以及树莓派 ESP8266 DIY单片机等相关安全领域的文章。旨在掌握技术和原理的前提下，更好的保护自身网络安全。反对一切危害网络安全的行为，造成法律后果请自负。
 
