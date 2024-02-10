@@ -16,7 +16,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxNDU2ODg3Mw==)
 
-[:camera_flash:【2023-11-21 00:18:49】](https://mp.weixin.qq.com/s?__biz=MzIxNDU2ODg3Mw==&mid=2247485695&idx=1&sn=5cad26c9891dad3803a07a43cc93a640&chksm=97a4d239a0d35b2f5ad66c73f01420a79bd8e1de8f67de8cdfe4026a935f4cb91ae981750ced&scene=27#wechat_redirect)
+[:camera_flash:【2024-02-09 19:59:57】](https://mp.weixin.qq.com/s?__biz=MzIxNDU2ODg3Mw==&mid=2247485728&idx=1&sn=5a046fd631500a5ab24852d2667f1833&chksm=963e754b11be014572712bba4c175063949aea09e470ecf7d33e6dc7ae501d4a203aa43afe97&scene=27&key=978d8ac09b04f4160037748f16536150df1ace019cdc6224a1d96b1e8dd2a858015ba268f926e5580d44e88a358e94cab0e639fe63c7a404b1be484381332062dac7a5808509c343b335859b513ad266b0700cd504e935feaaf3a5f4e56b2aaeb27ed14c2d37aeae1db62346102e040f1f7683d5048798c1d4db3012ea488587&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+10+x64&version=63060012&lang=zh_CN&session_us=gh_8776d67ce67e&countrycode=AL&exportkey=n_ChQIAhIQyfhu8FR1kKyJCltM5Y6rThLuAQIE97dBBAEAAAAAACPFOcfhMhUAAAAOpnltbLcz9gKNyK89dVj0J1mA1UKQnvHPhUGJpURaxQq7X9%2FTOnvtZHDFUS%2B9xMewveWlVQNOvqJHwtSsP7ffUSErqTmkaiWq2af2tbd6puPC3oyO8kQ%2BdtRRxWDYLqhZy2rfmWmsGGvyVW7Z0bsed7koZVaggA%2Fp5GLqz2I5l1SzyvFLxYUfjXZPaomE6NaNXPQqhHb6BCJz1EFZq9jV0YIA9wu0IuCaJ7ZD6nzG1J6Eq6G1oCnmxEzZPgPCVvoMER2Ftqh9ibNUYSZpQ2oMRPlqnSCo4iI%3D&acctmode=0&pass_ticket=SsiWbA0b52n1aHVyqPmiLKOSpgZTekg3k%2BKU1ITm94k1XRufVatvncKLj0HTU9%2BbSRTnmvC37TUfIv3EjOK8uQ%3D%3D&wx_header=0&fontgear=2&scene=27#wechat_redirect)
 
 杭州电子科技大学Vidar-Team (原信息安全协会HDUISA&amp;网络空间安全协会)  消息助手
 
@@ -55,7 +55,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
 
-[:camera_flash:【2024-01-13 17:00:41】](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247488690&idx=1&sn=f0752c9ca26b71877b0b7133d0009e6e&chksm=fcbd246850758eb898aaea1f806526b28a9523a780b150e746fee05849a485e4e42906e21192&scene=27#wechat_redirect)
+[:camera_flash:【2024-02-09 17:02:09】](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247488729&idx=1&sn=f3a491886ae8702005192265a2583c13&chksm=fc217b2ba8ea09eb7172e7cf0c674c2f7fab376e80fe59198187861e09c0e1d8c1df5f61e193&scene=27#wechat_redirect)
 
 以复旦大学系统安全实验室学生为主成立的安全攻防战队，分享最新研究成果，交流系统安全攻防领域技巧。
 
@@ -380,7 +380,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDYzMjAyNA==)
 
-[:camera_flash:【2024-01-26 14:31:52】](https://mp.weixin.qq.com/s?__biz=Mzg3MDYzMjAyNA==&mid=2247485469&idx=1&sn=2f7d126cb67c1149be5134cf1bebed0e&chksm=cf23f448100cf0bdf9d670182ee0216e586826dc0f683ce3534de6d0179681df88af5350825a&scene=27#wechat_redirect)
+[:camera_flash:【2024-02-09 09:00:10】](https://mp.weixin.qq.com/s?__biz=Mzg3MDYzMjAyNA==&mid=2247485489&idx=1&sn=fb7b5ab2185bf1e1d0765cc5943a6857&chksm=cf1127141c9c3af24c0ffaea74e91c989790300cd69f5fdabfe597858c6fc6a24ba979b2100b&scene=27#wechat_redirect)
 
 深圳市网安计算机网络安全培训中心是由深圳市人力资源局备案的社会第三方培训机构。是受广东省人力资源和社会保障厅委托，开展“网络与信息安全管理员”职业技能等级认定工作的第三方社会评价机构。
 
@@ -406,7 +406,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
 
-[:camera_flash:【2024-02-09 07:00:51】](https://mp.weixin.qq.com/s?__biz=MzUzNDg0NTc1NA==&mid=2247508505&idx=1&sn=b2d61a4e94731d99575ece0dc1d887a9&chksm=fbb0cf1c5613dfb0a0b131f11ab8f40576c766d03f560c09518cac7ffc62a6de10733f0c8155&scene=27#wechat_redirect)
+[:camera_flash:【2024-02-10 06:00:37】](https://mp.weixin.qq.com/s?__biz=MzUzNDg0NTc1NA==&mid=2247508506&idx=1&sn=bbc697d8e960d806c53508c94144b90e&chksm=fb4ffb375e2b3b2d461420fb90db0a098eed1996f6897da9dcc4076d044318da18d84498d4ef&scene=27#wechat_redirect)
 
 启明星辰网络空间安全学院以国家网络安全事业发展为使命，依托启明星辰集团多年的技术沉淀及实践积累，提供网络安全人才体系构建与信息安全技术及能力提升教育培训，为建设网络强国提供有力的人才支撑。
 
@@ -588,7 +588,7 @@ Covteam工作室，成立于2005年。是以西华大学在校本科生研究生
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
 
-[:camera_flash:【2024-02-09 08:03:40】](https://mp.weixin.qq.com/s?__biz=MzUzODkwMDMxNA==&mid=2247574801&idx=1&sn=e7c099821d1177274a147abaf0e9b070&chksm=fb11f6c4354883a36943201504517d056f0b02b9df316200d9ed0ab380ee2a00c118a1b87ba2&scene=27#wechat_redirect)
+[:camera_flash:【2024-02-10 07:57:45】](https://mp.weixin.qq.com/s?__biz=MzUzODkwMDMxNA==&mid=2247574802&idx=1&sn=6b7a7dcebea4bb7fa3189a8bca27c133&chksm=fb46a24f4ce34a0393a0690ae242f3125ca7db5800b8f034fa3dd36d8a477c053a29ad042ef8&scene=27#wechat_redirect)
 
 百所高校、百家用人单位、百名尖锋导师，携手打造定制化人才培养模式，通过导师制职业规划和封闭式岗位实训，补足知识短板、提高实战能力，培养创新型、实用型网络安全尖锋人才。
 

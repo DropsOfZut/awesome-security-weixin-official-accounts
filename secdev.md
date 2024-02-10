@@ -94,7 +94,7 @@ OWASP中国，SecZone互联网安全研究中心官方平台
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NzU3MzkyMg==)
 
-[:camera_flash:【2023-11-06 07:00:28】](https://mp.weixin.qq.com/s?__biz=Mzg2NzU3MzkyMg==&mid=2247484444&idx=1&sn=8d841e4ee1e05f08b35b335aad319ecf&chksm=ceb8cdd1f9cf44c7fa1c630afc31bbe5d3b0ab248c58029e297feabe280f12ebf9cdf5fe0dea&scene=27#wechat_redirect)
+[:camera_flash:【2024-01-08 07:00:42】](https://mp.weixin.qq.com/s?__biz=Mzg2NzU3MzkyMg==&mid=2247484449&idx=1&sn=d0e40b3265a13dec7dbb321b1cb1bc0c&chksm=cfe9106b0bd0d3e2f69d1c936b2f1ae7a7e5af77e6566e8953b5944dcbdb9e94e8bfe1b38663&scene=27#wechat_redirect)
 
 关于功能安全、信息安全、系统工程方法的工作感悟，资讯分享。
 
@@ -159,7 +159,7 @@ OWASP中国，SecZone互联网安全研究中心官方平台
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5MjEyOTE4MA==)
 
-[:camera_flash:【2024-01-10 18:01:01】](https://mp.weixin.qq.com/s?__biz=MzI5MjEyOTE4MA==&mid=2648519981&idx=1&sn=3ae489eafc3210fc1c152e2727036923&chksm=f543bc4f2d7804e2991de9dd44142f19f2930fb0b4555c94a995d1efc3c38781947990033726&scene=27#wechat_redirect)
+[:camera_flash:【2024-02-09 22:57:05】](https://mp.weixin.qq.com/s?__biz=MzI5MjEyOTE4MA==&mid=2648519992&idx=1&sn=60ffcbfefb66cdcf962749a473c91144&chksm=f56b43e2f8b168b76c20bf8d4b58272faeabc0a2c5acac0d5c6bcdac9616f9c759c067d98ba3&scene=27&key=200f9e9e1b7be3f4337ded30dab90b5fccc90081e155382c05f86ad90ef3028e43b8dd300ddd5b8abcf7f238750b4dad0a49cf21357b04b3890da8c22eb9b50f5230f3033334404e473d69f7232fc0c3b84174607d95ce7a6f07cb36ecae69a12a64c9565c5e1e3c9b700e8a08402a245024cafc108948ae03e31624cf875762&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+10+x64&version=63060012&lang=zh_CN&session_us=gh_4f06a70ce736&countrycode=AL&exportkey=n_ChQIAhIQPD28zp5LrSUnbsACf9rlExLuAQIE97dBBAEAAAAAAPLTF5QTmyQAAAAOpnltbLcz9gKNyK89dVj0Y%2Fj59xL2QEeCm3xi2tBaGob%2BK9U6nSZpDvFuL1osJN0LuGaexFH3PyPnXHBsKn4X5xsllCIBPRl6%2BfcyoazpHy1QzuhTSgoZ%2Fw3F8GMjRogbbjaqtxy1%2B4pmLdgMwnRB9UiUuJL6NXMpOl%2FoGMOUEJUDPS9vAIhTnIaiA71Nm81jZa37VjuAlPYbOgizLoH54LAk4bhpPETeX3hzTYb1T4ABaubJ6jjtqpOSahAtF5LpRiZVdKDRNohThNusz6XhMGnRCBZ22RU%3D&acctmode=0&pass_ticket=SsiWbA0b52n1aHVyqPmiLKOSpgZTekg3k%2BKU1ITm94kpPnKSGY4wVzYqCArtTw%2BWjCjYawMdx4rUAa7%2Fusw%2BFQ%3D%3D&wx_header=0&fontgear=2&scene=27#wechat_redirect)
 
 信息安全体系建设相关内容分享…不定时更新，可随时取关…
 
@@ -172,7 +172,7 @@ OWASP中国，SecZone互联网安全研究中心官方平台
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
 
-[:camera_flash:【2024-02-08 12:01:04】](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247536513&idx=1&sn=d2e4ec7f79f420c34580cf34e62536bd&chksm=fb554fa423ef5174554481f67a2d307d94e98713e2aaf946aef0e186346033fab2ca5b832edd&scene=27&key=a2847c972f830c41db023f6c7a715786141be35eb7f3b8a1ca04aad593a7a64b9dee7c3c5f2b5003392dc81bc1b01bc174cd55812e0c8d6bdc5dd003be81a5ddf756984989af3919b5afc5b649a7b6aa1dc98f67bf9f94399a5fd800f22414aff49ba62c40404cfd1023db739ea4002f827570b87f7673d324a72bd5a3cccdc5&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+10+x64&version=63060012&lang=zh_CN&session_us=gh_a0a0d53ebf98&countrycode=AL&exportkey=n_ChQIAhIQYaQ7qPGIHmnctJNRS%2Bmv7BLuAQIE97dBBAEAAAAAAEosL8rfBM4AAAAOpnltbLcz9gKNyK89dVj0OfH4RDyg0FCxz0mBYCe5OnRMk8W%2Ba9QAMr57AFXytmk1Ux79oStQ6Lt%2FEb6gTo7hTFnLhbCIIj5fxmqDbFUbEjzhpHaD%2Fh1qt5rorMzicvuNC%2FApc6OLcoMHla9DEMp8IEsHJD7mfOv8TqW41tioO1F1bmrlRYeB3GHBErsw26JsB%2FmwBUrlRiiuKxQ8XMIgqiIhh3E%2Be1Rs4I23yp5u7L0cojYXj9vFTEswWOL8Vjd%2F6aCPwE3dajUHWNwDunoyHXoXkiy9Dm8%3D&acctmode=0&pass_ticket=UIWjyDrhiblSButkX%2B%2F%2BYh1jRZnrX8lADtcA7137gMK8G621zZy2YF5UBzBiEBYj26vo%2FaKYztiLIQhpdhNBhw%3D%3D&wx_header=0&fontgear=2&scene=27#wechat_redirect)
+[:camera_flash:【2024-02-09 12:05:05】](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247536518&idx=1&sn=4c6a6a82a53be88b9c7c14a7d5473eb7&chksm=fb706dc1997a25e503063a86fe591207da8b2e573e1025d7bbb144f8f4ad05dd10605c27c64e&scene=27#wechat_redirect)
 
 安全教程\\高质量文章\\面试经验分享，尽在#掌控安全EDU#
 
@@ -185,7 +185,7 @@ OWASP中国，SecZone互联网安全研究中心官方平台
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
 
-[:camera_flash:【2024-02-08 16:00:46】](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247508823&idx=1&sn=2bd1a5a955c12938723181bdbd78ceec&chksm=c0d61b13513ea35f57425207af03afdec2028d79933c03e83d7505d0de23e4fdda054aef44cb&scene=27&key=a2847c972f830c41d0f7e68ca384f4055ddf068ef0aec3515246a2ad33f19d9cc1a2b2aacde30c73b15cd32155bd45cabb2d934e9af78c877f01c130f5ad26a11549431553f2e09c176f09296cf23af094afe6c9a56420b4aba5a5924311901b77b7f20d57755e56a053af816de28837ff89b149857d07812c5c325e778a5fbb&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+10+x64&version=63060012&lang=zh_CN&session_us=gh_29fdc2af2f90&countrycode=AL&exportkey=n_ChQIAhIQR0KWTyUMzQWq3XirIhQzoxLuAQIE97dBBAEAAAAAAAceJyjtxW8AAAAOpnltbLcz9gKNyK89dVj0NwvnUPw59YWdTZe44DasCbvRQLn24nkkV7ea4EjjnPHW2F7vXTjiftLDyh7vPcV0X7DzckWd1tRFpdE8kQT7Nu8h4oqeW1rXYhNzcPijkUIMdpQ8JewtQ2uFcgPft8eNXRxJVvBZcYV81g%2FWhMj0uhdIZiGkeVXEUs%2Fgb%2F3aHTnIcfU%2FVpbno3VscP%2BgyBApGuYcX7%2BD6A%2BcKPBkzVxnXc9qrxSrPCV2qwwhKhmZ%2B6s6vkP5GLp2xW6M5Gv%2FjCQJwGSaRu77U%2B0%3D&acctmode=0&pass_ticket=UIWjyDrhiblSButkX%2B%2F%2BYh1jRZnrX8lADtcA7137gMKxzaMgU7EUHBRh63eXCJ0i6npcSy8cf57jlEMxdq%2BVrw%3D%3D&wx_header=0&fontgear=2&scene=27#wechat_redirect)
+[:camera_flash:【2024-02-09 16:00:19】](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247508824&idx=1&sn=199f31893d21ee1af3454f06b0fd8834&chksm=c0182bd1aeee677fd28d8a0fa18970f315b10c6e22bd696db302275e0456a9eb543fa64474ce&scene=27#wechat_redirect)
 
 中国数字产业领域中立的第三方调研机构，提供网络安全行业的调查、研究与咨询服务。
 
