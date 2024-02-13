@@ -2,7 +2,7 @@
 # awesome-security-weixin-official-accounts
 网络安全类公众号推荐，点击分类详情可快速查看微信公众号二维码
 
-本项目共分为18大类，收集公众号1351个。
+本项目共分为18大类，收集公众号1352个。
 收集优质文章在[微信聚合平台](http://wechat.doonsec.com)展示。
 
 :chart_with_upwards_trend:【1/2/30】=【原创数量/发文数量/统计周期最近n天】
@@ -1338,17 +1338,17 @@
 ## [其他](/other.md)
 
 *杂项*
-* [前沿信安资讯阵地](/other.md#前沿信安资讯阵地) : 战斗、信念、安全 ，近20年老司机与您一起，信安路上我们并肩前行！公号提供信息安全（技术、保障、安全意识、态势感知）、威胁情报、社会工程、攻防技术、渗透测试、网络空间、读书笔记、PPT与软技能分享、技术实战经验分享等主题与前沿信息安全资讯！  [:chart_with_upwards_trend:【0/27/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3MTM0NTQzNA==)
+* [前沿信安资讯阵地](/other.md#前沿信安资讯阵地) : 战斗、信念、安全 ，近20年老司机与您一起，信安路上我们并肩前行！公号提供信息安全（技术、保障、安全意识、态势感知）、威胁情报、社会工程、攻防技术、渗透测试、网络空间、读书笔记、PPT与软技能分享、技术实战经验分享等主题与前沿信息安全资讯！  [:chart_with_upwards_trend:【0/26/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3MTM0NTQzNA==)
 * [微步在线研究响应中心](/other.md#微步在线研究响应中心) : 微步情报局最新威胁事件分析、漏洞分析、安全研究成果共享，探究网络攻击的真相  [:chart_with_upwards_trend:【10/14/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MTc3ODY4Mw==)
 * [小红书技术REDtech](/other.md#小红书技术REDtech) : 小红书技术团队官方账号，小红书技术创新与问题解读的分享平台，与你共前进。  [:chart_with_upwards_trend:【5/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4OTc2MzczNg==)
+* [jacky安全](/other.md#jacky安全) : 安全研究工作，输出有价值的研究成果。跟踪国内外漏洞信息，国内外安全动态，安全攻防技术研究WEB漏洞利用方式以及漏洞原理、代码审计技能，精通多种编程语言，如Java、Python、PHP汇编等漏洞挖掘、利用条件分析实战经验分享  [:chart_with_upwards_trend:【2/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzMjQ0MTk1OQ==)
 * [安全小子大杂烩](/other.md#安全小子大杂烩) : 本公众号更新自己的一些渗透笔记，包括内网渗透，漏洞挖掘等。  [:chart_with_upwards_trend:【1/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzMjQzNjg1Nw==)
-* [泾弦安全](/other.md#泾弦安全) : 分享网络安全相关知识以及技术，让安全如弦上之音优美而坚定  [:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0MzU5NTg1Ng==)
 * [知其安科技](/other.md#知其安科技) : 一家致力于技术和产品创新驱动的新一代网络安全企业。  [:chart_with_upwards_trend:【2/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzNTI5NTgyMw==)
-* [开源情报技术研究院](/other.md#开源情报技术研究院) : 聚焦信息安全领域开源情报技术的研究，关注最新的APT(高级可持续威胁攻击)动态、开源情报工具与分析方法、数据泄漏、网络攻击等  [:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwNjQxOTk1Mg==)
+* [泾弦安全](/other.md#泾弦安全) : 分享网络安全相关知识以及技术，让安全如弦上之音优美而坚定  [:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0MzU5NTg1Ng==)
 * [粵港澳大灣區網絡安全協會](/other.md#粵港澳大灣區網絡安全協會) : 粵港澳唯一一個以促進網絡安全、數據安全和監管合規交流；加強粵港澳安全信息、安全技術、安全人才互通與融合；向粵港澳青少年宣傳推廣網絡安全意識和培養灣區安全人才；搭建三地企業間溝通平台；推動粵港澳三地及海外交流的組織。  [:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwOTUyODE5Mg==)
+* [开源情报技术研究院](/other.md#开源情报技术研究院) : 聚焦信息安全领域开源情报技术的研究，关注最新的APT(高级可持续威胁攻击)动态、开源情报工具与分析方法、数据泄漏、网络攻击等  [:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwNjQxOTk1Mg==)
 * [多才多艺的老王](/other.md#多才多艺的老王) : 专注于研究WEB渗透测试技术，时刻关注网络安全。  [:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NDI0MjEwMQ==)
 * [零点安全团队](/other.md#零点安全团队) : 零点安全团队，致力于网络安全技术交流！  [:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwODUwMjQ5OQ==)
-* [安天集团](/other.md#安天集团) : 安天是引领威胁检测与防御能力发展的网络安全国家队，依托自主先进核心技术与安全理念，致力为战略客户和关键基础设施提供整体安全解决方案。安天产品和服务为客户构建端点防护、边界防护、流量监测、导流捕获、深度分析、应急处置等基础能力。  [:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5MTA3Nzk4MQ==)
 * [赛博昆仑](/other.md#赛博昆仑) : 北京赛博昆仑科技有限公司是专注于软件与系统安全的新 一代网络空间安全公司。公司拥有在网络安全领域扎根数十年的资深安全专家，致力于为政府、金融、运营商、教育、医疗、互联网等行业客户提供面向未来的高级网络安全产品、解决方案与服务。  [:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMDI0ODkyMw==)
 * [安全祖师爷](/other.md#安全祖师爷) : 官网:www.secshi.com。国内领先的互联网安全媒体，WEB安全爱好者们交流与分享安全技术的最佳平台！这里聚集了XSS牛、SQL牛、提权牛、WEB牛、开发牛、运维牛，公众号定期分享安全教程及相关工具。与其在别处仰望 不如在这里并肩！  [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyNTk1NDQ3Ng==)
 * [黑客技术与网络安全](/other.md#黑客技术与网络安全) : 分享黑客技术和网络安全知识，让程序员了解黑客世界，学习黑客技术；普及上网和网络安全知识；帮助黑客、安全从业者、安全爱好者学习与成长。分享的所有技术和工具仅供学习之用。  [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyMDEzMTA2MQ==)
@@ -1414,6 +1414,7 @@
 * [LinshaoSec](/other.md#LinshaoSec) : 心之所向，必是远方，成长，陪伴了我的每个凌晨四点，你该有一个属于自己的小圈子，他们跟你一样热爱，永不失热情  [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MTczMjAzMQ==)
 * [小资青年Ai4](/other.md#小资青年Ai4) : 小资青年Ai4，有品味的青年公众号，在做资源分享的同时，也作为个人成长的记录！欢迎各位批评指正！  [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4MTUyMTIzNg==)
 * [白帽学子](/other.md#白帽学子) : 专注安全研究、漏洞复现、代码审计等技术方向，有时会分享安全圈的资讯和职场分析！  [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNzIxMjM3Mg==)
+* [安天集团](/other.md#安天集团) : 安天是引领威胁检测与防御能力发展的网络安全国家队，依托自主先进核心技术与安全理念，致力为战略客户和关键基础设施提供整体安全解决方案。安天产品和服务为客户构建端点防护、边界防护、流量监测、导流捕获、深度分析、应急处置等基础能力。  [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5MTA3Nzk4MQ==)
 * [dada安全研究所](/other.md#dada安全研究所) : 永远充满激情，永远热泪盈眶的网络安全爱好者。 分享关于代码审计、攻防实战、云原生安全的知识。  [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5NzU3Njk1OQ==)
 * [WgpSec狼组安全团队](/other.md#WgpSec狼组安全团队) : WgpSec 狼组安全团队由几位热爱网络安全的年轻人一同组成过去的几年内没来得及让团队发生有效且质的变化这一次，为了我们的slogan：打造信息安全乌托邦。前进！  [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyMjkzMzY4Ng==)
 * [Java后端](/other.md#Java后端) : 公众号「Java后端」专注于 Java 技术，包括 Spring 全家桶，MySQL，JavaWeb，Git，Linux，Nginx，IDEA，数据结构，高并发，多线程，面试题，GitHub项目精选等相关内容，欢迎 Java 程序员关注。  [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2MjEwMjI1Mg==)
