@@ -185,7 +185,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
 
-[:camera_flash:【2024-02-12 13:29:50】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247602867&idx=3&sn=b53924336f36e7cf29282c467788f8d6&chksm=fdda64329e8c96656c834bd742dccdc5bad3ebd4feca89285704b3e59d985cbff9baf5a49204&scene=27#wechat_redirect)
+[:camera_flash:【2024-02-13 11:25:54】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247602917&idx=3&sn=8c2beec0def0fd80812be8726fa42d4f&chksm=fd8c8838133f7dfe95d5472e3810e1e2ea5ffa8bc2eb227a4642a9a835499ee01b618b0f4a7b&scene=27&key=d97ff789397cf58d0e8178970a813397c08c62e242af3a63a4b24d265ad1769a0c23049c87698390ad04f91b8d58b9304271d920670c35ce1fa213a822dd0b245594c7913bbb5bdd0834d4c5f3ccff96e72e81a9df3d0aa6809d840a53c4ad94366191f4f0a7f4a3064a11d3474bf12a55fa2cdc41ac3871272a69c0e208c959&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+10+x64&version=63060012&lang=zh_CN&session_us=gh_469225414d82&countrycode=AL&exportkey=n_ChQIAhIQ%2FHh6AqtUY8EitrheNEDu5xLuAQIE97dBBAEAAAAAAGE3DTVBqrsAAAAOpnltbLcz9gKNyK89dVj0LfPDBNsvHgsySR5YE8qtKS9oLTX4UOYNyn5mDGh7GtC3f%2F%2BwAwLykCgR0elOM%2BgIFJPd%2FN3%2Bsk6ZbRB%2BLrcpyrHKC6adr%2FBqX8qcs8IvdTfm5xqtcGpxRALSAhzJezLQ2IQEyN5pZVEps8X28cTVqH%2BH26TIStOAYNwAxkJS6HQdVEvAFuizg%2Fuz6JPJiu5Vui5AXAD%2FOpy5mt2pDwrc%2FuwipYcpZSxBVU1U0ZoHLUYRI8gkCUeNXOLXvDhvj2f%2FlNjhL5o8AOU%3D&acctmode=0&pass_ticket=iLDfRhEBMvAonWo1SFXr8wy6Womwswsw%2B7wVT%2BCIeGbPa8AcmKPQm6b0qV%2Fwx0t%2FnotwQruv%2FBL1LNv92vDJ0Q%3D%3D&wx_header=0&fontgear=2&scene=27#wechat_redirect)
 
 为智能网联汽车行业专业人士提供信息和网络安全技术、产品及服务等行业发展最新咨询
 
@@ -289,7 +289,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTU3NTY0Nw==)
 
-[:camera_flash:【2024-02-12 10:05:51】](https://mp.weixin.qq.com/s?__biz=Mzg3NTU3NTY0Nw==&mid=2247488540&idx=1&sn=5be5daa17dd42ec47fde111f8aa60c7e&chksm=ce2f1878ee3691402873e3ec6d6cb2a0a5dd0179fd1ff2b73bbea087a3ec639197fe0189db5f&scene=27#wechat_redirect)
+[:camera_flash:【2024-02-13 10:57:36】](https://mp.weixin.qq.com/s?__biz=Mzg3NTU3NTY0Nw==&mid=2247488542&idx=1&sn=df9767150a52d25f2630849825bce838&chksm=ceef0d0759a06586d15358b95822233c8c94cdeec6229d7d83fba18b36bdd433e4045d751bae&scene=27&key=abe979c9663eced105a4467032e49bb14eaa0897936826a25189d47b68b895ef06eab8d0f66bf45d666d1882285a9f112b268f40dd79f3e339226c0efe2a2cb09b9c8129c22b4a9394c7685d6289d51f4de56e480d190592dbecfd8e69229a058eda5834afa2335d98de1685f8b4922600403106e9ed2081bd02759a74202dce&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+10+x64&version=63060012&lang=zh_CN&session_us=gh_450e2974b4ef&countrycode=AL&exportkey=n_ChQIAhIQru3it%2BDovM%2FYJXOsC%2BuYFhLuAQIE97dBBAEAAAAAAGOtN8F2SRIAAAAOpnltbLcz9gKNyK89dVj0qc8pyAoXsDaBYh2wHvL3yFW3jpsl4ZaNQAMjSXXrZsvNllCeoK4X5LVTuFKiS5N7WlfUMPIvw8qWk6me5aM5PRClbs3dyTBH9d8brz%2B3%2FuHz6sieBEHA3rP0icKz6vv4XoC%2FNMGzCMfQIDkLDhBVjUDV%2Be36dxYw78TvFg%2FwWkNRxnGzkqJVn%2FlB%2BszVKNlrlZ3OoItNsFZD%2FDUJuOXMPn2cmudCSvGNv5ldKc77ZvkahX%2BHlXJuL2CilLDnmzJrLNHjODq10xk%3D&acctmode=0&pass_ticket=iLDfRhEBMvAonWo1SFXr8wy6Womwswsw%2B7wVT%2BCIeGZhF447OIrpx1aG%2B8a70kCOClsCyqqBkq45sRYzM5JKQw%3D%3D&wx_header=0&fontgear=2&scene=27#wechat_redirect)
 
 旨于开展网络安全相关法律法规研究与电子数据取证技术研究，分享小知识、小技巧，共同学习提高，推进技术规范化建设。
 

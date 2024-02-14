@@ -94,7 +94,7 @@ HACK学习，专注于互联网安全与黑客精神；渗透测试，社会工�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0NDA5MDYyNA==)
 
-[:camera_flash:【2023-12-31 23:09:13】](https://mp.weixin.qq.com/s?__biz=MzI0NDA5MDYyNA==&mid=2648257256&idx=1&sn=2934e50e0ccac11d368f8ae935094550&chksm=f0d623d5bf3df9de8a84b6c10071f26ff837accac2a16c2eefa1a5c856925cd6ba8a767d62e2&scene=27#wechat_redirect)
+[:camera_flash:【2024-02-13 15:32:13】](https://mp.weixin.qq.com/s?__biz=MzI0NDA5MDYyNA==&mid=2648257262&idx=1&sn=136fe8d6fbe67a36c74ada5500f01962&chksm=f018746611d058fbfdd39ab9fab369812463ad3309d3ee6d4c88ee06f1992007c3a34a4b9663&scene=27&key=a2847c972f830c417bba70defd94b8dd4c967401d5dca6fa4062455632efc9da98894c834c3c8fe8500f5706a2635b0afe20ee6764c034c4e80d51f1dc2b17e6736a0866db74bc5d0ffbac01b049a2af70906702d21055755f640bfc24557f4c6f6a6f729dfed3c1d2c01f807ea125903742ed6f6aa356ce9274501b213aaa7b&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+10+x64&version=63060012&lang=zh_CN&session_us=gh_c028a5199606&countrycode=AL&exportkey=n_ChQIAhIQjtIaTnu009CHtNLka5itQhLuAQIE97dBBAEAAAAAAHH5FpqRCGQAAAAOpnltbLcz9gKNyK89dVj0FNZTgVt4r0jd%2F39MTOPGEqX8AOQCNrAWcExlKYfNvbQjdl2%2B8mt%2BFcZz%2FRNt9x5%2BzIm%2FeIHk0cXOHOtqceGaHWdEBJra5i%2FpQM5UZIwUkOY51N%2FqAXKWsYuSvb0qi2xdf5gh8w3ZrGD6V6mD%2FCTHNoFGIjpq%2F506LPFMwRbjp3ARY7x0LISUAk0mUro%2BoBbgb5NZW09ICg9aslVVl%2BZ5vb3uPUB5XdmCV%2BtzBz3OIsxeE1SrpzaXmIkPtNp0PzMOoEIcWXx5jxI%3D&acctmode=0&pass_ticket=iLDfRhEBMvAonWo1SFXr8wy6Womwswsw%2B7wVT%2BCIeGZVqWCx%2BpIJnoAN2KRFKBQChYutw2cG17CpM10UgryPIg%3D%3D&wx_header=0&fontgear=2&scene=27#wechat_redirect)
 
 tombkeeper 的公众号
 
@@ -796,7 +796,7 @@ C/ASM程序员之闲言碎语
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU1Mjk3MDY1OA==)
 
-[:camera_flash:【2024-02-10 12:53:59】](https://mp.weixin.qq.com/s?__biz=MzU1Mjk3MDY1OA==&mid=2247510173&idx=1&sn=2ffa683c3c8f4abb164ff89f09da245c&chksm=fadb3b7ce2279b9df30de7425cad820c16a6d7b1f24b36168762d67f40498dd1428bf48d532b&scene=27#wechat_redirect)
+[:camera_flash:【2024-02-13 15:06:58】](https://mp.weixin.qq.com/s?__biz=MzU1Mjk3MDY1OA==&mid=2247510179&idx=1&sn=416afdc2ce1bc903f97b26996704e4a3&chksm=fa29b78fe580a9ef1b93a68c2b31fd80802be55c4b5e909b7b673ae9f1c1fc9b929cc03cde9c&scene=27&key=d97ff789397cf58dad551f3620220707ce49c7bd94352549493fb7b3cec619a0676625cf080eeb2589d94e4fcf8e446006ec0ef67157ad70ab40461d011ead47f67aff6a87bf850366c0de2e3f8cb64883b1fdc7dc08800fb0e3261ff4ae3f87c7de8f5059c6bba7f4a4ec35b2b33110fe9ff4d21d5ef6e54aab429025b92a95&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+10+x64&version=63060012&lang=zh_CN&session_us=gh_c57275954216&countrycode=AL&exportkey=n_ChQIAhIQh1t9l%2BFSwtCr6JB5pSPcUhLuAQIE97dBBAEAAAAAAAA%2BOsfvaIUAAAAOpnltbLcz9gKNyK89dVj0BSFClQ%2BpEu40uw67DGMcG6wWwWAsEgqfwuo49gRoOFn8LgYuym88kEWHZ5FR5N7pdwlZioXrnA%2FzIJWVXl4Fg2kckpUcySVuvMxgOQlf5JjYOGZwWOc25QwWSW0SWkrJB%2FCTeBl5%2BUoEiweZbs%2BCtRp3iGJ77NnDwPpBgAImjBtqkkRlRh%2B2t%2FJ8k4pRCKnFUd3P38YJAjXYpU5BRzx32JQ0eui5hlVZYUDX8Pyt1Y5Hl%2FThZkVAmRhoRfNFEzavEOgQM2IQMNg%3D&acctmode=0&pass_ticket=iLDfRhEBMvAonWo1SFXr8wy6Womwswsw%2B7wVT%2BCIeGa56DbISpQYKnLizHuxLhFwEfb1ssRSBsLG0ykaWGID7g%3D%3D&wx_header=0&fontgear=2&scene=27#wechat_redirect)
 
 利刃信安攻防实验室是一家专注于提供网络安全解决方案的专业服务商。我们能够提供包括等保、软测试、密码评估、风险评估、渗透测试等项目合作服务。此外，我们还能够提供CISP、PTE、CISSP、PTS及其他各种网络安全证书培训考证服务。
 
@@ -874,7 +874,7 @@ C/ASM程序员之闲言碎语
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzIyMjYzNA==)
 
-[:camera_flash:【2024-02-11 11:00:31】](https://mp.weixin.qq.com/s?__biz=MzIwMzIyMjYzNA==&mid=2247512729&idx=1&sn=b69f927ee5b606fc1066fd662e08e307&chksm=97c60780a7b4b7e167e88857ddecc7cd0d876037dcbb2efab2e92acc05b21e5e664f94a5508e&scene=27#wechat_redirect)
+[:camera_flash:【2024-02-14 08:04:27】](https://mp.weixin.qq.com/s?__biz=MzIwMzIyMjYzNA==&mid=2247512730&idx=1&sn=7632d308140d354b7776977288f0aea9&chksm=976f257a641552e4683d89520e717069fd8b1a413c5eea4d5cae9e393babd9734638f4cd69a4&scene=27&key=200f9e9e1b7be3f4408c83dffcae285ce8166e06754ee7d9f29c5e72710276a53a9202260b5d029ba47aea49e058683076ff6ba2874c309074aeac4fe4653baf5924acfae0bef4c4b3eec2cb3fe9c2707fd9e9638afbd140882fc4e93c6f0675b45fa92c0cc29354a5960e4abd6a17a2e8c3105ed41c3c617721aec0a030beab&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+10+x64&version=63060012&lang=zh_CN&session_us=gh_72371b8bab81&countrycode=AL&exportkey=n_ChQIAhIQ%2FdBjnvNlaDcaVZcvdHktTxLuAQIE97dBBAEAAAAAAFGLBxvXRQUAAAAOpnltbLcz9gKNyK89dVj0lBcXC2m7dKcCMf3s1JRBPWR1NSIHtD5GaVWdYo1bhoSoGLd0vPCGeNnkYb0zCsn8vJDSN9vduz0tYcoxL3Trq%2Btsah8L9dW5QBQZrtpA8lD9XWi5Fr0Lk29dkHyBdpFScNAEXRcg1T7jEqeDzK0JJaJwTln%2B8H4ZZaJhG5MslQLkAGGhRAEnhXXyNn524XjyNWjJB%2B%2FchYRGS0UdMEg%2BBTjYELocS%2F7cbe8rBYnmouJq583vHh%2BzU72tr69dARaFsDAtJbzVM6k%3D&acctmode=0&pass_ticket=iLDfRhEBMvAonWo1SFXr8wy6Womwswsw%2B7wVT%2BCIeGarejP%2FLs14xrF7kuarH6%2BMY889LPS8BkpeoiA6ulgFAw%3D%3D&wx_header=0&fontgear=2&scene=27#wechat_redirect)
 
 HACK之道，专注于红队攻防、实战技巧、CTF比赛、安全开发、安全运维、安全架构等精华技术文章及渗透教程、安全工具的分享。
 
@@ -1082,7 +1082,7 @@ HACK之道，专注于红队攻防、实战技巧、CTF比赛、安全开发、�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NDYwMDA1NA==)
 
-[:camera_flash:【2024-02-10 23:57:25】](https://mp.weixin.qq.com/s?__biz=Mzg2NDYwMDA1NA==&mid=2247536364&idx=1&sn=67dc7b599274cc9b3a4e503e8822c871&chksm=cfaf9b8cf986ae1057ccf24d6caf6bb21d084b5be6f1d1209ced054289209ecb6de01b977b6f&scene=27#wechat_redirect)
+[:camera_flash:【2024-02-13 23:49:54】](https://mp.weixin.qq.com/s?__biz=Mzg2NDYwMDA1NA==&mid=2247536370&idx=1&sn=317cf927f9820058faf91a93655c891b&chksm=cf7f2a5350a7275084166c36ad2b9f09fdd393346f906decb4c1b500c581a295eddfbd82a53e&scene=27&key=b4b838b4b33bd7f75c3898a1cc02c0729d54ad7e9e216a62b98b452f5a35b12f3d0be009cd71abed08f190af0a6d9da3764bd76ce3342b195d74955f841415b294e829f676bc3999ef482530658e5b060fc6b99af9b8ec322623ebe7aa144358e02afd468ba01f9db688719c003a5f5365a1cf868f32a049c216f338fb48a3ec&ascene=0&uin=MzgxODQ4MjMz&devicetype=Windows+10+x64&version=63090819&lang=zh_CN&countrycode=GY&exportkey=n_ChQIAhIQZiD2%2FoeQjhB9u%2FmaYPe2oRLeAQIE97dBBAEAAAAAAGkOLTr8b%2BcAAAAOpnltbLcz9gKNyK89dVj03j2did3IdDootPKzBuvDvrfAI2Rprm0ZZpaBLtHYEn4JBdlhj982HbhSlue%2B3mkBOhMqKr9gqcC0c6fv3TZpNQJrBv2vJtV3CGh%2Fr%2FA%2BB42F1YZPgAeFoSqz4o6NiquZNyb1U9O7FkGhgucWgU1I0u824MtfxZmDMhBq9gRilGxSBAwOFgkr0cmoo8adjPkNOMpOFeXngZXpZ3Naa0%2BZY4PGp4oK7XIwn4bAr0ilnEC24pRVPUGR1w%3D%3D&acctmode=0&pass_ticket=tfZwr6tH3d4xTkQ7SevEbsjXL%2BeCMhNBRivUzAaxW7LQpZpjXN01%2Bw2zoMq4RyJ2Dg7jIEFYuIMtyxZWjRwTuQ%3D%3D&wx_header=1&scene=27#wechat_redirect)
 
 知黑、守白、弘红；白帽、大厂、安防、十年、一线、老兵。【分享】个人渗透实战、编程、CTF、挖SRC、红蓝攻防、逆向，代码审计之经历、经验。
 
@@ -1147,7 +1147,7 @@ HACK之道，专注于红队攻防、实战技巧、CTF比赛、安全开发、�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3MzU1MDQwOA==)
 
-[:camera_flash:【2024-02-10 17:26:53】](https://mp.weixin.qq.com/s?__biz=MzA3MzU1MDQwOA==&mid=2247484780&idx=1&sn=68fca63ffe9ef65212a9cc5730d408a3&chksm=9e2bc5f128b1a3a5154477dcec959c154006746becfff275bf1e4a56b5ddb05d852bddef75e4&scene=27#wechat_redirect)
+[:camera_flash:【2024-02-13 16:11:57】](https://mp.weixin.qq.com/s?__biz=MzA3MzU1MDQwOA==&mid=2247484834&idx=1&sn=67a4e624d382ebb6529fa227301084c3&chksm=9ec5f6f9e22b386a912d26d9d34748970633b5b743690c80a150ad41b9d62bd93095ce32ca6a&scene=27#wechat_redirect)
 
 explore, exploit, expose
 
@@ -1303,7 +1303,7 @@ explore, exploit, expose
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI4MDQ5MjY1Mg==)
 
-[:camera_flash:【2024-02-08 15:16:36】](https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247512212&idx=2&sn=34d2fe2cf30e9766fde9aed29bd85739&chksm=eaa6ad700027af6451a52c2e9dbc601df7bf33b4a01e4346f4952f5362d091f2403c8c1d3a62&scene=27&key=200f9e9e1b7be3f458d537a93fcba3fc2b0661875d3c22f3ef386062b619d0cedc537eee0961b8392de70f1c437127759f3f7895fbf0a9e86399c734d8a557b2b07a6799038efd8d71ff48e7ea617428a61521002bf4bba50816a948ff1101ab06f584b8bf9dd38a7cfa705f8a8c4d482b77135d74e292f659b3e70dd72f2b3c&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+10+x64&version=63060012&lang=zh_CN&session_us=gh_1c2b41c1abc7&countrycode=AL&exportkey=n_ChQIAhIQvDXFcjpCKkQtY92nTU94SBLuAQIE97dBBAEAAAAAADkJL6yoLUQAAAAOpnltbLcz9gKNyK89dVj0M4LcAK5T%2Bj5rOYIllK%2F%2BQwR2clzKwCsHSymfpcxGyoGXd4EGXgZIxHVM8BdWBiqbAZ89bxPoOKxalYejlGhekLydOQ6CgTYzLHp6kbr2aoLgZy1djNRVhfiq5BNodxvJbofiy7aI3LlPVoSfX4djEuVav3Q16gfPFSTl9keiNeFG9Q9D28bXXNWJVWwHLC9yfM2QlmTzBclJS9Gluqc1Z%2BkJFV1IdBl%2F2Rm9RMGkgI20R7v5UR21Sb6Ixn5oqL5XQLrH%2FlAycIk%3D&acctmode=0&pass_ticket=UIWjyDrhiblSButkX%2B%2F%2BYh1jRZnrX8lADtcA7137gML2jI%2BddEMhg4H7AI4Mr7ruwIxxyvVBuPmU0iOSyu8GRA%3D%3D&wx_header=0&fontgear=2&scene=27#wechat_redirect)
+[:camera_flash:【2024-02-13 22:05:14】](https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247512224&idx=1&sn=c4be7bf97f176b06b91fceb0b5751d23&chksm=ea2fec9d5a6e1454c60f3ae08811f6e6f0dfe4c49183ec568de93e1293836e0d32167f294174&scene=27&key=5f77d834834efca1d76195490003cdb589d3c5b48cca5159d5f9926cd1ee7e913a9f661c910f05195f3412c23c3a7be640c57a6934e3ae93fdfa45a969c38be935e25118e956385004bcc8c21baa935c01647fcf347936646e58bec0e19a2bd584f1caa92ea20bf36e213a080c2363b596f45baf14cefa311217215296a911d7&ascene=0&uin=MzgxODQ4MjMz&devicetype=Windows+10+x64&version=63090819&lang=zh_CN&countrycode=GY&exportkey=n_ChQIAhIQ2BlxX8V2gPK3MXjE0t%2FgMRLgAQIE97dBBAEAAAAAAHrTGV%2BViGYAAAAOpnltbLcz9gKNyK89dVj01gGiUdCSY0ZbUw0j29TzNX4%2Fq5jpD1Nd61EFQQ2QLG1vHl6ysSgmdKyz%2FVuVskuRlSlD%2FkuFf5YVxcR%2FrL0W8gDpr615Vog1L22KqU5BdV6tzi9lBdxIGabb4VPvFOp%2F1Q60DZgnASbyn1RZXg0CfKF0jqCzRJgVfLS6PtM8Ji6p1oskZjYoPXqg91UI%2BvzHdlegk8xouI6eIkVRmb%2BsmIfFY7us0FAb96Fu1exqMLfQ%2FWthY86TJc6q&acctmode=0&pass_ticket=tfZwr6tH3d4xTkQ7SevEbsjXL%2BeCMhNBRivUzAaxW7KenvN0NMLO2r50wKWyfRirubn%2BxbOWW%2FlR5KaiziLB3A%3D%3D&wx_header=1&scene=27#wechat_redirect)
 
 将一些好用的红队工具、蓝队工具及自己的学习笔记分享给大家。。。
 
@@ -1693,7 +1693,7 @@ CSDN、华为云博客专家，武大博士，北理硕士本科。专注于Pyth
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2NzY5MzI5Ng==)
 
-[:camera_flash:【2024-02-11 08:30:45】](https://mp.weixin.qq.com/s?__biz=MzU2NzY5MzI5Ng==&mid=2247499931&idx=1&sn=8e11c0d31484291bcee26c57ab6f3ab8&chksm=fd03596b97d0274edb26af98553f391aa1ccbd548e9d58b0f19046520650764c5444abb42bff&scene=27#wechat_redirect)
+[:camera_flash:【2024-02-13 09:03:03】](https://mp.weixin.qq.com/s?__biz=MzU2NzY5MzI5Ng==&mid=2247499933&idx=1&sn=71a2d29e60b6794e16ac7abba0c2ee71&chksm=fda80ff36d50df640433084f441b7461745b6b8fd11a614ae7a43bda91ef57c6993474f53614&scene=27&key=d97ff789397cf58d796736eb371277b57ddfdd5bd4c6e540d32c771554b5a267fc54c6eed7b23ace473f4f4e81a1ae1de5d222d27a474e43b8c0aa43a33b8749c20f291d4900cc935df52f530f135ae3f8668290404ae1db7c0aea54910b96ece65c8b153c8ef1d794833f7f1c5d27f09d9b5ffc48f46d680e7d1029dcfed27e&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+10+x64&version=63060012&lang=zh_CN&session_us=gh_acff8c5db96a&countrycode=AL&exportkey=n_ChQIAhIQX8Cr5JoHYy%2BXzdieUx02LhLuAQIE97dBBAEAAAAAANQOLkIf%2FqUAAAAOpnltbLcz9gKNyK89dVj0o5%2Bk6qyhvSZNUxJ0n5B8zzIJRkd4L24AnvQ1EYtuJkdGe3ZWyW28c0RITX80r%2FKrGWgTpH9slBSDrKb8YYRHBwotlYf3uPPiLW0y%2BW3vRUsU4QloZg1VBKjMaU9Q5%2B1sThEGLdH70tgqVzNi51BsOP6pMwwTGBB6SBbywTqRzIg2WsRwOAXT54pBuRDqxHS5dkbB0l8w1Ki38WxIgJHz3kPG5xx9AWP9YecTT3V9agluXEMN4jQA2cUvdZSol2IWB87qo6VDU%2Bk%3D&acctmode=0&pass_ticket=iLDfRhEBMvAonWo1SFXr8wy6Womwswsw%2B7wVT%2BCIeGax%2B8ZKPzc2vscyjKY%2BlhMC%2FAmoymbpMiY3eZu8IMM2hw%3D%3D&wx_header=0&fontgear=2&scene=27#wechat_redirect)
 
 web安全入门、进阶技巧，红蓝攻防、应急响应、内网渗透、漏洞分析等技术文章分享，以及网络安全工具、视频教程及学习资料。
 
@@ -2499,7 +2499,7 @@ The quieter you become,the more you can hear :)
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzMTIzNTM0MA==)
 
-[:camera_flash:【2024-02-12 22:26:38】](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247493534&idx=1&sn=f8ac5f044e9a9bc18a493f3298997ab1&chksm=e9bd9d8352c2504feef22f4ad70316d3d438c26a465a369b26aba3fa6af498fee359e75880b1&scene=27&key=5f77d834834efca16930c6443d026ce25fac757e9b4828297ea5d09a5f76feb6bc05f9eb61e056e02eaa35abd8a021c2ce37d2cfb4b797d2a111f2234f6688a6e6a267043c925e2043af0b8c2fd940bd5a6378cff755b02d59700875b1af7ec99c35c6d00ab5ab2c6119de78bc8a94b7bb66d39c6ea4a6914ee82f683ee0ba05&ascene=0&uin=MzgxODQ4MjMz&devicetype=Windows+10+x64&version=63090819&lang=zh_CN&countrycode=GY&exportkey=n_ChQIAhIQXlGsfhDRfXEf%2BV69Gq9H4xLgAQIE97dBBAEAAAAAALjvOEZyLwMAAAAOpnltbLcz9gKNyK89dVj0a9FM%2BIXPooLJOacC%2FNHB%2FOWxcFRQq54EC%2B0cP7rvr9tZisyFMyU72Dq322N55mf9j4uCrbdoHjJScE4T5amfNEOXOq2OTBsDOMUF7LlLR1pwGeeLuuon7wfBaoAIBgWJaLsiVy3aXH941M0qpsgUQp8lygxPiSVWKWLSBvopeqFXgem6heGW31lP3ldZMrRdHbmxH8rlKxDZQ7%2FpMZIgdf2Li7UAyOK8R8fKMEDa7Gwkzk0e0ByPWM9L&acctmode=0&pass_ticket=tfZwr6tH3d4xTkQ7SevEbsjXL%2BeCMhNBRivUzAaxW7Jzq54DLFweIIHrWBV6oQeHZSSWjPKuhddX5D6BQM6eyw%3D%3D&wx_header=1&scene=27#wechat_redirect)
+[:camera_flash:【2024-02-13 22:34:12】](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247493540&idx=1&sn=32900757e933887812b204940f8f3950&chksm=e91156d5b9b952fcdb7ebf6104d64a311563e79a3208cc89d997c33a0d837d231977f2266d0a&scene=27&key=1077899ea3e8cfa6851d98e5671e7a9d905ad8463e2970ed00ce6f042ac89a5dc2724be6e9ecc9e46048c259d581e0a26e9a5fb5b49124d7fb1ae3541b04d077d6655f2fbc9b3043335ceffac69d19963457630291ca4f1bc300a000eb98764e3d14d0a6b1a7228c6ddfe0d580aec5c4a8666644a40dfbb115b904774e91ff86&ascene=0&uin=MzgxODQ4MjMz&devicetype=Windows+10+x64&version=63090819&lang=zh_CN&countrycode=GY&exportkey=n_ChQIAhIQyrUAIv46tcGdXQ8mhypSgRLgAQIE97dBBAEAAAAAALY%2BLegHBn4AAAAOpnltbLcz9gKNyK89dVj0%2BpJS1IsrHUwbR29cZKGlU%2FDk1tSEM4G6eAtuTdor0%2FGC3buWtrgaYQta9RSPL6lYGuHQpwVGDBtSJKccpFDJtcyS2oVzpZjblIlkoJveS%2BxGvPvoNosnD1dG1igP%2ByceTnlIpMghnWOjq8gzdd4Xs8fDZ%2FpYmVsSxs8rR8jmigm1iaAPDKdYC5zMeE%2Bb5RXmqa1eAzvcrpeDWWeBckaGZermmiAa15hjFw5ZWSNcelxx8f8sSnj8et8%2B&acctmode=0&pass_ticket=tfZwr6tH3d4xTkQ7SevEbsjXL%2BeCMhNBRivUzAaxW7JK9GPKp%2Bn%2B7QUAaEKHkfVo1o628aohrDF%2BIH8DT6%2FxNg%3D%3D&wx_header=1&scene=27#wechat_redirect)
 
 作者主页: https://github.com/richard1230
 
@@ -2902,7 +2902,7 @@ ABC_123，2008年入行网络安全，某部委网络安保工作优秀个人，
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5NTYwMDIyOA==)
 
-[:camera_flash:【2024-02-12 09:30:55】](https://mp.weixin.qq.com/s?__biz=Mzg5NTYwMDIyOA==&mid=2247502106&idx=1&sn=915c70b1d43a7424c60d0ba5448f0ab9&chksm=c14790972171476c37fa5eacac1c32673044473176e027ae2abd0ec7d30a10efdb028722ff52&scene=27#wechat_redirect)
+[:camera_flash:【2024-02-13 09:01:32】](https://mp.weixin.qq.com/s?__biz=Mzg5NTYwMDIyOA==&mid=2247502209&idx=1&sn=fa663fe40a75b4d8fdfb63ad4da89546&chksm=c1751d1beb5741437d31827b20dd4c3ab316ae13be40893e2289960e3503698667a546703584&scene=27&key=200f9e9e1b7be3f40cf44fc1dc9f08b42219e9682fb08238f4b780d26b5b1c3bbde1cc0967475da3132d9cfae297c472abc1e404d5b5ffddf2e3ad12df7a87cb0ecc8edd95bcdb336b5812858e9e72dcc59e757b839791932f5b3e82a57ae6703f323acb421788a192f39843370bb88e9fd2381865b98cec6de77c3c6ed15cca&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+10+x64&version=63060012&lang=zh_CN&session_us=gh_acff8c5db96a&countrycode=AL&exportkey=n_ChQIAhIQbFBLvpF3aLX12BPvIwT6%2BBLuAQIE97dBBAEAAAAAAEgBCY56nJ0AAAAOpnltbLcz9gKNyK89dVj0iuVeiVymAwRr3ogCAdrZ1o8Cfap9Lr3qICStrQTfNmEf%2BWOS5xlSNttICk%2FguCEvhUGf9nBiwmfNJh4XjM7ijA%2FsMDRVAVUqrsPE1DKsHmncwLRX1KEuRzYR0fEZUGfyap7Dt4em2d2OtYrk%2BSJhyw4V3y%2Fbt6LbtLPwx%2FL1v15lsqUGBfuVa3rCsI%2FwauMfjjH4uk09NkL%2BFEtQMWi06WDFOQVmL%2F92DlYg9kvtN4Z5qG1z7M4QNJvTrau4WJzwdSFUP0S9pjM%3D&acctmode=0&pass_ticket=iLDfRhEBMvAonWo1SFXr8wy6Womwswsw%2B7wVT%2BCIeGZXu5RGD7fBy%2BhKVuUbMOFyimKFLLshIlsmd1rokbiEtA%3D%3D&wx_header=0&fontgear=2&scene=27#wechat_redirect)
 
 更新渗透相关各种资源，包括如AWVS等扫描器破解，学习文档，各星球付费工具等，更新速度堪称业内前沿，安心做兄弟们的白嫖基地
 
@@ -3123,7 +3123,7 @@ Be a hacker of ideas.
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI4NTcxMjQ1MA==)
 
-[:camera_flash:【2024-02-12 12:01:00】](https://mp.weixin.qq.com/s?__biz=MzI4NTcxMjQ1MA==&mid=2247606075&idx=1&sn=30ecf19f60d76b4dcfdf02cced9b780d&chksm=eae079cad22153e9f166617979c6f8e7adb831c6456abacaae5b0ba440f941ffed451efc4ccb&scene=27#wechat_redirect)
+[:camera_flash:【2024-02-13 12:00:38】](https://mp.weixin.qq.com/s?__biz=MzI4NTcxMjQ1MA==&mid=2247606076&idx=1&sn=e52f55e241ffcbe60224d7ff7472c073&chksm=ea5e3c374c4bda838aa9f962ecdcfe507f2771de85d1fc1427cb029a0fab6af175380da91422&scene=27&key=978d8ac09b04f4169406df5ab604a282d0d5b32ddf57784304401ce9e0c03b43cf6daf7ac74dbee18dbaed60de647afe6d989941e763f2012bc0ec9cb56fc3d82d3ab05c73da9fe2c07b7540fcb73e882f30048af697f81188bcc3fd4e6e286cc6b10275b005c11d71b4969d84ff8eb5f4c31a832903da685372c8603be3de79&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+10+x64&version=63060012&lang=zh_CN&session_us=gh_e99b34134b06&countrycode=AL&exportkey=n_ChQIAhIQBQgMOGzSn4pykXLAaQMNWxLuAQIE97dBBAEAAAAAALisIJ%2Fbjz8AAAAOpnltbLcz9gKNyK89dVj0Dm%2BSDg3qlSisBHgRun4L6sIgC8d1jnbsTsWgoP7JKiHrGUtWw7GTwhKoVx0ucipRCaDfHr9lNolQeaLq5S0FEqhm0RjPdj10hGvKfsbNg7LSE75OzqufTrEE6F3fO48%2B6DMXUOGFTXRTsoOP0tEfT7KFQ2SkjTnRNfUrL7ALcoNYoC1EbQBCLcGhAa2loeK0rIFyhtpfnhMGVQyhqEl73%2Bm1w6Gbk11QhAutSyB9e0EGJYgzmQ%2FMeUXjx%2BcGrt%2FTNt%2FK5u3dn9M%3D&acctmode=0&pass_ticket=iLDfRhEBMvAonWo1SFXr8wy6Womwswsw%2B7wVT%2BCIeGa1hxStAdGkO%2Fy8JpHuPMNa3%2BoUYy0Ro7xiHNWILrvJ6w%3D%3D&wx_header=0&fontgear=2&scene=27#wechat_redirect)
 
 零基础也能学渗透！关注我，跟我一启开启渗透测试工程师成长计划.专注分享网络安全知识技能.
 
@@ -3344,7 +3344,7 @@ Hope everyone can insist on their own ideals0基础学习心得分享。从一�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyMjE3MjEyNQ==)
 
-[:camera_flash:【2023-12-07 18:22:19】](https://mp.weixin.qq.com/s?__biz=MzkyMjE3MjEyNQ==&mid=2247486317&idx=1&sn=f606ceee1dbfbb0e9b9ed89bd2a05bf3&chksm=c0f9c24615f70c30a05b712da714f14ca832db20ba6c503d31c977d712d4504f6e69723f4073&scene=27#wechat_redirect)
+[:camera_flash:【2024-02-13 11:53:11】](https://mp.weixin.qq.com/s?__biz=MzkyMjE3MjEyNQ==&mid=2247486323&idx=1&sn=52c61cb1f834745d0672dfd47d60655c&chksm=c0ad69f3cd0a51f4bd64ddd889c325a145f0093e2bd32e4f6d58dc5f0fca7cefaaabe80ea6b2&scene=27&key=d97ff789397cf58d5482476524effe7188da863780355dc7c19e497eca358bff9a9114014a12d996c4b232097cb9f99f0649a7b83975700e9f94dd70ca968d513363bc2079240e2ca038324c538ddbd4ecf0426d3d1e2567fba98e089aac7e2f24cd95df8c63d64471331d314328acdb29a7d8cb784d0132cc90845d066f00f6&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+10+x64&version=63060012&lang=zh_CN&session_us=gh_0aa8f6bfaffd&countrycode=AL&exportkey=n_ChQIAhIQWFDI6jzPEjfbJ%2Fxf%2Bdj%2BNRLuAQIE97dBBAEAAAAAAIBLL0eZ6L4AAAAOpnltbLcz9gKNyK89dVj0rJ6F6f5pLjv1B%2BKpEy3mF7m0N6bgqutS6gBk4NrcLSvmxmVYS0LjEj4YgQofG4FigYJnNIKYt0fWe%2B0FwhCN9XsjObSuFQJnFFWPPFEWFkb5DkKAhpg%2FAkmC7W%2Bgsh1xof%2FVWogvxkHGwZgHdFCYEbsp4lL2QTr20ZyusxIJTVe5JavpuXBktCFq246sSghpBlYA4lmHwbSaS5krt8vUgyJI717zJlC4GTbPyvU2zzuwpIGYzFK5fafW0XZJWG9kk9mvc16JNNs%3D&acctmode=0&pass_ticket=iLDfRhEBMvAonWo1SFXr8wy6Womwswsw%2B7wVT%2BCIeGbDnwoz7Xm7%2FBPiVUhmF5IC8gL%2BWlOyopaMlSw6oLz7DQ%3D%3D&wx_header=0&fontgear=2&scene=27#wechat_redirect)
 
 一个在渗透的海洋里摸爬滚打的少年
 
@@ -3604,7 +3604,7 @@ axib的研究记录
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwOTE5MDY5NA==)
 
-[:camera_flash:【2024-02-12 09:30:37】](https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247492219&idx=1&sn=da68326a1b27d0d457e32dc5eebbddd9&chksm=c082dbbd218a0c6292a59a16596b73c1315624a88fc26b319c2440b366402f31bd4de8e9e050&scene=27#wechat_redirect)
+[:camera_flash:【2024-02-13 10:32:52】](https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247492243&idx=1&sn=9deb8bc83ad988fef24d908b985a89f2&chksm=c07d1151247bfea2135b3857bae7309f265be805c8c4384111e04c32757cad2383f55f3c6b8c&scene=27&key=a2847c972f830c41845e737c13e231b26e5a6e253e760390cbc7253d973a823eb8d0063ec4864a760c9d601a500e9e34b9276f8b7c5b5e17686b59a81ef944c2e84541d3b30739159092da15a0a67d7e79e12a5de6a91761d311fe40084ac47bd59869d4b66af0b06e3298315721ab60af19decf8a231203b2beb90c7c9d7c2f&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+10+x64&version=63060012&lang=zh_CN&session_us=gh_fa1e45032807&countrycode=AL&exportkey=n_ChQIAhIQpyGL24Su1hrguvDsy0OBWBLuAQIE97dBBAEAAAAAAN68OOZa0G4AAAAOpnltbLcz9gKNyK89dVj0kAc05aD0e1h3ZL%2BWus5iZHoT%2BbdO1ghIVPlRNjrqjT%2FSxDASNqcCRyunJLuAQD5Joj95eLHPl8VGQoBmVOAFgFiK2XWvqLXkVysoUE2jBCBaYl4NvaigtSjobzQ%2B9NvFLgDM%2BwffcTnvfYtyReX8%2FSCk1NmzYGFsEUnZ2%2FQ%2FCVp4Wc2DqeKO5JbWsHkrsiy%2FsbY%2FgP2tEOt%2F1jTv057aTXtBSa%2F4TostDZRxs%2BdYIOlLMVGOPZYjv2o0xS4345qzEK9AXOpIkcs%3D&acctmode=0&pass_ticket=iLDfRhEBMvAonWo1SFXr8wy6Womwswsw%2B7wVT%2BCIeGbHK3s5xxWIelxDq6HKJCDFqEswNimqHTlWa70Qn%2Faxkw%3D%3D&wx_header=0&fontgear=2&scene=27#wechat_redirect)
 
 安全技术相关，作者主页https://github.com/haidragon。
 
@@ -3864,7 +3864,7 @@ LoRexxar自运营公众号，分享Web安全、白盒代码审计、SDL、DevSec
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxMjYyMzkwOA==)
 
-[:camera_flash:【2024-02-06 10:12:09】](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247503941&idx=1&sn=bb63e43117a8136be760987db4a3f859&chksm=9a37af7a2efb18d7d9666db207b26fe0850c5250f24b87bdfde66e5f5ca4baf3337fb6d7f29e&scene=27#wechat_redirect)
+[:camera_flash:【2024-02-13 19:15:43】](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247503957&idx=2&sn=cc83414b41efaa566e4c8e5777060cc1&chksm=9a78a91e080d34ba8d2184a7b34823a1af80189fb216276f6883beac79c49834912c4314b008&scene=27#wechat_redirect)
 
 持续发展共享方向：威胁情报、漏洞情报、恶意分析、渗透技术（工具）等，不会回复任何私信，感谢关注。
 
@@ -4085,7 +4085,7 @@ LoRexxar自运营公众号，分享Web安全、白盒代码审计、SDL、DevSec
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4OTI0MDk5MQ==)
 
-[:camera_flash:【2024-02-12 08:06:49】](https://mp.weixin.qq.com/s?__biz=Mzg4OTI0MDk5MQ==&mid=2247490985&idx=1&sn=90b26855300f8b14f4a6d6a10763dde9&chksm=cedb91aecca1ad24666254eaf82b4e5464834c79dd4c7fa4073620858f15e0015450176a323c&scene=27#wechat_redirect)
+[:camera_flash:【2024-02-13 16:24:08】](https://mp.weixin.qq.com/s?__biz=Mzg4OTI0MDk5MQ==&mid=2247490986&idx=1&sn=60f41d8b5ca5fb485b67677faa728b6c&chksm=cea14e6fc8bc48b5ab356e33b1ea01158aec199ac6b0a1f3cf8fb4bea873c10f2671c33642ab&scene=27&key=5f77d834834efca1252d39a3f1510da37a832d77249c042407933b8c39e21b4f88296bbaa2a9a23e6f032f98f3a1630e45e472b437f6abdccd19e9923530b18c63a24519e5561217272f882b9d2cb7bb96fea665ae7e4a18bf79af79fb541adb14e02398a9a1c25a8bab86a1c03167915ada74cfd25372dbf9b273cdd3f0093e&ascene=0&uin=MzgxODQ4MjMz&devicetype=Windows+10+x64&version=63090819&lang=zh_CN&countrycode=GY&exportkey=n_ChQIAhIQCxmElTkSaoMNpWj3B%2FfkUxLgAQIE97dBBAEAAAAAAEtWMyR5CSUAAAAOpnltbLcz9gKNyK89dVj0tycUsS8Qknk8I5SncFbo3sOx60mBKYspbMo6yUl%2F5sXX1hnqTQ0Iy7FFgAMZnx8je5%2FMGqZw9ZNOuY9datEQNoWSYFePD3AKOgIETkki3ST%2BRZ9Z5qQJATf3SCnTbzDx%2BWq0dWRwTl2wVGgUri83UVDc2IPAYtcmV4%2By4ry%2FbIzWlWMmEB0WJ55DsFp%2Fr%2Fxmq4JQkIea6hzvNdPEl6z2T50f3cjxjPAycgd9O9WPyHm1sQMzTjgVyNzM&acctmode=0&pass_ticket=tfZwr6tH3d4xTkQ7SevEbsjXL%2BeCMhNBRivUzAaxW7Jrw7YtfST1z8FgicK7YVVlmu6qEqDhwKdrCIKOG17OWw%3D%3D&wx_header=1&scene=27#wechat_redirect)
 
 菜鸟也能飞
 
@@ -4410,7 +4410,7 @@ JAVA安全  安全攻防
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwODM3NjIxOQ==)
 
-[:camera_flash:【2024-02-10 20:34:19】](https://mp.weixin.qq.com/s?__biz=MzkwODM3NjIxOQ==&mid=2247497844&idx=1&sn=9a727756ff7e52f140d051199b07a822&chksm=c1d5104f044fa2354f1f969e101f822198680a0905468b380690d56638bc3cd6cda272d06ec6&scene=27#wechat_redirect)
+[:camera_flash:【2024-02-13 17:14:23】](https://mp.weixin.qq.com/s?__biz=MzkwODM3NjIxOQ==&mid=2247497854&idx=1&sn=d3bc98a2a58eda6727648b3f63dc2de2&chksm=c19611df5db4923bfa871f8cb012179aab6867548f6dcda7956db9064e57715dc9af66542a89&scene=27#wechat_redirect)
 
 关注红蓝对抗、Web安全、安全工具、渗透测试、物联网安全、安全开发、安全测评与优质内容分享
 
@@ -4423,7 +4423,7 @@ JAVA安全  安全攻防
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MTkwMTI5Mw==)
 
-[:camera_flash:【2024-01-08 18:50:17】](https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247483964&idx=1&sn=991bc0a6c5e4430a2f3756880c213909&chksm=ce0f0d5a76983b729ff783074d9e4db3f87c3606470a75035b6644fd34d9596c39a751d0165b&scene=27#wechat_redirect)
+[:camera_flash:【2024-02-13 17:04:07】](https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247483972&idx=1&sn=12814d90a634485abe41cd705505fcfa&chksm=cefee59ce1578a1dd0fc1282041f00acebdf0bd60322133eb508729f017611a400db2d312932&scene=27&key=200f9e9e1b7be3f4ff23466824f168177bd14c48c5cb12f8882e81836181aeded23f3d8d5122d94b01ac34b895496ebb5c44e6ed6339d177232c526c8fc1052feefbe515f395d7607f5f6ce14c26d4ca3cd5a728f22902e5c7f48a8855d6e3aedd8697008eefe129c0718e9517c381993f7db79ec52c8b6ae6e5730b08b6cd52&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+10+x64&version=63060012&lang=zh_CN&session_us=gh_361672e49447&countrycode=AL&exportkey=n_ChQIAhIQY3B%2FPrEXoQ1mzP69XGx40RLuAQIE97dBBAEAAAAAAM%2BRKOZYfoYAAAAOpnltbLcz9gKNyK89dVj0Y5YsFvTHhZi6sxbPTfvDfLYvcaoRyltUO%2F150xJet%2FPM2bbMvfQNRX3V73fSL2k6T6d9pQelx5A9r9IIkW3T09%2FWU9faQ%2F0Od6xNANbe5cG1Zsd6jGPmS3eAk%2B9I8OYq5QU9LXN8ILZg9AKOTsBuqZIdb5Q00upaXgW68G0%2Fek%2B3U84lGrXPvYmJILGVIXsVvshgtB96aIE7DUw8zO7joN5n1OmI48EMQGPScmlJchrqErwfmaAgc105a2Z0j%2FQ844WOgpdGPjU%3D&acctmode=0&pass_ticket=iLDfRhEBMvAonWo1SFXr8wy6Womwswsw%2B7wVT%2BCIeGb0BVb7HtFwiMHQO%2FLhy0bDgs19UcE773hCXKjGzm6MbA%3D%3D&wx_header=0&fontgear=2&scene=27#wechat_redirect)
 
 网络安全知识分享|渗透测试|代码审计|SRC|专注分享优质内容。
 
