@@ -419,7 +419,7 @@ VIPKID安全响应中心官方账号
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NDgxODU1MQ==)
 
-[:camera_flash:【2024-02-06 15:37:10】](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247500524&idx=1&sn=39590d2a0b902c52a6fdc98a3d1f04cb&chksm=ffdbd1d77715404a13d02583767b3005545389ff56098da725a0a3a882b88687b4f965701ac8&scene=27&key=978d8ac09b04f416fa4019ad01dfa9af11bcc0e141a16ecc1b20e3b6f99099bd3b670efd136e3b7cabb707ba820cf6958bd4efaa59cd49a4bfe892d7de935a474e592d56163ef75df4fdcc8a5bbbc58173c4597a2d29729efa6e25fd316f91e78f8e56e435909b7e44d0baedd84de66fbfbaa4207c91b93eb072e24616a2840a&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+10+x64&version=63060012&lang=zh_CN&session_us=gh_10df2c46d62c&countrycode=AL&exportkey=n_ChQIAhIQE37ybfSxH3xrW%2FFRAYS9xxLuAQIE97dBBAEAAAAAAAUvCzuLr2AAAAAOpnltbLcz9gKNyK89dVj0sSl%2BWQWqyhn1ZXzJsiT4SIytCk8VNphCEPHY5PKXCoKDm1jspR9MGjvqFifQQWZqh2I4gTdRSfrAj0wpQVWEXrctpJSVYn2n8yi4Aup2xMLGsJSkw%2FYRxVBapwACQMpAPtu3j4VgphNrGLqBQXXyqJICc6gP6ZHTQo6OGFwI468CnhMIh2KhRfwjbI0%2FyZpCM6tWB0RltX9Qzq2vdPh6llalzLG9U08NakZGN%2B5dPPlSaaJ4J7QJl4cclgygGt9qZaZHLelq3Mw%3D&acctmode=0&pass_ticket=UIWjyDrhiblSButkX%2B%2F%2BYh1jRZnrX8lADtcA7137gMLiJAlDl7ZYAtRIbgQ4eZo3I0iQb3ALZ3ONGOyn0jdchg%3D%3D&wx_header=0&fontgear=2&scene=27#wechat_redirect)
+[:camera_flash:【2024-02-14 10:55:04】](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247500531&idx=1&sn=2add6d24dc79496f1c84c78984ea02f0&chksm=fffe4be567d5d19987ee723646cf33b93eecb29c5f0ae6b21be33e941871df4df87786eae5b3&scene=27&key=d97ff789397cf58d47f4d16a30d69232f2f59872e1a356860bef4a3367654cfac32a901a0ef41d1191b52e24a47f77c70294e8d1a9a869a9893aeeb7eb16f77aea5c41ee4ffb8fcc50d9720ae837f09518c11b115a718db116145d32ec1e41ee17c85f5b6e7d44f1ed1b7458376bfbae5fb03d95dd13047c33725bda2b55599f&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+10+x64&version=63060012&lang=zh_CN&session_us=gh_71f097621668&countrycode=AL&exportkey=n_ChQIAhIQC6i%2Ff01ko0Fge558HqanqhLuAQIE97dBBAEAAAAAAL6MBZ%2BI5j4AAAAOpnltbLcz9gKNyK89dVj0OfsBXPhC5nsu0hVY5ruDVu73HhiR%2BoDjXjpH9Ya32JP8phBB8Zyf3%2F15v7%2B3q3P3gYOyIN9lDs10Hwh0y3%2B3LFEnsk1Ysgztql6RdBzI58zjJT19I2MCDor505eZYPiuifjPV%2BySKnkzaukox9tVm%2BmaDRS1UfuFLmFDGOB524aieldDehU3wu6v1tt2q5PjB6vJwPw48IeSxeV3SlRquVpYLQABb4gVm%2BiIIV2sIIQEEUfIne53S29C0KFoGu%2FTCeWmvgn4%2BX8%3D&acctmode=0&pass_ticket=iLDfRhEBMvAonWo1SFXr8wy6Womwswsw%2B7wVT%2BCIeGbc5gvSIoKi2E2qFsVIJblxwe4n97qvpd%2BJt7CjIujSkw%3D%3D&wx_header=0&fontgear=2&scene=27#wechat_redirect)
 
 为企业级用户提供高危漏洞、重大安全事件安全风险通告和相关产品解决方案。
 
@@ -510,7 +510,7 @@ https://security.kuaishou.com
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3OTAyODk4MQ==)
 
-[:camera_flash:【2024-02-09 10:52:09】](https://mp.weixin.qq.com/s?__biz=MzU3OTAyODk4MQ==&mid=2247488632&idx=1&sn=4326db18c8d9d0696585182c701bf25f&chksm=fcf258ccfc59fc74e46e4aa9f0bc52c7b5006fd9d1e9a50dd96f4bebcf14dd7485e9b1829155&scene=27#wechat_redirect)
+[:camera_flash:【2024-02-14 13:27:40】](https://mp.weixin.qq.com/s?__biz=MzU3OTAyODk4MQ==&mid=2247488658&idx=1&sn=b154a23b1febc09fe148f372b73cc9de&chksm=fc2641895d50fcd2fb607c8158f0c7974851a0e3b29638c395b86efdaf71d02c8dcff5fd1d76&scene=27#wechat_redirect)
 
 顺丰安全应急响应中心（SFSRC）官方微信
 
