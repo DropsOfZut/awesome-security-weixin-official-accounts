@@ -406,7 +406,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
 
-[:camera_flash:【2024-02-13 07:00:16】](https://mp.weixin.qq.com/s?__biz=MzUzNDg0NTc1NA==&mid=2247508509&idx=1&sn=86e270078730f335a48cba24df71a196&chksm=fbc57c97e306d29b9e3a1885d7eb95cfc68300eb21ea10c3a66de14d2e27e8738e419dc24d99&scene=27#wechat_redirect)
+[:camera_flash:【2024-02-19 08:01:11】](https://mp.weixin.qq.com/s?__biz=MzUzNDg0NTc1NA==&mid=2247508511&idx=1&sn=3f3bdb903acc8b4990be3d06df813201&chksm=fb08681ed65896160b69b387a088b9d547d9abd1a9ea4cdc80699d5b3783238206d36d199d14&scene=27#wechat_redirect)
 
 启明星辰网络空间安全学院以国家网络安全事业发展为使命，依托启明星辰集团多年的技术沉淀及实践积累，提供网络安全人才体系构建与信息安全技术及能力提升教育培训，为建设网络强国提供有力的人才支撑。
 
@@ -588,7 +588,7 @@ Covteam工作室，成立于2005年。是以西华大学在校本科生研究生
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODkwMDMxNA==)
 
-[:camera_flash:【2024-02-10 07:57:45】](https://mp.weixin.qq.com/s?__biz=MzUzODkwMDMxNA==&mid=2247574802&idx=1&sn=6b7a7dcebea4bb7fa3189a8bca27c133&chksm=fb46a24f4ce34a0393a0690ae242f3125ca7db5800b8f034fa3dd36d8a477c053a29ad042ef8&scene=27#wechat_redirect)
+[:camera_flash:【2024-02-19 08:02:40】](https://mp.weixin.qq.com/s?__biz=MzUzODkwMDMxNA==&mid=2247574816&idx=1&sn=aea47d937028f1f774cadd05a0f8d536&chksm=fb3de96704f9d904fb858089a7be2ee85cb2f072842368a1dce2e0a8bc36a771ed3b70396280&scene=27#wechat_redirect)
 
 百所高校、百家用人单位、百名尖锋导师，携手打造定制化人才培养模式，通过导师制职业规划和封闭式岗位实训，补足知识短板、提高实战能力，培养创新型、实用型网络安全尖锋人才。
 
