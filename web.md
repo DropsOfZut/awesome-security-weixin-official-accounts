@@ -1,4 +1,17 @@
 
+### [红紫蓝攻防实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNjQ0NTQ2NA==)
+
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNjQ0NTQ2NA==)
+
+[:camera_flash:【2024-01-31 20:41:05】](https://mp.weixin.qq.com/s?__biz=MzkyNjQ0NTQ2NA==&mid=2247492829&idx=1&sn=197c047f888471d34e0e960551b8cfa0&chksm=c35938b94fc8f76e611ca699acc167b4c344cefedcd0ee743a3d391251202abc8f8edd43863b&scene=27&key=200f9e9e1b7be3f43b373b9779f341cd22a0f09fbd7198d8d9492e83e5109c4fc2f378670faf66301185aa000d76b2faa6a322cdd2338278b0652e7bd9290f4b8c58c6692c7bb272c440ba9f6974c808ae19c1b676317025e483c190ca8bd99f0a1af3d9e2e1f342c193dc2a01ca4f0c310cc9a8bebbe1b2ec9d0232e00a07a7&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+10+x64&version=63060012&lang=zh_CN&session_us=gh_a4d6f110ffcd&countrycode=AL&exportkey=n_ChQIAhIQ7aNexyyMLH6sT7MWdrXz5RLuAQIE97dBBAEAAAAAAI5ICzmd8PQAAAAOpnltbLcz9gKNyK89dVj0C8h%2FCA0RymRy%2BRrv%2FzcUNnBdiB8XPvmZRb%2BUn7cGFdM6Y5M0q35gN%2BgqO8heXGy4ty3v0CBc21445eUP1troWTaQIB%2BXkOryb6hY6Lt6kpZGhvOKuXDD4eTEmp0Z9Nu8w9kKam%2BXn644cNz%2Bk12Y%2Biny%2BEKSC8Jd5ZRkCeTqTnM%2F9a42LlCLoRelHklIwMH6HxZpHq%2BucOkTcj7z1ReoXTDMv043x0vS5tLnaoUyOPt2p36nMhcLprU3U7dKDoFmYRxT9jtk4pg%3D&acctmode=0&pass_ticket=PBBSwsRlM73BY9FtLKxjgJr6tpFAUhQwbrlbAVPIBhvcdlL2f9EpiNNDBqfYw5NDAkEKN0HASM4ewQv9D3nnGQ%3D%3D&wx_header=0&fontgear=2&scene=27#wechat_redirect)
+
+专注于网络空间安全，让网络更安全。主要包括，安全研究、安全审计与风险评估、应急响应、安全态势分析、代码审计、白盒测试、渗透测试、安全文库。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_d8be83d728b1" alt="" />
+
+---
+
+
 ### [山丘安全攻防实验室](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MjIyNjY3MA==)
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MjIyNjY3MA==)
@@ -16,7 +29,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5MTYxNjQxOA==)
 
-[:camera_flash:【2024-02-18 17:30:13】](https://mp.weixin.qq.com/s?__biz=MjM5MTYxNjQxOA==&mid=2652903866&idx=2&sn=749e5d505bc82a9f9d05810a6af10dc5&chksm=bcbc463303eb47d8dd7109957c83d0bf3ca7982d2bc890823fce43e1fa87fb7833276ca9627e&scene=27&key=46e39672caee444a8171c366075f33fe6ff4d97888e73a6d53698e6bbf77d838fbca2db0ffd084a11c5d07f0f95ac6646906a3768122e2df99cd0b34c442a29541656648f3e3df33df181553fd9609e29f3835ffbdc0b9b1a35d315cf6c3b92508c6711f42061acd0167135673dd9cea2f988ec3efbf84e447b17b8bb85b5858&ascene=0&uin=MzgxODQ4MjMz&devicetype=Windows+10+x64&version=63090819&lang=zh_CN&countrycode=GY&exportkey=n_ChQIAhIQPMcQFXGICLDUQWk63Rk39hLgAQIE97dBBAEAAAAAADEaMYozZ1sAAAAOpnltbLcz9gKNyK89dVj0G7z8s%2FThLnl3dJzFeqUAWceYivtStqK2X11V45QeJN5JaA%2B5sFpXPtbGVD10WNCjERTXks64TssP3mCLBEf6C%2Fpkmfy1MgY8nzyGvhV%2Bipt9FYj2MnjPnbSnIX5%2FRDSUmcuKC9pC9dWiBKhVUTaNPMqV1Mkf64LRESgUjBUQL7tMVmNAPoavBvasf7WsbEVkSZvMX5bMw%2Fb58LGKxoPHXgbFaQXBGwHdNBMFi2VdNSGZgNb%2BylOG1gLq&acctmode=0&pass_ticket=4WGrP8KQEhTm3hIaEj7UZ5%2F5wRmsbxUGPnmGk4r%2BRD%2F5TimWzCgrrg9iO0rWYZ%2FqdzRgLUZ4gRPtYzEZ1snqaw%3D%3D&wx_header=1&scene=27#wechat_redirect)
+[:camera_flash:【2024-02-19 17:46:20】](https://mp.weixin.qq.com/s?__biz=MjM5MTYxNjQxOA==&mid=2652903903&idx=2&sn=05886b5651d93fec81a5cb43c6c3fc81&chksm=bcccf887063acb07ab56c5966a74eff3d77e2e6d2dd0151cbd7c0ad18b604819c7792edd8359&scene=27&key=d97ff789397cf58ddd2adc48cade3f4bebec6e9bb4397c94e8c56241e39abf3641c4371fd6d814e75b11de85fe21145e625cc50b75a0ffd43b5d1257be4d48e61f92029c3e9712d20b86cd2b4e631fb104e3deed2df7b5631bdb76b7ca86c2b493aea1b581fbd785664e00c17643b8100855ed564944e4d4b2ebc32708885507&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+10+x64&version=63060012&lang=zh_CN&session_us=gh_c4b3e568832e&countrycode=AL&exportkey=n_ChQIAhIQichW%2BfOQG02ceMmDtw4SDhLuAQIE97dBBAEAAAAAAH%2BQBsQu2xgAAAAOpnltbLcz9gKNyK89dVj0FzODfaqJtmo%2FLU7wQ9E29kXcvhEYPQ06D%2B%2FMk5h5pIFZKncmT4kwdfHwYvy%2FVZAlaeT6pyxWYqvFCuE9Gb9PnIyqxkQLfwQkcAatXAlPPtvO9MYWJ%2BM9dCec09ASU%2FuE7fpcw8QUxrPL258I7E1zEKpROdlPBjTFiUFSgla3CQE9Jftsm1CKewdQX6ODhqk3tuOUOrt%2FbR1fHYQuyUfB7uh9kgAh2ZslcG76acQxnhcFJAmQ7ATTfGyDrAv44FsFAbILrtzuSEo%3D&acctmode=0&pass_ticket=Gjx%2FjkDMD7v%2BkzhpUGe7vmB19OAAmXNPyulbZW8fibnJgmNZi5pwSeyuLic8pOiOKDt%2FEoLNTJ%2F3PaEO8IJ3Gg%3D%3D&wx_header=0&fontgear=2&scene=27#wechat_redirect)
 
 为广大信息安全爱好者提供有价值的文章推送服务！
 
@@ -55,7 +68,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3NjYzMDM1Mg==)
 
-[:camera_flash:【2024-02-18 08:31:07】](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247517525&idx=1&sn=428d0a8f1d6a30a32f845e4bbb36c24c&chksm=ea026ed596eb566f5910aad9451a1d36eef3e10229ed2e16036e65046984dd60abd9f61b0818&scene=27&key=fb4f774344962fc81a370f7b55debc36a29713a6314ab9b2513b3ec4a73ec08352cc3dd10f43ddcebbf5f300504fdae88ec772ea562427f6521bb7d46e7a60d39ed5c508e995ee16822ea73b58245c53ea2d7b8a40b84f75a41fb96a6280b745947dc7516c7cfcde0f7b7e1396b4928b2eff11bd3ddaf4802f4b37dd2e4b74da&ascene=0&uin=MzgxODQ4MjMz&devicetype=Windows+10+x64&version=63090819&lang=zh_CN&countrycode=GY&exportkey=n_ChQIAhIQhGIWp%2BK5%2BQragou92hB84hLgAQIE97dBBAEAAAAAACdSGQi64EUAAAAOpnltbLcz9gKNyK89dVj088CCaiWM1tzQXTRc9Yp8PeJ8ZVd9q4TyMUh0ry2%2BHlPm7j%2F2UVZmCfn9MuSPmR8kkHGCY3KVUpfReUg7XLQ7qMYdM2xj7OZXfPpcxl8joehdUIvjKLuNuF4xsOU68He4F0UeeTpHQpbeGEqFuPV74a777IgtnOHgmoZgXqafEUExMWrubWjskRaivbe5ug0nOPLtVqnwRk8zjP0HQnHpXSbL4MXlgmxaHLK5qZXxJQnZf3utDdvuVnlQ&acctmode=0&pass_ticket=4WGrP8KQEhTm3hIaEj7UZ5%2F5wRmsbxUGPnmGk4r%2BRD%2FpVprMy4xl8O2Qkli2ZA8Ax6MfP4tLfmxp5KQYXR%2FwNA%3D%3D&wx_header=1&scene=27#wechat_redirect)
+[:camera_flash:【2024-02-19 15:38:48】](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247517547&idx=2&sn=7895dd0c718dff3e4e046f283878eb02&chksm=ea75dbb0b903fdb31da155795eec097d7eeebf9df383dc41bd65b7607402c6956e0aa3594107&scene=27&key=46e39672caee444a66fde84a53016f79bd796283c901a8024023aba8c476a04e8c63d242f6c2f8454e6d4dd6381c250a36185e64959f55546d7950d901b6d1810d7b502015016b639484002886636da4cec0455b12ec34e312ff7723251d4fc7724c232e4c34c275fda16d7175d0f1d6e0c095c3dd8cfd1c913320a4bf172952&ascene=0&uin=MzgxODQ4MjMz&devicetype=Windows+10+x64&version=63090819&lang=zh_CN&countrycode=GY&exportkey=n_ChQIAhIQ5EWpTlUERh9pwBOLNlVujhLgAQIE97dBBAEAAAAAAIs1MHWZ2jkAAAAOpnltbLcz9gKNyK89dVj08YbHybomulqKq0skkUOGn%2BlOqTYBvIqriJwke1z6FWItvS%2F8PSYXsz4b6lgl3fOfFO6pvcPyiYcOFRinuyP1f1QCNcJFWYFA6ygMkqAoTsLZrkC4rpzZ2wDiE30FFeZED3AO2RT47x0ScNmbl5VK8oNtO7mmPhRjDLo%2FKTm5bN4WSbIbdbL1PlUQYQBbFBMhqmtWvcyk3V%2FYUVQvCv2sV4vF8awU%2FDFMKa98S47Qi4nB3anN1JXWAj5o&acctmode=0&pass_ticket=4WGrP8KQEhTm3hIaEj7UZ5%2F5wRmsbxUGPnmGk4r%2BRD9fwJAbSp2NSNaISSGaa0fiQHxKa0A8CzbOFrUxdfFv%2BA%3D%3D&wx_header=1&scene=27#wechat_redirect)
 
 火绒是一家专注、纯粹的安全公司，致力于在终端安全领域，为用户提供专业的产品和专注的服务，并持续对外赋能反病毒引擎等相关自主研发技术。
 
@@ -185,7 +198,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2NDgzOTQzNw==)
 
-[:camera_flash:【2024-02-07 18:17:33】](https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247500901&idx=1&sn=65118a36ed11ad835a2f99384839a59a&chksm=fdcb387026937d4d7c5084968f56c7d972024c44166df95d83f9a2ffe367425a394f79c71e0f&scene=27#wechat_redirect)
+[:camera_flash:【2024-02-20 00:00:22】](https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247500986&idx=1&sn=6cf8931d94d0f919b0c6390ff9fd3cb4&chksm=fdbbcd48e4892d5698f0baccc69d655b6b7ca966c30a20003f308ab850d9e32d600467e93094&scene=27&key=abe979c9663eced13a7b53a81215a997c8c45cf7b78451ed9ecabc7f74cef11eeba4e1f889e284a1ecdb25fcb60996b8bb5dadb62d56091c1fe996716343a9f029dd65e5d87a083ca836d33b1b13bdade153f712c0c92317980efad7f03ab960117f7f2a21bf54158bd8c8ce598a9c382dd76f361732ebf565ca607510fc85a7&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+10+x64&version=63060012&lang=zh_CN&session_us=gh_b273ce95df95&countrycode=AL&exportkey=n_ChQIAhIQgr6CMlX8cfGDg91%2Fdl1YbBLpAQIE97dBBAEAAAAAAAmhA7tl2EkAAAAOpnltbLcz9gKNyK89dVj0LT8nv4pdON0rQpzm11bZ8178Klt%2Fmvce42G0GZFR7HDEv4zz5%2FWdcpRhGgfsCKaGsZIU95G1AtogUA9SrFtlTTgmJhCxgMM0u4fAmBbL%2F0O%2Buf%2FDUEbO%2BTVLRt33KMxv%2FHlW9s41i2N0QNpFsuglpWP9lq7xDA8MtoBefTPuaIajGSt56FcwvN%2BIaeOrdm6VCAZt1L%2Fu9ay%2FRvmrGkeyy7lZJf5WMzpJFiAiRmt%2FO%2FnG7JDsEJFqsnwaTvUnww59ELFp&acctmode=0&pass_ticket=Gjx%2FjkDMD7v%2BkzhpUGe7vmB19OAAmXNPyulbZW8fibn6DMaYZPAmyzBk937q%2FTO2x7Ad%2Fm8urazTKaaww4EaKA%3D%3D&wx_header=0&fontgear=2&scene=27#wechat_redirect)
 
 学海浩茫，予以风动，必降弥天之润！
 
@@ -276,7 +289,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwMjQ2NTQ4Mg==)
 
-[:camera_flash:【2024-02-19 00:47:38】](https://mp.weixin.qq.com/s?__biz=MzAwMjQ2NTQ4Mg==&mid=2247492446&idx=1&sn=5e9772419920e957dac3ccd89f5fb7e5&chksm=9bbd7b23c5fa620201618e0ea1320e335be7a27aaa4ed2c97bc39e8e322fc1f1d73243d14f95&scene=27&key=b28810190f24852db76730c8a4cc1cad36babec85c3bbb42034010936a4921098c3fd700f1bda66971d713a488f4bfe773476127a55df0bd33d7c2dd34117083d445f6e5fedffb029ca52deef531c415e922b5339e0cb62f05f863af8cb376c351164c809088de7250dd186480d6ac3ad71fc6354e416a8a91ee3f35c5bf0099&ascene=0&uin=MzgxODQ4MjMz&devicetype=Windows+10+x64&version=63090819&lang=zh_CN&countrycode=GY&exportkey=n_ChQIAhIQPvhIOwc8Ce%2BA7E3mGvhJqxLgAQIE97dBBAEAAAAAAFonE4rlh7IAAAAOpnltbLcz9gKNyK89dVj0ZGbXfIfejQ7g3N8UMApJqDqklRXqM1V1ste2yxv9V1wEiPHYNeneohfNh1Hbjb%2BAY5Uj0kDrmytjmw7P0OlounrCXwoeMkqVAD6tMqai1X5V8f5ZpeKL82Pwd41qDOPVwOTmKGtLLQEnAQ4FVuxkLEZyQECafcs5SN8hI%2FCD1b3VSeA1s0UcKQP05H2qVzS2WsFS%2F94hHd0ObR1HGk6AWj1DavOKMrpiI6V6NxPI7AKUxDYv5DrJM09D&acctmode=0&pass_ticket=4WGrP8KQEhTm3hIaEj7UZ5%2F5wRmsbxUGPnmGk4r%2BRD8MZquBU%2FlXpuh3y8a%2Bv28UTnXmRCZxWl%2Bs1BDNcfwmIA%3D%3D&wx_header=1&scene=27#wechat_redirect)
+[:camera_flash:【2024-02-20 08:22:02】](https://mp.weixin.qq.com/s?__biz=MzAwMjQ2NTQ4Mg==&mid=2247492453&idx=1&sn=a3a2cfb4e242075e7fdeac9b5cf7e035&chksm=9b9b51bfd9866d0e46f9a164cdd47573cf94349e34fe694088f66511b2af8a0b3492b89a4148&scene=27#wechat_redirect)
 
 安全不是一个人，我们来自五湖四海。研究方向Web内网渗透，免杀技术，红蓝攻防对抗，CTF。
 
@@ -705,7 +718,7 @@ NGC660安全实验室，致力于网络安全攻防、WEB渗透、内网渗透�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MDY1MzUzNw==)
 
-[:camera_flash:【2023-07-25 18:22:16】](https://mp.weixin.qq.com/s?__biz=Mzg4MDY1MzUzNw==&mid=2247497639&idx=1&sn=593d5eb3a634761159d7cb9e091a94a6&chksm=cf735229f804db3f53ea168aad3d47aaf4ba12f3f17b528eb567a27bdab9a1f7d19f725f87ea&scene=27#wechat_redirect)
+[:camera_flash:【2023-07-25 18:22:16】](https://mp.weixin.qq.com/s?__biz=Mzg4MDY1MzUzNw==&mid=2247497639&idx=2&sn=549bd4a2bfc1ab9cfaefb87cdefe4dcb&chksm=cf735229f804db3f65797c01870936add2a7ff2b01aa9150624385a752d997adec67e9f8b72c&scene=27#wechat_redirect)
 
 连天教育旗下专注网络安全知识分享的平台，发布最新资讯，分享技术干货，交流解决方案，探讨最佳实践，与众多网络安全爱好者一路同行。
 
@@ -1082,7 +1095,7 @@ NGC660安全实验室，致力于网络安全攻防、WEB渗透、内网渗透�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzOTc2OTAxMg==)
 
-[:camera_flash:【2024-02-18 17:29:40】](https://mp.weixin.qq.com/s?__biz=MzIzOTc2OTAxMg==&mid=2247533497&idx=2&sn=ca9af2b3dd2de335f8b22ff9d0b55ca3&chksm=e8d47cfd8a78c7ffe692b852d3401f813cd355ce0b741b27193eb115ab0de8eb08e9b492aa0d&scene=27&key=5f77d834834efca1e60abe5d9ae0a30405ebed91ea7fc0b727bae1f005d4cd0154ee07d720982319d7c8701c6b2d8c127ffd7688b7be9bee783679fcf988b94f9cc71583131d191ef4211ab25521463270ad5839d325b7ed4dcacf2adc4ee7504fa1ec1a35811426ad07c7642f78757a35c560f4c6c9ef4b395f2ac96d4c79b0&ascene=0&uin=MzgxODQ4MjMz&devicetype=Windows+10+x64&version=63090819&lang=zh_CN&countrycode=GY&exportkey=n_ChQIAhIQxAIq4bBQRZiahNTOG0bSURLgAQIE97dBBAEAAAAAAH%2BZFjCRZMMAAAAOpnltbLcz9gKNyK89dVj0fc1m4v99coARXwAq6Iv9BMzfawVrUY3SkxZvxm22OO9Sl%2BOCMT6E51w3iboWldYM9lKeGwta6L4lrJptHuFh0DG3oWTj%2FXDaVnUdKsVrmdK6lnKo344%2FNarfmaoYFBk4lfxSzg7dDDjJQCcdweJRH0%2FoL7xqhlOhTr17IiYfV722P3lmsJHygeudUXaGwR7U2LsXnbnMOlZU8zVcHkKGSJODECb4%2BxCvvqRdYHiIYYwypTGNsn81sMlv&acctmode=0&pass_ticket=4WGrP8KQEhTm3hIaEj7UZ5%2F5wRmsbxUGPnmGk4r%2BRD9NNyMw7wk1U6WQgXZQQ1EZaZ%2FQrvoHGcNixTovfkbkyQ%3D%3D&wx_header=1&scene=27#wechat_redirect)
+[:camera_flash:【2024-02-19 17:57:45】](https://mp.weixin.qq.com/s?__biz=MzIzOTc2OTAxMg==&mid=2247533601&idx=2&sn=f34e12fb2884082bda7e35552fb6ab66&chksm=e8f1668a245ef28b11f788e3a3c0553101ba2801708606fb9957f4f371e454e28067efee9350&scene=27&key=978d8ac09b04f4166a005b6eb78c5c37c7bbc5b5f9b498cd30508186145273cb4a664a4d910c4a545fdaa78d4de529fd344394988a88f40b5ecefbf2a01878ffa2d6d94d0b4eb8568ff630bddf123fff24bd831a58f5e9e507cf6426f1e7984c2305fb28dccb068bf62b2a75f6786b46edc18795223f33c1138835bef5fe422b&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+10+x64&version=63060012&lang=zh_CN&session_us=gh_66ccbb1db194&countrycode=AL&exportkey=n_ChQIAhIQIMEJa6azfNp3Jwlhm37XqBLuAQIE97dBBAEAAAAAAGJ9BKNu31EAAAAOpnltbLcz9gKNyK89dVj0GOS96%2FLShY%2Bh0sYkJakpJy8CvxKduaMUEov7ym8wNnQH9C%2F4q0buGCCHvz4Kx4BMRztZPcR%2F9ZwVjWz3mR2zi9pdahpS0Yz%2FsLSTiDgTeRTt3iGo2FK%2F33ubI1AjNw9ongzGfg6q6iG%2BpNqXzr1BeIIKDl9Ifv7kpf2I0UdAE7%2BoBd1xbI0VNoabbD0z5mNuWtMzMSAARAn549CZ%2BJ%2BtneOv3qobkTb2lbxogiBqk4Q4wdU%2FadayVDyeNCYFln0R7eB6YDy1WNY%3D&acctmode=0&pass_ticket=Gjx%2FjkDMD7v%2BkzhpUGe7vmB19OAAmXNPyulbZW8fibkMMWOKUelAHxCuvzPYwLh0mKJmXkpGr5np1Qm3qSO19w%3D%3D&wx_header=0&fontgear=2&scene=27#wechat_redirect)
 
 深入专注智能汽车网络安全与数据安全技术，专属汽车网络安全圈的头部学习交流平台和社区。平台定期会通过线上线下等形式进行一手干货内容输出，并依托丰富产业及专家资源，深化上下游供需对接，逐步壮大我国汽车安全文化及产业生态圈。
 
@@ -1433,7 +1446,7 @@ SK安全实验室专注于web安全、移动安全、代码审计、漏洞分析
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MDU0NTQ4Mw==)
 
-[:camera_flash:【2024-02-09 15:00:15】](https://mp.weixin.qq.com/s?__biz=Mzg4MDU0NTQ4Mw==&mid=2247516446&idx=1&sn=b09f1c5b2f01919e1dc7df525b079a7b&chksm=ce5dfb0621da71bb4623db9fc3b6e641d8d80a7efe3fff2d6b1d9fd970ed447fe8de03ee73e9&scene=27#wechat_redirect)
+[:camera_flash:【2024-02-19 15:56:55】](https://mp.weixin.qq.com/s?__biz=Mzg4MDU0NTQ4Mw==&mid=2247516467&idx=2&sn=0d95de9b133528786bafe27f2b04617d&chksm=ce58d68a58219b257cb292d96c8ebb5040fb1aae52c6affe7f7565ea2da5d3b7b7674d99eb4f&scene=27&key=5f77d834834efca16eb22d5e4f55ce176def8aebb6c850e1b971e3ce1db5931af4f616b31d114d2630382253a18372398141a5a0a262d52b270a1d3932aff79244bd82ab5075b381b26b32a4c052b73e797182715c964c42f8350f707f076e23c492448a9e874bff9baed944cbf0a323a709def9910922408e7e19b11145361e&ascene=0&uin=MzgxODQ4MjMz&devicetype=Windows+10+x64&version=63090819&lang=zh_CN&countrycode=GY&exportkey=n_ChQIAhIQZMxxor9WCy7aMuu9WKEYdRLgAQIE97dBBAEAAAAAABUtIkEdZcIAAAAOpnltbLcz9gKNyK89dVj0QPxEVaWIKBttnRG32eRCLH%2BNbfsW30NUpnHDSyUx7fHRGPhqv9Q1rEzskrZQ82ME2LkbtBPaBNSMRN2pNRDMAQrUMyp3%2FEmMV9tMEpmmovoGK9fJ6SxS%2F7qwjUuzJDRYLPl8c6NEkNyamBtQ%2FFUSssUUIGpkNEOy4sAejH%2FD%2F%2BvSywiQjMRfX2BgNpjv43mtggRwEyarwF0vbOp5X60a4Y8UikbkdJFe4IHTnhGFO1nNrS2HkLSGAvMB&acctmode=0&pass_ticket=4WGrP8KQEhTm3hIaEj7UZ5%2F5wRmsbxUGPnmGk4r%2BRD9ueSWw8%2BXPzDAKhyaOYzNiuLiowwJji2UmFn8JPXJ46Q%3D%3D&wx_header=1&scene=27#wechat_redirect)
 
 中国网络空间内生安全技术与产业联盟，简称“CCESS联盟”。CCESS联盟是在自愿、平等、互利、合作的基础上，由国内网络空间内生安全领域的相关企事业单位、社团组织、科研院所、高等院校等自愿结成的开放性行业合作组织。
 
