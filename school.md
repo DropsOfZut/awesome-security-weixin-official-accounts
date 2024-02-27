@@ -315,7 +315,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMzAyMDAwMQ==)
 
-[:camera_flash:【2022-08-15 17:00:45】](https://mp.weixin.qq.com/s?__biz=MzkwMzAyMDAwMQ==&mid=2247503419&idx=2&sn=25fc2f960168a1fbb23a3601a49c3401&chksm=c09e22b5f7e9aba39860320fcfae014f660d4ac53e2ea5dee17b3c388176cb2b554e6be17680&scene=27#wechat_redirect)
+[:camera_flash:【2022-08-15 17:00:45】](https://mp.weixin.qq.com/s?__biz=MzkwMzAyMDAwMQ==&mid=2247503419&idx=1&sn=0ba82da600c5c748b6967ca6d21982a5&chksm=c09e22b5f7e9aba3ce2d6b886a742a63f079dedc97665dc8b82ec45a6a3b39fd6290147d1ca7&scene=27#wechat_redirect)
 
 网络安全服务、技术特训、技术咨询、渗透测试服务
 
@@ -419,7 +419,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyNzU3Mzg2NQ==)
 
-[:camera_flash:【2023-12-11 17:32:35】](https://mp.weixin.qq.com/s?__biz=MzIyNzU3Mzg2NQ==&mid=2247486919&idx=1&sn=843a303ca671d0562e05c2c82964ba87&chksm=e85e64c1df29edd7177a679088adad446de83b8350b00582538d7006fae9bc7b7c1064e38f12&scene=0&xtrack=1&key=2902f013f58190ec7893afd3584f73c0d0da46a345465868fcf85b7a511029d47703db52992a6181d7e3e38c7f4fb8ecbf343e385274ac2bb88d591ea61f23a5f44de3bf28b7db621a2f6af3435644bdb3bef6a6769fef0d074789c43170860c84969528beac956dd0e8eb2c9783d90eacaa94bc289704231d414a23676de3a3&ascene=51&uin=NTY2NTA4NjQ%3D&devicetype=Windows+10+x64&version=63060012&lang=zh_CN&session_us=gh_a6ba8f92d07d&countrycode=AL&exportkey=n_ChQIAhIQhnpBGa%2B2sQiaW5j%2F7XoJzRLuAQIE97dBBAEAAAAAAGFfN7coD7oAAAAOpnltbLcz9gKNyK89dVj0y2oouFJuSDo1H6NcR7bVvacbPs33AxgtHKrWvYwYW29ArDTWzcMFtSO%2Bou2exTbyyESMrdng7Um%2BCJetmOOJHqvXYkysRsRY2edAv9%2BnfEHddt54352HhP4tpRhDoRQXR7jk%2FPx9eg%2FT%2B%2FFuJ8XLni0StdT%2FdpdZPJYYm0ggLpV7CjltZcYOPkEHTl2Z52HU%2FJJ%2FWQAW1o5rAtygoW2yQO4UgDWfH4pBYe65mDHgAVOuZTepSfvt6c2sRHoWUuelclwd9VDZmEQ%3D&acctmode=0&pass_ticket=BgbSwfNd1zjhOeNndgM%2B837PER3yDFOkOKAtIBgfwnWnVWH2mJNcBRP5nMG0TQZ%2B4tdxZ754iL%2BD4RISSUr3lA%3D%3D&wx_header=0&fontgear=2&scene=27#wechat_redirect)
+[:camera_flash:【2024-02-26 17:30:23】](https://mp.weixin.qq.com/s?__biz=MzIyNzU3Mzg2NQ==&mid=2247487060&idx=1&sn=674b4717a13dc666394085c6fa650c94&chksm=e9b792deb3ec4aee3f0a2686a6aab343787a8fdf64a0bc4b7b0e24eed5ffe6544bc47f067551&scene=27&key=a2847c972f830c417a1b170b8071b99a1e4b8ff385be0a3a74b60552f431882bdeab5d62e6fd910406d24d81d48963a2ca28d180c7f19130104f822aa2fb5f02ad3ea985219c0e53067676669be55385a603e660bbeb942e65690750398fc358e406f285578774f81f046782c1b17684f5a5629a58045d536b9d60bf80f61a06&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+10+x64&version=63060012&lang=zh_CN&session_us=gh_6084daba38de&countrycode=AL&exportkey=n_ChQIAhIQBfBz3jLbktdb1WKIWi%2BeTxLqAQIE97dBBAEAAAAAALyfKt7uVAIAAAAOpnltbLcz9gKNyK89dVj0dMnDSyIgSSsiCp0miikjCK0OXOITirMio4UDjK%2FXB1lcCSzmfJ7aO1Thrp2EfXjnAlE4IAUSPpBEM1Fb6rC63388H2N0rtuUrVxhr9wIbYiMdjTyWtNEH2OCJLwzTJJ2qc1XEFqfZoV7fgOm42MZDvZ5ulDetbIbL9eVddehMRNyWHuBFCaxpyM5KscIlxS8R62PckGxuKhoVHm%2BZrUqEektOC7m%2F4EilbocohvoUA6lYwuEGkLbNZSfLCMF544JchzXqQ%3D%3D&acctmode=0&pass_ticket=JRrSvFzQLYvhVCehHt3PjayQhu7UlIC4VqjSM0bJZlwHAjS2VoSA3dcWxiFvXGH90n1iouHa6RPDQxIxl6qfCA%3D%3D&wx_header=0&fontgear=2&scene=27#wechat_redirect)
 
 网安学院拥有专业教学服务、就业指导，课程配套靶场实战平台（www.hetianlab.com），学员学完就练，切实提升实践动手能力；课程涵盖Web安全、软件安全、网络安全等网安各个相关方面。
 
@@ -640,7 +640,7 @@ Covteam工作室，成立于2005年。是以西华大学在校本科生研究生
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5NDczNDc4NA==)
 
-[:camera_flash:【2024-02-20 11:47:22】](https://mp.weixin.qq.com/s?__biz=Mzg5NDczNDc4NA==&mid=2247494562&idx=1&sn=cbd6f80a237a4440e86cb01eb72e8f48&chksm=c1f80125c13c63baf7eb69791459ff3223cb76abe215e36ff7f55347b1bc848cbe28e2066f54&scene=27#wechat_redirect)
+[:camera_flash:【2024-02-26 15:56:24】](https://mp.weixin.qq.com/s?__biz=Mzg5NDczNDc4NA==&mid=2247494583&idx=1&sn=cd230ce41175ef1c900dd61c10f6231f&chksm=c13dd0111e17b12b1ea5ef572e938c68ddc9ca01d0938470cb70316c85a233ba18e187d76e55&scene=27#wechat_redirect)
 
 浙江大学网络空间安全学院/浙江大学网络空间安全研究中心
 
