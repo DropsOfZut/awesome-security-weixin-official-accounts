@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1NzYwNTMzNw==)
 
-[:camera_flash:【2024-03-01 07:34:58】](https://mp.weixin.qq.com/s?__biz=MzI1NzYwNTMzNw==&mid=2247521284&idx=1&sn=a5921fd74b5b893bd4a0614446dc406c&chksm=ebec57c94630881578703bf62fd5f567201452c02841b924067c84fa27aa251ad8f130bda3d2&scene=27&key=58349ff90672df98956875e97c9c90164bbf86158671898a31a506031925db627ba50d4fe808a98edbd9ecb53576ebc9f539b1f4e8b11e5c544a1193607699e37090b29a627013aebb57799174db42b9942088cbc16fd799d6fa30d404b68a910920c5294b8f4a862c7727aafb4a5787b8c8eeffebb7d0e743cc419a81373e7a&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+10+x64&version=63060012&lang=zh_CN&session_us=gh_262d08c8f1ee&countrycode=AL&exportkey=n_ChQIAhIQ%2FvlfAAVkWcMVsmQizFVxcBLuAQIE97dBBAEAAAAAAP12BRrFqqgAAAAOpnltbLcz9gKNyK89dVj06ju5RKzObGvK63nRKkdkGf2Iu%2B5IXCjzUHB4XoD%2FeY5gdPJ%2FWeHgCTQE7CqOZr5KOhNpe116%2B1UysLp2ay%2Bso7sn6VN5gXdRgwbDn%2FvJLRTnpa3JjSDn8dtd89VaLJFaCUAZpIfEzziO%2FfODO1WuBudqL9CPTpR8%2BVUDuF3qcp6vMIPlBgvD1V5cVvcS6kAd%2BxQQQcLMYEDUz7n8ZWy0pvJcn%2Fyb0%2FSg9CcgLPDnVe5NlrZXu8FeFDwvKm7yWjsZ8YFvIH%2BRzts%3D&acctmode=0&pass_ticket=rGxaOUdR5FbsY60AtMc%2B8giKGGYeU5Gfrzx9TdcaLDvpagbqL2np0UE%2FACIeCBJdTo6MFNOLOomV2gYXjaz27g%3D%3D&wx_header=0&fontgear=2&scene=27#wechat_redirect)
+[:camera_flash:【2024-03-04 07:36:22】](https://mp.weixin.qq.com/s?__biz=MzI1NzYwNTMzNw==&mid=2247521402&idx=1&sn=c2b16c12ecde6167878b1d619665f787&chksm=eb1e8d3a42af88940603a43be42027617a4812fec869251279b8e1bc6645bb3334bef08d2164&scene=27#wechat_redirect)
 
 聚焦数据治理，数字化转型，数据中台等领域专业知识总结和实战分享，做你身边最有价值的数据号！
 
