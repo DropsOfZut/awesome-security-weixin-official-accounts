@@ -42,7 +42,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1NzI5NDM4Mw==)
 
-[:camera_flash:【2024-03-06 08:00:39】](https://mp.weixin.qq.com/s?__biz=MzI1NzI5NDM4Mw==&mid=2247496893&idx=1&sn=bad8bcee56b9831f8b02126ebef260af&chksm=eb112327b03614b723f7b9d8ca3b23a89ec4692e43ea4bb337fe9a7c7bf8c651f6effc52eb21&scene=27#wechat_redirect)
+[:camera_flash:【2024-03-08 08:00:22】](https://mp.weixin.qq.com/s?__biz=MzI1NzI5NDM4Mw==&mid=2247497003&idx=1&sn=89cd956c74a78e007f42e8891be245f1&chksm=eb9b2918133de452651ec3e8c0b82c849a4b0ac3a6f1633d7e62a8b9bf881fdaf4ed0e87254b&scene=27&key=200f9e9e1b7be3f4019a7d01cedcaadff09ecd440edbc096b2e1de4e50d6ae6092eea2a4becd0412aa88ae16cf5e2edd08330f8df01c051a8b05a6d97e6e87e5a7b18fb4f2c298af1b94be69278f9fd19ef4b9f34372b2ba84768c29fa12a37427c0ff86bec65e0c116371ba5928f0b16b6c44ca9f8d3a0fc0f3b648949f9f25&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+10+x64&version=63060012&lang=zh_CN&session_us=gh_6e84ebf77454&countrycode=AL&exportkey=n_ChQIAhIQ0qECZR3LtDgptb0WmTrSRBLuAQIE97dBBAEAAAAAAEIBNYpm5loAAAAOpnltbLcz9gKNyK89dVj0pnmDgSdUfVXvDvnu42%2FbBiQmyC%2FxT%2FioaMl8jy7vxbNCL7X%2B712XfFi7AbPo0sRENRCE8qtjwGQqeFP%2BqguwmisW%2BFykzJJjWUHfnZ4ZCQlDUj85I6cvLJHFFERi4ryVfYaj%2FcKfqEH7mU%2FPcBQukUFnq8SEF1fO9fuv3W2jtpx7HZrRajL%2F45UiXFZqruxGvXCC49nNgiCu32doZFnG007pbsvOUfVbif0pSq4Ydd%2FDAIfHzYuM2bjovlMJh%2Fw%2FdxV4vO0nDhU%3D&acctmode=0&pass_ticket=GcZDmc7LXh6B3na4J3L9CpFKLtCeB43wdgUwDyKW%2FsvS%2BAVt1FrQW%2F1tc6KsSU0CQZT4O54Kmf4ngfDN6ndoAQ%3D%3D&wx_header=0&fontgear=2&scene=27#wechat_redirect)
 
 Docker中文社区旨在为大家提供 Docker、Kubernetes 相关工具及前沿资讯信息，方便大家了解学习 Docker、Kubernetes 相关容器技术。官网：dockerworld.cn
 
