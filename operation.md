@@ -120,7 +120,7 @@ BAT 技术专家分享开发、架构、运维相关干货！
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzIwNTY1OA==)
 
-[:camera_flash:【2024-03-14 10:36:08】](https://mp.weixin.qq.com/s?__biz=MzkxMzIwNTY1OA==&mid=2247503650&idx=1&sn=9d4387e31a81150af74359304f7a2d1c&chksm=c0f0c4649d53cb1084557d124e74a9e216b9585f976056fbeb263e363764b7a0d7c4fedf25be&scene=27&key=a2847c972f830c41f6dfd00a4b66dd0c34d5627cce0046dad58c7c7e8d63a1b36d0c4b98296c674c1a76e109c1dfcff71d2fd5e99991a11ef5459ecbd8d1670ce1aa5ea848cb1e95a54991eb932124715ceb35d35126d5b7567f583cf4bb03f346449bdbafbd37577d70c93360e710f66632aad0fcfbfd698704ac67dcead9b2&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+10+x64&version=63060012&lang=zh_CN&session_us=gh_b902de9201a8&countrycode=AL&exportkey=n_ChQIAhIQb7I4mbFUBJl7mm4%2FTs%2BEHxLfAQIE97dBBAEAAAAAAJZGAxFXissAAAAOpnltbLcz9gKNyK89dVj05OaGyYq99sXl02hrqlKsF5%2FBFeBYytbMg4DwSbYC%2BUBjIbfJ3YbXGlx2nJw5ZIr51DiWcd99kRclHyXLYPzuvO4frTL1T6SbCpUmHnzpO%2Fk677QOkx7uZCC21jxTqvJJkCVKuaNLpTkAecqcSf0FR91D6BAA1S%2FgmsLEB9OAkvd105yUoBa4dc59DW9VeZVcanwJTAXunqTSnxr87sPkyq6tMTY6KomRJKxbIpg7t9g%2FSgiD6x9BMZc%3D&acctmode=0&pass_ticket=B1d4FHEeFq9kAEleZzDMJTRikMv%2FSogD8NJTkoveu0tqHtQiHIIfk9LNmcMqcbfF4UafvG%2FJnWoHc3GpiKWLGg%3D%3D&wx_header=0&fontgear=2&scene=27#wechat_redirect)
+[:camera_flash:【2024-03-20 14:52:55】](https://mp.weixin.qq.com/s?__biz=MzkxMzIwNTY1OA==&mid=2247503689&idx=1&sn=f6dc1f97795737c362033a747e8f3518&chksm=c0479708a612359f42cfcfec8abee993c967c2d1406bf1d413501c772b7cf998a640495174fe&scene=27#wechat_redirect)
 
 发布关于kali相关文章。Debian Centos等操作系统的安全和运维。以及树莓派 ESP8266 DIY单片机等相关安全领域的文章。旨在掌握技术和原理的前提下，更好的保护自身网络安全。反对一切危害网络安全的行为，造成法律后果请自负。
 
