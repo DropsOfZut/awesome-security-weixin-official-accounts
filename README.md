@@ -2,7 +2,7 @@
 # awesome-security-weixin-official-accounts
 网络安全类公众号推荐，点击分类详情可快速查看微信公众号二维码
 
-本项目共分为18大类，收集公众号1569个。
+本项目共分为18大类，收集公众号1575个。
 收集优质文章在[微信聚合平台](http://wechat.doonsec.com)展示。
 
 :chart_with_upwards_trend:【1/2/30】=【原创数量/发文数量/统计周期最近n天】
@@ -223,7 +223,6 @@
 ## [安全公司类](/org.md)
 
 *安全公司官方微信*
-* [安易科技AneSec](/org.md#安易科技AneSec) : 安易科技（北京）有限公司愿景是让客户的云原生安全更容易 我们专注于建模现代云原生应用全生命周期，提供基于智能自学习的零信任安全解决方案。自主研发洞见云原生安全平台对云原生应用提供预防、检测和响应自动化，保护云编排架构和工作负载的自适应安全。  [:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMTI3ODUxOQ==)
 * [四叶草安全](/org.md#四叶草安全) : 发布四叶草安全最新动态，洞悉网络安全领域热点事件，剖析黑客前沿技术  [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5MTI2NDQzNg==)
 * [绿盟科技](/org.md#绿盟科技) : 绿盟科技 官方微信  [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYyMTM4MA==)
 * [默安科技](/org.md#默安科技) : 基于左移开发安全（DevSecOps）与智慧运营安全（AISecOps），帮助客户构建基于云的下一代安全体系。  [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzODQxMjM2NQ==)
@@ -284,6 +283,7 @@
 * [灰度安全](/org.md#灰度安全) : 灰度安全成立于2021年6月，是国内安全风险评估自动化的开创者。公司以“让安全价值看得见”为使命，坚持通过自主研发和创新，不断提升公司核心竞争力，致力于成为一家持续创新的安全公司。  [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NjY1NzM3NQ==)
 * [塞讯安全验证](/org.md#塞讯安全验证) : 国内攻击者视角安全度量验证平台开创者，致力于用安全验证技术帮助客户365天持续评估自身安全防御体系效果。  [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0MTMzMDUyOA==)
 * [常行科技](/org.md#常行科技) : 常为而不置，常行而不休  [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4NjMwMzI3Mg==)
+* [安易科技AneSec](/org.md#安易科技AneSec) : 安易科技（北京）有限公司愿景是让客户的云原生安全更容易 我们专注于建模现代云原生应用全生命周期，提供基于智能自学习的零信任安全解决方案。自主研发洞见云原生安全平台对云原生应用提供预防、检测和响应自动化，保护云编排架构和工作负载的自适应安全。  [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMTI3ODUxOQ==)
 
 
 ---
@@ -783,7 +783,6 @@
 ## [个人类](/person.md)
 
 *个人、技术分享*
-* [有恒安全](/person.md#有恒安全) : 安全混子一枚  [:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NDU5NTc4OA==)
 * [HACK学习呀](/person.md#HACK学习呀) : HACK学习，专注于互联网安全与黑客精神；渗透测试，社会工程学，Python黑客编程，资源分享，Web渗透培训，电脑技巧，渗透技巧等，为广大网络安全爱好者一个交流分享学习的平台！  [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5MDU1NDk2MA==)
 * [天黑说嘿话](/person.md#天黑说嘿话) : 分享一些无关紧要之事  [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTQ5MTAzMA==)
 * [红队防线](/person.md#红队防线) : 没有章法，便是最好的章法  [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0OTkzOTc2Nw==)
@@ -1130,6 +1129,7 @@
 * [零攻防](/person.md#零攻防) : 哟，我等你等到花都谢了！  [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDUzNjk4MQ==)
 * [HelloHacker网络技术团队](/person.md#HelloHacker网络技术团队) :   [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NzY0NDY5NQ==)
 * [棉花糖fans](/person.md#棉花糖fans) : 棉花糖的粉丝们的聚集地，这里会更新棉花糖瞎说的话  [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyOTQzNjIwNw==)
+* [有恒安全](/person.md#有恒安全) : 安全混子一枚  [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NDU5NTc4OA==)
 
 
 ---
@@ -1347,7 +1347,10 @@
 ## [其他](/other.md)
 
 *杂项*
+* [奇点威胁](/other.md#奇点威胁) : 专注威胁情报挖掘，涉及网络安全和现实斗争，分享好文趣事，推荐好用工具。(今日割五城，明日割十城，然后得一夕安寝。起视四境，而秦兵又至矣。然则诸侯之地有限，暴秦之欲无厌，奉之弥繁，侵之愈急。故不战而强弱胜负已判矣。至于颠覆，理固宜然。)  [:chart_with_upwards_trend:【2/35/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDUwNDY4MQ==)
 * [GoUpSec](/other.md#GoUpSec) : 升华安全佳，安全看世界。GoUpSec以国际化视野服务于网络安全决策者人群，致力于成为国际一流的调研、分析、媒体、智库机构。  [:chart_with_upwards_trend:【0/35/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNTI2MTI1NA==)
+* [道一安全](/other.md#道一安全) : 专注漏洞复现，漏洞分享，不定期分享1day/0day漏洞  [:chart_with_upwards_trend:【11/22/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5OTMxNjkxMA==)
+* [重生之成为赛博女保安](/other.md#重生之成为赛博女保安) : 我重生了，上一世，我被甲方歧视，被蓝队殴打，还要给客户种菜浇花，这一世我要夺回属于我的一切，关注我 倾听我的复仇计划^ ^（发布内容：网络安全、编程知识、科普、生活类内容，总而言之是一个业内人士的自娱自乐）  [:chart_with_upwards_trend:【14/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxOTQ1OTY4OQ==)
 * [美亚柏科](/other.md#美亚柏科) : 国投智能全资子公司，国内电子数据取证行业龙头和公共安全大数据领先企业。  [:chart_with_upwards_trend:【0/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTU4NjgzMg==)
 * [工业安全产业联盟](/other.md#工业安全产业联盟) : 联盟旨在搭建政府、产、学、研、用之间的交流平台，推进我国工业安全产业发展，保障关键基础设施安全稳定运行，支撑中国工业健康可持续发展。此账号用于发布联盟成果、专家视点及工业安全前沿动态等内容。  [:chart_with_upwards_trend:【1/16/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MDk2NDA0OA==)
 * [兰花豆说网络安全](/other.md#兰花豆说网络安全) : 网络安全技术交流与思维碰撞  [:chart_with_upwards_trend:【12/13/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3NzM5NDA0NA==)
@@ -1356,6 +1359,7 @@
 * [SCA御盾](/other.md#SCA御盾) : 我们的公众号每日推送最新安全漏洞复现文章和POC脚本，并提供各类Python脚本。您可以在这里获取全面的网络安全资讯和资源，提高安全意识和技能，同时与其他安全爱好者交流心得，分享经验。  [:chart_with_upwards_trend:【0/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzNjYwODg3Ng==)
 * [信安网络技术](/other.md#信安网络技术) : 计算机软硬件及辅助设备批发，计算机及办公设备维修和销售，软件开发，信息系统集成服务，大数据服务。  [:chart_with_upwards_trend:【0/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDUxNTQ2Mw==)
 * [一个不正经的黑客](/other.md#一个不正经的黑客) : 以黑客之荣耀，执0day之利剑，击溃所有的防护，势必划破无尽的黑暗！  [:chart_with_upwards_trend:【3/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwODI1ODgzOA==)
+* [表哥带我](/other.md#表哥带我) : 一条咸鱼  [:chart_with_upwards_trend:【3/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NDg2NTM3NQ==)
 * [秦国商鞅](/other.md#秦国商鞅) : 一切姻缘皆具有相待性，这种相待性是一种凑合性，也是一种绝对性，缘起缘灭，恩怨是非，都付诸笑谈中！！！  [:chart_with_upwards_trend:【4/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NzAwNzA4NA==)
 * [安全绘景](/other.md#安全绘景) : 致力于0/1day、红队攻防、渗透实战等研究和分享，在这你可以收获到一些poc、技巧。欢迎师傅们来扰，祝愿师傅们天天高危！  [:chart_with_upwards_trend:【3/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNzYxMDQ2MQ==)
 * [安全攻防屋](/other.md#安全攻防屋) : 安全攻防屋是一个热爱网络安全的团队，致力于web安全和车联网安全。我们团队有年轻热情的小哥哥小姐姐，欢迎各位师父们的指点和加入~  [:chart_with_upwards_trend:【3/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNTU3MjA3OQ==)
@@ -1368,6 +1372,7 @@
 * [T0security](/other.md#T0security) : information security  [:chart_with_upwards_trend:【1/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0MDQwMTA2Ng==)
 * [天澜实验室](/other.md#天澜实验室) : 观水有术，必观其澜！ 专注于感知国内外常见系统的漏洞态势，对漏洞进行分析、复现、武器化形成。涵盖漏洞复现、攻防演练、应急响应、工具开发等知识内容。秉承“没有网络安全就没有国家安全”的宗旨，热衷并服务于网络安全事业。  [:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyMzU3MzcyNQ==)
 * [Zacarx随笔](/other.md#Zacarx随笔) : 更新日常学习进度，学习笔记，学习资源。  [:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMDU5MzY0NQ==)
+* [APTHunter](/other.md#APTHunter) : 取证技巧分享、APT样本分享、APT技战法追踪  [:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MjgyMjg0Nw==)
 * [蚁剑安全实验室](/other.md#蚁剑安全实验室) : 专注于网络安全技术分享，漏洞情报、漏洞复现、渗透测试、src挖掘、应急响应、逆向、安全开发、红蓝对抗、内网横向等。  [:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNTU5NjM5MQ==)
 * [记录混子的每一天](/other.md#记录混子的每一天) : 混混度日  [:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwODYzODc5OA==)
 * [安全祖师爷](/other.md#安全祖师爷) : 官网:www.secshi.com。国内领先的互联网安全媒体，WEB安全爱好者们交流与分享安全技术的最佳平台！这里聚集了XSS牛、SQL牛、提权牛、WEB牛、开发牛、运维牛，公众号定期分享安全教程及相关工具。与其在别处仰望 不如在这里并肩！  [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyNTk1NDQ3Ng==)
@@ -1719,6 +1724,7 @@
 * [GG安全](/other.md#GG安全) : 本公众号专注于分享Web安全、代码审计、内网渗透以及漏洞挖掘小Tips，并提供一些实战案例和快速获得Edu和cnvd漏洞报送证书的小Tips。无论安全萌新还是有一定经验的安全从业者，我们都为您提供有价值的内容和实用技巧。  [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMjE2NTM5Mg==)
 * [CrystalEquation](/other.md#CrystalEquation) : 主要进行网络安全等技术分享交流，联系方式：0x553@crystalequation.ltd  [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzMzU5OTI3OQ==)
 * [粵港澳大灣區網絡安全協會](/other.md#粵港澳大灣區網絡安全協會) : 粵港澳唯一一個以促進網絡安全、數據安全和監管合規交流；加強粵港澳安全信息、安全技術、安全人才互通與融合；向粵港澳青少年宣傳推廣網絡安全意識和培養灣區安全人才；搭建三地企業間溝通平台；推動粵港澳三地及海外交流的組織。  [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwOTUyODE5Mg==)
+* [哨兵安全团队](/other.md#哨兵安全团队) : 专注二进制安全以及web安全！  [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNDU5ODgwMQ==)
 
 ## Contribution
 
