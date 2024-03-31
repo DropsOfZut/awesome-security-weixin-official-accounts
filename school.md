@@ -16,7 +16,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxNDU2ODg3Mw==)
 
-[:camera_flash:【2024-02-09 19:59:57】](https://mp.weixin.qq.com/s?__biz=MzIxNDU2ODg3Mw==&mid=2247485728&idx=1&sn=5a046fd631500a5ab24852d2667f1833&chksm=963e754b11be014572712bba4c175063949aea09e470ecf7d33e6dc7ae501d4a203aa43afe97&scene=27&key=978d8ac09b04f4160037748f16536150df1ace019cdc6224a1d96b1e8dd2a858015ba268f926e5580d44e88a358e94cab0e639fe63c7a404b1be484381332062dac7a5808509c343b335859b513ad266b0700cd504e935feaaf3a5f4e56b2aaeb27ed14c2d37aeae1db62346102e040f1f7683d5048798c1d4db3012ea488587&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+10+x64&version=63060012&lang=zh_CN&session_us=gh_8776d67ce67e&countrycode=AL&exportkey=n_ChQIAhIQyfhu8FR1kKyJCltM5Y6rThLuAQIE97dBBAEAAAAAACPFOcfhMhUAAAAOpnltbLcz9gKNyK89dVj0J1mA1UKQnvHPhUGJpURaxQq7X9%2FTOnvtZHDFUS%2B9xMewveWlVQNOvqJHwtSsP7ffUSErqTmkaiWq2af2tbd6puPC3oyO8kQ%2BdtRRxWDYLqhZy2rfmWmsGGvyVW7Z0bsed7koZVaggA%2Fp5GLqz2I5l1SzyvFLxYUfjXZPaomE6NaNXPQqhHb6BCJz1EFZq9jV0YIA9wu0IuCaJ7ZD6nzG1J6Eq6G1oCnmxEzZPgPCVvoMER2Ftqh9ibNUYSZpQ2oMRPlqnSCo4iI%3D&acctmode=0&pass_ticket=SsiWbA0b52n1aHVyqPmiLKOSpgZTekg3k%2BKU1ITm94k1XRufVatvncKLj0HTU9%2BbSRTnmvC37TUfIv3EjOK8uQ%3D%3D&wx_header=0&fontgear=2&scene=27#wechat_redirect)
+[:camera_flash:【2024-03-27 14:05:58】](https://mp.weixin.qq.com/s?__biz=MzIxNDU2ODg3Mw==&mid=2247485756&idx=1&sn=a3a859096f9da70b3cd8d763c52b6a62&chksm=9664bd9583bea9fdcf8a6b866de5636650e75fdc5021ffac16ab869582e33d936de0f8d2e3dc&scene=27&key=b5c53240ff8a6d0d2e7d2baaec72aa1146b21de5b110997a3625fe5a0ac1d0cc0ad5f97045a6d0d36b522f7b4f58163e01017988957434799bafdce272ec30279ff061d973097e25652f415f5721e9689d405d5dfc953a12b02971f9a243ca0fc6eb054fc2a01e1fce27649e4451e7c6ed96542304d3ba605b1dfb86f6d10d71&ascene=0&uin=MzgxODQ4MjMz&devicetype=Windows+10+x64&version=63090819&lang=zh_CN&countrycode=GY&exportkey=n_ChQIAhIQfJjKoft32NQ4fgm0w9UIDxLVAQIE97dBBAEAAAAAAC1YBlHqYBMAAAAOpnltbLcz9gKNyK89dVj05a%2BjtgdslazceeN5Vp4y0HdB2yScBYDcjlB83bHMk8Gxasj3VKmdhdBb3cgxXCIi5uhRrsK%2BAB2epvZohavb0CN9LhEodl59cFHqxthIgR6HhjXR2fPvbRmir8ULf1E2QYMire9IxcQNXrIixKeKyUdvhi%2FYB%2BqcEqbjtm77NfekUo1tw0q7XAekCfeu8mK3f47W4Nw7xCNN15uAfCuJwvuDUUjYTkpFT4Jpx3YYXQ%3D%3D&acctmode=0&pass_ticket=U92osDEEy9E5hBhP7dZkBfWc64mycZISoJngOzgvCJMKnD%2BJiKiRs0uVBnfDh75g7djMSSYr0OgfyI2vzpOEfg%3D%3D&wx_header=1&scene=27#wechat_redirect)
 
 杭州电子科技大学Vidar-Team (原信息安全协会HDUISA&amp;网络空间安全协会)  消息助手
 
@@ -393,7 +393,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzMjA4ODM0NA==)
 
-[:camera_flash:【2023-02-04 10:00:36】](https://mp.weixin.qq.com/s?__biz=MzkzMjA4ODM0NA==&mid=2247484943&idx=1&sn=12ccda1429dfff5addbd4a9aceb2bee1&chksm=c2605978f517d06eeaac19f0141772f40de450978d847c0ec527260c3d206d41aabe8c103534&scene=27#wechat_redirect)
+[:camera_flash:【2024-03-28 10:41:57】](https://mp.weixin.qq.com/s?__biz=MzkzMjA4ODM0NA==&mid=2247484949&idx=1&sn=fce17afd81a0ac63f365d066ffa01b81&chksm=c38832d6044e010cb80b3c4c104937e7ca0a66ae912c1e3238c9ec8c54691c578e0b467390a3&scene=27#wechat_redirect)
 
 绿盟科技网络安全学院（别名：猎鹰学院）秉承”卓尔不凡，极致专业”（The few The professional）的校训精神，依托集团安全研究院、五大安全实验室和四大战队的强大师资力量，提供网络安全人才培养、认证培训以及技术能力提升服务。
 
@@ -406,7 +406,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
 
-[:camera_flash:【2024-03-12 09:00:46】](https://mp.weixin.qq.com/s?__biz=MzUzNDg0NTc1NA==&mid=2247508628&idx=1&sn=19322c10b6d9adca08c36056323757f6&chksm=fb3702aa469b109d51ede92050d2d8148a306301fc613b63d2408da9440dd157675896b03977&scene=27#wechat_redirect)
+[:camera_flash:【2024-03-29 18:59:20】](https://mp.weixin.qq.com/s?__biz=MzUzNDg0NTc1NA==&mid=2247508786&idx=1&sn=5ef326d95ee8b821bc81630a2d74e75f&chksm=fb7bea7dfd25a468081b0c834c18c60a789977a288416d0eaf6f13e2d7a5e66fb6a51df25c9e&scene=27#wechat_redirect)
 
 启明星辰网络空间安全学院以国家网络安全事业发展为使命，依托启明星辰集团多年的技术沉淀及实践积累，提供网络安全人才体系构建与信息安全技术及能力提升教育培训，为建设网络强国提供有力的人才支撑。
 
