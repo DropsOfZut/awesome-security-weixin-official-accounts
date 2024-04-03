@@ -94,7 +94,7 @@ BAT 技术专家分享开发、架构、运维相关干货！
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NjE0NDc5OQ==)
 
-[:camera_flash:【2024-04-01 11:11:53】](https://mp.weixin.qq.com/s?__biz=Mzk0NjE0NDc5OQ==&mid=2247523468&idx=1&sn=639688c79dcc933a12f296245cbee331&chksm=c207faab52c9ea28818ef363882456b1579befc5c648d754b63601fd7e49f21ee57bb719066c&scene=27&key=e74b9b9ce0c57b73225c8b3971a92b69e007b17706110d0fa81fa91989b171330f046bb53b7caaaa267feab1d30ee42968b83ceb2957baf925e72536736ab57c54683e5fe886e183d7956647de4c244c85c2d003ef7c5db662fcc853b9868da6a2746197bed0fac010c6e569ea922ec2c9bbf7d8c49d30e67c4e39487c9a6632&ascene=0&uin=MzgxODQ4MjMz&devicetype=Windows+10+x64&version=63090819&lang=zh_CN&countrycode=GY&exportkey=n_ChQIAhIQQr3n1sHowAwAhf5qfkUv9hLgAQIE97dBBAEAAAAAAMQwK%2FZ1jaUAAAAOpnltbLcz9gKNyK89dVj00HJR5nlAX%2FYvpxgbbv2NuHgsdDfLbKGNmGQwYXSnK%2F7autjqB8PfLqny8yEkAwg1e3GEI3O%2B2Xp5%2B%2BcnGWnI7JRHDLj4IxRu%2F%2BDNOtJjlh1NqVt33VHElRQKPL12TUaoduhrfUNirq4fhdxPSom7%2BURHx04m68xl1dg%2Foe5WZaJzGBpk2XKJo6z64CbhwOmWeLZ82vY52EVy%2BTCv1EEt0GbLw6PqBmsHxNL2q8Q%2B7UsTCQZcE%2BqEfKfc&acctmode=0&pass_ticket=nhxQ%2B%2B0Bv5CQc%2F%2BkZufaC3hs7RU2PA%2FtjWUUu8Kp1%2BAK%2FrACZoIUBhCUhZkOaRYWw73ZSvpW5fIOftYrp%2Bnevw%3D%3D&wx_header=1&scene=27#wechat_redirect)
+[:camera_flash:【2024-04-02 09:29:58】](https://mp.weixin.qq.com/s?__biz=Mzk0NjE0NDc5OQ==&mid=2247523498&idx=2&sn=122772c0a5738873e06d245b27d9b8ca&chksm=c2f08572ca8b7b690f92c844829f536f73abd6b21df79042f5bf2da879db24ba49ba55902f11&scene=27&key=adc69fa84030ff259a16cf48844444586a3b46114b21de7dc7ccfeff3b02cbe2662b5ba5947a2d3aee736aeb736c9c64ad4fef3d5724d5be79c622403d8dd28a2d8e3dc9c9990ef89098f9718105c8fc1c39fdc77d60f2abae311c7a018cfecc142a76ac11cd0520418b978500f93e2d5fd81f8d65ebfe1ee16354838a2fb33e&ascene=15&uin=MjM2NjMzNTUwNA%3D%3D&devicetype=Windows+10+x64&version=63060012&lang=zh_CN&session_us=gh_b85664ada8d0&countrycode=BJ&exportkey=n_ChQIAhIQ%2Ft7t%2BAuGiKlNMUxY4dq3MRLvAQIE97dBBAEAAAAAAC3iK2KHYnMAAAAOpnltbLcz9gKNyK89dVj0hKGgfYo%2BYN5ni4TL5enPJds9N02JBNxyT4L5cprXDDH7Gd7qLPVHYnzN4QcXx%2FCZ%2BVPmw2aDLTAOLFcyLWBgZKepwNS4dCSQgMzAFMLl0JPNHvXXv7E8H3LsCU%2Bzq0Ju2jUf9WktBTvVAhugGObLCgqwmVHmT331t7%2ByyHjRrF0hFIihFbARWXAb6v8MZfyJBNjLdXo1TQFwWHRJpwLIWV58ysF3VGy%2FqujBGJ8nmh59GCMp%2FKu93prWibCe7POOjZT4lvwKptlo&acctmode=0&pass_ticket=u0D0VxhQ9qMC7ySG21DEmVGYuirVcwWeao5UdfHlZ2MLZPaZZwNmhViFerJr9%2FPMZyLO4iIS21OtEywp5urY4Q%3D%3D&wx_header=0&fontgear=2&scene=27#wechat_redirect)
 
 未知攻 焉知防 攻防兼备
 
@@ -107,7 +107,7 @@ BAT 技术专家分享开发、架构、运维相关干货！
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3MjMxODUwNg==)
 
-[:camera_flash:【2024-03-29 08:00:53】](https://mp.weixin.qq.com/s?__biz=MzA3MjMxODUwNg==&mid=2247486488&idx=1&sn=e6b179af13a820af57e81bcd7ebcb1a7&chksm=9e5e8cb96879b2de4b46ece7db512c1fa28b226db66f1c8c46c84d72655ada5a74e581114293&scene=27#wechat_redirect)
+[:camera_flash:【2024-04-02 02:30:19】](https://mp.weixin.qq.com/s?__biz=MzA3MjMxODUwNg==&mid=2247486503&idx=1&sn=20bf2a16df41174035bab7ab277ca30c&chksm=9e47c5d7159f58628abbae5bb0687bf56b77b16c6a299ac5b07c3a299d78e722562c73fd9951&scene=27#wechat_redirect)
 
 漏洞挖掘、SRC、红蓝对抗、代码审计
 
@@ -120,7 +120,7 @@ BAT 技术专家分享开发、架构、运维相关干货！
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzIwNTY1OA==)
 
-[:camera_flash:【2024-04-01 18:42:12】](https://mp.weixin.qq.com/s?__biz=MzkxMzIwNTY1OA==&mid=2247504013&idx=1&sn=720a91bbe185cc0796fb9456817ca379&chksm=c0795726b714c694e86e8432073286388875055a4286291b83b119bc727deb809e6057247433&scene=27&key=e63d1d4e36648c4a838e09162742ba847c66224d19ec505616fcae4beb329e932d3858da56763be01e693158d60278929490a554ad481b5058d1778cd42ed4dc8a558cdfa751981477f8f7670f1fcef6ece3575b326a25a2875155a1c5301ae35d0c5aa6f03409fa0420bba53ccba59fc0c6731e09857b8db683329752c4ce7b&ascene=0&uin=MzgxODQ4MjMz&devicetype=Windows+10+x64&version=63090819&lang=zh_CN&countrycode=GY&exportkey=n_ChQIAhIQt9Ow%2FZaJQewTCXIEV5nymxLgAQIE97dBBAEAAAAAADUHOmllrxgAAAAOpnltbLcz9gKNyK89dVj0Z8x%2FudCmUl%2Fp60OU8hdI5QULTQfKMF2mCO8Yb%2B587cFggTpGeZVmsaLNPawB1Blt0tJXeeAn8OWlBf0Qysi2gEJrlJ3ctZR%2FelpuG6d7iDPCReEThdRQWLMpo4dRVOreYNzx%2FVz%2FQVxBqL7dNx9v%2BEoDnh3twW3tkMHpKwwYhc43hRS0htm8Ds7JyMPKjSz0%2BS8NWISoTO32RhsAE9aOLl9n6Jq%2B6M5DqAUg2Eqi6rjwyJvOVZDdm48J&acctmode=0&pass_ticket=nhxQ%2B%2B0Bv5CQc%2F%2BkZufaC3hs7RU2PA%2FtjWUUu8Kp1%2BBaBb9mcrxvxntIk3C2sMWndw02NPUdCV1ASnBuNJnlfg%3D%3D&wx_header=1&scene=27#wechat_redirect)
+[:camera_flash:【2024-04-02 08:01:27】](https://mp.weixin.qq.com/s?__biz=MzkxMzIwNTY1OA==&mid=2247504036&idx=1&sn=33125f55e15f87606440a89df7d04eb8&chksm=c0f42c9cae8e4955e1784345576fd9cabdf3b905c5739d4baf1ac37c14d156eb117164355b1a&scene=27#wechat_redirect)
 
 发布关于kali相关文章。Debian Centos等操作系统的安全和运维。以及树莓派 ESP8266 DIY单片机等相关安全领域的文章。旨在掌握技术和原理的前提下，更好的保护自身网络安全。反对一切危害网络安全的行为，造成法律后果请自负。
 
