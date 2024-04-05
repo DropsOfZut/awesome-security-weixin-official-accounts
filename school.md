@@ -16,7 +16,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxNDU2ODg3Mw==)
 
-[:camera_flash:【2024-03-27 14:05:58】](https://mp.weixin.qq.com/s?__biz=MzIxNDU2ODg3Mw==&mid=2247485756&idx=1&sn=a3a859096f9da70b3cd8d763c52b6a62&chksm=9664bd9583bea9fdcf8a6b866de5636650e75fdc5021ffac16ab869582e33d936de0f8d2e3dc&scene=27&key=b5c53240ff8a6d0d2e7d2baaec72aa1146b21de5b110997a3625fe5a0ac1d0cc0ad5f97045a6d0d36b522f7b4f58163e01017988957434799bafdce272ec30279ff061d973097e25652f415f5721e9689d405d5dfc953a12b02971f9a243ca0fc6eb054fc2a01e1fce27649e4451e7c6ed96542304d3ba605b1dfb86f6d10d71&ascene=0&uin=MzgxODQ4MjMz&devicetype=Windows+10+x64&version=63090819&lang=zh_CN&countrycode=GY&exportkey=n_ChQIAhIQfJjKoft32NQ4fgm0w9UIDxLVAQIE97dBBAEAAAAAAC1YBlHqYBMAAAAOpnltbLcz9gKNyK89dVj05a%2BjtgdslazceeN5Vp4y0HdB2yScBYDcjlB83bHMk8Gxasj3VKmdhdBb3cgxXCIi5uhRrsK%2BAB2epvZohavb0CN9LhEodl59cFHqxthIgR6HhjXR2fPvbRmir8ULf1E2QYMire9IxcQNXrIixKeKyUdvhi%2FYB%2BqcEqbjtm77NfekUo1tw0q7XAekCfeu8mK3f47W4Nw7xCNN15uAfCuJwvuDUUjYTkpFT4Jpx3YYXQ%3D%3D&acctmode=0&pass_ticket=U92osDEEy9E5hBhP7dZkBfWc64mycZISoJngOzgvCJMKnD%2BJiKiRs0uVBnfDh75g7djMSSYr0OgfyI2vzpOEfg%3D%3D&wx_header=1&scene=27#wechat_redirect)
+[:camera_flash:【2024-04-03 15:03:20】](https://mp.weixin.qq.com/s?__biz=MzIxNDU2ODg3Mw==&mid=2247485772&idx=1&sn=0b090f9865d5503dcb67d4f869937a2b&chksm=962a152fa1c6d6eb5ce4e1dd3d616445b9e2a1f9c0f3e76d1fb5877a7478c81c3ebe76f07754&scene=27&key=d4ccee82d1fa61040323a4d5abd773ad77900d0557250210be0fcfbe8a4b260c2dfea4733269218a3a91b14462deb42ed8243f6368a0d6f6dba1c16048eabb600d4de9d08ad51d9cad37a72fa6d260ef41d20804bf4ecf22706140bf88cc7f033d0a86aa740f3808b979223ef8a92d556e589876b401d1633c876f2c2262d2b9&ascene=15&uin=MjM2NjMzNTUwNA%3D%3D&devicetype=Windows+10+x64&version=63060012&lang=zh_CN&session_us=gh_aed83ab73350&countrycode=BJ&exportkey=n_ChQIAhIQPTlRWghD0FsvVApkXeEnARLvAQIE97dBBAEAAAAAAL53NgMhR9AAAAAOpnltbLcz9gKNyK89dVj0vqH9pp03%2FOUCimEE6DI2KbQGJbOncMTb5%2FJzp7EN5kuRhqr4yBSk7JhseDKy2nnjBII%2B%2FNjfEEIIoiAHIaaV0hQ%2B8lzCo1HjR2ljE%2BMl%2FuChr2QL3f8UVptLoJF1Stb5HHTQlXDvHZXt5pz3%2BZYQq0fr1aUBVsqa4dwU4mmCdrva%2Frqt3o6Dcbx2P9Lop26xEq9t1ywMcnAZbQYrvD1GLZ2%2FQHTvYCHrHiXdbLlZ%2BEx9Gr4obY4AOdkgGuWbUmYL%2FSvuj6Rn56cx&acctmode=0&pass_ticket=awVXdlukaFqQ4ZVlbs1GWxAvTbqiuD3MAGQtndJZkDZ2lhHPah%2BUT5DtnS6R9YYXpNyMPiw1JxgiL%2Fo7ngtCGQ%3D%3D&wx_header=0&fontgear=2&scene=27#wechat_redirect)
 
 杭州电子科技大学Vidar-Team (原信息安全协会HDUISA&amp;网络空间安全协会)  消息助手
 
@@ -380,7 +380,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDYzMjAyNA==)
 
-[:camera_flash:【2024-02-21 17:04:42】](https://mp.weixin.qq.com/s?__biz=Mzg3MDYzMjAyNA==&mid=2247485541&idx=1&sn=d486247f54f29d007070da57fc6ebb63&chksm=cf48d2010169b42b3a02c573139dafc65d6bc4ab37fe9eb41e7db079774e7e87d79031926d19&scene=27#wechat_redirect)
+[:camera_flash:【2024-04-03 15:31:53】](https://mp.weixin.qq.com/s?__biz=Mzg3MDYzMjAyNA==&mid=2247485613&idx=1&sn=59bf8cc878d31561d69d0c2b014193f7&chksm=cfb2a740376da3328411b3f5a71be269a25be5b150ee0e781143809187585b3795985ed4b088&scene=27#wechat_redirect)
 
 深圳市网安计算机网络安全培训中心是由深圳市人力资源局备案的社会第三方培训机构。是受广东省人力资源和社会保障厅委托，开展“网络与信息安全管理员”职业技能等级认定工作的第三方社会评价机构。
 
@@ -393,7 +393,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzMjA4ODM0NA==)
 
-[:camera_flash:【2024-03-28 10:41:57】](https://mp.weixin.qq.com/s?__biz=MzkzMjA4ODM0NA==&mid=2247484949&idx=1&sn=fce17afd81a0ac63f365d066ffa01b81&chksm=c38832d6044e010cb80b3c4c104937e7ca0a66ae912c1e3238c9ec8c54691c578e0b467390a3&scene=27#wechat_redirect)
+[:camera_flash:【2024-04-04 08:03:02】](https://mp.weixin.qq.com/s?__biz=MzkzMjA4ODM0NA==&mid=2247484955&idx=1&sn=7f7080931c2ed85486e4fda8c65fb618&chksm=c366db73c4a890d6645718fd12471e9058b5426c279e5c6fe9d83489da97247818e2f0a60d31&scene=27#wechat_redirect)
 
 绿盟科技网络安全学院（别名：猎鹰学院）秉承”卓尔不凡，极致专业”（The few The professional）的校训精神，依托集团安全研究院、五大安全实验室和四大战队的强大师资力量，提供网络安全人才培养、认证培训以及技术能力提升服务。
 
@@ -406,7 +406,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
 
-[:camera_flash:【2024-03-29 18:59:20】](https://mp.weixin.qq.com/s?__biz=MzUzNDg0NTc1NA==&mid=2247508786&idx=1&sn=5ef326d95ee8b821bc81630a2d74e75f&chksm=fb7bea7dfd25a468081b0c834c18c60a789977a288416d0eaf6f13e2d7a5e66fb6a51df25c9e&scene=27#wechat_redirect)
+[:camera_flash:【2024-04-04 08:04:26】](https://mp.weixin.qq.com/s?__biz=MzUzNDg0NTc1NA==&mid=2247508794&idx=1&sn=7e66d21b750a0049b4c558ff37a63e23&chksm=fb5b13ca1113d23b8aa96896cc7c10405f84b0c89431189d6bad4029eccddf7284c931ed659c&scene=27#wechat_redirect)
 
 启明星辰网络空间安全学院以国家网络安全事业发展为使命，依托启明星辰集团多年的技术沉淀及实践积累，提供网络安全人才体系构建与信息安全技术及能力提升教育培训，为建设网络强国提供有力的人才支撑。
 
