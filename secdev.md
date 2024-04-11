@@ -172,7 +172,7 @@ OWASP中国，SecZone互联网安全研究中心官方平台
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
 
-[:camera_flash:【2024-04-09 12:00:14】](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247538850&idx=2&sn=2825719934960b395c1cf028dfa5bdc4&chksm=fbb65f3a3ecdd98e5be056b205a55885edc3284e61fc99b4de7fe384755287e0fcee3dd6a381&scene=27&key=d97ff789397cf58d4b419500b91827e0208b62c09d33092be30f5f2d2978e36717b51a14946f88aa7a6aab0644a58907067605ad0dbc12b9f78c73f6239df30dbd9fa9c9eb8874b7ba8487f0a4463610d68b69eb39d8aff47fb2048092ba29a3533b842421f4e0aab6411e3b0039dc77ee25601b377aabaf386293e476170490&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+10+x64&version=63060012&lang=zh_CN&session_us=gh_cdf3717dded0&countrycode=AL&exportkey=n_ChQIAhIQQLJ2NnBHxNvgJr2IAgue6hLuAQIE97dBBAEAAAAAAJEoIRQbByMAAAAOpnltbLcz9gKNyK89dVj0TwwxPwJSkNNLkR5gpZH4G42oArzWQDT9M79yxSOMm3PLfq21sRwdU169MAj%2BYQRy28zz3eI4Uxf072yOZEoySFu5gYmJLH6520K2m6dtRPMY4K3iGDioOGK%2B5XtR%2FHItoRa8kU2ufMfnfMYh4tKa53fIA%2BCHtUSO8xa39bqoEfb2rpwV2OK3paoY%2B8kPlGn10RJUgzwehMIBuNeWIAjplag7XZqRaMpwY9LfLutMjy59REMn9DekG8GDKAXiSgsDNPRuRB3NKyU%3D&acctmode=0&pass_ticket=TyuX0cGFXBqPGtCAdEWW4RmtHNrkC2SIETNtwcNgIP8bZYvifXm9WjiUyqN4%2F156FSp0XRmYv9EJFdV%2Bxwe4%2Bg%3D%3D&wx_header=0&fontgear=2&scene=27#wechat_redirect)
+[:camera_flash:【2024-04-10 12:02:30】](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247538882&idx=2&sn=c5c35db845ac6e75402858a3349c9cdd&chksm=fb4f95f8e7472dacacd36b24b0eea8783630df7242141132491a6da01705e633d05a56ed4001&scene=27#wechat_redirect)
 
 安全教程\\高质量文章\\面试经验分享，尽在#掌控安全EDU#
 
@@ -185,7 +185,7 @@ OWASP中国，SecZone互联网安全研究中心官方平台
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
 
-[:camera_flash:【2024-04-09 16:00:40】](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247509967&idx=1&sn=eef223544ca2f72ee1c21a2dc94e068b&chksm=c0bd3afc040f956719321bd7421d00f0aff938e0e136dda9155b31adb167d008f3dbc048a12f&scene=27&key=200f9e9e1b7be3f47cfafd25d378969784f49a8c9e64e7e5efd1234798be1f877903b9b20738b35e8c99e035d692f455c0c594511a0fdd7e728808f68827fd2882408306a2f3af394808b0a411e95f09868bc1b885dfb769d09673a06bdafc2c96d9490ff7248685b035b1661f68fb2523955370fa2ab48c1436c7b9dc4a195a&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+10+x64&version=63060012&lang=zh_CN&session_us=gh_32f8e3d8d264&countrycode=AL&exportkey=n_ChQIAhIQ4F0ksc0Q60JPhGiaFbjmCBLuAQIE97dBBAEAAAAAACZ9JEoktHEAAAAOpnltbLcz9gKNyK89dVj0gZV56oCNkgq1oWps5hMJkjvhnYteFfpX4SAFSPQppCuoVgyEfJw%2FXWOe3GhjG3gpCDzkiZo9bxSD%2FRvU%2BFskqMKB58juoTJdXMdW%2Bk%2BAQtT4evoCD3iwyrkRt39Xk9ncPF5b3QxGeO3ThGAGXwKv2MYFhrrhYy7bvugOdHlzXNYauGuXE4aYw9e63yGJiAcSed4UuC%2BOqpuQfltGDBBlJKhTFMj4d9WE2DwwSrS7SFRJj%2FhV3bOO8jSp3CPR2jff6sRxVDRJVVQ%3D&acctmode=0&pass_ticket=TyuX0cGFXBqPGtCAdEWW4RmtHNrkC2SIETNtwcNgIP%2BnHBToN2cpY2Flbm2zphNwUWGId%2FmomPK2ncW8lYiRRA%3D%3D&wx_header=0&fontgear=2&scene=27#wechat_redirect)
+[:camera_flash:【2024-04-10 16:00:31】](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247509968&idx=1&sn=56535b0a84d3a61e84c32a38dc7f8c68&chksm=c0f5d29561e045f7f5ae27dca984fa638b86d467213e350987c627f4be9b5995aebe4f48f8a6&scene=27&key=abe979c9663eced1cb3097ba348256d8101e5c07521f7682f14cd54ad9589b50af8c923a3f744bf303f900ba2e5ff2c9dfe8427154f943b72ffb3e2b1aef1a5469b45fe8776a654b6c26dfcf83befb1338a9bc6595eb3270bbfebf4d05814a36397eb2494551fdaad42ab38d892b6a3c14ce13e579436de3217250c7eb3bacde&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+10+x64&version=63060012&lang=zh_CN&session_us=gh_c0e66757f805&countrycode=AL&exportkey=n_ChQIAhIQ5y95FoOGAz1qxF8CkEX4jhLuAQIE97dBBAEAAAAAAE9uJiAHD%2BAAAAAOpnltbLcz9gKNyK89dVj0MY4TPQjoGAhpJtfWCQ%2FH2%2BVNdgWsq5gVV%2FppdVBf7gBpdh8nKTQjPcas1Ru97USU%2F2zMA6a1kpAC%2BO5R6S0kD%2Bgqp%2B%2FnEw%2FSsoJef5lF%2B5f8LjTolL0kx5PMlx5we%2FWCg1M25js0IMiD1MsRvLW07kAl2HThYVCWJFR85t4jjqsXEWo7pdJbDzV4rtzS9TZ3R4m9vH2M1FcspjXd5xEJdkGzZgUOF5R8akBwQaTut13xH%2BDw9YasqW3IcCb5m%2FpfnH52JFkWeIM%3D&acctmode=0&pass_ticket=TyuX0cGFXBqPGtCAdEWW4RmtHNrkC2SIETNtwcNgIP9OTE6EPmGcUecAt8FqfOyjP7xeQ%2F%2FSslP%2FmrbNB71Bbw%3D%3D&wx_header=0&fontgear=2&scene=27#wechat_redirect)
 
 中国数字产业领域中立的第三方调研机构，提供网络安全行业的调查、研究与咨询服务。
 
@@ -198,7 +198,7 @@ OWASP中国，SecZone互联网安全研究中心官方平台
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
 
-[:camera_flash:【2024-04-09 15:37:05】](https://mp.weixin.qq.com/s?__biz=MzU0Mzk0NDQyOA==&mid=2247516123&idx=1&sn=324e6f533ad5066ec1babae5ea74e557&chksm=fa22245cc2bc0d1e759740f5fc067816a23c8e3f852f9a0d5cccfe705cc86aced5c02b4f1463&scene=27&key=a2847c972f830c4175bf7a69fcfca23b65d25225ae17aaea0cbb105cca88f61af239409a9d0c2fc9e42363d56f0b1dfd11ec9eb6aedf357c873e58581932e0933042fe28c4409d92ab861757c5e521881992e53f7cc3bb2f3646d532b45b3097c559b01edeeeb94e693bf9bd81d9cf2b0531df1d0b4b65967a9cfe0473ac9bb9&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+10+x64&version=63060012&lang=zh_CN&session_us=gh_32f8e3d8d264&countrycode=AL&exportkey=n_ChQIAhIQGYIvePlgZsR92I%2FA08PYMhLuAQIE97dBBAEAAAAAAPbvD70YMvgAAAAOpnltbLcz9gKNyK89dVj0V9dZfhQaRJANsyNv6Kqwp1oVmP0urIY%2BbwySI1U5twyHq58c6R209Mn6MD%2F6nXYeb7nSXjGzYBdjawmmR2GbRXeljQcotImTDcwo1kuLaF9YMFY%2BfKvcuJcelNDjWXURNHpsTryCAy7b5MiMcvdJVPXLXlNkcpaGMLVVswmiALdYtStKD3g6sYY8qrcxRJB0oHF4AXiA%2FlrWN7kiJ5rFAE%2BHxMfrBYvm6txtLPoPYzY8gavSKZCs9sS9UmAmta5p2UqOvmfe4Fo%3D&acctmode=0&pass_ticket=TyuX0cGFXBqPGtCAdEWW4RmtHNrkC2SIETNtwcNgIP8NodsCZ0ds%2F7TROgpKrVNTcFDwEdIpzGUDWQUnhdUQqQ%3D%3D&wx_header=0&fontgear=2&scene=27#wechat_redirect)
+[:camera_flash:【2024-04-10 15:27:03】](https://mp.weixin.qq.com/s?__biz=MzU0Mzk0NDQyOA==&mid=2247516155&idx=1&sn=67083fa803cda9adbfe862232a22c59d&chksm=fa140fbaeeb4d1164d8253b4e77d7bbfbc9883ee8cf7886bf1461946ac30182cc30cf9d4fad6&scene=27#wechat_redirect)
 
 深圳市网络与信息安全行业协会（SNISA），是深圳市网络与信息安全行业的权威组织，是中国网络安全审查技术与认证中心（CCRC）在深圳唯一授权工作站，是经深圳市人力资源和社会保障局核准，开展网络空间安全工程技术专业职称评审工作的社会组织。
 
@@ -393,7 +393,7 @@ vivo全新的安全品牌，有人文温度的科技新媒体，致力于让亿�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Mjc5MDQ3NA==)
 
-[:camera_flash:【2023-06-12 09:00:03】](https://mp.weixin.qq.com/s?__biz=MjM5Mjc5MDQ3NA==&mid=2652056308&idx=1&sn=163b38f9f93cad6761d49664d90cdd02&chksm=bd4768518a30e147cef83675dfc1001c722c4fabc361bbb2488b5fac230c618c90f0230602e4&scene=27#wechat_redirect)
+[:camera_flash:【2024-04-11 07:04:04】](https://mp.weixin.qq.com/s?__biz=MjM5Mjc5MDQ3NA==&mid=2652056314&idx=1&sn=a2ee13839fed3b4d3c1eaba3a1357256&chksm=bc10ac25cb5d8c866d8968de99cb0e86eb64e2b7ed90828d6f624a672577495f3a0827789b9f&scene=27#wechat_redirect)
 
 安全和运维不分家，要两手抓，两手硬。Security：安全建设哪有什么圣杯，无非是日拱一卒的心态和对解决问题的执拗。Operation：只要不断地解决根源问题，服务质量就一定会得到提升。
 
@@ -406,7 +406,7 @@ vivo全新的安全品牌，有人文温度的科技新媒体，致力于让亿�
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5MTA0NjU3Ng==)
 
-[:camera_flash:【2024-01-26 11:39:41】](https://mp.weixin.qq.com/s?__biz=MjM5MTA0NjU3Ng==&mid=2652720025&idx=1&sn=c12574bd1251e4f4dbf31c7959ff2544&chksm=bcdfeaef1967a65de81812dbea30bcc15b13138cdfc0ca4e959fa458936bd4008db378ddb8a6&scene=27#wechat_redirect)
+[:camera_flash:【2024-03-18 14:20:12】](https://mp.weixin.qq.com/s?__biz=MjM5MTA0NjU3Ng==&mid=2652720043&idx=1&sn=7196bb3cc5805dc80f42dcba15056f5a&chksm=bcff8de2bf5ab4f569fa3cac18c1037cbbdb7f0661f57467e7ccb58c2a56570b5a3150bced6f&scene=27#wechat_redirect)
 
 聚焦网络安全法律研究，剖析网络犯罪现状手法，洞察网络传播规律特征，问道数字空间生态治理。
 

@@ -789,7 +789,7 @@
 ## [个人类](/person.md)
 
 *个人、技术分享*
-* [安全之眼SecEye](/person.md#安全之眼SecEye) : The Eye of Security，专注于红蓝攻防、实战技巧、安全工具等的分享交流。  [:chart_with_upwards_trend:【0/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzOTY1MzcyOQ==)
+* [安全之眼SecEye](/person.md#安全之眼SecEye) : The Eye of Security，专注于红蓝攻防、实战技巧、安全工具等的分享交流。  [:chart_with_upwards_trend:【0/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzOTY1MzcyOQ==)
 * [HACK学习呀](/person.md#HACK学习呀) : HACK学习，专注于互联网安全与黑客精神；渗透测试，社会工程学，Python黑客编程，资源分享，Web渗透培训，电脑技巧，渗透技巧等，为广大网络安全爱好者一个交流分享学习的平台！  [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5MDU1NDk2MA==)
 * [天黑说嘿话](/person.md#天黑说嘿话) : 分享一些无关紧要之事  [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTQ5MTAzMA==)
 * [红队防线](/person.md#红队防线) : 没有章法，便是最好的章法  [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0OTkzOTc2Nw==)
