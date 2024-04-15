@@ -146,7 +146,7 @@ www.pcachina.com
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2OTczNjMwNQ==)
 
-[:camera_flash:【2024-04-13 12:57:10】](https://mp.weixin.qq.com/s?__biz=Mzg2OTczNjMwNQ==&mid=2247488807&idx=1&sn=704ec6131318ae82215444165bbe75e0&chksm=cfeed2b43ac3c1082a85490958b37a228e17cb29cfed1dca29ede0262e6ff6c4db02bfaaa09e&scene=27#wechat_redirect)
+[:camera_flash:【2024-04-14 08:48:51】](https://mp.weixin.qq.com/s?__biz=Mzg2OTczNjMwNQ==&mid=2247488810&idx=1&sn=6fbc657f7fdb1429f881818400d29cad&chksm=cfef151e23bb20102b1c9abad03c7679ccf9667069a697dadc72f0ee89d00cd769f6edf0a164&scene=27#wechat_redirect)
 
 发布国内数据安全产业动态信息，包含新闻资讯、政策文件、发展现状、趋势态势等。设置中国数据安全产业大会、数据安全产业发展成果展、数据安全创新大赛和数据安全产业培训等专栏，实时更新发布系列活动最新内容与进展。链接工信部数据安全相关公共服务平台。
 

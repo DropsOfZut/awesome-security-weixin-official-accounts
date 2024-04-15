@@ -185,7 +185,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
 
-[:camera_flash:【2024-04-13 10:28:44】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247606589&idx=3&sn=a70b2a4331b4dfa6ca691b5970c66511&chksm=fd8523f80b04c7f24598c6b797b7b09fa10065211010620cd9b1ce633a18e76e420b2b928f17&scene=27#wechat_redirect)
+[:camera_flash:【2024-04-14 11:54:50】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247606621&idx=3&sn=4d80ef6969e93929997e834212215281&chksm=fd66c60b85015c8bef95634ade8045b3aa19d0aec581f83f42b6da2f6a4b2f57e96343be09a3&scene=27#wechat_redirect)
 
 为智能网联汽车行业专业人士提供信息和网络安全技术、产品及服务等行业发展最新咨询
 
@@ -289,7 +289,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTU3NTY0Nw==)
 
-[:camera_flash:【2024-04-13 09:01:06】](https://mp.weixin.qq.com/s?__biz=Mzg3NTU3NTY0Nw==&mid=2247488715&idx=1&sn=eac83cc77e1288867a73ce7ca42c93ef&chksm=ce8875429d92d127962e7c207fbd1023f911b9881b03fd4bf58a82b9ae2dbb49d8c469dd3d56&scene=27#wechat_redirect)
+[:camera_flash:【2024-04-14 09:01:03】](https://mp.weixin.qq.com/s?__biz=Mzg3NTU3NTY0Nw==&mid=2247488717&idx=1&sn=1f36e61a191a5c268e09c64d1f7363f5&chksm=ce5614190f70b4ba8537d358083246e23dedd8cb258270bb19a4db40eff739580390def5539a&scene=27#wechat_redirect)
 
 旨于开展网络安全相关法律法规研究与电子数据取证技术研究，分享小知识、小技巧，共同学习提高，推进技术规范化建设。
 
