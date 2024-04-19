@@ -419,7 +419,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyNzU3Mzg2NQ==)
 
-[:camera_flash:【2024-04-09 17:26:59】](https://mp.weixin.qq.com/s?__biz=MzIyNzU3Mzg2NQ==&mid=2247487136&idx=1&sn=bacd636fb6dbf83ff60ece5175c55cb5&chksm=e9f16ba7163bc6737d55a76175545d21054233cf9b5295110a872df290f4577827f2a61da555&scene=27&key=9141c73f98017e9b22361665b4b473dd15a178c0ff272c0fbdf0adc4fb86b215b8e3c2c396f3fab2d8a8818370ed51b5bca7a5e000b2b4569cb3931c2f8789221d257762ee15efcba23596c5516b91c46afa7ebb52d22b464f6ca5f3ace35c4e0f6750228eb0a29070428477c108f8c9ccd4b078b3ca7f1f52c5e6e4a100e813&ascene=0&uin=MzgxODQ4MjMz&devicetype=Windows+10+x64&version=63090819&lang=zh_CN&countrycode=GY&exportkey=n_ChQIAhIQODmTU4Q8RVtJiZPzlSlC6xLgAQIE97dBBAEAAAAAAHoFNnxTtI8AAAAOpnltbLcz9gKNyK89dVj0WWBxFa4EHfCAx8EWziDQGITJM6M0PB68Pt%2Fim1V7wDKrahb1sMtJI14CPq5YdXgitvpPNthoIS4XoGvYyzrPSUa1K08uBWlXfK%2B4xHq0HUahJ5Awico4zj%2BewmX%2B5UUvMXffGPItRkP7bi04AWy2GUv6kDBzx8QCazNz3FjQpvnVll9KzZYUXNZlG7xUKahHZbHCiNvKk0bnVEN0Jd%2B%2BEVlpFeFHf4z7llM9AjS%2Bg4%2F02H0ifNwt5%2Bnz&acctmode=0&pass_ticket=7EwJf1frb0Ug59A5RdvpnPlDGrOc2fit8p4U3ZKQH1z5XSu4My7KZ%2BkSd1CUY4ySlXqx5m16c9I7CfpwkqAxJg%3D%3D&wx_header=1&scene=27#wechat_redirect)
+[:camera_flash:【2024-04-17 17:36:49】](https://mp.weixin.qq.com/s?__biz=MzIyNzU3Mzg2NQ==&mid=2247487142&idx=1&sn=c3bc7447ac987b637d9da3068a34ec0a&chksm=e9e230910d8e74067846c46091e1e0576e72fd7e7718e0e4b46edd6bedd37221d5bc34a4db37&scene=27&key=67cf29deb310b017738155c4ffbad3a8ba6cefdfb60eaae5156fcbca2b3d167b6432586b72fa1ff05ecc3c98d75591b7005a97a3aefe5ab071a0c4506de8523a1d68b76534038cb3e11479afa285ece12b4ec918e36e8e000a3f104244d81eb9cd6f46093716ebd670cbd8b4c2bf6fc20e46b70238d74c1a5f19a5d0b396773f&ascene=0&uin=MzgxODQ4MjMz&devicetype=Windows+10+x64&version=63090819&lang=zh_CN&countrycode=GY&exportkey=n_ChQIAhIQlcNxXnIJo%2BcNWLABdcbfChLgAQIE97dBBAEAAAAAAKVTL%2BANy04AAAAOpnltbLcz9gKNyK89dVj00ine9A7fPayUv6tskyhLIdzTpL%2FsIRdBlh%2BLOV3CaOGdKALkiPdp55xHi9IIYvlPRMl8uxcweNm1B%2BuL6rDNjv8FNS1nQrmIg4LfsWdPC1J3BLNslO1UQVFKVaxGQeJvDkCl%2FB2gqSPCQ5iOc3763IdxLgZt4IxC9JpEDyzsgs10usLJ9ofOy7v8tiJOmrFmDSdyEBBConU2pCJtYryExQu2LiQO3SAWKi4yDRVvJAC6pvPkq9yJYGOp&acctmode=0&pass_ticket=umgSmXjLcsHfuE5m9ovQOG2FcgDOmn53TF%2Fr0W9AABj%2FuIxavP50Une7eoP%2FVKIogqdomhpMYgZkfY7%2BaZOg2g%3D%3D&wx_header=1&scene=27#wechat_redirect)
 
 网安学院拥有专业教学服务、就业指导，课程配套靶场实战平台（www.hetianlab.com），学员学完就练，切实提升实践动手能力；课程涵盖Web安全、软件安全、网络安全等网安各个相关方面。
 
@@ -640,7 +640,7 @@ Covteam工作室，成立于2005年。是以西华大学在校本科生研究生
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5NDczNDc4NA==)
 
-[:camera_flash:【2024-04-15 14:49:36】](https://mp.weixin.qq.com/s?__biz=Mzg5NDczNDc4NA==&mid=2247494644&idx=1&sn=4045ee89a87ce851c5f4a68aa1e0df20&chksm=c15eb54bb25a282a9ea602df79da9e4dac088d22b3012d5b73c8814827983a1380569b186c4e&scene=27#wechat_redirect)
+[:camera_flash:【2024-04-18 11:24:10】](https://mp.weixin.qq.com/s?__biz=Mzg5NDczNDc4NA==&mid=2247494650&idx=1&sn=096833e7838fe3d61094d98673cb0e63&chksm=c18173ec0a53671f79582315be0e0704acd3003eef6349b4a59411ffefa02ddbbd750909fd3b&scene=27#wechat_redirect)
 
 浙江大学网络空间安全学院/浙江大学网络空间安全研究中心
 
