@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Mjc3MDM2Mw==)
 
-[:camera_flash:【2024-04-22 12:41:27】](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651140550&idx=1&sn=06032f42320c27348461d54fce62318a&chksm=bc0077cfc5e6482210f604aa887e72b08aba61a4041a8ccc09faeed0e3f10d607d81c2b1c195&scene=27#wechat_redirect)
+[:camera_flash:【2024-04-26 09:26:12】](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651140600&idx=1&sn=f0161296c1a102ae251fb3346709d387&chksm=bcc06198c1aad1ac40dba0fdce70ecd02b6960c94d332aeb9b4f91c0fcf3d1c2d62762a6286a&scene=27#wechat_redirect)
 
 吾爱破解论坛致力于软件安全与病毒分析的前沿，丰富的技术版块交相辉映，由无数热衷于软件加密解密及反病毒爱好者共同维护，留给世界一抹值得百年回眸的惊艳，沉淀百年来计算机应用之精华与优雅，任岁月流转，低调而奢华的技术交流与探索却是亘古不变。
 
@@ -29,7 +29,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTc2MDYxMw==)
 
-[:camera_flash:【2024-04-22 18:02:01】](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458551171&idx=3&sn=551b9d437498bcaf9f6452980d118f7e&chksm=b03c3a62bd1931e9dffb8f8334243300462a98840839940aaf7f9e26ddfbecb7b281ee420360&scene=27&key=4c8000bc24ea433298a8cc59b90b3ed1ff6b23c4836b9d61852514dc1036e8c5576d156458a42a0c08e5cd749b2f1628ec63aac117017519c34885269d8a0256349e1d9846ef88f814a53462e02d0d49828292f7f519a224d5bc8a258a1b13b3d17c1ea4f6955e57fbb08a14b330843b180b928653cbd262b23542f62a274ff4&ascene=0&uin=MzgxODQ4MjMz&devicetype=Windows+10+x64&version=63090819&lang=zh_CN&countrycode=GY&exportkey=n_ChQIAhIQwo%2BpJ0uixe7yyQNZCNGrYRLgAQIE97dBBAEAAAAAACZpAQ1X2nYAAAAOpnltbLcz9gKNyK89dVj0XLnCFaPuFVNHltYx2gj%2BduXNkh4mVe7RwA%2BT8axFbCIADwoT8%2FDzEHLQjBXaYx6PRJ4y%2FzIa%2FEAE6RlWuetkZH89aaIP8eWIjvne5jq%2FVO%2BulnHwXLSn6tuIV%2FBVFQUg4IrSY4BH%2Btv0HVrh225arr0dA9hxKLGMjIxE0pFRyCXnDXj0iTV2WQU0CsPyJtb9WiBtNvMJC4jxHCySQiEKNFkHD5qxIYuseNnwnUA5CvwHbuFiNDlhUD%2Fg&acctmode=0&pass_ticket=WMqLty6dJptOcZh%2FENKQ2BQZTFoEunWk8cyegcml12z0npOOjLHTS1KPiL83ojnOpuvWZZMKmfm8leEDFmxP0w%3D%3D&wx_header=1&scene=27#wechat_redirect)
+[:camera_flash:【2024-04-25 18:13:27】](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458551651&idx=3&sn=168849c54a642a60ea1914a053c5baa7&chksm=b0c2a8f91d08595ea7c1b8170a5a94a1be53601f2ec438aeda2b356fdd0b744f54b0908b91a5&scene=27&key=230eb01f3cca29163ee228f7bacd1a4adddfffe98bbf862db02cc514deb737fa8921b7d2c4c9e57dd678c4c138e3658063ac4c0dd613f0ad162b04585527c35a3750ecee90e0d837cccf2aef2ffdf8df5694529cbc1102a50643eb871d48b9e87e66e16c42b2f094d1e8dd6213370320c604a175759aee38f92fde8ec216e65f&ascene=15&uin=MjM2NjMzNTUwNA%3D%3D&devicetype=Windows+10+x64&version=63060012&lang=zh_CN&session_us=gh_fa1e45032807&countrycode=BJ&exportkey=n_ChQIAhIQB2uVCAqhH6rdcNpBOVzKBhLvAQIE97dBBAEAAAAAAHCLFPXPVKUAAAAOpnltbLcz9gKNyK89dVj07GYezVlZk%2FAwegFh%2BQ2TNuhehzlbWWKkD9Q0gTPQIc6aqmyR2PipiBYUbjswwZeGZt08Bn%2BfK%2BYOqYotF0Nfw0Skz2v76%2BZHi2dllMkxEUObIgqna9EJ7fh3%2BcVoA%2B69i8JEiUz8oUS%2Bq2gF6QPN32INAmEbR6kEpmQIXgV5LazLoWur0Bxs2alBILMldyiFwS9ihIrH%2F5lxH0Jlnd7jaXlNk68gq5E5QJj3Hyj6%2BikVlG%2B%2BIMu9dH%2BjE8kPP18pURR4qTbYJiSp&acctmode=0&pass_ticket=0BRT35OTd%2BsI6yMzWw1TcUPspPd6lASMMPSr%2F9l2E2%2F4bDLAtLzubrhUuT%2B8HnfM8cUAvUEw95M%2FOf6jUVI3rQ%3D%3D&wx_header=0&fontgear=2&scene=27#wechat_redirect)
 
 致力于移动与安全研究的开发者社区，看雪学院(kanxue.com)官方微信公众帐号。
 
@@ -185,7 +185,7 @@ pWn3d bY BiGSKidd3r&amp;FuzZer&amp;A2pter&amp;pWn3r rULe4Ker4pwn 65535 tim3s.
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MTY5MzQxMA==)
 
-[:camera_flash:【2024-04-08 12:29:59】](https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247484622&idx=1&sn=34f94dd6ab132b3343361d85acdf305e&chksm=fd5492b4f30d6420b9865afe0948f32f9a9f199ab2534857c5118e645f912807750136ee1aa2&scene=27#wechat_redirect)
+[:camera_flash:【2024-04-23 11:01:37】](https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247484629&idx=1&sn=d58641cc494b7f833b5ea15d18555b6e&chksm=fd2013a4a3709e3846039ab60449bea5fc393dd63a56f934e378750e603cafaccba919c311f4&scene=27#wechat_redirect)
 
 分享最前沿的软件安全与逆向分析技术与资讯。包括Windows、macOS、iOS、Android、Linux等平台。
 
@@ -242,6 +242,19 @@ pWn3d bY BiGSKidd3r&amp;FuzZer&amp;A2pter&amp;pWn3r rULe4Ker4pwn 65535 tim3s.
 主要分享自己在二进制方面的一些技术，比如程序分析，逆向，漏洞等，也会分享一些开发相关的东东
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_29fa961361a8" alt="" />
+
+---
+
+
+### [安全小鸡](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMjQ4NjA1Mg==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMjQ4NjA1Mg==)
+
+[:camera_flash:【2024-03-11 11:08:58】](https://mp.weixin.qq.com/s?__biz=MzkwMjQ4NjA1Mg==&mid=2247484288&idx=1&sn=71638db133506a6374860117bb1e1e23&chksm=c13b1265fe9da253a8e654f90b55844b94f057f03ba99bd9be84f3867a5fb96487f4eaf413ea&scene=27&key=abe979c9663eced1111ddf62b48c1fef046f21b22423bd99ef81330e009a11de15a960f1d2dbcd0ddc388c7472847bd6fd3c8a57eff264199dfe56452d067dd5af123e756b6e88edabccf678dffc5163046a96fd19e1c4325d9f16acee7fc68c95d0223424d93aebb475fbe25e62166355696ea35001f516b32903523466b26a&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+10+x64&version=63060012&lang=zh_CN&session_us=gh_8afb1d49c6bb&countrycode=AL&exportkey=n_ChQIAhIQjiUDQ71qK6dojsT8vwVaSxLuAQIE97dBBAEAAAAAAL2zBWQmZ3UAAAAOpnltbLcz9gKNyK89dVj0EamRD%2FvwmFfOFM0FXcUpCaN7ptHk1uijHW6m%2FimLHMRleXV68%2Fp%2F%2B3V6iGc2ChvjayrZMnZP1%2BH268CsEihghyMpay08QFWwRmAjG8v38kkfmYObtYaL9dP%2BPUowcjwsaPqZeVVB2RITuqTGCDqMWyJRbTje%2BSs18530exq5oESVugGPSy9vohJv0LUKfWWggN7%2BFvdIZisnzdKgWJ%2FwXT796%2BFS6PZOd2Ll1n5PBwR4x3IOulhNoJGam%2BTC18YHsKYD09nhpEM%3D&acctmode=0&pass_ticket=%2F0lwKfSLwmlHEqsq%2BqIVoMnx2DmWRsWg9fPDEgx%2BLTWPvpr2HfC1vRkwSXpX7iSCTEvgCrWFZfe7IZgn1XRryQ%3D%3D&wx_header=0&fontgear=2&scene=27#wechat_redirect)
+
+分享APP逆向、渗透测试、思路技巧、个人笔记、安全工具。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_53c387a6609c" alt="" />
 
 ---
 

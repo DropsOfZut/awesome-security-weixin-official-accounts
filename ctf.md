@@ -42,7 +42,7 @@ PTE小技巧
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5Njg1NzMyNw==)
 
-[:camera_flash:【2024-03-08 09:59:53】](https://mp.weixin.qq.com/s?__biz=MzU5Njg1NzMyNw==&mid=2247487911&idx=1&sn=622eb302ad3b644326ddf31eba7131df&chksm=ff2a7ba487e6688de882dd632fed1e46e70110757392a0a8500be59433815cd8bad56178c35c&scene=27#wechat_redirect)
+[:camera_flash:【2024-04-23 14:53:49】](https://mp.weixin.qq.com/s?__biz=MzU5Njg1NzMyNw==&mid=2247487936&idx=1&sn=31edfcc0efe69a399f48c21421e9a642&chksm=ff309cc6f2b2c5055743cd70f2b57af3d8c15db620c951fd8a6d9d19b09730fe471ac665d99e&scene=27#wechat_redirect)
 
 由奇安信集团、清华大学、蚂蚁集团主办，联合北京大学、中科院软件所、复旦大学、中山大学、山东大学、中国科技大学等30多个知名高校和研究机构共同举办的聚焦大数据安全分析的比赛。
 
@@ -68,7 +68,7 @@ PTE小技巧
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
 
-[:camera_flash:【2024-04-08 10:32:16】](https://mp.weixin.qq.com/s?__biz=MzkyNDA5NjgyMg==&mid=2247497206&idx=1&sn=134d9043ce82aa563775f845c6baf68d&chksm=c050ebb95e9d6a4eedfdef1e33f99dc50fa5be3a7d1d179dcfee1d947a4544770c7b16052339&scene=27&key=abe979c9663eced1dc7bf15c05c59d6561a04edb107b73edfc9475b7cd19193ad50d5292962d84c16eacb586d384937ec1d0a57083921e3c91608dafc441ba212a904aeae525752f513682cae662a645bc6a3b322d1565e523bf5eeb3869e8e1fbbcbbad0ffca5954f2df5ea5cf2e5ba1ea11f2289598bc6ea7be5e75e1be050&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+10+x64&version=63060012&lang=zh_CN&session_us=gh_3a1bfb94fb01&countrycode=AL&exportkey=n_ChQIAhIQe3dkdme534PaxM2Dwk9mvxLuAQIE97dBBAEAAAAAAFGiIR%2Fp1jYAAAAOpnltbLcz9gKNyK89dVj0YMp42aewXtOY9e2F%2FNctJZgQ1n5XXjX%2FbghMA%2FcKRT9uigD%2Fkcx2Un4b%2FM5hqVZRwVBG%2FitoO3JA7OWiOyN9mQbI%2FvLhb3p99tpXkvl%2FvWFloCZb9FvV815KlqKSvc3hhuiE205H9qdwl4PKfqrbiHL%2B2uIR8sHVce%2BdY%2FI7MGwBUhitQzPSu2sM2hqrzq1M8%2BDelyUsmqNXmNzsPiT6nz8uOtR8Tx2hVMvkd12pJUrTzspY0bBW9XQvlHbN4TMTZTEBRQSnHTU%3D&acctmode=0&pass_ticket=TyuX0cGFXBqPGtCAdEWW4RmtHNrkC2SIETNtwcNgIP9KkJ2IoSevoSv%2B7Wt1Om6%2F%2FuUi8RtYeAQbdG59uFZsTg%3D%3D&wx_header=0&fontgear=2&scene=27#wechat_redirect)
+[:camera_flash:【2024-04-25 13:42:05】](https://mp.weixin.qq.com/s?__biz=MzkyNDA5NjgyMg==&mid=2247497215&idx=1&sn=e46cab185576e87fcc07a3743ce14ae3&chksm=c0fa9d08c619f2952dabf641877e164d81462057ebaa905d6812121b6dea299175edefd062a4&scene=27&key=6aae752246096ed8a834000ddcd5bd7fc1bec9b6100ef7d91875dacd7aaa196e26f91f651a3f5e9424f9e80081fea93e0107861ae885ebdefa50a035821c8941ecd954a13a2920a0ead5d92f6c72d1ae2931bfb082b17ad25cd3289333ef8da25335db283620421231a68983b32dd4e5d1d0d162f308ec088f04f5570e2526af&ascene=0&uin=MjM2NjMzNTUwNA%3D%3D&devicetype=Windows+10+x64&version=63060012&lang=zh_CN&countrycode=BJ&exportkey=n_ChQIAhIQpiLDkq%2FB7biIeajSC0thmxLgAQIE97dBBAEAAAAAABL0EB5RC8QAAAAOpnltbLcz9gKNyK89dVj0CKtwkCuAYs250Idq3RZO68WiYUD4U4s8HFdHLsF%2FmpWFLp4wTaB%2B%2FhUDX%2BDe6AGeFT9Jjh91w1CUKjcZd%2BW3JYEjAtXcSLBcpAVEV%2F%2B6Ve8fvoQKRXS7UGG6hGcfObCwzcQEDeijK6Xp0kNK6VSAxfVQ5Av%2FEHzYbnNCNnukWW432DMgPXcdA3NHaKVdWrWTsVw%2BHDm5tzyaW2nlRffgfsM3nymj7UwKNdJRxgnvBF5Z4x7KjAoZk6L4&acctmode=0&pass_ticket=0BRT35OTd%2BsI6yMzWw1TcUPspPd6lASMMPSr%2F9l2E29adviAxJ8luvtlrG8EUYdP4OJBWxIrYQ3GQ1QefQhmqg%3D%3D&wx_header=0&fontgear=2&scene=27#wechat_redirect)
 
 春秋伽玛，为广大网络安全爱好者传递网络安全大赛相关赛事信息，提供优质的赛事服务平台
 
