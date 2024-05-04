@@ -185,7 +185,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
 
-[:camera_flash:【2024-04-30 10:07:42】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247607563&idx=3&sn=6ff589bc5736bfaad2c947bb4d089205&chksm=fd265d9267bb0e480751c4eda1ce44a0da046bb7a9513b6ec0abcc1a60fa66aec5c2a3cbb881&scene=27#wechat_redirect)
+[:camera_flash:【2024-05-01 14:51:49】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247607606&idx=3&sn=071d425cf99a24494f12545b9eab55c4&chksm=fd089218c8303b1b19cf207cd55d4dfd3549f334bbce362d86b2ca7aee2d2f89dc7631ab3d26&scene=27#wechat_redirect)
 
 为智能网联汽车行业专业人士提供信息和网络安全技术、产品及服务等行业发展最新咨询
 
