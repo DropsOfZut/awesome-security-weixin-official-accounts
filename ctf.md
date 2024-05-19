@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
 
-[:camera_flash:【2024-04-18 10:04:28】](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247515084&idx=1&sn=aafdbfed3b15db828672e3514cf2d75f&chksm=a74c3061db6f380e0a7e47c9baec9963c1662658194c6a1e918ba265878f133630515efffbea&scene=27#wechat_redirect)
+[:camera_flash:【2024-05-11 17:32:54】](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247515100&idx=1&sn=bdcba0f7c98b98bb4e74befe6fa72d74&chksm=a7cfc1f1d17d2ed9143042a72ae6f07b26291cda7e7056d3cc1e3eeb48e495880c0f64f3130a&scene=27&key=978d8ac09b04f4168230ffc5ced8abb98fead4849f614da7874d2c438cf215e2bd9007ff3eee266356dc629112591375e2d0c44c16ff51dd90129f411f6bf52a1072b58062d615bc70338cfb333e1f85c98f6df84b4ebce333947a2430a18ac0e711392bb390865b64fb996f83e79d0d44f2dab5bf34a90376e6cc5953021773&ascene=0&uin=NTY2NTA4NjQ%3D&devicetype=Windows+10+x64&version=63060012&lang=zh_CN&countrycode=AL&exportkey=n_ChQIAhIQpNo489Q02QdzraDISrB72xLfAQIE97dBBAEAAAAAACMKBdmSglUAAAAOpnltbLcz9gKNyK89dVj0SnJ2evl6xYshY1%2Fyy1V1U02YtDJcy4LWf8IyyJwaLWouV8F8%2BjKS5ro68bprB5xLAB19e6yH3SH7GUFPqHmzaHr6hm5vJAxlUUDZ7%2B57oJuFkBCxwawP3xayrsOVOwLTR6bkXAdimydLwDXfA7NdrBGnbzullsn5dy9XW15Y3FqZRhJpFAmE1VrmGwqon%2F73UXUTVXKpxH00Vv2PDcZi6DcgT8e6nSLXdvsbYvDJEgcESIxU%2BCR%2FxYM%3D&acctmode=0&pass_ticket=53dk1TJ1Pk%2Bhvg4YYOCvfvyApJTHSM4LpbBBR5DmTV7FcG3NmZBMDr9bI6h6e182ZYudtmsnZ1aj7W56i%2FWhUQ%3D%3D&wx_header=0&fontgear=2&scene=27#wechat_redirect)
 
 国内最早、亚洲最大的网络攻防联赛。
 
@@ -42,7 +42,7 @@ PTE小技巧
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5Njg1NzMyNw==)
 
-[:camera_flash:【2024-05-01 10:02:27】](https://mp.weixin.qq.com/s?__biz=MzU5Njg1NzMyNw==&mid=2247487942&idx=1&sn=696b19ccc14e54d68260218b179738de&chksm=ff16082009766d02a3afb291a8a2567cec685d8237e1d3521b145086eeac4d7fd116b8b59118&scene=27#wechat_redirect)
+[:camera_flash:【2024-05-09 10:18:55】](https://mp.weixin.qq.com/s?__biz=MzU5Njg1NzMyNw==&mid=2247487948&idx=1&sn=c0a6b9a812937fad1b8a10fd972c11df&chksm=ff653b4c9d7e3424bc55ab83cda949eee62191e5b248e1bbb327472545f1a078ba81b21e4f82&scene=27#wechat_redirect)
 
 由奇安信集团、清华大学、蚂蚁集团主办，联合北京大学、中科院软件所、复旦大学、中山大学、山东大学、中国科技大学等30多个知名高校和研究机构共同举办的聚焦大数据安全分析的比赛。
 
@@ -68,7 +68,7 @@ PTE小技巧
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
 
-[:camera_flash:【2024-04-29 19:16:27】](https://mp.weixin.qq.com/s?__biz=MzkyNDA5NjgyMg==&mid=2247497227&idx=1&sn=6bda8d4390d92914a0c10949b44d86e1&chksm=c0431587e3f0f276f6a671a43787bb40a5f7b002a250814cb80e0b9d9795fdc61295a9829954&scene=27&key=200f9e9e1b7be3f4f5b6a351b27cfe6f365a0bf199c227002ee7e3666a93bd6e2424eb39f30ad46e2a8bcae53743ca9e3234db849cc1d788b54e02c8ddf7761e556d22f1b5b44b1952ec78ae6a10790d5b446a5eac2458bd857be6db2380f80c873d9e8d1e2b9506842147f67722dcff2a1c319890f2b5f5b4833a5ac118ebf6&ascene=15&uin=NTY2NTA4NjQ%3D&devicetype=Windows+10+x64&version=63060012&lang=zh_CN&session_us=gh_afd8ec87971a&countrycode=AL&exportkey=n_ChQIAhIQz8fGkCvlcTa0GWgStWnT2xLuAQIE97dBBAEAAAAAAA07Gj7O6FIAAAAOpnltbLcz9gKNyK89dVj0xXrBS78AU7dlDOH5mcoIFfCgzjS0R%2Fa32CRt4Y14AFJXiKL4UfieqfLD7YGv7xWchZNYlGKvW3ZGaQsMO%2BdrueJK7ThcbPIm7zbbd13sqFRgqllgvnDtj1hqv5LTo01Hgq7TUa3rucZdQP2rQ53ugI0%2FOemSiO6xvjIfsBwyzXFPoTARyTBXf0luwVuaDOLGfHRNj6IOPbUkNjVs%2BCtrcdpYNZFu%2FYOByJTVxnkvJvrXTFF5RJBbGyJ7hyZboiw0V87HQUE517k%3D&acctmode=0&pass_ticket=k6d6z%2BKy0msuTHKg4PxkI10oFUOeBgh4C%2BFGrCXMFSGHW3XQNwEPrDFN%2FkcgS%2BorMRe%2FH%2B3BH43TK3j2rImhFA%3D%3D&wx_header=0&fontgear=2&scene=27#wechat_redirect)
+[:camera_flash:【2024-05-15 13:50:44】](https://mp.weixin.qq.com/s?__biz=MzkyNDA5NjgyMg==&mid=2247497315&idx=1&sn=931993426c1e41cfda4e9f0603427cda&chksm=c0c462248601bdd7bf754ad70d02a8b7d80a3248f8dc59219af901f7c174d2fa74b916522f71&scene=27&key=67cf29deb310b01791ae36c7615c18e86af9fccf6859eee2c9de0745ced7d7738da5714b791aa0f30f63dd23d5e8ebc41013208234813c06c1063ac8859d58bfdf51c0de969bb558672ff4a8846072e99b1033354b8576b47b460a04e649b7e68803c49ac5e6e51255b66b74c8db6219d9c744ed0e34195325181e1abb139b9e&ascene=0&uin=MzgxODQ4MjMz&devicetype=Windows+10+x64&version=63090819&lang=zh_CN&countrycode=GY&exportkey=n_ChQIAhIQGMiS9P1Xjhahj58FJEJ9mhLgAQIE97dBBAEAAAAAAJ1sMaC19ycAAAAOpnltbLcz9gKNyK89dVj02NX5Fvvmc0pAq4RNFOKYzFEdA1S7m1bP5wDoPXQU%2F%2BHJx%2BFjygnfRViRJatl2Mjdeh1uafxvyG185zjaAsIb6a8eRRKd42LAtrg3Dwi0X%2BVFWMwsATKTyqVzDUrnVubwUn0KPvdNIBWxqT%2FKWGNTinWCywQiGOa6hfo7uxp2pKc8Q6SkquBaDJ7NP5V6Qf1YpotjJneGT7L6EIodLk6X%2FwFx907%2BwfXkPgRg2pchK0auVJrdrdbgDh%2Fb&acctmode=0&pass_ticket=UQJJnGmhsJD1JyrNf11%2BhKlzBs6up5%2FP9phnzmUxdHkw5VEkKnsvOWt3iZd6DRy0sP2qbdLawhHS0we7WIWB5A%3D%3D&wx_header=1&scene=27#wechat_redirect)
 
 春秋伽玛，为广大网络安全爱好者传递网络安全大赛相关赛事信息，提供优质的赛事服务平台
 
@@ -120,7 +120,7 @@ CTF，从入门到放弃
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzEwMTQ3NQ==)
 
-[:camera_flash:【2024-04-01 22:11:41】](https://mp.weixin.qq.com/s?__biz=MzU3MzEwMTQ3NQ==&mid=2247507296&idx=1&sn=1d5632f279dada3562c500bf3516d54e&chksm=fd5e3001d637c9bc55b06b4411c3cdec5d3e0d31c376441dffd34859bd67912d9e0ca0c56138&scene=27&key=954ea3a1ac79fd225d94e545770518dfd1c11ef9894f38ea11028942332f49390a35de9ec0400096d26015cb151a79462481295e8164b135311c245d4d7608345926b58da22d3d454d2b80d61233fc1e19b67697e91786f659696545ab8d703113ce753fc96516ea585dcffd3301354de4aca47bb9667d63539a4b99beba9bbb&ascene=0&uin=MzgxODQ4MjMz&devicetype=Windows+10+x64&version=63090819&lang=zh_CN&countrycode=GY&exportkey=n_ChQIAhIQSEzawFEvzvsg8PM0C740fRLgAQIE97dBBAEAAAAAAGgtJl1GpesAAAAOpnltbLcz9gKNyK89dVj04AHuZutd07%2BvhJLvh6TJaZvV%2FheVQK%2BayckWqT2Wkt9odZ%2BI9FU1AYSS2PgIG8wyiyj12I0qsMAV0Q3RF6CfMljiwWWiltcgCH6%2Bo4z4EsZJyEf80Ol9ueaakzAdmGEFfDgw%2BHD8w7POlL3BS78qZZbWvFBspqjIY7O7vemH9%2Fay8LvZjRPWDrlmr9rhiaCMIu4aLTiZE2wn6lyfa6Mj27OVNP2oZqN36flWD9ZEHmJGnY02ERcJNLhO&acctmode=0&pass_ticket=nhxQ%2B%2B0Bv5CQc%2F%2BkZufaC3hs7RU2PA%2FtjWUUu8Kp1%2BD%2Bf%2BRAZuRUXVET2FYauZi0xLYBuhRlzmC1sraT1811pw%3D%3D&wx_header=1&scene=27#wechat_redirect)
+[:camera_flash:【2024-05-13 14:33:04】](https://mp.weixin.qq.com/s?__biz=MzU3MzEwMTQ3NQ==&mid=2247507302&idx=1&sn=a2975965d7dce238d01b523f8b277192&chksm=fdfa40a5b66037c433f579691b487f7c800d0034b29be1567c02dddfdc1a68a3d9dac619a732&scene=27&key=4c8000bc24ea433291fda303bf558143b64f4b3a0be77ad03fdb58d0f1060dc606950222ed023e0e516d45844aeb76ad74a3e6be1841d3712c056910c187c1e8adade4b3f00045eb2eebaefc957dec299caf358de7b9422542dda33840b0b11c06c13b970ab79f447c3c200f9a8cbb93cfc079b013a00cae5a763b3daa8d0c42&ascene=0&uin=MzgxODQ4MjMz&devicetype=Windows+10+x64&version=63090819&lang=zh_CN&countrycode=GY&exportkey=n_ChQIAhIQWTR3DmoqSz%2FF4L8f%2Bq2VwhLgAQIE97dBBAEAAAAAANgOKSlZFaQAAAAOpnltbLcz9gKNyK89dVj0xaMvqQyTLd4W36KcoXOcyegPvIjiJsFvrM5sCI%2Bwrkd6BeWSFsL26lpW%2BXTY3jQZ3j%2BvhrW7OVoghma7gMvv6mha49AMdnjPLUi%2BcZdbYk87lR%2B7QeyHVf1MPXQsUSkxiqPkM2K2ZSOLIxxrtpj%2BlSEbcnKRtBDOZSCdThE6%2FqlcOMB432%2FDZxZ8u0eXLqzUyWO6szH%2B19V%2Bz6FW8%2BwTeBRRTcuBUSOEMYKXn35MrTTkyb7mHjAO%2FgGq&acctmode=0&pass_ticket=UQJJnGmhsJD1JyrNf11%2BhKlzBs6up5%2FP9phnzmUxdHmQSBRxHFcIOMPz5ZvKLVen7pG8vD3BwkNdvrXVaVWtAA%3D%3D&wx_header=1&scene=27#wechat_redirect)
 
 青少年CTF（原名中学生CTF）帮助大家学习CTF竞赛，信息安全与网络技术。大家如果喜欢我们的视频讲解和教程可以加入我们的QQ群：797842833。快来和我们一起学习安全知识吧。
 
@@ -294,6 +294,19 @@ CTF协会
 做最棒的CTF教程！Hello CTF 官方公众号~
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_508c7bf9a103" alt="" />
+
+---
+
+
+### [网鼎杯](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMTYzNzMxMw==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMTYzNzMxMw==)
+
+[:camera_flash:【2023-04-19 08:16:21】](https://mp.weixin.qq.com/s?__biz=MzkxMTYzNzMxMw==&mid=2247484902&idx=1&sn=134df87e1daa86389a75f3cb5b605865&chksm=c0d8a4e528cdbee47e5ea9d13c230e353091334d49e1abbdc7aadd8979ce193887deeaa8c8d3&scene=27#wechat_redirect)
+
+“网鼎杯”是迄今为止全球规模最大、覆盖面最广的高水平网络安全赛事，被称为网络安全“奥运会”。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_882612df5e85" alt="" />
 
 ---
 
