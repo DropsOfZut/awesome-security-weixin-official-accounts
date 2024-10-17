@@ -53,9 +53,9 @@
 
 ### [Z2O安全攻防](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2ODYxMzY3OQ==)
 
-[:chart_with_upwards_trend:【0/40/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2ODYxMzY3OQ==)
+[:chart_with_upwards_trend:【0/42/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2ODYxMzY3OQ==)
 
-[:camera_flash:【2024-10-16T21:10:00】](https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247516132&idx=2&sn=7410d526cc35778bc6fd0a4cbe386455&scene=27#wechat_redirect)
+[:camera_flash:【2024-10-17T20:57:35】](https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247516149&idx=2&sn=d625f8b0d7d833859dd30dfa964d3264&scene=27#wechat_redirect)
 
 From zero to one
 

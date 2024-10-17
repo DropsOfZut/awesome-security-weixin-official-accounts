@@ -862,7 +862,7 @@
 * [Ots安全](/person.md#Ots安全) : 持续发展共享方向：威胁情报、漏洞情报、恶意分析、渗透技术（工具）等，不会回复任何私信，感谢关注。  [:chart_with_upwards_trend:【1/81/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxMjYyMzkwOA==)
 * [白帽子左一](/person.md#白帽子左一) : 零基础也能学渗透！关注我，跟我一启开启渗透测试工程师成长计划.专注分享网络安全知识技能.  [:chart_with_upwards_trend:【23/56/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI4NTcxMjQ1MA==)
 * [利刃信安攻防实验室](/person.md#利刃信安攻防实验室) : 利刃信安攻防实验室是一家专注于提供网络安全解决方案的专业服务商。我们能够提供包括等保、软测试、密码评估、风险评估、渗透测试等项目合作服务。此外，我们还能够提供CISP、PTE、CISSP、PTS及其他各种网络安全证书培训考证服务。  [:chart_with_upwards_trend:【13/42/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU1Mjk3MDY1OA==)
-* [Z2O安全攻防](/person.md#Z2O安全攻防) : From zero to one  [:chart_with_upwards_trend:【0/40/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2ODYxMzY3OQ==)
+* [Z2O安全攻防](/person.md#Z2O安全攻防) : From zero to one  [:chart_with_upwards_trend:【0/42/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2ODYxMzY3OQ==)
 * [冷漠安全](/person.md#冷漠安全) : 网络安全领域前沿信息、学习文档、工具、POC、EXP等各类资源分享。  [:chart_with_upwards_trend:【0/31/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDY3MTY3MA==)
 * [Web安全工具库](/person.md#Web安全工具库) : 将一些好用的红队工具、蓝队工具及自己的学习笔记分享给大家。。。  [:chart_with_upwards_trend:【0/28/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI4MDQ5MjY1Mg==)
 * [迪哥讲事](/person.md#迪哥讲事) : 作者主页: https://github.com/richard1230  [:chart_with_upwards_trend:【0/28/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzMTIzNTM0MA==)
