@@ -155,7 +155,7 @@
 ## [安全建设类](/secdev.md)
 
 *企业建设、安全解读与见解、风险控制*
-* [商密君](/secdev.md#商密君) : 商密君是全国密码行业头部公众号，旨在宣传推广《密码法》，普及商用密码知识，解读密码政策，分享商用密码行业的最新动态，为密码产业产学研用做好宣传服务，连接密码全行业精英，推动密码技术在数字经济各行业的应用和创新。  [:chart_with_upwards_trend:【0/98/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
+* [商密君](/secdev.md#商密君) : 商密君是全国密码行业头部公众号，旨在宣传推广《密码法》，普及商用密码知识，解读密码政策，分享商用密码行业的最新动态，为密码产业产学研用做好宣传服务，连接密码全行业精英，推动密码技术在数字经济各行业的应用和创新。  [:chart_with_upwards_trend:【0/102/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
 * [掌控安全EDU](/secdev.md#掌控安全EDU) : 安全教程\\高质量文章\\面试经验分享，尽在#掌控安全EDU#  [:chart_with_upwards_trend:【25/70/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
 * [网络与信息法学会](/secdev.md#网络与信息法学会) : 中国法学会网络与信息法学研究会及其会刊《网络与信息法学研究》官方公众号。汇集国内外网络信息法领域理论性、前瞻性、创新性研究成果，引领、推动、服务中国网络信息法治发展。  [:chart_with_upwards_trend:【0/57/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU1NDY3NDgwMQ==)
 * [数世咨询](/secdev.md#数世咨询) : 中国数字产业领域中立的第三方调研机构，提供网络安全行业的调查、研究与咨询服务。  [:chart_with_upwards_trend:【3/25/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
