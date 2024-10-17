@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【0/53/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0NDk0NTAwMw==)
 
-[:camera_flash:【2024-10-17T18:37:17】](https://mp.weixin.qq.com/s?__biz=MzU0NDk0NTAwMw==&mid=2247619647&idx=1&sn=313b4cdc84bf6d1bc40ab5402db3b630&scene=27#wechat_redirect)
+[:camera_flash:【2024-10-17T18:37:17】](https://mp.weixin.qq.com/s?__biz=MzU0NDk0NTAwMw==&mid=2247619647&idx=2&sn=92a47368b4e0bc680a8559e8d5237836&scene=27#wechat_redirect)
 
 新一代网络安全领军者。
 
@@ -68,7 +68,7 @@
 
 [:chart_with_upwards_trend:【0/24/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4MTg0MDQ4Nw==)
 
-[:camera_flash:【2024-10-17T18:39:13】](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247576004&idx=1&sn=291088cac0a014c4ba9c30fab0650027&scene=27#wechat_redirect)
+[:camera_flash:【2024-10-17T18:39:13】](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247576004&idx=2&sn=b904e30a7022a6c372dbd63660b12c5b&scene=27#wechat_redirect)
 
 数字安全的领导者
 

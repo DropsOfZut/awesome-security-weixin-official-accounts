@@ -414,7 +414,7 @@
 ## [安全团队类](/team.md)
 
 *公司安全研究团队、安全组织、技术分享*
-* [飓风网络安全](/team.md#飓风网络安全) : 专注网络安全，成立于2016年;专注于研究安全服务，黑客技术、0day漏洞、提供服务器网站安全解决方案，数据库安全、服务器安全运维。  [:chart_with_upwards_trend:【0/32/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3NzMzNzE5Ng==)
+* [飓风网络安全](/team.md#飓风网络安全) : 专注网络安全，成立于2016年;专注于研究安全服务，黑客技术、0day漏洞、提供服务器网站安全解决方案，数据库安全、服务器安全运维。  [:chart_with_upwards_trend:【0/35/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3NzMzNzE5Ng==)
 * [中国电信安全](/team.md#中国电信安全) : 天翼安全科技有限公司（中国电信安全公司，简称“电信安全”）是中国电信集约开展网络安全业务的科技型、平台型专业公司，依靠中国电信云网资源禀赋，始终坚持以科技创新带动安全能力的全方位布局。拳头产品云堤·抗D稳居行业第一。  [:chart_with_upwards_trend:【10/31/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNDY0MjMxNQ==)
 * [船山信安](/team.md#船山信安) : 船山院士网络安全团队唯一公众号，为国之安全而奋斗，为信息安全而发声！  [:chart_with_upwards_trend:【2/29/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2NDY2OTU4Nw==)
 * [洞见网安](/team.md#洞见网安) : 洞见网安，专注于网络空间测绘、漏洞研究、远程监测、漏洞预警  [:chart_with_upwards_trend:【0/27/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxNzg3NzMyNQ==)
@@ -878,8 +878,8 @@
 * [李白你好](/person.md#李白你好) : &quot;一个有趣的网络安全小平台&quot; 主攻WEB安全 | 内网渗透 | 红蓝对抗 | SRC | 安全资讯等内容分享，关注了解更多实用的安全小知识～  [:chart_with_upwards_trend:【0/18/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMzMwODg2Mw==)
 * [网络安全者](/person.md#网络安全者) : 分享一点网络安全知识，ivu123ivu  [:chart_with_upwards_trend:【0/18/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3NzY3MzYzMw==)
 * [青衣十三楼飞花堂](/person.md#青衣十三楼飞花堂) : C/ASM程序员之闲言碎语  [:chart_with_upwards_trend:【13/14/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzMjQyMDE3Ng==)
+* [骨哥说事](/person.md#骨哥说事) : 关注信息安全趋势，发布国内外网络安全事件，不定期发布对热点事件的个人见解。  [:chart_with_upwards_trend:【11/14/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Mzc4MzUzMQ==)
 * [信安王子](/person.md#信安王子) : 最新信安资讯、渗透实例（全是抄的）  [:chart_with_upwards_trend:【11/14/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjY5MDE4NA==)
-* [骨哥说事](/person.md#骨哥说事) : 关注信息安全趋势，发布国内外网络安全事件，不定期发布对热点事件的个人见解。  [:chart_with_upwards_trend:【10/13/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Mzc4MzUzMQ==)
 * [棉花糖fans](/person.md#棉花糖fans) : 棉花糖的粉丝们的聚集地，这里会更新棉花糖瞎说的话  [:chart_with_upwards_trend:【10/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyOTQzNjIwNw==)
 * [道玄网安驿站](/person.md#道玄网安驿站) : 本号主推OSCP，vulnhub，车联网，红蓝对抗，挖洞，网络新闻等网络安全信息，喜欢的可以关注  [:chart_with_upwards_trend:【10/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NTg5MDQ0OA==)
 * [潇湘信安](/person.md#潇湘信安) : 一个不会编程、挖SRC、代码审计的安全爱好者，主要分享一些安全经验、渗透思路、奇淫技巧与知识总结。  [:chart_with_upwards_trend:【2/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NTUwMzM1Ng==)
@@ -1477,7 +1477,7 @@
 ## [硬件安全类](/hardware.md)
 
 *车联网、工控、物联网、路由器、摄像头、无线电*
-* [IoVSecurity](/hardware.md#IoVSecurity) : 为智能网联汽车行业专业人士提供信息和网络安全技术、产品及服务等行业发展最新咨询  [:chart_with_upwards_trend:【0/85/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
+* [IoVSecurity](/hardware.md#IoVSecurity) : 为智能网联汽车行业专业人士提供信息和网络安全技术、产品及服务等行业发展最新咨询  [:chart_with_upwards_trend:【0/88/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
 * [网络安全与取证研究](/hardware.md#网络安全与取证研究) : 旨于开展网络安全相关法律法规研究与电子数据取证技术研究，分享小知识、小技巧，共同学习提高，推进技术规范化建设。  [:chart_with_upwards_trend:【0/31/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTU3NTY0Nw==)
 * [IoT物联网技术](/hardware.md#IoT物联网技术) : 云计算、物联网、大模型暗中观察小分队  [:chart_with_upwards_trend:【9/23/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
 * [太空安全](/hardware.md#太空安全) : 学习卫星互联网，研究卫星通信安全！  [:chart_with_upwards_trend:【0/13/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwNjM4NTg4OQ==)

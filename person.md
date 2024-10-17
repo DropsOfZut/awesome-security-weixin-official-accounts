@@ -55,7 +55,7 @@
 
 [:chart_with_upwards_trend:【0/42/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2ODYxMzY3OQ==)
 
-[:camera_flash:【2024-10-17T20:57:35】](https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247516149&idx=2&sn=d625f8b0d7d833859dd30dfa964d3264&scene=27#wechat_redirect)
+[:camera_flash:【2024-10-17T20:57:35】](https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247516149&idx=1&sn=cbe88eb7ebe0586102f335b02213fa33&scene=27#wechat_redirect)
 
 From zero to one
 
@@ -259,6 +259,19 @@ C/ASM程序员之闲言碎语
 ---
 
 
+### [骨哥说事](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Mzc4MzUzMQ==)
+
+[:chart_with_upwards_trend:【11/14/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Mzc4MzUzMQ==)
+
+[:camera_flash:【2024-10-17T21:36:03】](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MzUzMQ==&mid=2650260002&idx=1&sn=00eb81f108be384c5da83fda306be501&scene=27#wechat_redirect)
+
+关注信息安全趋势，发布国内外网络安全事件，不定期发布对热点事件的个人见解。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_42d2d7f99e34" alt="" />
+
+---
+
+
 ### [信安王子](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjY5MDE4NA==)
 
 [:chart_with_upwards_trend:【11/14/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjY5MDE4NA==)
@@ -268,19 +281,6 @@ C/ASM程序员之闲言碎语
 最新信安资讯、渗透实例（全是抄的）
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_aa248fc3b5bb" alt="" />
-
----
-
-
-### [骨哥说事](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Mzc4MzUzMQ==)
-
-[:chart_with_upwards_trend:【10/13/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Mzc4MzUzMQ==)
-
-[:camera_flash:【2024-10-15T17:23:28】](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MzUzMQ==&mid=2650259971&idx=1&sn=44d895d5cafb680a0a01d1c6321eb1d8&scene=27#wechat_redirect)
-
-关注信息安全趋势，发布国内外网络安全事件，不定期发布对热点事件的个人见解。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_42d2d7f99e34" alt="" />
 
 ---
 
@@ -835,7 +835,7 @@ CSDN、华为云博客专家，武大博士，北理硕士本科。专注于Pyth
 
 [:chart_with_upwards_trend:【1/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5OTA0MTU4Mg==)
 
-[:camera_flash:【2024-10-12T21:14:50】](https://mp.weixin.qq.com/s?__biz=MzA5OTA0MTU4Mg==&mid=2247486119&idx=1&sn=d6a8a4e144d2452a72b382ebd93fa464&scene=27#wechat_redirect)
+[:camera_flash:【2024-10-12T21:14:50】](https://mp.weixin.qq.com/s?__biz=MzA5OTA0MTU4Mg==&mid=2247486119&idx=2&sn=b331b9c3925f1e1f1b1259e4e39ba97b&scene=27#wechat_redirect)
 
 我们可以卑微如尘土，但不能扭曲如蛆虫。
 

@@ -42,7 +42,7 @@
 
 [:chart_with_upwards_trend:【0/102/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzMzE4NDU1OQ==)
 
-[:camera_flash:【2024-10-17T19:00:24】](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652065297&idx=3&sn=763d27a5148619b21d8a21de71663c4c&scene=27#wechat_redirect)
+[:camera_flash:【2024-10-17T19:00:24】](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652065297&idx=4&sn=6553ac6cf6c694af3a1a0522d91e551e&scene=27#wechat_redirect)
 
 专注网络安全：网罗圈内热点事件，细说安全风云变幻！
 
@@ -107,7 +107,7 @@
 
 [:chart_with_upwards_trend:【0/36/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0MDY1MDU4MQ==)
 
-[:camera_flash:【2024-10-17T18:26:38】](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247578434&idx=2&sn=334c311a4fb1949e6dd4bf968c7259f5&scene=27#wechat_redirect)
+[:camera_flash:【2024-10-17T18:26:38】](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247578434&idx=1&sn=f9ecb45d60839498549e592b69ebf868&scene=27#wechat_redirect)
 
 我们以客观、中立、数据为基础，鼓励读者独立思考，提供全面的网络安全行业资讯。
 
@@ -146,7 +146,7 @@
 
 [:chart_with_upwards_trend:【9/27/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODYyMDIzNw==)
 
-[:camera_flash:【2024-10-17T18:59:37】](https://mp.weixin.qq.com/s?__biz=MzUzODYyMDIzNw==&mid=2247512214&idx=2&sn=91af8424cb245356185f13a4e0771218&scene=27#wechat_redirect)
+[:camera_flash:【2024-10-17T18:59:37】](https://mp.weixin.qq.com/s?__biz=MzUzODYyMDIzNw==&mid=2247512214&idx=1&sn=00bb4fc9ed407cfc2f0f8dca64bbaf44&scene=27#wechat_redirect)
 
 赛博研究院是面向全球数字化转型成立的上海市级民非机构，研究院专注数字经济、网络安全、数据治理、人工智能等领域的政策和产业研究，通过提供研究报告、决策咨询、产业规划、论坛会议、投资分析、数据服务等专业智库产品，助力政府和企业共建美好数字未来。
 
