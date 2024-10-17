@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【0/85/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
 
-[:camera_flash:【2024-10-15T22:02:06】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247614530&idx=3&sn=984eb77e6cd9e8ab3258ee4d875a8690&scene=27#wechat_redirect)
+[:camera_flash:【2024-10-16T20:26:28】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247614568&idx=3&sn=f14756f952bdfcb30db991a934d804b6&scene=27#wechat_redirect)
 
 为智能网联汽车行业专业人士提供信息和网络安全技术、产品及服务等行业发展最新咨询
 
@@ -16,7 +16,7 @@
 
 [:chart_with_upwards_trend:【0/31/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTU3NTY0Nw==)
 
-[:camera_flash:【2024-10-16T08:00:49】](https://mp.weixin.qq.com/s?__biz=Mzg3NTU3NTY0Nw==&mid=2247489271&idx=1&sn=a767a10862fd14be4a0d9f4442bfb7cd&scene=27#wechat_redirect)
+[:camera_flash:【2024-10-17T08:04:22】](https://mp.weixin.qq.com/s?__biz=Mzg3NTU3NTY0Nw==&mid=2247489275&idx=1&sn=8f3c8491bbc4d289dfc6d3d571606718&scene=27#wechat_redirect)
 
 旨于开展网络安全相关法律法规研究与电子数据取证技术研究，分享小知识、小技巧，共同学习提高，推进技术规范化建设。
 
@@ -151,6 +151,19 @@ IOTsec-Zone是一个致力于提供高质量、高标准的物联网安全信息
 CMboye中机博也车联网信息安全实验室，依托自主研发的车联网测试云平台及车联网安全靶场平台，为客户提供整车测试、仿真靶场、产品及车辆信息安全合规测试、车联网安全人才培养、车联网安全比赛服务及面向汽车主机厂的车联网安全解决方案。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_2dae374c453f" alt="" />
+
+---
+
+
+### [汽车网络与信息安全](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NzA3NTI1MA==)
+
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NzA3NTI1MA==)
+
+[:camera_flash:【2024-10-16T15:11:08】](https://mp.weixin.qq.com/s?__biz=MzI5NzA3NTI1MA==&mid=2247486949&idx=1&sn=ed1bafa5cd632ce44ab9a4082a210760&scene=27#wechat_redirect)
+
+定期分享汽车网络与信息安全的前沿消息，知识干货
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0f1bc0b7c3a2" alt="" />
 
 ---
 
@@ -359,19 +372,6 @@ CMboye中机博也车联网信息安全实验室，依托自主研发的车联�
 汽车联网化的已经在业界获得高度共识，联网后的”网络安全“正在成为热点；本公众号是第一个关注汽车网络安全的自媒体，通过原创文章，发布车联网安全相关的重大事件、技术突破及发展趋势；为关注汽车网络安全的个人或组织提供一个重要的资讯通道！
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_60224803d00e" alt="" />
-
----
-
-
-### [汽车网络与信息安全](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NzA3NTI1MA==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NzA3NTI1MA==)
-
-[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
-
-定期分享汽车网络与信息安全的前沿消息，知识干货
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0f1bc0b7c3a2" alt="" />
 
 ---
 
