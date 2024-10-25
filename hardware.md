@@ -1,9 +1,9 @@
 
 ### [IoVSecurity](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
 
-[:chart_with_upwards_trend:【0/88/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
+[:chart_with_upwards_trend:【0/85/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
 
-[:camera_flash:【2024-10-17T21:29:49】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247614582&idx=3&sn=81f0a7f0fb1d9341f67a0f52d61d8ca7&scene=27#wechat_redirect)
+[:camera_flash:【2024-10-24T18:31:53】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247614960&idx=3&sn=346329574c5e99ae4f65205292e7aaa3&scene=27#wechat_redirect)
 
 为智能网联汽车行业专业人士提供信息和网络安全技术、产品及服务等行业发展最新咨询
 
@@ -16,7 +16,7 @@
 
 [:chart_with_upwards_trend:【0/31/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTU3NTY0Nw==)
 
-[:camera_flash:【2024-10-17T08:04:22】](https://mp.weixin.qq.com/s?__biz=Mzg3NTU3NTY0Nw==&mid=2247489275&idx=1&sn=8f3c8491bbc4d289dfc6d3d571606718&scene=27#wechat_redirect)
+[:camera_flash:【2024-10-25T08:01:12】](https://mp.weixin.qq.com/s?__biz=Mzg3NTU3NTY0Nw==&mid=2247489296&idx=1&sn=fed445ac63bc751ed5dcde7154694712&scene=27#wechat_redirect)
 
 旨于开展网络安全相关法律法规研究与电子数据取证技术研究，分享小知识、小技巧，共同学习提高，推进技术规范化建设。
 
@@ -27,9 +27,9 @@
 
 ### [IoT物联网技术](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
 
-[:chart_with_upwards_trend:【9/23/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
+[:chart_with_upwards_trend:【8/23/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
 
-[:camera_flash:【2024-10-15T08:21:43】](https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&mid=2454935623&idx=1&sn=b081453e5fb7b636c522cc65d38623c9&scene=27#wechat_redirect)
+[:camera_flash:【2024-10-22T08:16:30】](https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&mid=2454935727&idx=1&sn=e432abba6c7401a34e95a4ddb4a41d5a&scene=27#wechat_redirect)
 
 云计算、物联网、大模型暗中观察小分队
 
@@ -55,7 +55,7 @@
 
 [:chart_with_upwards_trend:【0/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNDcwMDgzMA==)
 
-[:camera_flash:【2024-10-15T00:00:37】](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651047965&idx=2&sn=e0188391e942365a2dffc9e9b6152bd3&scene=27#wechat_redirect)
+[:camera_flash:【2024-10-22T07:36:22】](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651047984&idx=2&sn=3935be39447b50ffc628e97aac439e5c&scene=27#wechat_redirect)
 
 关注刑事证据科学前沿发展，传递电子物证技术最新趋势
 
@@ -64,41 +64,28 @@
 ---
 
 
-### [全频带阻塞干扰](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzMzE2OTQyNA==)
-
-[:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzMzE2OTQyNA==)
-
-[:camera_flash:【2024-09-24T11:38:53】](https://mp.weixin.qq.com/s?__biz=MzIzMzE2OTQyNA==&mid=2648957949&idx=1&sn=80b8d999a0638f9dc5f885db817ef8cf&scene=27#wechat_redirect)
-
-坚持以非正常体位探寻未知信号。 国内商业安全、TSCM技术反窃密、隐私保护及物理安全领域前行者。持久关注通信安全、海外威胁情报、犯罪防御与群氓效应。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_685fcc00c91c" alt="" />
-
----
-
-
-### [IOTsecZone](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NTgwNzg5MQ==)
-
-[:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NTgwNzg5MQ==)
-
-[:camera_flash:【2024-09-27T16:37:21】](https://mp.weixin.qq.com/s?__biz=Mzg2NTgwNzg5MQ==&mid=2247487008&idx=1&sn=53544974efab126131be8991766fcb6d&scene=27#wechat_redirect)
-
-IOTsec-Zone是一个致力于提供高质量、高标准的物联网安全信息和技术交流的一站式开放性平台。我们提供原创技术干货分享、物联网安全集合地、理论实战演练课程和最新安全资讯动态等服务。官方网站：www.iotsec-zone.com。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_44b0c10fbdf5" alt="" />
-
----
-
-
 ### [Gh0xE9](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNTc5MTMyNg==)
 
-[:chart_with_upwards_trend:【1/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNTc5MTMyNg==)
+[:chart_with_upwards_trend:【2/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNTc5MTMyNg==)
 
-[:camera_flash:【2024-10-11T00:00:29】](https://mp.weixin.qq.com/s?__biz=MzAwNTc5MTMyNg==&mid=2247499538&idx=1&sn=c6a15c543e0957dd9c2a20ac85af7d1f&scene=27#wechat_redirect)
+[:camera_flash:【2024-10-24T09:01:44】](https://mp.weixin.qq.com/s?__biz=MzAwNTc5MTMyNg==&mid=2247499620&idx=1&sn=f4dfab8163cad375b179f4d8f0cd41c6&scene=27#wechat_redirect)
 
 做勾八安全，卷的要死
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_3953fa56d850" alt="" />
+
+---
+
+
+### [全频带阻塞干扰](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzMzE2OTQyNA==)
+
+[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzMzE2OTQyNA==)
+
+[:camera_flash:【2024-10-18T14:55:57】](https://mp.weixin.qq.com/s?__biz=MzIzMzE2OTQyNA==&mid=2648958069&idx=1&sn=addd66ab6cb6ea051af99c9d4370cbe1&scene=27#wechat_redirect)
+
+坚持以非正常体位探寻未知信号。 国内商业安全、TSCM技术反窃密、隐私保护及物理安全领域前行者。持久关注通信安全、海外威胁情报、犯罪防御与群氓效应。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_685fcc00c91c" alt="" />
 
 ---
 
@@ -125,6 +112,32 @@ IOTsec-Zone是一个致力于提供高质量、高标准的物联网安全信息
 未知攻，焉知防，专注于高级威胁研究与数字调查取证。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ea4772086043" alt="" />
+
+---
+
+
+### [网络安全自学](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3NzQ3NzY4OA==)
+
+[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3NzQ3NzY4OA==)
+
+[:camera_flash:【2024-10-20T19:19:12】](https://mp.weixin.qq.com/s?__biz=MzI3NzQ3NzY4OA==&mid=2247484080&idx=1&sn=9fcde3fd60a205c76f3e2fe532abcaca&scene=27#wechat_redirect)
+
+网络安全自学交流，提高效率，少走弯路
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_1d8521f5d38e" alt="" />
+
+---
+
+
+### [IOTsecZone](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NTgwNzg5MQ==)
+
+[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NTgwNzg5MQ==)
+
+[:camera_flash:【2024-09-27T16:37:21】](https://mp.weixin.qq.com/s?__biz=Mzg2NTgwNzg5MQ==&mid=2247487008&idx=1&sn=53544974efab126131be8991766fcb6d&scene=27#wechat_redirect)
+
+IOTsec-Zone是一个致力于提供高质量、高标准的物联网安全信息和技术交流的一站式开放性平台。我们提供原创技术干货分享、物联网安全集合地、理论实战演练课程和最新安全资讯动态等服务。官方网站：www.iotsec-zone.com。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_44b0c10fbdf5" alt="" />
 
 ---
 
@@ -346,19 +359,6 @@ CMboye中机博也车联网信息安全实验室，依托自主研发的车联�
 吉林省信睿网络官方公众号
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_18cae47da613" alt="" />
-
----
-
-
-### [网络安全自学](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3NzQ3NzY4OA==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3NzQ3NzY4OA==)
-
-[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
-
-网络安全自学交流，提高效率，少走弯路
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_1d8521f5d38e" alt="" />
 
 ---
 
