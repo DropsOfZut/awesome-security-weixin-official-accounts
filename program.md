@@ -1,9 +1,9 @@
 
 ### [字节跳动技术团队](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
 
-[:chart_with_upwards_trend:【1/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
+[:chart_with_upwards_trend:【3/21/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
 
-[:camera_flash:【2024-10-24T18:03:13】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247510926&idx=1&sn=656f8d8aa4f5492d7a1ba9b924b9da4d&scene=27#wechat_redirect)
+[:camera_flash:【2024-10-26T08:05:32】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247510935&idx=1&sn=47b3811eb9a6108e98ed1f2af2b98bc2&scene=27#wechat_redirect)
 
 字节跳动的技术实践分享
 
@@ -27,9 +27,9 @@
 
 ### [哔哩哔哩技术](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3Njc0NTgwMg==)
 
-[:chart_with_upwards_trend:【7/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3Njc0NTgwMg==)
+[:chart_with_upwards_trend:【8/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3Njc0NTgwMg==)
 
-[:camera_flash:【2024-10-24T22:24:34】](https://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&mid=2247501170&idx=1&sn=df83e7647e9e66f5a3a8cfdeba19d930&scene=27#wechat_redirect)
+[:camera_flash:【2024-10-25T12:01:45】](https://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&mid=2247501175&idx=1&sn=b94e0a44d81ad9b375c7e96f3426e5bd&scene=27#wechat_redirect)
 
 提供B站相关技术的介绍和讲解
 
@@ -53,9 +53,9 @@
 
 ### [北邮GAMMALab](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzE1MTQzNw==)
 
-[:chart_with_upwards_trend:【6/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzE1MTQzNw==)
+[:chart_with_upwards_trend:【7/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzE1MTQzNw==)
 
-[:camera_flash:【2024-10-23T14:09:34】](https://mp.weixin.qq.com/s?__biz=Mzg4MzE1MTQzNw==&mid=2247490690&idx=1&sn=67445f796018671dce0288a91e6362f7&scene=27#wechat_redirect)
+[:camera_flash:【2024-10-25T11:26:14】](https://mp.weixin.qq.com/s?__biz=Mzg4MzE1MTQzNw==&mid=2247490715&idx=1&sn=d7bc8f82ca4dd3dadc45b56bd61effe7&scene=27#wechat_redirect)
 
 北邮图数据挖掘与机器学习实验室
 

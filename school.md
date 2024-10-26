@@ -14,7 +14,7 @@
 
 ### [三叶草小组Syclover](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzOTg0NjYzNg==)
 
-[:chart_with_upwards_trend:【0/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzOTg0NjYzNg==)
+[:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzOTg0NjYzNg==)
 
 [:camera_flash:【2024-10-18T23:50:41】](https://mp.weixin.qq.com/s?__biz=MzIzOTg0NjYzNg==&mid=2247491067&idx=1&sn=4523f1ad956b7a9ec37916a4c06df7eb&scene=27#wechat_redirect)
 
@@ -64,24 +64,11 @@
 ---
 
 
-### [渭南师院网络信息安全社](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0MjI1NzY1NQ==)
-
-[:chart_with_upwards_trend:【1/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0MjI1NzY1NQ==)
-
-[:camera_flash:【2024-09-27T12:56:50】](https://mp.weixin.qq.com/s?__biz=Mzk0MjI1NzY1NQ==&mid=2247486885&idx=1&sn=8f5e313a37f97ec9fa4985154df1775c&scene=27#wechat_redirect)
-
-渭南师范学院网络信息安全协会官方账号，为您提供网络安全相关资讯与技术分享。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f4e0f7548c2f" alt="" />
-
----
-
-
 ### [赛博安全社团](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDIyNTE0OQ==)
 
 [:chart_with_upwards_trend:【1/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDIyNTE0OQ==)
 
-[:camera_flash:【2024-10-18T19:38:07】](https://mp.weixin.qq.com/s?__biz=MzkyNDIyNTE0OQ==&mid=2247484933&idx=2&sn=0569374f5ca465964ef6eb66fb664c69&scene=27#wechat_redirect)
+[:camera_flash:【2024-10-18T19:38:07】](https://mp.weixin.qq.com/s?__biz=MzkyNDIyNTE0OQ==&mid=2247484933&idx=1&sn=20a0159af3648a84396cec337d5f1dce&scene=27#wechat_redirect)
 
 本社团致力于向大家分享交流网络安全实践技术，主要以CTF竞赛、红蓝对抗、渗透测试、知识讲座等形式分享网络安全知识，培养网安人才，积极响应国家建设网络强国的号召，共筑网络安全防线。
 
@@ -125,6 +112,19 @@
 本公众号为计算机协会，负责通知各类活动竞赛以及各类技术知识点。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_6302157393d9" alt="" />
+
+---
+
+
+### [渭南师院网络信息安全社](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0MjI1NzY1NQ==)
+
+[:chart_with_upwards_trend:【1/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0MjI1NzY1NQ==)
+
+[:camera_flash:【2024-09-27T12:56:50】](https://mp.weixin.qq.com/s?__biz=Mzk0MjI1NzY1NQ==&mid=2247486885&idx=1&sn=8f5e313a37f97ec9fa4985154df1775c&scene=27#wechat_redirect)
+
+渭南师范学院网络信息安全协会官方账号，为您提供网络安全相关资讯与技术分享。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f4e0f7548c2f" alt="" />
 
 ---
 
