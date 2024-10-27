@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【0/109/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
 
-[:camera_flash:【2024-10-25T23:00:24】](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247631517&idx=4&sn=3d4dea455cd367d27204a30848c8dddf&scene=27#wechat_redirect)
+[:camera_flash:【2024-10-26T17:02:20】](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247631534&idx=3&sn=0b174db3051da29d043c45b0418843ba&scene=27#wechat_redirect)
 
 商密君是全国密码行业头部公众号，旨在宣传推广《密码法》，普及商用密码知识，解读密码政策，分享商用密码行业的最新动态，为密码产业产学研用做好宣传服务，连接密码全行业精英，推动密码技术在数字经济各行业的应用和创新。
 
@@ -14,9 +14,9 @@
 
 ### [掌控安全EDU](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
 
-[:chart_with_upwards_trend:【27/74/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
+[:chart_with_upwards_trend:【26/74/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
 
-[:camera_flash:【2024-10-25T12:03:21】](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247544451&idx=1&sn=8c6e2ddc63c5553c88ac7ed3e8912918&scene=27#wechat_redirect)
+[:camera_flash:【2024-10-26T12:03:30】](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247544464&idx=1&sn=9fdbd97a4546cefc5b7321a01dbfff17&scene=27#wechat_redirect)
 
 安全教程\\高质量文章\\面试经验分享，尽在#掌控安全EDU#
 
@@ -29,7 +29,7 @@
 
 [:chart_with_upwards_trend:【0/66/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU1NDY3NDgwMQ==)
 
-[:camera_flash:【2024-10-25T22:24:12】](https://mp.weixin.qq.com/s?__biz=MzU1NDY3NDgwMQ==&mid=2247546785&idx=2&sn=98cf3f4539c93b537b4acd5abb812793&scene=27#wechat_redirect)
+[:camera_flash:【2024-10-26T19:01:49】](https://mp.weixin.qq.com/s?__biz=MzU1NDY3NDgwMQ==&mid=2247546811&idx=2&sn=5468d94e7ce9e3c80861d088fc13110f&scene=27#wechat_redirect)
 
 中国法学会网络与信息法学研究会及其会刊《网络与信息法学研究》官方公众号。汇集国内外网络信息法领域理论性、前瞻性、创新性研究成果，引领、推动、服务中国网络信息法治发展。
 
@@ -38,9 +38,22 @@
 ---
 
 
+### [全栈网络空间安全](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
+
+[:chart_with_upwards_trend:【0/26/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
+
+[:camera_flash:【2024-10-26T00:00:52】](https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247514335&idx=1&sn=ce1c1d4c93c1ebc378f99677dbc7cfc1&scene=27#wechat_redirect)
+
+做一个会思考的全栈网络空间安全者
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_9774ce64d500" alt="" />
+
+---
+
+
 ### [数世咨询](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
 
-[:chart_with_upwards_trend:【2/26/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
+[:chart_with_upwards_trend:【2/25/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
 
 [:camera_flash:【2024-10-25T16:00:53】](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247521312&idx=1&sn=8bd42fcfe9c03c87526f5a5c3975cebe&scene=27#wechat_redirect)
 
@@ -51,41 +64,15 @@
 ---
 
 
-### [全栈网络空间安全](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
-
-[:chart_with_upwards_trend:【0/26/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
-
-[:camera_flash:【2024-10-25T00:02:16】](https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247514277&idx=1&sn=0ce449a42be61521272a3ce848e8b809&scene=27#wechat_redirect)
-
-做一个会思考的全栈网络空间安全者
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_9774ce64d500" alt="" />
-
----
-
-
 ### [深圳市网络与信息安全行业协会](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
 
-[:chart_with_upwards_trend:【0/17/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
+[:chart_with_upwards_trend:【0/16/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
 
 [:camera_flash:【2024-10-24T15:15:13】](https://mp.weixin.qq.com/s?__biz=MzU0Mzk0NDQyOA==&mid=2247520205&idx=1&sn=08959ad7928b8f486c4803b71386dac9&scene=27#wechat_redirect)
 
 深圳市网络与信息安全行业协会（SNISA），是深圳市网络与信息安全行业的权威组织，是中国网络安全审查技术与认证中心（CCRC）在深圳唯一授权工作站，是经深圳市人力资源和社会保障局核准，开展网络空间安全工程技术专业职称评审工作的社会组织。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_650442d8cad4" alt="" />
-
----
-
-
-### [中国网络空间安全协会](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3ODE0NDA4MA==)
-
-[:chart_with_upwards_trend:【0/14/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3ODE0NDA4MA==)
-
-[:camera_flash:【2024-10-23T18:39:40】](https://mp.weixin.qq.com/s?__biz=MzA3ODE0NDA4MA==&mid=2649400571&idx=1&sn=d7fc26495340e065472daa62e863dd26&scene=27#wechat_redirect)
-
-中国网络空间安全协会是由国内从事网络空间安全相关产业、教育、科研、应用的机构、企业及个人共同自愿结成的全国性、行业性、非营利性社会组织。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_fe5fc5463d7b" alt="" />
 
 ---
 
@@ -103,11 +90,24 @@
 ---
 
 
+### [中国网络空间安全协会](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3ODE0NDA4MA==)
+
+[:chart_with_upwards_trend:【0/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3ODE0NDA4MA==)
+
+[:camera_flash:【2024-10-23T18:39:40】](https://mp.weixin.qq.com/s?__biz=MzA3ODE0NDA4MA==&mid=2649400571&idx=1&sn=d7fc26495340e065472daa62e863dd26&scene=27#wechat_redirect)
+
+中国网络空间安全协会是由国内从事网络空间安全相关产业、教育、科研、应用的机构、企业及个人共同自愿结成的全国性、行业性、非营利性社会组织。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_fe5fc5463d7b" alt="" />
+
+---
+
+
 ### [君哥的体历](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MjQ1NTA4MA==)
 
 [:chart_with_upwards_trend:【8/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MjQ1NTA4MA==)
 
-[:camera_flash:【2024-10-25T07:01:13】](https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247491585&idx=1&sn=a85bcf8a1e5c83730eabe850c87e73b0&scene=27#wechat_redirect)
+[:camera_flash:【2024-10-27T07:00:34】](https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247491596&idx=1&sn=92f02c166552a52f448ae227d75d07f1&scene=27#wechat_redirect)
 
 闲暇时间，逼迫自己，记录分享体验与经历，不求正确统一，但求真、善、美。
 
@@ -118,7 +118,7 @@
 
 ### [爱加密](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NzU4NjkyMw==)
 
-[:chart_with_upwards_trend:【7/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NzU4NjkyMw==)
+[:chart_with_upwards_trend:【6/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NzU4NjkyMw==)
 
 [:camera_flash:【2024-10-24T16:24:42】](https://mp.weixin.qq.com/s?__biz=MjM5NzU4NjkyMw==&mid=2650746037&idx=1&sn=bef2493bfcc9d65efeb7339cb5537ef8&scene=27#wechat_redirect)
 
