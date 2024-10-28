@@ -14,7 +14,7 @@
 
 ### [XCTF联赛](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
 
-[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
+[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
 
 [:camera_flash:【2024-10-15T10:33:30】](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247515411&idx=1&sn=80902d128ddd08c6a7efc7e4618f41ff&scene=27#wechat_redirect)
 

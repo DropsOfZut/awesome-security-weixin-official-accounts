@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【0/88/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
 
-[:camera_flash:【2024-10-26T20:16:26】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247615086&idx=3&sn=fe08e3fdba4d5f8e0fa2de67afedab78&scene=27#wechat_redirect)
+[:camera_flash:【2024-10-27T20:17:58】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247615124&idx=2&sn=1a75c9d5e95d2f6dbc0de8fbea8d0570&scene=27#wechat_redirect)
 
 为智能网联汽车行业专业人士提供信息和网络安全技术、产品及服务等行业发展最新咨询
 
@@ -16,7 +16,7 @@
 
 [:chart_with_upwards_trend:【0/30/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTU3NTY0Nw==)
 
-[:camera_flash:【2024-10-26T09:00:15】](https://mp.weixin.qq.com/s?__biz=Mzg3NTU3NTY0Nw==&mid=2247489298&idx=1&sn=54054009177053c409bc2ed5ae786829&scene=27#wechat_redirect)
+[:camera_flash:【2024-10-27T09:01:20】](https://mp.weixin.qq.com/s?__biz=Mzg3NTU3NTY0Nw==&mid=2247489302&idx=1&sn=33d3cf7f26b4eb4facff2104735ed477&scene=27#wechat_redirect)
 
 旨于开展网络安全相关法律法规研究与电子数据取证技术研究，分享小知识、小技巧，共同学习提高，推进技术规范化建设。
 
@@ -27,9 +27,9 @@
 
 ### [IoT物联网技术](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
 
-[:chart_with_upwards_trend:【9/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
+[:chart_with_upwards_trend:【10/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
 
-[:camera_flash:【2024-10-26T19:18:17】](https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&mid=2454935762&idx=1&sn=577813e94693ec8ec775b567d7be8fc5&scene=27#wechat_redirect)
+[:camera_flash:【2024-10-27T19:11:55】](https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&mid=2454935812&idx=1&sn=eab7c53d842d0e593806ce37a3fbd7c3&scene=27#wechat_redirect)
 
 云计算、物联网、大模型暗中观察小分队
 
@@ -53,9 +53,9 @@
 
 ### [电子物证](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNDcwMDgzMA==)
 
-[:chart_with_upwards_trend:【0/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNDcwMDgzMA==)
+[:chart_with_upwards_trend:【0/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNDcwMDgzMA==)
 
-[:camera_flash:【2024-10-22T07:36:22】](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651047984&idx=1&sn=e7449bd4ac8bf3f8c34f642be8d97bd9&scene=27#wechat_redirect)
+[:camera_flash:【2024-10-28T07:43:09】](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651047997&idx=1&sn=577f619b1762ef3d1062b7aa72d0a44a&scene=27#wechat_redirect)
 
 关注刑事证据科学前沿发展，传递电子物证技术最新趋势
 
@@ -125,45 +125,6 @@
 网络安全自学交流，提高效率，少走弯路
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_1d8521f5d38e" alt="" />
-
----
-
-
-### [IOTsecZone](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NTgwNzg5MQ==)
-
-[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NTgwNzg5MQ==)
-
-[:camera_flash:【2024-09-27T16:37:21】](https://mp.weixin.qq.com/s?__biz=Mzg2NTgwNzg5MQ==&mid=2247487008&idx=1&sn=53544974efab126131be8991766fcb6d&scene=27#wechat_redirect)
-
-IOTsec-Zone是一个致力于提供高质量、高标准的物联网安全信息和技术交流的一站式开放性平台。我们提供原创技术干货分享、物联网安全集合地、理论实战演练课程和最新安全资讯动态等服务。官方网站：www.iotsec-zone.com。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_44b0c10fbdf5" alt="" />
-
----
-
-
-### [天问实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwNzI0ODE5NQ==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwNzI0ODE5NQ==)
-
-[:camera_flash:【2024-09-27T15:23:40】](https://mp.weixin.qq.com/s?__biz=MzkwNzI0ODE5NQ==&mid=2247486181&idx=1&sn=ea0085eaf8cc6bdd61dbb9e013e8e9f6&scene=27#wechat_redirect)
-
-杭州安恒天问实验室，专注于物联网、车联网、工控等新兴领域的安全测试与安全研究
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_5b8a6bf277a4" alt="" />
-
----
-
-
-### [中机博也车联网安全](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NDQzODY4MA==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NDQzODY4MA==)
-
-[:camera_flash:【2024-09-27T11:26:53】](https://mp.weixin.qq.com/s?__biz=Mzk0NDQzODY4MA==&mid=2247484209&idx=1&sn=4b2bfe8aa451de9b12d03567a3f1c698&scene=27#wechat_redirect)
-
-CMboye中机博也车联网信息安全实验室，依托自主研发的车联网测试云平台及车联网安全靶场平台，为客户提供整车测试、仿真靶场、产品及车辆信息安全合规测试、车联网安全人才培养、车联网安全比赛服务及面向汽车主机厂的车联网安全解决方案。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_2dae374c453f" alt="" />
 
 ---
 
@@ -372,6 +333,45 @@ CMboye中机博也车联网信息安全实验室，依托自主研发的车联�
 汽车联网化的已经在业界获得高度共识，联网后的”网络安全“正在成为热点；本公众号是第一个关注汽车网络安全的自媒体，通过原创文章，发布车联网安全相关的重大事件、技术突破及发展趋势；为关注汽车网络安全的个人或组织提供一个重要的资讯通道！
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_60224803d00e" alt="" />
+
+---
+
+
+### [天问实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwNzI0ODE5NQ==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwNzI0ODE5NQ==)
+
+[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
+
+杭州安恒天问实验室，专注于物联网、车联网、工控等新兴领域的安全测试与安全研究
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_5b8a6bf277a4" alt="" />
+
+---
+
+
+### [IOTsecZone](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NTgwNzg5MQ==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NTgwNzg5MQ==)
+
+[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
+
+IOTsec-Zone是一个致力于提供高质量、高标准的物联网安全信息和技术交流的一站式开放性平台。我们提供原创技术干货分享、物联网安全集合地、理论实战演练课程和最新安全资讯动态等服务。官方网站：www.iotsec-zone.com。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_44b0c10fbdf5" alt="" />
+
+---
+
+
+### [中机博也车联网安全](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NDQzODY4MA==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NDQzODY4MA==)
+
+[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
+
+CMboye中机博也车联网信息安全实验室，依托自主研发的车联网测试云平台及车联网安全靶场平台，为客户提供整车测试、仿真靶场、产品及车辆信息安全合规测试、车联网安全人才培养、车联网安全比赛服务及面向汽车主机厂的车联网安全解决方案。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_2dae374c453f" alt="" />
 
 ---
 
