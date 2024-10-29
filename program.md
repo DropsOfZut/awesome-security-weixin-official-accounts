@@ -14,9 +14,9 @@
 
 ### [读诗库](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
 
-[:chart_with_upwards_trend:【9/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
+[:chart_with_upwards_trend:【10/13/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
 
-[:camera_flash:【2024-10-27T22:27:01】](https://mp.weixin.qq.com/s?__biz=MzU5NzQ3NzIwMA==&mid=2247485975&idx=1&sn=b3dba10d61ffc3b555d937babd47a473&scene=27#wechat_redirect)
+[:camera_flash:【2024-10-28T23:01:16】](https://mp.weixin.qq.com/s?__biz=MzU5NzQ3NzIwMA==&mid=2247485987&idx=1&sn=3993830019ec4db6952fd11b9f3d5d56&scene=27#wechat_redirect)
 
 读书，写诗，假装自己是黑客。
 
@@ -40,9 +40,9 @@
 
 ### [腾讯技术工程](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
 
-[:chart_with_upwards_trend:【4/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
+[:chart_with_upwards_trend:【5/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
 
-[:camera_flash:【2024-10-24T09:09:44】](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649786083&idx=1&sn=216e66b8047fded4e78cf39ca37dfa47&scene=27#wechat_redirect)
+[:camera_flash:【2024-10-28T18:02:00】](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649786128&idx=1&sn=d4cbc9c88d5638b1242f87a62f4c3ff1&scene=27#wechat_redirect)
 
 腾讯技术官方号。腾讯技术创新、前沿领域发布解读平台。
 
@@ -53,13 +53,26 @@
 
 ### [北邮GAMMALab](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzE1MTQzNw==)
 
-[:chart_with_upwards_trend:【7/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzE1MTQzNw==)
+[:chart_with_upwards_trend:【8/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzE1MTQzNw==)
 
-[:camera_flash:【2024-10-25T11:26:14】](https://mp.weixin.qq.com/s?__biz=Mzg4MzE1MTQzNw==&mid=2247490715&idx=1&sn=d7bc8f82ca4dd3dadc45b56bd61effe7&scene=27#wechat_redirect)
+[:camera_flash:【2024-10-28T10:09:34】](https://mp.weixin.qq.com/s?__biz=Mzg4MzE1MTQzNw==&mid=2247490827&idx=1&sn=32b86dcb915a497dac9853643ec8cd64&scene=27#wechat_redirect)
 
 北邮图数据挖掘与机器学习实验室
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_bc48147b67b6" alt="" />
+
+---
+
+
+### [安全学术圈](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
+
+[:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
+
+[:camera_flash:【2024-10-29T07:45:23】](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247491260&idx=1&sn=8937d2a734b839087197595e066f7b61&scene=27#wechat_redirect)
+
+分享安全方面的论文写作、会议发表、基金申请方面的资料。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_cbda1fb027bf" alt="" />
 
 ---
 
@@ -86,19 +99,6 @@
 基于知道创宇14年来海量真实攻防数据积累，通过AI+安全大数据能力持续自生产、精粹和分析，实时输出高精准、高价值威胁情报，赋能于全场景安全建设体系。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_dd8b72c1c127" alt="" />
-
----
-
-
-### [安全学术圈](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
-
-[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
-
-[:camera_flash:【2024-10-26T22:46:22】](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247491248&idx=1&sn=d0787a6bcc90e34e619ee0107e7b836e&scene=27#wechat_redirect)
-
-分享安全方面的论文写作、会议发表、基金申请方面的资料。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_cbda1fb027bf" alt="" />
 
 ---
 
@@ -138,6 +138,19 @@
 新一代网络安全测试工具，由赵武Zwell（Pangolin、FOFA作者）打造，能够针对一个目标企业梳理最全的攻击面信息，同时能进行高效、实战化漏洞扫描，并快速的从一个验证入口点，切换到横向。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_7f7c15f37480" alt="" />
+
+---
+
+
+### [安第斯智能云](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzE2MzY1OA==)
+
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzE2MzY1OA==)
+
+[:camera_flash:【2024-10-28T18:26:15】](https://mp.weixin.qq.com/s?__biz=Mzg4MzE2MzY1OA==&mid=2247498709&idx=1&sn=cfa4f2b1c1115049b6e7043df9b57172&scene=27#wechat_redirect)
+
+OPPO 安第斯智能云（AndesBrain）是服务个人、家庭与开发者的泛终端智能云，致力于“让终端更智能”。作为 OPPO 三大核心技术之一，安第斯智能云提供端云协同的数据存储与智能计算服务，是万物互融的“数智大脑”。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_7bc48466f080" alt="" />
 
 ---
 
@@ -463,19 +476,6 @@ FOFA是由华顺信安科技有限公司开发的一款网络空间资产搜索�
 好大夫在线技术实践与分享，欢迎大家一起交流！更欢迎加入我们，一起用“科技创造优质医疗”！
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a0f9bc95946e" alt="" />
-
----
-
-
-### [安第斯智能云](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzE2MzY1OA==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzE2MzY1OA==)
-
-[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
-
-OPPO 安第斯智能云（AndesBrain）是服务个人、家庭与开发者的泛终端智能云，致力于“让终端更智能”。作为 OPPO 三大核心技术之一，安第斯智能云提供端云协同的数据存储与智能计算服务，是万物互融的“数智大脑”。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_7bc48466f080" alt="" />
 
 ---
 
