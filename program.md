@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【3/18/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
 
-[:camera_flash:【2024-10-26T08:05:32】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247510935&idx=1&sn=47b3811eb9a6108e98ed1f2af2b98bc2&scene=27#wechat_redirect)
+[:camera_flash:【2024-10-29T18:03:26】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247510944&idx=1&sn=b8ded41ab63591d5ac94389ff683611e&scene=27#wechat_redirect)
 
 字节跳动的技术实践分享
 
@@ -14,9 +14,9 @@
 
 ### [读诗库](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
 
-[:chart_with_upwards_trend:【10/13/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
+[:chart_with_upwards_trend:【11/14/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
 
-[:camera_flash:【2024-10-28T23:01:16】](https://mp.weixin.qq.com/s?__biz=MzU5NzQ3NzIwMA==&mid=2247485987&idx=1&sn=3993830019ec4db6952fd11b9f3d5d56&scene=27#wechat_redirect)
+[:camera_flash:【2024-10-29T21:17:52】](https://mp.weixin.qq.com/s?__biz=MzU5NzQ3NzIwMA==&mid=2247486004&idx=1&sn=faf286637db05a3b0959f0ad867a9709&scene=27#wechat_redirect)
 
 读书，写诗，假装自己是黑客。
 
@@ -27,9 +27,9 @@
 
 ### [哔哩哔哩技术](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3Njc0NTgwMg==)
 
-[:chart_with_upwards_trend:【7/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3Njc0NTgwMg==)
+[:chart_with_upwards_trend:【8/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3Njc0NTgwMg==)
 
-[:camera_flash:【2024-10-25T12:01:45】](https://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&mid=2247501175&idx=2&sn=b3637756b52291aad7e149da59a7decf&scene=27#wechat_redirect)
+[:camera_flash:【2024-10-29T12:02:10】](https://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&mid=2247501195&idx=1&sn=586f810c706487da269f4a013f7d7ec3&scene=27#wechat_redirect)
 
 提供B站相关技术的介绍和讲解
 
