@@ -25,6 +25,19 @@
 ---
 
 
+### [青春计协](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzU3MTcwNg==)
+
+[:chart_with_upwards_trend:【5/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzU3MTcwNg==)
+
+[:camera_flash:【2024-11-01T23:53:04】](https://mp.weixin.qq.com/s?__biz=Mzg4MzU3MTcwNg==&mid=2247485823&idx=1&sn=e0e2cd99f757953e163e4ec3d8dccdf3&scene=27#wechat_redirect)
+
+本公众号为计算机协会，负责通知各类活动竞赛以及各类技术知识点。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_6302157393d9" alt="" />
+
+---
+
+
 ### [网络攻防创新实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzNDcyMDM1MQ==)
 
 [:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzNDcyMDM1MQ==)
@@ -34,19 +47,6 @@
 原名为网络安全学生社团，现名为网络攻防创新实验室
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f587b147a938" alt="" />
-
----
-
-
-### [青春计协](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzU3MTcwNg==)
-
-[:chart_with_upwards_trend:【4/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzU3MTcwNg==)
-
-[:camera_flash:【2024-10-31T20:44:39】](https://mp.weixin.qq.com/s?__biz=Mzg4MzU3MTcwNg==&mid=2247485812&idx=1&sn=2fa6dda152a0b95304294068f808a7ab&scene=27#wechat_redirect)
-
-本公众号为计算机协会，负责通知各类活动竞赛以及各类技术知识点。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_6302157393d9" alt="" />
 
 ---
 
