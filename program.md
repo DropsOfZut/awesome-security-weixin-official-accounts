@@ -1,9 +1,9 @@
 
 ### [字节跳动技术团队](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
 
-[:chart_with_upwards_trend:【4/23/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
+[:chart_with_upwards_trend:【4/24/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
 
-[:camera_flash:【2024-11-01T14:12:31】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247511067&idx=1&sn=a594e251a54bbfb913522c0a6c0b5699&scene=27#wechat_redirect)
+[:camera_flash:【2024-11-02T09:02:19】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247511068&idx=1&sn=c63c49fceb4ab7cab1429b1510eece12&scene=27#wechat_redirect)
 
 字节跳动的技术实践分享
 
@@ -14,9 +14,9 @@
 
 ### [读诗库](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
 
-[:chart_with_upwards_trend:【12/15/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
+[:chart_with_upwards_trend:【13/16/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
 
-[:camera_flash:【2024-11-01T21:51:35】](https://mp.weixin.qq.com/s?__biz=MzU5NzQ3NzIwMA==&mid=2247486047&idx=1&sn=c6518d7c6d26c8dca61e162b38b7d09d&scene=27#wechat_redirect)
+[:camera_flash:【2024-11-02T22:41:28】](https://mp.weixin.qq.com/s?__biz=MzU5NzQ3NzIwMA==&mid=2247486058&idx=1&sn=ab211ee1a6475bb26cfdf4e5fc275b73&scene=27#wechat_redirect)
 
 读书，写诗，假装自己是黑客。
 
@@ -112,6 +112,19 @@
 爱奇艺的技术产品团队
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_aa1476c2ce41" alt="" />
+
+---
+
+
+### [编码安全研究](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NDY1MDc2Mg==)
+
+[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NDY1MDc2Mg==)
+
+[:camera_flash:【2024-11-02T10:54:10】](https://mp.weixin.qq.com/s?__biz=Mzg2NDY1MDc2Mg==&mid=2247505560&idx=2&sn=12a02adc373c12559229957f38d9413a&scene=27#wechat_redirect)
+
+专注于学习网络安全
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8e01ffd3a47c" alt="" />
 
 ---
 
@@ -307,19 +320,6 @@ OPPO 安第斯智能云（AndesBrain）是服务个人、家庭与开发者的�
 街头香蕉
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_19b5fbaa9c06" alt="" />
-
----
-
-
-### [编码安全研究](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NDY1MDc2Mg==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NDY1MDc2Mg==)
-
-[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
-
-专注于学习网络安全
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8e01ffd3a47c" alt="" />
 
 ---
 

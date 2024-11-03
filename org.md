@@ -55,7 +55,7 @@
 
 [:chart_with_upwards_trend:【0/31/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5OTg5OTI1NQ==)
 
-[:camera_flash:【2024-11-02T07:02:36】](https://mp.weixin.qq.com/s?__biz=Mzg5OTg5OTI1NQ==&mid=2247488996&idx=1&sn=61b27b4bb47cdbdfe2e3d283c58536f8&scene=27#wechat_redirect)
+[:camera_flash:【2024-11-03T07:00:50】](https://mp.weixin.qq.com/s?__biz=Mzg5OTg5OTI1NQ==&mid=2247489004&idx=1&sn=393b1e70cba56b7fce1857eee57922b7&scene=27#wechat_redirect)
 
 安徽网络安全信息化行业资讯分享，面向政府、教育、医疗、金融、企业等行业客户，涉及等保测评、商密评估、软件测试、数据安全、分类分级、风险评估、代码审计、渗透测试、漏洞扫描、攻防护网、培训认证、安全服务等。
 
@@ -105,9 +105,9 @@
 
 ### [深信服科技](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5MTAzNjYyMA==)
 
-[:chart_with_upwards_trend:【3/15/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5MTAzNjYyMA==)
+[:chart_with_upwards_trend:【4/16/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5MTAzNjYyMA==)
 
-[:camera_flash:【2024-11-01T11:45:57】](https://mp.weixin.qq.com/s?__biz=MjM5MTAzNjYyMA==&mid=2650593193&idx=1&sn=a878046be45af4871ea007f3b58fc0aa&scene=27#wechat_redirect)
+[:camera_flash:【2024-11-02T08:50:46】](https://mp.weixin.qq.com/s?__biz=MjM5MTAzNjYyMA==&mid=2650593199&idx=1&sn=a98c13221e75863e1554036a9d4e0043&scene=27#wechat_redirect)
 
 关注深信服官方微信，抢先知晓深信服最新动态及前沿网络资讯。
 
@@ -120,7 +120,7 @@
 
 [:chart_with_upwards_trend:【0/13/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NzE0NTIxMg==)
 
-[:camera_flash:【2024-11-01T16:48:48】](https://mp.weixin.qq.com/s?__biz=MjM5NzE0NTIxMg==&mid=2651134360&idx=2&sn=5155ff292393f3de5ab779eb0ce664ad&scene=27#wechat_redirect)
+[:camera_flash:【2024-11-01T16:48:48】](https://mp.weixin.qq.com/s?__biz=MjM5NzE0NTIxMg==&mid=2651134360&idx=1&sn=ff912d63da4b92fd0a93382a2f0870e4&scene=27#wechat_redirect)
 
 全球软件安全领跑者，运用领先技术提供专业可靠的服务，为全球政府、企业、开发者和消费者打造安全、稳固、可信的安全生态环境。梆梆安全致力于保护您的软件，让每个人都能自由地创造、分享和使用信息。
 
@@ -155,6 +155,19 @@
 ---
 
 
+### [河北镌远网络科技有限公司](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzU4NjI4OQ==)
+
+[:chart_with_upwards_trend:【0/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzU4NjI4OQ==)
+
+[:camera_flash:【2024-11-01T15:32:04】](https://mp.weixin.qq.com/s?__biz=MzU3MzU4NjI4OQ==&mid=2247515293&idx=1&sn=5182a71d36481c626af885fc6c3029e4&scene=27#wechat_redirect)
+
+河北镌远网络科技有限公司是一家集人才、经验、技术于一体的，提供全面系统集成解决方案的专业IT服务商。公司致力于为各个行业的业务信息化提供软件和通用解决方案、系统架构，系统管理和数据安全服务、以及IT咨询规划、系统集成与系统服务等专业化服务。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_cb6df987a291" alt="" />
+
+---
+
+
 ### [补天平台](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2NzY5MDI3NQ==)
 
 [:chart_with_upwards_trend:【0/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2NzY5MDI3NQ==)
@@ -181,15 +194,15 @@
 ---
 
 
-### [河北镌远网络科技有限公司](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzU4NjI4OQ==)
+### [泰晓科技](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5NDQzODQ3MQ==)
 
-[:chart_with_upwards_trend:【0/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzU4NjI4OQ==)
+[:chart_with_upwards_trend:【5/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5NDQzODQ3MQ==)
 
-[:camera_flash:【2024-10-29T18:35:20】](https://mp.weixin.qq.com/s?__biz=MzU3MzU4NjI4OQ==&mid=2247515266&idx=1&sn=2ef8a763a85ae4a4be41a71225b22b62&scene=27#wechat_redirect)
+[:camera_flash:【2024-11-02T11:18:52】](https://mp.weixin.qq.com/s?__biz=MzA5NDQzODQ3MQ==&mid=2648194203&idx=1&sn=9e3c731c78d3b44d992a8ef3f4e8e0e7&scene=27#wechat_redirect)
 
-河北镌远网络科技有限公司是一家集人才、经验、技术于一体的，提供全面系统集成解决方案的专业IT服务商。公司致力于为各个行业的业务信息化提供软件和通用解决方案、系统架构，系统管理和数据安全服务、以及IT咨询规划、系统集成与系统服务等专业化服务。
+聚焦 Linux，追本溯源，见微知著！
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_cb6df987a291" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_3087c62532f4" alt="" />
 
 ---
 
@@ -207,19 +220,6 @@
 ---
 
 
-### [泰晓科技](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5NDQzODQ3MQ==)
-
-[:chart_with_upwards_trend:【5/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5NDQzODQ3MQ==)
-
-[:camera_flash:【2024-10-29T19:09:01】](https://mp.weixin.qq.com/s?__biz=MzA5NDQzODQ3MQ==&mid=2648194193&idx=1&sn=006a9119a4bdebc593b7d21a703a3437&scene=27#wechat_redirect)
-
-聚焦 Linux，追本溯源，见微知著！
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_3087c62532f4" alt="" />
-
----
-
-
 ### [长亭科技](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNDA2NDk5OQ==)
 
 [:chart_with_upwards_trend:【0/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNDA2NDk5OQ==)
@@ -229,6 +229,32 @@
 长亭科技，专注为企业级用户提供专业的应用安全解决方案。更多信息请访问：https://www.chaitin.cn
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_9011eb4249b6" alt="" />
+
+---
+
+
+### [华为安全](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwODU5NzYxOA==)
+
+[:chart_with_upwards_trend:【0/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwODU5NzYxOA==)
+
+[:camera_flash:【2024-11-02T22:26:31】](https://mp.weixin.qq.com/s?__biz=MzAwODU5NzYxOA==&mid=2247505298&idx=1&sn=22833ca7b0e8f227d9b9a0dbc376ec0c&scene=27#wechat_redirect)
+
+华为安全公众平台，第一时间传递华为安全最新动态与前沿行业资讯。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e782afe8b0f7" alt="" />
+
+---
+
+
+### [赛宁网安](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4Mjk5NjU3MA==)
+
+[:chart_with_upwards_trend:【0/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4Mjk5NjU3MA==)
+
+[:camera_flash:【2024-11-02T10:02:49】](https://mp.weixin.qq.com/s?__biz=MzA4Mjk5NjU3MA==&mid=2455487120&idx=1&sn=9e4c479caf10160a526631460b53af1b&scene=27#wechat_redirect)
+
+关注“赛宁网安”公众号，及时获取赛宁网安最新的产品信息、技术分享、企业动态。赛宁网安，聚焦攻防实战，专注数字化靶场的攻防专家。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_512990c97e33" alt="" />
 
 ---
 
@@ -259,28 +285,15 @@
 ---
 
 
-### [华为安全](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwODU5NzYxOA==)
+### [国舜股份](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NjU5MTIxMg==)
 
-[:chart_with_upwards_trend:【0/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwODU5NzYxOA==)
+[:chart_with_upwards_trend:【0/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NjU5MTIxMg==)
 
-[:camera_flash:【2024-10-26T18:02:28】](https://mp.weixin.qq.com/s?__biz=MzAwODU5NzYxOA==&mid=2247505291&idx=1&sn=4f4a856c128ca9fd5477be9400bf2fe0&scene=27#wechat_redirect)
+[:camera_flash:【2024-11-01T16:30:30】](https://mp.weixin.qq.com/s?__biz=MzA3NjU5MTIxMg==&mid=2650574942&idx=1&sn=ee33671a74c17cd8b9cea6623d35c720&scene=27#wechat_redirect)
 
-华为安全公众平台，第一时间传递华为安全最新动态与前沿行业资讯。
+北京国舜科技股份有限公司，新一代场景化网络安全综合解决方案供应商代表，国家高新技术企业，以创新的技术研发、丰富的认证资质致力于为客户提供DEVSECOPS、XDR、Web应用安全、等保合规等领域的产品、服务和整体解决方案。
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e782afe8b0f7" alt="" />
-
----
-
-
-### [赛宁网安](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4Mjk5NjU3MA==)
-
-[:chart_with_upwards_trend:【0/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4Mjk5NjU3MA==)
-
-[:camera_flash:【2024-10-31T17:00:45】](https://mp.weixin.qq.com/s?__biz=MzA4Mjk5NjU3MA==&mid=2455487092&idx=1&sn=e3dcb6fc41fd7faf42d9111f4f624375&scene=27#wechat_redirect)
-
-关注“赛宁网安”公众号，及时获取赛宁网安最新的产品信息、技术分享、企业动态。赛宁网安，聚焦攻防实战，专注数字化靶场的攻防专家。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_512990c97e33" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_090211866dd1" alt="" />
 
 ---
 
@@ -320,19 +333,6 @@
 成都链安以『让区块链生态更安全』为使命，以『成为全球第一的区块链安全公司』为愿景，不断打造区块链安全颠覆性的核心技术，为全球区块链企业的安全保驾护航。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_7c4ae7822895" alt="" />
-
----
-
-
-### [国舜股份](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NjU5MTIxMg==)
-
-[:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NjU5MTIxMg==)
-
-[:camera_flash:【2024-10-28T16:30:59】](https://mp.weixin.qq.com/s?__biz=MzA3NjU5MTIxMg==&mid=2650574934&idx=1&sn=96ca70419abb3637ee3d93319032a303&scene=27#wechat_redirect)
-
-北京国舜科技股份有限公司，新一代场景化网络安全综合解决方案供应商代表，国家高新技术企业，以创新的技术研发、丰富的认证资质致力于为客户提供DEVSECOPS、XDR、Web应用安全、等保合规等领域的产品、服务和整体解决方案。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_090211866dd1" alt="" />
 
 ---
 
@@ -398,6 +398,19 @@
 山石安全技术研究院成立于2020年，是公司的信息安全智库与创新部门，旗下包括智能、应用、工控、信创和核心基础等五大实验室，输出原创漏洞、安全专利、原创文章、安全议题等研究成果，不断提供新的漏洞证书、致谢与编号
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_94beeafaf804" alt="" />
+
+---
+
+
+### [零时科技](http://wechat.doonsec.com/wechat_echarts/?biz=MzU1OTc2MzE2Mg==)
+
+[:chart_with_upwards_trend:【3/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU1OTc2MzE2Mg==)
+
+[:camera_flash:【2024-11-02T13:27:09】](https://mp.weixin.qq.com/s?__biz=MzU1OTc2MzE2Mg==&mid=2247489108&idx=1&sn=74dafc2527b4206f0e8c9da20283b3c9&scene=27#wechat_redirect)
+
+零时科技是专业的区块链安全解决方案提供商，公司团队专注于区块链生态基础设施安全研究，包括安全审计、资产安全、以及Web3.0安全攻防技术研究；  零时科技官网：https://noneage.com/
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_7e9984cfa514" alt="" />
 
 ---
 
@@ -502,19 +515,6 @@
 安易科技（北京）有限公司愿景是让客户的云原生安全更容易 我们专注于建模现代云原生应用全生命周期，提供基于智能自学习的零信任安全解决方案。自主研发洞见云原生安全平台对云原生应用提供预防、检测和响应自动化，保护云编排架构和工作负载的自适应安全。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e6858241c92e" alt="" />
-
----
-
-
-### [零时科技](http://wechat.doonsec.com/wechat_echarts/?biz=MzU1OTc2MzE2Mg==)
-
-[:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU1OTc2MzE2Mg==)
-
-[:camera_flash:【2024-10-29T16:50:58】](https://mp.weixin.qq.com/s?__biz=MzU1OTc2MzE2Mg==&mid=2247489087&idx=1&sn=4fc06f8201b37d7024fd26d238f568fb&scene=27#wechat_redirect)
-
-零时科技是专业的区块链安全解决方案提供商，公司团队专注于区块链生态基础设施安全研究，包括安全审计、资产安全、以及Web3.0安全攻防技术研究；  零时科技官网：https://noneage.com/
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_7e9984cfa514" alt="" />
 
 ---
 

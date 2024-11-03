@@ -94,7 +94,7 @@
 
 [:chart_with_upwards_trend:【1/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDIyNTE0OQ==)
 
-[:camera_flash:【2024-10-18T19:38:07】](https://mp.weixin.qq.com/s?__biz=MzkyNDIyNTE0OQ==&mid=2247484933&idx=1&sn=20a0159af3648a84396cec337d5f1dce&scene=27#wechat_redirect)
+[:camera_flash:【2024-10-18T19:38:07】](https://mp.weixin.qq.com/s?__biz=MzkyNDIyNTE0OQ==&mid=2247484933&idx=2&sn=0569374f5ca465964ef6eb66fb664c69&scene=27#wechat_redirect)
 
 本社团致力于向大家分享交流网络安全实践技术，主要以CTF竞赛、红蓝对抗、渗透测试、知识讲座等形式分享网络安全知识，培养网安人才，积极响应国家建设网络强国的号召，共筑网络安全防线。
 

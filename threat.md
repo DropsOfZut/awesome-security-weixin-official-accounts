@@ -1,9 +1,9 @@
 
 ### [独眼情报](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzNDIzNDUxOQ==)
 
-[:chart_with_upwards_trend:【3/157/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzNDIzNDUxOQ==)
+[:chart_with_upwards_trend:【3/156/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzNDIzNDUxOQ==)
 
-[:camera_flash:【2024-11-01T13:02:31】](https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247492025&idx=3&sn=250a55366b5b75203c29f05d07505f9e&scene=27#wechat_redirect)
+[:camera_flash:【2024-11-02T11:52:28】](https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247492069&idx=2&sn=36de75895b12de22074f18cfbfbccac1&scene=27#wechat_redirect)
 
 做最快最有价值的网络安全威胁情报公众号！
 
@@ -12,24 +12,11 @@
 ---
 
 
-### [丁爸情报分析师的工具箱](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MTE0NTE3Mw==)
-
-[:chart_with_upwards_trend:【31/47/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MTE0NTE3Mw==)
-
-[:camera_flash:【2024-11-01T06:41:03】](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651147497&idx=1&sn=aba04d039fb46f6daf8377f8f0960833&scene=27#wechat_redirect)
-
-每天为大家精选各类情报分析相关的资源、工具、技巧和资讯，努力成为情报分析师必备的工具箱。外挂机器人“小丁丁”还能陪您聊天，给您查航班、查列车、查天气、查酒店、查美食、查股票、回答您的提问等等。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_5331cb469b82" alt="" />
-
----
-
-
 ### [情报分析师](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3Mjc1MTkwOA==)
 
-[:chart_with_upwards_trend:【36/46/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3Mjc1MTkwOA==)
+[:chart_with_upwards_trend:【38/48/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3Mjc1MTkwOA==)
 
-[:camera_flash:【2024-11-01T09:14:16】](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650556676&idx=2&sn=c876adb83b4421191acff06ef2f05100&scene=27#wechat_redirect)
+[:camera_flash:【2024-11-02T16:47:01】](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650556689&idx=2&sn=1f74a0f40ebce5a3d69a9609ccc0dfec&scene=27#wechat_redirect)
 
 刘硕教授团队：聚焦情报与安全！关注情报动态，促进情报协作，传播情报文化，优化情报生态，共建情报分析师职业共同体。
 
@@ -38,11 +25,24 @@
 ---
 
 
+### [丁爸情报分析师的工具箱](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MTE0NTE3Mw==)
+
+[:chart_with_upwards_trend:【30/46/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MTE0NTE3Mw==)
+
+[:camera_flash:【2024-11-02T23:42:34】](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651147515&idx=1&sn=bae751df92403066a6a5ed91a5942862&scene=27#wechat_redirect)
+
+每天为大家精选各类情报分析相关的资源、工具、技巧和资讯，努力成为情报分析师必备的工具箱。外挂机器人“小丁丁”还能陪您聊天，给您查航班、查列车、查天气、查酒店、查美食、查股票、回答您的提问等等。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_5331cb469b82" alt="" />
+
+---
+
+
 ### [夜组安全](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0ODM0NDIxNQ==)
 
-[:chart_with_upwards_trend:【1/24/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0ODM0NDIxNQ==)
+[:chart_with_upwards_trend:【1/25/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0ODM0NDIxNQ==)
 
-[:camera_flash:【2024-11-01T08:01:01】](https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247492610&idx=1&sn=7f33d716990607b322c1ab279bb5507c&scene=27#wechat_redirect)
+[:camera_flash:【2024-11-02T11:56:37】](https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247492611&idx=1&sn=4826e227a196d079ea7eb9b6bcbf1f99&scene=27#wechat_redirect)
 
 &quot;恐惧就是貌似真实的伪证&quot; NightCrawler Team(简称:夜组)主攻WEB安全 | 内网渗透 | 红蓝对抗 | 代码审计 | APT攻击，致力于将每一位藏在暗处的白帽子聚集在一起，在夜空中划出一道绚丽的光线！
 
@@ -103,19 +103,6 @@
 ---
 
 
-### [情报分析站](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMDIwMTMxMw==)
-
-[:chart_with_upwards_trend:【7/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMDIwMTMxMw==)
-
-[:camera_flash:【2024-10-23T11:37:13】](https://mp.weixin.qq.com/s?__biz=MzkxMDIwMTMxMw==&mid=2247494006&idx=1&sn=d81fe8d21164cce34b78e3bb60b5644b&scene=27#wechat_redirect)
-
-情报知识交流，实用工具分享
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e8556b411e9e" alt="" />
-
----
-
-
 ### [微步在线](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NjA0NjI5MQ==)
 
 [:chart_with_upwards_trend:【5/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NjA0NjI5MQ==)
@@ -138,6 +125,19 @@
 威胁情报信息共享，事件预警通报，攻击事件分析报告，恶意软件分析报告
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_166784eae33e" alt="" />
+
+---
+
+
+### [情报分析站](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMDIwMTMxMw==)
+
+[:chart_with_upwards_trend:【6/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMDIwMTMxMw==)
+
+[:camera_flash:【2024-10-23T11:37:13】](https://mp.weixin.qq.com/s?__biz=MzkxMDIwMTMxMw==&mid=2247494006&idx=1&sn=d81fe8d21164cce34b78e3bb60b5644b&scene=27#wechat_redirect)
+
+情报知识交流，实用工具分享
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e8556b411e9e" alt="" />
 
 ---
 
@@ -177,6 +177,19 @@ Seebug，原 Sebug 漏洞平台，洞悉漏洞，让你掌握第一手漏洞情�
 当威胁照进棱镜，谁来狩猎光谱中的攻击？
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f4c3fb66d66d" alt="" />
+
+---
+
+
+### [黑鸟](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxOTM1MDQ1NA==)
+
+[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxOTM1MDQ1NA==)
+
+[:camera_flash:【2024-11-02T16:32:07】](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451182853&idx=1&sn=eb6aad1bae830d21c17e57b4cbada5b9&scene=27#wechat_redirect)
+
+一介草民，深耕威胁情报领域多年，自封威胁分析师，APT狩猎者，战略忽悠分析师。 专注推送一切前沿高科技战争分析，敌我战略分析，“数据”挖掘，情报拓展，网络武器分析，社会工程学，军事分析忽悠等。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_68f37a80b8cb" alt="" />
 
 ---
 
@@ -294,19 +307,6 @@ Seebug，原 Sebug 漏洞平台，洞悉漏洞，让你掌握第一手漏洞情�
 发布网络空间安全态势，提供最新网络空间威胁情报。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ae01aaecd3da" alt="" />
-
----
-
-
-### [黑鸟](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxOTM1MDQ1NA==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxOTM1MDQ1NA==)
-
-[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
-
-一介草民，深耕威胁情报领域多年，自封威胁分析师，APT狩猎者，战略忽悠分析师。 专注推送一切前沿高科技战争分析，敌我战略分析，“数据”挖掘，情报拓展，网络武器分析，社会工程学，军事分析忽悠等。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_68f37a80b8cb" alt="" />
 
 ---
 
