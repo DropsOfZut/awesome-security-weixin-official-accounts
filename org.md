@@ -1,9 +1,9 @@
 
 ### [奇安信集团](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0NDk0NTAwMw==)
 
-[:chart_with_upwards_trend:【0/52/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0NDk0NTAwMw==)
+[:chart_with_upwards_trend:【0/53/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0NDk0NTAwMw==)
 
-[:camera_flash:【2024-11-01T17:28:57】](https://mp.weixin.qq.com/s?__biz=MzU0NDk0NTAwMw==&mid=2247621477&idx=2&sn=c91103ad8041d42797213d789532264b&scene=27#wechat_redirect)
+[:camera_flash:【2024-11-03T10:32:57】](https://mp.weixin.qq.com/s?__biz=MzU0NDk0NTAwMw==&mid=2247621483&idx=1&sn=ccb3a14eea9e138550c05dbcb389d4e0&scene=27#wechat_redirect)
 
 新一代网络安全领军者。
 
@@ -14,9 +14,9 @@
 
 ### [绿盟科技](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYyMTM4MA==)
 
-[:chart_with_upwards_trend:【0/50/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYyMTM4MA==)
+[:chart_with_upwards_trend:【0/51/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYyMTM4MA==)
 
-[:camera_flash:【2024-11-02T08:19:04】](https://mp.weixin.qq.com/s?__biz=MjM5ODYyMTM4MA==&mid=2650461302&idx=1&sn=b49bc7b7f98a45a0e3dfa6d731bc8130&scene=27#wechat_redirect)
+[:camera_flash:【2024-11-03T09:28:24】](https://mp.weixin.qq.com/s?__biz=MjM5ODYyMTM4MA==&mid=2650461364&idx=2&sn=b79cb550432b5374fb30555e2410cbc3&scene=27#wechat_redirect)
 
 绿盟科技 官方微信
 
@@ -27,9 +27,9 @@
 
 ### [天津恒御科技有限公司](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NjY3OTAzMg==)
 
-[:chart_with_upwards_trend:【0/44/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NjY3OTAzMg==)
+[:chart_with_upwards_trend:【0/46/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NjY3OTAzMg==)
 
-[:camera_flash:【2024-11-02T08:01:02】](https://mp.weixin.qq.com/s?__biz=MzU4NjY3OTAzMg==&mid=2247513324&idx=2&sn=70c1202ee5d4db04c74f2f482fb23e91&scene=27#wechat_redirect)
+[:camera_flash:【2024-11-04T08:00:51】](https://mp.weixin.qq.com/s?__biz=MzU4NjY3OTAzMg==&mid=2247513344&idx=2&sn=375537a32409fcdcd6a91e2cd19db469&scene=27#wechat_redirect)
 
 恒御科技-致力于提供全方位的网络安全保障
 
@@ -55,7 +55,7 @@
 
 [:chart_with_upwards_trend:【0/31/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5OTg5OTI1NQ==)
 
-[:camera_flash:【2024-11-03T07:00:50】](https://mp.weixin.qq.com/s?__biz=Mzg5OTg5OTI1NQ==&mid=2247489004&idx=1&sn=393b1e70cba56b7fce1857eee57922b7&scene=27#wechat_redirect)
+[:camera_flash:【2024-11-04T07:00:19】](https://mp.weixin.qq.com/s?__biz=Mzg5OTg5OTI1NQ==&mid=2247489013&idx=1&sn=1fc71bfebe293dad33ca4b07a496027c&scene=27#wechat_redirect)
 
 安徽网络安全信息化行业资讯分享，面向政府、教育、医疗、金融、企业等行业客户，涉及等保测评、商密评估、软件测试、数据安全、分类分级、风险评估、代码审计、渗透测试、漏洞扫描、攻防护网、培训认证、安全服务等。
 
@@ -220,6 +220,19 @@
 ---
 
 
+### [永信至诚](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNDUyMjk4MQ==)
+
+[:chart_with_upwards_trend:【0/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNDUyMjk4MQ==)
+
+[:camera_flash:【2024-11-04T07:58:26】](https://mp.weixin.qq.com/s?__biz=MzAwNDUyMjk4MQ==&mid=2454828106&idx=1&sn=ae257526345045d34addeb92280ef8b4&scene=27#wechat_redirect)
+
+永信至诚（股票代码：688244）网络和数据安全企业，在网络靶场和人才建设领域位于领军地位。首创“数字风洞”产品体系，跃迁式创新推动安全测试评估专业赛道发展。致力于为数字中国和网络强国建设提供高能效的安全保障和专有人才支撑，带给世界安全感。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_bd309c1d6cb9" alt="" />
+
+---
+
+
 ### [长亭科技](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNDA2NDk5OQ==)
 
 [:chart_with_upwards_trend:【0/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNDA2NDk5OQ==)
@@ -268,19 +281,6 @@
 基于左移开发安全（DevSecOps）与智慧运营安全（AISecOps），帮助客户构建基于云的下一代安全体系。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f9bc09a5bd41" alt="" />
-
----
-
-
-### [永信至诚](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNDUyMjk4MQ==)
-
-[:chart_with_upwards_trend:【0/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNDUyMjk4MQ==)
-
-[:camera_flash:【2024-10-30T07:57:35】](https://mp.weixin.qq.com/s?__biz=MzAwNDUyMjk4MQ==&mid=2454828006&idx=1&sn=efb848c20b614b8c71605710251df9cb&scene=27#wechat_redirect)
-
-永信至诚（股票代码：688244）网络和数据安全企业，在网络靶场和人才建设领域位于领军地位。首创“数字风洞”产品体系，跃迁式创新推动安全测试评估专业赛道发展。致力于为数字中国和网络强国建设提供高能效的安全保障和专有人才支撑，带给世界安全感。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_bd309c1d6cb9" alt="" />
 
 ---
 
@@ -385,6 +385,19 @@
 传播网络安全产业的政策标准、前沿技术以及业界实践，由公安部认证的网络安全测评师团队、攻防技术团队共同维护，我们致力成为国家网络安全卓越服务提供商。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_db7fad251a59" alt="" />
+
+---
+
+
+### [合合信息](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxMzg0NjY2NA==)
+
+[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxMzg0NjY2NA==)
+
+[:camera_flash:【2024-10-29T18:15:56】](https://mp.weixin.qq.com/s?__biz=MzAxMzg0NjY2NA==&mid=2247492799&idx=1&sn=2608ad18f3e2bf07a790885cf90e153e&scene=27#wechat_redirect)
+
+合合信息成立于2006年，是一家以人工智能及商业大数据技术为核心的高新技术公司，为全球银行、保险、证券、物流、制造等30多个行业提供智能解决方案。旗下C端产品名片全能王、扫描全能王、启信宝全球下载量超过23亿。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ddf146673aa0" alt="" />
 
 ---
 

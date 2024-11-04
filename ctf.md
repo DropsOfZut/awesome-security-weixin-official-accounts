@@ -1,9 +1,9 @@
 
 ### [强网竞赛](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjY3NDQ2Ng==)
 
-[:chart_with_upwards_trend:【0/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjY3NDQ2Ng==)
+[:chart_with_upwards_trend:【0/14/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjY3NDQ2Ng==)
 
-[:camera_flash:【2024-11-01T22:24:39】](https://mp.weixin.qq.com/s?__biz=Mzg4MjY3NDQ2Ng==&mid=2247487254&idx=3&sn=1768cff7d7262d96fab33a01821f7273&scene=27#wechat_redirect)
+[:camera_flash:【2024-11-03T22:24:18】](https://mp.weixin.qq.com/s?__biz=Mzg4MjY3NDQ2Ng==&mid=2247487338&idx=1&sn=1f53c55b4276ce67575f51597f3dda72&scene=27#wechat_redirect)
 
 强网竞赛是面向高等院校和国内信息安全企业的国家级赛事，旨在通过高对抗的竞技比赛，发现锻造网络安全领域优秀人才，提高国家网络安全保障能力，提升全民网络安全意识。
 

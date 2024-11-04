@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【0/90/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
 
-[:camera_flash:【2024-11-02T21:27:12】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247615285&idx=2&sn=c07f407dfdefd0d47d1e4c2cb09f5a89&scene=27#wechat_redirect)
+[:camera_flash:【2024-11-03T15:30:41】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247615353&idx=1&sn=d4575b8588ad4e0e5cddb6d2b4a6e507&scene=27#wechat_redirect)
 
 为智能网联汽车行业专业人士提供信息和网络安全技术、产品及服务等行业发展最新咨询
 
@@ -14,9 +14,9 @@
 
 ### [网络安全与取证研究](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTU3NTY0Nw==)
 
-[:chart_with_upwards_trend:【0/29/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTU3NTY0Nw==)
+[:chart_with_upwards_trend:【0/30/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTU3NTY0Nw==)
 
-[:camera_flash:【2024-11-02T09:01:14】](https://mp.weixin.qq.com/s?__biz=Mzg3NTU3NTY0Nw==&mid=2247489330&idx=1&sn=7de04fa6036a93e936302c99d3f6bbdf&scene=27#wechat_redirect)
+[:camera_flash:【2024-11-04T08:00:13】](https://mp.weixin.qq.com/s?__biz=Mzg3NTU3NTY0Nw==&mid=2247489334&idx=1&sn=9e857c0e0fc8b6833f6c3c72f585aa29&scene=27#wechat_redirect)
 
 旨于开展网络安全相关法律法规研究与电子数据取证技术研究，分享小知识、小技巧，共同学习提高，推进技术规范化建设。
 
@@ -27,7 +27,7 @@
 
 ### [IoT物联网技术](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
 
-[:chart_with_upwards_trend:【7/18/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
+[:chart_with_upwards_trend:【6/17/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
 
 [:camera_flash:【2024-10-31T08:13:03】](https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&mid=2454935827&idx=1&sn=a0813fd9297a6b1b6fb88a1b0696235c&scene=27#wechat_redirect)
 
@@ -40,7 +40,7 @@
 
 ### [太空安全](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwNjM4NTg4OQ==)
 
-[:chart_with_upwards_trend:【0/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwNjM4NTg4OQ==)
+[:chart_with_upwards_trend:【0/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwNjM4NTg4OQ==)
 
 [:camera_flash:【2024-10-13T11:07:34】](https://mp.weixin.qq.com/s?__biz=MzkwNjM4NTg4OQ==&mid=2247499041&idx=1&sn=77806b6659f086c9ce54b6822b74d8a6&scene=27#wechat_redirect)
 

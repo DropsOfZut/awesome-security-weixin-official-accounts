@@ -198,7 +198,7 @@ OPPO安全应急响应中心(OSRC)官方公众号。
 
 [:chart_with_upwards_trend:【1/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzOTIyMzYyMg==)
 
-[:camera_flash:【2024-11-01T17:15:14】](https://mp.weixin.qq.com/s?__biz=MzkzOTIyMzYyMg==&mid=2247494438&idx=1&sn=2228d30943fed3f4ae273891c0093e69&scene=27#wechat_redirect)
+[:camera_flash:【2024-11-01T17:15:14】](https://mp.weixin.qq.com/s?__biz=MzkzOTIyMzYyMg==&mid=2247494438&idx=2&sn=90bd397376497f1b4e5aa3f4f7e258c5&scene=27#wechat_redirect)
 
 360安全应急响应中心（简称360SRC）是360公司致力于保障产品及业务安全，促进白帽专家合作与交流的平台。诚邀白帽专家向我们反馈360产品安全漏洞、威胁情报，共筑数字安全基石，保障数亿用户业务和产品的安全。
 

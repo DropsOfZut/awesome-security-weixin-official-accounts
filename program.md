@@ -14,7 +14,7 @@
 
 ### [读诗库](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
 
-[:chart_with_upwards_trend:【13/16/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
+[:chart_with_upwards_trend:【12/15/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
 
 [:camera_flash:【2024-11-02T22:41:28】](https://mp.weixin.qq.com/s?__biz=MzU5NzQ3NzIwMA==&mid=2247486058&idx=1&sn=ab211ee1a6475bb26cfdf4e5fc275b73&scene=27#wechat_redirect)
 
@@ -40,9 +40,9 @@
 
 ### [腾讯技术工程](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
 
-[:chart_with_upwards_trend:【6/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
+[:chart_with_upwards_trend:【6/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
 
-[:camera_flash:【2024-11-01T17:35:45】](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649786321&idx=1&sn=cc431496f1e57c27d68dc5c5b449d3fe&scene=27#wechat_redirect)
+[:camera_flash:【2024-11-03T21:12:28】](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649786334&idx=1&sn=a9af6d8aa89c0c9c5a5e83c13558ab4c&scene=27#wechat_redirect)
 
 腾讯技术官方号。腾讯技术创新、前沿领域发布解读平台。
 
@@ -68,7 +68,7 @@
 
 [:chart_with_upwards_trend:【3/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ5MTI5OA==)
 
-[:camera_flash:【2024-10-31T19:58:43】](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651779542&idx=2&sn=8a758b44a1c757f62064e63cd400cb55&scene=27#wechat_redirect)
+[:camera_flash:【2024-10-31T19:58:43】](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651779542&idx=1&sn=2671b566f3f2ab586604bb9d06813c04&scene=27#wechat_redirect)
 
 10000+工程师，如何支撑中国领先的生活服务电子商务平台？数亿消费者、数百万商户、2000多个行业背后是哪些技术在支撑？这里是美团、大众点评、美团外卖、美团优选等技术团队对外交流的窗口。
 
@@ -79,9 +79,9 @@
 
 ### [安全学术圈](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
 
-[:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
+[:chart_with_upwards_trend:【1/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
 
-[:camera_flash:【2024-10-29T07:45:23】](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247491260&idx=1&sn=8937d2a734b839087197595e066f7b61&scene=27#wechat_redirect)
+[:camera_flash:【2024-11-03T21:44:04】](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247491314&idx=1&sn=b2fbcae0528c2f129f61363cf980d4e6&scene=27#wechat_redirect)
 
 分享安全方面的论文写作、会议发表、基金申请方面的资料。
 
@@ -112,6 +112,19 @@
 爱奇艺的技术产品团队
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_aa1476c2ce41" alt="" />
+
+---
+
+
+### [软件开发安全生命周期](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NzE5NjI0Mg==)
+
+[:chart_with_upwards_trend:【3/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NzE5NjI0Mg==)
+
+[:camera_flash:【2024-11-02T23:05:19】](https://mp.weixin.qq.com/s?__biz=Mzk0NzE5NjI0Mg==&mid=2247484642&idx=1&sn=b910549979b228fc50e80158d7871444&scene=27#wechat_redirect)
+
+博主站点:www.s-sdlc.com 分享软件开发生命周期,致力于分享知识、同时会分享网络安全相关的知识点和技能点
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4270dc91534e" alt="" />
 
 ---
 
