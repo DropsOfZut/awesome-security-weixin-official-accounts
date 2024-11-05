@@ -77,6 +77,32 @@ CTF协会
 ---
 
 
+### [DefiniteR3dBlue](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NzU4MDE5NQ==)
+
+[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NzU4MDE5NQ==)
+
+[:camera_flash:【2024-10-29T10:02:34】](https://mp.weixin.qq.com/s?__biz=Mzg4NzU4MDE5NQ==&mid=2247483945&idx=1&sn=f762579972dc5c8844889996417446e1&scene=27#wechat_redirect)
+
+赛博随笔，CTF，红蓝对抗，记录学习
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_fd178541e86f" alt="" />
+
+---
+
+
+### [春秋伽玛](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
+
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
+
+[:camera_flash:【2024-11-04T18:58:39】](https://mp.weixin.qq.com/s?__biz=MzkyNDA5NjgyMg==&mid=2247500109&idx=1&sn=7f49000fe463e1fdbb356982fb935c17&scene=27#wechat_redirect)
+
+春秋伽玛，为广大网络安全爱好者传递网络安全大赛相关赛事信息，提供优质的赛事服务平台
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_07fa2c2720be" alt="" />
+
+---
+
+
 ### [胖哈勃](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2OTUzMzg3Ng==)
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2OTUzMzg3Ng==)
@@ -112,19 +138,6 @@ PTE小技巧
 寰宇卫士综合安全咨询、安全服务、解决方案、认证培训、产品研发等信息安全多元化产业链为一体。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_7aa3785c2fbe" alt="" />
-
----
-
-
-### [春秋伽玛](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
-
-[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
-
-春秋伽玛，为广大网络安全爱好者传递网络安全大赛相关赛事信息，提供优质的赛事服务平台
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_07fa2c2720be" alt="" />
 
 ---
 

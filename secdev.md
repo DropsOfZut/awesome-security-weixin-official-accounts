@@ -1,9 +1,9 @@
 
 ### [商密君](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
 
-[:chart_with_upwards_trend:【0/119/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
+[:chart_with_upwards_trend:【0/121/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
 
-[:camera_flash:【2024-11-03T18:41:03】](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247631817&idx=2&sn=0ed49d551b896693f6ee10bd6af08488&scene=27#wechat_redirect)
+[:camera_flash:【2024-11-04T21:36:04】](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247631869&idx=1&sn=fa7f4c7bd3c6803764940b6172542f68&scene=27#wechat_redirect)
 
 商密君是全国密码行业头部公众号，旨在宣传推广《密码法》，普及商用密码知识，解读密码政策，分享商用密码行业的最新动态，为密码产业产学研用做好宣传服务，连接密码全行业精英，推动密码技术在数字经济各行业的应用和创新。
 
@@ -14,9 +14,9 @@
 
 ### [网络与信息法学会](http://wechat.doonsec.com/wechat_echarts/?biz=MzU1NDY3NDgwMQ==)
 
-[:chart_with_upwards_trend:【0/76/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU1NDY3NDgwMQ==)
+[:chart_with_upwards_trend:【0/79/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU1NDY3NDgwMQ==)
 
-[:camera_flash:【2024-11-02T18:00:43】](https://mp.weixin.qq.com/s?__biz=MzU1NDY3NDgwMQ==&mid=2247546994&idx=1&sn=9e18baa2f41d24eaa8f461b380eb7924&scene=27#wechat_redirect)
+[:camera_flash:【2024-11-04T18:00:45】](https://mp.weixin.qq.com/s?__biz=MzU1NDY3NDgwMQ==&mid=2247547008&idx=3&sn=b2354aa47c06c3360e787a862a62b1d8&scene=27#wechat_redirect)
 
 中国法学会网络与信息法学研究会及其会刊《网络与信息法学研究》官方公众号。汇集国内外网络信息法领域理论性、前瞻性、创新性研究成果，引领、推动、服务中国网络信息法治发展。
 
@@ -27,9 +27,9 @@
 
 ### [掌控安全EDU](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
 
-[:chart_with_upwards_trend:【23/63/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
+[:chart_with_upwards_trend:【22/63/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
 
-[:camera_flash:【2024-11-03T14:00:59】](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247544733&idx=1&sn=7f43be0b1cc7a31533cd9d021cc948d7&scene=27#wechat_redirect)
+[:camera_flash:【2024-11-04T12:00:35】](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247544862&idx=1&sn=b6d92bc5f133527226c47201244d835f&scene=27#wechat_redirect)
 
 安全教程\\高质量文章\\面试经验分享，尽在#掌控安全EDU#
 
@@ -40,9 +40,9 @@
 
 ### [数世咨询](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
 
-[:chart_with_upwards_trend:【2/30/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
+[:chart_with_upwards_trend:【2/32/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
 
-[:camera_flash:【2024-11-01T16:00:11】](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247521625&idx=2&sn=7624d4f372cc1716f92cc74f1889038d&scene=27#wechat_redirect)
+[:camera_flash:【2024-11-04T16:00:58】](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247521673&idx=2&sn=bafe6d8786f6041c7bb44117dd7a736d&scene=27#wechat_redirect)
 
 中国数字产业领域中立的第三方调研机构，提供网络安全行业的调查、研究与咨询服务。
 
@@ -53,7 +53,7 @@
 
 ### [全栈网络空间安全](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
 
-[:chart_with_upwards_trend:【0/21/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
+[:chart_with_upwards_trend:【0/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
 
 [:camera_flash:【2024-11-02T00:00:44】](https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247514426&idx=1&sn=fb33f825a34daf3ffc5b70b1342de064&scene=27#wechat_redirect)
 
@@ -79,9 +79,9 @@
 
 ### [珞安科技](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2NjI5NzY1OA==)
 
-[:chart_with_upwards_trend:【3/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2NjI5NzY1OA==)
+[:chart_with_upwards_trend:【3/13/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2NjI5NzY1OA==)
 
-[:camera_flash:【2024-11-01T18:02:09】](https://mp.weixin.qq.com/s?__biz=MzU2NjI5NzY1OA==&mid=2247511313&idx=1&sn=4700a20791e23d2158034cf5b31488c8&scene=27#wechat_redirect)
+[:camera_flash:【2024-11-04T18:00:51】](https://mp.weixin.qq.com/s?__biz=MzU2NjI5NzY1OA==&mid=2247511331&idx=1&sn=8059bd3455ccada52f430957b5860a4c&scene=27#wechat_redirect)
 
 珞安科技是专注工业网络空间安全的国家专精特新“小巨人”企业，拥有自主可控工控安全产品。基于多年项目实践经验发布业务安全产品，业务遍布电力电网、石油石化、轨交、智能制造等20多个工业行业，创造多个业内大规模安全部署成功案例。
 
@@ -118,9 +118,9 @@
 
 ### [vivo千镜](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0Njg4NzE3MQ==)
 
-[:chart_with_upwards_trend:【0/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0Njg4NzE3MQ==)
+[:chart_with_upwards_trend:【0/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0Njg4NzE3MQ==)
 
-[:camera_flash:【2024-11-01T12:00:29】](https://mp.weixin.qq.com/s?__biz=MzI0Njg4NzE3MQ==&mid=2247492009&idx=1&sn=a95b8cab32185dcdd2a52b4926211a28&scene=27#wechat_redirect)
+[:camera_flash:【2024-11-04T12:00:53】](https://mp.weixin.qq.com/s?__biz=MzI0Njg4NzE3MQ==&mid=2247492019&idx=1&sn=1a047aa9c926a2293f33a583341a5646&scene=27#wechat_redirect)
 
 vivo全新的安全品牌，有人文温度的科技新媒体，致力于让亿万用户享受安全便捷的数字生活。
 
@@ -146,7 +146,7 @@ vivo全新的安全品牌，有人文温度的科技新媒体，致力于让亿�
 
 [:chart_with_upwards_trend:【3/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2MTAwNzg1Ng==)
 
-[:camera_flash:【2024-10-30T18:00:34】](https://mp.weixin.qq.com/s?__biz=Mzg2MTAwNzg1Ng==&mid=2247495262&idx=2&sn=df3a1387e9e66c26a22daa7a5ec01cd1&scene=27#wechat_redirect)
+[:camera_flash:【2024-10-30T18:00:34】](https://mp.weixin.qq.com/s?__biz=Mzg2MTAwNzg1Ng==&mid=2247495262&idx=1&sn=860f23500271f035ca1ddee427411729&scene=27#wechat_redirect)
 
 关注安全行业前沿动向、产品服务商用前景，洞悉商业市场和用户趋势，助力安全行业发展。
 
@@ -190,6 +190,19 @@ APP个人信息保护治理的工作动态、通知公告等相关信息发布�
 坚信少却更好，坚定元认知传播，坚持安全美学，拿个主题，讲300秒就够了。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_717c729949b7" alt="" />
+
+---
+
+
+### [云安全联盟CSA](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NzM2MTQ3OA==)
+
+[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NzM2MTQ3OA==)
+
+[:camera_flash:【2024-11-04T10:45:55】](https://mp.weixin.qq.com/s?__biz=MzA3NzM2MTQ3OA==&mid=2649818800&idx=1&sn=2c0966e4ed3614c157ed25fca17cbcaf&scene=27#wechat_redirect)
+
+终于等到你~~ CSA更多研究成果请查看官网https://c-csa.cn/research/results/
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_7b69aa2c7d10" alt="" />
 
 ---
 
@@ -242,19 +255,6 @@ APP个人信息保护治理的工作动态、通知公告等相关信息发布�
 OWASP中国，SecZone互联网安全研究中心官方平台
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_6977ebcf9804" alt="" />
-
----
-
-
-### [云安全联盟CSA](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NzM2MTQ3OA==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NzM2MTQ3OA==)
-
-[:camera_flash:【2024-10-15T14:16:32】](https://mp.weixin.qq.com/s?__biz=MzA3NzM2MTQ3OA==&mid=2649818795&idx=1&sn=52159cbb8de67b15539b25ce56596cf7&scene=27#wechat_redirect)
-
-终于等到你~~ CSA更多研究成果请查看官网https://c-csa.cn/research/results/
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_7b69aa2c7d10" alt="" />
 
 ---
 

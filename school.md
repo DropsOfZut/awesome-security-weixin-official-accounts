@@ -1,9 +1,9 @@
 
 ### [复旦白泽战队](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
 
-[:chart_with_upwards_trend:【7/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
+[:chart_with_upwards_trend:【8/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
 
-[:camera_flash:【2024-10-31T13:02:55】](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247491245&idx=1&sn=44f864f93993866f8380909cc7f2f83e&scene=27#wechat_redirect)
+[:camera_flash:【2024-11-04T18:23:55】](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247491258&idx=1&sn=8797c7b08fa32a4b1bab8cc521945ef1&scene=27#wechat_redirect)
 
 以复旦大学系统安全实验室学生为主成立的安全攻防战队，分享最新研究成果，交流系统安全攻防领域技巧。
 
@@ -142,6 +142,19 @@
 ---
 
 
+### [齐鲁师院网络安全社团](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MDU5NTA1MQ==)
+
+[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MDU5NTA1MQ==)
+
+[:camera_flash:【2024-11-04T11:34:28】](https://mp.weixin.qq.com/s?__biz=MzU3MDU5NTA1MQ==&mid=2247498604&idx=1&sn=907705c4722620636a3dd1ae9bd1e932&scene=27#wechat_redirect)
+
+欢迎加入齐鲁师范学院网络安全社团
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0c9ae293eb8e" alt="" />
+
+---
+
+
 ### [河北网络安全高校联盟](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4ODUyMjYyNg==)
 
 [:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4ODUyMjYyNg==)
@@ -177,19 +190,6 @@
 清华大学学生网络安全技术协会信息推送和资源平台
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_26798762d3e1" alt="" />
-
----
-
-
-### [齐鲁师院网络安全社团](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MDU5NTA1MQ==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MDU5NTA1MQ==)
-
-[:camera_flash:【2024-10-18T19:18:50】](https://mp.weixin.qq.com/s?__biz=MzU3MDU5NTA1MQ==&mid=2247498369&idx=1&sn=ca1011a61973f129f8ddbca9d61ee95e&scene=27#wechat_redirect)
-
-欢迎加入齐鲁师范学院网络安全社团
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0c9ae293eb8e" alt="" />
 
 ---
 
