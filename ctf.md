@@ -38,24 +38,11 @@
 ---
 
 
-### [山海之关](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjcxMTAwMQ==)
-
-[:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjcxMTAwMQ==)
-
-[:camera_flash:【2024-11-06T13:23:56】](https://mp.weixin.qq.com/s?__biz=Mzg4MjcxMTAwMQ==&mid=2247488643&idx=1&sn=3d4493dc59cb56c294e3f87fa7655e27&scene=27#wechat_redirect)
-
-山海关安全团队公众号。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f11d07068d45" alt="" />
-
----
-
-
 ### [SCUCTF](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxNDk1ODUxMw==)
 
-[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxNDk1ODUxMw==)
+[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxNDk1ODUxMw==)
 
-[:camera_flash:【2024-10-11T00:01:15】](https://mp.weixin.qq.com/s?__biz=MzUxNDk1ODUxMw==&mid=2247486736&idx=1&sn=135a36097535bc946e411fbacd43c963&scene=27#wechat_redirect)
+[:camera_flash:【2024-11-09T00:01:15】](https://mp.weixin.qq.com/s?__biz=MzUxNDk1ODUxMw==&mid=2247486759&idx=1&sn=75e7872b75526aeaf79a8370a7e8b5d1&scene=27#wechat_redirect)
 
 CTF协会
 
@@ -66,13 +53,26 @@ CTF协会
 
 ### [中学生CTF](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzEwMTQ3NQ==)
 
-[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzEwMTQ3NQ==)
+[:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzEwMTQ3NQ==)
 
-[:camera_flash:【2024-10-30T10:23:50】](https://mp.weixin.qq.com/s?__biz=MzU3MzEwMTQ3NQ==&mid=2247507430&idx=1&sn=decdaa78c1787f8709076bd9b41d045e&scene=27#wechat_redirect)
+[:camera_flash:【2024-11-08T21:30:05】](https://mp.weixin.qq.com/s?__biz=MzU3MzEwMTQ3NQ==&mid=2247507480&idx=1&sn=ced7b4d27a745b41e9a168a6878c6736&scene=27#wechat_redirect)
 
 青少年CTF（原名中学生CTF）帮助大家学习CTF竞赛，信息安全与网络技术。大家如果喜欢我们的视频讲解和教程可以加入我们的QQ群：797842833。快来和我们一起学习安全知识吧。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0d0714849484" alt="" />
+
+---
+
+
+### [山海之关](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjcxMTAwMQ==)
+
+[:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjcxMTAwMQ==)
+
+[:camera_flash:【2024-11-06T13:23:56】](https://mp.weixin.qq.com/s?__biz=Mzg4MjcxMTAwMQ==&mid=2247488643&idx=1&sn=3d4493dc59cb56c294e3f87fa7655e27&scene=27#wechat_redirect)
+
+山海关安全团队公众号。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f11d07068d45" alt="" />
 
 ---
 
