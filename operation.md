@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【20/25/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzIwNTY1OA==)
 
-[:camera_flash:【2024-11-10T08:01:05】](https://mp.weixin.qq.com/s?__biz=MzkxMzIwNTY1OA==&mid=2247508975&idx=1&sn=c8ee02ba25887ce25ca32e3b78e052d4&scene=27#wechat_redirect)
+[:camera_flash:【2024-11-11T08:01:47】](https://mp.weixin.qq.com/s?__biz=MzkxMzIwNTY1OA==&mid=2247509001&idx=1&sn=1b28ca61d6b8a38fff934d564788542b&scene=27#wechat_redirect)
 
 发布关于kali相关文章。Debian Centos等操作系统的安全和运维。以及树莓派 ESP8266 DIY单片机等相关安全领域的文章。旨在掌握技术和原理的前提下，更好的保护自身网络安全。反对一切危害网络安全的行为，造成法律后果请自负。
 
@@ -14,9 +14,9 @@
 
 ### [Docker中文社区](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1NzI5NDM4Mw==)
 
-[:chart_with_upwards_trend:【0/17/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1NzI5NDM4Mw==)
+[:chart_with_upwards_trend:【0/16/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1NzI5NDM4Mw==)
 
-[:camera_flash:【2024-11-08T08:00:58】](https://mp.weixin.qq.com/s?__biz=MzI1NzI5NDM4Mw==&mid=2247498274&idx=2&sn=09050a6e4e03584c436fd6f1a5040bc6&scene=27#wechat_redirect)
+[:camera_flash:【2024-11-08T08:00:58】](https://mp.weixin.qq.com/s?__biz=MzI1NzI5NDM4Mw==&mid=2247498274&idx=1&sn=3189ab0d484657410f790cace43c9111&scene=27#wechat_redirect)
 
 Docker中文社区旨在为大家提供 Docker、Kubernetes 相关工具及前沿资讯信息，方便大家了解学习 Docker、Kubernetes 相关容器技术。官网：dockerworld.cn
 
@@ -42,7 +42,7 @@ Docker中文社区旨在为大家提供 Docker、Kubernetes 相关工具及前�
 
 [:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NjE0NDc5OQ==)
 
-[:camera_flash:【2024-11-02T10:37:58】](https://mp.weixin.qq.com/s?__biz=Mzk0NjE0NDc5OQ==&mid=2247524920&idx=2&sn=304d6c048fae2d147b6c03c07a43413b&scene=27#wechat_redirect)
+[:camera_flash:【2024-11-02T10:37:58】](https://mp.weixin.qq.com/s?__biz=Mzk0NjE0NDc5OQ==&mid=2247524920&idx=1&sn=f6caf1f6f470a64240c446a1d6129233&scene=27#wechat_redirect)
 
 未知攻 焉知防 攻防兼备
 
