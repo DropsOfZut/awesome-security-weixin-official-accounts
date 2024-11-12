@@ -1,7 +1,20 @@
 
+### [青春计协](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzU3MTcwNg==)
+
+[:chart_with_upwards_trend:【9/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzU3MTcwNg==)
+
+[:camera_flash:【2024-11-11T18:23:18】](https://mp.weixin.qq.com/s?__biz=Mzg4MzU3MTcwNg==&mid=2247485901&idx=1&sn=948534c23d87df9ade012b20dd040cca&scene=27#wechat_redirect)
+
+本公众号为计算机协会，负责通知各类活动竞赛以及各类技术知识点。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_6302157393d9" alt="" />
+
+---
+
+
 ### [复旦白泽战队](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
 
-[:chart_with_upwards_trend:【8/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
+[:chart_with_upwards_trend:【7/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
 
 [:camera_flash:【2024-11-07T19:00:48】](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247491558&idx=1&sn=fa48461104e74025933e3a62d00d4757&scene=27#wechat_redirect)
 
@@ -12,24 +25,11 @@
 ---
 
 
-### [青春计协](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzU3MTcwNg==)
-
-[:chart_with_upwards_trend:【8/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzU3MTcwNg==)
-
-[:camera_flash:【2024-11-09T20:26:13】](https://mp.weixin.qq.com/s?__biz=Mzg4MzU3MTcwNg==&mid=2247485873&idx=1&sn=ed7f792f37515c74173d01a34b853aab&scene=27#wechat_redirect)
-
-本公众号为计算机协会，负责通知各类活动竞赛以及各类技术知识点。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_6302157393d9" alt="" />
-
----
-
-
 ### [网络攻防创新实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzNDcyMDM1MQ==)
 
-[:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzNDcyMDM1MQ==)
+[:chart_with_upwards_trend:【0/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzNDcyMDM1MQ==)
 
-[:camera_flash:【2024-11-08T13:10:37】](https://mp.weixin.qq.com/s?__biz=MzIzNDcyMDM1MQ==&mid=2247484187&idx=1&sn=65e83262613a7d3e01d52d06d357e94b&scene=27#wechat_redirect)
+[:camera_flash:【2024-11-11T11:00:38】](https://mp.weixin.qq.com/s?__biz=MzIzNDcyMDM1MQ==&mid=2247484198&idx=1&sn=baca60ee2b8345a480e4f05f7c8d5545&scene=27#wechat_redirect)
 
 原名为网络安全学生社团，现名为网络攻防创新实验室
 
@@ -103,6 +103,19 @@
 ---
 
 
+### [奇安信高校合作中心](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMTM1MTA4MQ==)
+
+[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMTM1MTA4MQ==)
+
+[:camera_flash:【2024-11-11T16:52:09】](https://mp.weixin.qq.com/s?__biz=MzkwMTM1MTA4MQ==&mid=2247487022&idx=1&sn=a54a12687e415821a858dfe5b3c41085&scene=27#wechat_redirect)
+
+奇安信高校合作中心，架起高校和安全产业的桥梁。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_6cdcd4028542" alt="" />
+
+---
+
+
 ### [蝰蛇信息安全实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NzgyNjUwNA==)
 
 [:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NzgyNjUwNA==)
@@ -112,19 +125,6 @@
 湖南农业大学蝰蛇安全实验室
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_638eab2e92c7" alt="" />
-
----
-
-
-### [谛听ditecting](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzQyOTU0Nw==)
-
-[:chart_with_upwards_trend:【1/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzQyOTU0Nw==)
-
-[:camera_flash:【2024-10-29T13:30:50】](https://mp.weixin.qq.com/s?__biz=MzU3MzQyOTU0Nw==&mid=2247491846&idx=1&sn=afd5d9c64553bd2fe70fa0b9a838f87f&scene=27#wechat_redirect)
-
-东北大学“谛听”网络安全团队
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ce3e0df31e50" alt="" />
 
 ---
 
@@ -155,15 +155,15 @@
 ---
 
 
-### [奇安信高校合作中心](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMTM1MTA4MQ==)
+### [谛听ditecting](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzQyOTU0Nw==)
 
-[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMTM1MTA4MQ==)
+[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzQyOTU0Nw==)
 
-[:camera_flash:【2024-10-31T20:30:45】](https://mp.weixin.qq.com/s?__biz=MzkwMTM1MTA4MQ==&mid=2247487011&idx=1&sn=bed5793eb30c6034cc2a9ff71db89002&scene=27#wechat_redirect)
+[:camera_flash:【2024-10-29T13:30:50】](https://mp.weixin.qq.com/s?__biz=MzU3MzQyOTU0Nw==&mid=2247491846&idx=1&sn=afd5d9c64553bd2fe70fa0b9a838f87f&scene=27#wechat_redirect)
 
-奇安信高校合作中心，架起高校和安全产业的桥梁。
+东北大学“谛听”网络安全团队
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_6cdcd4028542" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ce3e0df31e50" alt="" />
 
 ---
 

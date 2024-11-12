@@ -1,7 +1,7 @@
 
 ### [字节跳动技术团队](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
 
-[:chart_with_upwards_trend:【5/25/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
+[:chart_with_upwards_trend:【5/24/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
 
 [:camera_flash:【2024-11-08T15:57:44】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247511278&idx=1&sn=67f4a392e8d89012253c9c7df6ccb6e2&scene=27#wechat_redirect)
 
@@ -14,13 +14,26 @@
 
 ### [读诗库](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
 
-[:chart_with_upwards_trend:【14/16/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
+[:chart_with_upwards_trend:【13/15/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
 
 [:camera_flash:【2024-11-09T19:08:19】](https://mp.weixin.qq.com/s?__biz=MzU5NzQ3NzIwMA==&mid=2247486150&idx=1&sn=d1ac9ced609f5e9e696d4ce81271f56a&scene=27#wechat_redirect)
 
 读书，写诗，假装自己是黑客。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f524e5a0a1fb" alt="" />
+
+---
+
+
+### [腾讯技术工程](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
+
+[:chart_with_upwards_trend:【9/14/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
+
+[:camera_flash:【2024-11-11T18:01:55】](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649786528&idx=1&sn=d24919a0d1659903c56c40d2bd212b3e&scene=27#wechat_redirect)
+
+腾讯技术官方号。腾讯技术创新、前沿领域发布解读平台。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_d14465b5ce6c" alt="" />
 
 ---
 
@@ -34,19 +47,6 @@
 提供B站相关技术的介绍和讲解
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_6a92a838f9e0" alt="" />
-
----
-
-
-### [腾讯技术工程](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
-
-[:chart_with_upwards_trend:【8/13/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
-
-[:camera_flash:【2024-11-08T18:03:02】](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649786512&idx=1&sn=9988364181728949cfdafa4a835c7c86&scene=27#wechat_redirect)
-
-腾讯技术官方号。腾讯技术创新、前沿领域发布解读平台。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_d14465b5ce6c" alt="" />
 
 ---
 
