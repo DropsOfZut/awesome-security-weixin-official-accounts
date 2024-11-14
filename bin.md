@@ -1,9 +1,9 @@
 
 ### [看雪学苑](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTc2MDYxMw==)
 
-[:chart_with_upwards_trend:【6/76/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTc2MDYxMw==)
+[:chart_with_upwards_trend:【5/75/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTc2MDYxMw==)
 
-[:camera_flash:【2024-11-12T18:00:40】](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458582134&idx=1&sn=95f5c978ef48c6520c56603e4ddbcdd3&scene=27#wechat_redirect)
+[:camera_flash:【2024-11-13T18:04:34】](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458582464&idx=1&sn=925bf69bcb7cd5906213939095f89b1e&scene=27#wechat_redirect)
 
 致力于移动与安全研究的开发者社区，看雪学院(kanxue.com)官方微信公众帐号。
 
@@ -14,9 +14,9 @@
 
 ### [逆向有你](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4MzgzNTU5MA==)
 
-[:chart_with_upwards_trend:【1/36/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4MzgzNTU5MA==)
+[:chart_with_upwards_trend:【1/38/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4MzgzNTU5MA==)
 
-[:camera_flash:【2024-11-13T00:00:18】](https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652036772&idx=1&sn=3dc538519122dc7365e5f7e18ed93b85&scene=27#wechat_redirect)
+[:camera_flash:【2024-11-14T00:00:57】](https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652036782&idx=2&sn=f5c42222bfcd3053f6ff014e8060b90d&scene=27#wechat_redirect)
 
 分享一些Android逆向，PC逆向及游戏辅助等相关学习笔记。。。
 
@@ -38,6 +38,19 @@
 ---
 
 
+### [二进制空间安全](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxOTUyOTc0NQ==)
+
+[:chart_with_upwards_trend:【11/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxOTUyOTc0NQ==)
+
+[:camera_flash:【2024-11-14T07:30:44】](https://mp.weixin.qq.com/s?__biz=MzkxOTUyOTc0NQ==&mid=2247492348&idx=1&sn=aa6fbaa750fcc8c843675cff90bc76f6&scene=27#wechat_redirect)
+
+主要专注于安全技术研究,领域包括但不限于:渗透测试、安全工具分享、软件逆向分析技术、编程技术、威胁情报。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_9232dc837451" alt="" />
+
+---
+
+
 ### [吾爱破解论坛](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Mjc3MDM2Mw==)
 
 [:chart_with_upwards_trend:【5/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Mjc3MDM2Mw==)
@@ -53,26 +66,13 @@
 
 ### [智能汽车开发者平台](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyOTMwMDQ5MQ==)
 
-[:chart_with_upwards_trend:【0/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyOTMwMDQ5MQ==)
+[:chart_with_upwards_trend:【0/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyOTMwMDQ5MQ==)
 
 [:camera_flash:【2024-11-06T16:49:32】](https://mp.weixin.qq.com/s?__biz=MzkyOTMwMDQ5MQ==&mid=2247519874&idx=1&sn=bc2da34dd57b796cc170a3850a598965&scene=27#wechat_redirect)
 
 本公众号主要分享汽车技术文章，线上直播，行业活动分享平台
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_1a19d0de25f0" alt="" />
-
----
-
-
-### [二进制空间安全](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxOTUyOTc0NQ==)
-
-[:chart_with_upwards_trend:【9/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxOTUyOTc0NQ==)
-
-[:camera_flash:【2024-11-12T14:59:33】](https://mp.weixin.qq.com/s?__biz=MzkxOTUyOTc0NQ==&mid=2247492042&idx=1&sn=a9be93fda99300a6b02a03bf44cfa76e&scene=27#wechat_redirect)
-
-主要专注于安全技术研究,领域包括但不限于:渗透测试、安全工具分享、软件逆向分析技术、编程技术、威胁情报。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_9232dc837451" alt="" />
 
 ---
 
