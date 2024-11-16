@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【5/71/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTc2MDYxMw==)
 
-[:camera_flash:【2024-11-13T18:04:34】](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458582464&idx=1&sn=925bf69bcb7cd5906213939095f89b1e&scene=27#wechat_redirect)
+[:camera_flash:【2024-11-15T17:59:22】](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458582488&idx=1&sn=d64631235f88d7f2e627edfc79e71e33&scene=27#wechat_redirect)
 
 致力于移动与安全研究的开发者社区，看雪学院(kanxue.com)官方微信公众帐号。
 
@@ -14,9 +14,9 @@
 
 ### [逆向有你](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4MzgzNTU5MA==)
 
-[:chart_with_upwards_trend:【1/37/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4MzgzNTU5MA==)
+[:chart_with_upwards_trend:【1/38/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4MzgzNTU5MA==)
 
-[:camera_flash:【2024-11-15T00:00:22】](https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652036790&idx=1&sn=a7d721b3b1cfab6671cc7fdb6295b684&scene=27#wechat_redirect)
+[:camera_flash:【2024-11-16T00:00:19】](https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652036808&idx=1&sn=4cce8facc66901eb85d78c8bf7fd8176&scene=27#wechat_redirect)
 
 分享一些Android逆向，PC逆向及游戏辅助等相关学习笔记。。。
 
@@ -40,9 +40,9 @@
 
 ### [二进制空间安全](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxOTUyOTc0NQ==)
 
-[:chart_with_upwards_trend:【11/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxOTUyOTc0NQ==)
+[:chart_with_upwards_trend:【12/13/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxOTUyOTc0NQ==)
 
-[:camera_flash:【2024-11-14T07:30:44】](https://mp.weixin.qq.com/s?__biz=MzkxOTUyOTc0NQ==&mid=2247492348&idx=1&sn=aa6fbaa750fcc8c843675cff90bc76f6&scene=27#wechat_redirect)
+[:camera_flash:【2024-11-15T09:01:10】](https://mp.weixin.qq.com/s?__biz=MzkxOTUyOTc0NQ==&mid=2247492359&idx=1&sn=bef31c783d1ab9b38d81281a7b34753c&scene=27#wechat_redirect)
 
 主要专注于安全技术研究,领域包括但不限于:渗透测试、安全工具分享、软件逆向分析技术、编程技术、威胁情报。
 
@@ -66,7 +66,7 @@
 
 ### [智能汽车开发者平台](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyOTMwMDQ5MQ==)
 
-[:chart_with_upwards_trend:【0/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyOTMwMDQ5MQ==)
+[:chart_with_upwards_trend:【0/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyOTMwMDQ5MQ==)
 
 [:camera_flash:【2024-11-06T16:49:32】](https://mp.weixin.qq.com/s?__biz=MzkyOTMwMDQ5MQ==&mid=2247519874&idx=1&sn=bc2da34dd57b796cc170a3850a598965&scene=27#wechat_redirect)
 
