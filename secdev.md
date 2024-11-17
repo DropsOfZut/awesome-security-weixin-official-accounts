@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【0/114/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
 
-[:camera_flash:【2024-11-14T20:35:47】](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247632066&idx=2&sn=72addf993f3058c96ef9566b6f1f6f88&scene=27#wechat_redirect)
+[:camera_flash:【2024-11-16T16:27:52】](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247632154&idx=4&sn=9599a2411f8f3e5fc8319a6ac09d4b73&scene=27#wechat_redirect)
 
 商密君是全国密码行业头部公众号，旨在宣传推广《密码法》，普及商用密码知识，解读密码政策，分享商用密码行业的最新动态，为密码产业产学研用做好宣传服务，连接密码全行业精英，推动密码技术在数字经济各行业的应用和创新。
 
@@ -14,9 +14,9 @@
 
 ### [掌控安全EDU](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
 
-[:chart_with_upwards_trend:【21/72/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
+[:chart_with_upwards_trend:【23/73/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
 
-[:camera_flash:【2024-11-13T12:01:50】](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247545051&idx=2&sn=e6417498724d7121480b627cda672f79&scene=27#wechat_redirect)
+[:camera_flash:【2024-11-16T12:03:42】](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247545126&idx=1&sn=b2f2e3d1dba89c587651768a66070b2d&scene=27#wechat_redirect)
 
 安全教程\\高质量文章\\面试经验分享，尽在#掌控安全EDU#
 
@@ -27,7 +27,7 @@
 
 ### [网络与信息法学会](http://wechat.doonsec.com/wechat_echarts/?biz=MzU1NDY3NDgwMQ==)
 
-[:chart_with_upwards_trend:【0/72/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU1NDY3NDgwMQ==)
+[:chart_with_upwards_trend:【0/69/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU1NDY3NDgwMQ==)
 
 [:camera_flash:【2024-11-14T20:40:51】](https://mp.weixin.qq.com/s?__biz=MzU1NDY3NDgwMQ==&mid=2247547326&idx=2&sn=17beb0b31538a94d30baf5d61336a5dc&scene=27#wechat_redirect)
 
@@ -40,9 +40,9 @@
 
 ### [数世咨询](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
 
-[:chart_with_upwards_trend:【1/35/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
+[:chart_with_upwards_trend:【1/33/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
 
-[:camera_flash:【2024-11-13T16:00:35】](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247522644&idx=1&sn=5a56c13c590a887a2ebe207884c2cea7&scene=27#wechat_redirect)
+[:camera_flash:【2024-11-13T16:00:35】](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247522644&idx=2&sn=114ccb9f7634fc43344f3a909f30763d&scene=27#wechat_redirect)
 
 中国数字产业领域中立的第三方调研机构，提供网络安全行业的调查、研究与咨询服务。
 
@@ -81,7 +81,7 @@
 
 [:chart_with_upwards_trend:【2/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2NjI5NzY1OA==)
 
-[:camera_flash:【2024-11-13T18:01:29】](https://mp.weixin.qq.com/s?__biz=MzU2NjI5NzY1OA==&mid=2247511390&idx=1&sn=44609831a410647998e117bde2c96f04&scene=27#wechat_redirect)
+[:camera_flash:【2024-11-15T12:00:27】](https://mp.weixin.qq.com/s?__biz=MzU2NjI5NzY1OA==&mid=2247511422&idx=1&sn=3b810570507ff99fa935f4c5c7cbc152&scene=27#wechat_redirect)
 
 珞安科技是专注工业网络空间安全的国家专精特新“小巨人”企业，拥有自主可控工控安全产品。基于多年项目实践经验发布业务安全产品，业务遍布电力电网、石油石化、轨交、智能制造等20多个工业行业，创造多个业内大规模安全部署成功案例。
 
@@ -92,9 +92,9 @@
 
 ### [中国网络空间安全协会](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3ODE0NDA4MA==)
 
-[:chart_with_upwards_trend:【0/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3ODE0NDA4MA==)
+[:chart_with_upwards_trend:【0/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3ODE0NDA4MA==)
 
-[:camera_flash:【2024-11-16T08:00:22】](https://mp.weixin.qq.com/s?__biz=MzA3ODE0NDA4MA==&mid=2649400704&idx=1&sn=60b16ca3873bdddc581bad75b1d1859f&scene=27#wechat_redirect)
+[:camera_flash:【2024-11-17T07:30:22】](https://mp.weixin.qq.com/s?__biz=MzA3ODE0NDA4MA==&mid=2649400723&idx=1&sn=31e4fecf7056691beb247485dc86867d&scene=27#wechat_redirect)
 
 中国网络空间安全协会是由国内从事网络空间安全相关产业、教育、科研、应用的机构、企业及个人共同自愿结成的全国性、行业性、非营利性社会组织。
 
@@ -116,19 +116,6 @@
 ---
 
 
-### [爱加密](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NzU4NjkyMw==)
-
-[:chart_with_upwards_trend:【4/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NzU4NjkyMw==)
-
-[:camera_flash:【2024-11-07T10:39:02】](https://mp.weixin.qq.com/s?__biz=MjM5NzU4NjkyMw==&mid=2650746177&idx=1&sn=6cce864201f5b2633ddf4087638c62c0&scene=27#wechat_redirect)
-
-爱加密是全球专业的移动信息安全服务提供商,专注于移动应用安全、大数据及物联网安全。品牌官网：www.ijiami.cn；服务电话： 4000-618-110
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0e28cef7681c" alt="" />
-
----
-
-
 ### [vivo千镜](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0Njg4NzE3MQ==)
 
 [:chart_with_upwards_trend:【0/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0Njg4NzE3MQ==)
@@ -138,6 +125,19 @@
 vivo全新的安全品牌，有人文温度的科技新媒体，致力于让亿万用户享受安全便捷的数字生活。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_54ff3f871510" alt="" />
+
+---
+
+
+### [爱加密](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NzU4NjkyMw==)
+
+[:chart_with_upwards_trend:【3/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NzU4NjkyMw==)
+
+[:camera_flash:【2024-11-07T10:39:02】](https://mp.weixin.qq.com/s?__biz=MjM5NzU4NjkyMw==&mid=2650746177&idx=1&sn=6cce864201f5b2633ddf4087638c62c0&scene=27#wechat_redirect)
+
+爱加密是全球专业的移动信息安全服务提供商,专注于移动应用安全、大数据及物联网安全。品牌官网：www.ijiami.cn；服务电话： 4000-618-110
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0e28cef7681c" alt="" />
 
 ---
 
@@ -207,19 +207,6 @@ OWASP中国，SecZone互联网安全研究中心官方平台
 ---
 
 
-### [甲方安全建设](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0MDcyMTMxOQ==)
-
-[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0MDcyMTMxOQ==)
-
-[:camera_flash:【2024-10-25T15:42:30】](https://mp.weixin.qq.com/s?__biz=MzU0MDcyMTMxOQ==&mid=2247487746&idx=1&sn=b9fb556b77eda920dbd5eca110e709ac&scene=27#wechat_redirect)
-
-甲方安全建设的点滴，共同学习，一起进步。 笔耕不辍也是对自我的督促。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_97cc04db2203" alt="" />
-
----
-
-
 ### [云安全联盟CSA](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NzM2MTQ3OA==)
 
 [:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NzM2MTQ3OA==)
@@ -255,6 +242,19 @@ OWASP中国，SecZone互联网安全研究中心官方平台
 网络安全创业者，CTO@星阑科技。浪漫世界，一起折腾！
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_6410a4e28c9e" alt="" />
+
+---
+
+
+### [甲方安全建设](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0MDcyMTMxOQ==)
+
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0MDcyMTMxOQ==)
+
+[:camera_flash:【2024-10-25T15:42:30】](https://mp.weixin.qq.com/s?__biz=MzU0MDcyMTMxOQ==&mid=2247487746&idx=1&sn=b9fb556b77eda920dbd5eca110e709ac&scene=27#wechat_redirect)
+
+甲方安全建设的点滴，共同学习，一起进步。 笔耕不辍也是对自我的督促。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_97cc04db2203" alt="" />
 
 ---
 
