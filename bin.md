@@ -1,9 +1,9 @@
 
 ### [看雪学苑](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTc2MDYxMw==)
 
-[:chart_with_upwards_trend:【5/69/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTc2MDYxMw==)
+[:chart_with_upwards_trend:【5/66/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTc2MDYxMw==)
 
-[:camera_flash:【2024-11-16T18:02:44】](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458582512&idx=2&sn=c7e3bc4105db5cf8e3f21aae9d113d2a&scene=27#wechat_redirect)
+[:camera_flash:【2024-11-16T18:02:44】](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458582512&idx=1&sn=1398429a5de7f38c593c3f13a3e9cf4d&scene=27#wechat_redirect)
 
 致力于移动与安全研究的开发者社区，看雪学院(kanxue.com)官方微信公众帐号。
 
@@ -14,9 +14,9 @@
 
 ### [逆向有你](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4MzgzNTU5MA==)
 
-[:chart_with_upwards_trend:【1/36/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4MzgzNTU5MA==)
+[:chart_with_upwards_trend:【1/34/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4MzgzNTU5MA==)
 
-[:camera_flash:【2024-11-16T00:00:19】](https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652036808&idx=1&sn=4cce8facc66901eb85d78c8bf7fd8176&scene=27#wechat_redirect)
+[:camera_flash:【2024-11-16T00:00:19】](https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652036808&idx=2&sn=08caf0a2166a188808e1edc4a962e5b2&scene=27#wechat_redirect)
 
 分享一些Android逆向，PC逆向及游戏辅助等相关学习笔记。。。
 
