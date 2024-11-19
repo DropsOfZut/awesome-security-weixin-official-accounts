@@ -1,9 +1,9 @@
 
 ### [字节跳动技术团队](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
 
-[:chart_with_upwards_trend:【6/23/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
+[:chart_with_upwards_trend:【6/24/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
 
-[:camera_flash:【2024-11-17T09:40:38】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247511386&idx=1&sn=7cc18c28156b42b144946325f89b186e&scene=27#wechat_redirect)
+[:camera_flash:【2024-11-18T12:02:50】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247511387&idx=1&sn=08804288fef02425277bba70b693c73e&scene=27#wechat_redirect)
 
 字节跳动的技术实践分享
 
@@ -14,9 +14,9 @@
 
 ### [读诗库](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
 
-[:chart_with_upwards_trend:【14/15/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
+[:chart_with_upwards_trend:【15/16/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
 
-[:camera_flash:【2024-11-17T22:52:10】](https://mp.weixin.qq.com/s?__biz=MzU5NzQ3NzIwMA==&mid=2247486184&idx=1&sn=afc7d373715129ac31540c06935e845b&scene=27#wechat_redirect)
+[:camera_flash:【2024-11-18T20:49:05】](https://mp.weixin.qq.com/s?__biz=MzU5NzQ3NzIwMA==&mid=2247486188&idx=1&sn=7abf9629e8293b0a6b43fb766434861d&scene=27#wechat_redirect)
 
 读书，写诗，假装自己是黑客。
 
@@ -27,9 +27,9 @@
 
 ### [腾讯技术工程](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
 
-[:chart_with_upwards_trend:【7/13/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
+[:chart_with_upwards_trend:【7/14/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
 
-[:camera_flash:【2024-11-14T22:59:04】](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649786694&idx=1&sn=fc3fd5fa739e815770f3cabfaa033c5e&scene=27#wechat_redirect)
+[:camera_flash:【2024-11-18T18:03:03】](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649786696&idx=1&sn=e5c5c84aac8a6415471dfbc8ecf3f891&scene=27#wechat_redirect)
 
 腾讯技术官方号。腾讯技术创新、前沿领域发布解读平台。
 
@@ -42,7 +42,7 @@
 
 [:chart_with_upwards_trend:【9/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3Njc0NTgwMg==)
 
-[:camera_flash:【2024-11-15T12:03:21】](https://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&mid=2247501406&idx=1&sn=b9e381ab9707f4d9356f9a64ac938864&scene=27#wechat_redirect)
+[:camera_flash:【2024-11-15T12:03:21】](https://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&mid=2247501406&idx=2&sn=77711e68b89b9306e89c409f5bbc19d2&scene=27#wechat_redirect)
 
 提供B站相关技术的介绍和讲解
 
@@ -146,7 +146,7 @@
 
 [:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NDY1MDc2Mg==)
 
-[:camera_flash:【2024-11-02T10:54:10】](https://mp.weixin.qq.com/s?__biz=Mzg2NDY1MDc2Mg==&mid=2247505560&idx=1&sn=d5d82b2a8e4f45c4038340c52a65396b&scene=27#wechat_redirect)
+[:camera_flash:【2024-11-02T10:54:10】](https://mp.weixin.qq.com/s?__biz=Mzg2NDY1MDc2Mg==&mid=2247505560&idx=2&sn=12a02adc373c12559229957f38d9413a&scene=27#wechat_redirect)
 
 专注于学习网络安全
 

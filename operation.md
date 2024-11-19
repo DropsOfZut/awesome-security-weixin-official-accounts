@@ -1,7 +1,7 @@
 
 ### [kali黑客笔记](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzIwNTY1OA==)
 
-[:chart_with_upwards_trend:【20/26/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzIwNTY1OA==)
+[:chart_with_upwards_trend:【19/25/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzIwNTY1OA==)
 
 [:camera_flash:【2024-11-18T08:01:14】](https://mp.weixin.qq.com/s?__biz=MzkxMzIwNTY1OA==&mid=2247509142&idx=1&sn=7a9bf881915c113f53359c76b2c10c49&scene=27#wechat_redirect)
 
@@ -27,9 +27,9 @@ Docker中文社区旨在为大家提供 Docker、Kubernetes 相关工具及前�
 
 ### [云计算和网络安全技术实践](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3MjM5MDc2Nw==)
 
-[:chart_with_upwards_trend:【4/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3MjM5MDc2Nw==)
+[:chart_with_upwards_trend:【5/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3MjM5MDc2Nw==)
 
-[:camera_flash:【2024-11-11T08:46:25】](https://mp.weixin.qq.com/s?__biz=MzA3MjM5MDc2Nw==&mid=2650748796&idx=1&sn=cb12d89dda77a980abbf7effdee92a47&scene=27#wechat_redirect)
+[:camera_flash:【2024-11-18T08:54:14】](https://mp.weixin.qq.com/s?__biz=MzA3MjM5MDc2Nw==&mid=2650748808&idx=1&sn=10db1f256322dd759668a71885dcc852&scene=27#wechat_redirect)
 
 史上最具参考性的云计算和网络安全技术实践博客。
 

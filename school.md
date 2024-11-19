@@ -1,9 +1,9 @@
 
 ### [青春计协](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzU3MTcwNg==)
 
-[:chart_with_upwards_trend:【13/13/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzU3MTcwNg==)
+[:chart_with_upwards_trend:【13/14/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzU3MTcwNg==)
 
-[:camera_flash:【2024-11-17T11:17:27】](https://mp.weixin.qq.com/s?__biz=Mzg4MzU3MTcwNg==&mid=2247486009&idx=1&sn=3d5ce22b108a0c094d3987577b9a9a5a&scene=27#wechat_redirect)
+[:camera_flash:【2024-11-18T23:03:35】](https://mp.weixin.qq.com/s?__biz=Mzg4MzU3MTcwNg==&mid=2247486025&idx=1&sn=57b3564d52b3979909e7c4ce558cb424&scene=27#wechat_redirect)
 
 本公众号为计算机协会，负责通知各类活动竞赛以及各类技术知识点。
 
@@ -27,7 +27,7 @@
 
 ### [浙大网安](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5NDczNDc4NA==)
 
-[:chart_with_upwards_trend:【0/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5NDczNDc4NA==)
+[:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5NDczNDc4NA==)
 
 [:camera_flash:【2024-11-17T11:54:24】](https://mp.weixin.qq.com/s?__biz=Mzg5NDczNDc4NA==&mid=2247495336&idx=1&sn=cf3d0184131680ca7212f3ad88dd3f73&scene=27#wechat_redirect)
 
@@ -90,19 +90,6 @@
 ---
 
 
-### [广工AD攻防实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3Njc3NDQ5OA==)
-
-[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3Njc3NDQ5OA==)
-
-[:camera_flash:【2024-10-23T12:05:03】](https://mp.weixin.qq.com/s?__biz=MzU3Njc3NDQ5OA==&mid=2247487668&idx=1&sn=730d042bd218aad8f635a582d547489d&scene=27#wechat_redirect)
-
-广东工业大学A&amp;D（攻击与防御）工作室
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_c375cb5a0589" alt="" />
-
----
-
-
 ### [启明星辰网络空间安全教育](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
 
 [:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
@@ -112,6 +99,19 @@
 启明星辰网络空间安全学院以国家网络安全事业发展为使命，依托启明星辰集团多年的技术沉淀及实践积累，提供网络安全人才体系构建与信息安全技术及能力提升教育培训，为建设网络强国提供有力的人才支撑。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_310250868fd4" alt="" />
+
+---
+
+
+### [广工AD攻防实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3Njc3NDQ5OA==)
+
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3Njc3NDQ5OA==)
+
+[:camera_flash:【2024-10-23T12:05:03】](https://mp.weixin.qq.com/s?__biz=MzU3Njc3NDQ5OA==&mid=2247487668&idx=1&sn=730d042bd218aad8f635a582d547489d&scene=27#wechat_redirect)
+
+广东工业大学A&amp;D（攻击与防御）工作室
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_c375cb5a0589" alt="" />
 
 ---
 

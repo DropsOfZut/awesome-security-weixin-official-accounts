@@ -14,9 +14,9 @@
 
 ### [DataCon大数据安全分析竞赛](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5Njg1NzMyNw==)
 
-[:chart_with_upwards_trend:【1/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5Njg1NzMyNw==)
+[:chart_with_upwards_trend:【1/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5Njg1NzMyNw==)
 
-[:camera_flash:【2024-11-17T18:17:23】](https://mp.weixin.qq.com/s?__biz=MzU5Njg1NzMyNw==&mid=2247488626&idx=1&sn=91a7b58b4e707ae8690b85e60fef1464&scene=27#wechat_redirect)
+[:camera_flash:【2024-11-18T20:20:11】](https://mp.weixin.qq.com/s?__biz=MzU5Njg1NzMyNw==&mid=2247488632&idx=1&sn=6fa5f5846d72b7e98694530b4c692c2c&scene=27#wechat_redirect)
 
 由奇安信集团、清华大学、蚂蚁集团主办，联合北京大学、中科院软件所、复旦大学、中山大学、山东大学、中国科技大学等30多个知名高校和研究机构共同举办的聚焦大数据安全分析的比赛。
 
