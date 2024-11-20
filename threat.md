@@ -1,9 +1,9 @@
 
 ### [独眼情报](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzNDIzNDUxOQ==)
 
-[:chart_with_upwards_trend:【3/95/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzNDIzNDUxOQ==)
+[:chart_with_upwards_trend:【3/97/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzNDIzNDUxOQ==)
 
-[:camera_flash:【2024-11-18T16:20:41】](https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247492528&idx=4&sn=35600ab8eed38c1cb13d5cd4f4a2279b&scene=27#wechat_redirect)
+[:camera_flash:【2024-11-19T11:35:48】](https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247492559&idx=1&sn=1bc1dcdac4e6bbd37b081a66ebc7b495&scene=27#wechat_redirect)
 
 做最快最有价值的网络安全威胁情报公众号！
 
@@ -14,9 +14,9 @@
 
 ### [情报分析师](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3Mjc1MTkwOA==)
 
-[:chart_with_upwards_trend:【49/55/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3Mjc1MTkwOA==)
+[:chart_with_upwards_trend:【50/55/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3Mjc1MTkwOA==)
 
-[:camera_flash:【2024-11-18T16:15:33】](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650557508&idx=1&sn=4ee80d516f860929be9655988e76d2a5&scene=27#wechat_redirect)
+[:camera_flash:【2024-11-19T11:54:36】](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650557552&idx=1&sn=1eefe9dcc93533ba3782bafe92127982&scene=27#wechat_redirect)
 
 刘硕教授团队：聚焦情报与安全！关注情报动态，促进情报协作，传播情报文化，优化情报生态，共建情报分析师职业共同体。
 
@@ -27,9 +27,9 @@
 
 ### [丁爸情报分析师的工具箱](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MTE0NTE3Mw==)
 
-[:chart_with_upwards_trend:【29/40/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MTE0NTE3Mw==)
+[:chart_with_upwards_trend:【29/41/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MTE0NTE3Mw==)
 
-[:camera_flash:【2024-11-18T06:30:32】](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651147835&idx=1&sn=0e5204caa4d523e3b15b7338f9ddb583&scene=27#wechat_redirect)
+[:camera_flash:【2024-11-19T23:05:48】](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651147867&idx=1&sn=2be266a28f679c800e1cb889d4fafbf1&scene=27#wechat_redirect)
 
 每天为大家精选各类情报分析相关的资源、工具、技巧和资讯，努力成为情报分析师必备的工具箱。外挂机器人“小丁丁”还能陪您聊天，给您查航班、查列车、查天气、查酒店、查美食、查股票、回答您的提问等等。
 
@@ -40,9 +40,9 @@
 
 ### [夜组安全](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0ODM0NDIxNQ==)
 
-[:chart_with_upwards_trend:【1/30/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0ODM0NDIxNQ==)
+[:chart_with_upwards_trend:【1/31/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0ODM0NDIxNQ==)
 
-[:camera_flash:【2024-11-19T08:00:29】](https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247492739&idx=1&sn=8ccd6d896f7a32bb85d0d49e2aee6f64&scene=27#wechat_redirect)
+[:camera_flash:【2024-11-20T08:00:14】](https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247492775&idx=1&sn=93a3a6836cb68f8168e9655508828d18&scene=27#wechat_redirect)
 
 &quot;恐惧就是貌似真实的伪证&quot; NightCrawler Team(简称:夜组)主攻WEB安全 | 内网渗透 | 红蓝对抗 | 代码审计 | APT攻击，致力于将每一位藏在暗处的白帽子聚集在一起，在夜空中划出一道绚丽的光线！
 
@@ -53,9 +53,9 @@
 
 ### [百灵猫开源情报分析师](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMTA3MDk3NA==)
 
-[:chart_with_upwards_trend:【23/25/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMTA3MDk3NA==)
+[:chart_with_upwards_trend:【24/26/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMTA3MDk3NA==)
 
-[:camera_flash:【2024-11-18T13:00:20】](https://mp.weixin.qq.com/s?__biz=MzkxMTA3MDk3NA==&mid=2247486697&idx=1&sn=69bec5d22e1d89ca9d867e7adfa14da8&scene=27#wechat_redirect)
+[:camera_flash:【2024-11-19T18:10:21】](https://mp.weixin.qq.com/s?__biz=MzkxMTA3MDk3NA==&mid=2247486733&idx=1&sn=f65589c579b5eca1844c0af558c48ce0&scene=27#wechat_redirect)
 
 只分享最干的干货
 
@@ -94,7 +94,7 @@
 
 [:chart_with_upwards_trend:【7/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MDc2MDA4OA==)
 
-[:camera_flash:【2024-11-15T11:38:04】](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247513070&idx=1&sn=7d42871fa4b0cd9c05a95e4636aff6dc&scene=27#wechat_redirect)
+[:camera_flash:【2024-11-15T11:38:04】](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247513070&idx=2&sn=f22c403ace7d85f434c2b88bedb02e23&scene=27#wechat_redirect)
 
 威胁情报信息共享，事件预警通报，攻击事件分析报告，恶意软件分析报告
 
@@ -181,6 +181,19 @@ Seebug，原 Sebug 漏洞平台，洞悉漏洞，让你掌握第一手漏洞情�
 ---
 
 
+### [二道情报贩子](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NTA3MTk5Ng==)
+
+[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NTA3MTk5Ng==)
+
+[:camera_flash:【2024-11-19T16:12:08】](https://mp.weixin.qq.com/s?__biz=MzU5NTA3MTk5Ng==&mid=2247489640&idx=1&sn=088cbcbd04083674ce0fe4a115fdd408&scene=27#wechat_redirect)
+
+二道情报贩子，专注任何情报领域。上知天文,下知地理,中晓人和,明阴阳,懂八卦,晓奇门,知遁甲,运筹帷幄之中,决胜千里之外,自比管仲乐毅之贤,抱膝危坐,笑傲风月,未出茅庐,先定三分天下。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f0f88d5b70e3" alt="" />
+
+---
+
+
 ### [黑鸟](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxOTM1MDQ1NA==)
 
 [:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxOTM1MDQ1NA==)
@@ -203,19 +216,6 @@ Seebug，原 Sebug 漏洞平台，洞悉漏洞，让你掌握第一手漏洞情�
 威胁情报中心（TIX）是一个涵盖全球多维数据的情报分析、威胁预警分析平台。依托顶尖安全专家团队支撑，帮助安全分析人员快速、准确对可疑事件进行预警、溯源分析。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_05a6c5ec3f78" alt="" />
-
----
-
-
-### [二道情报贩子](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NTA3MTk5Ng==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NTA3MTk5Ng==)
-
-[:camera_flash:【2024-11-13T16:17:18】](https://mp.weixin.qq.com/s?__biz=MzU5NTA3MTk5Ng==&mid=2247489607&idx=1&sn=71a966769cb7ebefc9fa4e48c5021546&scene=27#wechat_redirect)
-
-二道情报贩子，专注任何情报领域。上知天文,下知地理,中晓人和,明阴阳,懂八卦,晓奇门,知遁甲,运筹帷幄之中,决胜千里之外,自比管仲乐毅之贤,抱膝危坐,笑傲风月,未出茅庐,先定三分天下。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f0f88d5b70e3" alt="" />
 
 ---
 
