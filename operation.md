@@ -1,9 +1,9 @@
 
 ### [kali黑客笔记](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzIwNTY1OA==)
 
-[:chart_with_upwards_trend:【19/26/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzIwNTY1OA==)
+[:chart_with_upwards_trend:【20/26/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzIwNTY1OA==)
 
-[:camera_flash:【2024-11-19T12:40:21】](https://mp.weixin.qq.com/s?__biz=MzkxMzIwNTY1OA==&mid=2247509159&idx=1&sn=1eabd95f2ce5674e96be93cd7448e322&scene=27#wechat_redirect)
+[:camera_flash:【2024-11-20T09:02:38】](https://mp.weixin.qq.com/s?__biz=MzkxMzIwNTY1OA==&mid=2247509168&idx=1&sn=f2df0d7acfbf06066aa1fb37a3da6f2b&scene=27#wechat_redirect)
 
 发布关于kali相关文章。Debian Centos等操作系统的安全和运维。以及树莓派 ESP8266 DIY单片机等相关安全领域的文章。旨在掌握技术和原理的前提下，更好的保护自身网络安全。反对一切危害网络安全的行为，造成法律后果请自负。
 
@@ -14,9 +14,9 @@
 
 ### [Docker中文社区](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1NzI5NDM4Mw==)
 
-[:chart_with_upwards_trend:【0/14/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1NzI5NDM4Mw==)
+[:chart_with_upwards_trend:【0/15/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1NzI5NDM4Mw==)
 
-[:camera_flash:【2024-11-18T08:03:36】](https://mp.weixin.qq.com/s?__biz=MzI1NzI5NDM4Mw==&mid=2247498344&idx=1&sn=ae75516b95b1f20786b516292fd6a188&scene=27#wechat_redirect)
+[:camera_flash:【2024-11-20T08:03:07】](https://mp.weixin.qq.com/s?__biz=MzI1NzI5NDM4Mw==&mid=2247498345&idx=1&sn=ab4f0f35ace303f8295d4a5410d98d7b&scene=27#wechat_redirect)
 
 Docker中文社区旨在为大家提供 Docker、Kubernetes 相关工具及前沿资讯信息，方便大家了解学习 Docker、Kubernetes 相关容器技术。官网：dockerworld.cn
 
@@ -27,7 +27,7 @@ Docker中文社区旨在为大家提供 Docker、Kubernetes 相关工具及前�
 
 ### [云计算和网络安全技术实践](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3MjM5MDc2Nw==)
 
-[:chart_with_upwards_trend:【5/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3MjM5MDc2Nw==)
+[:chart_with_upwards_trend:【4/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3MjM5MDc2Nw==)
 
 [:camera_flash:【2024-11-18T08:54:14】](https://mp.weixin.qq.com/s?__biz=MzA3MjM5MDc2Nw==&mid=2650748808&idx=1&sn=10db1f256322dd759668a71885dcc852&scene=27#wechat_redirect)
 

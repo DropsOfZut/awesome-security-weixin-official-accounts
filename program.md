@@ -1,9 +1,9 @@
 
 ### [字节跳动技术团队](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
 
-[:chart_with_upwards_trend:【6/25/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
+[:chart_with_upwards_trend:【7/25/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
 
-[:camera_flash:【2024-11-19T18:03:38】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247511397&idx=1&sn=88f208a8ee67f0f303bcd6b287a70975&scene=27#wechat_redirect)
+[:camera_flash:【2024-11-20T18:03:21】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247511620&idx=1&sn=806d388134cfad4cb50a91e1d05b693b&scene=27#wechat_redirect)
 
 字节跳动的技术实践分享
 
@@ -14,9 +14,9 @@
 
 ### [读诗库](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
 
-[:chart_with_upwards_trend:【16/17/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
+[:chart_with_upwards_trend:【18/19/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
 
-[:camera_flash:【2024-11-19T22:47:00】](https://mp.weixin.qq.com/s?__biz=MzU5NzQ3NzIwMA==&mid=2247486192&idx=1&sn=0d15217c01f9ce5e267ce9afbe5cbc8a&scene=27#wechat_redirect)
+[:camera_flash:【2024-11-21T00:14:12】](https://mp.weixin.qq.com/s?__biz=MzU5NzQ3NzIwMA==&mid=2247486213&idx=1&sn=c9094e88923c41fd1c594c4e2e4f44dc&scene=27#wechat_redirect)
 
 读书，写诗，假装自己是黑客。
 
@@ -40,9 +40,9 @@
 
 ### [腾讯技术工程](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
 
-[:chart_with_upwards_trend:【7/14/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
+[:chart_with_upwards_trend:【8/14/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
 
-[:camera_flash:【2024-11-18T18:03:03】](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649786696&idx=1&sn=e5c5c84aac8a6415471dfbc8ecf3f891&scene=27#wechat_redirect)
+[:camera_flash:【2024-11-20T17:27:52】](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649786754&idx=1&sn=a622b48ff754c42fb752a52cd8f5a3c7&scene=27#wechat_redirect)
 
 腾讯技术官方号。腾讯技术创新、前沿领域发布解读平台。
 

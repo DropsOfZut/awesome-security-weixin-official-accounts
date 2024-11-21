@@ -1,9 +1,9 @@
 
 ### [商密君](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
 
-[:chart_with_upwards_trend:【0/115/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
+[:chart_with_upwards_trend:【0/116/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
 
-[:camera_flash:【2024-11-19T22:31:04】](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247632338&idx=3&sn=287c0b4f0cfbdbc1d11e7f8b67787249&scene=27#wechat_redirect)
+[:camera_flash:【2024-11-20T22:35:18】](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247632355&idx=3&sn=ad5d5a7a2da19c128cb985592bb851e2&scene=27#wechat_redirect)
 
 商密君是全国密码行业头部公众号，旨在宣传推广《密码法》，普及商用密码知识，解读密码政策，分享商用密码行业的最新动态，为密码产业产学研用做好宣传服务，连接密码全行业精英，推动密码技术在数字经济各行业的应用和创新。
 
@@ -16,7 +16,7 @@
 
 [:chart_with_upwards_trend:【23/72/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
 
-[:camera_flash:【2024-11-19T12:00:19】](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247545231&idx=2&sn=195ff4717085e4c4a6b184236c1327e7&scene=27#wechat_redirect)
+[:camera_flash:【2024-11-20T12:04:10】](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247545258&idx=1&sn=ff4e08cf9201c92a43802a71c8fa605b&scene=27#wechat_redirect)
 
 安全教程\\高质量文章\\面试经验分享，尽在#掌控安全EDU#
 
@@ -27,9 +27,9 @@
 
 ### [网络与信息法学会](http://wechat.doonsec.com/wechat_echarts/?biz=MzU1NDY3NDgwMQ==)
 
-[:chart_with_upwards_trend:【0/72/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU1NDY3NDgwMQ==)
+[:chart_with_upwards_trend:【0/70/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU1NDY3NDgwMQ==)
 
-[:camera_flash:【2024-11-19T21:10:27】](https://mp.weixin.qq.com/s?__biz=MzU1NDY3NDgwMQ==&mid=2247547488&idx=5&sn=6bcbb1ae96939ca94274c46c19d50227&scene=27#wechat_redirect)
+[:camera_flash:【2024-11-20T20:00:33】](https://mp.weixin.qq.com/s?__biz=MzU1NDY3NDgwMQ==&mid=2247547535&idx=3&sn=19d2513cf1257e6dc65721e5ae3eb666&scene=27#wechat_redirect)
 
 中国法学会网络与信息法学研究会及其会刊《网络与信息法学研究》官方公众号。汇集国内外网络信息法领域理论性、前瞻性、创新性研究成果，引领、推动、服务中国网络信息法治发展。
 
@@ -42,7 +42,7 @@
 
 [:chart_with_upwards_trend:【2/36/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
 
-[:camera_flash:【2024-11-19T16:01:28】](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247529480&idx=1&sn=6e5157f71e10ae44274585c2da77dfc3&scene=27#wechat_redirect)
+[:camera_flash:【2024-11-20T16:00:36】](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247529555&idx=2&sn=505f2be790d70f28bdce22f8aeecf1eb&scene=27#wechat_redirect)
 
 中国数字产业领域中立的第三方调研机构，提供网络安全行业的调查、研究与咨询服务。
 
@@ -51,9 +51,35 @@
 ---
 
 
+### [中国网络空间安全协会](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3ODE0NDA4MA==)
+
+[:chart_with_upwards_trend:【0/18/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3ODE0NDA4MA==)
+
+[:camera_flash:【2024-11-20T12:21:39】](https://mp.weixin.qq.com/s?__biz=MzA3ODE0NDA4MA==&mid=2649400795&idx=1&sn=99b65e43e266182fd962e758b293c138&scene=27#wechat_redirect)
+
+中国网络空间安全协会是由国内从事网络空间安全相关产业、教育、科研、应用的机构、企业及个人共同自愿结成的全国性、行业性、非营利性社会组织。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_fe5fc5463d7b" alt="" />
+
+---
+
+
+### [深圳市网络与信息安全行业协会](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
+
+[:chart_with_upwards_trend:【0/17/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
+
+[:camera_flash:【2024-11-20T16:35:14】](https://mp.weixin.qq.com/s?__biz=MzU0Mzk0NDQyOA==&mid=2247520593&idx=2&sn=6217516147cff3a049204e6958559bbf&scene=27#wechat_redirect)
+
+深圳市网络与信息安全行业协会（SNISA），是深圳市网络与信息安全行业的权威组织，是中国网络安全审查技术与认证中心（CCRC）在深圳唯一授权工作站，是经深圳市人力资源和社会保障局核准，开展网络空间安全工程技术专业职称评审工作的社会组织。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_650442d8cad4" alt="" />
+
+---
+
+
 ### [全栈网络空间安全](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
 
-[:chart_with_upwards_trend:【0/17/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
+[:chart_with_upwards_trend:【0/16/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
 
 [:camera_flash:【2024-11-19T00:01:21】](https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247514651&idx=1&sn=c2b5154f6aceaee7d360c666c7718a85&scene=27#wechat_redirect)
 
@@ -64,37 +90,11 @@
 ---
 
 
-### [深圳市网络与信息安全行业协会](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
-
-[:chart_with_upwards_trend:【0/17/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
-
-[:camera_flash:【2024-11-19T16:37:40】](https://mp.weixin.qq.com/s?__biz=MzU0Mzk0NDQyOA==&mid=2247520540&idx=1&sn=037703972cd61a95370fa9fd8634b83d&scene=27#wechat_redirect)
-
-深圳市网络与信息安全行业协会（SNISA），是深圳市网络与信息安全行业的权威组织，是中国网络安全审查技术与认证中心（CCRC）在深圳唯一授权工作站，是经深圳市人力资源和社会保障局核准，开展网络空间安全工程技术专业职称评审工作的社会组织。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_650442d8cad4" alt="" />
-
----
-
-
-### [中国网络空间安全协会](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3ODE0NDA4MA==)
-
-[:chart_with_upwards_trend:【0/15/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3ODE0NDA4MA==)
-
-[:camera_flash:【2024-11-19T11:00:52】](https://mp.weixin.qq.com/s?__biz=MzA3ODE0NDA4MA==&mid=2649400760&idx=1&sn=dd71af03944d17e18750bd5c9dbd8a85&scene=27#wechat_redirect)
-
-中国网络空间安全协会是由国内从事网络空间安全相关产业、教育、科研、应用的机构、企业及个人共同自愿结成的全国性、行业性、非营利性社会组织。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_fe5fc5463d7b" alt="" />
-
----
-
-
 ### [珞安科技](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2NjI5NzY1OA==)
 
 [:chart_with_upwards_trend:【2/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2NjI5NzY1OA==)
 
-[:camera_flash:【2024-11-18T18:00:56】](https://mp.weixin.qq.com/s?__biz=MzU2NjI5NzY1OA==&mid=2247511437&idx=1&sn=abe0b677a029dfd887a4040943b52659&scene=27#wechat_redirect)
+[:camera_flash:【2024-11-20T18:00:35】](https://mp.weixin.qq.com/s?__biz=MzU2NjI5NzY1OA==&mid=2247511456&idx=1&sn=db3f55953c38a8c22f7d03b1e0c41495&scene=27#wechat_redirect)
 
 珞安科技是专注工业网络空间安全的国家专精特新“小巨人”企业，拥有自主可控工控安全产品。基于多年项目实践经验发布业务安全产品，业务遍布电力电网、石油石化、轨交、智能制造等20多个工业行业，创造多个业内大规模安全部署成功案例。
 
@@ -118,9 +118,9 @@
 
 ### [爱加密](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NzU4NjkyMw==)
 
-[:chart_with_upwards_trend:【3/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NzU4NjkyMw==)
+[:chart_with_upwards_trend:【5/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NzU4NjkyMw==)
 
-[:camera_flash:【2024-11-07T10:39:02】](https://mp.weixin.qq.com/s?__biz=MjM5NzU4NjkyMw==&mid=2650746177&idx=1&sn=6cce864201f5b2633ddf4087638c62c0&scene=27#wechat_redirect)
+[:camera_flash:【2024-11-20T17:04:13】](https://mp.weixin.qq.com/s?__biz=MjM5NzU4NjkyMw==&mid=2650746895&idx=1&sn=c73adf0d70fdb5ebd4ce365f6df64bb7&scene=27#wechat_redirect)
 
 爱加密是全球专业的移动信息安全服务提供商,专注于移动应用安全、大数据及物联网安全。品牌官网：www.ijiami.cn；服务电话： 4000-618-110
 
@@ -131,9 +131,9 @@
 
 ### [vivo千镜](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0Njg4NzE3MQ==)
 
-[:chart_with_upwards_trend:【0/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0Njg4NzE3MQ==)
+[:chart_with_upwards_trend:【0/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0Njg4NzE3MQ==)
 
-[:camera_flash:【2024-11-13T12:03:03】](https://mp.weixin.qq.com/s?__biz=MzI0Njg4NzE3MQ==&mid=2247492025&idx=1&sn=b2a526320071db8b3a461199073607c2&scene=27#wechat_redirect)
+[:camera_flash:【2024-11-20T12:01:02】](https://mp.weixin.qq.com/s?__biz=MzI0Njg4NzE3MQ==&mid=2247492043&idx=1&sn=fe3674db6dda4578c5fe84e723ebddbf&scene=27#wechat_redirect)
 
 vivo全新的安全品牌，有人文温度的科技新媒体，致力于让亿万用户享受安全便捷的数字生活。
 
