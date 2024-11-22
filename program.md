@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【7/25/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
 
-[:camera_flash:【2024-11-20T18:03:21】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247511620&idx=1&sn=806d388134cfad4cb50a91e1d05b693b&scene=27#wechat_redirect)
+[:camera_flash:【2024-11-21T12:02:30】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247511692&idx=1&sn=675c2d38e9ab671f56f9709ea53746e2&scene=27#wechat_redirect)
 
 字节跳动的技术实践分享
 
@@ -25,24 +25,11 @@
 ---
 
 
-### [哔哩哔哩技术](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3Njc0NTgwMg==)
-
-[:chart_with_upwards_trend:【10/15/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3Njc0NTgwMg==)
-
-[:camera_flash:【2024-11-19T12:03:34】](https://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&mid=2247501475&idx=2&sn=c4da0313c60c78e6fb2f7bd32773822f&scene=27#wechat_redirect)
-
-提供B站相关技术的介绍和讲解
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_6a92a838f9e0" alt="" />
-
----
-
-
 ### [腾讯技术工程](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
 
-[:chart_with_upwards_trend:【8/14/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
+[:chart_with_upwards_trend:【8/15/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
 
-[:camera_flash:【2024-11-20T17:27:52】](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649786754&idx=1&sn=a622b48ff754c42fb752a52cd8f5a3c7&scene=27#wechat_redirect)
+[:camera_flash:【2024-11-21T21:06:01】](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649786856&idx=1&sn=d8ae77a4c694854ea5ccc288ea223d55&scene=27#wechat_redirect)
 
 腾讯技术官方号。腾讯技术创新、前沿领域发布解读平台。
 
@@ -51,11 +38,24 @@
 ---
 
 
+### [哔哩哔哩技术](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3Njc0NTgwMg==)
+
+[:chart_with_upwards_trend:【9/14/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3Njc0NTgwMg==)
+
+[:camera_flash:【2024-11-19T12:03:34】](https://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&mid=2247501475&idx=3&sn=c7d0eea7b18ff97fedcaa80069b68df0&scene=27#wechat_redirect)
+
+提供B站相关技术的介绍和讲解
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_6a92a838f9e0" alt="" />
+
+---
+
+
 ### [北邮GAMMALab](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzE1MTQzNw==)
 
 [:chart_with_upwards_trend:【11/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzE1MTQzNw==)
 
-[:camera_flash:【2024-11-19T12:06:25】](https://mp.weixin.qq.com/s?__biz=Mzg4MzE1MTQzNw==&mid=2247491024&idx=1&sn=00be4948643b40e24a2b0cca5c99edfc&scene=27#wechat_redirect)
+[:camera_flash:【2024-11-21T10:18:07】](https://mp.weixin.qq.com/s?__biz=Mzg4MzE1MTQzNw==&mid=2247491034&idx=1&sn=e37ca2904baa551e1ec238ddb7ccd098&scene=27#wechat_redirect)
 
 北邮图数据挖掘与机器学习实验室
 
@@ -79,9 +79,9 @@
 
 ### [美团技术团队](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ5MTI5OA==)
 
-[:chart_with_upwards_trend:【1/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ5MTI5OA==)
+[:chart_with_upwards_trend:【2/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ5MTI5OA==)
 
-[:camera_flash:【2024-11-07T19:59:13】](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651779557&idx=1&sn=e6dd46f2d1de330da987f8e6bc2f3b4f&scene=27#wechat_redirect)
+[:camera_flash:【2024-11-21T19:59:18】](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651779616&idx=2&sn=e75cc9e9d786472392f0caa3026fca10&scene=27#wechat_redirect)
 
 10000+工程师，如何支撑中国领先的生活服务电子商务平台？数亿消费者、数百万商户、2000多个行业背后是哪些技术在支撑？这里是美团、大众点评、美团外卖、美团优选等技术团队对外交流的窗口。
 
@@ -90,28 +90,28 @@
 ---
 
 
-### [爱奇艺技术产品团队](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0MjczMjM2NA==)
-
-[:chart_with_upwards_trend:【3/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0MjczMjM2NA==)
-
-[:camera_flash:【2024-11-07T13:30:40】](https://mp.weixin.qq.com/s?__biz=MzI0MjczMjM2NA==&mid=2247498552&idx=1&sn=b68d81c5a77a10995ed39f79cd6fbcc0&scene=27#wechat_redirect)
-
-爱奇艺的技术产品团队
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_aa1476c2ce41" alt="" />
-
----
-
-
 ### [创宇安全智脑](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNjU0NjAyNg==)
 
-[:chart_with_upwards_trend:【3/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNjU0NjAyNg==)
+[:chart_with_upwards_trend:【5/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNjU0NjAyNg==)
 
-[:camera_flash:【2024-11-07T18:07:11】](https://mp.weixin.qq.com/s?__biz=MzIwNjU0NjAyNg==&mid=2247489827&idx=1&sn=8e9f1892f6878d3d21221c5061719daa&scene=27#wechat_redirect)
+[:camera_flash:【2024-11-21T17:18:30】](https://mp.weixin.qq.com/s?__biz=MzIwNjU0NjAyNg==&mid=2247489903&idx=1&sn=15bf8bcba0aaf185a4c968af8fcd06a4&scene=27#wechat_redirect)
 
 基于知道创宇14年来海量真实攻防数据积累，通过AI+安全大数据能力持续自生产、精粹和分析，实时输出高精准、高价值威胁情报，赋能于全场景安全建设体系。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_dd8b72c1c127" alt="" />
+
+---
+
+
+### [爱奇艺技术产品团队](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0MjczMjM2NA==)
+
+[:chart_with_upwards_trend:【4/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0MjczMjM2NA==)
+
+[:camera_flash:【2024-11-21T13:30:12】](https://mp.weixin.qq.com/s?__biz=MzI0MjczMjM2NA==&mid=2247498585&idx=1&sn=b38df0798ec5f658fc6b5d7d45af7f2f&scene=27#wechat_redirect)
+
+爱奇艺的技术产品团队
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_aa1476c2ce41" alt="" />
 
 ---
 
@@ -151,6 +151,19 @@
 专注于学习网络安全
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8e01ffd3a47c" alt="" />
+
+---
+
+
+### [GobySec](http://wechat.doonsec.com/wechat_echarts/?biz=MzI4MzcwNTAzOQ==)
+
+[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI4MzcwNTAzOQ==)
+
+[:camera_flash:【2024-11-22T08:00:28】](https://mp.weixin.qq.com/s?__biz=MzI4MzcwNTAzOQ==&mid=2247545694&idx=1&sn=08893a5d79ebcadd741a29b0a011327c&scene=27#wechat_redirect)
+
+新一代网络安全测试工具，由赵武Zwell（Pangolin、FOFA作者）打造，能够针对一个目标企业梳理最全的攻击面信息，同时能进行高效、实战化漏洞扫描，并快速的从一个验证入口点，切换到横向。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_7f7c15f37480" alt="" />
 
 ---
 
@@ -268,19 +281,6 @@ OPPO 安第斯智能云（AndesBrain）是服务个人、家庭与开发者的�
 该账号主要围绕智能化技术如何帮助企业提升网络安全水平展开，内容涉及机器学习、大数据处理等智能化技术在安全领域的实践经验分享，业界领先的产品和前沿趋势的解读分析等。通过分享、交流，推动安全智能的落地、应用。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_dc9b9a9fb2b2" alt="" />
-
----
-
-
-### [GobySec](http://wechat.doonsec.com/wechat_echarts/?biz=MzI4MzcwNTAzOQ==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI4MzcwNTAzOQ==)
-
-[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
-
-新一代网络安全测试工具，由赵武Zwell（Pangolin、FOFA作者）打造，能够针对一个目标企业梳理最全的攻击面信息，同时能进行高效、实战化漏洞扫描，并快速的从一个验证入口点，切换到横向。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_7f7c15f37480" alt="" />
 
 ---
 

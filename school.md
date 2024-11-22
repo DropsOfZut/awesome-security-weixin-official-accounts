@@ -16,7 +16,7 @@
 
 [:chart_with_upwards_trend:【8/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
 
-[:camera_flash:【2024-11-20T17:30:48】](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247491928&idx=1&sn=7f0711ada9aa7f434ae51ced6ef0220a&scene=27#wechat_redirect)
+[:camera_flash:【2024-11-21T17:14:56】](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247491946&idx=1&sn=118524b753e493bfda3809c1823d9234&scene=27#wechat_redirect)
 
 以复旦大学系统安全实验室学生为主成立的安全攻防战队，分享最新研究成果，交流系统安全攻防领域技巧。
 
@@ -64,19 +64,6 @@
 ---
 
 
-### [深圳网安培训学院](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDYzMjAyNA==)
-
-[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDYzMjAyNA==)
-
-[:camera_flash:【2024-11-05T14:29:03】](https://mp.weixin.qq.com/s?__biz=Mzg3MDYzMjAyNA==&mid=2247485901&idx=1&sn=ca056fbf0debafb7fb6eabd27f077909&scene=27#wechat_redirect)
-
-深圳市网安计算机网络安全培训中心是由深圳市人力资源局备案的社会第三方培训机构。是受广东省人力资源和社会保障厅委托，开展“网络与信息安全管理员”职业技能等级认定工作的第三方社会评价机构。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_94f04a96b1ca" alt="" />
-
----
-
-
 ### [网络攻防创新实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzNDcyMDM1MQ==)
 
 [:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzNDcyMDM1MQ==)
@@ -112,6 +99,19 @@
 本社团致力于向大家分享交流网络安全实践技术，主要以CTF竞赛、红蓝对抗、渗透测试、知识讲座等形式分享网络安全知识，培养网安人才，积极响应国家建设网络强国的号召，共筑网络安全防线。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ac1289a6ef60" alt="" />
+
+---
+
+
+### [深圳网安培训学院](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDYzMjAyNA==)
+
+[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDYzMjAyNA==)
+
+[:camera_flash:【2024-11-05T14:29:03】](https://mp.weixin.qq.com/s?__biz=Mzg3MDYzMjAyNA==&mid=2247485901&idx=1&sn=ca056fbf0debafb7fb6eabd27f077909&scene=27#wechat_redirect)
+
+深圳市网安计算机网络安全培训中心是由深圳市人力资源局备案的社会第三方培训机构。是受广东省人力资源和社会保障厅委托，开展“网络与信息安全管理员”职业技能等级认定工作的第三方社会评价机构。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_94f04a96b1ca" alt="" />
 
 ---
 
@@ -164,19 +164,6 @@
 为了宣传杭州师范大学“网络与信息安全实验室”，提升大家网络与信息安全意识。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_cb6e613490cd" alt="" />
-
----
-
-
-### [珠天PearlSky](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyODMyODMyOA==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyODMyODMyOA==)
-
-[:camera_flash:【2024-10-22T21:08:18】](https://mp.weixin.qq.com/s?__biz=MzkyODMyODMyOA==&mid=2247487556&idx=1&sn=03a2b25280067aa69ca0f204e79ef95e&scene=27#wechat_redirect)
-
-珠天PearlSky，意为珠科安全的一片天。珠天的队员都来自于珠海科技学院热爱钻研网络安全技术的同学。我们希望我们能够让更多人了解网络安全，更欢迎各位同学加入我们一起交流学习。本公众号会发布一些学习心得，经验总结等等一系列文章。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a4b0a923e487" alt="" />
 
 ---
 
@@ -697,6 +684,19 @@ Covteam工作室，成立于2005年。是以西华大学在校本科生研究生
 Birkenwald安全团队 --来自哈尔滨理工大学
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_78acfb2bfff7" alt="" />
+
+---
+
+
+### [珠天PearlSky](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyODMyODMyOA==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyODMyODMyOA==)
+
+[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
+
+珠天PearlSky，意为珠科安全的一片天。珠天的队员都来自于珠海科技学院热爱钻研网络安全技术的同学。我们希望我们能够让更多人了解网络安全，更欢迎各位同学加入我们一起交流学习。本公众号会发布一些学习心得，经验总结等等一系列文章。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a4b0a923e487" alt="" />
 
 ---
 

@@ -1,7 +1,7 @@
 
 ### [强网竞赛](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjY3NDQ2Ng==)
 
-[:chart_with_upwards_trend:【0/17/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjY3NDQ2Ng==)
+[:chart_with_upwards_trend:【0/16/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjY3NDQ2Ng==)
 
 [:camera_flash:【2024-11-19T19:11:22】](https://mp.weixin.qq.com/s?__biz=Mzg4MjY3NDQ2Ng==&mid=2247487522&idx=3&sn=2dfbe159458553f1eb562d85e4530e99&scene=27#wechat_redirect)
 
@@ -14,9 +14,9 @@
 
 ### [DataCon大数据安全分析竞赛](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5Njg1NzMyNw==)
 
-[:chart_with_upwards_trend:【1/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5Njg1NzMyNw==)
+[:chart_with_upwards_trend:【1/13/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5Njg1NzMyNw==)
 
-[:camera_flash:【2024-11-20T18:43:54】](https://mp.weixin.qq.com/s?__biz=MzU5Njg1NzMyNw==&mid=2247488664&idx=2&sn=3e7b7e7edab1dffabf0816e27d18da3b&scene=27#wechat_redirect)
+[:camera_flash:【2024-11-21T18:11:45】](https://mp.weixin.qq.com/s?__biz=MzU5Njg1NzMyNw==&mid=2247488674&idx=1&sn=6f0ddd17f437967db05a63f7c7c44f65&scene=27#wechat_redirect)
 
 由奇安信集团、清华大学、蚂蚁集团主办，联合北京大学、中科院软件所、复旦大学、中山大学、山东大学、中国科技大学等30多个知名高校和研究机构共同举办的聚焦大数据安全分析的比赛。
 

@@ -1,9 +1,9 @@
 
 ### [商密君](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
 
-[:chart_with_upwards_trend:【0/116/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
+[:chart_with_upwards_trend:【0/114/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
 
-[:camera_flash:【2024-11-20T22:35:18】](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247632355&idx=3&sn=ad5d5a7a2da19c128cb985592bb851e2&scene=27#wechat_redirect)
+[:camera_flash:【2024-11-21T22:45:26】](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247632372&idx=1&sn=476c5772c14b6c3274774069864f3583&scene=27#wechat_redirect)
 
 商密君是全国密码行业头部公众号，旨在宣传推广《密码法》，普及商用密码知识，解读密码政策，分享商用密码行业的最新动态，为密码产业产学研用做好宣传服务，连接密码全行业精英，推动密码技术在数字经济各行业的应用和创新。
 
@@ -16,7 +16,7 @@
 
 [:chart_with_upwards_trend:【23/72/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
 
-[:camera_flash:【2024-11-20T12:04:10】](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247545258&idx=1&sn=ff4e08cf9201c92a43802a71c8fa605b&scene=27#wechat_redirect)
+[:camera_flash:【2024-11-21T14:00:27】](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247545304&idx=3&sn=dd2a86af9dc7d4b40e065186e2530ea1&scene=27#wechat_redirect)
 
 安全教程\\高质量文章\\面试经验分享，尽在#掌控安全EDU#
 
@@ -29,7 +29,7 @@
 
 [:chart_with_upwards_trend:【0/70/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU1NDY3NDgwMQ==)
 
-[:camera_flash:【2024-11-20T20:00:33】](https://mp.weixin.qq.com/s?__biz=MzU1NDY3NDgwMQ==&mid=2247547535&idx=3&sn=19d2513cf1257e6dc65721e5ae3eb666&scene=27#wechat_redirect)
+[:camera_flash:【2024-11-21T20:58:57】](https://mp.weixin.qq.com/s?__biz=MzU1NDY3NDgwMQ==&mid=2247547548&idx=1&sn=6190d6da08772d54254219e7e614c244&scene=27#wechat_redirect)
 
 中国法学会网络与信息法学研究会及其会刊《网络与信息法学研究》官方公众号。汇集国内外网络信息法领域理论性、前瞻性、创新性研究成果，引领、推动、服务中国网络信息法治发展。
 
@@ -40,9 +40,9 @@
 
 ### [数世咨询](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
 
-[:chart_with_upwards_trend:【2/36/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
+[:chart_with_upwards_trend:【1/36/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
 
-[:camera_flash:【2024-11-20T16:00:36】](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247529555&idx=2&sn=505f2be790d70f28bdce22f8aeecf1eb&scene=27#wechat_redirect)
+[:camera_flash:【2024-11-21T16:00:42】](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247529561&idx=1&sn=21097e9ac986115991718b87150558bb&scene=27#wechat_redirect)
 
 中国数字产业领域中立的第三方调研机构，提供网络安全行业的调查、研究与咨询服务。
 
@@ -53,9 +53,9 @@
 
 ### [中国网络空间安全协会](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3ODE0NDA4MA==)
 
-[:chart_with_upwards_trend:【0/18/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3ODE0NDA4MA==)
+[:chart_with_upwards_trend:【0/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3ODE0NDA4MA==)
 
-[:camera_flash:【2024-11-20T12:21:39】](https://mp.weixin.qq.com/s?__biz=MzA3ODE0NDA4MA==&mid=2649400795&idx=1&sn=99b65e43e266182fd962e758b293c138&scene=27#wechat_redirect)
+[:camera_flash:【2024-11-21T19:50:25】](https://mp.weixin.qq.com/s?__biz=MzA3ODE0NDA4MA==&mid=2649400812&idx=1&sn=f06800b008f1ccc7a91e4fe1844ede19&scene=27#wechat_redirect)
 
 中国网络空间安全协会是由国内从事网络空间安全相关产业、教育、科研、应用的机构、企业及个人共同自愿结成的全国性、行业性、非营利性社会组织。
 
@@ -68,7 +68,7 @@
 
 [:chart_with_upwards_trend:【0/17/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
 
-[:camera_flash:【2024-11-20T16:35:14】](https://mp.weixin.qq.com/s?__biz=MzU0Mzk0NDQyOA==&mid=2247520593&idx=2&sn=6217516147cff3a049204e6958559bbf&scene=27#wechat_redirect)
+[:camera_flash:【2024-11-21T17:41:32】](https://mp.weixin.qq.com/s?__biz=MzU0Mzk0NDQyOA==&mid=2247520645&idx=1&sn=7df6b62eb38974bd6b1d891e220995bd&scene=27#wechat_redirect)
 
 深圳市网络与信息安全行业协会（SNISA），是深圳市网络与信息安全行业的权威组织，是中国网络安全审查技术与认证中心（CCRC）在深圳唯一授权工作站，是经深圳市人力资源和社会保障局核准，开展网络空间安全工程技术专业职称评审工作的社会组织。
 
@@ -79,9 +79,9 @@
 
 ### [全栈网络空间安全](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
 
-[:chart_with_upwards_trend:【0/16/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
+[:chart_with_upwards_trend:【1/16/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
 
-[:camera_flash:【2024-11-19T00:01:21】](https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247514651&idx=1&sn=c2b5154f6aceaee7d360c666c7718a85&scene=27#wechat_redirect)
+[:camera_flash:【2024-11-21T16:39:22】](https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247514659&idx=1&sn=68c63e17f09bb16a6725aa7eff5244cb&scene=27#wechat_redirect)
 
 做一个会思考的全栈网络空间安全者
 
@@ -107,7 +107,7 @@
 
 [:chart_with_upwards_trend:【6/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MjQ1NTA4MA==)
 
-[:camera_flash:【2024-11-18T07:03:06】](https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247491664&idx=1&sn=9f29825f362daf8028e27882061a2e90&scene=27#wechat_redirect)
+[:camera_flash:【2024-11-22T07:01:14】](https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247491673&idx=1&sn=13b8ce3edd8047e1aeeb8bbdbbc5f4c2&scene=27#wechat_redirect)
 
 闲暇时间，逼迫自己，记录分享体验与经历，不求正确统一，但求真、善、美。
 
@@ -118,9 +118,9 @@
 
 ### [爱加密](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NzU4NjkyMw==)
 
-[:chart_with_upwards_trend:【5/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NzU4NjkyMw==)
+[:chart_with_upwards_trend:【4/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NzU4NjkyMw==)
 
-[:camera_flash:【2024-11-20T17:04:13】](https://mp.weixin.qq.com/s?__biz=MjM5NzU4NjkyMw==&mid=2650746895&idx=1&sn=c73adf0d70fdb5ebd4ce365f6df64bb7&scene=27#wechat_redirect)
+[:camera_flash:【2024-11-21T17:06:31】](https://mp.weixin.qq.com/s?__biz=MjM5NzU4NjkyMw==&mid=2650746909&idx=1&sn=413922656f4c546b428a26d6461a0bc0&scene=27#wechat_redirect)
 
 爱加密是全球专业的移动信息安全服务提供商,专注于移动应用安全、大数据及物联网安全。品牌官网：www.ijiami.cn；服务电话： 4000-618-110
 
@@ -168,19 +168,6 @@ APP个人信息保护治理的工作动态、通知公告等相关信息发布�
 ---
 
 
-### [安全管理杂谈](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5MjEyOTE4MA==)
-
-[:chart_with_upwards_trend:【3/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5MjEyOTE4MA==)
-
-[:camera_flash:【2024-11-19T16:33:58】](https://mp.weixin.qq.com/s?__biz=MzI5MjEyOTE4MA==&mid=2648520026&idx=1&sn=9ae63dfb024e565591918e1d0821cafb&scene=27#wechat_redirect)
-
-信息安全体系建设相关内容分享…不定时更新，可随时取关…
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_eaab7ac10752" alt="" />
-
----
-
-
 ### [FreeBuf安全咨询](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2MTAwNzg1Ng==)
 
 [:chart_with_upwards_trend:【2/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2MTAwNzg1Ng==)
@@ -190,6 +177,19 @@ APP个人信息保护治理的工作动态、通知公告等相关信息发布�
 关注安全行业前沿动向、产品服务商用前景，洞悉商业市场和用户趋势，助力安全行业发展。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e18f20900200" alt="" />
+
+---
+
+
+### [安全管理杂谈](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5MjEyOTE4MA==)
+
+[:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5MjEyOTE4MA==)
+
+[:camera_flash:【2024-11-19T16:33:58】](https://mp.weixin.qq.com/s?__biz=MzI5MjEyOTE4MA==&mid=2648520026&idx=1&sn=9ae63dfb024e565591918e1d0821cafb&scene=27#wechat_redirect)
+
+信息安全体系建设相关内容分享…不定时更新，可随时取关…
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_eaab7ac10752" alt="" />
 
 ---
 
