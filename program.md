@@ -1,7 +1,7 @@
 
 ### [字节跳动技术团队](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
 
-[:chart_with_upwards_trend:【8/26/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
+[:chart_with_upwards_trend:【8/25/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
 
 [:camera_flash:【2024-11-22T15:02:53】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247511900&idx=1&sn=00aa033a2e651b06d0a02ce4940d0e11&scene=27#wechat_redirect)
 
@@ -14,9 +14,9 @@
 
 ### [读诗库](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
 
-[:chart_with_upwards_trend:【18/19/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
+[:chart_with_upwards_trend:【19/21/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
 
-[:camera_flash:【2024-11-21T00:14:12】](https://mp.weixin.qq.com/s?__biz=MzU5NzQ3NzIwMA==&mid=2247486213&idx=1&sn=c9094e88923c41fd1c594c4e2e4f44dc&scene=27#wechat_redirect)
+[:camera_flash:【2024-11-23T14:16:26】](https://mp.weixin.qq.com/s?__biz=MzU5NzQ3NzIwMA==&mid=2247486221&idx=1&sn=6e83bb5d2829c73d8fd5d6b304997457&scene=27#wechat_redirect)
 
 读书，写诗，假装自己是黑客。
 
@@ -27,7 +27,7 @@
 
 ### [哔哩哔哩技术](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3Njc0NTgwMg==)
 
-[:chart_with_upwards_trend:【10/15/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3Njc0NTgwMg==)
+[:chart_with_upwards_trend:【9/14/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3Njc0NTgwMg==)
 
 [:camera_flash:【2024-11-22T12:01:12】](https://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&mid=2247501582&idx=1&sn=c95efa7fd9069c0d875b6c02d6412feb&scene=27#wechat_redirect)
 
@@ -40,7 +40,7 @@
 
 ### [腾讯技术工程](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
 
-[:chart_with_upwards_trend:【8/15/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
+[:chart_with_upwards_trend:【8/14/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
 
 [:camera_flash:【2024-11-21T21:06:01】](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649786856&idx=1&sn=d8ae77a4c694854ea5ccc288ea223d55&scene=27#wechat_redirect)
 
@@ -79,7 +79,7 @@
 
 ### [美团技术团队](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ5MTI5OA==)
 
-[:chart_with_upwards_trend:【2/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ5MTI5OA==)
+[:chart_with_upwards_trend:【2/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ5MTI5OA==)
 
 [:camera_flash:【2024-11-21T19:59:18】](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651779616&idx=2&sn=e75cc9e9d786472392f0caa3026fca10&scene=27#wechat_redirect)
 
@@ -92,7 +92,7 @@
 
 ### [创宇安全智脑](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNjU0NjAyNg==)
 
-[:chart_with_upwards_trend:【5/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNjU0NjAyNg==)
+[:chart_with_upwards_trend:【4/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNjU0NjAyNg==)
 
 [:camera_flash:【2024-11-21T17:18:30】](https://mp.weixin.qq.com/s?__biz=MzIwNjU0NjAyNg==&mid=2247489903&idx=1&sn=15bf8bcba0aaf185a4c968af8fcd06a4&scene=27#wechat_redirect)
 
@@ -105,7 +105,7 @@
 
 ### [爱奇艺技术产品团队](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0MjczMjM2NA==)
 
-[:chart_with_upwards_trend:【4/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0MjczMjM2NA==)
+[:chart_with_upwards_trend:【3/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0MjczMjM2NA==)
 
 [:camera_flash:【2024-11-21T13:30:12】](https://mp.weixin.qq.com/s?__biz=MzI0MjczMjM2NA==&mid=2247498585&idx=1&sn=b38df0798ec5f658fc6b5d7d45af7f2f&scene=27#wechat_redirect)
 
@@ -118,26 +118,13 @@
 
 ### [四维创智](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzI1MDg2Mg==)
 
-[:chart_with_upwards_trend:【1/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzI1MDg2Mg==)
+[:chart_with_upwards_trend:【1/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzI1MDg2Mg==)
 
 [:camera_flash:【2024-11-19T20:03:54】](https://mp.weixin.qq.com/s?__biz=MzIwMzI1MDg2Mg==&mid=2649945063&idx=1&sn=e933d8e9d2243641c8f007c652caad48&scene=27#wechat_redirect)
 
 主营业务涵盖应用安全、系统安全、运维安全等，包括IT资产管理、智能攻击机器人、智能防御机器人、攻防实战演练支持、安全培训、课题和安全技术研究、产品研发及服务综合解决方案提供；其中，行业解决方案又包括电力行业、金融行业、军工行业、公检法等。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_10621ea3bed3" alt="" />
-
----
-
-
-### [软件开发安全生命周期](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NzE5NjI0Mg==)
-
-[:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NzE5NjI0Mg==)
-
-[:camera_flash:【2024-11-02T23:05:19】](https://mp.weixin.qq.com/s?__biz=Mzk0NzE5NjI0Mg==&mid=2247484642&idx=1&sn=b910549979b228fc50e80158d7871444&scene=27#wechat_redirect)
-
-博主站点:www.s-sdlc.com 分享软件开发生命周期,致力于分享知识、同时会分享网络安全相关的知识点和技能点
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4270dc91534e" alt="" />
 
 ---
 
@@ -164,6 +151,19 @@
 新一代网络安全测试工具，由赵武Zwell（Pangolin、FOFA作者）打造，能够针对一个目标企业梳理最全的攻击面信息，同时能进行高效、实战化漏洞扫描，并快速的从一个验证入口点，切换到横向。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_7f7c15f37480" alt="" />
+
+---
+
+
+### [软件开发安全生命周期](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NzE5NjI0Mg==)
+
+[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NzE5NjI0Mg==)
+
+[:camera_flash:【2024-11-02T23:05:19】](https://mp.weixin.qq.com/s?__biz=Mzk0NzE5NjI0Mg==&mid=2247484642&idx=1&sn=b910549979b228fc50e80158d7871444&scene=27#wechat_redirect)
+
+博主站点:www.s-sdlc.com 分享软件开发生命周期,致力于分享知识、同时会分享网络安全相关的知识点和技能点
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4270dc91534e" alt="" />
 
 ---
 

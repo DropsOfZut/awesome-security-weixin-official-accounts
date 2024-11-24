@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【17/18/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzU3MTcwNg==)
 
-[:camera_flash:【2024-11-22T15:14:21】](https://mp.weixin.qq.com/s?__biz=Mzg4MzU3MTcwNg==&mid=2247486075&idx=1&sn=0f7d92c86d137eb1eee284f3219dbe94&scene=27#wechat_redirect)
+[:camera_flash:【2024-11-23T13:09:59】](https://mp.weixin.qq.com/s?__biz=Mzg4MzU3MTcwNg==&mid=2247486108&idx=1&sn=773d1fe4cea70ae1571b5679458c7010&scene=27#wechat_redirect)
 
 本公众号为计算机协会，负责通知各类活动竞赛以及各类技术知识点。
 
@@ -14,7 +14,7 @@
 
 ### [复旦白泽战队](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
 
-[:chart_with_upwards_trend:【9/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
+[:chart_with_upwards_trend:【8/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
 
 [:camera_flash:【2024-11-22T19:00:24】](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247491959&idx=1&sn=168138298f43dd7f1713ced2fddb151e&scene=27#wechat_redirect)
 
@@ -99,6 +99,19 @@
 本社团致力于向大家分享交流网络安全实践技术，主要以CTF竞赛、红蓝对抗、渗透测试、知识讲座等形式分享网络安全知识，培养网安人才，积极响应国家建设网络强国的号召，共筑网络安全防线。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ac1289a6ef60" alt="" />
+
+---
+
+
+### [三叶草小组Syclover](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzOTg0NjYzNg==)
+
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzOTg0NjYzNg==)
+
+[:camera_flash:【2024-11-23T12:00:31】](https://mp.weixin.qq.com/s?__biz=MzIzOTg0NjYzNg==&mid=2247491095&idx=1&sn=62418749b54df35ef9cbe1f3b5711ed9&scene=27#wechat_redirect)
+
+一个专注于网络空间安全的高校技术团队，成立于2005年3月，主要研究方向有渗透测试、逆向工程、移动安全、安全编程、漏洞利用等；公众号定期推送小组成员原创文章
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_962842f4917b" alt="" />
 
 ---
 
@@ -320,19 +333,6 @@
 发布信息安全技术及相关竞赛信息。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_711d4ce1da87" alt="" />
-
----
-
-
-### [三叶草小组Syclover](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzOTg0NjYzNg==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzOTg0NjYzNg==)
-
-[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
-
-一个专注于网络空间安全的高校技术团队，成立于2005年3月，主要研究方向有渗透测试、逆向工程、移动安全、安全编程、漏洞利用等；公众号定期推送小组成员原创文章
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_962842f4917b" alt="" />
 
 ---
 
