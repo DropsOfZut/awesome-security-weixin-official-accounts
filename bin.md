@@ -1,7 +1,7 @@
 
 ### [看雪学苑](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTc2MDYxMw==)
 
-[:chart_with_upwards_trend:【6/75/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTc2MDYxMw==)
+[:chart_with_upwards_trend:【6/72/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTc2MDYxMw==)
 
 [:camera_flash:【2024-11-23T18:02:47】](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458583680&idx=1&sn=330011e107fbb9f5b1088c9fcde49a8e&scene=27#wechat_redirect)
 
@@ -14,7 +14,7 @@
 
 ### [逆向有你](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4MzgzNTU5MA==)
 
-[:chart_with_upwards_trend:【0/38/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4MzgzNTU5MA==)
+[:chart_with_upwards_trend:【0/36/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4MzgzNTU5MA==)
 
 [:camera_flash:【2024-11-23T00:02:51】](https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652036966&idx=2&sn=40961723018e15dce4b6e3ad7a54f9d3&scene=27#wechat_redirect)
 
@@ -68,7 +68,7 @@
 
 [:chart_with_upwards_trend:【0/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyOTMwMDQ5MQ==)
 
-[:camera_flash:【2024-11-18T17:38:21】](https://mp.weixin.qq.com/s?__biz=MzkyOTMwMDQ5MQ==&mid=2247519890&idx=1&sn=1770b38a1ede631b004b5441aed37109&scene=27#wechat_redirect)
+[:camera_flash:【2024-11-18T17:38:21】](https://mp.weixin.qq.com/s?__biz=MzkyOTMwMDQ5MQ==&mid=2247519890&idx=2&sn=3782d73e11288e1e620e01cac2499985&scene=27#wechat_redirect)
 
 本公众号主要分享汽车技术文章，线上直播，行业活动分享平台
 

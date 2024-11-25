@@ -1,9 +1,9 @@
 
 ### [青春计协](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzU3MTcwNg==)
 
-[:chart_with_upwards_trend:【17/18/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzU3MTcwNg==)
+[:chart_with_upwards_trend:【18/19/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzU3MTcwNg==)
 
-[:camera_flash:【2024-11-23T13:09:59】](https://mp.weixin.qq.com/s?__biz=Mzg4MzU3MTcwNg==&mid=2247486108&idx=1&sn=773d1fe4cea70ae1571b5679458c7010&scene=27#wechat_redirect)
+[:camera_flash:【2024-11-24T10:53:25】](https://mp.weixin.qq.com/s?__biz=Mzg4MzU3MTcwNg==&mid=2247486115&idx=1&sn=7c9f341277c0a605171f25a822239f8e&scene=27#wechat_redirect)
 
 本公众号为计算机协会，负责通知各类活动竞赛以及各类技术知识点。
 
