@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【9/21/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyOTQ0MjE1NQ==)
 
-[:camera_flash:【2024-11-22T14:26:02】](https://mp.weixin.qq.com/s?__biz=MzkyOTQ0MjE1NQ==&mid=2247493522&idx=1&sn=1175c88d29f5fefc1133fe2d8fe009bc&scene=27#wechat_redirect)
+[:camera_flash:【2024-11-25T14:33:15】](https://mp.weixin.qq.com/s?__biz=MzkyOTQ0MjE1NQ==&mid=2247493755&idx=1&sn=aab2667e36ed9d14d4c8ce2b31f0b4ba&scene=27#wechat_redirect)
 
 7×24小时在线服务，国企背景资质保证。专业安全团队，十余年来专注数据恢复，漏洞修补，安全加固。当天完成评估、修复，不成功不收费。同时完成攻击溯源、漏洞排查、漏洞修补，保障您的服务器安全！
 
@@ -27,9 +27,9 @@
 
 ### [奇安信CERT](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NDgxODU1MQ==)
 
-[:chart_with_upwards_trend:【0/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NDgxODU1MQ==)
+[:chart_with_upwards_trend:【0/13/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NDgxODU1MQ==)
 
-[:camera_flash:【2024-11-20T12:10:15】](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247502473&idx=1&sn=996d4946cf07c672aed821bfd621c228&scene=27#wechat_redirect)
+[:camera_flash:【2024-11-25T17:05:15】](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247502478&idx=1&sn=d1a9a4086615e34a4a8201b45e7437ab&scene=27#wechat_redirect)
 
 为企业级用户提供高危漏洞、重大安全事件安全风险通告和相关产品解决方案。
 
@@ -40,9 +40,9 @@
 
 ### [CNSRC](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzMyMDE4OA==)
 
-[:chart_with_upwards_trend:【9/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzMyMDE4OA==)
+[:chart_with_upwards_trend:【10/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzMyMDE4OA==)
 
-[:camera_flash:【2024-11-20T21:18:21】](https://mp.weixin.qq.com/s?__biz=MzkxMzMyMDE4OA==&mid=2247483910&idx=1&sn=39e0274c2fe9c99d5d1a6c769428a2df&scene=27#wechat_redirect)
+[:camera_flash:【2024-11-25T16:37:05】](https://mp.weixin.qq.com/s?__biz=MzkxMzMyMDE4OA==&mid=2247483918&idx=1&sn=f8c05c481a43f7a6f237fef034ec65cb&scene=27#wechat_redirect)
 
 安全应急响应工具箱 https://cnsrc.org.cn
 
@@ -53,9 +53,9 @@
 
 ### [国家互联网应急中心CNCERT](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNDk0MDgxMw==)
 
-[:chart_with_upwards_trend:【3/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNDk0MDgxMw==)
+[:chart_with_upwards_trend:【4/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNDk0MDgxMw==)
 
-[:camera_flash:【2024-11-22T08:40:54】](https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247499475&idx=1&sn=ac8839cbd51b364c276fab95c7775f9a&scene=27#wechat_redirect)
+[:camera_flash:【2024-11-25T14:40:58】](https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247499488&idx=1&sn=1bb74829deda9683d97332697111e502&scene=27#wechat_redirect)
 
 国家计算机网络应急技术处理协调中心（简称“国家互联网应急中心”，英文简称CNCERT或CNCERT/CC），成立于2001年8月，为非政府非盈利的网络安全技术中心，是中国计算机网络应急处理体系中的牵头单位。
 
@@ -64,24 +64,11 @@
 ---
 
 
-### [CNNVD安全动态](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxODY1OTM5OQ==)
-
-[:chart_with_upwards_trend:【8/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxODY1OTM5OQ==)
-
-[:camera_flash:【2024-11-20T17:05:00】](https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651461349&idx=3&sn=dd3fcba72938894feeccabe050dc7c05&scene=27#wechat_redirect)
-
-国家信息安全漏洞库（CNNVD）是中国信息安全测评中心为切实履行漏洞分析和风险评估的职能，负责建设运维的国家信息安全漏洞库，为我国信息安全保障提供基础服务。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_c8ed6c0fce02" alt="" />
-
----
-
-
 ### [CNVD漏洞平台](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3ODM2NTg2Mg==)
 
-[:chart_with_upwards_trend:【6/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3ODM2NTg2Mg==)
+[:chart_with_upwards_trend:【8/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3ODM2NTg2Mg==)
 
-[:camera_flash:【2024-11-18T16:06:40】](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247495506&idx=2&sn=4f47a0a0b8cf7c2347c48af444867c9c&scene=27#wechat_redirect)
+[:camera_flash:【2024-11-25T17:04:38】](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247495521&idx=1&sn=6649ccb65cd3e433867839f03da0a51a&scene=27#wechat_redirect)
 
 国家信息安全漏洞共享平台（China National Vulnerability Database）是由国家计算机网络应急技术处理协调中心联合重要信息系统单位、基础电信运营商、网络安全厂商、软件厂商和互联网企业建立的国家网络安全漏洞库。
 
@@ -90,11 +77,24 @@
 ---
 
 
+### [CNNVD安全动态](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxODY1OTM5OQ==)
+
+[:chart_with_upwards_trend:【8/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxODY1OTM5OQ==)
+
+[:camera_flash:【2024-11-20T17:05:00】](https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651461349&idx=2&sn=28601f77d7e3146b42cd9e063a788509&scene=27#wechat_redirect)
+
+国家信息安全漏洞库（CNNVD）是中国信息安全测评中心为切实履行漏洞分析和风险评估的职能，负责建设运维的国家信息安全漏洞库，为我国信息安全保障提供基础服务。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_c8ed6c0fce02" alt="" />
+
+---
+
+
 ### [安全狗](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTc2NDM4MQ==)
 
-[:chart_with_upwards_trend:【1/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTc2NDM4MQ==)
+[:chart_with_upwards_trend:【1/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTc2NDM4MQ==)
 
-[:camera_flash:【2024-11-20T18:49:53】](https://mp.weixin.qq.com/s?__biz=MjM5NTc2NDM4MQ==&mid=2650842032&idx=1&sn=1f8301df3517cf3901dc75abfe97327b&scene=27#wechat_redirect)
+[:camera_flash:【2024-11-25T19:13:27】](https://mp.weixin.qq.com/s?__biz=MjM5NTc2NDM4MQ==&mid=2650842037&idx=1&sn=fb21a64b68484ec4e6f6b2b2409e64bc&scene=27#wechat_redirect)
 
 安全狗，知名网络安全品牌、领先的云安全服务与解决方案提供商，是中国网络安全软件领域领跑者亚信安全的控股子公司。
 
@@ -103,15 +103,15 @@
 ---
 
 
-### [奇安信病毒响应中心](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5Mzg5MDM3NQ==)
+### [平安集团安全应急响应中心](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzODAwMTYxNQ==)
 
-[:chart_with_upwards_trend:【4/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5Mzg5MDM3NQ==)
+[:chart_with_upwards_trend:【0/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzODAwMTYxNQ==)
 
-[:camera_flash:【2024-11-22T14:59:17】](https://mp.weixin.qq.com/s?__biz=MzI5Mzg5MDM3NQ==&mid=2247497934&idx=1&sn=ebfd181e7eb3f0944ac9da8cf508e081&scene=27#wechat_redirect)
+[:camera_flash:【2024-11-25T18:04:16】](https://mp.weixin.qq.com/s?__biz=MzIzODAwMTYxNQ==&mid=2652145289&idx=1&sn=f6594f7d43e36c5fab54101c73f0680d&scene=27#wechat_redirect)
 
-奇安信病毒响应中心官方公众号
+平安集团安全应急响应中心隶属于平安科技，是外部用户向平安集团反馈各产品和业务安全漏洞的平台，也是平安科技加强与安全界和同仁合作交流的渠道之一。
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_416eb7efb780" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_639e452805cd" alt="" />
 
 ---
 
@@ -129,15 +129,28 @@
 ---
 
 
-### [平安集团安全应急响应中心](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzODAwMTYxNQ==)
+### [魅族安全应急响应中心](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0Mzg2NjM3NQ==)
 
-[:chart_with_upwards_trend:【0/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzODAwMTYxNQ==)
+[:chart_with_upwards_trend:【0/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0Mzg2NjM3NQ==)
 
-[:camera_flash:【2024-11-18T18:01:13】](https://mp.weixin.qq.com/s?__biz=MzIzODAwMTYxNQ==&mid=2652145267&idx=1&sn=de4617301a26f43730c772a5ac07ac56&scene=27#wechat_redirect)
+[:camera_flash:【2024-11-25T11:06:58】](https://mp.weixin.qq.com/s?__biz=MzI0Mzg2NjM3NQ==&mid=2247500174&idx=5&sn=0a39b973e2d3988c3500fe7593ce3bce&scene=27#wechat_redirect)
 
-平安集团安全应急响应中心隶属于平安科技，是外部用户向平安集团反馈各产品和业务安全漏洞的平台，也是平安科技加强与安全界和同仁合作交流的渠道之一。
+魅族安全应急响应中心，一直致力于建设诚信、公平、共荣的互联网环境，魅族安全响应中心诚邀您加入我们，为打造更好、更安全的互联网生态环境尽一份力。
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_639e452805cd" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_37a848a69257" alt="" />
+
+---
+
+
+### [奇安信病毒响应中心](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5Mzg5MDM3NQ==)
+
+[:chart_with_upwards_trend:【4/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5Mzg5MDM3NQ==)
+
+[:camera_flash:【2024-11-22T14:59:17】](https://mp.weixin.qq.com/s?__biz=MzI5Mzg5MDM3NQ==&mid=2247497934&idx=2&sn=260d62fa67c3efe84c81a92e02af9246&scene=27#wechat_redirect)
+
+奇安信病毒响应中心官方公众号
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_416eb7efb780" alt="" />
 
 ---
 
@@ -146,7 +159,7 @@
 
 [:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTk2MTMxOQ==)
 
-[:camera_flash:【2024-11-21T21:00:52】](https://mp.weixin.qq.com/s?__biz=MjM5OTk2MTMxOQ==&mid=2727839224&idx=2&sn=2da455e854a1b5de2bfa1a91df7e631c&scene=27#wechat_redirect)
+[:camera_flash:【2024-11-21T21:00:52】](https://mp.weixin.qq.com/s?__biz=MjM5OTk2MTMxOQ==&mid=2727839224&idx=1&sn=aa590911abd0b582370a5b2a7706520e&scene=27#wechat_redirect)
 
 京东安全应急响应中心（JSRC）官方
 
@@ -207,6 +220,19 @@ OPPO安全应急响应中心(OSRC)官方公众号。
 ---
 
 
+### [补天漏洞响应平台](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4MzgwODc3Ng==)
+
+[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4MzgwODc3Ng==)
+
+[:camera_flash:【2024-11-25T16:40:19】](https://mp.weixin.qq.com/s?__biz=MzU4MzgwODc3Ng==&mid=2247497138&idx=1&sn=fece7a99f24dd541ddaf31551b4c5168&scene=27#wechat_redirect)
+
+补天漏洞响应平台旨在建立企业与白帽子之间的桥梁，帮助企业建立SRC（安全应急响应中心），让企业安全，让白帽子获益，
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_2f60c48366cb" alt="" />
+
+---
+
+
 ### [字节跳动安全中心](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzMzcyMDYzMw==)
 
 [:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzMzcyMDYzMw==)
@@ -216,19 +242,6 @@ OPPO安全应急响应中心(OSRC)官方公众号。
 字节跳动安全中心
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_840004fd466e" alt="" />
-
----
-
-
-### [补天漏洞响应平台](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4MzgwODc3Ng==)
-
-[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4MzgwODc3Ng==)
-
-[:camera_flash:【2024-11-06T16:31:05】](https://mp.weixin.qq.com/s?__biz=MzU4MzgwODc3Ng==&mid=2247497101&idx=1&sn=886e1731d9e51d412ed7f24d906ad545&scene=27#wechat_redirect)
-
-补天漏洞响应平台旨在建立企业与白帽子之间的桥梁，帮助企业建立SRC（安全应急响应中心），让企业安全，让白帽子获益，
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_2f60c48366cb" alt="" />
 
 ---
 
@@ -272,6 +285,32 @@ OPPO安全应急响应中心(OSRC)官方公众号。
 ---
 
 
+### [美团安全应急响应中心](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5MDc4MTM3Mg==)
+
+[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5MDc4MTM3Mg==)
+
+[:camera_flash:【2024-11-25T10:00:30】](https://mp.weixin.qq.com/s?__biz=MzI5MDc4MTM3Mg==&mid=2247493353&idx=1&sn=60d8aea7934fa17d1e2077e2b879d3ae&scene=27#wechat_redirect)
+
+美团安全应急响应中心官方公众号
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_83d9bb3b8ed0" alt="" />
+
+---
+
+
+### [网络安全威胁和漏洞信息共享平台](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5Nzc4Njg1NA==)
+
+[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5Nzc4Njg1NA==)
+
+[:camera_flash:【2024-11-25T16:55:28】](https://mp.weixin.qq.com/s?__biz=MzA5Nzc4Njg1NA==&mid=2247489160&idx=1&sn=44e3882bdc4f2b0210c411aed66d8352&scene=27#wechat_redirect)
+
+联合行业力量，构建网络安全实时监测数据的海量数据库，形成集威胁实时分析、研判、溯源、处置为一体的解决体系。平台为用户开放威胁信息共享，提供信息查询和订阅服务，实现互通有无、相存相依、良性共生的网络安全威胁共享生态圈。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_bed93c51b75b" alt="" />
+
+---
+
+
 ### [货拉拉安全应急响应中心](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2MDU5NjI0Mw==)
 
 [:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2MDU5NjI0Mw==)
@@ -307,6 +346,19 @@ vivo安全应急响应中心（vivoSRC）官方
 深信服安全应急响应中心，简称SSRC，主要负责处理深信服产品和业务安全问题，以及相关威胁情报，欢迎安全行业人员沟通交流。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_fce28bf135cd" alt="" />
+
+---
+
+
+### [小米安全中心](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2NzI2OTExNA==)
+
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2NzI2OTExNA==)
+
+[:camera_flash:【2024-11-25T10:24:29】](https://mp.weixin.qq.com/s?__biz=MzI2NzI2OTExNA==&mid=2247517446&idx=1&sn=18ecc069c3990680cc3255f3b5a23c23&scene=27#wechat_redirect)
+
+小米安全中心（MiSRC）是致力于保障小米产品、业务线、用户信息等安全，促进与安全专家的合作与交流，而建立的漏洞收集及响应平台。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_2718d08f5227" alt="" />
 
 ---
 
@@ -350,19 +402,6 @@ vivo安全应急响应中心（vivoSRC）官方
 ---
 
 
-### [美团安全应急响应中心](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5MDc4MTM3Mg==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5MDc4MTM3Mg==)
-
-[:camera_flash:【2024-11-11T10:08:46】](https://mp.weixin.qq.com/s?__biz=MzI5MDc4MTM3Mg==&mid=2247493342&idx=1&sn=5aadfd7e004ccab04ad3286741aeca6f&scene=27#wechat_redirect)
-
-美团安全应急响应中心官方公众号
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_83d9bb3b8ed0" alt="" />
-
----
-
-
 ### [奇安信安全应急响应中心](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5OTYwMTY5MA==)
 
 [:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5OTYwMTY5MA==)
@@ -385,19 +424,6 @@ vivo安全应急响应中心（vivoSRC）官方
 中泊研安全应急响应中心，提供全方位的信息网络安全整体解决方案，为您的网络安全保驾护航。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ee6d13a7ae1e" alt="" />
-
----
-
-
-### [网络安全威胁和漏洞信息共享平台](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5Nzc4Njg1NA==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5Nzc4Njg1NA==)
-
-[:camera_flash:【2024-10-31T09:44:18】](https://mp.weixin.qq.com/s?__biz=MzA5Nzc4Njg1NA==&mid=2247489152&idx=1&sn=1df4b199ced772e1dd58af046b0cdd0f&scene=27#wechat_redirect)
-
-联合行业力量，构建网络安全实时监测数据的海量数据库，形成集威胁实时分析、研判、溯源、处置为一体的解决体系。平台为用户开放威胁信息共享，提供信息查询和订阅服务，实现互通有无、相存相依、良性共生的网络安全威胁共享生态圈。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_bed93c51b75b" alt="" />
 
 ---
 
@@ -441,19 +467,6 @@ BOSS直聘安全应急响应中心官方公众号
 ---
 
 
-### [魅族安全应急响应中心](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0Mzg2NjM3NQ==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0Mzg2NjM3NQ==)
-
-[:camera_flash:【2024-11-08T14:44:55】](https://mp.weixin.qq.com/s?__biz=MzI0Mzg2NjM3NQ==&mid=2247500086&idx=1&sn=bf40fafed49511dce9413effe486d16f&scene=27#wechat_redirect)
-
-魅族安全应急响应中心，一直致力于建设诚信、公平、共荣的互联网环境，魅族安全响应中心诚邀您加入我们，为打造更好、更安全的互联网生态环境尽一份力。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_37a848a69257" alt="" />
-
----
-
-
 ### [猎聘安全应急响应中心](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MjY0MTEzMQ==)
 
 [:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MjY0MTEzMQ==)
@@ -489,19 +502,6 @@ BOSS直聘安全应急响应中心官方公众号
 为企业及家庭打造专业、精准、纯净、高效的安全服务平台。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8424f7cbf425" alt="" />
-
----
-
-
-### [小米安全中心](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2NzI2OTExNA==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2NzI2OTExNA==)
-
-[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
-
-小米安全中心（MiSRC）是致力于保障小米产品、业务线、用户信息等安全，促进与安全专家的合作与交流，而建立的漏洞收集及响应平台。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_2718d08f5227" alt="" />
 
 ---
 
