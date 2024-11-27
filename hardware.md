@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【0/90/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
 
-[:camera_flash:【2024-11-25T21:46:20】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247616243&idx=2&sn=1a628cdad0505a3f6e8a667c2f1d7b40&scene=27#wechat_redirect)
+[:camera_flash:【2024-11-26T20:18:47】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247616257&idx=3&sn=da89f165f570d791c389425f0f730f0b&scene=27#wechat_redirect)
 
 为智能网联汽车行业专业人士提供信息和网络安全技术、产品及服务等行业发展最新咨询
 
@@ -14,7 +14,7 @@
 
 ### [网络安全与取证研究](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTU3NTY0Nw==)
 
-[:chart_with_upwards_trend:【0/30/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTU3NTY0Nw==)
+[:chart_with_upwards_trend:【0/29/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTU3NTY0Nw==)
 
 [:camera_flash:【2024-11-26T08:00:38】](https://mp.weixin.qq.com/s?__biz=Mzg3NTU3NTY0Nw==&mid=2247489380&idx=1&sn=992445fe733f0cb24d7eb8e02e7c4238&scene=27#wechat_redirect)
 
@@ -51,19 +51,6 @@
 ---
 
 
-### [IoT物联网技术](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
-
-[:chart_with_upwards_trend:【3/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
-
-[:camera_flash:【2024-11-21T08:49:26】](https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&mid=2454935906&idx=1&sn=f6f9d96359f6adce755bcc74467e4a35&scene=27#wechat_redirect)
-
-云计算、物联网、大模型暗中观察小分队
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_5617c1b503e7" alt="" />
-
----
-
-
 ### [Gh0xE9](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNTc5MTMyNg==)
 
 [:chart_with_upwards_trend:【2/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNTc5MTMyNg==)
@@ -73,6 +60,19 @@
 做勾八安全，卷的要死
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_3953fa56d850" alt="" />
+
+---
+
+
+### [IoT物联网技术](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
+
+[:chart_with_upwards_trend:【2/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
+
+[:camera_flash:【2024-11-21T08:49:26】](https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&mid=2454935906&idx=1&sn=f6f9d96359f6adce755bcc74467e4a35&scene=27#wechat_redirect)
+
+云计算、物联网、大模型暗中观察小分队
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_5617c1b503e7" alt="" />
 
 ---
 

@@ -1,7 +1,7 @@
 
 ### [商密君](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
 
-[:chart_with_upwards_trend:【0/114/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
+[:chart_with_upwards_trend:【0/110/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
 
 [:camera_flash:【2024-11-25T22:37:16】](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247632477&idx=3&sn=baa9c615d6b66436e2e1bcc1890502ff&scene=27#wechat_redirect)
 
@@ -16,7 +16,7 @@
 
 [:chart_with_upwards_trend:【24/74/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
 
-[:camera_flash:【2024-11-25T12:01:27】](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247545415&idx=1&sn=3263c9c7028760229121597d480ea8de&scene=27#wechat_redirect)
+[:camera_flash:【2024-11-26T12:01:35】](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247545418&idx=1&sn=51200bfaabddc56f28fd4397d34a822b&scene=27#wechat_redirect)
 
 安全教程\\高质量文章\\面试经验分享，尽在#掌控安全EDU#
 
@@ -27,7 +27,7 @@
 
 ### [网络与信息法学会](http://wechat.doonsec.com/wechat_echarts/?biz=MzU1NDY3NDgwMQ==)
 
-[:chart_with_upwards_trend:【0/69/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU1NDY3NDgwMQ==)
+[:chart_with_upwards_trend:【0/67/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU1NDY3NDgwMQ==)
 
 [:camera_flash:【2024-11-25T20:58:51】](https://mp.weixin.qq.com/s?__biz=MzU1NDY3NDgwMQ==&mid=2247547719&idx=2&sn=85ffe139215f1029a5758bf9ff61c256&scene=27#wechat_redirect)
 
@@ -40,9 +40,9 @@
 
 ### [数世咨询](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
 
-[:chart_with_upwards_trend:【1/35/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
+[:chart_with_upwards_trend:【1/37/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
 
-[:camera_flash:【2024-11-25T16:00:42】](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247529626&idx=1&sn=eed7297849bdc014d7fd28ae454ede2a&scene=27#wechat_redirect)
+[:camera_flash:【2024-11-26T16:00:18】](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247529673&idx=1&sn=38b65df7c22b0364853e1ebe7b655f0e&scene=27#wechat_redirect)
 
 中国数字产业领域中立的第三方调研机构，提供网络安全行业的调查、研究与咨询服务。
 
@@ -79,9 +79,9 @@
 
 ### [全栈网络空间安全](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
 
-[:chart_with_upwards_trend:【2/16/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
+[:chart_with_upwards_trend:【2/17/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
 
-[:camera_flash:【2024-11-26T00:00:19】](https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247514683&idx=1&sn=889024e2b0612c649cbfe9008dbae976&scene=27#wechat_redirect)
+[:camera_flash:【2024-11-27T00:01:05】](https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247514703&idx=1&sn=ec71106e8ed5027813eecb3576399c7d&scene=27#wechat_redirect)
 
 做一个会思考的全栈网络空间安全者
 
@@ -118,7 +118,7 @@
 
 ### [君哥的体历](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MjQ1NTA4MA==)
 
-[:chart_with_upwards_trend:【5/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MjQ1NTA4MA==)
+[:chart_with_upwards_trend:【4/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MjQ1NTA4MA==)
 
 [:camera_flash:【2024-11-22T07:01:14】](https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247491673&idx=1&sn=13b8ce3edd8047e1aeeb8bbdbbc5f4c2&scene=27#wechat_redirect)
 
@@ -190,19 +190,6 @@ vivo全新的安全品牌，有人文温度的科技新媒体，致力于让亿�
 终于等到你~~ CSA更多研究成果请查看官网https://c-csa.cn/research/results/
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_7b69aa2c7d10" alt="" />
-
----
-
-
-### [放之](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3ODAzNjg5OA==)
-
-[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3ODAzNjg5OA==)
-
-[:camera_flash:【2024-10-27T23:32:32】](https://mp.weixin.qq.com/s?__biz=Mzg3ODAzNjg5OA==&mid=2247485272&idx=1&sn=05923f817d43f3a4f513228b6a739d85&scene=27#wechat_redirect)
-
-持续关注企业与信息安全建设，分享精选干货。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4947400a6ef2" alt="" />
 
 ---
 
@@ -333,6 +320,19 @@ APP个人信息保护治理的工作动态、通知公告等相关信息发布�
 甲方安全经验分享，你不再是一个人的安全部，我们一起组建组织，一起探讨学习 一起进步前行，个人博客: sq1map.com ，Github: https://github.com/jeansgit 欢迎留言评论提出宝贵意见建议，感谢！
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_daa52e4d85e5" alt="" />
+
+---
+
+
+### [放之](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3ODAzNjg5OA==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3ODAzNjg5OA==)
+
+[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
+
+持续关注企业与信息安全建设，分享精选干货。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4947400a6ef2" alt="" />
 
 ---
 
