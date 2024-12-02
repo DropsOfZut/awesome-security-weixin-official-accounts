@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【0/87/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
 
-[:camera_flash:【2024-11-30T19:25:11】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247616386&idx=2&sn=accafded993213a0f8a04179bf72cbab&scene=27#wechat_redirect)
+[:camera_flash:【2024-12-01T21:23:40】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247616425&idx=2&sn=a0985a411b63788cfcbbeeb3dd2b44c7&scene=27#wechat_redirect)
 
 为智能网联汽车行业专业人士提供信息和网络安全技术、产品及服务等行业发展最新咨询
 
@@ -14,9 +14,9 @@
 
 ### [网络安全与取证研究](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTU3NTY0Nw==)
 
-[:chart_with_upwards_trend:【0/30/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTU3NTY0Nw==)
+[:chart_with_upwards_trend:【0/31/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTU3NTY0Nw==)
 
-[:camera_flash:【2024-11-30T09:00:14】](https://mp.weixin.qq.com/s?__biz=Mzg3NTU3NTY0Nw==&mid=2247489394&idx=1&sn=840a072ae386d2c7c264a387fe71a645&scene=27#wechat_redirect)
+[:camera_flash:【2024-12-02T08:03:06】](https://mp.weixin.qq.com/s?__biz=Mzg3NTU3NTY0Nw==&mid=2247489398&idx=1&sn=bc32d48e783b1b9ad8fa11312da67ec9&scene=27#wechat_redirect)
 
 旨于开展网络安全相关法律法规研究与电子数据取证技术研究，分享小知识、小技巧，共同学习提高，推进技术规范化建设。
 
@@ -25,9 +25,22 @@
 ---
 
 
+### [Gh0xE9](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNTc5MTMyNg==)
+
+[:chart_with_upwards_trend:【2/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNTc5MTMyNg==)
+
+[:camera_flash:【2024-12-01T17:12:47】](https://mp.weixin.qq.com/s?__biz=MzAwNTc5MTMyNg==&mid=2247500051&idx=5&sn=c7956522da1bedae6b62fdc82ce3fbe7&scene=27#wechat_redirect)
+
+做勾八安全，卷的要死
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_3953fa56d850" alt="" />
+
+---
+
+
 ### [网安杂谈](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwMTMzMDUwNg==)
 
-[:chart_with_upwards_trend:【0/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwMTMzMDUwNg==)
+[:chart_with_upwards_trend:【0/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwMTMzMDUwNg==)
 
 [:camera_flash:【2024-11-24T15:51:12】](https://mp.weixin.qq.com/s?__biz=MzAwMTMzMDUwNg==&mid=2650889396&idx=1&sn=9e3248a93a422f97b8a52a184fdc43d7&scene=27#wechat_redirect)
 
@@ -47,19 +60,6 @@
 关注刑事证据科学前沿发展，传递电子物证技术最新趋势
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f624bd447b0f" alt="" />
-
----
-
-
-### [Gh0xE9](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNTc5MTMyNg==)
-
-[:chart_with_upwards_trend:【2/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNTc5MTMyNg==)
-
-[:camera_flash:【2024-11-24T08:00:15】](https://mp.weixin.qq.com/s?__biz=MzAwNTc5MTMyNg==&mid=2247499753&idx=1&sn=6b2e2d0f3cfdd681869550b3feeccf31&scene=27#wechat_redirect)
-
-做勾八安全，卷的要死
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_3953fa56d850" alt="" />
 
 ---
 
@@ -99,19 +99,6 @@
 未知攻，焉知防，专注于高级威胁研究与数字调查取证。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ea4772086043" alt="" />
-
----
-
-
-### [取证与溯源](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyOTcyNDg1OA==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyOTcyNDg1OA==)
-
-[:camera_flash:【2024-11-01T14:25:56】](https://mp.weixin.qq.com/s?__biz=MzUyOTcyNDg1OA==&mid=2247484089&idx=1&sn=22083a12ab2a66be4c7ea5c4d5159599&scene=27#wechat_redirect)
-
-电子数据取证与应急响应从业者交流平台
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e0f7dbe22a1d" alt="" />
 
 ---
 
@@ -398,6 +385,19 @@ CMboye中机博也车联网信息安全实验室，依托自主研发的车联�
 工控安全检测认证服务，深度安全防护产品、工控安全试验验证平台、智能系统、特种信息安全产品、网络靶场、网络测量、网络舆情、网络流量分析、网络防护、自主安全域名系统解决方案、国产化自主先进超御N系列PLC、金融自助设备解决方案、轨道交通。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_90b79eea65f9" alt="" />
+
+---
+
+
+### [取证与溯源](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyOTcyNDg1OA==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyOTcyNDg1OA==)
+
+[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
+
+电子数据取证与应急响应从业者交流平台
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e0f7dbe22a1d" alt="" />
 
 ---
 
