@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【18/27/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzIwNTY1OA==)
 
-[:camera_flash:【2024-12-02T08:01:06】](https://mp.weixin.qq.com/s?__biz=MzkxMzIwNTY1OA==&mid=2247509512&idx=1&sn=fa24da32c96e0ec3f88dae9d2240aeff&scene=27#wechat_redirect)
+[:camera_flash:【2024-12-03T08:01:18】](https://mp.weixin.qq.com/s?__biz=MzkxMzIwNTY1OA==&mid=2247509533&idx=1&sn=3d84d1afd66ce4d37937603149401c33&scene=27#wechat_redirect)
 
 发布关于kali相关文章。Debian Centos等操作系统的安全和运维。以及树莓派 ESP8266 DIY单片机等相关安全领域的文章。旨在掌握技术和原理的前提下，更好的保护自身网络安全。反对一切危害网络安全的行为，造成法律后果请自负。
 
@@ -27,26 +27,13 @@ Docker中文社区旨在为大家提供 Docker、Kubernetes 相关工具及前�
 
 ### [云计算和网络安全技术实践](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3MjM5MDc2Nw==)
 
-[:chart_with_upwards_trend:【4/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3MjM5MDc2Nw==)
+[:chart_with_upwards_trend:【5/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3MjM5MDc2Nw==)
 
-[:camera_flash:【2024-11-25T09:01:54】](https://mp.weixin.qq.com/s?__biz=MzA3MjM5MDc2Nw==&mid=2650748821&idx=1&sn=b1e6c3de4073293e2054da29de844cfa&scene=27#wechat_redirect)
+[:camera_flash:【2024-12-02T08:57:56】](https://mp.weixin.qq.com/s?__biz=MzA3MjM5MDc2Nw==&mid=2650748838&idx=1&sn=00aa5d5e8d6bb1cfb0c3d8cbad275ab3&scene=27#wechat_redirect)
 
 史上最具参考性的云计算和网络安全技术实践博客。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_34d6b0cb5633" alt="" />
-
----
-
-
-### [系统安全运维](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NjE0NDc5OQ==)
-
-[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NjE0NDc5OQ==)
-
-[:camera_flash:【2024-11-02T10:37:58】](https://mp.weixin.qq.com/s?__biz=Mzk0NjE0NDc5OQ==&mid=2247524920&idx=1&sn=f6caf1f6f470a64240c446a1d6129233&scene=27#wechat_redirect)
-
-未知攻 焉知防 攻防兼备
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_2c298b630170" alt="" />
 
 ---
 
@@ -112,6 +99,19 @@ Docker中文社区旨在为大家提供 Docker、Kubernetes 相关工具及前�
 BAT 技术专家分享开发、架构、运维相关干货！
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e6849e368b5f" alt="" />
+
+---
+
+
+### [系统安全运维](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NjE0NDc5OQ==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NjE0NDc5OQ==)
+
+[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
+
+未知攻 焉知防 攻防兼备
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_2c298b630170" alt="" />
 
 ---
 

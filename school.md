@@ -27,9 +27,9 @@
 
 ### [启明星辰网络空间安全教育](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
 
-[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
+[:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
 
-[:camera_flash:【2024-11-29T14:03:41】](https://mp.weixin.qq.com/s?__biz=MzUzNDg0NTc1NA==&mid=2247510338&idx=1&sn=ec5e01e511d84661da0a0ae2b7e3fb53&scene=27#wechat_redirect)
+[:camera_flash:【2024-12-02T18:13:35】](https://mp.weixin.qq.com/s?__biz=MzUzNDg0NTc1NA==&mid=2247510352&idx=1&sn=4e935b92c4673fe4e159848fa5621180&scene=27#wechat_redirect)
 
 启明星辰网络空间安全学院以国家网络安全事业发展为使命，依托启明星辰集团多年的技术沉淀及实践积累，提供网络安全人才体系构建与信息安全技术及能力提升教育培训，为建设网络强国提供有力的人才支撑。
 
@@ -53,9 +53,9 @@
 
 ### [浙大网安](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5NDczNDc4NA==)
 
-[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5NDczNDc4NA==)
+[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5NDczNDc4NA==)
 
-[:camera_flash:【2024-11-29T16:02:53】](https://mp.weixin.qq.com/s?__biz=Mzg5NDczNDc4NA==&mid=2247495358&idx=1&sn=170d19c12a301286f2374b5e289fdb64&scene=27#wechat_redirect)
+[:camera_flash:【2024-12-02T20:07:48】](https://mp.weixin.qq.com/s?__biz=Mzg5NDczNDc4NA==&mid=2247495365&idx=1&sn=a3b4ca553f6ea10debcce9ed3de5ed80&scene=27#wechat_redirect)
 
 浙江大学网络空间安全学院/浙江大学网络空间安全研究中心
 

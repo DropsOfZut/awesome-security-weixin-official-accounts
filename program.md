@@ -1,9 +1,9 @@
 
 ### [字节跳动技术团队](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
 
-[:chart_with_upwards_trend:【5/22/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
+[:chart_with_upwards_trend:【5/23/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
 
-[:camera_flash:【2024-11-29T18:07:09】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247512021&idx=1&sn=799295a35066b6d038a977675da66944&scene=27#wechat_redirect)
+[:camera_flash:【2024-12-02T18:06:46】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247512088&idx=1&sn=40036d7c6dbdc7012f7ce651b2786b9d&scene=27#wechat_redirect)
 
 字节跳动的技术实践分享
 
@@ -14,7 +14,7 @@
 
 ### [读诗库](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
 
-[:chart_with_upwards_trend:【17/19/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
+[:chart_with_upwards_trend:【16/18/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
 
 [:camera_flash:【2024-11-30T21:45:00】](https://mp.weixin.qq.com/s?__biz=MzU5NzQ3NzIwMA==&mid=2247486262&idx=1&sn=67e161813e27fb7c2df1b80df8b80de3&scene=27#wechat_redirect)
 
@@ -27,9 +27,9 @@
 
 ### [腾讯技术工程](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
 
-[:chart_with_upwards_trend:【7/14/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
+[:chart_with_upwards_trend:【8/15/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
 
-[:camera_flash:【2024-11-29T18:02:17】](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649787724&idx=1&sn=c723c9e63b7daccfbdba874ce9dfdef5&scene=27#wechat_redirect)
+[:camera_flash:【2024-12-02T18:02:50】](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649787769&idx=1&sn=cae737faa805064b6188899fb7726d5d&scene=27#wechat_redirect)
 
 腾讯技术官方号。腾讯技术创新、前沿领域发布解读平台。
 
@@ -129,19 +129,6 @@
 ---
 
 
-### [编码安全研究](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NDY1MDc2Mg==)
-
-[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NDY1MDc2Mg==)
-
-[:camera_flash:【2024-11-02T10:54:10】](https://mp.weixin.qq.com/s?__biz=Mzg2NDY1MDc2Mg==&mid=2247505560&idx=2&sn=12a02adc373c12559229957f38d9413a&scene=27#wechat_redirect)
-
-专注于学习网络安全
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8e01ffd3a47c" alt="" />
-
----
-
-
 ### [GobySec](http://wechat.doonsec.com/wechat_echarts/?biz=MzI4MzcwNTAzOQ==)
 
 [:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI4MzcwNTAzOQ==)
@@ -164,19 +151,6 @@
 FOFA是由华顺信安科技有限公司开发的一款网络空间资产搜索引擎。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_d79c8913fde8" alt="" />
-
----
-
-
-### [软件开发安全生命周期](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NzE5NjI0Mg==)
-
-[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NzE5NjI0Mg==)
-
-[:camera_flash:【2024-11-02T23:05:19】](https://mp.weixin.qq.com/s?__biz=Mzk0NzE5NjI0Mg==&mid=2247484642&idx=1&sn=b910549979b228fc50e80158d7871444&scene=27#wechat_redirect)
-
-博主站点:www.s-sdlc.com 分享软件开发生命周期,致力于分享知识、同时会分享网络安全相关的知识点和技能点
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4270dc91534e" alt="" />
 
 ---
 
@@ -333,6 +307,19 @@ FOFA是由华顺信安科技有限公司开发的一款网络空间资产搜索�
 街头香蕉
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_19b5fbaa9c06" alt="" />
+
+---
+
+
+### [编码安全研究](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NDY1MDc2Mg==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NDY1MDc2Mg==)
+
+[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
+
+专注于学习网络安全
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8e01ffd3a47c" alt="" />
 
 ---
 
@@ -541,6 +528,19 @@ OPPO 安第斯智能云（AndesBrain）是服务个人、家庭与开发者的�
 一个产品设计师，打造了很多好玩有趣的产品
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_5390c88db07d" alt="" />
+
+---
+
+
+### [软件开发安全生命周期](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NzE5NjI0Mg==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NzE5NjI0Mg==)
+
+[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
+
+博主站点:www.s-sdlc.com 分享软件开发生命周期,致力于分享知识、同时会分享网络安全相关的知识点和技能点
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4270dc91534e" alt="" />
 
 ---
 
