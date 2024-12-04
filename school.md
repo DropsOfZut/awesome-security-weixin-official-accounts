@@ -1,9 +1,9 @@
 
 ### [青春计协](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzU3MTcwNg==)
 
-[:chart_with_upwards_trend:【17/18/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzU3MTcwNg==)
+[:chart_with_upwards_trend:【18/19/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzU3MTcwNg==)
 
-[:camera_flash:【2024-11-29T16:53:12】](https://mp.weixin.qq.com/s?__biz=Mzg4MzU3MTcwNg==&mid=2247486156&idx=1&sn=5305da7ce5dfe5dcb3b78d365016550e&scene=27#wechat_redirect)
+[:camera_flash:【2024-12-03T12:20:36】](https://mp.weixin.qq.com/s?__biz=Mzg4MzU3MTcwNg==&mid=2247486181&idx=1&sn=7a53f5b7009de305a0a1635086975dd6&scene=27#wechat_redirect)
 
 本公众号为计算机协会，负责通知各类活动竞赛以及各类技术知识点。
 
@@ -66,9 +66,9 @@
 
 ### [奇安信高校合作中心](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMTM1MTA4MQ==)
 
-[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMTM1MTA4MQ==)
+[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMTM1MTA4MQ==)
 
-[:camera_flash:【2024-11-29T18:01:37】](https://mp.weixin.qq.com/s?__biz=MzkwMTM1MTA4MQ==&mid=2247487046&idx=1&sn=258f605ee5091c9d87430a4a2ef81506&scene=27#wechat_redirect)
+[:camera_flash:【2024-12-03T19:03:21】](https://mp.weixin.qq.com/s?__biz=MzkwMTM1MTA4MQ==&mid=2247487052&idx=1&sn=544b960544b871d99ac947456ecf9820&scene=27#wechat_redirect)
 
 奇安信高校合作中心，架起高校和安全产业的桥梁。
 
