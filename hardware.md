@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【0/87/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
 
-[:camera_flash:【2024-12-03T18:58:37】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247616476&idx=1&sn=563113364b310ca2bc57c7ad810be4d1&scene=27#wechat_redirect)
+[:camera_flash:【2024-12-04T21:20:46】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247616490&idx=2&sn=e6abeb53824c4866fbaf98a5d595b7b4&scene=27#wechat_redirect)
 
 为智能网联汽车行业专业人士提供信息和网络安全技术、产品及服务等行业发展最新咨询
 
@@ -16,7 +16,7 @@
 
 [:chart_with_upwards_trend:【0/31/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTU3NTY0Nw==)
 
-[:camera_flash:【2024-12-04T08:00:41】](https://mp.weixin.qq.com/s?__biz=Mzg3NTU3NTY0Nw==&mid=2247489404&idx=1&sn=e742a987270ec3bbefa892ccc54e7b7b&scene=27#wechat_redirect)
+[:camera_flash:【2024-12-05T08:02:06】](https://mp.weixin.qq.com/s?__biz=Mzg3NTU3NTY0Nw==&mid=2247489406&idx=1&sn=0c5ddbb9b9d13fa9c553a10d6d301903&scene=27#wechat_redirect)
 
 旨于开展网络安全相关法律法规研究与电子数据取证技术研究，分享小知识、小技巧，共同学习提高，推进技术规范化建设。
 
@@ -29,7 +29,7 @@
 
 [:chart_with_upwards_trend:【2/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNTc5MTMyNg==)
 
-[:camera_flash:【2024-12-01T17:12:47】](https://mp.weixin.qq.com/s?__biz=MzAwNTc5MTMyNg==&mid=2247500051&idx=2&sn=c63503fe5f52b4b79f5e68cfffae46f2&scene=27#wechat_redirect)
+[:camera_flash:【2024-12-01T17:12:47】](https://mp.weixin.qq.com/s?__biz=MzAwNTc5MTMyNg==&mid=2247500051&idx=4&sn=16b29fa0ee120e2b6ab07515da00516e&scene=27#wechat_redirect)
 
 做勾八安全，卷的要死
 
@@ -53,7 +53,7 @@
 
 ### [网安杂谈](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwMTMzMDUwNg==)
 
-[:chart_with_upwards_trend:【0/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwMTMzMDUwNg==)
+[:chart_with_upwards_trend:【0/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwMTMzMDUwNg==)
 
 [:camera_flash:【2024-11-24T15:51:12】](https://mp.weixin.qq.com/s?__biz=MzAwMTMzMDUwNg==&mid=2650889396&idx=1&sn=9e3248a93a422f97b8a52a184fdc43d7&scene=27#wechat_redirect)
 
@@ -99,6 +99,19 @@
 未知攻，焉知防，专注于高级威胁研究与数字调查取证。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ea4772086043" alt="" />
+
+---
+
+
+### [取证与溯源](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyOTcyNDg1OA==)
+
+[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyOTcyNDg1OA==)
+
+[:camera_flash:【2024-12-05T00:51:11】](https://mp.weixin.qq.com/s?__biz=MzUyOTcyNDg1OA==&mid=2247484106&idx=1&sn=2e29c1d7f3ce4c914b104af236f18087&scene=27#wechat_redirect)
+
+电子数据取证与应急响应从业者交流平台
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e0f7dbe22a1d" alt="" />
 
 ---
 
@@ -385,19 +398,6 @@ CMboye中机博也车联网信息安全实验室，依托自主研发的车联�
 工控安全检测认证服务，深度安全防护产品、工控安全试验验证平台、智能系统、特种信息安全产品、网络靶场、网络测量、网络舆情、网络流量分析、网络防护、自主安全域名系统解决方案、国产化自主先进超御N系列PLC、金融自助设备解决方案、轨道交通。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_90b79eea65f9" alt="" />
-
----
-
-
-### [取证与溯源](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyOTcyNDg1OA==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyOTcyNDg1OA==)
-
-[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
-
-电子数据取证与应急响应从业者交流平台
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e0f7dbe22a1d" alt="" />
 
 ---
 
