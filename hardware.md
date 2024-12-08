@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【0/87/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
 
-[:camera_flash:【2024-12-06T08:01:21】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247616564&idx=2&sn=e88fc1765815c87f28bdffc949fb89f1&scene=27#wechat_redirect)
+[:camera_flash:【2024-12-07T19:36:07】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247616578&idx=1&sn=96a4f666f5ab72bcdaef870da2d2cf5b&scene=27#wechat_redirect)
 
 为智能网联汽车行业专业人士提供信息和网络安全技术、产品及服务等行业发展最新咨询
 
@@ -16,7 +16,7 @@
 
 [:chart_with_upwards_trend:【0/30/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTU3NTY0Nw==)
 
-[:camera_flash:【2024-12-06T08:01:04】](https://mp.weixin.qq.com/s?__biz=Mzg3NTU3NTY0Nw==&mid=2247489408&idx=1&sn=6bc251ee00e681005693859bf3b877e9&scene=27#wechat_redirect)
+[:camera_flash:【2024-12-07T09:00:27】](https://mp.weixin.qq.com/s?__biz=Mzg3NTU3NTY0Nw==&mid=2247489410&idx=1&sn=0fb062c1727dae042899b1666aa78cba&scene=27#wechat_redirect)
 
 旨于开展网络安全相关法律法规研究与电子数据取证技术研究，分享小知识、小技巧，共同学习提高，推进技术规范化建设。
 
@@ -55,7 +55,7 @@
 
 [:chart_with_upwards_trend:【0/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwMTMzMDUwNg==)
 
-[:camera_flash:【2024-11-24T15:51:12】](https://mp.weixin.qq.com/s?__biz=MzAwMTMzMDUwNg==&mid=2650889396&idx=1&sn=9e3248a93a422f97b8a52a184fdc43d7&scene=27#wechat_redirect)
+[:camera_flash:【2024-12-07T16:22:00】](https://mp.weixin.qq.com/s?__biz=MzAwMTMzMDUwNg==&mid=2650889403&idx=1&sn=e897fbed8f792feee464a354cc1ff11e&scene=27#wechat_redirect)
 
 关注电子数据取证与网络犯罪调查
 
@@ -66,9 +66,9 @@
 
 ### [IoT物联网技术](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
 
-[:chart_with_upwards_trend:【1/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
+[:chart_with_upwards_trend:【2/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
 
-[:camera_flash:【2024-11-21T08:49:26】](https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&mid=2454935906&idx=1&sn=f6f9d96359f6adce755bcc74467e4a35&scene=27#wechat_redirect)
+[:camera_flash:【2024-12-08T08:13:41】](https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&mid=2454936021&idx=1&sn=02132b67629bbd268c533c44b8a46a7e&scene=27#wechat_redirect)
 
 云计算、物联网、大模型暗中观察小分队
 

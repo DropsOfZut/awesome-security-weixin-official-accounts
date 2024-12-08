@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【17/27/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzIwNTY1OA==)
 
-[:camera_flash:【2024-12-07T08:00:57】](https://mp.weixin.qq.com/s?__biz=MzkxMzIwNTY1OA==&mid=2247509598&idx=1&sn=be74c502c8b0cd301e12048e894f9257&scene=27#wechat_redirect)
+[:camera_flash:【2024-12-07T23:15:38】](https://mp.weixin.qq.com/s?__biz=MzkxMzIwNTY1OA==&mid=2247509617&idx=1&sn=db97bb2392da5eae57353d54102e0969&scene=27#wechat_redirect)
 
 发布关于kali相关文章。Debian Centos等操作系统的安全和运维。以及树莓派 ESP8266 DIY单片机等相关安全领域的文章。旨在掌握技术和原理的前提下，更好的保护自身网络安全。反对一切危害网络安全的行为，造成法律后果请自负。
 

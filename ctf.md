@@ -27,9 +27,9 @@
 
 ### [PolarCTF](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzY2OTQ0Mg==)
 
-[:chart_with_upwards_trend:【2/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzY2OTQ0Mg==)
+[:chart_with_upwards_trend:【3/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzY2OTQ0Mg==)
 
-[:camera_flash:【2024-12-05T16:31:00】](https://mp.weixin.qq.com/s?__biz=MzU5NzY2OTQ0Mg==&mid=2247484314&idx=1&sn=c1acc0bdec7c66fec9fde551ba2a595d&scene=27#wechat_redirect)
+[:camera_flash:【2024-12-08T00:00:08】](https://mp.weixin.qq.com/s?__biz=MzU5NzY2OTQ0Mg==&mid=2247484334&idx=1&sn=620cefce10202af89a37ec787f8bb31d&scene=27#wechat_redirect)
 
 本公众号为PolarD&amp;N实验室的唯一公众号。
 
