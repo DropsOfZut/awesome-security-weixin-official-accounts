@@ -16,7 +16,7 @@
 
 [:chart_with_upwards_trend:【16/19/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
 
-[:camera_flash:【2024-12-10T21:57:15】](https://mp.weixin.qq.com/s?__biz=MzU5NzQ3NzIwMA==&mid=2247486297&idx=2&sn=00c9f509418128a39f1339e08e4c57ff&scene=27#wechat_redirect)
+[:camera_flash:【2024-12-10T21:57:15】](https://mp.weixin.qq.com/s?__biz=MzU5NzQ3NzIwMA==&mid=2247486297&idx=3&sn=67d12055ce82cf2cfc99115788d59ebc&scene=27#wechat_redirect)
 
 读书，写诗，假装自己是黑客。
 
@@ -29,7 +29,7 @@
 
 [:chart_with_upwards_trend:【9/15/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3Njc0NTgwMg==)
 
-[:camera_flash:【2024-12-10T12:03:52】](https://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&mid=2247501691&idx=2&sn=54062e0a7523b983c8c3c7fbb9f27875&scene=27#wechat_redirect)
+[:camera_flash:【2024-12-10T12:03:52】](https://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&mid=2247501691&idx=1&sn=29ba262a448c7842c8d8ece8bfed16d4&scene=27#wechat_redirect)
 
 提供B站相关技术的介绍和讲解
 
@@ -40,7 +40,7 @@
 
 ### [腾讯技术工程](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
 
-[:chart_with_upwards_trend:【8/14/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
+[:chart_with_upwards_trend:【7/13/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
 
 [:camera_flash:【2024-12-09T18:01:44】](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649787849&idx=2&sn=431f7f57f9b37c8834ce9f752aecd67c&scene=27#wechat_redirect)
 
@@ -53,9 +53,9 @@
 
 ### [北邮GAMMALab](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzE1MTQzNw==)
 
-[:chart_with_upwards_trend:【10/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzE1MTQzNw==)
+[:chart_with_upwards_trend:【11/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzE1MTQzNw==)
 
-[:camera_flash:【2024-12-05T10:01:07】](https://mp.weixin.qq.com/s?__biz=Mzg4MzE1MTQzNw==&mid=2247491334&idx=1&sn=e5560525111d8a83e7a884f7c47254e5&scene=27#wechat_redirect)
+[:camera_flash:【2024-12-11T09:20:56】](https://mp.weixin.qq.com/s?__biz=Mzg4MzE1MTQzNw==&mid=2247491335&idx=1&sn=bda2bf37ca358bd92d20b6bd5bcb1d6a&scene=27#wechat_redirect)
 
 北邮图数据挖掘与机器学习实验室
 
