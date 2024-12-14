@@ -51,6 +51,19 @@
 ---
 
 
+### [河北网络安全高校联盟](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4ODUyMjYyNg==)
+
+[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4ODUyMjYyNg==)
+
+[:camera_flash:【2024-12-13T08:31:02】](https://mp.weixin.qq.com/s?__biz=Mzg4ODUyMjYyNg==&mid=2247488774&idx=1&sn=e1e3448456e46a826cc19af8ac5e2e48&scene=27#wechat_redirect)
+
+河北网络安全高校联盟
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8937984657cd" alt="" />
+
+---
+
+
 ### [连天教育](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNTk2MDAwNA==)
 
 [:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNTk2MDAwNA==)
@@ -73,19 +86,6 @@
 深圳市网安计算机网络安全培训中心是由深圳市人力资源局备案的社会第三方培训机构。是受广东省人力资源和社会保障厅委托，开展“网络与信息安全管理员”职业技能等级认定工作的第三方社会评价机构。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_94f04a96b1ca" alt="" />
-
----
-
-
-### [河北网络安全高校联盟](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4ODUyMjYyNg==)
-
-[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4ODUyMjYyNg==)
-
-[:camera_flash:【2024-12-05T09:20:30】](https://mp.weixin.qq.com/s?__biz=Mzg4ODUyMjYyNg==&mid=2247487788&idx=1&sn=353a5f3fe9c7d24b5986daeda64df392&scene=27#wechat_redirect)
-
-河北网络安全高校联盟
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8937984657cd" alt="" />
 
 ---
 
