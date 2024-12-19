@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【0/87/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
 
-[:camera_flash:【2024-12-17T15:24:59】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247617564&idx=2&sn=b6d3ddc9cad0b3b1657c36a4f761319d&scene=27#wechat_redirect)
+[:camera_flash:【2024-12-18T21:45:04】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247617580&idx=2&sn=ce08ac01fa6014eab9112d9d30ac8683&scene=27#wechat_redirect)
 
 为智能网联汽车行业专业人士提供信息和网络安全技术、产品及服务等行业发展最新咨询
 
@@ -16,7 +16,7 @@
 
 [:chart_with_upwards_trend:【0/31/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTU3NTY0Nw==)
 
-[:camera_flash:【2024-12-18T08:04:19】](https://mp.weixin.qq.com/s?__biz=Mzg3NTU3NTY0Nw==&mid=2247489434&idx=1&sn=17c1157fa0115a599ba36f544c1e22ce&scene=27#wechat_redirect)
+[:camera_flash:【2024-12-19T08:00:53】](https://mp.weixin.qq.com/s?__biz=Mzg3NTU3NTY0Nw==&mid=2247489436&idx=1&sn=06b4bc37c17dc0e81fdadf74ecf5b8f7&scene=27#wechat_redirect)
 
 旨于开展网络安全相关法律法规研究与电子数据取证技术研究，分享小知识、小技巧，共同学习提高，推进技术规范化建设。
 
@@ -42,7 +42,7 @@
 
 [:chart_with_upwards_trend:【0/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNTc5MTMyNg==)
 
-[:camera_flash:【2024-12-01T17:12:47】](https://mp.weixin.qq.com/s?__biz=MzAwNTc5MTMyNg==&mid=2247500051&idx=6&sn=a0ad1bd56825e1c4438c7b14f329444a&scene=27#wechat_redirect)
+[:camera_flash:【2024-12-01T17:12:47】](https://mp.weixin.qq.com/s?__biz=MzAwNTc5MTMyNg==&mid=2247500051&idx=5&sn=c7956522da1bedae6b62fdc82ce3fbe7&scene=27#wechat_redirect)
 
 做勾八安全，卷的要死
 
@@ -112,6 +112,19 @@
 坚持以非正常体位探寻未知信号。 国内商业安全、TSCM技术反窃密、隐私保护及物理安全领域前行者。持久关注通信安全、海外威胁情报、犯罪防御与群氓效应。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_685fcc00c91c" alt="" />
+
+---
+
+
+### [卫星黑客](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxMjExNDMzNw==)
+
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxMjExNDMzNw==)
+
+[:camera_flash:【2024-12-18T08:31:07】](https://mp.weixin.qq.com/s?__biz=MzIxMjExNDMzNw==&mid=2247484590&idx=1&sn=76268115156305182d3703324011669b&scene=27#wechat_redirect)
+
+中国卫星黑客
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_2beea18480d6" alt="" />
 
 ---
 
@@ -203,19 +216,6 @@
 极客的专属潮酷聚集地，尽在iotsec-zone
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_3f7435f8d16d" alt="" />
-
----
-
-
-### [卫星黑客](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxMjExNDMzNw==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxMjExNDMzNw==)
-
-[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
-
-中国卫星黑客
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_2beea18480d6" alt="" />
 
 ---
 
