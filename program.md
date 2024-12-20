@@ -1,9 +1,9 @@
 
 ### [字节跳动技术团队](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
 
-[:chart_with_upwards_trend:【3/24/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
+[:chart_with_upwards_trend:【3/25/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
 
-[:camera_flash:【2024-12-18T16:22:34】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247512429&idx=1&sn=56fa2a57895b6cb950375fc90bcf2b3a&scene=27#wechat_redirect)
+[:camera_flash:【2024-12-19T18:05:44】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247512439&idx=2&sn=71af251ced0b12acb269146befccf661&scene=27#wechat_redirect)
 
 字节跳动的技术实践分享
 
@@ -14,26 +14,13 @@
 
 ### [读诗库](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
 
-[:chart_with_upwards_trend:【16/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
+[:chart_with_upwards_trend:【15/19/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
 
 [:camera_flash:【2024-12-13T22:22:46】](https://mp.weixin.qq.com/s?__biz=MzU5NzQ3NzIwMA==&mid=2247486356&idx=1&sn=a25dfa769806dc2141a6df5612dd659e&scene=27#wechat_redirect)
 
 读书，写诗，假装自己是黑客。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f524e5a0a1fb" alt="" />
-
----
-
-
-### [哔哩哔哩技术](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3Njc0NTgwMg==)
-
-[:chart_with_upwards_trend:【9/15/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3Njc0NTgwMg==)
-
-[:camera_flash:【2024-12-17T12:02:40】](https://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&mid=2247501737&idx=1&sn=760295728d04eefabeae1658ece3e1e0&scene=27#wechat_redirect)
-
-提供B站相关技术的介绍和讲解
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_6a92a838f9e0" alt="" />
 
 ---
 
@@ -55,7 +42,7 @@
 
 [:chart_with_upwards_trend:【14/14/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzE1MTQzNw==)
 
-[:camera_flash:【2024-12-18T13:30:38】](https://mp.weixin.qq.com/s?__biz=Mzg4MzE1MTQzNw==&mid=2247491430&idx=1&sn=06211e79f2062200e68f803c00043997&scene=27#wechat_redirect)
+[:camera_flash:【2024-12-19T11:31:00】](https://mp.weixin.qq.com/s?__biz=Mzg4MzE1MTQzNw==&mid=2247491431&idx=1&sn=04c88689296375ee6aba673329632f3f&scene=27#wechat_redirect)
 
 北邮图数据挖掘与机器学习实验室
 
@@ -64,9 +51,22 @@
 ---
 
 
+### [哔哩哔哩技术](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3Njc0NTgwMg==)
+
+[:chart_with_upwards_trend:【8/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3Njc0NTgwMg==)
+
+[:camera_flash:【2024-12-17T12:02:40】](https://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&mid=2247501737&idx=1&sn=760295728d04eefabeae1658ece3e1e0&scene=27#wechat_redirect)
+
+提供B站相关技术的介绍和讲解
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_6a92a838f9e0" alt="" />
+
+---
+
+
 ### [安全学术圈](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
 
-[:chart_with_upwards_trend:【6/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
+[:chart_with_upwards_trend:【5/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
 
 [:camera_flash:【2024-12-18T17:52:59】](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247491476&idx=1&sn=935e5e510d99a3785aeb6cbbb41e86e3&scene=27#wechat_redirect)
 
@@ -79,9 +79,9 @@
 
 ### [创宇安全智脑](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNjU0NjAyNg==)
 
-[:chart_with_upwards_trend:【4/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNjU0NjAyNg==)
+[:chart_with_upwards_trend:【5/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNjU0NjAyNg==)
 
-[:camera_flash:【2024-12-12T17:30:49】](https://mp.weixin.qq.com/s?__biz=MzIwNjU0NjAyNg==&mid=2247490057&idx=1&sn=898cb42cbed7532cef5ba97f53508c92&scene=27#wechat_redirect)
+[:camera_flash:【2024-12-19T17:50:42】](https://mp.weixin.qq.com/s?__biz=MzIwNjU0NjAyNg==&mid=2247490111&idx=1&sn=0c1158934db85f02099fd8f3d919c930&scene=27#wechat_redirect)
 
 基于知道创宇14年来海量真实攻防数据积累，通过AI+安全大数据能力持续自生产、精粹和分析，实时输出高精准、高价值威胁情报，赋能于全场景安全建设体系。
 
@@ -90,11 +90,24 @@
 ---
 
 
+### [美团技术团队](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ5MTI5OA==)
+
+[:chart_with_upwards_trend:【1/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ5MTI5OA==)
+
+[:camera_flash:【2024-12-19T19:59:03】](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651779664&idx=1&sn=11e5793da76855dd347406139e377c6a&scene=27#wechat_redirect)
+
+10000+工程师，如何支撑中国领先的生活服务电子商务平台？数亿消费者、数百万商户、2000多个行业背后是哪些技术在支撑？这里是美团、大众点评、美团外卖、美团优选等技术团队对外交流的窗口。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_96d37a04e9bf" alt="" />
+
+---
+
+
 ### [爱奇艺技术产品团队](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0MjczMjM2NA==)
 
-[:chart_with_upwards_trend:【3/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0MjczMjM2NA==)
+[:chart_with_upwards_trend:【4/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0MjczMjM2NA==)
 
-[:camera_flash:【2024-12-05T13:30:45】](https://mp.weixin.qq.com/s?__biz=MzI0MjczMjM2NA==&mid=2247498628&idx=1&sn=5a2c3d8932a471eedfef702d86fddd31&scene=27#wechat_redirect)
+[:camera_flash:【2024-12-19T13:31:03】](https://mp.weixin.qq.com/s?__biz=MzI0MjczMjM2NA==&mid=2247498656&idx=1&sn=b94f287a3884a7191a3342f3214be2c8&scene=27#wechat_redirect)
 
 爱奇艺的技术产品团队
 
@@ -112,19 +125,6 @@
 逆向案例小笔记
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_84c656527267" alt="" />
-
----
-
-
-### [美团技术团队](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ5MTI5OA==)
-
-[:chart_with_upwards_trend:【1/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ5MTI5OA==)
-
-[:camera_flash:【2024-12-05T19:59:25】](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651779629&idx=1&sn=9ed642a5bcdc472d80ca610579dcb63e&scene=27#wechat_redirect)
-
-10000+工程师，如何支撑中国领先的生活服务电子商务平台？数亿消费者、数百万商户、2000多个行业背后是哪些技术在支撑？这里是美团、大众点评、美团外卖、美团优选等技术团队对外交流的窗口。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_96d37a04e9bf" alt="" />
 
 ---
 
@@ -164,19 +164,6 @@ OPPO 安第斯智能云（AndesBrain）是服务个人、家庭与开发者的�
 FOFA是由华顺信安科技有限公司开发的一款网络空间资产搜索引擎。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_d79c8913fde8" alt="" />
-
----
-
-
-### [四维创智](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzI1MDg2Mg==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzI1MDg2Mg==)
-
-[:camera_flash:【2024-11-19T20:03:54】](https://mp.weixin.qq.com/s?__biz=MzIwMzI1MDg2Mg==&mid=2649945063&idx=1&sn=e933d8e9d2243641c8f007c652caad48&scene=27#wechat_redirect)
-
-主营业务涵盖应用安全、系统安全、运维安全等，包括IT资产管理、智能攻击机器人、智能防御机器人、攻防实战演练支持、安全培训、课题和安全技术研究、产品研发及服务综合解决方案提供；其中，行业解决方案又包括电力行业、金融行业、军工行业、公检法等。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_10621ea3bed3" alt="" />
 
 ---
 
@@ -515,6 +502,19 @@ Pinpoint，专业代码审计团队。感谢您的关注！
 百川云平台（Rivers）是长亭面向企业开放的在线安全产品服务，包含了多个安全产品，如问脉容器安全产品，关山WebShell检测产品，牧云主机安全产品，以及其他第三方安全公司提供的安全产品等。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_b7b2cd336ce7" alt="" />
+
+---
+
+
+### [四维创智](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzI1MDg2Mg==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzI1MDg2Mg==)
+
+[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
+
+主营业务涵盖应用安全、系统安全、运维安全等，包括IT资产管理、智能攻击机器人、智能防御机器人、攻防实战演练支持、安全培训、课题和安全技术研究、产品研发及服务综合解决方案提供；其中，行业解决方案又包括电力行业、金融行业、军工行业、公检法等。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_10621ea3bed3" alt="" />
 
 ---
 
