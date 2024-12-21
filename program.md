@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【3/25/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
 
-[:camera_flash:【2024-12-19T18:05:44】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247512439&idx=2&sn=71af251ced0b12acb269146befccf661&scene=27#wechat_redirect)
+[:camera_flash:【2024-12-20T18:04:27】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247512487&idx=1&sn=2084969d835f481f70244a795d40aa77&scene=27#wechat_redirect)
 
 字节跳动的技术实践分享
 
@@ -14,7 +14,7 @@
 
 ### [读诗库](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
 
-[:chart_with_upwards_trend:【15/19/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
+[:chart_with_upwards_trend:【14/18/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
 
 [:camera_flash:【2024-12-13T22:22:46】](https://mp.weixin.qq.com/s?__biz=MzU5NzQ3NzIwMA==&mid=2247486356&idx=1&sn=a25dfa769806dc2141a6df5612dd659e&scene=27#wechat_redirect)
 
@@ -27,9 +27,9 @@
 
 ### [腾讯技术工程](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
 
-[:chart_with_upwards_trend:【8/15/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
+[:chart_with_upwards_trend:【8/16/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
 
-[:camera_flash:【2024-12-18T17:35:36】](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649788033&idx=1&sn=42d621e2dc3f94408b12f58d7f1a2157&scene=27#wechat_redirect)
+[:camera_flash:【2024-12-20T18:02:50】](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649788087&idx=2&sn=1c9d70f6daf1171c158201a30b7e045f&scene=27#wechat_redirect)
 
 腾讯技术官方号。腾讯技术创新、前沿领域发布解读平台。
 
@@ -53,9 +53,9 @@
 
 ### [哔哩哔哩技术](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3Njc0NTgwMg==)
 
-[:chart_with_upwards_trend:【8/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3Njc0NTgwMg==)
+[:chart_with_upwards_trend:【9/13/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3Njc0NTgwMg==)
 
-[:camera_flash:【2024-12-17T12:02:40】](https://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&mid=2247501737&idx=1&sn=760295728d04eefabeae1658ece3e1e0&scene=27#wechat_redirect)
+[:camera_flash:【2024-12-20T12:01:32】](https://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&mid=2247501767&idx=1&sn=1a6427e46ce4da17cf81633d35a8e706&scene=27#wechat_redirect)
 
 提供B站相关技术的介绍和讲解
 
