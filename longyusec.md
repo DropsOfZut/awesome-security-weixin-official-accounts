@@ -1,7 +1,7 @@
 
 ### [泷羽sec-freesec](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk1Nzk0NDY3Nw==)
 
-[:chart_with_upwards_trend:【8/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk1Nzk0NDY3Nw==)
+[:chart_with_upwards_trend:【5/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk1Nzk0NDY3Nw==)
 
 [:camera_flash:【2026-09-25T00:26:11】](https://mp.weixin.qq.com/s?__biz=Mzk1Nzk0NDY3Nw==&mid=2247485132&idx=1&sn=00ab0446adc0a47ecd4a3da47d51e862&scene=27#wechat_redirect)
 
@@ -21,6 +21,19 @@
 B站：泷羽Sec，团队专注于网络安全领域的内容创作与分享，为网络安全而战。来自一个从零开始学习网安的见习生。很菜，不喜勿喷。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_b3bfbc45e60c" alt="" />
+
+---
+
+
+### [泷羽Sec-幽居初夏](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk1Nzk0MDM4NA==)
+
+[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk1Nzk0MDM4NA==)
+
+[:camera_flash:【2026-09-30T18:29:08】](https://mp.weixin.qq.com/s?__biz=Mzk1Nzk0MDM4NA==&mid=2247483716&idx=1&sn=b2ae20a5d34bcefbb75427be9be2ec2e&scene=27#wechat_redirect)
+
+分享挖斗技巧和实战，收集和开发各种渗透工具与使用，泷羽sec团队核心成员。声明：在此公众号上学习的任何渗透技能和工具使用，切勿非法使用，一切后果自行承担。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a9dfb2b3f97d" alt="" />
 
 ---
 
@@ -502,19 +515,6 @@ B站up:泷羽Sec，专注于网络安全领域的内容创作与分享，为网�
 分享漏洞挖掘技巧、收集各种CVE漏洞、渗透测试工具的使用、网络安全的研究，泷羽sc团队成员声明：在此公众号文章学习和使用工具过程中，您需要自行承担后果，我们不负任何法律责任
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_392a2f740c96" alt="" />
-
----
-
-
-### [泷羽Sec-幽居初夏](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk1Nzk0MDM4NA==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk1Nzk0MDM4NA==)
-
-[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
-
-分享挖斗技巧和实战，收集和开发各种渗透工具与使用，泷羽sec团队核心成员。声明：在此公众号上学习的任何渗透技能和工具使用，切勿非法使用，一切后果自行承担。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a9dfb2b3f97d" alt="" />
 
 ---
 
