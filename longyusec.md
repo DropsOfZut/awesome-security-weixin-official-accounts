@@ -1,17 +1,4 @@
 
-### [泷羽sec-freesec](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk1Nzk0NDY3Nw==)
-
-[:chart_with_upwards_trend:【5/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk1Nzk0NDY3Nw==)
-
-[:camera_flash:【2026-09-25T00:26:11】](https://mp.weixin.qq.com/s?__biz=Mzk1Nzk0NDY3Nw==&mid=2247485132&idx=1&sn=00ab0446adc0a47ecd4a3da47d51e862&scene=27#wechat_redirect)
-
-网络安全学习，红队，渗透测试资源分享
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e9af83c47afe" alt="" />
-
----
-
-
 ### [泷羽Sec](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2Nzk0NjA4Mg==)
 
 [:chart_with_upwards_trend:【2/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2Nzk0NjA4Mg==)
@@ -27,13 +14,26 @@ B站：泷羽Sec，团队专注于网络安全领域的内容创作与分享，�
 
 ### [泷羽Sec-幽居初夏](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk1Nzk0MDM4NA==)
 
-[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk1Nzk0MDM4NA==)
+[:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk1Nzk0MDM4NA==)
 
-[:camera_flash:【2026-09-30T18:29:08】](https://mp.weixin.qq.com/s?__biz=Mzk1Nzk0MDM4NA==&mid=2247483716&idx=1&sn=b2ae20a5d34bcefbb75427be9be2ec2e&scene=27#wechat_redirect)
+[:camera_flash:【2026-10-01T19:12:31】](https://mp.weixin.qq.com/s?__biz=Mzk1Nzk0MDM4NA==&mid=2247483720&idx=1&sn=31f301645c9d10483b160c99fceae831&scene=27#wechat_redirect)
 
 分享挖斗技巧和实战，收集和开发各种渗透工具与使用，泷羽sec团队核心成员。声明：在此公众号上学习的任何渗透技能和工具使用，切勿非法使用，一切后果自行承担。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a9dfb2b3f97d" alt="" />
+
+---
+
+
+### [泷羽sec-freesec](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk1Nzk0NDY3Nw==)
+
+[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk1Nzk0NDY3Nw==)
+
+[:camera_flash:【2026-09-25T00:26:11】](https://mp.weixin.qq.com/s?__biz=Mzk1Nzk0NDY3Nw==&mid=2247485132&idx=1&sn=00ab0446adc0a47ecd4a3da47d51e862&scene=27#wechat_redirect)
+
+网络安全学习，红队，渗透测试资源分享
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e9af83c47afe" alt="" />
 
 ---
 
