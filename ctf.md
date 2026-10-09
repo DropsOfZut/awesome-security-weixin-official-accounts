@@ -1,13 +1,26 @@
 
 ### [赛查查](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NTU0ODc0Nw==)
 
-[:chart_with_upwards_trend:【1/89/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NTU0ODc0Nw==)
+[:chart_with_upwards_trend:【1/97/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NTU0ODc0Nw==)
 
-[:camera_flash:【2026-10-05T09:53:17】](https://mp.weixin.qq.com/s?__biz=Mzk0NTU0ODc0Nw==&mid=2247499567&idx=2&sn=dd77a703f51621be8a111c878b554172&scene=27#wechat_redirect)
+[:camera_flash:【2026-10-07T12:52:23】](https://mp.weixin.qq.com/s?__biz=Mzk0NTU0ODc0Nw==&mid=2247499580&idx=2&sn=1629542891e71eebd045314ee2536ddc&scene=27#wechat_redirect)
 
 赛查查是探索网络安全和数据安全赛事领域的专业指南。提供及时的赛事信息和资源。关注我们，与我们一起助力赛事以及行业的发展！
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_fabaad32b9d1" alt="" />
+
+---
+
+
+### [北京昊网CTF题解](http://wechat.doonsec.com/wechat_echarts/?biz=MzE5ODEzNDUwMA==)
+
+[:chart_with_upwards_trend:【4/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzE5ODEzNDUwMA==)
+
+[:camera_flash:【2026-10-09T07:00:00】](https://mp.weixin.qq.com/s?__biz=MzE5ODEzNDUwMA==&mid=2247485854&idx=2&sn=846e40f33d120e81880fb7504612f31a&scene=27#wechat_redirect)
+
+北京昊网旗下，专注网络空间安全CTF题解。拆解竞赛难题，分享解题思路与技巧，助你提升技能，进阶网络安全领域。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0cb5220f7012" alt="" />
 
 ---
 
@@ -385,19 +398,6 @@ CTF协会
 春秋GAME，为广大网络安全爱好者传递网络安全大赛相关赛事信息，提供优质的赛事服务平台
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_9dc2f5b966c7" alt="" />
-
----
-
-
-### [北京昊网CTF题解](http://wechat.doonsec.com/wechat_echarts/?biz=MzE5ODEzNDUwMA==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzE5ODEzNDUwMA==)
-
-[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
-
-北京昊网旗下，专注网络空间安全CTF题解。拆解竞赛难题，分享解题思路与技巧，助你提升技能，进阶网络安全领域。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0cb5220f7012" alt="" />
 
 ---
 

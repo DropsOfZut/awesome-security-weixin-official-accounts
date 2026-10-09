@@ -1,9 +1,9 @@
 
 ### [泷羽Sec-幽居初夏](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk1Nzk0MDM4NA==)
 
-[:chart_with_upwards_trend:【5/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk1Nzk0MDM4NA==)
+[:chart_with_upwards_trend:【8/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk1Nzk0MDM4NA==)
 
-[:camera_flash:【2026-10-05T22:17:53】](https://mp.weixin.qq.com/s?__biz=Mzk1Nzk0MDM4NA==&mid=2247483729&idx=1&sn=535a4592cfd3b35af6bcd9b181e9bed7&scene=27#wechat_redirect)
+[:camera_flash:【2026-10-08T23:35:13】](https://mp.weixin.qq.com/s?__biz=Mzk1Nzk0MDM4NA==&mid=2247483758&idx=1&sn=3a62157b1fed0a0f8053ece056b5e9df&scene=27#wechat_redirect)
 
 分享挖斗技巧和实战，收集和开发各种渗透工具与使用，泷羽sec团队核心成员。声明：在此公众号上学习的任何渗透技能和工具使用，切勿非法使用，一切后果自行承担。
 

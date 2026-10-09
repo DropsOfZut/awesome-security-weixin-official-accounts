@@ -1,7 +1,7 @@
 
 ### [安全学术圈](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
 
-[:chart_with_upwards_trend:【1/13/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
+[:chart_with_upwards_trend:【1/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
 
 [:camera_flash:【2026-10-04T21:44:30】](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247495983&idx=1&sn=c3d095962ce33764d4fb4a2d2b65e158&scene=27#wechat_redirect)
 
@@ -14,9 +14,9 @@
 
 ### [字节跳动技术团队](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
 
-[:chart_with_upwards_trend:【4/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
+[:chart_with_upwards_trend:【5/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
 
-[:camera_flash:【2026-09-23T18:06:02】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247522837&idx=1&sn=9a517deecee420b33ef098ae4fc00802&scene=27#wechat_redirect)
+[:camera_flash:【2026-10-08T19:02:47】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247522909&idx=1&sn=82ca1c732c0de74e3530284c6c4df3f1&scene=27#wechat_redirect)
 
 字节跳动的技术实践分享
 
@@ -51,28 +51,15 @@
 ---
 
 
-### [软件开发安全生命周期](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NzE5NjI0Mg==)
+### [长亭百川云平台](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjgyNDIzOA==)
 
-[:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NzE5NjI0Mg==)
+[:chart_with_upwards_trend:【1/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjgyNDIzOA==)
 
-[:camera_flash:【2026-09-27T22:07:31】](https://mp.weixin.qq.com/s?__biz=Mzk0NzE5NjI0Mg==&mid=2247484947&idx=1&sn=2acdba7c6dade30f01cf6cb900aea5bc&scene=27#wechat_redirect)
+[:camera_flash:【2026-10-08T09:45:00】](https://mp.weixin.qq.com/s?__biz=Mzg4MjgyNDIzOA==&mid=2247513377&idx=1&sn=ac13098d77886d3de09b61f617525624&scene=27#wechat_redirect)
 
-博主站点:www.s-sdlc.com 分享软件开发生命周期,致力于分享知识、同时会分享网络安全相关的知识点和技能点
+百川云平台（Rivers）是长亭面向企业开放的在线安全产品服务，包含了多个安全产品，如问脉容器安全产品，关山WebShell检测产品，牧云主机安全产品，以及其他第三方安全公司提供的安全产品等。
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4270dc91534e" alt="" />
-
----
-
-
-### [北邮GAMMALab](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzE1MTQzNw==)
-
-[:chart_with_upwards_trend:【1/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzE1MTQzNw==)
-
-[:camera_flash:【2026-09-29T11:34:30】](https://mp.weixin.qq.com/s?__biz=Mzg4MzE1MTQzNw==&mid=2247494133&idx=1&sn=fef792752a991907f72c6734b61636dd&scene=27#wechat_redirect)
-
-北邮图数据挖掘与机器学习实验室
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_bc48147b67b6" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_b7b2cd336ce7" alt="" />
 
 ---
 
@@ -90,15 +77,28 @@
 ---
 
 
-### [长亭百川云平台](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjgyNDIzOA==)
+### [北邮GAMMALab](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzE1MTQzNw==)
 
-[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjgyNDIzOA==)
+[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzE1MTQzNw==)
 
-[:camera_flash:【2026-09-30T11:11:23】](https://mp.weixin.qq.com/s?__biz=Mzg4MjgyNDIzOA==&mid=2247513360&idx=1&sn=a43d283f9c9db6e847c1277667d8a5ff&scene=27#wechat_redirect)
+[:camera_flash:【2026-09-29T11:34:30】](https://mp.weixin.qq.com/s?__biz=Mzg4MzE1MTQzNw==&mid=2247494133&idx=1&sn=fef792752a991907f72c6734b61636dd&scene=27#wechat_redirect)
 
-百川云平台（Rivers）是长亭面向企业开放的在线安全产品服务，包含了多个安全产品，如问脉容器安全产品，关山WebShell检测产品，牧云主机安全产品，以及其他第三方安全公司提供的安全产品等。
+北邮图数据挖掘与机器学习实验室
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_b7b2cd336ce7" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_bc48147b67b6" alt="" />
+
+---
+
+
+### [软件开发安全生命周期](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NzE5NjI0Mg==)
+
+[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NzE5NjI0Mg==)
+
+[:camera_flash:【2026-09-27T22:07:31】](https://mp.weixin.qq.com/s?__biz=Mzk0NzE5NjI0Mg==&mid=2247484947&idx=1&sn=2acdba7c6dade30f01cf6cb900aea5bc&scene=27#wechat_redirect)
+
+博主站点:www.s-sdlc.com 分享软件开发生命周期,致力于分享知识、同时会分享网络安全相关的知识点和技能点
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4270dc91534e" alt="" />
 
 ---
 
