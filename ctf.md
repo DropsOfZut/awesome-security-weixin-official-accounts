@@ -16,7 +16,7 @@
 
 [:chart_with_upwards_trend:【6/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzE5ODEzNDUwMA==)
 
-[:camera_flash:【2026-10-10T07:00:00】](https://mp.weixin.qq.com/s?__biz=MzE5ODEzNDUwMA==&mid=2247485856&idx=1&sn=de72b987248e83a72d6fb888b7e27f0c&scene=27#wechat_redirect)
+[:camera_flash:【2026-10-10T07:00:00】](https://mp.weixin.qq.com/s?__biz=MzE5ODEzNDUwMA==&mid=2247485856&idx=2&sn=145c885cdfed6ebb86b603ad515248dd&scene=27#wechat_redirect)
 
 北京昊网旗下，专注网络空间安全CTF题解。拆解竞赛难题，分享解题思路与技巧，助你提升技能，进阶网络安全领域。
 
