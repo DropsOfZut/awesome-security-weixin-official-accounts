@@ -1306,6 +1306,7 @@
 * [信安小屋](/person.md#信安小屋) : 寻云安全，没有网络安全就没有国家安全，信息安全，渗透测试，漏洞挖掘，靶场教程，CTF比赛，web安全，iot安全，工控安全，车联网，人工智能，web3.0  [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3ODkyOTYxOA==)
 * [橘子杀手](/person.md#橘子杀手) : 一个嗜橘的信息安全工程师在这里分享一些技术、对事件的思考与见解，偶尔发发牢骚，吐吐槽  [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3OTE4MTU5Mw==)
 * [小黑的安全笔记](/person.md#小黑的安全笔记) : 小黑是一只梦想成为黑客和吉他手的猫猫，这里分享他点点滴滴的技术积累  [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI4Njk5NjY4OQ==)
+* [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - 开源（GPL-3.0）自主 AI 渗透测试平台，覆盖 Web、API、Active Directory 和 Kubernetes，可作为 MCP host，并提供漏洞利用证明。
 * [xsser的博客](/person.md#xsser的博客) : 记录xsser个人成长  [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4NzA5OTYzNw==)
 * [瓜神学习网络安全](/person.md#瓜神学习网络安全) : 本公众号记录god_mellon学习网络安全与Python的过程。出发了无数次，可每次都因为各种各样的事情中断掉。做一个严于律己的人。 陌生人，我也为你祝福。  [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwODE4ODUzMg==)
 * [白帽子的成长之路](/person.md#白帽子的成长之路) : 网络安全方面的信息  [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2NDY1NDg0OA==)
