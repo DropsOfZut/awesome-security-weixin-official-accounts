@@ -1,9 +1,9 @@
 
 ### [泷羽Sec-幽居初夏](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk1Nzk0MDM4NA==)
 
-[:chart_with_upwards_trend:【8/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk1Nzk0MDM4NA==)
+[:chart_with_upwards_trend:【9/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk1Nzk0MDM4NA==)
 
-[:camera_flash:【2026-10-08T23:35:13】](https://mp.weixin.qq.com/s?__biz=Mzk1Nzk0MDM4NA==&mid=2247483758&idx=1&sn=3a62157b1fed0a0f8053ece056b5e9df&scene=27#wechat_redirect)
+[:camera_flash:【2026-10-11T22:32:34】](https://mp.weixin.qq.com/s?__biz=Mzk1Nzk0MDM4NA==&mid=2247483778&idx=1&sn=5c9c4b6169c414ecd179341448fb7627&scene=27#wechat_redirect)
 
 分享挖斗技巧和实战，收集和开发各种渗透工具与使用，泷羽sec团队核心成员。声明：在此公众号上学习的任何渗透技能和工具使用，切勿非法使用，一切后果自行承担。
 
@@ -47,6 +47,19 @@ B站：泷羽Sec，团队专注于网络安全领域的内容创作与分享，�
 分享网络安，渗透测试，红蓝攻防全相关经验
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_3775f9f74452" alt="" />
+
+---
+
+
+### [泷羽Sec-王也安全](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDg3MDEzOQ==)
+
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDg3MDEzOQ==)
+
+[:camera_flash:【2026-10-11T16:17:03】](https://mp.weixin.qq.com/s?__biz=MzkyNDg3MDEzOQ==&mid=2247486770&idx=1&sn=e2b7d78dfaedb93aceb402123cc0273e&scene=27#wechat_redirect)
+
+一个致力于分享网络安全事业的公众号，不定时发布与网络安全有关的分享，也为像我一样想进入网络安全但是不知道怎么开始的小白成为指明道路的灯塔。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_af5030e4cba3" alt="" />
 
 ---
 
@@ -593,19 +606,6 @@ B站up:泷羽Sec，专注于网络安全领域的内容创作与分享，为网�
 网络安全人的专属交流圈，汇聚白帽黑客、安全运维、企业 CSO 等精英。研讨前沿技术、分享实战案例，线上线下沙龙热络，更有招聘求职、资源对接，携手共赴安全新征程，拓展人脉，赋能职业成长。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_536638e4afc2" alt="" />
-
----
-
-
-### [泷羽Sec-王也安全](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDg3MDEzOQ==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDg3MDEzOQ==)
-
-[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
-
-一个致力于分享网络安全事业的公众号，不定时发布与网络安全有关的分享，也为像我一样想进入网络安全但是不知道怎么开始的小白成为指明道路的灯塔。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_af5030e4cba3" alt="" />
 
 ---
 

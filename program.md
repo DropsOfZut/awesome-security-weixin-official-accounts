@@ -40,9 +40,9 @@
 
 ### [huasec](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyOTY1NDE5Mg==)
 
-[:chart_with_upwards_trend:【2/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyOTY1NDE5Mg==)
+[:chart_with_upwards_trend:【3/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyOTY1NDE5Mg==)
 
-[:camera_flash:【2026-09-30T08:57:00】](https://mp.weixin.qq.com/s?__biz=MzIyOTY1NDE5Mg==&mid=2247485624&idx=1&sn=a7658812a3a85193774cc7a89aa9d8d3&scene=27#wechat_redirect)
+[:camera_flash:【2026-10-12T08:15:00】](https://mp.weixin.qq.com/s?__biz=MzIyOTY1NDE5Mg==&mid=2247485753&idx=1&sn=531d74da2b36833e069d719cac689dc7&scene=27#wechat_redirect)
 
 分享一些平时所学，励志成为一名安全研发。
 
