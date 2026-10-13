@@ -1,9 +1,9 @@
 
 ### [数世咨询](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
 
-[:chart_with_upwards_trend:【2/26/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
+[:chart_with_upwards_trend:【2/28/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
 
-[:camera_flash:【2026-10-10T15:42:47】](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247544139&idx=2&sn=f2fd25bf0a30e042546d7a8153b50dd7&scene=27#wechat_redirect)
+[:camera_flash:【2026-10-12T16:00:00】](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247544153&idx=2&sn=1c60db81eb653dd3bd22661f1f80cdcb&scene=27#wechat_redirect)
 
 中国数字产业领域中立的第三方调研机构，提供网络安全行业的调查、研究与咨询服务。
 
@@ -14,9 +14,9 @@
 
 ### [掌控安全EDU](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
 
-[:chart_with_upwards_trend:【14/21/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
+[:chart_with_upwards_trend:【16/23/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
 
-[:camera_flash:【2026-10-11T12:00:00】](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247557067&idx=1&sn=76b897a1fc6a6925eccc229e13d22513&scene=27#wechat_redirect)
+[:camera_flash:【2026-10-12T12:04:40】](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247557085&idx=2&sn=2776c2c88ca4a0bb45f2c14ae484ea9f&scene=27#wechat_redirect)
 
 安全教程\\高质量文章\\面试经验分享，尽在#掌控安全EDU#
 
@@ -27,9 +27,9 @@
 
 ### [全栈网络空间安全](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
 
-[:chart_with_upwards_trend:【19/19/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
+[:chart_with_upwards_trend:【20/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
 
-[:camera_flash:【2026-10-11T00:00:00】](https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247517980&idx=1&sn=37a69aa7cf96c5d68002ddc8819bef48&scene=27#wechat_redirect)
+[:camera_flash:【2026-10-13T00:00:00】](https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247517997&idx=1&sn=8cba9a626197e8855b07e88f2145bd3d&scene=27#wechat_redirect)
 
 做一个会思考的全栈网络空间安全者
 
@@ -40,9 +40,9 @@
 
 ### [中国网络空间安全协会](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3ODE0NDA4MA==)
 
-[:chart_with_upwards_trend:【0/13/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3ODE0NDA4MA==)
+[:chart_with_upwards_trend:【0/14/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3ODE0NDA4MA==)
 
-[:camera_flash:【2026-09-30T15:47:40】](https://mp.weixin.qq.com/s?__biz=MzA3ODE0NDA4MA==&mid=2649405013&idx=1&sn=f148ddc87c8762cb4005aa16e970e842&scene=27#wechat_redirect)
+[:camera_flash:【2026-10-12T17:51:17】](https://mp.weixin.qq.com/s?__biz=MzA3ODE0NDA4MA==&mid=2649405025&idx=1&sn=94282c1648c5f430881fae97c03eb5a4&scene=27#wechat_redirect)
 
 中国网络空间安全协会是由国内从事网络空间安全相关产业、教育、科研、应用的机构、企业及个人共同自愿结成的全国性、行业性、非营利性社会组织。
 
@@ -53,9 +53,9 @@
 
 ### [企业安全实践](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NjU0OTQyMg==)
 
-[:chart_with_upwards_trend:【4/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NjU0OTQyMg==)
+[:chart_with_upwards_trend:【5/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NjU0OTQyMg==)
 
-[:camera_flash:【2026-10-11T08:25:51】](https://mp.weixin.qq.com/s?__biz=Mzg3NjU0OTQyMg==&mid=2247484556&idx=1&sn=ca04e3f2f1e7b2f9ff12a713fb0e7d22&scene=27#wechat_redirect)
+[:camera_flash:【2026-10-12T13:12:58】](https://mp.weixin.qq.com/s?__biz=Mzg3NjU0OTQyMg==&mid=2247484561&idx=1&sn=101addde7b2477fe1330fc47291deb89&scene=27#wechat_redirect)
 
 企业安全实践经验分享，包括安全运营、应急响应、安全平台。
 

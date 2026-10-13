@@ -1,9 +1,9 @@
 
 ### [IoVSecurity](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
 
-[:chart_with_upwards_trend:【0/31/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
+[:chart_with_upwards_trend:【0/34/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
 
-[:camera_flash:【2026-10-09T08:18:00】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247635841&idx=2&sn=0565edefb44d9145df99a4ba8a14c168&scene=27#wechat_redirect)
+[:camera_flash:【2026-10-13T08:00:00】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247635910&idx=1&sn=00de326239f5d6f9aa04bf789645e99d&scene=27#wechat_redirect)
 
 为智能网联汽车行业专业人士提供信息和网络安全技术、产品及服务等行业发展最新咨询
 
@@ -14,9 +14,9 @@
 
 ### [IoT物联网技术](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
 
-[:chart_with_upwards_trend:【23/23/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
+[:chart_with_upwards_trend:【24/24/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
 
-[:camera_flash:【2026-10-11T19:45:05】](https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&mid=2454949041&idx=1&sn=ea3a94cfe86b9942f02ffc575a9ac727&scene=27#wechat_redirect)
+[:camera_flash:【2026-10-12T21:50:56】](https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&mid=2454949063&idx=1&sn=da1106f789c48b7ac5e953837e6a2464&scene=27#wechat_redirect)
 
 云计算、物联网、大模型暗中观察小分队
 
@@ -66,9 +66,9 @@
 
 ### [全频带阻塞干扰](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzMzE2OTQyNA==)
 
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzMzE2OTQyNA==)
+[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzMzE2OTQyNA==)
 
-[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
+[:camera_flash:【2026-10-12T11:45:00】](https://mp.weixin.qq.com/s?__biz=MzIzMzE2OTQyNA==&mid=2648959541&idx=1&sn=9753524ce9115a17cc66c793e77eb020&scene=27#wechat_redirect)
 
 坚持以非正常体位探寻未知信号。 国内商业安全、TSCM技术反窃密、隐私保护及物理安全领域前行者。持久关注通信安全、海外威胁情报、犯罪防御与群氓效应。
 

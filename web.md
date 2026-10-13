@@ -1,9 +1,9 @@
 
 ### [谈思实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzOTc2OTAxMg==)
 
-[:chart_with_upwards_trend:【0/51/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzOTc2OTAxMg==)
+[:chart_with_upwards_trend:【0/53/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzOTc2OTAxMg==)
 
-[:camera_flash:【2026-10-11T17:50:00】](https://mp.weixin.qq.com/s?__biz=MzIzOTc2OTAxMg==&mid=2247581314&idx=1&sn=6f0aa36ba43fc0823e0823e2f805c86b&scene=27#wechat_redirect)
+[:camera_flash:【2026-10-12T17:49:18】](https://mp.weixin.qq.com/s?__biz=MzIzOTc2OTAxMg==&mid=2247581315&idx=1&sn=bf98fbc996b3ecf61636b14af3d8314a&scene=27#wechat_redirect)
 
 深入专注智能汽车网络安全与数据安全技术，专属汽车网络安全圈的头部学习交流平台和社区。平台定期会通过线上线下等形式进行一手干货内容输出，并依托丰富产业及专家资源，深化上下游供需对接，逐步壮大我国汽车安全文化及产业生态圈。
 
@@ -14,7 +14,7 @@
 
 ### [Khan安全团队](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwMjQ2NTQ4Mg==)
 
-[:chart_with_upwards_trend:【0/49/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwMjQ2NTQ4Mg==)
+[:chart_with_upwards_trend:【0/47/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwMjQ2NTQ4Mg==)
 
 [:camera_flash:【2026-10-11T14:18:59】](https://mp.weixin.qq.com/s?__biz=MzAwMjQ2NTQ4Mg==&mid=2247510623&idx=2&sn=a563948937b13bde42608b7a9d18265d&scene=27#wechat_redirect)
 
@@ -27,9 +27,9 @@
 
 ### [内生安全联盟](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MDU0NTQ4Mw==)
 
-[:chart_with_upwards_trend:【1/38/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MDU0NTQ4Mw==)
+[:chart_with_upwards_trend:【1/40/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MDU0NTQ4Mw==)
 
-[:camera_flash:【2026-10-10T10:37:57】](https://mp.weixin.qq.com/s?__biz=Mzg4MDU0NTQ4Mw==&mid=2247540702&idx=2&sn=b59f1c85d08dabf58893e001591bdd37&scene=27#wechat_redirect)
+[:camera_flash:【2026-10-12T17:34:23】](https://mp.weixin.qq.com/s?__biz=Mzg4MDU0NTQ4Mw==&mid=2247540750&idx=1&sn=412b1fca972cda7fe628429d14ea6a7a&scene=27#wechat_redirect)
 
 中国网络空间内生安全技术与产业联盟，简称“CCESS联盟”。CCESS联盟是在自愿、平等、互利、合作的基础上，由国内网络空间内生安全领域的相关企事业单位、社团组织、科研院所、高等院校等自愿结成的开放性行业合作组织。
 
@@ -53,9 +53,9 @@
 
 ### [句芒安全实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5ODQyMTM2Ng==)
 
-[:chart_with_upwards_trend:【25/25/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5ODQyMTM2Ng==)
+[:chart_with_upwards_trend:【26/26/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5ODQyMTM2Ng==)
 
-[:camera_flash:【2026-10-11T12:47:30】](https://mp.weixin.qq.com/s?__biz=MzI5ODQyMTM2Ng==&mid=2247485942&idx=1&sn=4938a76fcc93c2c10f72433bd115b612&scene=27#wechat_redirect)
+[:camera_flash:【2026-10-12T10:00:28】](https://mp.weixin.qq.com/s?__biz=MzI5ODQyMTM2Ng==&mid=2247485951&idx=1&sn=960af5aff4e43ab12b49e5cd7c91a311&scene=27#wechat_redirect)
 
 书山有路勤为径，学海无涯苦作舟，共勉！
 
@@ -66,9 +66,9 @@
 
 ### [逍遥安全实验室](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NTc2MTMxNQ==)
 
-[:chart_with_upwards_trend:【21/21/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NTc2MTMxNQ==)
+[:chart_with_upwards_trend:【22/22/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NTc2MTMxNQ==)
 
-[:camera_flash:【2026-10-11T00:00:00】](https://mp.weixin.qq.com/s?__biz=Mzk0NTc2MTMxNQ==&mid=2247486441&idx=1&sn=21cedd6ee6d8517551abe2b75341b487&scene=27#wechat_redirect)
+[:camera_flash:【2026-10-13T00:00:00】](https://mp.weixin.qq.com/s?__biz=Mzk0NTc2MTMxNQ==&mid=2247486449&idx=1&sn=0fc3735e3b00b75e5d6e3c30a0580d52&scene=27#wechat_redirect)
 
 网络安全领域各种资源，针对无基础热爱想学计算机小白技术分享，学习文档，以及工具分享、前沿信息分享、POC、EXP分享
 
@@ -81,7 +81,7 @@
 
 [:chart_with_upwards_trend:【19/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk4ODQ5NzM2Mw==)
 
-[:camera_flash:【2026-10-10T10:00:00】](https://mp.weixin.qq.com/s?__biz=Mzk4ODQ5NzM2Mw==&mid=2247488022&idx=1&sn=7929e573f709c58fc5d22dbe13f03a17&scene=27#wechat_redirect)
+[:camera_flash:【2026-10-12T10:00:00】](https://mp.weixin.qq.com/s?__biz=Mzk4ODQ5NzM2Mw==&mid=2247488031&idx=1&sn=dac43ce54744199808a7145f0bbe3587&scene=27#wechat_redirect)
 
 广测集团出品，专注网络安全认证（如EN18031）及解决方案，护航企业出海合规。
 
@@ -105,9 +105,9 @@
 
 ### [CTS纵横安全实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxOTY3MjU3Ng==)
 
-[:chart_with_upwards_trend:【0/13/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxOTY3MjU3Ng==)
+[:chart_with_upwards_trend:【0/15/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxOTY3MjU3Ng==)
 
-[:camera_flash:【2026-10-12T07:39:50】](https://mp.weixin.qq.com/s?__biz=MzUxOTY3MjU3Ng==&mid=2247487702&idx=1&sn=b94a0a1d6c8fae356bb70a71a73427d8&scene=27#wechat_redirect)
+[:camera_flash:【2026-10-13T06:39:31】](https://mp.weixin.qq.com/s?__biz=MzUxOTY3MjU3Ng==&mid=2247487706&idx=1&sn=4d0d9021ce8d9190fcb67c450a088152&scene=27#wechat_redirect)
 
 分享渗透测试、网络安全和电力调控相关文章，不一定是原创，但绝对用心。
 
@@ -181,6 +181,19 @@
 ---
 
 
+### [中国电信大可实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzYyNTU0NTMwMg==)
+
+[:chart_with_upwards_trend:【3/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzYyNTU0NTMwMg==)
+
+[:camera_flash:【2026-10-12T12:00:00】](https://mp.weixin.qq.com/s?__biz=MzYyNTU0NTMwMg==&mid=2247484141&idx=1&sn=29f919c860f2bb864c880cb6dba3f2e1&scene=27#wechat_redirect)
+
+立足国家网络安全战略，聚焦安全技术创新与应用，筑牢数字空间安全屏障，全面提升主动应对能力，着力打造保障国家网络安全的中坚力量。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_cd86faf8c01d" alt="" />
+
+---
+
+
 ### [白泽安全实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0MTE4ODY3Nw==)
 
 [:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0MTE4ODY3Nw==)
@@ -190,19 +203,6 @@
 专注APT发现、检测、取证、溯源相关网络安全技术研究。发布APT相关威胁情报、分享最新研究成果。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_fb1defa4e211" alt="" />
-
----
-
-
-### [中国电信大可实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzYyNTU0NTMwMg==)
-
-[:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzYyNTU0NTMwMg==)
-
-[:camera_flash:【2026-09-30T14:05:02】](https://mp.weixin.qq.com/s?__biz=MzYyNTU0NTMwMg==&mid=2247484121&idx=1&sn=a1d9aed6b075d3be23ca11b5cb30124a&scene=27#wechat_redirect)
-
-立足国家网络安全战略，聚焦安全技术创新与应用，筑牢数字空间安全屏障，全面提升主动应对能力，着力打造保障国家网络安全的中坚力量。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_cd86faf8c01d" alt="" />
 
 ---
 
@@ -224,7 +224,7 @@
 
 [:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMDc0NjM0Mg==)
 
-[:camera_flash:【2026-09-14T16:50:00】](https://mp.weixin.qq.com/s?__biz=MzkxMDc0NjM0Mg==&mid=2247487386&idx=2&sn=19f12e07a479f53f626eac6791a89654&scene=27#wechat_redirect)
+[:camera_flash:【2026-09-14T16:50:00】](https://mp.weixin.qq.com/s?__biz=MzkxMDc0NjM0Mg==&mid=2247487386&idx=1&sn=f455b71ef1f79219448c3b9b95a914fc&scene=27#wechat_redirect)
 
 遇事而出，凡是与中国过不去的，我们就下山；凡是要损害中华民族利益的，我们将出动……”我们的口号：“人不犯我，我不犯人，人若犯我，虽远必诛”
 
@@ -242,6 +242,19 @@
 零丁洋实验室创立于2020年，主要致力于网络空间安全技术研究与成果输出，同时着眼于网络攻防技术、安全产品设计研发、移动安全、物联网安全、数据安全、APT、红蓝对抗等领域的技术研究与安全服务。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a9324b015bb4" alt="" />
+
+---
+
+
+### [BeFun安全实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3NDEzMDgzNw==)
+
+[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3NDEzMDgzNw==)
+
+[:camera_flash:【2026-10-12T15:53:02】](https://mp.weixin.qq.com/s?__biz=MzI3NDEzMDgzNw==&mid=2247485330&idx=1&sn=492b547ddecf9e2bad4668c193bae62f&scene=27#wechat_redirect)
+
+毕方安全实验室，提供渗透测试、漏洞分析、工具分享等新鲜姿势！
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f7b277eb35ba" alt="" />
 
 ---
 
@@ -1802,19 +1815,6 @@ SK安全实验室专注于web安全、移动安全、代码审计、漏洞分析
 网络知识的大杂汇，从计算机基础知识到渗透测试知识.
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_77cac792357c" alt="" />
-
----
-
-
-### [BeFun安全实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3NDEzMDgzNw==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3NDEzMDgzNw==)
-
-[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
-
-毕方安全实验室，提供渗透测试、漏洞分析、工具分享等新鲜姿势！
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f7b277eb35ba" alt="" />
 
 ---
 
