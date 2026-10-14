@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【1/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
 
-[:camera_flash:【2026-10-04T21:44:30】](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247495983&idx=1&sn=c3d095962ce33764d4fb4a2d2b65e158&scene=27#wechat_redirect)
+[:camera_flash:【2026-10-13T21:23:52】](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247495988&idx=1&sn=2c74a841196585410df88116bde7731d&scene=27#wechat_redirect)
 
 分享安全方面的论文写作、会议发表、基金申请方面的资料。
 
