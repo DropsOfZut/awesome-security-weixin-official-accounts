@@ -1,9 +1,9 @@
 
 ### [蓝军开源情报](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyMjY1MTg1MQ==)
 
-[:chart_with_upwards_trend:【198/208/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyMjY1MTg1MQ==)
+[:chart_with_upwards_trend:【191/200/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyMjY1MTg1MQ==)
 
-[:camera_flash:【2026-10-15T05:00:00】](https://mp.weixin.qq.com/s?__biz=MzkyMjY1MTg1MQ==&mid=2247513882&idx=1&sn=92b752b79b625ad0bc9e58b0e828ed4e&scene=27#wechat_redirect)
+[:camera_flash:【2026-10-15T05:00:00】](https://mp.weixin.qq.com/s?__biz=MzkyMjY1MTg1MQ==&mid=2247513882&idx=7&sn=d1472c55a8dc0a15120f20ca164d6bd7&scene=27#wechat_redirect)
 
 蓝军开源情报大百科数据库。
 
@@ -16,7 +16,7 @@
 
 [:chart_with_upwards_trend:【75/75/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NDMxOTQwNw==)
 
-[:camera_flash:【2026-10-14T12:04:42】](https://mp.weixin.qq.com/s?__biz=MzA3NDMxOTQwNw==&mid=2650083169&idx=5&sn=de374c507f9879e3e1d2cdbb62b83e1b&scene=27#wechat_redirect)
+[:camera_flash:【2026-10-15T11:33:32】](https://mp.weixin.qq.com/s?__biz=MzA3NDMxOTQwNw==&mid=2650083194&idx=2&sn=34e3d3932476d4b1d1ea2038e40b8459&scene=27#wechat_redirect)
 
 独立的战略和防务研究机构，立足于防务动态和学术热点的追踪分析，着眼于长远性、战略性问题的深入研究，并为国家有关机构及决策者提供独立、客观的战略与政策建议。
 
@@ -27,26 +27,13 @@
 
 ### [独眼情报](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzNDIzNDUxOQ==)
 
-[:chart_with_upwards_trend:【29/33/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzNDIzNDUxOQ==)
+[:chart_with_upwards_trend:【29/34/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzNDIzNDUxOQ==)
 
-[:camera_flash:【2026-10-14T20:31:29】](https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247509953&idx=1&sn=23f5add832036e52feb8ace373ee4f28&scene=27#wechat_redirect)
+[:camera_flash:【2026-10-15T12:46:33】](https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247509958&idx=1&sn=3cdb5861dc83697d94625cfe22bfb9a6&scene=27#wechat_redirect)
 
 做最快最有价值的网络安全威胁情报公众号！
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_1f9bfa965ef0" alt="" />
-
----
-
-
-### [黑鸟](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxOTM1MDQ1NA==)
-
-[:chart_with_upwards_trend:【25/31/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxOTM1MDQ1NA==)
-
-[:camera_flash:【2026-10-14T23:36:05】](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451189279&idx=1&sn=318cbb19ae1d796c87653a006f1df9df&scene=27#wechat_redirect)
-
-一介草民，深耕威胁情报领域多年，自封威胁分析师，APT狩猎者，战略忽悠分析师。 专注推送一切前沿高科技/人工智能、网络安全分析、敌我战略分析、数据挖掘、情报扩线、网络武器分析、社会工程学、一切开源情报、军事分析忽悠等。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_68f37a80b8cb" alt="" />
 
 ---
 
@@ -64,11 +51,24 @@
 ---
 
 
+### [黑鸟](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxOTM1MDQ1NA==)
+
+[:chart_with_upwards_trend:【24/30/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxOTM1MDQ1NA==)
+
+[:camera_flash:【2026-10-14T23:36:05】](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451189279&idx=1&sn=318cbb19ae1d796c87653a006f1df9df&scene=27#wechat_redirect)
+
+一介草民，深耕威胁情报领域多年，自封威胁分析师，APT狩猎者，战略忽悠分析师。 专注推送一切前沿高科技/人工智能、网络安全分析、敌我战略分析、数据挖掘、情报扩线、网络武器分析、社会工程学、一切开源情报、军事分析忽悠等。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_68f37a80b8cb" alt="" />
+
+---
+
+
 ### [情报分析师](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3Mjc1MTkwOA==)
 
-[:chart_with_upwards_trend:【13/26/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3Mjc1MTkwOA==)
+[:chart_with_upwards_trend:【14/28/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3Mjc1MTkwOA==)
 
-[:camera_flash:【2026-10-14T15:04:01】](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650569928&idx=1&sn=4f3c34541f8fe38e661081aaa4c62069&scene=27#wechat_redirect)
+[:camera_flash:【2026-10-15T13:39:00】](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650569955&idx=1&sn=7322710c383b862a82ae90eb913ba533&scene=27#wechat_redirect)
 
 刘硕教授团队：聚焦情报与安全！关注情报动态，促进情报协作，传播情报文化，优化情报生态，共建情报分析师职业共同体。
 
@@ -79,26 +79,13 @@
 
 ### [华顺信安威胁情报中心](http://wechat.doonsec.com/wechat_echarts/?biz=MzYzNDgwMTE0NQ==)
 
-[:chart_with_upwards_trend:【0/18/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzYzNDgwMTE0NQ==)
+[:chart_with_upwards_trend:【0/17/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzYzNDgwMTE0NQ==)
 
 [:camera_flash:【2026-10-15T07:30:00】](https://mp.weixin.qq.com/s?__biz=MzYzNDgwMTE0NQ==&mid=2247484955&idx=1&sn=c0a67223f045f3d543c83d00e722c82f&scene=27#wechat_redirect)
 
 华顺信安威胁情报中心，专注企业资产安全与网络威胁情报。实时追踪漏洞、分析攻击面、分享行业资讯，助力企业全面掌控网络安全风险，提升防护能力。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_6b73529d6007" alt="" />
-
----
-
-
-### [夜组安全](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0ODM0NDIxNQ==)
-
-[:chart_with_upwards_trend:【0/17/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0ODM0NDIxNQ==)
-
-[:camera_flash:【2026-10-15T07:30:00】](https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247497844&idx=1&sn=002b048c2698627863b9223e93ff1e56&scene=27#wechat_redirect)
-
-&quot;恐惧就是貌似真实的伪证&quot; NightCrawler Team(简称:夜组)主攻WEB安全 | 内网渗透 | 红蓝对抗 | 代码审计 | APT攻击，致力于将每一位藏在暗处的白帽子聚集在一起，在夜空中划出一道绚丽的光线！
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_541604f9ce73" alt="" />
 
 ---
 
@@ -116,11 +103,24 @@
 ---
 
 
+### [夜组安全](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0ODM0NDIxNQ==)
+
+[:chart_with_upwards_trend:【0/15/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0ODM0NDIxNQ==)
+
+[:camera_flash:【2026-10-15T07:30:00】](https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247497844&idx=1&sn=002b048c2698627863b9223e93ff1e56&scene=27#wechat_redirect)
+
+&quot;恐惧就是貌似真实的伪证&quot; NightCrawler Team(简称:夜组)主攻WEB安全 | 内网渗透 | 红蓝对抗 | 代码审计 | APT攻击，致力于将每一位藏在暗处的白帽子聚集在一起，在夜空中划出一道绚丽的光线！
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_541604f9ce73" alt="" />
+
+---
+
+
 ### [微步在线](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NjA0NjI5MQ==)
 
-[:chart_with_upwards_trend:【5/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NjA0NjI5MQ==)
+[:chart_with_upwards_trend:【5/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NjA0NjI5MQ==)
 
-[:camera_flash:【2026-10-14T11:32:54】](https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650188356&idx=1&sn=7b957f2d5758c433d9e0aa83e62c2e82&scene=27#wechat_redirect)
+[:camera_flash:【2026-10-15T12:58:42】](https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650188389&idx=1&sn=ea39d16ecc8bd40529db6ac67def5858&scene=27#wechat_redirect)
 
 数字时代网络威胁应对专家
 
@@ -220,6 +220,19 @@
 ---
 
 
+### [黑鸟略略略](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwNDg1NTU0Mg==)
+
+[:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwNDg1NTU0Mg==)
+
+[:camera_flash:【2026-10-15T12:13:00】](https://mp.weixin.qq.com/s?__biz=MzkwNDg1NTU0Mg==&mid=2247484570&idx=1&sn=05ab9a53e98aab2a5f31f4964b93b310&scene=27#wechat_redirect)
+
+AI/人工智能/信息/网络安全从业人员/程序员/精神病/反诈骗/热爱游戏行业/极客/金融学硕士感谢关注，长期分享前沿知识科技技术打击冒充黑客和红客的骗子，包括我自己
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8f7b4742496d" alt="" />
+
+---
+
+
 ### [腾讯安全威胁情报中心](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5ODk3OTM1Ng==)
 
 [:chart_with_upwards_trend:【1/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5ODk3OTM1Ng==)
@@ -242,19 +255,6 @@
 关注我们，获取知道创宇404实验室最新研究动向。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_7a00af2b3993" alt="" />
-
----
-
-
-### [黑鸟略略略](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwNDg1NTU0Mg==)
-
-[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwNDg1NTU0Mg==)
-
-[:camera_flash:【2026-10-13T12:06:29】](https://mp.weixin.qq.com/s?__biz=MzkwNDg1NTU0Mg==&mid=2247484564&idx=1&sn=bb1865fd7b05734b01e3cbbf44430c02&scene=27#wechat_redirect)
-
-AI/人工智能/信息/网络安全从业人员/程序员/精神病/反诈骗/热爱游戏行业/极客/金融学硕士感谢关注，长期分享前沿知识科技技术打击冒充黑客和红客的骗子，包括我自己
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8f7b4742496d" alt="" />
 
 ---
 

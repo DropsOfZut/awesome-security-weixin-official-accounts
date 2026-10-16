@@ -1,7 +1,7 @@
 
 ### [国家互联网应急中心CNCERT](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNDk0MDgxMw==)
 
-[:chart_with_upwards_trend:【13/19/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNDk0MDgxMw==)
+[:chart_with_upwards_trend:【13/18/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNDk0MDgxMw==)
 
 [:camera_flash:【2026-10-14T17:46:26】](https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247502362&idx=1&sn=e2c912e450fa2695214fa7e3257d576b&scene=27#wechat_redirect)
 
