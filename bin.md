@@ -1,9 +1,9 @@
 
 ### [看雪学苑](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTc2MDYxMw==)
 
-[:chart_with_upwards_trend:【2/51/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTc2MDYxMw==)
+[:chart_with_upwards_trend:【2/58/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTc2MDYxMw==)
 
-[:camera_flash:【2026-10-14T18:06:40】](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458622815&idx=2&sn=abf4be871e03fcf018f2a318f0893680&scene=27#wechat_redirect)
+[:camera_flash:【2026-10-16T18:05:16】](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458622868&idx=4&sn=976202946225884b7d8e59848a6c9654&scene=27#wechat_redirect)
 
 致力于移动与安全研究的开发者社区，看雪学院(kanxue.com)官方微信公众帐号。
 
@@ -27,7 +27,7 @@
 
 ### [逆向有你](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4MzgzNTU5MA==)
 
-[:chart_with_upwards_trend:【0/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4MzgzNTU5MA==)
+[:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4MzgzNTU5MA==)
 
 [:camera_flash:【2026-10-13T10:10:40】](https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652042130&idx=1&sn=3d8d57863dd5b143052bd9e3af162870&scene=27#wechat_redirect)
 
@@ -40,9 +40,9 @@
 
 ### [中机博也汽车技术](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3OTU3Mjg0Nw==)
 
-[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3OTU3Mjg0Nw==)
+[:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3OTU3Mjg0Nw==)
 
-[:camera_flash:【2026-10-14T10:10:24】](https://mp.weixin.qq.com/s?__biz=Mzg3OTU3Mjg0Nw==&mid=2247485880&idx=1&sn=1adb0d707eed355ebeedddf4e86ebe32&scene=27#wechat_redirect)
+[:camera_flash:【2026-10-16T18:01:00】](https://mp.weixin.qq.com/s?__biz=Mzg3OTU3Mjg0Nw==&mid=2247485885&idx=1&sn=6cccac3c55d5f0b998d1e1063e58f6bb&scene=27#wechat_redirect)
 
 中机博也（宁波）汽车技术为主机厂在车型开发中提供造型/模型设计、车身内外饰、总布置、电器、底盘协同、CAE仿真及Benchmark等专业领域的研发服务。依托母公司中机认检在实验、检测、认证上的综合优势为客户提供从研发到认证的一站式服务。
 
@@ -53,9 +53,9 @@
 
 ### [吾爱破解论坛](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Mjc3MDM2Mw==)
 
-[:chart_with_upwards_trend:【3/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Mjc3MDM2Mw==)
+[:chart_with_upwards_trend:【4/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Mjc3MDM2Mw==)
 
-[:camera_flash:【2026-10-15T10:16:13】](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651144777&idx=1&sn=c851b44180f7ddb23d0af1e85508bfaa&scene=27#wechat_redirect)
+[:camera_flash:【2026-10-16T08:11:00】](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651144789&idx=1&sn=f8470ae3af16f8758e05d1b0279ccf3c&scene=27#wechat_redirect)
 
 吾爱破解论坛深耕软件逆向工程与反病毒技术领域，汇聚众多技术爱好者的智慧与经验，共同探索与分享前沿安全技术和防护策略，构建业内最具影响力的技术交流平台。
 

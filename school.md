@@ -1,7 +1,7 @@
 
 ### [复旦白泽战队](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
 
-[:chart_with_upwards_trend:【6/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
+[:chart_with_upwards_trend:【5/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
 
 [:camera_flash:【2026-10-10T15:00:00】](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247500048&idx=1&sn=b2d700779c8167dfd4e9253afa6d00e7&scene=27#wechat_redirect)
 
@@ -103,19 +103,6 @@
 ---
 
 
-### [御林安全](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2NTExMDQxOQ==)
-
-[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2NTExMDQxOQ==)
-
-[:camera_flash:【2026-09-16T12:00:00】](https://mp.weixin.qq.com/s?__biz=MzU2NTExMDQxOQ==&mid=2247487083&idx=1&sn=9cb876b649933f39fde6939d3a91ee58&scene=27#wechat_redirect)
-
-电子科技大学御林安全工作室官方公众号
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_fcf969a27ef2" alt="" />
-
----
-
-
 ### [XatuSec](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzMjkyMTU1OQ==)
 
 [:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzMjkyMTU1OQ==)
@@ -151,19 +138,6 @@
 本社团致力于向大家分享交流网络安全实践技术，主要以CTF竞赛、红蓝对抗、渗透测试、知识讲座等形式分享网络安全知识，培养网安人才，积极响应国家建设网络强国的号召，共筑网络安全防线。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ac1289a6ef60" alt="" />
-
----
-
-
-### [浙大网安](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5NDczNDc4NA==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5NDczNDc4NA==)
-
-[:camera_flash:【2026-09-16T12:21:36】](https://mp.weixin.qq.com/s?__biz=Mzg5NDczNDc4NA==&mid=2247496250&idx=1&sn=e3040eab1ce54c16b63dfc54476a76dc&scene=27#wechat_redirect)
-
-浙江大学网络空间安全学院/浙江大学网络空间安全研究中心
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e603b55057e7" alt="" />
 
 ---
 
@@ -688,6 +662,19 @@ Covteam工作室，成立于2005年。是以西华大学在校本科生研究生
 ---
 
 
+### [浙大网安](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5NDczNDc4NA==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5NDczNDc4NA==)
+
+[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
+
+浙江大学网络空间安全学院/浙江大学网络空间安全研究中心
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e603b55057e7" alt="" />
+
+---
+
+
 ### [Birkenwald](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxNDQ2NDE1MA==)
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxNDQ2NDE1MA==)
@@ -723,6 +710,19 @@ Birkenwald安全团队 --来自哈尔滨理工大学
 江西理工大学信息安全工作室——Stalker战队公众号
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ef9d824452a5" alt="" />
+
+---
+
+
+### [御林安全](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2NTExMDQxOQ==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2NTExMDQxOQ==)
+
+[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
+
+电子科技大学御林安全工作室官方公众号
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_fcf969a27ef2" alt="" />
 
 ---
 

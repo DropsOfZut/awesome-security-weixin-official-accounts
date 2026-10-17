@@ -14,9 +14,9 @@
 
 ### [IoT物联网技术](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
 
-[:chart_with_upwards_trend:【24/25/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
+[:chart_with_upwards_trend:【24/26/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
 
-[:camera_flash:【2026-10-15T08:21:00】](https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&mid=2454949114&idx=1&sn=c4c0c6c95cd9b71ffcb67d643b332c4a&scene=27#wechat_redirect)
+[:camera_flash:【2026-10-16T08:23:00】](https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&mid=2454949112&idx=1&sn=e1ebc36a41e30a78650b1615aed1010a&scene=27#wechat_redirect)
 
 云计算、物联网、大模型暗中观察小分队
 
@@ -27,9 +27,9 @@
 
 ### [Gh0xE9](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNTc5MTMyNg==)
 
-[:chart_with_upwards_trend:【1/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNTc5MTMyNg==)
+[:chart_with_upwards_trend:【1/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNTc5MTMyNg==)
 
-[:camera_flash:【2026-10-11T12:51:54】](https://mp.weixin.qq.com/s?__biz=MzAwNTc5MTMyNg==&mid=2247501786&idx=1&sn=cc75d4d1009d40e6039a171b832fdd51&scene=27#wechat_redirect)
+[:camera_flash:【2026-10-16T20:02:01】](https://mp.weixin.qq.com/s?__biz=MzAwNTc5MTMyNg==&mid=2247501809&idx=1&sn=13f5227fd80adb1306a980e640e4f221&scene=27#wechat_redirect)
 
 做勾八安全，卷的要死
 
@@ -38,28 +38,28 @@
 ---
 
 
-### [全频带阻塞干扰](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzMzE2OTQyNA==)
-
-[:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzMzE2OTQyNA==)
-
-[:camera_flash:【2026-10-14T09:49:24】](https://mp.weixin.qq.com/s?__biz=MzIzMzE2OTQyNA==&mid=2648959566&idx=1&sn=fab2c7d1bc3eee22be210ba9a4edee8c&scene=27#wechat_redirect)
-
-坚持以非正常体位探寻未知信号。 国内商业安全、TSCM技术反窃密、隐私保护及物理安全领域前行者。持久关注通信安全、海外威胁情报、犯罪防御与群氓效应。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_685fcc00c91c" alt="" />
-
----
-
-
 ### [电子物证](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNDcwMDgzMA==)
 
-[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNDcwMDgzMA==)
+[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNDcwMDgzMA==)
 
-[:camera_flash:【2026-10-09T16:10:17】](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651049172&idx=1&sn=5f75bff3433eaedf7392bed9ce7eaecf&scene=27#wechat_redirect)
+[:camera_flash:【2026-10-16T00:00:00】](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651049203&idx=2&sn=20425e443ccab83becd092ea3ed12355&scene=27#wechat_redirect)
 
 关注刑事证据科学前沿发展，传递电子物证技术最新趋势
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f624bd447b0f" alt="" />
+
+---
+
+
+### [全频带阻塞干扰](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzMzE2OTQyNA==)
+
+[:chart_with_upwards_trend:【3/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzMzE2OTQyNA==)
+
+[:camera_flash:【2026-10-15T18:09:39】](https://mp.weixin.qq.com/s?__biz=MzIzMzE2OTQyNA==&mid=2648959576&idx=1&sn=fb2792445f991d47d58c96f37362b0dd&scene=27#wechat_redirect)
+
+坚持以非正常体位探寻未知信号。 国内商业安全、TSCM技术反窃密、隐私保护及物理安全领域前行者。持久关注通信安全、海外威胁情报、犯罪防御与群氓效应。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_685fcc00c91c" alt="" />
 
 ---
 
@@ -73,6 +73,19 @@
 电子数据取证与应急响应从业者交流平台
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e0f7dbe22a1d" alt="" />
+
+---
+
+
+### [信睿网络](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MDA2NjExMA==)
+
+[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MDA2NjExMA==)
+
+[:camera_flash:【2026-10-16T17:25:00】](https://mp.weixin.qq.com/s?__biz=Mzg4MDA2NjExMA==&mid=2247490567&idx=1&sn=5e06920a1f6598ba3e86d7e28d88e336&scene=27#wechat_redirect)
+
+吉林省信睿网络官方公众号
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_18cae47da613" alt="" />
 
 ---
 
@@ -268,19 +281,6 @@
 关注汽车网络安全，定期发布最专业的汽车网络安全攻防实验室相关实验结果，公开一些汽车网络攻防实验的细节，公布发现的汽车安全漏洞以帮助生产厂家认识到安全隐患！针对联网化的汽车网络安全性提供研究测试和公开报告！
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_85e019862246" alt="" />
-
----
-
-
-### [信睿网络](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MDA2NjExMA==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MDA2NjExMA==)
-
-[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
-
-吉林省信睿网络官方公众号
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_18cae47da613" alt="" />
 
 ---
 
