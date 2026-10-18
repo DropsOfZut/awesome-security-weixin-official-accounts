@@ -1,7 +1,7 @@
 
 ### [Hacking黑白红](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NDYwMDA1NA==)
 
-[:chart_with_upwards_trend:【76/79/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NDYwMDA1NA==)
+[:chart_with_upwards_trend:【74/77/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NDYwMDA1NA==)
 
 [:camera_flash:【2026-10-16T10:00:00】](https://mp.weixin.qq.com/s?__biz=Mzg2NDYwMDA1NA==&mid=2247557612&idx=1&sn=7b488e20bfb242b85dc975a566fff6d1&scene=27#wechat_redirect)
 
@@ -14,7 +14,7 @@
 
 ### [安全学习那些事儿](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNTI2NTQxOA==)
 
-[:chart_with_upwards_trend:【0/68/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNTI2NTQxOA==)
+[:chart_with_upwards_trend:【0/64/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNTI2NTQxOA==)
 
 [:camera_flash:【2026-10-16T15:00:00】](https://mp.weixin.qq.com/s?__biz=MzkxNTI2NTQxOA==&mid=2247505501&idx=1&sn=31142fc4c30e6fdc7427a3bfa5de7f8f&scene=27#wechat_redirect)
 
@@ -27,7 +27,7 @@
 
 ### [网络安全老宋](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxMzIxMjM3Ng==)
 
-[:chart_with_upwards_trend:【0/61/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxMzIxMjM3Ng==)
+[:chart_with_upwards_trend:【0/58/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxMzIxMjM3Ng==)
 
 [:camera_flash:【2026-10-16T12:00:00】](https://mp.weixin.qq.com/s?__biz=MzAxMzIxMjM3Ng==&mid=2247488543&idx=2&sn=886aafd06c990cb67c28de87b9242ecc&scene=27#wechat_redirect)
 
@@ -40,7 +40,7 @@
 
 ### [利刃信安攻防实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzU1Mjk3MDY1OA==)
 
-[:chart_with_upwards_trend:【18/40/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU1Mjk3MDY1OA==)
+[:chart_with_upwards_trend:【18/39/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU1Mjk3MDY1OA==)
 
 [:camera_flash:【2026-10-11T19:52:03】](https://mp.weixin.qq.com/s?__biz=MzU1Mjk3MDY1OA==&mid=2247527107&idx=1&sn=c3327b433da2048dcb6a404058b4a340&scene=27#wechat_redirect)
 
@@ -53,7 +53,7 @@
 
 ### [安全分析与研究](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4ODEyODA3MQ==)
 
-[:chart_with_upwards_trend:【28/28/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4ODEyODA3MQ==)
+[:chart_with_upwards_trend:【27/27/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4ODEyODA3MQ==)
 
 [:camera_flash:【2026-10-15T22:00:00】](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247497292&idx=1&sn=256364722947e58c16550d87fe3c1937&scene=27#wechat_redirect)
 
@@ -131,7 +131,7 @@ From zero to one
 
 ### [枯藤闲画云](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxODg2MDU0MA==)
 
-[:chart_with_upwards_trend:【14/16/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxODg2MDU0MA==)
+[:chart_with_upwards_trend:【13/15/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxODg2MDU0MA==)
 
 [:camera_flash:【2026-10-16T08:30:00】](https://mp.weixin.qq.com/s?__biz=MzAxODg2MDU0MA==&mid=2247486322&idx=1&sn=78a704c2130c5fb2db4312c45e985c25&scene=27#wechat_redirect)
 
@@ -144,7 +144,7 @@ From zero to one
 
 ### [小谢取证](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MTcyMTc5Nw==)
 
-[:chart_with_upwards_trend:【12/14/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MTcyMTc5Nw==)
+[:chart_with_upwards_trend:【11/13/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MTcyMTc5Nw==)
 
 [:camera_flash:【2026-10-11T17:11:17】](https://mp.weixin.qq.com/s?__biz=Mzg4MTcyMTc5Nw==&mid=2247493328&idx=1&sn=b8b9f88460a1437d1cf79b0744f5d576&scene=27#wechat_redirect)
 
@@ -248,7 +248,7 @@ HACK之道，专注于红队攻防、实战技巧、CTF比赛、安全开发、�
 
 ### [小刘说攻防](http://wechat.doonsec.com/wechat_echarts/?biz=MzY4NzAyMDUxOQ==)
 
-[:chart_with_upwards_trend:【9/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzY4NzAyMDUxOQ==)
+[:chart_with_upwards_trend:【8/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzY4NzAyMDUxOQ==)
 
 [:camera_flash:【2026-09-28T17:31:41】](https://mp.weixin.qq.com/s?__biz=MzY4NzAyMDUxOQ==&mid=2247486368&idx=1&sn=0c7daeadfc39f050650cfd9cc2da30ad&scene=27#wechat_redirect)
 
@@ -402,19 +402,6 @@ C/ASM程序员之闲言碎语
 ---
 
 
-### [释然IT杂谈](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxMTEyOTM2Ng==)
-
-[:chart_with_upwards_trend:【2/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxMTEyOTM2Ng==)
-
-[:camera_flash:【2026-10-12T08:18:00】](https://mp.weixin.qq.com/s?__biz=MzIxMTEyOTM2Ng==&mid=2247507478&idx=1&sn=9f0793cfb1195ce5a847c8c27629ee86&scene=27#wechat_redirect)
-
-本公众号专注于分享网络工程（思科、华为），系统运维（Linux）、以及安全等方面学习资源，以及相关技术文章、学习视频和学习书籍等。期待您的加入~~~关注回复“724”可领取免费学习资料（含有书籍）。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ad4551519762" alt="" />
-
----
-
-
 ### [希潭实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzMjI1NjI3Ng==)
 
 [:chart_with_upwards_trend:【2/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzMjI1NjI3Ng==)
@@ -467,15 +454,15 @@ ABC_123，2008年入行网络安全，某部委网络安保工作优秀个人，
 ---
 
 
-### [安全小飞侠](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwMzAwOTQ5Nw==)
+### [释然IT杂谈](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxMTEyOTM2Ng==)
 
-[:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwMzAwOTQ5Nw==)
+[:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxMTEyOTM2Ng==)
 
-[:camera_flash:【2026-10-06T21:29:07】](https://mp.weixin.qq.com/s?__biz=MzAwMzAwOTQ5Nw==&mid=2650942092&idx=1&sn=00d6ca3834148cc43f14020a86115af3&scene=27#wechat_redirect)
+[:camera_flash:【2026-10-12T08:18:00】](https://mp.weixin.qq.com/s?__biz=MzIxMTEyOTM2Ng==&mid=2247507478&idx=1&sn=9f0793cfb1195ce5a847c8c27629ee86&scene=27#wechat_redirect)
 
-长期积累、总结分类、深度思考、落地实践，记录一个普通网安从业人员的所感所想！
+本公众号专注于分享网络工程（思科、华为），系统运维（Linux）、以及安全等方面学习资源，以及相关技术文章、学习视频和学习书籍等。期待您的加入~~~关注回复“724”可领取免费学习资料（含有书籍）。
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_45c59cdac0a0" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ad4551519762" alt="" />
 
 ---
 
@@ -593,6 +580,19 @@ Information Security Technology
 分享一点网络安全知识，ivu123ivu
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_cdddb90607ab" alt="" />
+
+---
+
+
+### [安全小飞侠](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwMzAwOTQ5Nw==)
+
+[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwMzAwOTQ5Nw==)
+
+[:camera_flash:【2026-10-06T21:29:07】](https://mp.weixin.qq.com/s?__biz=MzAwMzAwOTQ5Nw==&mid=2650942092&idx=1&sn=00d6ca3834148cc43f14020a86115af3&scene=27#wechat_redirect)
+
+长期积累、总结分类、深度思考、落地实践，记录一个普通网安从业人员的所感所想！
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_45c59cdac0a0" alt="" />
 
 ---
 
