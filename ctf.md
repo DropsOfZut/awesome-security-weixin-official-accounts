@@ -1,9 +1,9 @@
 
 ### [赛查查](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NTU0ODc0Nw==)
 
-[:chart_with_upwards_trend:【3/105/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NTU0ODc0Nw==)
+[:chart_with_upwards_trend:【3/116/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NTU0ODc0Nw==)
 
-[:camera_flash:【2026-10-14T14:48:04】](https://mp.weixin.qq.com/s?__biz=Mzk0NTU0ODc0Nw==&mid=2247499654&idx=5&sn=ab0c7f4846984ed3e54c6edb6e84d9d9&scene=27#wechat_redirect)
+[:camera_flash:【2026-10-18T09:00:00】](https://mp.weixin.qq.com/s?__biz=Mzk0NTU0ODc0Nw==&mid=2247499690&idx=4&sn=76d4195c4c328ce1e58a69679eaefbc3&scene=27#wechat_redirect)
 
 赛查查是探索网络安全和数据安全赛事领域的专业指南。提供及时的赛事信息和资源。关注我们，与我们一起助力赛事以及行业的发展！
 
@@ -38,15 +38,15 @@
 ---
 
 
-### [XCTF联赛](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
+### [PolarCTF](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzY2OTQ0Mg==)
 
-[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
+[:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzY2OTQ0Mg==)
 
-[:camera_flash:【2026-10-16T09:11:14】](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247516672&idx=1&sn=54477b58eb5cc07e7fc665881fa31ce5&scene=27#wechat_redirect)
+[:camera_flash:【2026-10-18T19:05:41】](https://mp.weixin.qq.com/s?__biz=MzU5NzY2OTQ0Mg==&mid=2247485674&idx=1&sn=042f5ad28b74254c61227de0fe2a3c9d&scene=27#wechat_redirect)
 
-发现和培养网络安全技术人才。
+本公众号为PolarD&amp;N实验室的唯一公众号。
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_3d7c7f90f79f" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a45c404c0746" alt="" />
 
 ---
 
@@ -64,15 +64,15 @@
 ---
 
 
-### [PolarCTF](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzY2OTQ0Mg==)
+### [XCTF联赛](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
 
-[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzY2OTQ0Mg==)
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
 
-[:camera_flash:【2026-09-23T16:30:00】](https://mp.weixin.qq.com/s?__biz=MzU5NzY2OTQ0Mg==&mid=2247485659&idx=1&sn=07b0916b10c280e7c9a7c84362ab4a6b&scene=27#wechat_redirect)
+[:camera_flash:【2026-10-16T09:11:14】](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247516672&idx=1&sn=54477b58eb5cc07e7fc665881fa31ce5&scene=27#wechat_redirect)
 
-本公众号为PolarD&amp;N实验室的唯一公众号。
+发现和培养网络安全技术人才。
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a45c404c0746" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_3d7c7f90f79f" alt="" />
 
 ---
 

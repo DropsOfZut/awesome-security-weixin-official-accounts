@@ -16,7 +16,7 @@
 
 [:chart_with_upwards_trend:【7/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
 
-[:camera_flash:【2026-10-15T18:00:00】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247523422&idx=2&sn=16ea3585a193fd9a8166f077b50f7c6b&scene=27#wechat_redirect)
+[:camera_flash:【2026-10-15T18:00:00】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247523422&idx=1&sn=8c031df41bdc0037b7451282eb430edc&scene=27#wechat_redirect)
 
 字节跳动的技术实践分享
 
@@ -27,9 +27,9 @@
 
 ### [腾讯技术工程](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
 
-[:chart_with_upwards_trend:【6/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
+[:chart_with_upwards_trend:【6/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
 
-[:camera_flash:【2026-10-16T17:36:00】](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649804394&idx=1&sn=e5c46efb358d97b9f327f49175a8da53&scene=27#wechat_redirect)
+[:camera_flash:【2026-10-19T17:36:00】](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649804707&idx=1&sn=9291fb648a66fa13fa295fc5a2156b84&scene=27#wechat_redirect)
 
 腾讯技术官方号。腾讯技术创新、前沿领域发布解读平台。
 
@@ -53,9 +53,9 @@
 
 ### [北邮GAMMALab](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzE1MTQzNw==)
 
-[:chart_with_upwards_trend:【1/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzE1MTQzNw==)
+[:chart_with_upwards_trend:【2/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzE1MTQzNw==)
 
-[:camera_flash:【2026-10-15T13:40:24】](https://mp.weixin.qq.com/s?__biz=Mzg4MzE1MTQzNw==&mid=2247494146&idx=1&sn=0bc233c29429753ac28e4a163253bc16&scene=27#wechat_redirect)
+[:camera_flash:【2026-10-19T13:08:12】](https://mp.weixin.qq.com/s?__biz=Mzg4MzE1MTQzNw==&mid=2247494176&idx=1&sn=41115b3d4e4e7b06ab6fcc8ed7a59c28&scene=27#wechat_redirect)
 
 北邮图数据挖掘与机器学习实验室
 
@@ -112,6 +112,19 @@
 博主站点:www.s-sdlc.com 分享软件开发生命周期,致力于分享知识、同时会分享网络安全相关的知识点和技能点
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4270dc91534e" alt="" />
+
+---
+
+
+### [FOFA](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNzIwMzY4OQ==)
+
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNzIwMzY4OQ==)
+
+[:camera_flash:【2026-10-19T14:00:00】](https://mp.weixin.qq.com/s?__biz=MzkyNzIwMzY4OQ==&mid=2247490341&idx=1&sn=3fbb08484bd0da5cb15268604d94d5eb&scene=27#wechat_redirect)
+
+FOFA是由华顺信安科技有限公司开发的一款网络空间资产搜索引擎。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_d79c8913fde8" alt="" />
 
 ---
 
@@ -450,19 +463,6 @@ Pinpoint，专业代码审计团队。感谢您的关注！
 关注我，及时收取你遇到的问题
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_c29b8eca5b6e" alt="" />
-
----
-
-
-### [FOFA](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNzIwMzY4OQ==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNzIwMzY4OQ==)
-
-[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
-
-FOFA是由华顺信安科技有限公司开发的一款网络空间资产搜索引擎。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_d79c8913fde8" alt="" />
 
 ---
 

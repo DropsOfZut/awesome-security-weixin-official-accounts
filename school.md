@@ -14,9 +14,9 @@
 
 ### [驯海隔壁白帽子](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0ODU4NjIzNA==)
 
-[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0ODU4NjIzNA==)
+[:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0ODU4NjIzNA==)
 
-[:camera_flash:【2026-09-30T18:16:25】](https://mp.weixin.qq.com/s?__biz=Mzk0ODU4NjIzNA==&mid=2247485665&idx=2&sn=0875fccb9e016f43cd17ebe95306446e&scene=27#wechat_redirect)
+[:camera_flash:【2026-10-18T20:41:34】](https://mp.weixin.qq.com/s?__biz=Mzk0ODU4NjIzNA==&mid=2247485682&idx=1&sn=d4f827ac9d6357ff78bf9bd9cb9b5ac4&scene=27#wechat_redirect)
 
 我们是一群专注网络安全的爱好者，希望通过轻松有趣的方式，把实用的技术知识分享给大家。带来新鲜干货，一起筑牢网络安全屏障，安心畅游数字世界！
 
@@ -27,9 +27,9 @@
 
 ### [谛听ditecting](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzQyOTU0Nw==)
 
-[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzQyOTU0Nw==)
+[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzQyOTU0Nw==)
 
-[:camera_flash:【2026-10-07T09:00:00】](https://mp.weixin.qq.com/s?__biz=MzU3MzQyOTU0Nw==&mid=2247503872&idx=1&sn=ed70202a427e87d221765630f1de09ce&scene=27#wechat_redirect)
+[:camera_flash:【2026-10-20T08:00:00】](https://mp.weixin.qq.com/s?__biz=MzU3MzQyOTU0Nw==&mid=2247503909&idx=1&sn=c94373390598dd7baf7d7a50768ef9c5&scene=27#wechat_redirect)
 
 东北大学“谛听”网络安全团队
 
@@ -40,9 +40,9 @@
 
 ### [NISL实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxMTEwOTA3OA==)
 
-[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxMTEwOTA3OA==)
+[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxMTEwOTA3OA==)
 
-[:camera_flash:【2026-10-10T17:00:00】](https://mp.weixin.qq.com/s?__biz=MzUxMTEwOTA3OA==&mid=2247485835&idx=1&sn=13732eb47d8b8b1db141b33b2b2e53ce&scene=27#wechat_redirect)
+[:camera_flash:【2026-10-19T21:00:00】](https://mp.weixin.qq.com/s?__biz=MzUxMTEwOTA3OA==&mid=2247485863&idx=1&sn=103bcdc03799dc8be252605969a5ce48&scene=27#wechat_redirect)
 
 网络与信息安全实验室(NISL@THU)，专注于网络、系统、应用、人工智能安全教学与研究，在国际四大安全会议发表三十余篇论文，成果在业界产生了广泛影响力。孕育了蓝莲花、紫荆花等知名战队，发起了网安国际学术论坛InForSec。
 
@@ -51,15 +51,15 @@
 ---
 
 
-### [蝰蛇信息安全实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NzgyNjUwNA==)
+### [三叶草小组Syclover](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzOTg0NjYzNg==)
 
-[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NzgyNjUwNA==)
+[:chart_with_upwards_trend:【1/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzOTg0NjYzNg==)
 
-[:camera_flash:【2026-09-29T14:04:24】](https://mp.weixin.qq.com/s?__biz=MzA3NzgyNjUwNA==&mid=2247493338&idx=1&sn=373db476812dbdea9ee87c721acf0c32&scene=27#wechat_redirect)
+[:camera_flash:【2026-10-19T18:41:27】](https://mp.weixin.qq.com/s?__biz=MzIzOTg0NjYzNg==&mid=2247491355&idx=1&sn=e7f62c10ca296018caf66e1939c0cdf7&scene=27#wechat_redirect)
 
-湖南农业大学蝰蛇安全实验室
+一个专注于网络空间安全的高校技术团队，成立于2005年3月，主要研究方向有渗透测试、逆向工程、移动安全、安全编程、漏洞利用等；公众号定期推送小组成员原创文章
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_638eab2e92c7" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_962842f4917b" alt="" />
 
 ---
 
@@ -116,15 +116,28 @@
 ---
 
 
-### [三叶草小组Syclover](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzOTg0NjYzNg==)
+### [蝰蛇信息安全实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NzgyNjUwNA==)
 
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzOTg0NjYzNg==)
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NzgyNjUwNA==)
 
-[:camera_flash:【2026-10-03T22:30:48】](https://mp.weixin.qq.com/s?__biz=MzIzOTg0NjYzNg==&mid=2247491321&idx=1&sn=ee8c88f8537d9e7ebcd3227a95e73e40&scene=27#wechat_redirect)
+[:camera_flash:【2026-09-29T14:04:24】](https://mp.weixin.qq.com/s?__biz=MzA3NzgyNjUwNA==&mid=2247493338&idx=1&sn=373db476812dbdea9ee87c721acf0c32&scene=27#wechat_redirect)
 
-一个专注于网络空间安全的高校技术团队，成立于2005年3月，主要研究方向有渗透测试、逆向工程、移动安全、安全编程、漏洞利用等；公众号定期推送小组成员原创文章
+湖南农业大学蝰蛇安全实验室
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_962842f4917b" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_638eab2e92c7" alt="" />
+
+---
+
+
+### [广工AD攻防实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3Njc3NDQ5OA==)
+
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3Njc3NDQ5OA==)
+
+[:camera_flash:【2026-10-17T11:17:57】](https://mp.weixin.qq.com/s?__biz=MzU3Njc3NDQ5OA==&mid=2247488434&idx=1&sn=82de15758a5c7bad9fb362ac2d0d383e&scene=27#wechat_redirect)
+
+广东工业大学A&amp;D（攻击与防御）工作室
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_c375cb5a0589" alt="" />
 
 ---
 
@@ -320,19 +333,6 @@
 山东警察学院在校生团队，不定期更新网络安全相关内容，与各位师傅相互学习，相互进步。更多丰富内容请关注公众号：山警网络空间安全实验室。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0ee4069dd7cc" alt="" />
-
----
-
-
-### [广工AD攻防实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3Njc3NDQ5OA==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3Njc3NDQ5OA==)
-
-[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
-
-广东工业大学A&amp;D（攻击与防御）工作室
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_c375cb5a0589" alt="" />
 
 ---
 
