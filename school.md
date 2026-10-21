@@ -55,7 +55,7 @@
 
 [:chart_with_upwards_trend:【1/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzOTg0NjYzNg==)
 
-[:camera_flash:【2026-10-19T18:41:27】](https://mp.weixin.qq.com/s?__biz=MzIzOTg0NjYzNg==&mid=2247491355&idx=1&sn=e7f62c10ca296018caf66e1939c0cdf7&scene=27#wechat_redirect)
+[:camera_flash:【2026-10-19T18:41:27】](https://mp.weixin.qq.com/s?__biz=MzIzOTg0NjYzNg==&mid=2247491355&idx=2&sn=5a768082ec53e5044234a23a95b5f975&scene=27#wechat_redirect)
 
 一个专注于网络空间安全的高校技术团队，成立于2005年3月，主要研究方向有渗透测试、逆向工程、移动安全、安全编程、漏洞利用等；公众号定期推送小组成员原创文章
 

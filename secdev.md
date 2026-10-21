@@ -1,9 +1,9 @@
 
 ### [数世咨询](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
 
-[:chart_with_upwards_trend:【3/33/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
+[:chart_with_upwards_trend:【4/34/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
 
-[:camera_flash:【2026-10-16T14:00:00】](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247544204&idx=1&sn=76bb53fd793c1a24344e69b789c602f1&scene=27#wechat_redirect)
+[:camera_flash:【2026-10-20T16:00:00】](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247544253&idx=3&sn=faa768c44313bd04cb33524661480221&scene=27#wechat_redirect)
 
 中国数字产业领域中立的第三方调研机构，提供网络安全行业的调查、研究与咨询服务。
 
@@ -14,9 +14,9 @@
 
 ### [掌控安全EDU](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
 
-[:chart_with_upwards_trend:【20/24/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
+[:chart_with_upwards_trend:【21/24/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
 
-[:camera_flash:【2026-10-19T12:06:56】](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247557169&idx=2&sn=d0b0a02e8255acdef1d660b9a7e65cbf&scene=27#wechat_redirect)
+[:camera_flash:【2026-10-20T13:45:35】](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247557209&idx=2&sn=a686c37ae76ffa52d54bba4f584df61e&scene=27#wechat_redirect)
 
 安全教程\\高质量文章\\面试经验分享，尽在#掌控安全EDU#
 
@@ -27,7 +27,7 @@
 
 ### [全栈网络空间安全](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
 
-[:chart_with_upwards_trend:【22/22/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
+[:chart_with_upwards_trend:【21/21/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
 
 [:camera_flash:【2026-10-18T00:00:00】](https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247518032&idx=1&sn=4fd920f719043e24abc5da0aae547c6a&scene=27#wechat_redirect)
 
@@ -40,9 +40,9 @@
 
 ### [企业安全实践](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NjU0OTQyMg==)
 
-[:chart_with_upwards_trend:【9/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NjU0OTQyMg==)
+[:chart_with_upwards_trend:【10/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NjU0OTQyMg==)
 
-[:camera_flash:【2026-10-16T09:33:48】](https://mp.weixin.qq.com/s?__biz=Mzg3NjU0OTQyMg==&mid=2247484581&idx=1&sn=7a3c505478624a1bd165b558191ce1ab&scene=27#wechat_redirect)
+[:camera_flash:【2026-10-20T22:19:20】](https://mp.weixin.qq.com/s?__biz=Mzg3NjU0OTQyMg==&mid=2247484586&idx=1&sn=4829cd0eb4f71ee144b19fb9e1adf084&scene=27#wechat_redirect)
 
 企业安全实践经验分享，包括安全运营、应急响应、安全平台。
 
@@ -55,7 +55,7 @@
 
 [:chart_with_upwards_trend:【0/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3ODE0NDA4MA==)
 
-[:camera_flash:【2026-10-16T11:00:00】](https://mp.weixin.qq.com/s?__biz=MzA3ODE0NDA4MA==&mid=2649405040&idx=1&sn=8e822d84dc646c0ff8bd0fdc0e6badb8&scene=27#wechat_redirect)
+[:camera_flash:【2026-10-20T14:38:46】](https://mp.weixin.qq.com/s?__biz=MzA3ODE0NDA4MA==&mid=2649405048&idx=1&sn=9d2c0b90bbba5cba802b534a869816eb&scene=27#wechat_redirect)
 
 中国网络空间安全协会是由国内从事网络空间安全相关产业、教育、科研、应用的机构、企业及个人共同自愿结成的全国性、行业性、非营利性社会组织。
 
@@ -103,24 +103,11 @@
 ---
 
 
-### [OWASP](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTk5NDMyMw==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTk5NDMyMw==)
-
-[:camera_flash:【2026-09-20T14:19:17】](https://mp.weixin.qq.com/s?__biz=MjM5OTk5NDMyMw==&mid=2652099222&idx=1&sn=5d8ed2aa019b74ad87a0afaff806c7cd&scene=27#wechat_redirect)
-
-OWASP中国，SecZone互联网安全研究中心官方平台
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_6977ebcf9804" alt="" />
-
----
-
-
 ### [君哥的体历](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MjQ1NTA4MA==)
 
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MjQ1NTA4MA==)
+[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MjQ1NTA4MA==)
 
-[:camera_flash:【2026-10-16T08:30:00】](https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247492599&idx=1&sn=2813a6ca5755db6ea2b3fd15ad9df78f&scene=27#wechat_redirect)
+[:camera_flash:【2026-10-20T17:00:00】](https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247492603&idx=1&sn=b946c7cedd496cb03e3920efb438b439&scene=27#wechat_redirect)
 
 闲暇时间，逼迫自己，记录分享体验与经历，不求正确统一，但求真、善、美。
 
@@ -151,6 +138,19 @@ OWASP中国，SecZone互联网安全研究中心官方平台
 悬镜安全，DevSecOps敏捷安全领导者，创始人子芽。专注于以代码疫苗技术为内核，通过原创专利级第三代DevSecOps智适应威胁管理体系，持续赋能数千家行业标杆用户，帮助其构筑起内生积极防御体系。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_7dd1a6c278da" alt="" />
+
+---
+
+
+### [OWASP](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTk5NDMyMw==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTk5NDMyMw==)
+
+[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
+
+OWASP中国，SecZone互联网安全研究中心官方平台
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_6977ebcf9804" alt="" />
 
 ---
 

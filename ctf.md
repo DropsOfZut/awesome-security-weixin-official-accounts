@@ -1,9 +1,9 @@
 
 ### [赛查查](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NTU0ODc0Nw==)
 
-[:chart_with_upwards_trend:【3/116/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NTU0ODc0Nw==)
+[:chart_with_upwards_trend:【3/124/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NTU0ODc0Nw==)
 
-[:camera_flash:【2026-10-18T09:00:00】](https://mp.weixin.qq.com/s?__biz=Mzk0NTU0ODc0Nw==&mid=2247499690&idx=4&sn=76d4195c4c328ce1e58a69679eaefbc3&scene=27#wechat_redirect)
+[:camera_flash:【2026-10-20T15:29:22】](https://mp.weixin.qq.com/s?__biz=Mzk0NTU0ODc0Nw==&mid=2247499723&idx=4&sn=5b9b5ce392a07ddab225d8b0c88d1db4&scene=27#wechat_redirect)
 
 赛查查是探索网络安全和数据安全赛事领域的专业指南。提供及时的赛事信息和资源。关注我们，与我们一起助力赛事以及行业的发展！
 
@@ -27,7 +27,7 @@
 
 ### [强网竞赛](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjY3NDQ2Ng==)
 
-[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjY3NDQ2Ng==)
+[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjY3NDQ2Ng==)
 
 [:camera_flash:【2026-10-16T15:00:59】](https://mp.weixin.qq.com/s?__biz=Mzg4MjY3NDQ2Ng==&mid=2247488741&idx=1&sn=69fc4de848407666bd5b8df666099b98&scene=27#wechat_redirect)
 
@@ -47,19 +47,6 @@
 本公众号为PolarD&amp;N实验室的唯一公众号。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a45c404c0746" alt="" />
-
----
-
-
-### [西湖论剑网络安全技能大赛](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0MjcwNzI2NQ==)
-
-[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0MjcwNzI2NQ==)
-
-[:camera_flash:【2026-09-21T09:34:16】](https://mp.weixin.qq.com/s?__biz=MzU0MjcwNzI2NQ==&mid=2247484924&idx=1&sn=f491e5a592938cd46be2e4d50aadc2fe&scene=27#wechat_redirect)
-
-西湖论剑网络安全技能大赛已连续举办了四届，为全国网络安全人才展示水平、竞技比拼和交流互动提供了舞台！新一届西湖论剑网络安全技能大赛的号角已经吹响，详情请戳历史文章！
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_52aff0cfa8c6" alt="" />
 
 ---
 
@@ -99,6 +86,19 @@
 春秋伽玛，为广大网络安全爱好者传递网络安全大赛相关赛事信息，提供优质的赛事服务平台
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_07fa2c2720be" alt="" />
+
+---
+
+
+### [西湖论剑网络安全技能大赛](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0MjcwNzI2NQ==)
+
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0MjcwNzI2NQ==)
+
+[:camera_flash:【2026-09-21T09:34:16】](https://mp.weixin.qq.com/s?__biz=MzU0MjcwNzI2NQ==&mid=2247484924&idx=1&sn=f491e5a592938cd46be2e4d50aadc2fe&scene=27#wechat_redirect)
+
+西湖论剑网络安全技能大赛已连续举办了四届，为全国网络安全人才展示水平、竞技比拼和交流互动提供了舞台！新一届西湖论剑网络安全技能大赛的号角已经吹响，详情请戳历史文章！
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_52aff0cfa8c6" alt="" />
 
 ---
 

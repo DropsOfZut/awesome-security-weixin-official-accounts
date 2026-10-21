@@ -1,9 +1,9 @@
 
 ### [泷羽Sec-幽居初夏](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk1Nzk0MDM4NA==)
 
-[:chart_with_upwards_trend:【11/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk1Nzk0MDM4NA==)
+[:chart_with_upwards_trend:【12/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk1Nzk0MDM4NA==)
 
-[:camera_flash:【2026-10-19T18:58:23】](https://mp.weixin.qq.com/s?__biz=Mzk1Nzk0MDM4NA==&mid=2247483788&idx=1&sn=1f6492ab745cf016c1561c02d72c3c5c&scene=27#wechat_redirect)
+[:camera_flash:【2026-10-21T07:00:00】](https://mp.weixin.qq.com/s?__biz=Mzk1Nzk0MDM4NA==&mid=2247483816&idx=1&sn=43644b47a763fe87db660e69912281e7&scene=27#wechat_redirect)
 
 分享挖斗技巧和实战，收集和开发各种渗透工具与使用，泷羽sec团队核心成员。声明：在此公众号上学习的任何渗透技能和工具使用，切勿非法使用，一切后果自行承担。
 
@@ -34,6 +34,19 @@ B站：泷羽Sec，团队专注于网络安全领域的内容创作与分享，�
 分享网络安，渗透测试，红蓝攻防全相关经验
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_3775f9f74452" alt="" />
+
+---
+
+
+### [泷羽Sec-王也安全](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDg3MDEzOQ==)
+
+[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDg3MDEzOQ==)
+
+[:camera_flash:【2026-10-20T12:00:00】](https://mp.weixin.qq.com/s?__biz=MzkyNDg3MDEzOQ==&mid=2247486777&idx=1&sn=7481526aed06bb6059975464b3d85793&scene=27#wechat_redirect)
+
+一个致力于分享网络安全事业的公众号，不定时发布与网络安全有关的分享，也为像我一样想进入网络安全但是不知道怎么开始的小白成为指明道路的灯塔。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_af5030e4cba3" alt="" />
 
 ---
 
@@ -73,19 +86,6 @@ B站：泷羽Sec，团队专注于网络安全领域的内容创作与分享，�
 B站up:泷羽Sec，专注于网络安全领域的内容创作与分享，为网络安全而战。  一个记录分享自己学习过程的公众号
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_964471231fd9" alt="" />
-
----
-
-
-### [泷羽Sec-王也安全](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDg3MDEzOQ==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDg3MDEzOQ==)
-
-[:camera_flash:【2026-10-11T16:17:03】](https://mp.weixin.qq.com/s?__biz=MzkyNDg3MDEzOQ==&mid=2247486770&idx=1&sn=e2b7d78dfaedb93aceb402123cc0273e&scene=27#wechat_redirect)
-
-一个致力于分享网络安全事业的公众号，不定时发布与网络安全有关的分享，也为像我一样想进入网络安全但是不知道怎么开始的小白成为指明道路的灯塔。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_af5030e4cba3" alt="" />
 
 ---
 
