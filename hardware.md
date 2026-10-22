@@ -1,9 +1,9 @@
 
 ### [IoVSecurity](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
 
-[:chart_with_upwards_trend:【0/32/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
+[:chart_with_upwards_trend:【0/34/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
 
-[:camera_flash:【2026-10-21T08:00:00】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247635996&idx=3&sn=f6cd81e017e896207c7444059b7d653d&scene=27#wechat_redirect)
+[:camera_flash:【2026-10-22T08:00:00】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247636007&idx=3&sn=3a4979ebd85732b0ce04cefabbefaba3&scene=27#wechat_redirect)
 
 为智能网联汽车行业专业人士提供信息和网络安全技术、产品及服务等行业发展最新咨询
 
@@ -14,9 +14,9 @@
 
 ### [IoT物联网技术](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
 
-[:chart_with_upwards_trend:【24/27/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
+[:chart_with_upwards_trend:【23/27/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
 
-[:camera_flash:【2026-10-21T08:11:00】](https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&mid=2454949317&idx=1&sn=f485bf8bf8a10f960819c61cf0817d9f&scene=27#wechat_redirect)
+[:camera_flash:【2026-10-22T08:00:00】](https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&mid=2454949350&idx=1&sn=cfcfd5ae632816f9c7d0ae275172a376&scene=27#wechat_redirect)
 
 云计算、物联网、大模型暗中观察小分队
 
@@ -27,9 +27,9 @@
 
 ### [Gh0xE9](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNTc5MTMyNg==)
 
-[:chart_with_upwards_trend:【1/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNTc5MTMyNg==)
+[:chart_with_upwards_trend:【1/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNTc5MTMyNg==)
 
-[:camera_flash:【2026-10-20T21:52:54】](https://mp.weixin.qq.com/s?__biz=MzAwNTc5MTMyNg==&mid=2247501818&idx=1&sn=c3605cdf200e5c7856b3d54b45197b5f&scene=27#wechat_redirect)
+[:camera_flash:【2026-10-21T22:09:14】](https://mp.weixin.qq.com/s?__biz=MzAwNTc5MTMyNg==&mid=2247501830&idx=1&sn=e05dacf4d66eb259b3910499d6b9b9f0&scene=27#wechat_redirect)
 
 做勾八安全，卷的要死
 
@@ -42,7 +42,7 @@
 
 [:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNDcwMDgzMA==)
 
-[:camera_flash:【2026-10-16T00:00:00】](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651049203&idx=2&sn=20425e443ccab83becd092ea3ed12355&scene=27#wechat_redirect)
+[:camera_flash:【2026-10-16T00:00:00】](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651049203&idx=1&sn=6a32ad05a0ef198f739af22adf619315&scene=27#wechat_redirect)
 
 关注刑事证据科学前沿发展，传递电子物证技术最新趋势
 
@@ -86,6 +86,19 @@
 吉林省信睿网络官方公众号
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_18cae47da613" alt="" />
+
+---
+
+
+### [IOTsecZone](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NTgwNzg5MQ==)
+
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NTgwNzg5MQ==)
+
+[:camera_flash:【2026-10-21T17:46:00】](https://mp.weixin.qq.com/s?__biz=Mzg2NTgwNzg5MQ==&mid=2247488254&idx=1&sn=5380c6941dadbd046ebde0e83f4e2568&scene=27#wechat_redirect)
+
+IOTsec-Zone是一个致力于提供高质量、高标准的物联网安全信息和技术交流的一站式开放性平台。我们提供原创技术干货分享、物联网安全集合地、理论实战演练课程和最新安全资讯动态等服务。官方网站：www.iotsec-zone.com。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_44b0c10fbdf5" alt="" />
 
 ---
 
@@ -346,19 +359,6 @@
 学习卫星互联网，研究卫星通信安全！
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_37ba12d49c79" alt="" />
-
----
-
-
-### [IOTsecZone](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NTgwNzg5MQ==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NTgwNzg5MQ==)
-
-[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
-
-IOTsec-Zone是一个致力于提供高质量、高标准的物联网安全信息和技术交流的一站式开放性平台。我们提供原创技术干货分享、物联网安全集合地、理论实战演练课程和最新安全资讯动态等服务。官方网站：www.iotsec-zone.com。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_44b0c10fbdf5" alt="" />
 
 ---
 
