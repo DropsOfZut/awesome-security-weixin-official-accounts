@@ -51,19 +51,6 @@ B站：泷羽Sec，团队专注于网络安全领域的内容创作与分享，�
 ---
 
 
-### [泷羽sec-freesec](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk1Nzk0NDY3Nw==)
-
-[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk1Nzk0NDY3Nw==)
-
-[:camera_flash:【2026-09-25T00:26:11】](https://mp.weixin.qq.com/s?__biz=Mzk1Nzk0NDY3Nw==&mid=2247485132&idx=1&sn=00ab0446adc0a47ecd4a3da47d51e862&scene=27#wechat_redirect)
-
-网络安全学习，红队，渗透测试资源分享
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e9af83c47afe" alt="" />
-
----
-
-
 ### [泷羽Sec-朝阳](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk3NTIyOTA0OQ==)
 
 [:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk3NTIyOTA0OQ==)
@@ -242,6 +229,19 @@ B站up:泷羽Sec，专注于网络安全领域的内容创作与分享，为网�
 归去来兮，应归何处。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_3198017bed01" alt="" />
+
+---
+
+
+### [泷羽sec-freesec](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk1Nzk0NDY3Nw==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk1Nzk0NDY3Nw==)
+
+[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
+
+网络安全学习，红队，渗透测试资源分享
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e9af83c47afe" alt="" />
 
 ---
 
