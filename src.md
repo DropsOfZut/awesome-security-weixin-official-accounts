@@ -42,7 +42,7 @@
 
 [:chart_with_upwards_trend:【9/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxODY1OTM5OQ==)
 
-[:camera_flash:【2026-10-23T22:05:45】](https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651465672&idx=2&sn=04bac9ff8ee5a70d3d6067edb2b3790f&scene=27#wechat_redirect)
+[:camera_flash:【2026-10-23T22:05:45】](https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651465672&idx=1&sn=d45ea1910a2fb30a5332bbc142168452&scene=27#wechat_redirect)
 
 国家信息安全漏洞库（CNNVD）是中国信息安全测评中心为切实履行漏洞分析和风险评估的职能，负责建设运维的国家信息安全漏洞库，为我国信息安全保障提供基础服务。
 
@@ -53,9 +53,9 @@
 
 ### [solar专业应急响应团队](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyOTQ0MjE1NQ==)
 
-[:chart_with_upwards_trend:【5/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyOTQ0MjE1NQ==)
+[:chart_with_upwards_trend:【6/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyOTQ0MjE1NQ==)
 
-[:camera_flash:【2026-10-19T10:00:00】](https://mp.weixin.qq.com/s?__biz=MzkyOTQ0MjE1NQ==&mid=2247514452&idx=1&sn=d867ab55ab867712051db21537d641ef&scene=27#wechat_redirect)
+[:camera_flash:【2026-10-26T13:43:00】](https://mp.weixin.qq.com/s?__biz=MzkyOTQ0MjE1NQ==&mid=2247514473&idx=1&sn=e8d838a7a1e8cb865d8c611809bb1923&scene=27#wechat_redirect)
 
 7×24小时在线服务，国企背景资质保证。专业安全团队，十余年来专注数据恢复，漏洞修补，安全加固。当天完成评估、修复，不成功不收费。同时完成攻击溯源、漏洞排查、漏洞修补，保障您的服务器安全！
 

@@ -1,9 +1,9 @@
 
 ### [数世咨询](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
 
-[:chart_with_upwards_trend:【4/31/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
+[:chart_with_upwards_trend:【3/30/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
 
-[:camera_flash:【2026-10-24T11:00:00】](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247544292&idx=1&sn=2b094aa1a73ca61f839125f36332a567&scene=27#wechat_redirect)
+[:camera_flash:【2026-10-24T11:00:00】](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247544292&idx=2&sn=e63b97d4850ac22a13d657a7bcc82dac&scene=27#wechat_redirect)
 
 中国数字产业领域中立的第三方调研机构，提供网络安全行业的调查、研究与咨询服务。
 
@@ -16,7 +16,7 @@
 
 [:chart_with_upwards_trend:【21/21/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
 
-[:camera_flash:【2026-10-24T03:08:00】](https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247518072&idx=1&sn=0efc26717c8f18dc42981795c203697e&scene=27#wechat_redirect)
+[:camera_flash:【2026-10-26T10:08:00】](https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247518096&idx=1&sn=8625ac08965fae79ca02d080228605e9&scene=27#wechat_redirect)
 
 做一个会思考的全栈网络空间安全者
 
