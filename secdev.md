@@ -1,9 +1,9 @@
 
 ### [数世咨询](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
 
-[:chart_with_upwards_trend:【3/30/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
+[:chart_with_upwards_trend:【3/32/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
 
-[:camera_flash:【2026-10-24T11:00:00】](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247544292&idx=2&sn=e63b97d4850ac22a13d657a7bcc82dac&scene=27#wechat_redirect)
+[:camera_flash:【2026-10-27T16:00:00】](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247544327&idx=2&sn=f0b0108802a3cccedf54d9eb690a05f1&scene=27#wechat_redirect)
 
 中国数字产业领域中立的第三方调研机构，提供网络安全行业的调查、研究与咨询服务。
 
@@ -16,7 +16,7 @@
 
 [:chart_with_upwards_trend:【21/21/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
 
-[:camera_flash:【2026-10-26T10:08:00】](https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247518096&idx=1&sn=8625ac08965fae79ca02d080228605e9&scene=27#wechat_redirect)
+[:camera_flash:【2026-10-27T19:38:58】](https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247518115&idx=1&sn=5b262d09a9e3618e8fc3eaeb7d31f99f&scene=27#wechat_redirect)
 
 做一个会思考的全栈网络空间安全者
 
@@ -53,9 +53,9 @@
 
 ### [中国网络空间安全协会](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3ODE0NDA4MA==)
 
-[:chart_with_upwards_trend:【0/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3ODE0NDA4MA==)
+[:chart_with_upwards_trend:【0/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3ODE0NDA4MA==)
 
-[:camera_flash:【2026-10-20T14:38:46】](https://mp.weixin.qq.com/s?__biz=MzA3ODE0NDA4MA==&mid=2649405048&idx=1&sn=9d2c0b90bbba5cba802b534a869816eb&scene=27#wechat_redirect)
+[:camera_flash:【2026-10-27T19:45:25】](https://mp.weixin.qq.com/s?__biz=MzA3ODE0NDA4MA==&mid=2649405062&idx=1&sn=d31c629bf5af818514919670aaa9857a&scene=27#wechat_redirect)
 
 中国网络空间安全协会是由国内从事网络空间安全相关产业、教育、科研、应用的机构、企业及个人共同自愿结成的全国性、行业性、非营利性社会组织。
 

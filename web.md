@@ -1,7 +1,7 @@
 
 ### [Khan安全团队](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwMjQ2NTQ4Mg==)
 
-[:chart_with_upwards_trend:【1/60/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwMjQ2NTQ4Mg==)
+[:chart_with_upwards_trend:【1/58/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwMjQ2NTQ4Mg==)
 
 [:camera_flash:【2026-10-25T15:53:12】](https://mp.weixin.qq.com/s?__biz=MzAwMjQ2NTQ4Mg==&mid=2247510813&idx=1&sn=9e7a5c3606d57932af5c3d167dff4a6c&scene=27#wechat_redirect)
 
@@ -14,7 +14,7 @@
 
 ### [谈思实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzOTc2OTAxMg==)
 
-[:chart_with_upwards_trend:【0/56/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzOTc2OTAxMg==)
+[:chart_with_upwards_trend:【0/54/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzOTc2OTAxMg==)
 
 [:camera_flash:【2026-10-24T17:58:08】](https://mp.weixin.qq.com/s?__biz=MzIzOTc2OTAxMg==&mid=2247581619&idx=2&sn=7a71c7c63b517714111ae9caf177c542&scene=27#wechat_redirect)
 
@@ -29,7 +29,7 @@
 
 [:chart_with_upwards_trend:【0/43/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MDU0NTQ4Mw==)
 
-[:camera_flash:【2026-10-24T11:00:00】](https://mp.weixin.qq.com/s?__biz=Mzg4MDU0NTQ4Mw==&mid=2247540980&idx=1&sn=72ffcaac2d9d375d8d04f5ed50403104&scene=27#wechat_redirect)
+[:camera_flash:【2026-10-27T14:36:50】](https://mp.weixin.qq.com/s?__biz=Mzg4MDU0NTQ4Mw==&mid=2247541024&idx=1&sn=f3921e539b2c9cc61d68a6ab63f26201&scene=27#wechat_redirect)
 
 中国网络空间内生安全技术与产业联盟，简称“CCESS联盟”。CCESS联盟是在自愿、平等、互利、合作的基础上，由国内网络空间内生安全领域的相关企事业单位、社团组织、科研院所、高等院校等自愿结成的开放性行业合作组织。
 
@@ -53,7 +53,7 @@
 
 ### [句芒安全实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5ODQyMTM2Ng==)
 
-[:chart_with_upwards_trend:【25/25/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5ODQyMTM2Ng==)
+[:chart_with_upwards_trend:【24/24/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5ODQyMTM2Ng==)
 
 [:camera_flash:【2026-10-24T13:33:30】](https://mp.weixin.qq.com/s?__biz=MzI5ODQyMTM2Ng==&mid=2247486175&idx=1&sn=3ab55ad8d6c71494c39d5e198fd580cf&scene=27#wechat_redirect)
 
@@ -66,7 +66,7 @@
 
 ### [逍遥安全实验室](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NTc2MTMxNQ==)
 
-[:chart_with_upwards_trend:【21/21/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NTc2MTMxNQ==)
+[:chart_with_upwards_trend:【20/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NTc2MTMxNQ==)
 
 [:camera_flash:【2026-10-25T00:48:45】](https://mp.weixin.qq.com/s?__biz=Mzk0NTc2MTMxNQ==&mid=2247486500&idx=1&sn=a7fe5c45d2b00b3565ec668b4cc319fb&scene=27#wechat_redirect)
 
@@ -79,7 +79,7 @@
 
 ### [GTG网络安全实验室](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk4ODQ5NzM2Mw==)
 
-[:chart_with_upwards_trend:【20/21/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk4ODQ5NzM2Mw==)
+[:chart_with_upwards_trend:【19/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk4ODQ5NzM2Mw==)
 
 [:camera_flash:【2026-10-24T09:00:00】](https://mp.weixin.qq.com/s?__biz=Mzk4ODQ5NzM2Mw==&mid=2247488197&idx=1&sn=916f2fd256b9f3412ecb0146303227ee&scene=27#wechat_redirect)
 
@@ -142,19 +142,6 @@
 ---
 
 
-### [泰阿安全实验室](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MDQyMzg3NQ==)
-
-[:chart_with_upwards_trend:【5/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MDQyMzg3NQ==)
-
-[:camera_flash:【2026-10-02T20:27:14】](https://mp.weixin.qq.com/s?__biz=Mzg5MDQyMzg3NQ==&mid=2247485940&idx=1&sn=05961c9596d7c716324d1bbc4db97dea&scene=27#wechat_redirect)
-
-泰阿安全实验室
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_d80f12be026a" alt="" />
-
----
-
-
 ### [弥天安全实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2NDgzOTQzNw==)
 
 [:chart_with_upwards_trend:【4/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2NDgzOTQzNw==)
@@ -190,6 +177,19 @@
 我们是一群安全攻防技术与大数据分析爱好者，热衷于研究和分享。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_dcd6d8edd12b" alt="" />
+
+---
+
+
+### [泰阿安全实验室](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MDQyMzg3NQ==)
+
+[:chart_with_upwards_trend:【4/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MDQyMzg3NQ==)
+
+[:camera_flash:【2026-10-02T20:27:14】](https://mp.weixin.qq.com/s?__biz=Mzg5MDQyMzg3NQ==&mid=2247485940&idx=1&sn=05961c9596d7c716324d1bbc4db97dea&scene=27#wechat_redirect)
+
+泰阿安全实验室
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_d80f12be026a" alt="" />
 
 ---
 
@@ -450,19 +450,6 @@ Torchwood火炬木攻防实验室公众号
 鸿鹄终有凌云志，潜龙岂无踏天心。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_5a62268ac42a" alt="" />
-
----
-
-
-### [小绿草信息安全科创实验室](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NDUzMTU5NQ==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NDUzMTU5NQ==)
-
-[:camera_flash:【2026-09-27T10:13:50】](https://mp.weixin.qq.com/s?__biz=Mzg3NDUzMTU5NQ==&mid=2247484907&idx=1&sn=f0c827f7bb54292d127ea638c40ac10b&scene=27#wechat_redirect)
-
-小绿草的活动、比赛信息发布与知识分享交流。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_efbcc3071c02" alt="" />
 
 ---
 
@@ -2608,6 +2595,19 @@ We are a team full of dreams, we will never stop moving forward!
 「Damian攻防实验室」聚焦网络安全攻防技术，解析漏洞原理与红蓝实战，分享渗透测试、逆向分析等专业内容，输出技术教程与行业动态，助从业者提升安全能力。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_09c78a8de488" alt="" />
+
+---
+
+
+### [小绿草信息安全科创实验室](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NDUzMTU5NQ==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NDUzMTU5NQ==)
+
+[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
+
+小绿草的活动、比赛信息发布与知识分享交流。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_efbcc3071c02" alt="" />
 
 ---
 

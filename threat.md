@@ -1,7 +1,7 @@
 
 ### [蓝军开源情报](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyMjY1MTg1MQ==)
 
-[:chart_with_upwards_trend:【203/214/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyMjY1MTg1MQ==)
+[:chart_with_upwards_trend:【196/206/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyMjY1MTg1MQ==)
 
 [:camera_flash:【2026-10-26T06:30:00】](https://mp.weixin.qq.com/s?__biz=MzkyMjY1MTg1MQ==&mid=2247514396&idx=8&sn=946d5a00cc0daf72ac384d23e5e6456c&scene=27#wechat_redirect)
 
@@ -27,9 +27,9 @@
 
 ### [丁爸情报分析师的工具箱](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MTE0NTE3Mw==)
 
-[:chart_with_upwards_trend:【30/38/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MTE0NTE3Mw==)
+[:chart_with_upwards_trend:【30/39/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MTE0NTE3Mw==)
 
-[:camera_flash:【2026-10-26T10:30:03】](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651157840&idx=1&sn=c17661dd24ac84dff8e4b526f9b2b6b2&scene=27#wechat_redirect)
+[:camera_flash:【2026-10-27T10:16:39】](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651157852&idx=1&sn=5e1dfeef64c047097bd53194ce40c508&scene=27#wechat_redirect)
 
 每天为大家精选各类情报分析相关的资源、工具、技巧和资讯，努力成为情报分析师必备的工具箱。外挂机器人“小丁丁”还能陪您聊天，给您查航班、查列车、查天气、查酒店、查美食、查股票、回答您的提问等等。
 
@@ -40,7 +40,7 @@
 
 ### [独眼情报](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzNDIzNDUxOQ==)
 
-[:chart_with_upwards_trend:【26/33/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzNDIzNDUxOQ==)
+[:chart_with_upwards_trend:【25/32/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzNDIzNDUxOQ==)
 
 [:camera_flash:【2026-10-24T12:36:57】](https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247510104&idx=1&sn=8b70ee2a074aa41efe603a3bee4cee61&scene=27#wechat_redirect)
 
@@ -53,7 +53,7 @@
 
 ### [黑鸟](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxOTM1MDQ1NA==)
 
-[:chart_with_upwards_trend:【26/29/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxOTM1MDQ1NA==)
+[:chart_with_upwards_trend:【25/28/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxOTM1MDQ1NA==)
 
 [:camera_flash:【2026-10-24T23:49:34】](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451189513&idx=1&sn=b831b3dc972a940b1ceeae38901da6cb&scene=27#wechat_redirect)
 
@@ -118,9 +118,9 @@
 
 ### [滤镜码头](http://wechat.doonsec.com/wechat_echarts/?biz=MzYzMjM3NzQ5Mw==)
 
-[:chart_with_upwards_trend:【7/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzYzMjM3NzQ5Mw==)
+[:chart_with_upwards_trend:【8/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzYzMjM3NzQ5Mw==)
 
-[:camera_flash:【2026-10-19T19:51:50】](https://mp.weixin.qq.com/s?__biz=MzYzMjM3NzQ5Mw==&mid=2247485068&idx=1&sn=e6a4ec1b7c728e1be3107a58b35efc2d&scene=27#wechat_redirect)
+[:camera_flash:【2026-10-27T18:04:22】](https://mp.weixin.qq.com/s?__biz=MzYzMjM3NzQ5Mw==&mid=2247485175&idx=1&sn=f5280ee26866345ed2f1cdb63784f1cc&scene=27#wechat_redirect)
 
 我将会一往无前，还活着的请随我向前。
 
@@ -233,6 +233,19 @@ AI/人工智能/信息/网络安全从业人员/程序员/精神病/反诈骗/�
 ---
 
 
+### [无糖反网络犯罪研究中心](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxMzkzNDA1Mg==)
+
+[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxMzkzNDA1Mg==)
+
+[:camera_flash:【2026-10-26T10:38:05】](https://mp.weixin.qq.com/s?__biz=MzAxMzkzNDA1Mg==&mid=2247516061&idx=1&sn=7579dff09314d013ef3ef8b1837e5ba4&scene=27#wechat_redirect)
+
+致力于反网络违法犯罪领域相关情报、技术研究与分享。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_2ee7a9b17c0d" alt="" />
+
+---
+
+
 ### [二道情报贩子](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NTA3MTk5Ng==)
 
 [:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NTA3MTk5Ng==)
@@ -246,6 +259,19 @@ AI/人工智能/信息/网络安全从业人员/程序员/精神病/反诈骗/�
 ---
 
 
+### [虎符智库](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNjYwMTMyNQ==)
+
+[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNjYwMTMyNQ==)
+
+[:camera_flash:【2026-10-27T19:15:43】](https://mp.weixin.qq.com/s?__biz=MzIwNjYwMTMyNQ==&mid=2247493858&idx=1&sn=5046229ef07036578cf7da5c51012599&scene=27#wechat_redirect)
+
+“虎符智库” 专注解读网络安全重大事件与技术趋势，提供高层决策参考。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4f44eb4295ae" alt="" />
+
+---
+
+
 ### [情报分析站](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMDIwMTMxMw==)
 
 [:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMDIwMTMxMw==)
@@ -255,19 +281,6 @@ AI/人工智能/信息/网络安全从业人员/程序员/精神病/反诈骗/�
 情报知识交流，实用工具分享
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e8556b411e9e" alt="" />
-
----
-
-
-### [无糖反网络犯罪研究中心](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxMzkzNDA1Mg==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxMzkzNDA1Mg==)
-
-[:camera_flash:【2026-10-01T08:00:00】](https://mp.weixin.qq.com/s?__biz=MzAxMzkzNDA1Mg==&mid=2247515883&idx=1&sn=850e2c8fd5d8a9a83c31928a2e24bac5&scene=27#wechat_redirect)
-
-致力于反网络违法犯罪领域相关情报、技术研究与分享。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_2ee7a9b17c0d" alt="" />
 
 ---
 
@@ -359,19 +372,6 @@ AI/人工智能/信息/网络安全从业人员/程序员/精神病/反诈骗/�
 黑鸟威胁情报中心下属分局，专注严肃情报输出
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_764b9e741caa" alt="" />
-
----
-
-
-### [虎符智库](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNjYwMTMyNQ==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNjYwMTMyNQ==)
-
-[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
-
-“虎符智库” 专注解读网络安全重大事件与技术趋势，提供高层决策参考。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4f44eb4295ae" alt="" />
 
 ---
 

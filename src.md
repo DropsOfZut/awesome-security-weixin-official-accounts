@@ -14,9 +14,9 @@
 
 ### [奇安信CERT](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NDgxODU1MQ==)
 
-[:chart_with_upwards_trend:【0/17/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NDgxODU1MQ==)
+[:chart_with_upwards_trend:【0/18/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NDgxODU1MQ==)
 
-[:camera_flash:【2026-10-25T13:46:02】](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507942&idx=1&sn=1d806a8c45e242baca7ea7cd201c68df&scene=27#wechat_redirect)
+[:camera_flash:【2026-10-27T15:31:45】](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507953&idx=1&sn=63d387c07e7193fafec342f7cbbe8b80&scene=27#wechat_redirect)
 
 为企业级用户提供高危漏洞、重大安全事件安全风险通告和相关产品解决方案。
 
@@ -53,9 +53,9 @@
 
 ### [solar专业应急响应团队](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyOTQ0MjE1NQ==)
 
-[:chart_with_upwards_trend:【6/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyOTQ0MjE1NQ==)
+[:chart_with_upwards_trend:【7/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyOTQ0MjE1NQ==)
 
-[:camera_flash:【2026-10-26T13:43:00】](https://mp.weixin.qq.com/s?__biz=MzkyOTQ0MjE1NQ==&mid=2247514473&idx=1&sn=e8d838a7a1e8cb865d8c611809bb1923&scene=27#wechat_redirect)
+[:camera_flash:【2026-10-27T14:26:00】](https://mp.weixin.qq.com/s?__biz=MzkyOTQ0MjE1NQ==&mid=2247514522&idx=1&sn=aa2d1e82e8f4750451f98ebbbed34f87&scene=27#wechat_redirect)
 
 7×24小时在线服务，国企背景资质保证。专业安全团队，十余年来专注数据恢复，漏洞修补，安全加固。当天完成评估、修复，不成功不收费。同时完成攻击溯源、漏洞排查、漏洞修补，保障您的服务器安全！
 
