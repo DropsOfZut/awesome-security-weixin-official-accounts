@@ -1,7 +1,7 @@
 
 ### [复旦白泽战队](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
 
-[:chart_with_upwards_trend:【6/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
+[:chart_with_upwards_trend:【5/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
 
 [:camera_flash:【2026-10-24T13:36:01】](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247500091&idx=1&sn=05d4c7dee128f72ed0b8fdfc1780a2bd&scene=27#wechat_redirect)
 
