@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【2/136/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NTU0ODc0Nw==)
 
-[:camera_flash:【2026-10-28T12:54:13】](https://mp.weixin.qq.com/s?__biz=Mzk0NTU0ODc0Nw==&mid=2247499818&idx=5&sn=f42618b0cc96e2c7d211d25a52b774d7&scene=27#wechat_redirect)
+[:camera_flash:【2026-10-29T13:03:53】](https://mp.weixin.qq.com/s?__biz=Mzk0NTU0ODc0Nw==&mid=2247499829&idx=4&sn=b4b4386f00c8d8b4ef1ab451b6ad3609&scene=27#wechat_redirect)
 
 赛查查是探索网络安全和数据安全赛事领域的专业指南。提供及时的赛事信息和资源。关注我们，与我们一起助力赛事以及行业的发展！
 
@@ -14,9 +14,9 @@
 
 ### [强网竞赛](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjY3NDQ2Ng==)
 
-[:chart_with_upwards_trend:【0/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjY3NDQ2Ng==)
+[:chart_with_upwards_trend:【0/13/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjY3NDQ2Ng==)
 
-[:camera_flash:【2026-10-28T19:40:40】](https://mp.weixin.qq.com/s?__biz=Mzg4MjY3NDQ2Ng==&mid=2247488826&idx=2&sn=f769ab5cf50c19cd4b6339fd6e02123e&scene=27#wechat_redirect)
+[:camera_flash:【2026-10-29T14:03:31】](https://mp.weixin.qq.com/s?__biz=Mzg4MjY3NDQ2Ng==&mid=2247488831&idx=1&sn=16296a0d155cabec1a0705b7e88a7e9a&scene=27#wechat_redirect)
 
 强网竞赛是面向高等院校和国内信息安全企业的国家级赛事，旨在通过高对抗的竞技比赛，发现锻造网络安全领域优秀人才，提高国家网络安全保障能力，提升全民网络安全意识。
 
@@ -40,9 +40,9 @@
 
 ### [XCTF联赛](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
 
-[:chart_with_upwards_trend:【1/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
+[:chart_with_upwards_trend:【1/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
 
-[:camera_flash:【2026-10-21T18:01:32】](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247516676&idx=1&sn=bece68d22581ccb6b9303cf4fde2d468&scene=27#wechat_redirect)
+[:camera_flash:【2026-10-29T10:43:36】](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247516678&idx=1&sn=a149be7f39a400c57a3888d804a2d186&scene=27#wechat_redirect)
 
 发现和培养网络安全技术人才。
 
