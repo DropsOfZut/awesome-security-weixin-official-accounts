@@ -12,32 +12,6 @@
 ---
 
 
-### [驯海隔壁白帽子](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0ODU4NjIzNA==)
-
-[:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0ODU4NjIzNA==)
-
-[:camera_flash:【2026-10-24T20:29:57】](https://mp.weixin.qq.com/s?__biz=Mzk0ODU4NjIzNA==&mid=2247485696&idx=1&sn=fd28c3f06c76e16bb1ff30aae07af7c4&scene=27#wechat_redirect)
-
-我们是一群专注网络安全的爱好者，希望通过轻松有趣的方式，把实用的技术知识分享给大家。带来新鲜干货，一起筑牢网络安全屏障，安心畅游数字世界！
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_9352cbd40d35" alt="" />
-
----
-
-
-### [渭南师院网络信息安全社](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0MjI1NzY1NQ==)
-
-[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0MjI1NzY1NQ==)
-
-[:camera_flash:【2026-10-23T19:16:24】](https://mp.weixin.qq.com/s?__biz=Mzk0MjI1NzY1NQ==&mid=2247487430&idx=1&sn=42b65c1360d354fcdb2257a5762a6791&scene=27#wechat_redirect)
-
-渭南师范学院网络信息安全协会官方账号，为您提供网络安全相关资讯与技术分享。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f4e0f7548c2f" alt="" />
-
----
-
-
 ### [三叶草小组Syclover](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzOTg0NjYzNg==)
 
 [:chart_with_upwards_trend:【1/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzOTg0NjYzNg==)
@@ -64,9 +38,35 @@
 ---
 
 
+### [渭南师院网络信息安全社](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0MjI1NzY1NQ==)
+
+[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0MjI1NzY1NQ==)
+
+[:camera_flash:【2026-10-23T19:16:24】](https://mp.weixin.qq.com/s?__biz=Mzk0MjI1NzY1NQ==&mid=2247487430&idx=1&sn=42b65c1360d354fcdb2257a5762a6791&scene=27#wechat_redirect)
+
+渭南师范学院网络信息安全协会官方账号，为您提供网络安全相关资讯与技术分享。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f4e0f7548c2f" alt="" />
+
+---
+
+
+### [驯海隔壁白帽子](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0ODU4NjIzNA==)
+
+[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0ODU4NjIzNA==)
+
+[:camera_flash:【2026-10-24T20:29:57】](https://mp.weixin.qq.com/s?__biz=Mzk0ODU4NjIzNA==&mid=2247485696&idx=1&sn=fd28c3f06c76e16bb1ff30aae07af7c4&scene=27#wechat_redirect)
+
+我们是一群专注网络安全的爱好者，希望通过轻松有趣的方式，把实用的技术知识分享给大家。带来新鲜干货，一起筑牢网络安全屏障，安心畅游数字世界！
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_9352cbd40d35" alt="" />
+
+---
+
+
 ### [NISL实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxMTEwOTA3OA==)
 
-[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxMTEwOTA3OA==)
+[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxMTEwOTA3OA==)
 
 [:camera_flash:【2026-10-19T21:00:00】](https://mp.weixin.qq.com/s?__biz=MzUxMTEwOTA3OA==&mid=2247485863&idx=1&sn=103bcdc03799dc8be252605969a5ce48&scene=27#wechat_redirect)
 
@@ -138,19 +138,6 @@
 深圳市网安计算机网络安全培训中心是由深圳市人力资源局备案的社会第三方培训机构。是受广东省人力资源和社会保障厅委托，开展“网络与信息安全管理员”职业技能等级认定工作的第三方社会评价机构。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_94f04a96b1ca" alt="" />
-
----
-
-
-### [杭师大网安](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MzA1MDIzMg==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MzA1MDIzMg==)
-
-[:camera_flash:【2026-09-30T14:33:49】](https://mp.weixin.qq.com/s?__biz=Mzg5MzA1MDIzMg==&mid=2247499651&idx=1&sn=baf51e4c65dd5fb922dd9548ef2318c0&scene=27#wechat_redirect)
-
-为了宣传杭州师范大学“网络与信息安全实验室”，提升大家网络与信息安全意识。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_cb6e613490cd" alt="" />
 
 ---
 
@@ -541,6 +528,19 @@ Covteam工作室，成立于2005年。是以西华大学在校本科生研究生
 河北网络安全高校联盟
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8937984657cd" alt="" />
+
+---
+
+
+### [杭师大网安](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MzA1MDIzMg==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MzA1MDIzMg==)
+
+[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
+
+为了宣传杭州师范大学“网络与信息安全实验室”，提升大家网络与信息安全意识。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_cb6e613490cd" alt="" />
 
 ---
 

@@ -1,9 +1,9 @@
 
 ### [IoVSecurity](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
 
-[:chart_with_upwards_trend:【0/40/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
+[:chart_with_upwards_trend:【0/43/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
 
-[:camera_flash:【2026-10-29T08:00:00】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247636331&idx=3&sn=c09f7e09966a4c2782cfb718d181febd&scene=27#wechat_redirect)
+[:camera_flash:【2026-10-31T08:00:00】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247636485&idx=3&sn=87c1c6770a62c965f634409f56650a23&scene=27#wechat_redirect)
 
 为智能网联汽车行业专业人士提供信息和网络安全技术、产品及服务等行业发展最新咨询
 
@@ -16,11 +16,24 @@
 
 [:chart_with_upwards_trend:【21/26/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
 
-[:camera_flash:【2026-10-29T18:36:00】](https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&mid=2454949607&idx=1&sn=2b853bd47885f901d2c397d879c774a9&scene=27#wechat_redirect)
+[:camera_flash:【2026-10-30T20:12:00】](https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&mid=2454949667&idx=1&sn=09a0e2e64eb6e91ecea5c099d4674258&scene=27#wechat_redirect)
 
 云计算、物联网、大模型暗中观察小分队
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_5617c1b503e7" alt="" />
+
+---
+
+
+### [电子物证](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNDcwMDgzMA==)
+
+[:chart_with_upwards_trend:【0/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNDcwMDgzMA==)
+
+[:camera_flash:【2026-10-31T00:00:00】](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651049252&idx=2&sn=a2ecbbea8fce60fbb2f042f405db3cb4&scene=27#wechat_redirect)
+
+关注刑事证据科学前沿发展，传递电子物证技术最新趋势
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f624bd447b0f" alt="" />
 
 ---
 
@@ -34,19 +47,6 @@
 做勾八安全，卷的要死
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_3953fa56d850" alt="" />
-
----
-
-
-### [电子物证](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNDcwMDgzMA==)
-
-[:chart_with_upwards_trend:【0/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNDcwMDgzMA==)
-
-[:camera_flash:【2026-10-24T00:00:00】](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651049242&idx=2&sn=2f69b38fd40a9c4b1883168a2f273ad8&scene=27#wechat_redirect)
-
-关注刑事证据科学前沿发展，传递电子物证技术最新趋势
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f624bd447b0f" alt="" />
 
 ---
 

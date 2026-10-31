@@ -1,7 +1,7 @@
 
 ### [泷羽Sec-幽居初夏](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk1Nzk0MDM4NA==)
 
-[:chart_with_upwards_trend:【12/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk1Nzk0MDM4NA==)
+[:chart_with_upwards_trend:【11/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk1Nzk0MDM4NA==)
 
 [:camera_flash:【2026-10-21T07:00:00】](https://mp.weixin.qq.com/s?__biz=Mzk1Nzk0MDM4NA==&mid=2247483816&idx=1&sn=43644b47a763fe87db660e69912281e7&scene=27#wechat_redirect)
 
@@ -27,9 +27,9 @@
 
 ### [泷羽Sec-醉陌离](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk1NzI5MTc0Nw==)
 
-[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk1NzI5MTc0Nw==)
+[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk1NzI5MTc0Nw==)
 
-[:camera_flash:【2026-10-12T18:32:41】](https://mp.weixin.qq.com/s?__biz=Mzk1NzI5MTc0Nw==&mid=2247486293&idx=1&sn=0abd5f524c6b8810118cd16106f948c9&scene=27#wechat_redirect)
+[:camera_flash:【2026-10-30T16:47:39】](https://mp.weixin.qq.com/s?__biz=Mzk1NzI5MTc0Nw==&mid=2247486323&idx=1&sn=28cd4d2c3dee66330b0ccfc813affe3c&scene=27#wechat_redirect)
 
 分享网络安，渗透测试，红蓝攻防全相关经验
 
@@ -47,6 +47,19 @@
 B站：泷羽Sec，团队专注于网络安全领域的内容创作与分享，为网络安全而战。来自一个从零开始学习网安的见习生。很菜，不喜勿喷。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_b3bfbc45e60c" alt="" />
+
+---
+
+
+### [泷羽Sec-慕云](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk1NzIzNDgzNA==)
+
+[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk1NzIzNDgzNA==)
+
+[:camera_flash:【2026-10-30T15:17:37】](https://mp.weixin.qq.com/s?__biz=Mzk1NzIzNDgzNA==&mid=2247484473&idx=1&sn=f497b16ff36bec115e9fd1f9ff6f1971&scene=27#wechat_redirect)
+
+学习安全技能，笔记记录，安全见闻。公众号文章只是个人用来进行学习研究，如果通过本公众号文章进行其他用途，触犯了国家法律全都与本公众号无关。如果文章涉及侵权请即使联系公众号所有者，即使删除相关文章。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_b4713c445a7d" alt="" />
 
 ---
 
@@ -203,19 +216,6 @@ B站up:泷羽Sec，专注于网络安全领域的内容创作与分享，为网�
 作为一个网安学习爱好者，专注于网络安全领域的内容创作与分享，为网络安全而战
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_1d80cf351816" alt="" />
-
----
-
-
-### [泷羽Sec-慕云](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk1NzIzNDgzNA==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk1NzIzNDgzNA==)
-
-[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
-
-学习安全技能，笔记记录，安全见闻。公众号文章只是个人用来进行学习研究，如果通过本公众号文章进行其他用途，触犯了国家法律全都与本公众号无关。如果文章涉及侵权请即使联系公众号所有者，即使删除相关文章。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_b4713c445a7d" alt="" />
 
 ---
 
