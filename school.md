@@ -1,9 +1,9 @@
 
 ### [复旦白泽战队](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
 
-[:chart_with_upwards_trend:【4/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
+[:chart_with_upwards_trend:【5/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
 
-[:camera_flash:【2026-10-29T17:10:53】](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247500120&idx=1&sn=ffb9f3b18a7c4fee0806e68ff67a70a5&scene=27#wechat_redirect)
+[:camera_flash:【2026-10-31T13:21:38】](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247500146&idx=1&sn=beddce5a36f6af973cb348006dcd4568&scene=27#wechat_redirect)
 
 以复旦大学系统安全实验室学生为主成立的安全攻防战队，分享最新研究成果，交流系统安全攻防领域技巧。
 
@@ -99,6 +99,19 @@
 西安工业大学网络空间安全协会（XATUSEC）
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_6496a1081802" alt="" />
+
+---
+
+
+### [浙商大信息安全小分队](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM0MjA5OA==)
+
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM0MjA5OA==)
+
+[:camera_flash:【2026-10-31T21:47:18】](https://mp.weixin.qq.com/s?__biz=MzI5NTM0MjA5OA==&mid=2247484493&idx=1&sn=ece7f4524994422ddf3ec5c642e5c80f&scene=27#wechat_redirect)
+
+发布信息安全技术及相关竞赛信息。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_711d4ce1da87" alt="" />
 
 ---
 
@@ -281,19 +294,6 @@
 安全学习记录
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_1b26e38d0253" alt="" />
-
----
-
-
-### [浙商大信息安全小分队](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM0MjA5OA==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM0MjA5OA==)
-
-[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
-
-发布信息安全技术及相关竞赛信息。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_711d4ce1da87" alt="" />
 
 ---
 

@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【2/144/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NTU0ODc0Nw==)
 
-[:camera_flash:【2026-10-30T12:11:05】](https://mp.weixin.qq.com/s?__biz=Mzk0NTU0ODc0Nw==&mid=2247499837&idx=6&sn=0b787f96408584fd191560cc0d133d52&scene=27#wechat_redirect)
+[:camera_flash:【2026-10-31T09:00:00】](https://mp.weixin.qq.com/s?__biz=Mzk0NTU0ODc0Nw==&mid=2247499841&idx=3&sn=270e236ac816f779d775e90517d80d9e&scene=27#wechat_redirect)
 
 赛查查是探索网络安全和数据安全赛事领域的专业指南。提供及时的赛事信息和资源。关注我们，与我们一起助力赛事以及行业的发展！
 
@@ -53,9 +53,9 @@
 
 ### [PolarCTF](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzY2OTQ0Mg==)
 
-[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzY2OTQ0Mg==)
+[:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzY2OTQ0Mg==)
 
-[:camera_flash:【2026-10-18T19:05:41】](https://mp.weixin.qq.com/s?__biz=MzU5NzY2OTQ0Mg==&mid=2247485674&idx=1&sn=042f5ad28b74254c61227de0fe2a3c9d&scene=27#wechat_redirect)
+[:camera_flash:【2026-10-31T09:00:00】](https://mp.weixin.qq.com/s?__biz=MzU5NzY2OTQ0Mg==&mid=2247485689&idx=1&sn=229ba8454ee342db5066ca364492a6da&scene=27#wechat_redirect)
 
 本公众号为PolarD&amp;N实验室的唯一公众号。
 
