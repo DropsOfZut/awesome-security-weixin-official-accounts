@@ -25,6 +25,19 @@
 ---
 
 
+### [苏说安全](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5OTg5OTI1NQ==)
+
+[:chart_with_upwards_trend:【4/21/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5OTg5OTI1NQ==)
+
+[:camera_flash:【2026-11-02T07:00:00】](https://mp.weixin.qq.com/s?__biz=Mzg5OTg5OTI1NQ==&mid=2247495386&idx=1&sn=5118176c6ef58505393758564d647436&scene=27#wechat_redirect)
+
+安徽网络安全信息化行业资讯分享，面向政府、教育、医疗、金融、企业等行业客户，涉及等保测评、商密评估、软件测试、数据安全、分类分级、风险评估、代码审计、渗透测试、漏洞扫描、攻防护网、培训认证、安全服务等。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_d5b052fbda28" alt="" />
+
+---
+
+
 ### [绿盟科技](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYyMTM4MA==)
 
 [:chart_with_upwards_trend:【18/19/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYyMTM4MA==)
@@ -38,22 +51,9 @@
 ---
 
 
-### [苏说安全](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5OTg5OTI1NQ==)
-
-[:chart_with_upwards_trend:【3/19/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5OTg5OTI1NQ==)
-
-[:camera_flash:【2026-10-31T07:00:00】](https://mp.weixin.qq.com/s?__biz=Mzg5OTg5OTI1NQ==&mid=2247495372&idx=1&sn=fd24b565079e12159898fae4a0de68c5&scene=27#wechat_redirect)
-
-安徽网络安全信息化行业资讯分享，面向政府、教育、医疗、金融、企业等行业客户，涉及等保测评、商密评估、软件测试、数据安全、分类分级、风险评估、代码审计、渗透测试、漏洞扫描、攻防护网、培训认证、安全服务等。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_d5b052fbda28" alt="" />
-
----
-
-
 ### [谷安培训](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4MjUxNjQ1Ng==)
 
-[:chart_with_upwards_trend:【0/15/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4MjUxNjQ1Ng==)
+[:chart_with_upwards_trend:【0/14/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4MjUxNjQ1Ng==)
 
 [:camera_flash:【2026-10-29T18:00:00】](https://mp.weixin.qq.com/s?__biz=MzU4MjUxNjQ1Ng==&mid=2247528110&idx=1&sn=55d01f2f26c9f52b30c3d5663c38a84b&scene=27#wechat_redirect)
 
@@ -73,6 +73,19 @@
 关注深信服官方微信，抢先知晓深信服最新动态及前沿网络资讯。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_c188939410e9" alt="" />
+
+---
+
+
+### [梆梆安全](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NzE0NTIxMg==)
+
+[:chart_with_upwards_trend:【1/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NzE0NTIxMg==)
+
+[:camera_flash:【2026-11-01T08:00:00】](https://mp.weixin.qq.com/s?__biz=MjM5NzE0NTIxMg==&mid=2651138311&idx=1&sn=630914b78e9fd2a922d33d08f7c93bde&scene=27#wechat_redirect)
+
+全球软件安全领跑者，运用领先技术提供专业可靠的服务，为全球政府、企业、开发者和消费者打造安全、稳固、可信的安全生态环境。梆梆安全致力于保护您的软件，让每个人都能自由地创造、分享和使用信息。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f1d4da495e4f" alt="" />
 
 ---
 
@@ -99,19 +112,6 @@
 聚铭网络官方订阅号，洞察行业趋势，分享热点干货，提供专业解决方案，让安全更简单。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ca02b12c33f8" alt="" />
-
----
-
-
-### [梆梆安全](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NzE0NTIxMg==)
-
-[:chart_with_upwards_trend:【1/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NzE0NTIxMg==)
-
-[:camera_flash:【2026-10-30T10:50:58】](https://mp.weixin.qq.com/s?__biz=MjM5NzE0NTIxMg==&mid=2651138321&idx=1&sn=6c3efde0e67c958c8c85c63538df4985&scene=27#wechat_redirect)
-
-全球软件安全领跑者，运用领先技术提供专业可靠的服务，为全球政府、企业、开发者和消费者打造安全、稳固、可信的安全生态环境。梆梆安全致力于保护您的软件，让每个人都能自由地创造、分享和使用信息。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f1d4da495e4f" alt="" />
 
 ---
 
@@ -688,6 +688,19 @@ Imperva是一家全球公认领先的应用数据安全及云安全供应商，�
 ---
 
 
+### [网际思安](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5NjMyMDEwNg==)
+
+[:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5NjMyMDEwNg==)
+
+[:camera_flash:【2026-11-02T08:00:00】](https://mp.weixin.qq.com/s?__biz=MzA5NjMyMDEwNg==&mid=2649287778&idx=1&sn=0fc9f489cc71e35c9b7c4a25d89d7143&scene=27#wechat_redirect)
+
+电子邮件安全国产信创专业厂商，核心业务：提供本地及云端邮件安全及风险管理服务；产品包括：邮件安全网关、邮件DLP网关、邮件沙箱网关、邮件归档管理等；服务包括：邮件安全SaaS服务、钓鱼邮件演练等。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_86f2cd3669ce" alt="" />
+
+---
+
+
 ### [永信至诚](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNDUyMjk4MQ==)
 
 [:chart_with_upwards_trend:【1/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNDUyMjk4MQ==)
@@ -788,19 +801,6 @@ Imperva是一家全球公认领先的应用数据安全及云安全供应商，�
 安势信息是国内先进的软件供应链安全治理解决方案提供商，提供包括清源SCA（软件成分分析）、清本SAST（静态代码扫描）、清正CleanBinary (二进制代码扫描)、安全服务等解决方案，提供各行业的软件供应链安全治理最佳实践。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e8dbe6320f19" alt="" />
-
----
-
-
-### [网际思安](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5NjMyMDEwNg==)
-
-[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5NjMyMDEwNg==)
-
-[:camera_flash:【2026-10-20T08:00:00】](https://mp.weixin.qq.com/s?__biz=MzA5NjMyMDEwNg==&mid=2649287748&idx=1&sn=a497c83f25996d5b1ece3c4e50caec2e&scene=27#wechat_redirect)
-
-电子邮件安全国产信创专业厂商，核心业务：提供本地及云端邮件安全及风险管理服务；产品包括：邮件安全网关、邮件DLP网关、邮件沙箱网关、邮件归档管理等；服务包括：邮件安全SaaS服务、钓鱼邮件演练等。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_86f2cd3669ce" alt="" />
 
 ---
 

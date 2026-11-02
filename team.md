@@ -1,9 +1,9 @@
 
 ### [网络侦查研究院](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxOTM2MDYwNg==)
 
-[:chart_with_upwards_trend:【0/80/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxOTM2MDYwNg==)
+[:chart_with_upwards_trend:【0/83/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxOTM2MDYwNg==)
 
-[:camera_flash:【2026-10-31T06:54:00】](https://mp.weixin.qq.com/s?__biz=MzIxOTM2MDYwNg==&mid=2247532008&idx=1&sn=8dbb546e04bdce0a91c45107024f72d5&scene=27#wechat_redirect)
+[:camera_flash:【2026-11-02T06:54:00】](https://mp.weixin.qq.com/s?__biz=MzIxOTM2MDYwNg==&mid=2247532050&idx=1&sn=4834159fba30b6bd825b6ec1c392a4b2&scene=27#wechat_redirect)
 
 服务全国情报侦查人员，培养网络情报思维，提高网络情报侦查能力。
 
@@ -14,9 +14,9 @@
 
 ### [梓陌说科技](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzMzI1Njg3Mw==)
 
-[:chart_with_upwards_trend:【0/73/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzMzI1Njg3Mw==)
+[:chart_with_upwards_trend:【0/72/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzMzI1Njg3Mw==)
 
-[:camera_flash:【2026-10-31T23:34:56】](https://mp.weixin.qq.com/s?__biz=MzIzMzI1Njg3Mw==&mid=2651935620&idx=1&sn=419f44fa878f9f4712a867358f717234&scene=27#wechat_redirect)
+[:camera_flash:【2026-11-01T18:41:51】](https://mp.weixin.qq.com/s?__biz=MzIzMzI1Njg3Mw==&mid=2651935629&idx=1&sn=52a273aed0caf3e9eda00ce808cb10e0&scene=27#wechat_redirect)
 
 分享电脑小白进阶指南、实用技巧与避坑干货，旨在让技术变简单，内容涵盖装机攻略等科技相关知识
 
@@ -27,9 +27,9 @@
 
 ### [船山信安](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2NDY2OTU4Nw==)
 
-[:chart_with_upwards_trend:【35/35/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2NDY2OTU4Nw==)
+[:chart_with_upwards_trend:【36/36/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2NDY2OTU4Nw==)
 
-[:camera_flash:【2026-11-01T00:00:00】](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247533268&idx=1&sn=6aa30e4c01b8a11ea113e6df84ed2e01&scene=27#wechat_redirect)
+[:camera_flash:【2026-11-02T00:00:00】](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247533269&idx=1&sn=d9ea14ac1a8117891d1b32ab978a3a55&scene=27#wechat_redirect)
 
 船山院士网络安全团队唯一公众号，为国之安全而奋斗，为信息安全而发声！
 
@@ -42,7 +42,7 @@
 
 [:chart_with_upwards_trend:【22/22/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk1NzIyODg2OQ==)
 
-[:camera_flash:【2026-11-01T00:00:00】](https://mp.weixin.qq.com/s?__biz=Mzk1NzIyODg2OQ==&mid=2247486285&idx=1&sn=cfa067acd1e9543750e4947c938cdf2c&scene=27#wechat_redirect)
+[:camera_flash:【2026-11-02T00:00:00】](https://mp.weixin.qq.com/s?__biz=Mzk1NzIyODg2OQ==&mid=2247486289&idx=1&sn=58453070b45843c51f34980745f53590&scene=27#wechat_redirect)
 
 团队研究方向：CTF、Web、代码审计。会不断分享有用的工具以及知识分享
 
@@ -53,7 +53,7 @@
 
 ### [HackSee](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTA0MTY2Mw==)
 
-[:chart_with_upwards_trend:【0/21/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTA0MTY2Mw==)
+[:chart_with_upwards_trend:【0/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTA0MTY2Mw==)
 
 [:camera_flash:【2026-10-31T17:25:21】](https://mp.weixin.qq.com/s?__biz=MzI5NTA0MTY2Mw==&mid=2247486730&idx=1&sn=e3bfed90617087875dbf2d6bdaa31181&scene=27#wechat_redirect)
 
@@ -129,6 +129,19 @@
 ---
 
 
+### [源影安全团队](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwNjM5NTkwOA==)
+
+[:chart_with_upwards_trend:【6/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwNjM5NTkwOA==)
+
+[:camera_flash:【2026-11-01T15:57:17】](https://mp.weixin.qq.com/s?__biz=MzkwNjM5NTkwOA==&mid=2247484503&idx=1&sn=cb38d7c64b3e7ec7f319bcffa6b2cf90&scene=27#wechat_redirect)
+
+MetaShadow-Lab汇集全球海量源数据，同时与全网最新数据如影随形，实现网络与现实世界的虚实结合。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_1ad1d514b51d" alt="" />
+
+---
+
+
 ### [安全研究GoSSIP](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5ODUxMzg0Ng==)
 
 [:chart_with_upwards_trend:【4/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5ODUxMzg0Ng==)
@@ -138,19 +151,6 @@
 G.O.S.S.I.P 软件安全研究组
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_b9df5957f66d" alt="" />
-
----
-
-
-### [源影安全团队](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwNjM5NTkwOA==)
-
-[:chart_with_upwards_trend:【5/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwNjM5NTkwOA==)
-
-[:camera_flash:【2026-10-22T01:27:52】](https://mp.weixin.qq.com/s?__biz=MzkwNjM5NTkwOA==&mid=2247484488&idx=1&sn=4568ee201cd144b7336a368db2e097aa&scene=27#wechat_redirect)
-
-MetaShadow-Lab汇集全球海量源数据，同时与全网最新数据如影随形，实现网络与现实世界的虚实结合。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_1ad1d514b51d" alt="" />
 
 ---
 

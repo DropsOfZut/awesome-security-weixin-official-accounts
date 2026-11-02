@@ -1,9 +1,9 @@
 
 ### [安全学术圈](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
 
-[:chart_with_upwards_trend:【6/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
+[:chart_with_upwards_trend:【7/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
 
-[:camera_flash:【2026-10-30T18:30:00】](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247496089&idx=1&sn=5e1f4016b6e2730fcd6ef3f8e9ee38f0&scene=27#wechat_redirect)
+[:camera_flash:【2026-11-01T15:16:34】](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247496099&idx=1&sn=a6329de40b80d57f4a1f8f8a33a2279e&scene=27#wechat_redirect)
 
 分享安全方面的论文写作、会议发表、基金申请方面的资料。
 
@@ -73,6 +73,19 @@
 基于知道创宇14年来海量真实攻防数据积累，通过AI+安全大数据能力持续自生产、精粹和分析，实时输出高精准、高价值威胁情报，赋能于全场景安全建设体系。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_dd8b72c1c127" alt="" />
+
+---
+
+
+### [七夜安全博客](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwODIxMjc4MQ==)
+
+[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwODIxMjc4MQ==)
+
+[:camera_flash:【2026-11-01T20:29:45】](https://mp.weixin.qq.com/s?__biz=MzIwODIxMjc4MQ==&mid=2651005955&idx=1&sn=6a0155af6d69a89217fee6d888a1eede&scene=27#wechat_redirect)
+
+和七夜一起去探索人生的星辰大海，技术人并不只有技术，你要的人生成长与自由在这里
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_20344080d59d" alt="" />
 
 ---
 
@@ -242,19 +255,6 @@ FOFA是由华顺信安科技有限公司开发的一款网络空间资产搜索�
 夜幕团队公众号，涉猎的编程语言包括 Python、Rust、C++、Go，领域涵盖爬虫、深度学习、服务研发和对象存储等，反正谁先关注，谁先涨工资。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_b46c4f4dc23b" alt="" />
-
----
-
-
-### [七夜安全博客](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwODIxMjc4MQ==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwODIxMjc4MQ==)
-
-[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
-
-和七夜一起去探索人生的星辰大海，技术人并不只有技术，你要的人生成长与自由在这里
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_20344080d59d" alt="" />
 
 ---
 
