@@ -12,28 +12,15 @@
 ---
 
 
-### [三叶草小组Syclover](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzOTg0NjYzNg==)
+### [驯海隔壁白帽子](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0ODU4NjIzNA==)
 
-[:chart_with_upwards_trend:【1/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzOTg0NjYzNg==)
+[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0ODU4NjIzNA==)
 
-[:camera_flash:【2026-10-19T18:41:27】](https://mp.weixin.qq.com/s?__biz=MzIzOTg0NjYzNg==&mid=2247491355&idx=2&sn=5a768082ec53e5044234a23a95b5f975&scene=27#wechat_redirect)
+[:camera_flash:【2026-11-02T13:17:48】](https://mp.weixin.qq.com/s?__biz=Mzk0ODU4NjIzNA==&mid=2247485707&idx=1&sn=a2df94b559a9bef2f590af8d4f444a9f&scene=27#wechat_redirect)
 
-一个专注于网络空间安全的高校技术团队，成立于2005年3月，主要研究方向有渗透测试、逆向工程、移动安全、安全编程、漏洞利用等；公众号定期推送小组成员原创文章
+我们是一群专注网络安全的爱好者，希望通过轻松有趣的方式，把实用的技术知识分享给大家。带来新鲜干货，一起筑牢网络安全屏障，安心畅游数字世界！
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_962842f4917b" alt="" />
-
----
-
-
-### [谛听ditecting](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzQyOTU0Nw==)
-
-[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzQyOTU0Nw==)
-
-[:camera_flash:【2026-10-20T08:00:00】](https://mp.weixin.qq.com/s?__biz=MzU3MzQyOTU0Nw==&mid=2247503909&idx=1&sn=c94373390598dd7baf7d7a50768ef9c5&scene=27#wechat_redirect)
-
-东北大学“谛听”网络安全团队
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ce3e0df31e50" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_9352cbd40d35" alt="" />
 
 ---
 
@@ -64,15 +51,41 @@
 ---
 
 
-### [驯海隔壁白帽子](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0ODU4NjIzNA==)
+### [三叶草小组Syclover](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzOTg0NjYzNg==)
 
-[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0ODU4NjIzNA==)
+[:chart_with_upwards_trend:【1/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzOTg0NjYzNg==)
 
-[:camera_flash:【2026-10-24T20:29:57】](https://mp.weixin.qq.com/s?__biz=Mzk0ODU4NjIzNA==&mid=2247485696&idx=1&sn=fd28c3f06c76e16bb1ff30aae07af7c4&scene=27#wechat_redirect)
+[:camera_flash:【2026-10-19T18:41:27】](https://mp.weixin.qq.com/s?__biz=MzIzOTg0NjYzNg==&mid=2247491355&idx=2&sn=5a768082ec53e5044234a23a95b5f975&scene=27#wechat_redirect)
 
-我们是一群专注网络安全的爱好者，希望通过轻松有趣的方式，把实用的技术知识分享给大家。带来新鲜干货，一起筑牢网络安全屏障，安心畅游数字世界！
+一个专注于网络空间安全的高校技术团队，成立于2005年3月，主要研究方向有渗透测试、逆向工程、移动安全、安全编程、漏洞利用等；公众号定期推送小组成员原创文章
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_9352cbd40d35" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_962842f4917b" alt="" />
+
+---
+
+
+### [谛听ditecting](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzQyOTU0Nw==)
+
+[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzQyOTU0Nw==)
+
+[:camera_flash:【2026-10-20T08:00:00】](https://mp.weixin.qq.com/s?__biz=MzU3MzQyOTU0Nw==&mid=2247503909&idx=1&sn=c94373390598dd7baf7d7a50768ef9c5&scene=27#wechat_redirect)
+
+东北大学“谛听”网络安全团队
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ce3e0df31e50" alt="" />
+
+---
+
+
+### [深圳网安培训学院](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDYzMjAyNA==)
+
+[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDYzMjAyNA==)
+
+[:camera_flash:【2026-11-02T16:00:11】](https://mp.weixin.qq.com/s?__biz=Mzg3MDYzMjAyNA==&mid=2247487136&idx=1&sn=6285d0ef1a447bb05176389941065bec&scene=27#wechat_redirect)
+
+深圳市网安计算机网络安全培训中心是由深圳市人力资源局备案的社会第三方培训机构。是受广东省人力资源和社会保障厅委托，开展“网络与信息安全管理员”职业技能等级认定工作的第三方社会评价机构。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_94f04a96b1ca" alt="" />
 
 ---
 
@@ -142,15 +155,15 @@
 ---
 
 
-### [深圳网安培训学院](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDYzMjAyNA==)
+### [浙大网安](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5NDczNDc4NA==)
 
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDYzMjAyNA==)
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5NDczNDc4NA==)
 
-[:camera_flash:【2026-10-22T14:45:48】](https://mp.weixin.qq.com/s?__biz=Mzg3MDYzMjAyNA==&mid=2247487129&idx=1&sn=6dce14c2f648e1c5d7cb4f429a016a7b&scene=27#wechat_redirect)
+[:camera_flash:【2026-11-02T17:33:37】](https://mp.weixin.qq.com/s?__biz=Mzg5NDczNDc4NA==&mid=2247496272&idx=1&sn=41425076997237437cc5049d7353217b&scene=27#wechat_redirect)
 
-深圳市网安计算机网络安全培训中心是由深圳市人力资源局备案的社会第三方培训机构。是受广东省人力资源和社会保障厅委托，开展“网络与信息安全管理员”职业技能等级认定工作的第三方社会评价机构。
+浙江大学网络空间安全学院/浙江大学网络空间安全研究中心
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_94f04a96b1ca" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e603b55057e7" alt="" />
 
 ---
 
@@ -658,19 +671,6 @@ Covteam工作室，成立于2005年。是以西华大学在校本科生研究生
 分享网安干货技能，致力于实战网安技能人才培养
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_861ca8c2271b" alt="" />
-
----
-
-
-### [浙大网安](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5NDczNDc4NA==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5NDczNDc4NA==)
-
-[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
-
-浙江大学网络空间安全学院/浙江大学网络空间安全研究中心
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e603b55057e7" alt="" />
 
 ---
 

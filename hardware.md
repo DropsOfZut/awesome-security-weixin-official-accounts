@@ -14,9 +14,9 @@
 
 ### [IoT物联网技术](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
 
-[:chart_with_upwards_trend:【21/26/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
+[:chart_with_upwards_trend:【22/27/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
 
-[:camera_flash:【2026-11-01T18:21:00】](https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&mid=2454949701&idx=1&sn=e34a8cc16c94af5cc3d8a9983ce17f0e&scene=27#wechat_redirect)
+[:camera_flash:【2026-11-02T20:07:00】](https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&mid=2454949730&idx=1&sn=81e9d6c193dd428b4b7929c11ab76d2d&scene=27#wechat_redirect)
 
 云计算、物联网、大模型暗中观察小分队
 
@@ -66,9 +66,9 @@
 
 ### [取证与溯源](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyOTcyNDg1OA==)
 
-[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyOTcyNDg1OA==)
+[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyOTcyNDg1OA==)
 
-[:camera_flash:【2026-10-22T23:08:34】](https://mp.weixin.qq.com/s?__biz=MzUyOTcyNDg1OA==&mid=2247485599&idx=1&sn=6dd9e66023d6ba48c09fcc29d9e99f66&scene=27#wechat_redirect)
+[:camera_flash:【2026-11-02T14:47:06】](https://mp.weixin.qq.com/s?__biz=MzUyOTcyNDg1OA==&mid=2247485601&idx=1&sn=7e4eb86acda0cbc67de2d94e22f17c68&scene=27#wechat_redirect)
 
 电子数据取证与应急响应从业者交流平台
 
