@@ -1,9 +1,9 @@
 
 ### [奇安信CERT](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NDgxODU1MQ==)
 
-[:chart_with_upwards_trend:【0/19/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NDgxODU1MQ==)
+[:chart_with_upwards_trend:【0/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NDgxODU1MQ==)
 
-[:camera_flash:【2026-11-02T16:51:31】](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507987&idx=1&sn=0725706555a43c3a36e4f766b32e7427&scene=27#wechat_redirect)
+[:camera_flash:【2026-11-03T17:44:53】](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507998&idx=1&sn=be5814f110096f1e65ec30a7a35c573f&scene=27#wechat_redirect)
 
 为企业级用户提供高危漏洞、重大安全事件安全风险通告和相关产品解决方案。
 
@@ -77,6 +77,19 @@
 ---
 
 
+### [安恒信息CERT](http://wechat.doonsec.com/wechat_echarts/?biz=MzY5NjAyMzQxOA==)
+
+[:chart_with_upwards_trend:【0/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzY5NjAyMzQxOA==)
+
+[:camera_flash:【2026-11-03T15:33:30】](https://mp.weixin.qq.com/s?__biz=MzY5NjAyMzQxOA==&mid=2247489739&idx=1&sn=50fc3f28295477c2711696264892da06&scene=27#wechat_redirect)
+
+安恒应急响应中心为客户提供最精准预警通告，同时提供漏洞 在客户应用系统危害、影响范围及修补方案等信息。公司产品 漏洞提交请联系：400-6059-110，或邮件联系：src@dbappsecurity.com.cn
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_09cc42516d89" alt="" />
+
+---
+
+
 ### [绿盟科技CERT](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0MjE3ODkxNg==)
 
 [:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0MjE3ODkxNg==)
@@ -99,19 +112,6 @@
 为企业及家庭打造专业、精准、纯净、高效的安全服务平台。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8424f7cbf425" alt="" />
-
----
-
-
-### [安恒信息CERT](http://wechat.doonsec.com/wechat_echarts/?biz=MzY5NjAyMzQxOA==)
-
-[:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzY5NjAyMzQxOA==)
-
-[:camera_flash:【2026-10-24T13:45:50】](https://mp.weixin.qq.com/s?__biz=MzY5NjAyMzQxOA==&mid=2247489733&idx=1&sn=6e7ea4ec23ff63853f21bc34a125e8e7&scene=27#wechat_redirect)
-
-安恒应急响应中心为客户提供最精准预警通告，同时提供漏洞 在客户应用系统危害、影响范围及修补方案等信息。公司产品 漏洞提交请联系：400-6059-110，或邮件联系：src@dbappsecurity.com.cn
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_09cc42516d89" alt="" />
 
 ---
 
@@ -424,6 +424,19 @@ https://security.kuaishou.com
 度小满金融安全部官方账号
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8689df50ad99" alt="" />
+
+---
+
+
+### [BOSS直聘安全应急响应中心](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyODIwNDI3NA==)
+
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyODIwNDI3NA==)
+
+[:camera_flash:【2026-11-03T18:00:00】](https://mp.weixin.qq.com/s?__biz=MzkyODIwNDI3NA==&mid=2247486409&idx=1&sn=f051a1f7d2b61e1543735fc055cfeaad&scene=27#wechat_redirect)
+
+BOSS直聘安全应急响应中心官方公众号
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8b1e1f6a89b7" alt="" />
 
 ---
 
@@ -918,19 +931,6 @@ WiFi万能钥匙安全应急响应中心，隶属掌门集团旗下的上海连�
 水滴安全应急响应中心官方账号
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_181d1842a90c" alt="" />
-
----
-
-
-### [BOSS直聘安全应急响应中心](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyODIwNDI3NA==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyODIwNDI3NA==)
-
-[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
-
-BOSS直聘安全应急响应中心官方公众号
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8b1e1f6a89b7" alt="" />
 
 ---
 

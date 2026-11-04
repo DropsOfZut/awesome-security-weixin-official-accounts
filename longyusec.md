@@ -1,7 +1,7 @@
 
 ### [泷羽Sec-幽居初夏](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk1Nzk0MDM4NA==)
 
-[:chart_with_upwards_trend:【10/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk1Nzk0MDM4NA==)
+[:chart_with_upwards_trend:【8/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk1Nzk0MDM4NA==)
 
 [:camera_flash:【2026-10-21T07:00:00】](https://mp.weixin.qq.com/s?__biz=Mzk1Nzk0MDM4NA==&mid=2247483816&idx=1&sn=43644b47a763fe87db660e69912281e7&scene=27#wechat_redirect)
 
