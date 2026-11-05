@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【8/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk1Nzk0MDM4NA==)
 
-[:camera_flash:【2026-10-21T07:00:00】](https://mp.weixin.qq.com/s?__biz=Mzk1Nzk0MDM4NA==&mid=2247483816&idx=1&sn=43644b47a763fe87db660e69912281e7&scene=27#wechat_redirect)
+[:camera_flash:【2026-11-04T08:18:50】](https://mp.weixin.qq.com/s?__biz=Mzk1Nzk0MDM4NA==&mid=2247483817&idx=1&sn=b06c6154edd72fff30adb660ae4f4247&scene=27#wechat_redirect)
 
 分享挖斗技巧和实战，收集和开发各种渗透工具与使用，泷羽sec团队核心成员。声明：在此公众号上学习的任何渗透技能和工具使用，切勿非法使用，一切后果自行承担。
 

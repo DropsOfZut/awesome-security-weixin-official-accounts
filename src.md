@@ -1,9 +1,9 @@
 
 ### [奇安信CERT](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NDgxODU1MQ==)
 
-[:chart_with_upwards_trend:【0/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NDgxODU1MQ==)
+[:chart_with_upwards_trend:【0/21/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NDgxODU1MQ==)
 
-[:camera_flash:【2026-11-03T17:44:53】](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507998&idx=1&sn=be5814f110096f1e65ec30a7a35c573f&scene=27#wechat_redirect)
+[:camera_flash:【2026-11-04T17:26:07】](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247508010&idx=1&sn=7907e2aaa98df6d9be2a950b5064bac4&scene=27#wechat_redirect)
 
 为企业级用户提供高危漏洞、重大安全事件安全风险通告和相关产品解决方案。
 
@@ -14,9 +14,9 @@
 
 ### [国家互联网应急中心CNCERT](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNDk0MDgxMw==)
 
-[:chart_with_upwards_trend:【11/17/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNDk0MDgxMw==)
+[:chart_with_upwards_trend:【11/18/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNDk0MDgxMw==)
 
-[:camera_flash:【2026-11-02T16:38:09】](https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247502488&idx=1&sn=445404bae04aa5c524662fd69e2f0cc6&scene=27#wechat_redirect)
+[:camera_flash:【2026-11-04T09:30:14】](https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247502490&idx=1&sn=af8071dc908e2929d02722c6b1a6bf26&scene=27#wechat_redirect)
 
 国家计算机网络应急技术处理协调中心（简称“国家互联网应急中心”，英文简称CNCERT或CNCERT/CC），成立于2001年8月，为非政府非盈利的网络安全技术中心，是中国计算机网络应急处理体系中的牵头单位。
 
@@ -40,9 +40,9 @@
 
 ### [solar专业应急响应团队](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyOTQ0MjE1NQ==)
 
-[:chart_with_upwards_trend:【8/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyOTQ0MjE1NQ==)
+[:chart_with_upwards_trend:【9/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyOTQ0MjE1NQ==)
 
-[:camera_flash:【2026-10-31T12:22:40】](https://mp.weixin.qq.com/s?__biz=MzkyOTQ0MjE1NQ==&mid=2247514625&idx=1&sn=f5140463141476ce77e3bd4ba9b83f01&scene=27#wechat_redirect)
+[:camera_flash:【2026-11-04T18:16:01】](https://mp.weixin.qq.com/s?__biz=MzkyOTQ0MjE1NQ==&mid=2247514707&idx=1&sn=9adcc3db3c6a1e91f78523aa73948480&scene=27#wechat_redirect)
 
 7×24小时在线服务，国企背景资质保证。专业安全团队，十余年来专注数据恢复，漏洞修补，安全加固。当天完成评估、修复，不成功不收费。同时完成攻击溯源、漏洞排查、漏洞修补，保障您的服务器安全！
 
@@ -177,6 +177,19 @@ OPPO安全中心（OSRC）官方公众号。OSRC是致力于保障OPPO用户、�
 阿里云安全应急响应中心为云上客户提供最精准风险预警通告，基于云安全中心的威胁情报收集能力、分析能力、漏洞挖掘能力、应急响应处置能力为客户上云提供高效、精准，真实的漏洞威胁预警、重大安全事件预警。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_12f3517e40de" alt="" />
+
+---
+
+
+### [斗象智能安全](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMjcyNzA5Mw==)
+
+[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMjcyNzA5Mw==)
+
+[:camera_flash:【2026-11-03T20:23:47】](https://mp.weixin.qq.com/s?__biz=MzIwMjcyNzA5Mw==&mid=2247495614&idx=1&sn=bbbeed0b813bb5a80f15c309deca643b&scene=27#wechat_redirect)
+
+斗象智能安全是斗象科技旗下产品品牌。打造以数据分析为基石，攻防实战引领的新一代智能安全产品解决方案。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f58af6ae958a" alt="" />
 
 ---
 
@@ -320,19 +333,6 @@ https://security.kuaishou.com
 陌陌安全致力于守护陌陌亿万用户信息安全，为陌陌产品安全保驾护航，为亿万用户提供安全的互联网生态环境。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0b9e1461c456" alt="" />
-
----
-
-
-### [斗象智能安全](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMjcyNzA5Mw==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMjcyNzA5Mw==)
-
-[:camera_flash:【2026-10-12T14:12:50】](https://mp.weixin.qq.com/s?__biz=MzIwMjcyNzA5Mw==&mid=2247495605&idx=1&sn=07c339ee18ca93cb9fc22558401f2c84&scene=27#wechat_redirect)
-
-斗象智能安全是斗象科技旗下产品品牌。打造以数据分析为基石，攻防实战引领的新一代智能安全产品解决方案。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f58af6ae958a" alt="" />
 
 ---
 
