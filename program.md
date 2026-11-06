@@ -1,9 +1,9 @@
 
 ### [安全学术圈](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
 
-[:chart_with_upwards_trend:【8/13/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
+[:chart_with_upwards_trend:【9/14/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
 
-[:camera_flash:【2026-11-04T14:14:13】](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247496128&idx=1&sn=1dc959cd6595697baaed8cb9cac9ef68&scene=27#wechat_redirect)
+[:camera_flash:【2026-11-05T18:30:00】](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247496129&idx=1&sn=784ba8c5fa279f56b4fdbb627e916fd3&scene=27#wechat_redirect)
 
 分享安全方面的论文写作、会议发表、基金申请方面的资料。
 
@@ -27,9 +27,9 @@
 
 ### [腾讯技术工程](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
 
-[:chart_with_upwards_trend:【7/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
+[:chart_with_upwards_trend:【8/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
 
-[:camera_flash:【2026-11-04T13:30:37】](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649808030&idx=1&sn=b1a1332f38f89c2d4cc91899900ddf33&scene=27#wechat_redirect)
+[:camera_flash:【2026-11-05T17:33:00】](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649808051&idx=1&sn=aae2ab11cae15d4014bf7af0bb0cb118&scene=27#wechat_redirect)
 
 腾讯技术官方号。腾讯技术创新、前沿领域发布解读平台。
 
@@ -40,9 +40,9 @@
 
 ### [北邮GAMMALab](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzE1MTQzNw==)
 
-[:chart_with_upwards_trend:【1/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzE1MTQzNw==)
+[:chart_with_upwards_trend:【1/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzE1MTQzNw==)
 
-[:camera_flash:【2026-10-30T10:54:21】](https://mp.weixin.qq.com/s?__biz=Mzg4MzE1MTQzNw==&mid=2247494211&idx=1&sn=d5f9824989d59f3ec9ad4f81b13ca4b9&scene=27#wechat_redirect)
+[:camera_flash:【2026-11-05T14:19:27】](https://mp.weixin.qq.com/s?__biz=Mzg4MzE1MTQzNw==&mid=2247494233&idx=1&sn=9accd830249ed333f10a12873a2b4570&scene=27#wechat_redirect)
 
 北邮图数据挖掘与机器学习实验室
 

@@ -12,6 +12,19 @@
 ---
 
 
+### [NISL实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxMTEwOTA3OA==)
+
+[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxMTEwOTA3OA==)
+
+[:camera_flash:【2026-11-04T19:30:00】](https://mp.weixin.qq.com/s?__biz=MzUxMTEwOTA3OA==&mid=2247485880&idx=1&sn=1cf87d29d9872b9bc83c538c415fb3c7&scene=27#wechat_redirect)
+
+网络与信息安全实验室(NISL@THU)，专注于网络、系统、应用、人工智能安全教学与研究，在国际四大安全会议发表三十余篇论文，成果在业界产生了广泛影响力。孕育了蓝莲花、紫荆花等知名战队，发起了网安国际学术论坛InForSec。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_52677a4545d1" alt="" />
+
+---
+
+
 ### [驯海隔壁白帽子](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0ODU4NjIzNA==)
 
 [:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0ODU4NjIzNA==)
@@ -34,19 +47,6 @@
 渭南师范学院网络信息安全协会官方账号，为您提供网络安全相关资讯与技术分享。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f4e0f7548c2f" alt="" />
-
----
-
-
-### [NISL实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxMTEwOTA3OA==)
-
-[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxMTEwOTA3OA==)
-
-[:camera_flash:【2026-11-01T21:00:00】](https://mp.weixin.qq.com/s?__biz=MzUxMTEwOTA3OA==&mid=2247485872&idx=1&sn=de7ea9f0e45eb67a1bdd30cef997f6a7&scene=27#wechat_redirect)
-
-网络与信息安全实验室(NISL@THU)，专注于网络、系统、应用、人工智能安全教学与研究，在国际四大安全会议发表三十余篇论文，成果在业界产生了广泛影响力。孕育了蓝莲花、紫荆花等知名战队，发起了网安国际学术论坛InForSec。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_52677a4545d1" alt="" />
 
 ---
 

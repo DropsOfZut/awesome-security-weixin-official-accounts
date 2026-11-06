@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【8/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk1Nzk0MDM4NA==)
 
-[:camera_flash:【2026-11-04T08:18:50】](https://mp.weixin.qq.com/s?__biz=Mzk1Nzk0MDM4NA==&mid=2247483817&idx=1&sn=b06c6154edd72fff30adb660ae4f4247&scene=27#wechat_redirect)
+[:camera_flash:【2026-11-05T07:54:43】](https://mp.weixin.qq.com/s?__biz=Mzk1Nzk0MDM4NA==&mid=2247483822&idx=1&sn=ebfc53e1023686531c1887defcf72191&scene=27#wechat_redirect)
 
 分享挖斗技巧和实战，收集和开发各种渗透工具与使用，泷羽sec团队核心成员。声明：在此公众号上学习的任何渗透技能和工具使用，切勿非法使用，一切后果自行承担。
 
@@ -40,13 +40,26 @@
 
 ### [泷羽Sec](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2Nzk0NjA4Mg==)
 
-[:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2Nzk0NjA4Mg==)
+[:chart_with_upwards_trend:【2/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2Nzk0NjA4Mg==)
 
-[:camera_flash:【2026-11-01T22:07:41】](https://mp.weixin.qq.com/s?__biz=Mzg2Nzk0NjA4Mg==&mid=2247513771&idx=1&sn=e647a3548f8c7230cf6ba348aa4c0ca2&scene=27#wechat_redirect)
+[:camera_flash:【2026-11-05T08:00:00】](https://mp.weixin.qq.com/s?__biz=Mzg2Nzk0NjA4Mg==&mid=2247513776&idx=1&sn=0236ff74b0f4fe6803593e881ada4e88&scene=27#wechat_redirect)
 
 B站：泷羽Sec，团队专注于网络安全领域的内容创作与分享，为网络安全而战。来自一个从零开始学习网安的见习生。很菜，不喜勿喷。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_b3bfbc45e60c" alt="" />
+
+---
+
+
+### [泷羽Sec-静安](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NDE0NTY0OQ==)
+
+[:chart_with_upwards_trend:【2/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NDE0NTY0OQ==)
+
+[:camera_flash:【2026-11-04T23:34:51】](https://mp.weixin.qq.com/s?__biz=MzA3NDE0NTY0OQ==&mid=2247489388&idx=1&sn=81e4f936e42deef291c86d63d2239477&scene=27#wechat_redirect)
+
+专注网络安全与编程技术的学习与分享，探索技术细节与实际应用。声明：本公众号所分享的工具与资源，仅供学习与研究使用，严禁用于任何非法活动。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0405d0f72fd4" alt="" />
 
 ---
 
@@ -60,19 +73,6 @@ B站：泷羽Sec，团队专注于网络安全领域的内容创作与分享，�
 学习安全技能，笔记记录，安全见闻。公众号文章只是个人用来进行学习研究，如果通过本公众号文章进行其他用途，触犯了国家法律全都与本公众号无关。如果文章涉及侵权请即使联系公众号所有者，即使删除相关文章。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_b4713c445a7d" alt="" />
-
----
-
-
-### [泷羽Sec-静安](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NDE0NTY0OQ==)
-
-[:chart_with_upwards_trend:【1/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NDE0NTY0OQ==)
-
-[:camera_flash:【2026-11-01T22:40:38】](https://mp.weixin.qq.com/s?__biz=MzA3NDE0NTY0OQ==&mid=2247489377&idx=1&sn=dd64384d455153115a1ff1c53b952f9d&scene=27#wechat_redirect)
-
-专注网络安全与编程技术的学习与分享，探索技术细节与实际应用。声明：本公众号所分享的工具与资源，仅供学习与研究使用，严禁用于任何非法活动。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0405d0f72fd4" alt="" />
 
 ---
 

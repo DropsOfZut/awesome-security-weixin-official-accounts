@@ -1,9 +1,9 @@
 
 ### [奇安信CERT](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NDgxODU1MQ==)
 
-[:chart_with_upwards_trend:【0/21/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NDgxODU1MQ==)
+[:chart_with_upwards_trend:【0/22/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NDgxODU1MQ==)
 
-[:camera_flash:【2026-11-04T17:26:07】](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247508010&idx=1&sn=7907e2aaa98df6d9be2a950b5064bac4&scene=27#wechat_redirect)
+[:camera_flash:【2026-11-05T19:48:57】](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247508031&idx=1&sn=be47d2b6316db564dc261a0d5a42bcd1&scene=27#wechat_redirect)
 
 为企业级用户提供高危漏洞、重大安全事件安全风险通告和相关产品解决方案。
 
@@ -51,6 +51,19 @@
 ---
 
 
+### [CNNVD安全动态](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxODY1OTM5OQ==)
+
+[:chart_with_upwards_trend:【8/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxODY1OTM5OQ==)
+
+[:camera_flash:【2026-11-04T22:04:32】](https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651465730&idx=1&sn=a529e3bbd6f57b97f82d53e2112a747a&scene=27#wechat_redirect)
+
+国家信息安全漏洞库（CNNVD）是中国信息安全测评中心为切实履行漏洞分析和风险评估的职能，负责建设运维的国家信息安全漏洞库，为我国信息安全保障提供基础服务。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_c8ed6c0fce02" alt="" />
+
+---
+
+
 ### [CNVD漏洞平台](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3ODM2NTg2Mg==)
 
 [:chart_with_upwards_trend:【7/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3ODM2NTg2Mg==)
@@ -64,15 +77,15 @@
 ---
 
 
-### [CNNVD安全动态](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxODY1OTM5OQ==)
+### [安天垂直响应平台](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MTU3NTM0Nw==)
 
-[:chart_with_upwards_trend:【7/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxODY1OTM5OQ==)
+[:chart_with_upwards_trend:【0/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MTU3NTM0Nw==)
 
-[:camera_flash:【2026-10-28T15:03:11】](https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651465687&idx=1&sn=5b00b28e1686f7daf541368eb93d3c12&scene=27#wechat_redirect)
+[:camera_flash:【2026-11-05T15:07:00】](https://mp.weixin.qq.com/s?__biz=Mzg5MTU3NTM0Nw==&mid=2247486265&idx=1&sn=bfb92d0f25a33c00f41fe0f5c0f40895&scene=27#wechat_redirect)
 
-国家信息安全漏洞库（CNNVD）是中国信息安全测评中心为切实履行漏洞分析和风险评估的职能，负责建设运维的国家信息安全漏洞库，为我国信息安全保障提供基础服务。
+为企业及家庭打造专业、精准、纯净、高效的安全服务平台。
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_c8ed6c0fce02" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8424f7cbf425" alt="" />
 
 ---
 
@@ -99,19 +112,6 @@
 绿盟科技CERT针对高危漏洞与安全事件进行快速响应，提供可落地的解决方案，协助用户提升应对威胁的能力。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ab56f0f84265" alt="" />
-
----
-
-
-### [安天垂直响应平台](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MTU3NTM0Nw==)
-
-[:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MTU3NTM0Nw==)
-
-[:camera_flash:【2026-11-01T21:40:00】](https://mp.weixin.qq.com/s?__biz=Mzg5MTU3NTM0Nw==&mid=2247486256&idx=1&sn=38031da549d5d112da738eae1d25cba1&scene=27#wechat_redirect)
-
-为企业及家庭打造专业、精准、纯净、高效的安全服务平台。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8424f7cbf425" alt="" />
 
 ---
 
@@ -155,6 +155,19 @@
 ---
 
 
+### [快手安全应急响应中心](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MDg0MDc2MQ==)
+
+[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MDg0MDc2MQ==)
+
+[:camera_flash:【2026-11-05T13:59:34】](https://mp.weixin.qq.com/s?__biz=MzU5MDg0MDc2MQ==&mid=2247499452&idx=1&sn=e3fb8da22efe563e9e0f8b7ab5108989&scene=27#wechat_redirect)
+
+https://security.kuaishou.com
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_99dfd622a012" alt="" />
+
+---
+
+
 ### [OPPO安全中心](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyNzc4Mzk3MQ==)
 
 [:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyNzc4Mzk3MQ==)
@@ -164,6 +177,19 @@
 OPPO安全中心（OSRC）官方公众号。OSRC是致力于保障OPPO用户、业务和产品安全，促进消费者了解OPPO产品、业务相关安全隐私功能，传播OPPO安全隐私理念及态度的平台。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ab0a19ae353a" alt="" />
+
+---
+
+
+### [阿里安全响应中心](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxMjEwNTc4NA==)
+
+[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxMjEwNTc4NA==)
+
+[:camera_flash:【2026-11-04T19:16:29】](https://mp.weixin.qq.com/s?__biz=MzIxMjEwNTc4NA==&mid=2652999164&idx=1&sn=76a8d325e4df921cb59ec80a1b578df0&scene=27#wechat_redirect)
+
+阿里巴巴安全应急响应中心官方微信公众号
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_3370d740b562" alt="" />
 
 ---
 
@@ -216,19 +242,6 @@ OPPO安全中心（OSRC）官方公众号。OSRC是致力于保障OPPO用户、�
 联合行业力量，构建网络安全实时监测数据的海量数据库，形成集威胁实时分析、研判、溯源、处置为一体的解决体系。平台为用户开放威胁信息共享，提供信息查询和订阅服务，实现互通有无、相存相依、良性共生的网络安全威胁共享生态圈。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_bed93c51b75b" alt="" />
-
----
-
-
-### [快手安全应急响应中心](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MDg0MDc2MQ==)
-
-[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MDg0MDc2MQ==)
-
-[:camera_flash:【2026-10-28T15:20:03】](https://mp.weixin.qq.com/s?__biz=MzU5MDg0MDc2MQ==&mid=2247499349&idx=1&sn=337f966902bf7ebccf36ecfeefe6961b&scene=27#wechat_redirect)
-
-https://security.kuaishou.com
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_99dfd622a012" alt="" />
 
 ---
 
@@ -307,19 +320,6 @@ https://security.kuaishou.com
 滴滴出行安全应急响应中心（DiDi Security Response Center）非常欢迎广大用户和白帽子向我们提交滴滴出行产品和业务的安全漏洞，以帮助我们提升产品和业务的安全性，我们有专业的人员跟进处理，并将结果即时反馈给您。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_bce95b426cb7" alt="" />
-
----
-
-
-### [阿里安全响应中心](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxMjEwNTc4NA==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxMjEwNTc4NA==)
-
-[:camera_flash:【2026-11-02T17:30:49】](https://mp.weixin.qq.com/s?__biz=MzIxMjEwNTc4NA==&mid=2652999160&idx=1&sn=e1362902329ccb0167924d0d787568fa&scene=27#wechat_redirect)
-
-阿里巴巴安全应急响应中心官方微信公众号
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_3370d740b562" alt="" />
 
 ---
 
