@@ -1,9 +1,9 @@
 
 ### [奇安信CERT](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NDgxODU1MQ==)
 
-[:chart_with_upwards_trend:【0/22/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NDgxODU1MQ==)
+[:chart_with_upwards_trend:【0/23/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NDgxODU1MQ==)
 
-[:camera_flash:【2026-11-05T19:48:57】](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247508031&idx=1&sn=be47d2b6316db564dc261a0d5a42bcd1&scene=27#wechat_redirect)
+[:camera_flash:【2026-11-06T09:31:59】](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247508041&idx=1&sn=298ed9e842bc1bb98241c38a3c69b57d&scene=27#wechat_redirect)
 
 为企业级用户提供高危漏洞、重大安全事件安全风险通告和相关产品解决方案。
 
@@ -14,9 +14,9 @@
 
 ### [国家互联网应急中心CNCERT](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNDk0MDgxMw==)
 
-[:chart_with_upwards_trend:【11/18/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNDk0MDgxMw==)
+[:chart_with_upwards_trend:【12/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNDk0MDgxMw==)
 
-[:camera_flash:【2026-11-04T09:30:14】](https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247502490&idx=1&sn=af8071dc908e2929d02722c6b1a6bf26&scene=27#wechat_redirect)
+[:camera_flash:【2026-11-06T12:19:48】](https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247502531&idx=1&sn=137a2897d66a3a28a13183b1711164fc&scene=27#wechat_redirect)
 
 国家计算机网络应急技术处理协调中心（简称“国家互联网应急中心”，英文简称CNCERT或CNCERT/CC），成立于2001年8月，为非政府非盈利的网络安全技术中心，是中国计算机网络应急处理体系中的牵头单位。
 
@@ -155,6 +155,32 @@
 ---
 
 
+### [OPPO安全中心](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyNzc4Mzk3MQ==)
+
+[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyNzc4Mzk3MQ==)
+
+[:camera_flash:【2026-11-06T11:30:00】](https://mp.weixin.qq.com/s?__biz=MzUyNzc4Mzk3MQ==&mid=2247495108&idx=1&sn=ebfad4136b8c242e99a50e1691659eda&scene=27#wechat_redirect)
+
+OPPO安全中心（OSRC）官方公众号。OSRC是致力于保障OPPO用户、业务和产品安全，促进消费者了解OPPO产品、业务相关安全隐私功能，传播OPPO安全隐私理念及态度的平台。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ab0a19ae353a" alt="" />
+
+---
+
+
+### [阿里云应急响应](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5MzY2MzM0Mw==)
+
+[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5MzY2MzM0Mw==)
+
+[:camera_flash:【2026-11-06T11:59:17】](https://mp.weixin.qq.com/s?__biz=MzI5MzY2MzM0Mw==&mid=2247486420&idx=1&sn=f294caf49436ea3cb34cdb76ed973fba&scene=27#wechat_redirect)
+
+阿里云安全应急响应中心为云上客户提供最精准风险预警通告，基于云安全中心的威胁情报收集能力、分析能力、漏洞挖掘能力、应急响应处置能力为客户上云提供高效、精准，真实的漏洞威胁预警、重大安全事件预警。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_12f3517e40de" alt="" />
+
+---
+
+
 ### [快手安全应急响应中心](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MDg0MDc2MQ==)
 
 [:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MDg0MDc2MQ==)
@@ -168,19 +194,6 @@ https://security.kuaishou.com
 ---
 
 
-### [OPPO安全中心](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyNzc4Mzk3MQ==)
-
-[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyNzc4Mzk3MQ==)
-
-[:camera_flash:【2026-10-23T17:38:19】](https://mp.weixin.qq.com/s?__biz=MzUyNzc4Mzk3MQ==&mid=2247495087&idx=1&sn=fa940fb8fc529a82379b3f07b1c83d7d&scene=27#wechat_redirect)
-
-OPPO安全中心（OSRC）官方公众号。OSRC是致力于保障OPPO用户、业务和产品安全，促进消费者了解OPPO产品、业务相关安全隐私功能，传播OPPO安全隐私理念及态度的平台。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ab0a19ae353a" alt="" />
-
----
-
-
 ### [阿里安全响应中心](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxMjEwNTc4NA==)
 
 [:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxMjEwNTc4NA==)
@@ -190,19 +203,6 @@ OPPO安全中心（OSRC）官方公众号。OSRC是致力于保障OPPO用户、�
 阿里巴巴安全应急响应中心官方微信公众号
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_3370d740b562" alt="" />
-
----
-
-
-### [阿里云应急响应](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5MzY2MzM0Mw==)
-
-[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5MzY2MzM0Mw==)
-
-[:camera_flash:【2026-10-22T00:23:12】](https://mp.weixin.qq.com/s?__biz=MzI5MzY2MzM0Mw==&mid=2247486415&idx=1&sn=fff5a6636806122f20fb95f7072d5f7b&scene=27#wechat_redirect)
-
-阿里云安全应急响应中心为云上客户提供最精准风险预警通告，基于云安全中心的威胁情报收集能力、分析能力、漏洞挖掘能力、应急响应处置能力为客户上云提供高效、精准，真实的漏洞威胁预警、重大安全事件预警。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_12f3517e40de" alt="" />
 
 ---
 
@@ -255,19 +255,6 @@ OPPO安全中心（OSRC）官方公众号。OSRC是致力于保障OPPO用户、�
 爱奇艺安全应急响应中心(security.iqiyi.com)，简称71SRC，是爱奇艺致力于保障爱奇艺各业务线的信息安全，促进安全专家的合作交流，而建立的漏洞收集及安全应急响应平台。欢迎提交各类产品和业务线相关安全漏洞。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_004f8c8bb89e" alt="" />
-
----
-
-
-### [小红书安全响应中心](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwNDUwNDU0OA==)
-
-[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwNDUwNDU0OA==)
-
-[:camera_flash:【2026-10-08T18:02:55】](https://mp.weixin.qq.com/s?__biz=MzkwNDUwNDU0OA==&mid=2247484061&idx=1&sn=137ad40b191c65e2daa7cf9e14a212dd&scene=27#wechat_redirect)
-
-小红书安全响应中心官方公众号。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_26ad504e905d" alt="" />
 
 ---
 
@@ -476,6 +463,19 @@ BOSS直聘安全应急响应中心官方公众号
 华住酒店集团安全响应中心（HSRC）
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_20aee3fd791e" alt="" />
+
+---
+
+
+### [小红书安全响应中心](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwNDUwNDU0OA==)
+
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwNDUwNDU0OA==)
+
+[:camera_flash:【2026-10-08T18:02:55】](https://mp.weixin.qq.com/s?__biz=MzkwNDUwNDU0OA==&mid=2247484061&idx=1&sn=137ad40b191c65e2daa7cf9e14a212dd&scene=27#wechat_redirect)
+
+小红书安全响应中心官方公众号。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_26ad504e905d" alt="" />
 
 ---
 

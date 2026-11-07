@@ -1,9 +1,9 @@
 
 ### [蓝军开源情报](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyMjY1MTg1MQ==)
 
-[:chart_with_upwards_trend:【205/216/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyMjY1MTg1MQ==)
+[:chart_with_upwards_trend:【204/216/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyMjY1MTg1MQ==)
 
-[:camera_flash:【2026-11-05T06:30:00】](https://mp.weixin.qq.com/s?__biz=MzkyMjY1MTg1MQ==&mid=2247514923&idx=3&sn=93c406c4bec30502c89bb00349c7ddc8&scene=27#wechat_redirect)
+[:camera_flash:【2026-11-06T06:55:02】](https://mp.weixin.qq.com/s?__biz=MzkyMjY1MTg1MQ==&mid=2247514991&idx=4&sn=a93fb1d87617adf84f19f47b3d20c8cc&scene=27#wechat_redirect)
 
 蓝军开源情报大百科数据库。
 
@@ -14,9 +14,9 @@
 
 ### [知远战略与防务研究所](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NDMxOTQwNw==)
 
-[:chart_with_upwards_trend:【79/79/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NDMxOTQwNw==)
+[:chart_with_upwards_trend:【84/84/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NDMxOTQwNw==)
 
-[:camera_flash:【2026-11-05T12:21:03】](https://mp.weixin.qq.com/s?__biz=MzA3NDMxOTQwNw==&mid=2650083450&idx=6&sn=33df0f731b152a8664bd0cb8ad0a37c3&scene=27#wechat_redirect)
+[:camera_flash:【2026-11-06T11:57:10】](https://mp.weixin.qq.com/s?__biz=MzA3NDMxOTQwNw==&mid=2650083460&idx=3&sn=b0f3d16fef238e73af136196904d3769&scene=27#wechat_redirect)
 
 独立的战略和防务研究机构，立足于防务动态和学术热点的追踪分析，着眼于长远性、战略性问题的深入研究，并为国家有关机构及决策者提供独立、客观的战略与政策建议。
 
@@ -27,9 +27,9 @@
 
 ### [丁爸情报分析师的工具箱](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MTE0NTE3Mw==)
 
-[:chart_with_upwards_trend:【32/43/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MTE0NTE3Mw==)
+[:chart_with_upwards_trend:【32/44/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MTE0NTE3Mw==)
 
-[:camera_flash:【2026-11-04T08:39:45】](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651157954&idx=1&sn=68656032ae78bf6c82871b7bf795437c&scene=27#wechat_redirect)
+[:camera_flash:【2026-11-05T23:56:43】](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651157969&idx=1&sn=3279a5398b09dfceb18ece896fd9f23e&scene=27#wechat_redirect)
 
 每天为大家精选各类情报分析相关的资源、工具、技巧和资讯，努力成为情报分析师必备的工具箱。外挂机器人“小丁丁”还能陪您聊天，给您查航班、查列车、查天气、查酒店、查美食、查股票、回答您的提问等等。
 
@@ -40,9 +40,9 @@
 
 ### [独眼情报](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzNDIzNDUxOQ==)
 
-[:chart_with_upwards_trend:【30/36/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzNDIzNDUxOQ==)
+[:chart_with_upwards_trend:【31/37/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzNDIzNDUxOQ==)
 
-[:camera_flash:【2026-11-05T12:37:08】](https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247510269&idx=1&sn=23f2c829c2821ce47e411c029be1bd8f&scene=27#wechat_redirect)
+[:camera_flash:【2026-11-06T12:29:19】](https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247510286&idx=1&sn=930fe5939430c44a97c9bbbd43a92ce6&scene=27#wechat_redirect)
 
 做最快最有价值的网络安全威胁情报公众号！
 
@@ -55,11 +55,24 @@
 
 [:chart_with_upwards_trend:【25/26/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxOTM1MDQ1NA==)
 
-[:camera_flash:【2026-11-04T23:53:27】](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451189697&idx=1&sn=084d93a6a810448d441bac6d9aaefb83&scene=27#wechat_redirect)
+[:camera_flash:【2026-11-05T23:39:40】](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451189705&idx=1&sn=79a91ac882f3094447799a3dace908ae&scene=27#wechat_redirect)
 
 一介草民，深耕威胁情报领域多年，自封威胁分析师，APT狩猎者，战略忽悠分析师。 专注推送一切前沿高科技/人工智能、网络安全分析、敌我战略分析、数据挖掘、情报扩线、网络武器分析、社会工程学、一切开源情报、军事分析忽悠等。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_68f37a80b8cb" alt="" />
+
+---
+
+
+### [华顺信安威胁情报中心](http://wechat.doonsec.com/wechat_echarts/?biz=MzYzNDgwMTE0NQ==)
+
+[:chart_with_upwards_trend:【0/24/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzYzNDgwMTE0NQ==)
+
+[:camera_flash:【2026-11-06T11:22:20】](https://mp.weixin.qq.com/s?__biz=MzYzNDgwMTE0NQ==&mid=2247485070&idx=1&sn=5894787c8a896a3ec9313e1e7dfb4258&scene=27#wechat_redirect)
+
+华顺信安威胁情报中心，专注企业资产安全与网络威胁情报。实时追踪漏洞、分析攻击面、分享行业资讯，助力企业全面掌控网络安全风险，提升防护能力。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_6b73529d6007" alt="" />
 
 ---
 
@@ -73,19 +86,6 @@
 刘硕教授团队：聚焦情报与安全！关注情报动态，促进情报协作，传播情报文化，优化情报生态，共建情报分析师职业共同体。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e87ab103349e" alt="" />
-
----
-
-
-### [华顺信安威胁情报中心](http://wechat.doonsec.com/wechat_echarts/?biz=MzYzNDgwMTE0NQ==)
-
-[:chart_with_upwards_trend:【0/23/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzYzNDgwMTE0NQ==)
-
-[:camera_flash:【2026-11-05T09:40:46】](https://mp.weixin.qq.com/s?__biz=MzYzNDgwMTE0NQ==&mid=2247485057&idx=1&sn=73ad26a020e77c2188d5f7f229ad9349&scene=27#wechat_redirect)
-
-华顺信安威胁情报中心，专注企业资产安全与网络威胁情报。实时追踪漏洞、分析攻击面、分享行业资讯，助力企业全面掌控网络安全风险，提升防护能力。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_6b73529d6007" alt="" />
 
 ---
 
@@ -118,7 +118,7 @@
 
 ### [滤镜码头](http://wechat.doonsec.com/wechat_echarts/?biz=MzYzMjM3NzQ5Mw==)
 
-[:chart_with_upwards_trend:【17/17/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzYzMjM3NzQ5Mw==)
+[:chart_with_upwards_trend:【16/16/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzYzMjM3NzQ5Mw==)
 
 [:camera_flash:【2026-11-05T19:39:05】](https://mp.weixin.qq.com/s?__biz=MzYzMjM3NzQ5Mw==&mid=2247485287&idx=1&sn=f0301f7c951b335fb43ea36756fa4d8f&scene=27#wechat_redirect)
 
@@ -142,6 +142,19 @@
 ---
 
 
+### [奇安网情局](http://wechat.doonsec.com/wechat_echarts/?biz=MzI4ODQzMzk3MA==)
+
+[:chart_with_upwards_trend:【8/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI4ODQzMzk3MA==)
+
+[:camera_flash:【2026-11-06T11:51:05】](https://mp.weixin.qq.com/s?__biz=MzI4ODQzMzk3MA==&mid=2247494384&idx=1&sn=2a9181f40ea61b38b40de6419dc72479&scene=27#wechat_redirect)
+
+网络国防知识库，产业发展前哨站，开源情报信息源。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_9a7caab4e3cf" alt="" />
+
+---
+
+
 ### [猫头鹰OSINT](http://wechat.doonsec.com/wechat_echarts/?biz=MzYzNjEwMTkyMA==)
 
 [:chart_with_upwards_trend:【8/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzYzNjEwMTkyMA==)
@@ -151,19 +164,6 @@
 关注网络安全，聚焦OSINT分析，提供情报咨询。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_3ae39a38b758" alt="" />
-
----
-
-
-### [奇安网情局](http://wechat.doonsec.com/wechat_echarts/?biz=MzI4ODQzMzk3MA==)
-
-[:chart_with_upwards_trend:【7/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI4ODQzMzk3MA==)
-
-[:camera_flash:【2026-11-05T13:30:28】](https://mp.weixin.qq.com/s?__biz=MzI4ODQzMzk3MA==&mid=2247494360&idx=1&sn=472993ea787e5b43746021615e1ffc01&scene=27#wechat_redirect)
-
-网络国防知识库，产业发展前哨站，开源情报信息源。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_9a7caab4e3cf" alt="" />
 
 ---
 

@@ -1,9 +1,9 @@
 
 ### [安恒信息](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTE0MjQyMg==)
 
-[:chart_with_upwards_trend:【0/51/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTE0MjQyMg==)
+[:chart_with_upwards_trend:【0/52/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTE0MjQyMg==)
 
-[:camera_flash:【2026-11-05T17:45:40】](https://mp.weixin.qq.com/s?__biz=MjM5NTE0MjQyMg==&mid=2650653729&idx=1&sn=e4ff7e3867ec60d06f8400760df89490&scene=27#wechat_redirect)
+[:camera_flash:【2026-11-06T09:05:24】](https://mp.weixin.qq.com/s?__biz=MjM5NTE0MjQyMg==&mid=2650653730&idx=1&sn=8bdedc2b0ce28a9c96e32902c83134f7&scene=27#wechat_redirect)
 
 杭州安恒信息技术股份有限公司（DBAPPSecurity），科创板：688023，全球网络安全创新500强。以自主可控的专利技术，提供Web应用安全、数据库安全、网站安全监测产品与服务、态势感知大数据中心及智慧城市云安全运营整体解决方案。
 
@@ -25,28 +25,28 @@
 ---
 
 
-### [绿盟科技](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYyMTM4MA==)
-
-[:chart_with_upwards_trend:【20/22/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYyMTM4MA==)
-
-[:camera_flash:【2026-11-04T18:37:28】](https://mp.weixin.qq.com/s?__biz=MjM5ODYyMTM4MA==&mid=2650481026&idx=2&sn=1c518d22a69d87e4566317ebec92d840&scene=27#wechat_redirect)
-
-绿盟科技 官方微信
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a6e835eea3e1" alt="" />
-
----
-
-
 ### [苏说安全](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5OTg5OTI1NQ==)
 
-[:chart_with_upwards_trend:【3/22/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5OTg5OTI1NQ==)
+[:chart_with_upwards_trend:【3/23/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5OTg5OTI1NQ==)
 
-[:camera_flash:【2026-11-05T07:00:00】](https://mp.weixin.qq.com/s?__biz=Mzg5OTg5OTI1NQ==&mid=2247495405&idx=1&sn=4c1112aa3b644145a4a97c241b0d3944&scene=27#wechat_redirect)
+[:camera_flash:【2026-11-06T07:00:00】](https://mp.weixin.qq.com/s?__biz=Mzg5OTg5OTI1NQ==&mid=2247495410&idx=1&sn=28cf55b8d643b4acdbc1d7538f57343c&scene=27#wechat_redirect)
 
 安徽网络安全信息化行业资讯分享，面向政府、教育、医疗、金融、企业等行业客户，涉及等保测评、商密评估、软件测试、数据安全、分类分级、风险评估、代码审计、渗透测试、漏洞扫描、攻防护网、培训认证、安全服务等。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_d5b052fbda28" alt="" />
+
+---
+
+
+### [绿盟科技](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYyMTM4MA==)
+
+[:chart_with_upwards_trend:【20/22/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYyMTM4MA==)
+
+[:camera_flash:【2026-11-04T18:37:28】](https://mp.weixin.qq.com/s?__biz=MjM5ODYyMTM4MA==&mid=2650481026&idx=1&sn=90aa83c9484bfa14eb4550a95cf54c02&scene=27#wechat_redirect)
+
+绿盟科技 官方微信
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a6e835eea3e1" alt="" />
 
 ---
 
@@ -116,6 +116,19 @@
 ---
 
 
+### [梆梆安全](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NzE0NTIxMg==)
+
+[:chart_with_upwards_trend:【1/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NzE0NTIxMg==)
+
+[:camera_flash:【2026-11-06T10:23:59】](https://mp.weixin.qq.com/s?__biz=MjM5NzE0NTIxMg==&mid=2651138400&idx=1&sn=4f405cd7716506550aa8813bdfa77567&scene=27#wechat_redirect)
+
+全球软件安全领跑者，运用领先技术提供专业可靠的服务，为全球政府、企业、开发者和消费者打造安全、稳固、可信的安全生态环境。梆梆安全致力于保护您的软件，让每个人都能自由地创造、分享和使用信息。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f1d4da495e4f" alt="" />
+
+---
+
+
 ### [观安信息](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxNDIzNTcxMg==)
 
 [:chart_with_upwards_trend:【0/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxNDIzNTcxMg==)
@@ -155,19 +168,6 @@
 ---
 
 
-### [梆梆安全](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NzE0NTIxMg==)
-
-[:chart_with_upwards_trend:【1/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NzE0NTIxMg==)
-
-[:camera_flash:【2026-11-01T08:00:00】](https://mp.weixin.qq.com/s?__biz=MjM5NzE0NTIxMg==&mid=2651138311&idx=1&sn=630914b78e9fd2a922d33d08f7c93bde&scene=27#wechat_redirect)
-
-全球软件安全领跑者，运用领先技术提供专业可靠的服务，为全球政府、企业、开发者和消费者打造安全、稳固、可信的安全生态环境。梆梆安全致力于保护您的软件，让每个人都能自由地创造、分享和使用信息。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f1d4da495e4f" alt="" />
-
----
-
-
 ### [KCon黑客大会](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzOTAwNzc1OQ==)
 
 [:chart_with_upwards_trend:【9/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzOTAwNzc1OQ==)
@@ -194,6 +194,19 @@ KCon 黑客大会，汇聚黑客的智慧。知道创宇出品，追求干货有
 ---
 
 
+### [启明星辰集团](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NDQ0MzkzMA==)
+
+[:chart_with_upwards_trend:【0/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NDQ0MzkzMA==)
+
+[:camera_flash:【2026-11-05T23:15:32】](https://mp.weixin.qq.com/s?__biz=MzA3NDQ0MzkzMA==&mid=2651740197&idx=1&sn=ab350bc85c13e36cb2f2ec1afb8644b9&scene=27#wechat_redirect)
+
+启明星辰官方微信。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_afd8ec87971a" alt="" />
+
+---
+
+
 ### [网御星云](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NDUzMjc5Ng==)
 
 [:chart_with_upwards_trend:【0/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NDUzMjc5Ng==)
@@ -216,19 +229,6 @@ KCon 黑客大会，汇聚黑客的智慧。知道创宇出品，追求干货有
 让网络更简单、智能、安全
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_5ed70c726e70" alt="" />
-
----
-
-
-### [启明星辰集团](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NDQ0MzkzMA==)
-
-[:chart_with_upwards_trend:【0/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NDQ0MzkzMA==)
-
-[:camera_flash:【2026-11-02T18:56:29】](https://mp.weixin.qq.com/s?__biz=MzA3NDQ0MzkzMA==&mid=2651740137&idx=1&sn=b71e7a313c20957e4702905bff641cb2&scene=27#wechat_redirect)
-
-启明星辰官方微信。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_afd8ec87971a" alt="" />
 
 ---
 
@@ -532,6 +532,19 @@ KCon 黑客大会，汇聚黑客的智慧。知道创宇出品，追求干货有
 ---
 
 
+### [永信至诚](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNDUyMjk4MQ==)
+
+[:chart_with_upwards_trend:【2/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNDUyMjk4MQ==)
+
+[:camera_flash:【2026-11-06T12:26:05】](https://mp.weixin.qq.com/s?__biz=MzAwNDUyMjk4MQ==&mid=2454836768&idx=1&sn=df18eefc69f7238f3d29e87f79abcafb&scene=27#wechat_redirect)
+
+永信至诚（股票代码：688244），是聚焦科技创新的网络与数据安全企业，数字安全测试评估赛道领跑者、网络靶场和人才建设领军者、AI原生安全倡导者，致力于为数字中国和网络强国建设提供安全保障和人才支撑，保障政企用户数字健康，带给世界安全感。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_bd309c1d6cb9" alt="" />
+
+---
+
+
 ### [四叶草安全](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5MTI2NDQzNg==)
 
 [:chart_with_upwards_trend:【1/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5MTI2NDQzNg==)
@@ -610,6 +623,19 @@ Imperva是一家全球公认领先的应用数据安全及云安全供应商，�
 ---
 
 
+### [美创资讯](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NDE0NDUyNA==)
+
+[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NDE0NDUyNA==)
+
+[:camera_flash:【2026-11-06T08:00:00】](https://mp.weixin.qq.com/s?__biz=MzA3NDE0NDUyNA==&mid=2650823483&idx=1&sn=98e355d340c6772948845ba363255ea3&scene=27#wechat_redirect)
+
+美创科技，专注数据安全领域近20年，以数据为中心，围绕数据安全、运行安全、安全运维服务三大业务，为政企用户提供专业领先的产品、服务与解决方案。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e721af2686d0" alt="" />
+
+---
+
+
 ### [任子行](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0NjAyMjU4MA==)
 
 [:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0NjAyMjU4MA==)
@@ -645,19 +671,6 @@ Imperva是一家全球公认领先的应用数据安全及云安全供应商，�
 山石网科与您分享最新的网络安全新闻、业内动态、产品知识、技术探析、解决方案等等信息。欢迎交流，欢迎互动。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_d68e27cabf6a" alt="" />
-
----
-
-
-### [永信至诚](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNDUyMjk4MQ==)
-
-[:chart_with_upwards_trend:【1/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNDUyMjk4MQ==)
-
-[:camera_flash:【2026-11-02T13:16:00】](https://mp.weixin.qq.com/s?__biz=MzAwNDUyMjk4MQ==&mid=2454836732&idx=1&sn=47a5a2e19303a876dcc36bc7e09138bf&scene=27#wechat_redirect)
-
-永信至诚（股票代码：688244），是聚焦科技创新的网络与数据安全企业，数字安全测试评估赛道领跑者、网络靶场和人才建设领军者、AI原生安全倡导者，致力于为数字中国和网络强国建设提供安全保障和人才支撑，保障政企用户数字健康，带给世界安全感。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_bd309c1d6cb9" alt="" />
 
 ---
 
@@ -723,19 +736,6 @@ Imperva是一家全球公认领先的应用数据安全及云安全供应商，�
 合合信息成立于2006年，是一家以人工智能及商业大数据技术为核心的高新技术公司，为全球银行、保险、证券、物流、制造等30多个行业提供智能解决方案。旗下C端产品名片全能王、扫描全能王、启信宝全球下载量超过23亿。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ddf146673aa0" alt="" />
-
----
-
-
-### [美创资讯](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NDE0NDUyNA==)
-
-[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NDE0NDUyNA==)
-
-[:camera_flash:【2026-11-04T08:00:00】](https://mp.weixin.qq.com/s?__biz=MzA3NDE0NDUyNA==&mid=2650823391&idx=1&sn=c4a5b22164647ede435b85b9a3821a1c&scene=27#wechat_redirect)
-
-美创科技，专注数据安全领域近20年，以数据为中心，围绕数据安全、运行安全、安全运维服务三大业务，为政企用户提供专业领先的产品、服务与解决方案。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e721af2686d0" alt="" />
 
 ---
 
